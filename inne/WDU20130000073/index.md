@@ -8,9 +8,12 @@ pos: 73
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 stycznia 2013 r.
+# o zmianie ustawy o ochronie przyrody oraz ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+
+*USTAWA z dnia 7 grudnia 2012 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000073) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/73/text.pdf) |
 
-Poz. 73
-USTAWA z dnia 7 grudnia 2012 r.
-o zmianie ustawy o ochronie przyrody oraz ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
-
 **Art. 1.** W ustawie z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2009 r. Nr 151, poz. 1220, z późn. zm. ) w art. 15 w ust. 1 pkt 16 otrzymuje brzmienie: „16) wprowadzania psów na obszary objęte ochroną ścisłą i czynną, z wyjątkiem miejsc wyznaczonych w planie ochrony, psów pasterskich wprowadzanych na obszary objęte ochroną czynną, na których plan ochrony albo zadania ochronne dopuszczają wypas oraz psów asystujących w rozumieniu art. 2 pkt 11 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. )”.
 
 **Art. 2.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) w art. 20a ust. 1 otrzymuje brzmienie: „1. Osoba niepełnosprawna wraz z psem asystującym ma prawo wstępu:
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

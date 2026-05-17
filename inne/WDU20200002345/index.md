@@ -8,9 +8,10 @@ pos: 2345
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 grudnia 2020 r.
+# z dnia 10 grudnia 2020 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +25,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200002345) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/2345/text.pdf) |
 
-USTAWA z dnia 10 grudnia 2020 r.
 o zmianie ustawy o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2020 r. poz. 1398, 1492, 1493, 1578, 1875 i 2112) wprowadza się następujące zmiany:

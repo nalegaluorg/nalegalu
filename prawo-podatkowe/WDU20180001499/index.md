@@ -8,9 +8,12 @@ pos: 1499
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 sierpnia 2018 r.
+# o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+
+*USTAWA z dnia 5 lipca 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +27,70 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1499/text.pdf) |
 
-USTAWA dnia 5 lipca 2018 r.
-o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2018 r. poz. 800, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 2018 r. poz. 800, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2018 r. poz. 1360 i 1467) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 2018 r. poz. 1360 1467) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2018 r. poz. 1314 i 1356) art. 81:
 
-**Art. 3.** W ustawie dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. 2018 r. poz. 1314 1356) w art. 81:
+**Art. 4.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm. ) art. 62b dodaje się ust. 5 brzmieniu: „5. Przepisów ust. 2 pkt 1 i 3–6 nie stosuje się, jeżeli rachunek odbiorcy jest prowadzony przez instytucję kredytową lub bank zagraniczny, które nie działają na terytorium Rzeczypospolitej Polskiej formie oddziału.”.
 
-**Art. 4.** W ustawie dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 2017 r. poz. 1876, późn. zm. ) w art. 62b dodaje się ust. 5 w brzmieniu: „5. Przepisów ust. 2 pkt 1 3–6 nie stosuje się, jeżeli rachunek odbiorcy jest prowadzony przez instytucję kredytową lub bank zagraniczny, które nie działają na terytorium Rzeczypospolitej Polskiej w formie oddziału.”.
+**Art. 5.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2017 r. poz. 1221 i 2491 oraz z 2018 r. poz. 62, 86 i 650) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 11 marca 2004 r. o podatku od towarów usług (Dz. U. 2017 r. poz. 1221 2491 oraz 2018 r. poz. 62, 86 650) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2017 r. poz. 2065, z późn. zm. ) art. 16 ust. 4 wyrazy „3 miesiące” zastępuje się wyrazami „6 miesięcy”.
 
-**Art. 6.** W ustawie dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. 2017 r. poz. 2065, późn. zm. ) w art. 16 w ust. 4 wyrazy „3 miesiące” zastępuje się wyrazami „6 miesięcy”.
+**Art. 7.** W ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2018 r. poz. 508, 650, 723, 1000 i 1039) art. 148 ust. 1 pkt 1 po lit. c dodaje się lit. ca brzmieniu: „ca) kontroli, o której mowa art. 119zzf § 1 Ordynacji podatkowej,”.
 
-**Art. 7.** W ustawie dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. 2018 r. poz. 508, 1000 1039) w art. 148 w ust. 1 w pkt 1 po lit. c dodaje się lit. ca w brzmieniu: „ca) kontroli, o której mowa w art. 119zzf § 1 Ordynacji podatkowej,”.
+**Art. 8.** W ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. poz. 648 oraz z 2018 r. poz. 723) po art. 99 dodaje się art. 99a brzmieniu: „Art. 99a. 1. Obowiązek przekazania informacji o rachunkach raportowanych za rok 2017 obejmuje rachunki posiadane przez osoby z państw uczestniczących, o których mowa art. 24 ust. 1 pkt 25 lit. b i c, objętych obowiązkiem raportowania i wpisanych na uzupełniającą listę państw uczestniczących ogłaszaną za rok 2017 obwieszczeniu, o którym mowa ust. 3. 2. Informacje, o których mowa ust. 1, raportująca instytucja finansowa, o której mowa art. 24 ust. 1 pkt 44, przekazuje do dnia 31 sierpnia 2018 r. 3. Minister właściwy do spraw finansów publicznych ogłasza, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, uzupełniającą listę państw uczestniczących, o których mowa art. 24 ust. 1 pkt 25 lit. b i c, innych niż wpisane na listę ogłoszoną na podstawie art. 99 ust. 3, objętych i nieobjętych obowiązkiem raportowania za rok 2017.”.
 
-**Art. 8.** W ustawie dnia 9 marca 2017 r. o wymianie informacji podatkowych innymi państwami (Dz. U. poz. 648 oraz 2018 r. poz. 723) po art. 99 dodaje się art. 99a w brzmieniu: „Art. 99a. 1. Obowiązek przekazania informacji o rachunkach raportowanych za rok 2017 obejmuje rachunki posiadane przez osoby państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b c, objętych obowiązkiem raportowania wpisanych na uzupełniającą listę państw uczestniczących ogłaszaną za rok 2017 w obwieszczeniu, o którym mowa w ust. 3. 2. Informacje, o których mowa w ust. 1, raportująca instytucja finansowa, o której mowa w art. 24 ust. 1 pkt 44, przekazuje do dnia 31 sierpnia 2018 r. 3. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, uzupełniającą listę państw uczestniczących, o których mowa w art. 24 ust. 1 pkt 25 lit. b c, innych niż wpisane na listę ogłoszoną na podstawie art. 99 ust. 3, objętych nieobjętych obowiązkiem raportowania za rok 2017.”.
+**Art. 9.** W ustawie z dnia 15 grudnia 2017 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. z 2018 r. poz. 62 i 1075) art. 9 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 brzmieniu: „2. W przypadku otrzymania po dniu 30 czerwca 2018 r. przez podatnika innego niż wskazany na fakturze, o której mowa art. 108a ust. 3 pkt 3 ustawy zmienianej art. 1, na rachunek VAT płatności wynikającej z faktury wystawionej przed dniem wejścia życie niniejszej ustawy, przepisu art. 108a ust. 5 ustawy zmienianej art. 1 nie stosuje się, jeżeli podatnik ten dokonał płatności na rachunek dostawcy lub usługodawcy wskazanych na tej fakturze przed dniem 1 lipca 2018 r.”.
 
-**Art. 9.** W ustawie dnia 15 grudnia 2017 r. o zmianie ustawy o podatku od towarów usług oraz niektórych innych ustaw (Dz. U. 2018 r. poz. 62 1075) w art. 9 dotychczasową treść oznacza się jako ust. 1 dodaje się ust. 2 w brzmieniu: „2. W przypadku otrzymania po dniu 30 czerwca 2018 r. przez podatnika innego niż wskazany na fakturze, o której mowa w art. 108a ust. 3 pkt 3 ustawy zmienianej w art. 1, na rachunek VAT płatności wynikającej faktury wystawionej przed dniem wejścia w życie niniejszej ustawy, przepisu art. 108a ust. 5 ustawy zmienianej w art. 1 nie stosuje się, jeżeli podatnik ten dokonał płatności na rachunek dostawcy lub usługodawcy wskazanych na tej fakturze przed dniem 1 lipca 2018 r.”.
-
-**Art. 10.** W ustawie dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723 1075) wprowadza się następujące zmiany:
+**Art. 10.** W ustawie z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. poz. 723 i 1075) wprowadza się następujące zmiany:
 
 **Art. 11.**
 
-1. Przekazywanie informacji, o których mowa w art. 119zp § 1 pkt 1 ustawy zmienianej w art. 1, dotyczących rachunków VAT, o których mowa w art. 119zg pkt 5 lit. d ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą, zwanych dalej „rachunkami VAT”, rozpoczyna się nie później niż dniem 31 sierpnia 2018 r.
+1. Przekazywanie informacji, o których mowa art. 119zp § 1 pkt 1 ustawy zmienianej art. 1, dotyczących rachunków VAT, o których mowa art. 119zg pkt 5 lit. d ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, zwanych dalej „rachunkami VAT”, rozpoczyna się nie później niż z dniem 31 sierpnia 2018 r.
 
-2. Pierwsze przekazanie informacji na podstawie ust. 1 obejmuje informacje o rachunkach VAT otwartych przed dniem, o którym mowa w art. 19 pkt 1, prowadzonych na ten dzień oraz o rachunkach VAT otwartych od dnia, o którym mowa w art. 19 pkt 1, do dnia poprzedzającego dzień przekazania informacji, według stanu na dzień poprzedzający dzień przekazania informacji, chyba że zostały wcześniej przekazane.
+2. Pierwsze przekazanie informacji na podstawie ust. 1 obejmuje informacje o rachunkach VAT otwartych przed dniem, o którym mowa art. 19 pkt 1, i prowadzonych na ten dzień oraz o rachunkach VAT otwartych od dnia, o którym mowa art. 19 pkt 1, do dnia poprzedzającego dzień przekazania informacji, według stanu na dzień poprzedzający dzień przekazania informacji, chyba że zostały wcześniej przekazane.
 
-3. Przekazywanie zestawień, o których mowa w art. 119zp § 1 pkt 2 ustawy zmienianej w art. 1, dotyczących rachunków VAT rozpoczyna się nie później niż dniem:
+3. Przekazywanie zestawień, o których mowa art. 119zp § 1 pkt 2 ustawy zmienianej art. 1, dotyczących rachunków VAT rozpoczyna się nie później niż z dniem:
 
-- **1)** 31 sierpnia 2018 r. w przypadku banków w rozumieniu art. 119zg pkt 1 ustawy zmienianej w art. 1, wyjątkiem banków spółdzielczych;
-- **2)** 30 września 2018 r. w przypadku banków spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych.
+- **1)** 31 sierpnia 2018 r. – przypadku banków rozumieniu art. 119zg pkt 1 ustawy zmienianej art. 1, z wyjątkiem banków spółdzielczych;
+- **2)** 30 września 2018 r. – przypadku banków spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych.
 
-4. Pierwsze przekazanie zestawień transakcji dotyczących rachunków VAT otwartych przed dniem, o którym mowa w art. 19 pkt 1, prowadzonych na ten dzień oraz o rachunkach VAT otwartych od dnia, o którym mowa w art. 19 pkt 1, do dnia poprzedzającego dzień przekazania zestawienia obejmuje dane uzyskane od dnia, o którym mowa w art. 19 pkt 1, do dnia poprzedzającego dzień ich przekazania, chyba że zostały wcześniej przekazane.
+4. Pierwsze przekazanie zestawień transakcji dotyczących rachunków VAT otwartych przed dniem, o którym mowa art. 19 pkt 1, i prowadzonych na ten dzień oraz o rachunkach VAT otwartych od dnia, o którym mowa art. 19 pkt 1, do dnia poprzedzającego dzień przekazania zestawienia obejmuje dane uzyskane od dnia, o którym mowa art. 19 pkt 1, do dnia poprzedzającego dzień ich przekazania, chyba że zostały wcześniej przekazane.
 
 **Art. 12.**
 
-1. W przypadku banków spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych przekazywanie informacji, o których mowa w art. 119zp § 1 pkt 1 ustawy zmienianej w art. 1, dotyczących rachunków lokaty terminowej podmiotu kwalifikowanego rozpoczyna się nie później niż dniem 1 stycznia 2020 r.
+1. Przekazywanie informacji, o których mowa art. 119zp § 1 pkt 1 ustawy zmienianej art. 1, dotyczących rachunków lokaty terminowej podmiotu kwalifikowanego rozpoczyna się nie później niż z dniem:
 
-2. Przekazywanie zestawień, o których mowa w art. 119zp § 1 pkt 2 ustawy zmienianej w art. 1, dotyczących rachunków lokaty terminowej podmiotu kwalifikowanego rozpoczyna się nie później niż dniem:
+- **1)** 1 lipca 2019 r. – przypadku banków rozumieniu art. 119zg pkt 1 ustawy zmienianej art. 1, z wyjątkiem banków spółdzielczych;
+- **2)** 1 stycznia 2020 r. – przypadku banków spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych.
 
-- **1)** 1 sierpnia 2019 r. w przypadku banków w rozumieniu art. 119zg pkt 1 ustawy zmienianej w art. 1, wyjątkiem banków spółdzielczych;
-- **2)** 1 stycznia 2020 r. w przypadku banków spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych.
+2. Przekazywanie zestawień, o których mowa art. 119zp § 1 pkt 2 ustawy zmienianej art. 1, dotyczących rachunków lokaty terminowej podmiotu kwalifikowanego rozpoczyna się nie później niż z dniem:
 
-3. Przekazywanie informacji zestawień, o których mowa w ust. 1 2, obejmuje rachunki lokaty terminowej podmiotu kwalifikowanego otwarte przed dniem 1 lipca 2019 r., jeżeli są prowadzone na dzień poprzedzający dzień przekazania danych.
+- **1)** 1 sierpnia 2019 r. – przypadku banków rozumieniu art. 119zg pkt 1 ustawy zmienianej art. 1, z wyjątkiem banków spółdzielczych;
+- **2)** 1 stycznia 2020 r. – przypadku banków spółdzielczych oraz spółdzielczych kas oszczędnościowo-kredytowych.
+
+3. Przekazywanie informacji i zestawień, o których mowa ust. 1 i 2, obejmuje rachunki lokaty terminowej podmiotu kwalifikowanego otwarte przed dniem 1 maja 2019 r. , jeżeli są prowadzone na dzień poprzedzający dzień przekazania danych.
 
 **Art. 13.**
 
-1. Banki spółdzielcze oraz spółdzielcze kasy oszczędnościowo-kredytowe rozpoczynają przekazywanie danych, o których mowa w art. 119zr § 2 pkt 3‒5 oraz § 3 pkt 7 8 ustawy zmienianej w art. 1, od dnia 1 stycznia 2020 r.
+1. Banki spółdzielcze oraz spółdzielcze kasy oszczędnościowo-kredytowe rozpoczynają przekazywanie danych, o których mowa art. 119zr § 2 pkt 3‒5 oraz § 3 pkt 7 i 8 ustawy zmienianej art. 1, od dnia 1 stycznia 2020 r.
 
-2. Banki spółdzielcze oraz spółdzielcze kasy oszczędnościowo-kredytowe stosują przepisy art. 119zv § 4b‒4d ustawy zmienianej w art. 1 od dnia 1 stycznia 2020 r.
+2. Banki spółdzielcze oraz spółdzielcze kasy oszczędnościowo-kredytowe stosują przepisy art. 119zv § 4b‒4d ustawy zmienianej art. 1 od dnia 1 stycznia 2020 r.
 
 **Art. 14.** Do dnia:
 
-**Art. 15.** Do postępowań w sprawach blokady rachunku podmiotu kwalifikowanego, wszczętych niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+**Art. 15.** Do postępowań sprawach blokady rachunku podmiotu kwalifikowanego, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1, brzmieniu dotychczasowym.
 
-**Art. 16.** Do dnia 31 grudnia 2018 r. przy ustalaniu opłaty, o której mowa w art. 119zo § 10 ustawy zmienianej w art. 1, nie uwzględnia się rachunków podmiotów kwalifikowanych będących rachunkami VAT.
+**Art. 16.** Do dnia 31 grudnia 2018 r. przy ustalaniu opłaty, o której mowa art. 119zo § 10 ustawy zmienianej art. 1, nie uwzględnia się rachunków podmiotów kwalifikowanych będących rachunkami VAT.
 
-**Art. 17.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 148 ust. 2 ustawy zmienianej w art. 7 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 148 ust. 2 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia w życie niniejszej ustawy, mogą być zmieniane.
+**Art. 16a.** Do dnia 31 grudnia 2019 r. przy ustalaniu opłaty, o której mowa art. 119zo § 10 ustawy zmienianej art. 1, nie uwzględnia się rachunków lokaty terminowej podmiotu kwalifikowanego.
 
-**Art. 18.** Do żądania, o którym mowa w art. 119zw § 4 ustawy zmienianej w art. 1, oraz do postanowienia, o którym mowa w art. 119zw § 5 ustawy zmienianej w art. 1, przepisy art. 119zv § 4b–4d ustawy zmienianej w art. 1 stosuje się od dnia 1 lipca 2019 r.
+**Art. 17.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 148 ust. 2 ustawy zmienianej art. 7 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 148 ust. 2 ustawy zmienianej art. 7, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy, i mogą być zmieniane.
 
-**Art. 19.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
+**Art. 18.** Do żądania, o którym mowa art. 119zw § 4 ustawy zmienianej art. 1, oraz do postanowienia, o którym mowa art. 119zw § 5 ustawy zmienianej art. 1, przepisy art. 119zv § 4b–4d ustawy zmienianej art. 1 stosuje się od dnia 1 lipca 2019 r.
+
+**Art. 19.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

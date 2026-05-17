@@ -8,9 +8,12 @@ pos: 1367
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 7 września 2007 r. o zasadach nabywania od Skarbu Państwa akcji w procesie konsolidacji spółek sektora elektroenergetycznego
+# zasadach nabywania od Skarbu Państwa akcji procesie konsolidacji spółek sektora elektroenergetycznego
+
+*USTAWA z dnia 7 września 2007 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,61 +27,73 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071911367) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1367/text.pdf) |
 
-**Art. 1.** Ustawa reguluje zasady nabywania przez uprawnionych pracowników lub ich spadkobierców posiadanych przez uprawnionych akcjonariuszy lub prawa ekwiwalentu związku procesem konsolidacji sektora elektroenergetycznego.
+**Art. 1.** Ustawa reguluje zasady nieodpłatnego nabywania akcji przez uprawnionych pracowników lub ich spadkobierców oraz zamiany akcji posiadanych przez uprawnionych akcjonariuszy lub zamiany prawa ekwiwalentu związku z procesem konsolidacji spółek sektora elektroenergetycznego.
 
-**Art. 2.** Ilekroć ustawie jest o:
+**Art. 2.** Ilekroć ustawie jest mowa o:
 
 **Art. 3.**
 
-1. W przypadku wniesienia przez Skarb Państwa na pokrycie kapitału zakładowego konsolidującej uprawnieni pracownicy, miejsce prawa nabycia konsolidowanej, mogą skorzystać zprawa konsolidującej.
+1. W przypadku wniesienia przez Skarb Państwa akcji spółki konsolidowanej na pokrycie kapitału zakładowego spółki konsolidującej uprawnieni pracownicy, miejsce prawa nieodpłatnego nabycia akcji spółki konsolidowanej, mogą skorzystać z prawa nieodpłatnego nabycia akcji spółki konsolidującej.
 
-2. W przypadku wniesienia przez Skarb Państwa wszystkich na pokrycie kapitału zakładowego konsolidującej będącej jednoosobową spółką Skarbu Państwa uprawnieni pracownicy, miejsce prawa ekwiwalentu, mogą ) są uprawnione od Skarbu Państwa konsolidowanej,
+2. W przypadku wniesienia przez Skarb Państwa wszystkich akcji spółki konsolidowanej na pokrycie kapitału zakładowego spółki konsolidującej będącej jednoosobową spółką Skarbu Państwa uprawnieni pracownicy, miejsce prawa ekwiwalentu, mogą skorzystać z prawa nieodpłatnego nabycia akcji spółki konsolidującej.
 
-- **b)** osoby, które jako uprawnieni pracownicy, rozumieniu ustawy zdnia 30 sierpnia 1996 okomercjalizacji iprywatyzacji, przed dniem wejścia wżycie niniejszej ustawy nabyły od Skarbu Państwa akcje konsolidowanych lub prawo konsolidowanych lub nabyły prawo ekwiwalentu;
-- **4)** uprawnionych akcjonariuszach rozumie się przez to akcjonariuszy konsolidowanej, którzy jako uprawnieni pracownicy, rozumieniu ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji lub jako spadkobiercy takich osób, nabyli przed dniem wejścia życie ustawy akcje nieodpłatnie od Skarbu Państwa, jak również pozostałych akcjonariuszy konsolidowanej, którzy nabyli akcje zbyte przez takie osoby;
-- **5)** prawie ekwiwalentu rozumie się przez to ekwiwalent prawa akcji, o którym art. 38b ust. 2 ustawy 30sierpnia 1996 okomercjalizacji iprywatyzacji. skorzystać prawa konsolidującej.
+3. Suma akcji spółki konsolidującej udostępnionych uprawnionym pracownikom spółek konsolidowanych ich spadkobiercom oraz uprawnionym akcjonariuszom, na zasadach określonych ustawie, nie może przekroczyć 15%
 
-3. Suma konsolidującej udostępnionych uprawnionym pracownikom konsolidowanych lub uprawnionym akcjonariuszom, na zasadach określonych ust. 1 art. 5 ust. 1, nie może przekroczyć 15 % należących Skarbu Państwa tej spółce, na pokrycie kapitału zakładowego której zostały wniesione akcje konsolidowanych.
-
-4. Suma konsolidującej, októrej wust. 2, udostępnionych uprawnionym pracownikom konsolidowanej, na zasadach określonych ust. 2 art. 6, nie może przekroczyć 15 % objętych przez Skarb Państwa współce konsolidującej zamian za wniesione akcje konsolidowanej.
+4. Suma akcji spółki konsolidującej, której mowa ust. 2, udostępnionych uprawnionym pracownikom spółki konsolidowanej, na zasadach określonych ust. 2 oraz art. 6, nie może przekroczyć 15% akcji objętych przez Skarb Państwa spółce konsolidującej zamian za wniesione akcje spółki konsolidowanej.
 
 **Art. 4.**
 
-1. Prawo konsolidującej powstaje po upływie sześciu miesięcy od powstania prawa wygasa upływem dwunastu miesięcy od jego powstania. W przypadku, gdy prawo zostało nabyte przez uprawnionego pracownika lub jego spadkobiercę przed dniem wejścia wżycie ustawy iprawo to wtym terminie nie wygasło, bieg terminu, o którym zdaniu poprzednim rozpoczyna się po upływie sześciu miesięcy od wejścia ustawy życie.
+1. Prawo nieodpłatnego nabycia akcji spółki konsolidującej powstaje po upływie sześciu miesięcy od dnia powstania prawa nieodpłatnego nabycia akcji spółki konsolidowanej wygasa z upływem dwunastu miesięcy od dnia jego powstania.
 
-2. Uprawnieni pracownicy lub ich spadkobiercy mogą skorzystać prawa konsolidującej oile złożą pisemne oświadczenia o zamiarze tej spółki. Termin ——————— składania oświadczeń ozamiarze naby4. Prawo przez spadkobierców może być zrealizowane o ile wniosek ostwierdzenie spadku został złożony nie póêniej niż wygaśnięcia prawa, o którym ust. 1.
+2. Uprawnieni pracownicy mogą skorzystać z prawa nieodpłatnego nabycia akcji spółki konsolidującej, ile złożą pisemne oświadczenie zamiarze nabycia akcji tej spółki. Termin składania oświadczeń zamiarze nieodpłatnego nabycia akcji spółki konsolidującej rozpoczyna się dniu powstania prawa nieodpłatnego nabycia akcji spółki konsolidowanej kończy się z upływem trzech miesięcy od dnia jego rozpoczęcia. Niezłożenie oświadczenia powyższym terminie powoduje utratę prawa nieodpłatnego nabycia akcji spółki konsolidującej. Do złożenia oświadczenia zamiarze nieodpłatnego nabycia akcji przez spadkobiercę uprawnionego pracownika nie jest wymagane przedstawienie postanowienia sądu stwierdzeniu nabycia spadku albo zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza.
 
-5. Do udostępniania konsolidującej mają zastosowanie przepisy działu IV rozdziału 2 wyłączeniem przepisów art. 38 ust. 1—4, ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji.
+3. W przypadku śmierci uprawnionego pracownika termin na zrealizowanie przez jego spadkobierców prawa nieodpłatnego nabycia akcji spółki konsolidującej nie rozpoczyna biegu, a rozpoczęty ulega przerwaniu czasu uzyskania prawomocnego postanowienia sądu stwierdzeniu nabycia spadku, albo przypadku przedstawienia zarejestrowanego aktu poświadczenia dziedziczenia sporządzonego przez notariusza ulega przedłużeniu miesiąc. W razie przerwania biegu terminu, termin ten biegnie na nowo od dnia uprawomocnienia się postanowienia sądu stwierdzeniu nabycia spadku.
 
-6. Do udostępniania mają zastosowanie przepisy działu IV rozdziału 2, zwyłączeniem przepisów art. 38 ust. 3 i4, ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji.
+4. Prawo nieodpłatnego nabycia akcji przez spadkobierców może być zrealizowane, ile wniosek stwierdzenie nabycia spadku został złożony nie później niż dniu, którym upłynął termin wygaśnięcia prawa, którym mowa
+
+5. Do nieodpłatnego udostępniania akcji spółki konsolidującej mają zastosowanie przepisy działu IV, z wyłączeniem przepisów art. 38 ust. 1 2–4 oraz art. 38c ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników.
+
+6. Do nieodpłatnego udostępniania akcji spółki konsolidowanej mają zastosowanie przepisy działu IV ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników, z tym że zamiany akcji spółki konsolidowanej na akcje spółki konsolidującej nie mają zastosowania przepisy art. 38 ust. 3 4 tej ustawy.
 
 **Art. 5.**
 
-1. Uprawnieni akcjonariusze mogą skorzystać prawa posiadanych konsolidowanej na akcje konsolidującej, oile złożą pisemne oświadczenie o zamiarze dokonania takiej zamiany.
+1. Uprawnieni pracownicy spółek konsolidowanych oraz uprawnieni akcjonariusze mogą skorzystać z prawa zamiany posiadanych akcji spółki konsolidowanej na akcje spółki konsolidującej, ile złożą pisemne oświadczenie zamiarze dokonania zamiany wszystkich posiadanych akcji. Przepis art. 38c ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników stosuje się odpowiednio.
 
-2. Art. 4 ust. 2 3 stosuje się odpowiednio zamiany przez uprawnionych akcjonariuszy, tym że bieg terminu na składanie oświadczeń rozpoczyna się po upływie sześciu miesięcy od wejścia wżycie ustawy.
+2. Art. 4 ust. 2 3 stosuje się odpowiednio zamiany akcji przez uprawnionych akcjonariuszy, z tym że bieg terminu na składanie oświadczeń rozpoczyna się po upływie sześciu miesięcy od dnia wejścia życie ustawy.
 
-3. Prawo zamiany, októrym wust. 1, powstaje po upływie dwunastu miesięcy od wejścia wżycie ustawy iwygasa zupływem dwunastu miesięcy od powstania.
+3. Prawo zamiany, którym mowa ust. 1, powstaje po upływie dwunastu miesięcy od dnia wejścia życie ustawy wygasa z upływem dwunastu miesięcy od dnia powstania.
 
-4. Do zamiany, októrej wust. 1, nie stosuje się przepisów art. 38 ust. 2—4 ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji.
+4. Do zamiany, której mowa ust. 1, nie stosuje się przepisów art. 38 ust. 2–4 ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników.
 
-**Art. 6.** tyczne (Dz. U. 89, 625, zpóên. zm. 1. Uprawnieni pracownicy lub ich spadkobiercy, którzy nabyli prawo ekwiwalentu przed dniem wejścia wżycie ustawy, mogą skorzystać zprawa tego prawa na prawo nieodpłatnego konsolidującej, oile wterminie dwóch miesięcy od wejścia życie niniejszej ustawy złożą pisemne oświadczenie o zamiarze dokonania tej zamiany. Niezłożenie oświadczenia wpowyższym terminie powoduje utratę prawa zamiany. 2. Prawo konsolidującej powstaje po upływie trzech miesięcy od zbycia przez Skarb Państwa pierwszych ).
+**Art. 5a.** W sprawach roszczeń przeciwko Skarbowi Państwa związanych z zamianą akcji na podstawie ustawy Skarb Państwa jest reprezentowany przez ministra właściwego spraw aktywów państwowych.
+
+**Art. 6.**
+
+1. Uprawnieni pracownicy, którzy nabyli prawo ekwiwalentu, mogą skorzystać z prawa zamiany tego prawa na prawo nieodpłatnego nabycia akcji spółki konsolidującej, ile złożą pisemne oświadczenie zamiarze upływem trzech miesięcy od dnia jego rozpoczęcia. Niezłożenie oświadczenia powyższym terminie powoduje utratę prawa zamiany.
+
+2. Prawo nieodpłatnego nabycia akcji spółki konsolidującej powstaje po upływie trzech miesięcy od dnia zbycia przez Skarb Państwa pierwszych akcji spółki konsolidującej na zasadach ogólnych wygasa z upływem dwunastu miesięcy od dnia powstania tego prawa. Jeżeli zbycie akcji Skarbu Państwa na zasadach ogólnych nastąpiło okresie, którym mowa ust. 1, prawo nieodpłatnego nabycia akcji powstaje po trzech miesiącach od upływu terminu na złożenie oświadczenia, którym mowa ust. 1.
+
+**Art. 7.** Rada Ministrów określi, drodze rozporządzenia:
 
 **Art. 8.**
 
-1. Minister właściwy spraw Skarbu Państwa określi, drodze rozporządzenia, sposób określenia liczby konsolidującej przeznaczonych przez uprawnionych pracowników lub przez uprawnionych akcjonariuszy drodze konsolidowanej, której akcje zostały wniesione na pokrycie kapitału zakładowego konsolidującej, tryb nabywania przez uprawnionych pracowników tryb dokonywania na akcje konsolidującej, mając na uwadze równe traktowanie uprawnionych pracowników uprawnionych akcjonariuszy, wartość konsolidowanych konsolidujących konieczność zapewnienia zgodnie interesem uprawnionych pracowników uprawnionych akcjonariuszy organizacji czynności związanych zudostępnianiem izamianą akcji.
+1. Minister właściwy spraw aktywów państwowych określi, drodze rozporządzenia, sposób określenia liczby akcji spółki konsolidującej przeznaczonych nieodpłatnego nabycia przez uprawnionych pracowników spółki konsolidowanej lub nabycia przez uprawnionych akcjonariuszy drodze zamiany akcji spółki konsolidowanej, której akcje zostały wniesione na pokrycie kapitału zakładowego spółki konsolidującej, tryb nabywania akcji przez uprawnionych pracowników oraz tryb dokonywania zamiany akcji spółki konsolidowanej na akcje spółki konsolidującej, mając na uwadze równe traktowanie uprawnionych pracowników uprawnionych akcjonariuszy, wartość akcji spółek konsolidowanych konsolidujących oraz konieczność zapewnienia zgodnie z interesem uprawnionych pracowników uprawnionych akcjonariuszy organizacji czynności związanych z udostępnianiem zamianą akcji.
 
-2. W przypadku zamiany, o której art. 6, uprawnieni pracownicy lub ich spadkobiercy otrzymają akcje konsolidującej o wartości równej przyznanej kwocie ekwiwalentu prawa akcji, ustalonej na podstawie wyceny, októrej art. 9.
+2. W przypadku zamiany, której mowa art. 6, uprawnieni pracownicy spółki konsolidowanej lub ich spadkobiercy otrzymają akcje spółki konsolidującej
 
-**Art. 9.** Wartość konsolidowanych ikonsolidujących zostanie określona według następujących zasad:
+**Art. 9.** Wartość akcji spółek konsolidowanych konsolidujących zostanie określona według następujących zasad:
 
 **Art. 10.**
 
-1. Do zbywania przez Skarb Państwa konsolidujących objętych zamian za aport postaci konsolidowanych ograniczenia wynikającego zart. 336 § 1 i2 ustawy zdnia 15 września 2000 Kodeks handlowych (Dz. U. Nr94, 1037, póên. zm. ) nie stosuje się. ——————— niniejszej ustawie, stają się akcjonariuszami Polskie Sieci Elektroenergetyczne spółka akcyjna siedzibą Warszawie wyniku połączenia PGE-Energia spółka akcyjna siedzibą Warszawie BOT Górnictwo Energetyka spółka akcyjna siedzibą wĘodzi ze spółką Polskie Sieci Elektroenergetyczne spółka akcyjna siedzibą Warszawie, trybie art.492 § 1 pkt 1 ustawy 15 września 2000 Kodeks handlowych, przez przeniesienie całego majątku PGE-Energia spółka akcyjna siedzibą Warszawie BOT Górnictwo Energetyka spółka akcyjna zsiedzibą wĘodzi na spółkę Polskie Sieci Elektroenergetyczne spółka akcyjna zsiedzibą wWarszawie.
+1. Do zbywania przez Skarb Państwa akcji spółek konsolidujących objętych zamian za aport postaci akcji spółek konsolidowanych ograniczenia wynikającego z art. 336 § 1 2 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych nie stosuje się.
 
-**Art. 12.** W ustawie 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2000 stwa procesie konsolidacji sektora elektroenergetycznego (Dz. U. 191,
+2. Akcje spółek konsolidujących nabyte przez uprawnionych pracowników lub ich spadkobierców na podstawie art. 4 nie mogą być przedmiotem obrotu przed upływem dwóch lat od dnia wejścia życie ustawy.
 
-**Art. 13.** Ustawa wchodzi wżycie po upływie 30 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— 1368 USTAWA 7 września 2007 o zmianie ustawy o emeryturach rentach Funduszu Ubezpieczeń Społecznych
+**Art. 11.**
 
-**Art. 1.** W ustawie 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2004 39, 353, póên. zm.
+1. Akcjonariusze spółek PGE-Energia spółka akcyjna z siedzibą Lublinie oraz PGE Górnictwo Energetyka spółka akcyjna z siedzibą Łodzi, którzy nabyli akcje tych spółek na zasadach określonych niniejszej ustawie, stają się akcjonariuszami spółki PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą Lublinie wyniku połączenia spółki PGE-Energia spółka akcyjna z siedzibą Lublinie oraz PGE Górnictwo Energetyka spółka akcyjna z siedzibą Łodzi ze spółką PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą Lublinie, trybie art. 492 § 1 pkt 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych, przez przeniesienie całego majątku spółek PGE-Energia spółka akcyjna z siedzibą Lublinie oraz PGE Górnictwo Energetyka spółka akcyjna z siedzibą Łodzi na spółkę PGE Polska Grupa Energetyczna spółka akcyjna z siedzibą Lublinie. określonych art. 38c ustawy z dnia 30 sierpnia 1996 r. komercjalizacji niektórych uprawnieniach pracowników.
+
+**Art. 12.** (pominięty)
+
+**Art. 13.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
 

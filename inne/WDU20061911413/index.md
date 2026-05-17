@@ -8,9 +8,12 @@ pos: 1413
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 22 września 2006 r. o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
+# o zmianie ustawy o kontroli skarbowej oraz o zmianie niektórych innych ustaw
+
+*USTAWA z dnia 22 września 2006 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061911413) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1413/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 28 września 1991 okontroli skarbowej (Dz. U. 2004 8, 65, póên. zm. ) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 10 września 1999 Kodeks karny skarbowy (Dz. U. 83, 930, póên. zm. ) 16a otrzymuje brzmienie: 16a. Nie podlega karze za przestępstwo skarbowe wykroczenie skarbowe, kto złożył prawnie skuteczną, rozumieniu przepisów Ordynacja podatkowa zdnia 28 września 1991 okontroli skarbowej (Dz. U. 2004 8, 65, póên. zm. ), korektę deklaracji podatkowej wraz uzasadnieniem przyczyny korekty całości uiścił, niezwłocznie terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną narażoną na uszczuplenie.”. możliwości wykonywania przez prokuraturę, sądy, organy kontroli skarbowej, a także uprawnione jednostki podległe Ministrowi Sprawiedliwości, Ministrowi Obrony Narodowej, ministrowi właściwemu do spraw wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego Szefowi Centralnego Biura Antykorupcyjnego ich zadań określonych odrębnymi przepisami, począwszy od dnia rozpoczęcia działalności pocztowej. Na wniosek zainteresowanego operatora Prezes UKE może odroczyć termin rozpoczęcia wykonywania powyższego obowiązku.”;
+**Art. 2.** W ustawie z dnia 10 września 1999 r. – Kodeks karny skarbowy (Dz. U. Nr 83, poz. 930, z późn. zm. ) art. 16a otrzymuje brzmienie: skarbowe, kto złożył prawnie skuteczną, rozumieniu przepisów ustawy - Ordynacja podatkowa lub ustawy z dnia 28 września 1991 r. o kontroli skarbowej (Dz. U. z 2004 r. Nr 8, poz. 65, z późn. zm. ), korektę deklaracji podatkowej wraz z uzasadnieniem przyczyny korekty i całości uiścił, niezwłocznie lub terminie wyznaczonym przez uprawniony organ, należność publicznoprawną uszczuploną lub narażoną na uszczuplenie.”.
 
-**Art. 4.** Postępowania kontrolne wsprawach, októrych 2 pkt 16 wymienionej 1, wszczęte przed dniem wejścia życie niniejszej prowadzi według przepisów dotychczasowych.
+**Art. 3.** W ustawie z dnia 12 czerwca 2003 r. – Prawo pocztowe (Dz. U. Nr 130, poz. 1188, z późn. zm. ) art. 41:
 
-**Art. 5.** Ustawa wchodzi życie upływie 21 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1414 USTAWA dnia 22 września 2006 zmianie Prawo ustroju sądów wojskowych oraz służbie wojskowej żołnierzy zawodowych
+**Art. 4.** Postępowania kontrolne sprawach, o których mowa art. 2 ust. 1 pkt 16 ustawy wymienionej art. 1, wszczęte przed dniem wejścia życie niniejszej ustawy prowadzi się według przepisów dotychczasowych.
+
+**Art. 5.** Ustawa wchodzi życie po upływie 21 dni od dnia ogłoszenia.
 

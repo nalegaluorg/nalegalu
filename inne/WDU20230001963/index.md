@@ -8,9 +8,12 @@ pos: 1963
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 września 2023 r.
+# o rewitalizacji rzeki Odry
+
+*USTAWA z dnia 13 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001963) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1963/text.pdf) |
 
-USTAWA z dnia 13 lipca 2023 r.
-o rewitalizacji rzeki Odry
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
@@ -39,13 +39,13 @@ o rewitalizacji rzeki Odry
 
 2. Przepisu ust. 1 nie stosuje się zakresie, jakim środki finansowe na dofinansowanie lub finansowanie inwestycji dla Odry wymienionych ust. 1 zostały zapewnione ze środków Unii Europejskiej lub międzynarodowych instytucji finansowych.
 
-3. Do dotacji, o których mowa ust. 1, stosuje się przepisy ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890 i 1963) oraz przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+3. Do dotacji, o których mowa ust. 1, stosuje się przepisy ustawy z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890 i 1963) oraz przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
 
 **Art. 4.**
 
 1. Do inwestycji dla Odry stosuje się przepisy ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych (Dz. U. z 2021 r. poz. 1812 oraz z 2023 r. poz. 1890) dotyczące inwestycji, o których mowa art. 1 pkt 1 tej ustawy, z wyjątkiem art. 25 ust. 1 tej ustawy.
 
-2. Decyzję, o której mowa art. 4 ust. 1 ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych, sprawie inwestycji dla Odry wydaje się terminie nie dłuższym niż miesiąc od dnia złożenia wniosku o wydanie pozwolenia na realizację inwestycji, a sprawach szczególnie skomplikowanych terminie nie dłuższym niż 45 dni od dnia złożenia wniosku. Decyzja podlega natychmiastowemu wykonaniu.
+2. Decyzję, o której mowa art. 4 ust. 1 ustawy z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji zakresie budowli przeciwpowodziowych, sprawie inwestycji dla Odry wydaje się terminie nie dłuższym niż miesiąc od dnia złożenia wniosku o wydanie pozwolenia na realizację inwestycji, a sprawach szczególnie skomplikowanych – terminie nie dłuższym niż 45 dni od dnia złożenia wniosku. Decyzja podlega natychmiastowemu wykonaniu.
 
 3. Do terminów, o których mowa ust. 2, nie wlicza się terminów przewidzianych przepisach prawa na dokonanie określonych czynności, okresów doręczania z wykorzystaniem publicznej usługi hybrydowej rozumieniu art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285 i 1860), okresu zawieszenia postępowania, okresu trwania mediacji oraz okresu opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
@@ -53,34 +53,35 @@ o rewitalizacji rzeki Odry
 
 1. Inwestycjami zakresie gospodarki wodno-ściekowej są następujące inwestycje:
 
-- **1)** budowa, rozbudowa lub modernizacja oczyszczalni ścieków aglomeracjach rozumieniu art. 86 ust. 3 pkt 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, zwanych dalej „aglomeracjami”, które zostały wymienione załączniku nr 1 do ustawy;
+- **1)** budowa, rozbudowa lub modernizacja oczyszczalni ścieków aglomeracjach rozumieniu art. 86 ust. 3 pkt 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, zwanych dalej „aglomeracjami”, które zostały wymienione załączniku nr 1 do ustawy;
 - **2)** budowa lub modernizacja sieci kanalizacyjnej aglomeracjach, które zostały wymienione załączniku nr 2 do ustawy.
 
-2. Spośród inwestycji ujętych sporządzonym na podstawie art. 88 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne krajowym programie oczyszczania ścieków komunalnych pierwszeństwo uzyskiwaniu dofinansowania ze środków finansowych wskazanych tym programie mają inwestycje zakresie gospodarki wodno-ściekowej na obszarze tych aglomeracji, które nie spełniają warunków, o których mowa art. 87a ustawy z dnia 20 lipca 2017 r. Prawo wodne.
+2. Spośród inwestycji ujętych sporządzonym na podstawie art. 88 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne krajowym programie oczyszczania ścieków komunalnych pierwszeństwo uzyskiwaniu dofinansowania ze środków finansowych wskazanych tym programie mają inwestycje zakresie gospodarki wodno-ściekowej na obszarze tych aglomeracji, które nie spełniają warunków, o których mowa art. 87a ustawy z dnia 20 lipca 2017 r. – Prawo wodne.
 
-- **1)** pozwolenie na budowę terminie nie dłuższym niż miesiąc od dnia złożenia wniosku, a sprawach szczególnie skomplikowanych terminie nie dłuższym niż 45 dni od dnia złożenia wniosku;
-- **2)** pozwolenie na użytkowanie terminie nie dłuższym niż miesiąc od dnia złożenia wniosku, a sprawach szczególnie skomplikowanych terminie nie dłuższym niż 45 dni od dnia złożenia wniosku;
-- **3)** decyzje o środowiskowych uwarunkowaniach terminie nie dłuższym niż 45 dni od dnia złożenia wniosku, a sprawach szczególnie skomplikowanych terminie nie dłuższym niż 60 dni od dnia złożenia wniosku.
+3. Dla inwestycji zakresie gospodarki wodno-ściekowej wydaje się:
+
+- **1)** pozwolenie na budowę terminie nie dłuższym niż miesiąc od dnia złożenia wniosku, a sprawach szczególnie skomplikowanych – terminie nie dłuższym niż 45 dni od dnia złożenia wniosku;
+- **2)** pozwolenie na użytkowanie terminie nie dłuższym niż miesiąc od dnia złożenia wniosku, a sprawach szczególnie skomplikowanych – terminie nie dłuższym niż 45 dni od dnia złożenia wniosku;
 
 4. Do terminów, o których mowa ust. 3, nie wlicza się terminów przewidzianych przepisach prawa na dokonanie określonych czynności, okresów doręczania z wykorzystaniem publicznej usługi hybrydowej rozumieniu art. 2 pkt 7 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, okresów zawieszenia postępowania, okresu trwania mediacji oraz okresów opóźnień spowodowanych z winy strony albo z przyczyn niezależnych od organu.
 
-5. Przepisy ust. 3 i 4 stosuje się także do inwestycji polegających na budowie, rozbudowie lub przebudowie instalacji lub urządzeń do oczyszczania lub podczyszczania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, celu utworzenia systemu oczyszczania lub podczyszczania ścieków zasolonych, o którym mowa art. 16 pkt 50a ustawy z dnia 20 lipca 2017 r. Prawo wodne, a także do inwestycji mających na celu budowę, przebudowę lub rozbudowę systemu retencyjno-dozującego, o którym mowa art. 16 pkt 50b tej ustawy.
+5. Przepisy ust. 3 i 4 stosuje się także do inwestycji polegających na budowie, rozbudowie lub przebudowie instalacji lub urządzeń do oczyszczania lub podczyszczania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, celu utworzenia systemu oczyszczania lub podczyszczania ścieków zasolonych, o którym mowa art. 16 pkt 50a ustawy z dnia 20 lipca 2017 r. – Prawo wodne, a także do inwestycji mających na celu budowę, przebudowę lub rozbudowę systemu retencyjno-dozującego, o którym mowa art. 16 pkt 50b tej ustawy.
 
 **Art. 6.** W przypadku uzyskania informacji o wystąpieniu zagrożenia lub zdarzenia mogących spowodować zmianę jakości wody na ujęciu wody wykorzystywanej do zaopatrzenia ludności wodę przeznaczoną do spożycia przez ludzi lub na obszarze zasilania ujęcia wody, właściwe miejscowo wojewódzkie centrum zarządzania kryzysowego niezwłocznie powiadamia o wystąpieniu tego zagrożenia lub zdarzenia, ich ustaniu, a także o istotnych okolicznościach ich dotyczących:
 
-**Art. 7.** Państwowe Gospodarstwo Wodne Wody Polskie spośród działań określonych przepisach wydanych na podstawie art. 321 ustawy z dnia 20 lipca 2017 r. Prawo wodne zakresie planu gospodarowania wodami na obszarze dorzecza Odry przyjętego 2022 r. pierwszej kolejności wykonuje działania planistyczne dotyczące:
+**Art. 7.** Państwowe Gospodarstwo Wodne Wody Polskie spośród działań określonych przepisach wydanych na podstawie art. 321 ustawy z dnia 20 lipca 2017 r. – Prawo wodne zakresie planu gospodarowania wodami na obszarze dorzecza Odry przyjętego 2022 r. pierwszej kolejności wykonuje działania planistyczne dotyczące:
 
 #### Rozdział 2 Zmiany przepisach
 
-**Art. 8.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ) art. 29 ust. 2 po pkt 18 dodaje się pkt 18a brzmieniu: „18a) urządzeń pomiarowych wielkości przepływu wód i jakości wód zakresie przewodności elektrolitycznej właściwej i temperatury umożliwiających szacowanie sumarycznego stężenia chlorków i siarczanów;”.
+**Art. 8.** W ustawie z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ) art. 29 ust. 2 po pkt 18 dodaje się pkt 18a brzmieniu: „18a) urządzeń pomiarowych wielkości przepływu wód i jakości wód zakresie przewodności elektrolitycznej właściwej i temperatury umożliwiających szacowanie sumarycznego stężenia chlorków i siarczanów;”.
 
-**Art. 9.** W ustawie z dnia 6 czerwca 1997 r. ‒ Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ) art. 115 § 13 pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 brzmieniu: „10) inspektor Inspekcji Wodnej.”. wprowadza się następujące zmiany:
+**Art. 9.** W ustawie z dnia 6 czerwca 1997 r. ‒ Kodeks karny (Dz. U. z 2022 r. poz. 1138, z późn. zm. ) art. 115 § 13 pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 brzmieniu: „10) inspektor Inspekcji Wodnej.”.
 
-**Art. 11.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124) art. 96 po § 1ad dodaje się § 1ae brzmieniu: „§ 1ae. W postępowaniu mandatowym, sprawach o czyny określone art. 476 ust. 1 i 2, art. 477 pkt 4–8 i 12 oraz art. 478 pkt 2, 6, 7, 9, 10 i 12–16 ustawy z dnia 20 lipca 2017 r. ‒ Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890 i 1963) można nałożyć grzywnę wysokości od 1000 zł do 7500 zł.”.
+**Art. 11.** W ustawie z dnia 24 sierpnia 2001 r. – Kodeks postępowania sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124) art. 96 po § 1ad dodaje się § 1ae brzmieniu: „§ 1ae. W postępowaniu mandatowym, sprawach o czyny określone art. 476 ust. 1 i 2, art. 477 pkt 4–8 i 12 oraz art. 478 pkt 2, 6, 7, 9, 10 i 12–16 ustawy z dnia 20 lipca 2017 r. ‒ Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688, 1890 i 1963) można nałożyć grzywnę wysokości od 1000 zł do 7500 zł.”.
 
 **Art. 12.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547, 1053, 1088 i 1489) art. 2 ust. 1 pkt 21 kropkę zastępuje się średnikiem i dodaje się pkt 22 brzmieniu: „22) inspektorzy regionalnej inspekcji wodnej.”.
 
-**Art. 13.** W ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688 i 1890) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie z dnia 20 lipca 2017 r. – Prawo wodne (Dz. U. z 2023 r. poz. 1478, 1688 i 1890) wprowadza się następujące zmiany:
 
 **Art. 194a.**
 
@@ -94,7 +95,7 @@ o rewitalizacji rzeki Odry
 
 - **1)** planowanej lokalizacji inwestycji na nieruchomościach osób trzecich, uwzględniając potrzebę stosowania proporcjonalnych ograniczeń praw i wolności osób trzecich, a szczególności przebiegu inwestycji liniowej po najkrótszej drodze od odbiornika wód pochodzących z odwodnienia zakładów górniczych do zakładu górniczego lub zbiornika retencyjnego, którym są przetrzymywane te wody, chyba że ten przebieg powodowałby większą ingerencję prawa i wolności osób trzecich, a także z uwzględnieniem uwarunkowań przyrodniczych i terenowych;
 - **2)** zakładanego efektu realizacji inwestycji dla środowiska wodnego, uwzględniając potrzebę zapewnienia retencjonowania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, podczas obowiązywania na obszarze, na którym zlokalizowano odbiorniki ścieków, ostrzeżeń przed suszą hydrologiczną celu okresowego, trwającego przez co najmniej 5 następujących po sobie dni wstrzymania wprowadzania tych ścieków do wód lub ziemi;
-- **3)** potrzeby zwiększenia efektywności działania systemu lub pozytywnego wpływu na środowisko planowanych zmian przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego.
+- **3)** potrzeby zwiększenia efektywności działania systemu lub pozytywnego wpływu na środowisko planowanych zmian – przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego.
 
 2. Do wniosku, o którym mowa ust. 1, załącza się:
 
@@ -104,7 +105,7 @@ o rewitalizacji rzeki Odry
     - **b)** ilości ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, odprowadzanych systemem retencyjno-dozującym,
     - **c)** maksymalnej ilości ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, wprowadzanych do wód lub ziemi, określonej pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym;
 
-- **3)** przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego opis zakładanego zwiększenia efektywności działania tego systemu lub opis pozytywnego wpływu planowanych zmian na środowisko.
+- **3)** przypadku rozbudowy lub przebudowy systemu retencyjno-dozującego – opis zakładanego zwiększenia efektywności działania tego systemu lub opis pozytywnego wpływu planowanych zmian na środowisko.
 
 3. Opinię, o której mowa ust. 1, inwestor załącza do:
 
@@ -152,33 +153,33 @@ o rewitalizacji rzeki Odry
 
 - **1)** poboru próbek wody i ścieków do badań wykonywanych przez inspektora akredytowanego rozumieniu przepisów ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2022 r. poz. 1854);
 - **2)** nakładania grzywny drodze mandatu karnego za wykroczenia określone niniejszej ustawie oraz ustawie z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym;
-- **3)** kontrolowania dokumentów uprawniających do połowu ryb osób dokonujących połowu, a przypadku podejrzenia popełnienia wykroczenia zatrzymywania tych dokumentów za pokwitowaniem, z tym że dokumenty te wraz z wnioskiem o ukaranie przekazuje się do sądu terminie 7 dni od dnia ich zatrzymania;
+- **3)** kontrolowania dokumentów uprawniających do połowu ryb osób dokonujących połowu, a przypadku podejrzenia popełnienia wykroczenia – zatrzymywania tych dokumentów za pokwitowaniem, z tym że dokumenty te wraz z wnioskiem o ukaranie przekazuje się do sądu terminie 7 dni od dnia ich zatrzymania;
 - **4)** kontrolowania liczby, masy i gatunków odłowionych ryb oraz kontrolowania przedmiotów służących do ich połowu;
-- **5)** zabezpieczania porzuconych ryb i przedmiotów służących do ich połowu przypadku niemożności ustalenia ich posiadacza;
+- **5)** zabezpieczania porzuconych ryb i przedmiotów służących do ich połowu – przypadku niemożności ustalenia ich posiadacza;
 - **6)** żądania wyjaśnień i wykonywania czynności niezbędnych do przeprowadzenia kontroli, szczególności zakresie niezbędnym do ustalenia:
     - **a)** maksymalnej technicznej wydajności instalacji lub urządzeń służących do wprowadzania ścieków do wód lub ziemi przez podmiot wprowadzający ścieki do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego,
     - **b)** rodzaju ścieków wprowadzanych do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego;
 
 - **7)** legitymowania świadków przestępstwa lub wykroczenia celu ustalenia ich tożsamości;
-- **8)** żądania niezbędnej pomocy od instytucji państwowych, a także zwracania się o taką pomoc do jednostek gospodarczych, organizacji społecznych, a nagłych przypadkach zwracania się do każdego obywatela o udzielenie doraźnej pomocy na zasadach określonych przepisach o Policji określających szczegółowe zasady żądania takiej pomocy;
+- **8)** żądania niezbędnej pomocy od instytucji państwowych, a także zwracania się o taką pomoc do jednostek gospodarczych, organizacji społecznych, a nagłych przypadkach – zwracania się do każdego obywatela o udzielenie doraźnej pomocy na zasadach określonych przepisach o Policji określających szczegółowe zasady żądania takiej pomocy;
 - **9)** dokonywania czynności wyjaśniających postępowaniach sprawach o wykroczenia, które zostały określone przepisach niniejszej ustawy i ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym, sporządzania wniosków o ukaranie do sądu sprawach o wykroczenia, udziału charakterze oskarżyciela publicznego oraz wnoszenia środków zaskarżenia od rozstrzygnięć zapadłych tych sprawach;
 - **10)** wstępu i wjazdu na tereny:
-    - **a)** lasów, zakładów przemysłowych, ośrodków turystyczno-wypoczynkowych, gospodarstw rolnych zakresie niezbędnym do prowadzenia kontroli na wodach przyległych do tych terenów,
+    - **a)** lasów, zakładów przemysłowych, ośrodków turystyczno-wypoczynkowych, gospodarstw rolnych – zakresie niezbędnym do prowadzenia kontroli na wodach przyległych do tych terenów,
     - **b)** elektrowni, młynów i tartaków wodnych, z wyjątkiem terenów i obiektów sił zbrojnych, Straży Granicznej i Policji oraz innych terenów i obiektów, których szczególne przeznaczenie stanowi informacje niejawne o klauzuli tajności „tajne” lub „ściśle tajne”.
 
 4. Inspektor regionalnej inspekcji wodnej przypadku uzasadnionego podejrzenia popełnienia przestępstwa lub wykroczenia jest również uprawniony do:
 
 - **1)** legitymowania osób podejrzanych celu ustalenia ich tożsamości;
-- **2)** odebrania za pokwitowaniem ryb i przedmiotów służących do ich połowu, z tym że ryby należy przekazać za pokwitowaniem uprawnionemu do rybactwa, a przedmioty zabezpieczyć;
+- **2)** odebrania za pokwitowaniem ryb i przedmiotów służących do ich połowu, z tym że ryby należy przekazać za pokwitowaniem uprawnionemu do rybactwa, a przedmioty – zabezpieczyć;
 - **3)** ujęcia osoby, udaremnienia jej ucieczki lub pościgu za tą osobą celem niezwłocznego przekazania jej Policji.
 
-5. Wstęp na tereny zamknięte, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne, następuje za zgodą i pod nadzorem podmiotu zarządzającego tym terenem.
+5. Wstęp na tereny zamknięte, o których mowa art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne, następuje za zgodą i pod nadzorem podmiotu zarządzającego tym terenem.
 
 6. Z czynności, o których mowa ust. 3 pkt 1, 3, 6 i 8, sporządza się protokół.
 
 7. Do wykonywania przez inspektora regionalnej inspekcji wodnej czynności, o których mowa ust. 3 pkt 2–10 i ust. 4, stosuje się odpowiednio przepisy o Policji.
 
-8. Inspektorzy regionalnej inspekcji wodnej związku z pełnieniem obowiązków służbowych korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych przepisach ustawy z dnia 6 czerwca 1997 r. Kodeks karny. być wyposażeni broń palną na zasadach i trybie przepisów ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535, 803, 1030 i 1532).
+8. Inspektorzy regionalnej inspekcji wodnej związku z pełnieniem obowiązków służbowych korzystają z ochrony przewidzianej dla funkcjonariuszy publicznych na zasadach określonych przepisach ustawy z dnia 6 czerwca 1997 r. – Kodeks karny. z 2022 r. poz. 2516 oraz z 2023 r. poz. 535, 803, 1030 i 1532).
 
 2. Minister właściwy do spraw gospodarki wodnej porozumieniu z ministrem właściwym do spraw wewnętrznych określi, drodze rozporządzenia, szczegółowe zasady i warunki posiadania, przechowywania i ewidencjonowania broni palnej oraz amunicji do niej, oraz środków przymusu bezpośredniego, mając na względzie konieczność uniemożliwienia dostępu do broni, amunicji i środków przymusu bezpośredniego osobom trzecim oraz potrzebę ochrony ewidencji przed uszkodzeniem, zniszczeniem lub utratą.
 
@@ -226,12 +227,12 @@ o rewitalizacji rzeki Odry
     - **b)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Opłatę za pobór wód do celów, o których mowa ust. 2 pkt 4, ponosi się wyłącznie za ilość energii cieplnej wyprodukowanej lub pobranej przez instalacje z wykorzystaniem wody, która została pobrana, wykorzystana, a następnie odprowadzona do wód lub tej samej warstwy wodonośnej tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury, oraz za pobraną bezzwrotnie wodę technologiczną nieprzeznaczoną wprost do celów ogrzewania lub chłodzenia.”,
     - **c)** ust. 9 otrzymuje brzmienie: „9. Wysokość opłaty za wprowadzanie ścieków do wód lub ziemi zależy od rodzaju substancji zawartych ściekach i ich ilości, rodzaju ścieków, a przypadku:
 
-- **1)** wód z obiegów chłodzących elektrowni lub elektrociepłowni od temperatury tych wód;
-- **2)** ścieków przemysłowych lub wody pochodzące z odwodnienia zakładów górniczych, zawierających chlorki i siarczany także od ilości ścieków lub wód oczyszczonych lub podczyszczonych systemie oczyszczania lub podczyszczania ścieków zasolonych, odprowadzanych z zakładu, zastosowania zakładzie systemu retencyjno-dozującego lub innego systemu pozwalającego uzyskać ten sam efekt, co system retencyjno-dozujący.”,
+- **1)** wód z obiegów chłodzących elektrowni lub elektrociepłowni – od temperatury tych wód;
+- **2)** ścieków przemysłowych lub wody pochodzące z odwodnienia zakładów górniczych, zawierających chlorki i siarczany – także od ilości ścieków lub wód oczyszczonych lub podczyszczonych systemie oczyszczania lub podczyszczania ścieków zasolonych, odprowadzanych z zakładu, zastosowania zakładzie systemu retencyjno-dozującego lub innego systemu pozwalającego uzyskać ten sam efekt, co system retencyjno-dozujący.”,
     - **d)** ust. 12 otrzymuje brzmienie: „12. Opłatę za usługi wodne za wprowadzanie do wód lub ziemi wód z obiegów chłodzących elektrowni lub elektrociepłowni, a także z pomp ciepła i akumulatorów ciepła warstwy wodonośnej, które pobierają wodę, wykorzystują, a następnie odprowadzają do wód lub tej samej warstwy wodonośnej tej samej ilości i niepogorszonej jakości, z wyjątkiem zmiany jej temperatury, ponosi się wyłącznie formie opłaty zmiennej.”;
 
 - **16)** art. 271:
-    - **a)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Na potrzeby ustalenia wysokości opłaty stałej za odprowadzanie do wód wód opadowych lub roztopowych ujętych otwarte lub zamknięte systemy kanalizacji deszczowej, za czas ich wprowadzania uznaje się średnią roczną liczbę zrzutów wód opadowych lub roztopowych ustaloną pozwoleniu wodnoprawnym z przelewów kanalizacji deszczowej.”,
+    - **a)** po ust. 4 dodaje się ust. 4a brzmieniu: „4a. Na potrzeby ustalenia wysokości opłaty stałej za odprowadzanie do wód – wód opadowych lub roztopowych ujętych otwarte lub zamknięte systemy kanalizacji deszczowej, za czas ich wprowadzania uznaje się średnią roczną liczbę zrzutów wód opadowych lub roztopowych ustaloną pozwoleniu wodnoprawnym z przelewów kanalizacji deszczowej.”,
     - **b)** ust. 5 dodaje się zdanie drugie brzmieniu: „Na potrzeby ustalenia wysokości opłaty stałej za wprowadzanie ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej do wód, za czas wprowadzania tych ścieków do wód uznaje się, ustaloną pozwoleniu wodnoprawnym, średnią roczną liczbę zrzutów z przelewów burzowych komunalnej kanalizacji ogólnospławnej.”;
 
 - **17)** art. 272:
@@ -249,7 +250,7 @@ o rewitalizacji rzeki Odry
 - **1)** pięciodobowego biochemicznego zapotrzebowania tlenu (BZT ),
 - **2)** chemicznego zapotrzebowania tlenu,
 - **3)** zawiesiny ogólnej,
-- **4)** sumy chlorków i siarczanów (Cl+SO ) ustala się, przyjmując najwyższe dopuszczalne wartości substancji zanieczyszczających dla danego rodzaju ścieków, określone przepisach wydanych na podstawie art. 99 ust. 1.
+- **4)** sumy chlorków i siarczanów (Cl+SO ) – ustala się, przyjmując najwyższe dopuszczalne wartości substancji zanieczyszczających dla danego rodzaju ścieków, określone przepisach wydanych na podstawie art. 99 ust. 1.
 
 6d. W przypadku wprowadzania do wód ścieków z przelewów burzowych komunalnej kanalizacji ogólnospławnej zakresie ustalonym pozwoleniu wodnoprawnym albo pozwoleniu zintegrowanym opłatę zmienną za wprowadzenie do wód ścieków z tych przelewów ustala się za każdy przelew wysokości stanowiącej równowartość 10% ustalonej opłaty zmiennej, o której mowa ust. 6, należnej za okres rozliczeniowy, którym doszło do uruchomienia przelewu burzowego.”,
 
@@ -278,12 +279,12 @@ o rewitalizacji rzeki Odry
     - **d)** datę obowiązywania pozwolenia wodnoprawnego.”;
 
 - **18)** art. 274:
-    - **a)** pkt 3 lit. c średnik zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) do celów, o których mowa art. 270 ust. 2 pkt 4 1,00 zł za 1 MWh energii cieplnej wyprodukowanej lub pobranej przez instalacje oraz 0,80 zł za pobór bezzwrotny 1 m wody technologicznej nieprzeznaczonej wprost do produkcji lub poboru energii cieplnej;”,
-    - **b)** pkt 8 lit. d otrzymuje brzmienie: „d) sumy chlorków i siarczanów (Cl+SO ): 0,10 zł dla zakładów odprowadzających ścieki o zwiększonym zasoleniu, 0,05 zł dla pozostałych ścieków;”,
+    - **a)** pkt 3 lit. c średnik zastępuje się przecinkiem i dodaje się lit. d brzmieniu: „d) do celów, o których mowa art. 270 ust. 2 pkt 4 – 1,00 zł za 1 MWh energii cieplnej wyprodukowanej lub pobranej przez instalacje oraz 0,80 zł za pobór bezzwrotny 1 m wody technologicznej nieprzeznaczonej wprost do produkcji lub poboru energii cieplnej;”,
+    - **b)** pkt 8 lit. d otrzymuje brzmienie: „d) sumy chlorków i siarczanów (Cl+SO ): – 0,10 zł – dla zakładów odprowadzających ścieki o zwiększonym zasoleniu, – 0,05 zł – dla pozostałych ścieków;”,
     - **c)** po pkt 10 dodaje się pkt 10a brzmieniu: „10a) za wprowadzanie do wód podziemnych 1 m wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej:
-    - **a)** 0,68 zł jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +26°C, a nie przekracza +32°C,
-    - **b)** 1,36 zł jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +32°C, a nie przekracza +35°C,
-    - **c)** 4,24 zł jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +35°C;”;
+    - **a)** 0,68 zł – jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +26°C, a nie przekracza +32°C,
+    - **b)** 1,36 zł – jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +32°C, a nie przekracza +35°C,
+    - **c)** 4,24 zł – jeżeli temperatura wprowadzanych wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej jest wyższa niż +35°C;”;
     - **a)** ust. 2 pkt 2 lit. d kropkę zastępuje się przecinkiem i dodaje się lit. e i f brzmieniu: „e) korzystania z systemu retencyjno-dozującego o określonej pojemności lub innego systemu pozwalającego uzyskać ten sam efekt co system retencyjno-dozujący,
     - **f)** oczyszczania lub podczyszczania ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany systemie oczyszczania lub podczyszczania ścieków zasolonych.”,
     - **b)** dodaje się ust. 3 i 4 brzmieniu: „3. Współczynnik różnicujący jednostkową stawkę opłaty za usługę wodną zakresie, o którym mowa ust. 2 pkt 2 lit. e, dla systemu retencyjno-dozującego o pojemności pozwalającej wstrzymać wprowadzanie do wód ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany, przez co najmniej:
@@ -293,15 +294,15 @@ o rewitalizacji rzeki Odry
 
 4. Współczynnik różnicujący jednostkową stawkę opłaty za usługę wodną zakresie, o którym mowa ust. 2 pkt 2 lit. f, wynosi 0,35.”;
 
-- **20)** art. 279 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) do wód wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej, jeżeli ich temperatura nie przekracza +26°C;”;
+- **20)** art. 279 po pkt 2 dodaje się pkt 2a brzmieniu: „2a) do wód – wód pochodzących z pompy ciepła lub akumulatora ciepła warstwy wodonośnej, jeżeli ich temperatura nie przekracza +26°C;”;
 - **21)** art. 280 uchyla się pkt 1;
 - **22)** uchyla się art. 281;
 - **23)** użyte art. 299 ust. 3 pkt 2 i ust. 4 wyrazy „opłat podwyższonych, o których mowa art. 280 pkt 1 lit. b oraz pkt 2 lit. b” zastępuje się wyrazami „opłaty podwyższonej, o której mowa art. 280 pkt 2 lit. b”;
 - **24)** art. 303 ust. 2 otrzymuje brzmienie: „2. Podmioty korzystające z usług wodnych, wprowadzające ścieki do wód lub ziemi, zapewniają pobieranie próbek przez akredytowane laboratoria, o których mowa przepisach ustawy z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku, oraz dokonują badania jakości ścieków tych laboratoriach.”;
-- **25)** art. 335 ust. 1 pkt 1 otrzymuje brzmienie: „1) Inspekcja Wodna imieniu Wód Polskich zakresie określonym art. 334 pkt 1–7 oraz 9–13,”;
+- **25)** art. 335 ust. 1 pkt 1 otrzymuje brzmienie: „1) Inspekcja Wodna imieniu Wód Polskich – zakresie określonym art. 334 pkt 1–7 oraz 9–13,”;
 - **26)** art. 387:
     - **a)** po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Państwowa służba hydrologiczno-meteorologiczna opracowuje i przekazuje zakładom odprowadzającym ścieki o zwiększonym zasoleniu ostrzeżenia przed suszą hydrologiczną dla obszaru lokalizacji zrzutu chlorków i siarczanów dokonywanego przez zakład, a także prognozy hydrologiczne dotyczące suszy hydrologicznej, jeżeli posiada takie informacje.”,
-    - **b)** ust. 3: pkt 1 otrzymuje brzmienie: „1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem podmiotów, o których mowa ust. 2a;”, po pkt 2 dodaje się pkt 2a brzmieniu: „2a) sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;”;
+    - **b)** ust. 3: – pkt 1 otrzymuje brzmienie: „1) podmioty, którym państwowa służba hydrologiczno-meteorologiczna i państwowa służba hydrogeologiczna są obowiązane przekazywać ostrzeżenia, prognozy, komunikaty, biuletyny lub roczniki, z wyjątkiem podmiotów, o których mowa ust. 2a;”, – po pkt 2 dodaje się pkt 2a brzmieniu: „2a) sposób opracowywania oraz przekazywania ostrzeżeń przed suszą hydrologiczną i prognoz hydrologicznych dotyczących suszy hydrologicznej zakładom odprowadzającym ścieki o zwiększonym zasoleniu;”;
 
 - **27)** art. 394 ust. 1 pkt 13 kropkę zastępuje się średnikiem i dodaje się pkt 14 brzmieniu: „14) wykonanie, odbudowa, rozbudowa, przebudowa lub rozbiórka urządzeń pomiarowych ilości wód i jakości wód służących do badania przewodności i temperatury wody celu szacowania sumarycznego stężenia chlorków i siarczanów, a także lokalizowanie tych urządzeń na obszarach szczególnego zagrożenia powodzią.”;
     - **a)** pkt 8 otrzymuje brzmienie: „8) miejsce i sposób poboru próbek ścieków;”
@@ -316,25 +317,25 @@ o rewitalizacji rzeki Odry
 - **31)** po art. 420 dodaje się art. 420a brzmieniu: „Art. 420a. Organ właściwy sprawach pozwoleń wodnoprawnych, na podstawie informacji uzyskiwanych o wydanym, cofniętym, przeniesionym lub ograniczonym pozwoleniu wodnoprawnym, po uprawomocnieniu się decyzji, niezwłocznie informuje państwową służbę hydrologiczno-meteorologiczną oraz wojewódzkiego inspektora ochrony środowiska o zakładzie, który stał się albo przestał być zakładem odprowadzającym ścieki o zwiększonym zasoleniu, a także o wszelkich zmianach:
 - **1)** nazwy tego zakładu i jego adresu do korespondencji;
 - **2)** adresu do korespondencji elektronicznej tego zakładu;
-- **3)** współrzędnych geograficznych lokalizacji zrzutu wód przez ten zakład, zawierających chlorki i siarczany, do odbiornika wraz z podaniem nazwy tego odbiornika, a jeżeli występuje kilka takich miejsc współrzędnych każdego z tych miejsc.”;
+- **3)** współrzędnych geograficznych lokalizacji zrzutu wód przez ten zakład, zawierających chlorki i siarczany, do odbiornika wraz z podaniem nazwy tego odbiornika, a jeżeli występuje kilka takich miejsc – współrzędnych każdego z tych miejsc.”;
 - **32)** po art. 472a dodaje się art. 472aa brzmieniu: „Art. 472aa. 1. Administracyjnej karze pieniężnej podlega, kto wbrew przepisowi:
 - **1)** art. 343 ust. 1, mimo wezwania Wód Polskich, nie usuwa terminie określonym przez Wody Polskie zaniedbań zakresie gospodarki wodnej, wyniku których może powstać stan zagrażający życiu lub zdrowiu ludzi, zwierząt lub środowisku albo prawnie chronionemu interesowi osób trzecich;
 - **2)** art. 389, art. 394 ust. 1 lub art. 425 ust. 1 korzysta z wód, wykonuje urządzenia wodne, roboty wodach lub inne działania wymagające odpowiedniej zgody wodnoprawnej, bez odpowiednio pozwolenia wodnoprawnego lub pozwolenia zintegrowanego, zgłoszenia wodnoprawnego lub oceny wodnoprawnej;
-- **3)** art. 101a ust. 1 lub 3 na obszarze, na którym jest zlokalizowany odbiornik ścieków danego zakładu, okresach obowiązywania ostrzeżenia przed suszą hydrologiczną nie wstrzymuje lub nie ogranicza wprowadzania do wód ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany. Polskich, a odniesieniu do Wód Polskich minister właściwy do spraw gospodarki wodnej.
+- **3)** art. 101a ust. 1 lub 3 na obszarze, na którym jest zlokalizowany odbiornik ścieków danego zakładu, okresach obowiązywania ostrzeżenia przed suszą hydrologiczną nie wstrzymuje lub nie ogranicza wprowadzania do wód ścieków przemysłowych lub wód pochodzących z odwodnienia zakładów górniczych, zawierających chlorki i siarczany. Polskich, a odniesieniu do Wód Polskich – minister właściwy do spraw gospodarki wodnej.
 
 3. Wysokość administracyjnej kary pieniężnej, o której mowa ust. 1, wynosi od 5000 zł do 1 000 000 zł, z wyjątkiem:
 
-- **1)** dokonywania poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych;
-- **2)** wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za wprowadzanie ścieków do wód lub ziemi;
-- **3)** odprowadzania wód opadowych ujętych otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej granicach administracyjnych miast do wód gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za odprowadzanie wód opadowych lub roztopowych ujętych otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej granicach administracyjnych miast do wód.
+- **1)** dokonywania poboru wód podziemnych lub wód powierzchniowych bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego – gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za pobór wód podziemnych lub wód powierzchniowych;
+- **2)** wprowadzania ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi – gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za wprowadzanie ścieków do wód lub ziemi;
+- **3)** odprowadzania wód opadowych ujętych otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej granicach administracyjnych miast do wód – gdzie podstawę ustalenia wysokości kary pieniężnej stanowi 500% opłaty zmiennej za odprowadzanie wód opadowych lub roztopowych ujętych otwarte lub zamknięte systemy kanalizacji deszczowej służące do odprowadzania opadów atmosferycznych albo systemy kanalizacji zbiorczej granicach administracyjnych miast do wód.
 
-4. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód Wód Polskich, z wyjątkiem wpływów z tytułu administracyjnej kary pieniężnej, o której mowa ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi, które 10% stanowią przychód Wód Polskich, a 90% przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+4. Wpływy z tytułu administracyjnych kar pieniężnych stanowią dochód Wód Polskich, z wyjątkiem wpływów z tytułu administracyjnej kary pieniężnej, o której mowa ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi, które 10% stanowią przychód Wód Polskich, a 90% – przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
 
 5. W przypadku administracyjnej kary pieniężnej, o której mowa ust. 1, wymierzanej Wodom Polskim wpływy z tytułu tej kary części przeznaczonej dla Wód Polskich stanowią dochód budżetu państwa.
 
 6. Do wpływów z tytułu administracyjnej kary pieniężnej, o której mowa ust. 1, za wprowadzanie ścieków do wód lub ziemi bez wymaganego pozwolenia wodnoprawnego albo pozwolenia zintegrowanego na wprowadzanie ścieków do wód lub ziemi stosuje się przepis art. 299 ust. 4.”;
 
-- **33)** art. 472c ust. 3 otrzymuje brzmienie: „3. W zakresie nieuregulowanym niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa art. 472a ust. 1, art. 472aa ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.”;
+- **33)** art. 472c ust. 3 otrzymuje brzmienie: „3. W zakresie nieuregulowanym niniejszej ustawie do administracyjnych kar pieniężnych, o których mowa art. 472a ust. 1, art. 472aa ust. 1 i art. 472b ust. 1, stosuje się przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
 - **34)** art. 476 ust. 1 otrzymuje brzmienie: „1. Kto z przekroczeniem warunków określonych pozwoleniu wodnoprawnym lub pozwoleniu zintegrowanym korzysta z wód lub wykonuje urządzenia wodne albo inne czynności wymagające pozwolenia wodnoprawnego, podlega karze aresztu, ograniczenia wolności albo grzywny wysokości od 1000 zł do 7500 zł.”;
 - **35)** art. 477 część wspólna otrzymuje brzmienie: „‒ podlega karze grzywny, przy czym grzywna za wykroczenia, o których mowa pkt 4–8 i 12, wynosi od 1000 zł do 7500 zł.”;
 - **36)** art. 478 część wspólna otrzymuje brzmienie: „‒ podlega karze grzywny, przy czym grzywna za wykroczenia, o których mowa pkt 2, 6, 7, 9, 10 i 12‒16, wynosi od 1000 zł do 7500 zł.”;
@@ -345,8 +346,8 @@ o rewitalizacji rzeki Odry
 
 2r. W celu ustalenia wysokości opłaty, o której mowa art. 272 ust. 6a, oświadczenia, o których mowa ust. 2a pkt 2, zawierają także informacje o:
 
-- **1)** systemie retencyjno-dozującym jeżeli zakład korzysta z takiego systemu, tym o lokalizacji i pojemności zbiorników, które wchodzą skład tego systemu, a także liczbie następujących po sobie dni, których zakład może wstrzymać zrzut ścieków przemysłowych lub wód pochodzących z odwodnienia jego zakładów górniczych okresach suszy hydrologicznej;
-- **2)** systemie oczyszczania lub podczyszczania ścieków zasolonych jeżeli zakład korzysta z tego systemu, tym ilości ścieków przemysłowych zawierających chlorki i siarczany lub wód pochodzących z odwodnienia zakładów górniczych, które są oczyszczane lub podczyszczane tym systemie, i parametrach technicznych tego systemu.
+- **1)** systemie retencyjno-dozującym – jeżeli zakład korzysta z takiego systemu, tym o lokalizacji i pojemności zbiorników, które wchodzą skład tego systemu, a także liczbie następujących po sobie dni, których zakład może wstrzymać zrzut ścieków przemysłowych lub wód pochodzących z odwodnienia jego zakładów górniczych okresach suszy hydrologicznej;
+- **2)** systemie oczyszczania lub podczyszczania ścieków zasolonych – jeżeli zakład korzysta z tego systemu, tym ilości ścieków przemysłowych zawierających chlorki i siarczany lub wód pochodzących z odwodnienia zakładów górniczych, które są oczyszczane lub podczyszczane tym systemie, i parametrach technicznych tego systemu.
 
 2s. W celu ustalenia wysokości opłaty, o której mowa art. 272 ust. 3b, oświadczenia, o których mowa ust. 2a pkt 2, zawierają ilość wprowadzanych do wód lub ziemi wód pochodzących z pomp ciepła lub akumulatorów ciepła warstwy wodonośnej wyrażoną m , wraz z informacją o ich temperaturze, odczytaną z urządzeń pomiarowych lub oszacowaną na podstawie obserwacji, analiz lub kalkulacji związanych z parametrami charakteryzującymi wydajność lub moc urządzenia.”.
 
@@ -373,7 +374,9 @@ o rewitalizacji rzeki Odry
 
 4. „Program odbudowy środowiska ichtiofauny rzeki Odry” opracowuje się na okres 3 lat.
 
-5. „Program odbudowy środowiska ichtiofauny rzeki Odry” wdrażają Państwowe Gospodarstwo Wodne Wody Polskie i minister właściwy do spraw rybołówstwa. łówstwa może nastąpić szczególności przez opracowanie odpowiednich programów ochrony i odbudowy zasobów, o których mowa art. 2b ust. 1 ustawy z dnia 18 kwietnia 1985 r. o rybactwie śródlądowym (Dz. U. z 2022 r. poz. 883), i ich wdrożenie na podstawie art. 2b ust. 3 tej ustawy.
+5. „Program odbudowy środowiska ichtiofauny rzeki Odry” wdrażają Państwowe Gospodarstwo Wodne Wody Polskie i minister właściwy do spraw rybołówstwa.
+
+6. Wdrożenie „Programu odbudowy środowiska ichtiofauny rzeki Odry” przez ministra właściwego do spraw rybołówstwa może nastąpić szczególności przez opracowanie odpowiednich programów ochrony i odbudowy zasobów, o których
 
 7. W postępowaniach sprawie szkody środowisku lub bezpośredniego zagrożenia szkodą środowisku, prowadzonych na podstawie ustawy z dnia 13 kwietnia 2007 r. o zapobieganiu szkodom środowisku i ich naprawie (Dz. U. z 2020 r. poz. 2187), których brak jest możliwości zastosowania art. 15 ust. 1 tej ustawy, art. 16 tej ustawy nie stosuje się zakresie dotyczącym działań możliwych do podjęcia ramach „Programu odbudowy środowiska ichtiofauny rzeki Odry”.
 
@@ -413,9 +416,9 @@ o rewitalizacji rzeki Odry
 
 1. Państwowe Gospodarstwo Wodne Wody Polskie dokona, terminie 18 miesięcy od dnia wejścia życie niniejszej ustawy, przeglądu pozwoleń wodnoprawnych na wprowadzanie ścieków do wód na obszarze zlewni rzeki Odry.
 
-2. Państwowe Gospodarstwo Wodne Wody Polskie przekaże ministrowi właściwemu do spraw gospodarki wodnej wyniki przeglądu pozwoleń wodnoprawnych, o których mowa ust. 1, terminie 3 miesięcy od dnia zakończenia tego przeglądu, wskazując pozwolenia wodnoprawne, które powinny zostać cofnięte lub ograniczone celu zapobieżenia zagrożeniu osiągnięcia celów środowiskowych na podstawie art. 415 lub art. 417 ustawy zmienianej art. 13. niniejszej ustawy przeglądu pozwoleń zintegrowanych na wprowadzanie ścieków do wód na obszarze zlewni rzeki Odry.
+2. Państwowe Gospodarstwo Wodne Wody Polskie przekaże ministrowi właściwemu do spraw gospodarki wodnej wyniki przeglądu pozwoleń wodnoprawnych, o których mowa ust. 1, terminie 3 miesięcy od dnia zakończenia tego przeglądu, wskazując pozwolenia wodnoprawne, które powinny zostać cofnięte lub ograniczone celu zapobieżenia zagrożeniu osiągnięcia celów środowiskowych na podstawie art. 415 lub art. 417 ustawy zmienianej art. 13.
 
-4. Organy właściwe sprawie pozwoleń zintegrowanych przekazują ministrowi właściwemu do spraw gospodarki wodnej wyniki przeglądu pozwoleń zintegrowanych, o których mowa ust. 3, terminie 3 miesięcy od dnia zakończenia tego przeglądu, wskazując pozwolenia zintegrowane, które powinny zostać cofnięte lub ograniczone celu zapobieżenia zagrożeniu osiągnięcia celów środowiskowych na podstawie art. 415 lub art. 417 ustawy zmienianej art. 13.
+3. Organy właściwe sprawie pozwoleń zintegrowanych dokonają terminie 18 miesięcy od dnia wejścia życie niniejszej ustawy przeglądu pozwoleń zintegrowanych na wprowadzanie ścieków do wód na obszarze zlewni rzeki Odry. tego przeglądu, wskazując pozwolenia zintegrowane, które powinny zostać cofnięte lub ograniczone celu zapobieżenia zagrożeniu osiągnięcia celów środowiskowych na podstawie art. 415 lub art. 417 ustawy zmienianej art. 13.
 
 **Art. 23.** Prezes Państwowego Gospodarstwa Wodnego Wody Polskie, terminie 30 dni od dnia wejścia życie niniejszej ustawy, opracuje i przekaże państwowej służbie hydrologiczno-meteorologicznej oraz właściwym organom Inspekcji Ochrony Środowiska listę zakładów, które dniu wejścia życie niniejszej ustawy są zaliczane do zakładów odprowadzających ścieki o zwiększonym zasoleniu, podając:
 
@@ -423,16 +426,16 @@ o rewitalizacji rzeki Odry
 
 1. Maksymalny limit wydatków z budżetu państwa z części budżetowej, której dysponentem jest minister właściwy do spraw gospodarki wodnej, będących skutkiem finansowym wejścia życie niniejszej ustawy, przeznaczonych na dofinansowanie lub finansowanie inwestycji dla Odry Państwowego Gospodarstwa Wodnego Wody Polskie, wynosi 1 234 279 661 zł, tym w:
 
-- **1)** 2023 r. 0 zł;
-- **2)** 2024 r. 48 553 640,53 zł;
-- **3)** 2025 r. 96 039 557,22 zł;
-- **4)** 2026 r. 220 923 258,46 zł;
-- **5)** 2027 r. 351 367 110,57 zł;
-- **6)** 2028 r. 336 779 956,99 zł;
-- **7)** 2029 r. 180 616 137,23 zł;
-- **8)** 2030 r. 0 zł;
-- **9)** 2031 r. 0 zł;
-- **10)** 2032 r. 0 zł.
+- **1)** 2023 r. – 0 zł;
+- **2)** 2024 r. – 48 553 640,53 zł;
+- **3)** 2025 r. – 96 039 557,22 zł;
+- **4)** 2026 r. – 220 923 258,46 zł;
+- **5)** 2027 r. – 351 367 110,57 zł;
+- **6)** 2028 r. – 336 779 956,99 zł;
+- **7)** 2029 r. – 180 616 137,23 zł;
+- **8)** 2030 r. – 0 zł;
+- **9)** 2031 r. – 0 zł;
+- **10)** 2032 r. – 0 zł.
 
 2. Minister właściwy do spraw gospodarki wodnej monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1.
 
@@ -442,33 +445,33 @@ o rewitalizacji rzeki Odry
 
 1. Maksymalny limit wydatków z budżetu państwa z części budżetowych, których dysponentami są właściwi wojewodowie, będących skutkiem finansowym wejścia życie niniejszej ustawy, przeznaczonych na doposażenie jednostek ochrony przeciwpożarowej obszarach, których podejmowano działania związane z katastrofą ekologiczną na rzece Odrze 2022 r., celu polepszenia gotowości do podejmowania działań prowadzących do usuwania skutków zagrożeń występujących środowisku wodnym, wynosi 10 144 574 zł, tym w:
 
-- **1)** 2023 r. 0 zł;
-- **2)** 2024 r. 5 000 000,00 zł;
-- **3)** 2025 r. 5 144 574,00 zł;
-- **4)** 2026 r. 0 zł;
-- **5)** 2027 r. 0 zł;
-- **6)** 2028 r. 0 zł;
-- **7)** 2029 r. 0 zł;
-- **8)** 2030 r. 0 zł;
-- **9)** 2031 r. 0 zł;
-- **10)** 2032 r. 0 zł.
+- **1)** 2023 r. – 0 zł;
+- **2)** 2024 r. – 5 000 000,00 zł;
+- **3)** 2025 r. – 5 144 574,00 zł;
+- **4)** 2026 r. – 0 zł;
+- **5)** 2027 r. – 0 zł;
+- **6)** 2028 r. – 0 zł;
+- **7)** 2029 r. – 0 zł;
+- **8)** 2030 r. – 0 zł;
+- **9)** 2031 r. – 0 zł;
+- **10)** 2032 r. – 0 zł.
 
-3. W przypadku przekroczenia lub zagrożenia przekroczeniem przyjętego na dany rok budżetowy maksymalnego limitu wydatków określonego ust. 1 właściwy wojewoda wdraża mechanizm korygujący, polegający na obniżeniu kosztów realizacji zadań, o których mowa ust. 1.
+2. Właściwi wojewodowie monitorują wykorzystanie limitu wydatków, o którym mowa ust. 1. realizacji zadań, o których mowa ust. 1.
 
 **Art. 26.**
 
-1. Maksymalny limit wydatków z budżetu państwa z części budżetowej, której dysponentem jest minister właściwy do spraw klimatu, będących skutkiem finansowym wejścia życie niniejszej ustawy, przeznaczonych dla Inspekcji Ochrony Środowiska na realizację ustawowych zadań dotyczących kontroli gospodarowania wodami, o których mowa art. 335 ust. 5 ustawy z dnia 20 lipca 2017 r. Prawo wodne, niezbędnych do poprawy środowiska wodnego rzeki Odry i jej zlewni, wynosi 1 617 500 zł, tym w:
+1. Maksymalny limit wydatków z budżetu państwa z części budżetowej, której dysponentem jest minister właściwy do spraw klimatu, będących skutkiem finansowym wejścia życie niniejszej ustawy, przeznaczonych dla Inspekcji Ochrony Środowiska na realizację ustawowych zadań dotyczących kontroli gospodarowania wodami, o których mowa art. 335 ust. 5 ustawy z dnia 20 lipca 2017 r. – Prawo wodne, niezbędnych do poprawy środowiska wodnego rzeki Odry i jej zlewni, wynosi 1 617 500 zł, tym w:
 
-- **1)** 2023 r. 0 zł;
-- **2)** 2024 r. 1 450 000 zł;
-- **3)** 2025 r. 20 000 zł;
-- **4)** 2026 r. 20 000 zł;
-- **5)** 2027 r. 20 000 zł;
-- **6)** 2028 r. 20 000 zł;
-- **7)** 2029 r. 27 500 zł;
-- **8)** 2030 r. 20 000 zł;
-- **9)** 2031 r. 20 000 zł;
-- **10)** 2032 r. 20 000 zł.
+- **1)** 2023 r. – 0 zł;
+- **2)** 2024 r. – 1 450 000 zł;
+- **3)** 2025 r. – 20 000 zł;
+- **4)** 2026 r. – 20 000 zł;
+- **5)** 2027 r. – 20 000 zł;
+- **6)** 2028 r. – 20 000 zł;
+- **7)** 2029 r. – 27 500 zł;
+- **8)** 2030 r. – 20 000 zł;
+- **9)** 2031 r. – 20 000 zł;
+- **10)** 2032 r. – 20 000 zł.
 
 2. Minister właściwy do spraw klimatu monitoruje wykorzystanie limitu wydatków, o którym mowa ust. 1.
 

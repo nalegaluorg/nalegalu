@@ -8,9 +8,10 @@ pos: 50
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 stycznia 2018 r.
+# zmianie niektórych ustaw celu ułatwienia zwalczania chorób zakaźnych
 
 | Pole | Wartość |
 |---|---|
@@ -24,20 +25,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000050) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/50/text.pdf) |
 
-USTAWA z dnia 14 grudnia 2017 r.
-o zmianie niektórych ustaw celu ułatwienia zwalczania chorób zakaźnych zwierząt
+**Art. 1.** W ustawie dnia 12 października 1990 ochronie granicy państwowej U. 2017 660) wprowadza się następujące zmiany: 10 po dodaje się 2a brzmieniu: „2a. Straż Graniczna może zlecać innym podmiotom budowę, instalację, usunięcie, a także obsługę techniczną obejmującą naprawę, remont wymianę urządzeń, których 1.”;
 
-**Art. 1.** W ustawie z dnia 12 października 1990 r. o ochronie granicy państwowej (Dz. U. z 2017 r. poz. 660) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 13 października 1995 – Prawo łowieckie U. 2017 1295) wprowadza się następujące zmiany: 8:
 
-**Art. 2.** W ustawie z dnia 13 października 1995 r. Prawo łowieckie (Dz. U. z 2017 r. poz. 1295) wprowadza się następujące zmiany:
+**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie 45 1, 46 3, 47 1, 48a 3 61 ustawy zmienianej 5 zachowują moc mogą być zmieniane na podstawie tego przepisu.
 
-**Art. 3.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2016 r. poz. 2147, z późn. zm. ) art. 6 po pkt 9c dodaje się pkt 9d brzmieniu: „9d) wykonywanie urządzeń lub budowli służących zapobieganiu lub zwalczaniu chorób zakaźnych zwierząt;”.
+**Art. 7.** W 2018 łączny wymiar zwolnień, którym 47c 4 ustawy zmienianej 5, nie może przekroczyć 6 dni kalendarzowych.
 
-**Art. 4.** W ustawie z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2018 r. poz. 36) wprowadza się następujące zmiany:
-
-**Art. 5.** W ustawie z dnia 11 marca 2004 r. o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt (Dz. U. z 2017 r. poz. 1855) wprowadza się następujące zmiany:
-
-**Art. 7.** W 2018 r. łączny wymiar zwolnień, o którym mowa art. 47c 4 ustawy zmienianej art. 5, nie może przekroczyć 6 dni kalendarzowych.
-
-**Art. 8.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia.
 

@@ -8,11 +8,12 @@ pos: 1612
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 29 sierpnia 2003 r. o urzędowych nazwach miejscowości i obiektów fizjograficznych
+# o urzędowych nazwach miejscowości i obiektów fizjograficznych
 
-*USTAWA zdnia 29 sierpnia 2003 ourzędowych nazwach miejscowości iobiektów fizjograficznych*
+*USTAWA z dnia 29 sierpnia 2003 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,92 +27,146 @@ domain: null
 | Ostatnia zmiana | 2025-12-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1612/text.pdf) |
 
-Przepisy ogólne kolonia jednostkę osadniczą powstałą jako rezulUstawa określa: tat ekspansji miejscowości poza obszar wcześniej istniejącej zabudowy, szczególności: kolonię
-1) zasady i tryb ustalania, dokonywania zmian i zno- miasta, kolonię wsi;
-szenia urzędowych nazw miejscowości iich części urzędowych nazw obiektów fizjograficznych; 3) miasto jednostkę osadniczą oprzewadze zwartej zabudowy i funkcjach nierolniczych posiadającą zasady działania Komisji Nazw Miejscowości prawa miejskie bądê status miasta nadany wtrybie iObiektów Fizjograficznych; określonym odrębnymi przepisami;
-3) sposób ustalania i ogłaszania wykazów urzędo- 4) miejscowość jednostkę osadniczą inny obwych nazw miejscowości iich części obiektów fizjograficznych.
-2. Przepisów stosuje się ustalania, dokonywania zmian i znoszenia urzędowych nazw wzakresie uregulowanym przepisami oochronie przyrody, a także przypadkach, gdy urzędową nazwę określa odrębna ustawa.
-2.Użyte wustawie określenia oznaczają:
-1) jednostka osadnicza wyodrębniony przestrzenobszar zabudowy mieszkaniowej wraz zobiekszar zabudowany odróżniające się innych miejscowości odrębną nazwą, a przy jednakowej nazwie odmiennym określeniem ich rodzaju;
-5) miejscowość niezamieszkana miejscowość, wktórej przebywa stale jest zameldowana na pobyt stały co najmniej jedna osoba;
-miejscowość zamieszkana miejscowość, której stale przebywa jest zameldowana na pobyt stały co najmniej jedna osoba;
-7) obiekt fizjograficzny wyodrębniony składnik środowiska geograficznego, szczególności: nizinę, wyżynę, wzgórze, pasmo górskie, górę, szczyt gó——————— rych mowa wart. 3 ust. 1 pkt 2b, środ- 3) art. 82 ust. 3a ustawy, o której mowa art. 13, ków krajowych przeznaczonych na realiza- wbrzmieniu nadanym niniejszą ustawą cję Wspólnej Polityki Rolnej, bez zachowania procedur, o których mowa art. 30 które wchodzą życie po upływie 14 dni dnia ust. 2.”. ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
-9) osiedle zespół mieszkaniowy stanowiący integralną część miasta wsi;
-10) przysiółek skupisko kilku gospodarstw położonych poza zabudową wsi stanowiące integralną część wsi;
-11) rodzaj miejscowości określenie charakteru miejscowości ukształtowanej wprocesie rozwoju osadnictwa, szczególności: miasto, osiedle, wieś, osada, kolonia, przysiółek iich części;
-12) wieś jednostkę osadniczą o zwartej rozproszonej zabudowie i istniejących funkcjach rolniczych związanych nimi usługowych turystycznych nieposiadającą praw miejskich statusu miasta.
-3. Urzędowe nazwy ustala się, zmienia iznosi dla:
-1) miejscowości zamieszkanych iich części;
-miejscowości niezamieszkanych iich części;
-3) obiektów fizjograficznych.
-2. Przy ustalaniu urzędowych nazw, o których mowa ust. 1, określa się również rodzaj danej miejscowości obiektu fizjograficznego. Do określenia izmiany rodzaju miejscowości obiektu fizjograficznego stosuje się odpowiednio przepisy dotyczące ustalania izmian ich nazw.
-4. Tworzy się Komisję Nazw Miejscowości iObiektów Fizjograficznych, zwaną dalej ŃKomisją”, jako organ opiniodawczo-doradczy sprawach ustalania, dokonywania zmian iznoszenia urzędowych nazw miejscowości i ich części obiektów fizjograficznych, zwanych dalej Ńurzędowymi nazwami”.
-2. Komisja działa przy ministrze właściwym publicznej.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.**
+
+1. Ustawa określa:
+
+- **1)** zasady i tryb ustalania, dokonywania zmian i znoszenia urzędowych nazw miejscowości i ich części oraz urzędowych nazw obiektów fizjograficznych;
+- **2)** zasady działania Komisji Nazw Miejscowości i Obiektów Fizjograficznych;
+- **3)** sposób ustalania i ogłaszania wykazów urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych.
+
+2. Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian i znoszenia urzędowych nazw w zakresie uregulowanym przepisami o ochronie przyrody, a także w przypadkach, gdy urzędową nazwę określa odrębna ustawa.
+
+**Art. 2.** Użyte w ustawie określenia oznaczają:
+
+**Art. 3.**
+
+1. Urzędowe nazwy ustala się, zmienia i znosi dla:
+
+- **1)** miejscowości zamieszkanych i ich części;
+- **2)** miejscowości niezamieszkanych i ich części;
+- **3)** obiektów fizjograficznych.
+
+2. Przy ustalaniu urzędowych nazw, o których mowa w ust. 1, określa się również rodzaj danej miejscowości lub obiektu fizjograficznego. Do określenia i zmiany rodzaju miejscowości lub obiektu fizjograficznego stosuje się odpowiednio przepisy ustawy dotyczące ustalania i zmian ich nazw.
+
+#### Rozdział 2 Komisja Nazw Miejscowości i Obiektów Fizjograficznych
+
+**Art. 4.**
+
+1. Tworzy się Komisję Nazw Miejscowości i Obiektów Fizjograficznych, zwaną dalej „Komisją”, jako organ opiniodawczo-doradczy w sprawach ustalania, dokonywania zmian i znoszenia urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych, zwanych dalej „urzędowymi nazwami”.
+
+2. Komisja działa przy ministrze właściwym do spraw administracji publicznej.
+
 3. Do zadań Komisji należy:
-1) opiniowanie wniosków o ustalenie, zmianę
-1) tryb pracy Komisji, uwzględniając konieczność zapewnienia sprawnej pracy Komisji;
-wysokość wynagrodzenia przysługującego członkom za udział posiedzeniach Komisji, uwzględniając, że maksymalna wysokość wynagrodzenia może przekroczyć 60 % minimalnego wynagrodzenia za pracę, określonego wodrębnych przepisach.
-5. Wskład Komisji wchodzą:
-1) przewodniczący, którym jest przedstawiciel nauki dziedziny językoznawstwa, powoływany na czteroletnią kadencję ministra właściwego publicznej spośród osób wskazanych Prezesa Polskiej Akademii Nauk;
-zastępca przewodniczącego, powoływany na czteroletnią kadencję ministra właściwego publicznej na wniosek przewodniczącego Komisji spośród członków Komisji, októrych mowa wpkt 4;
-3) sekretarz, którym jest przedstawiciel ministra właściwego publicznej;
-4) sześciu członków powoływanych na czteroletnią kadencję ministra właściwego administracji publicznej spośród przedstawicieli nauki zgłoszonych rady wydziałów szkół wyższych rady naukowe komitetów i instytutów Polskiej Akademii Nauk dziedzin: językoznawstwa, historii, geografii ikartografii;
-5) po jednym przedstawicielu: Ministra Obrony Narodowej, ministra właściwego kultury i ochrony dziedzictwa narodowego, Głównego Geodety Kraju Prezesa Głównego Urzędu Statystycznego, powoływanym na czteroletnią kadencję ministra właściwego administracji publicznej.
-2. Minister właściwy publicznej odwołuje członka Komisji przed upływem kadencji wprzypadku:
-1) złożenia rezygnacji;
-wniosku organu, który zgłosił kandydata na członka.
-6. Urzędowa nazwa jest ustalana:
-1) dla miejscowości iich części wpierwszym idrugim przypadku deklinacji, adla miast iwsi także wformie przymiotnikowej utworzonej ustalonej nazwy;
-dla obiektów fizjograficznych wpierwszym idrugim przypadku deklinacji.
-2. Podmioty wykonujące zadania publiczne na terytorium Rzeczypospolitej Polskiej są obowiązane używać urzędowych nazw ustalonych zgodnie niniejszą ustawą, zuwzględnieniem odpowiednich przypadków deklinacji.
-7. Urzędowe nazwy, zastrzeżeniem art. 1 ust. 2, ustala, zmienia znosi, wdrodze rozporządzenia, minister właściwy publicznej, po przeprowadzeniu postępowania, októrym mowa wart. 8.
-2. Rozporządzenie, októrym mowa 1, powinno określać dotychczasową nazwę urzędową, nazwę po zmianach, rodzaj miejscowości obiektu fizjograficznego, pierwszy i drugi przypadek deklinacji, awprzypadku nazw miast iwsi również formę przymiotnika utworzonego tej nazwy.
-8. Urzędowa nazwa jest ustalana, zmieniana znoszona na wniosek rady gminy, na której obszarze jest położona miejscowość obiekt fizjograficzny.
-2. Rada gminy przedstawia wniosek, októrym mowa 1, ministrowi właściwemu administracji publicznej za pośrednictwem wojewody.
-Wprzypadku wniosku dotyczącego nazwy miejscowości zamieszkanej rada gminy jest obowiązana uprzednio przeprowadzić tej sprawie konsultacje mieszkańcami tej miejscowości, trybie, o którym mowa art. 5a ust. 2 dnia 8 marca 1990 o samorządzie gminnym (Dz. U. 2001 142, 1591, zpóên. zm.
-3) omówienie wyników konsultacji przeprowadzonych zmieszkańcami miejscowości, której wniosek dotyczy;
-4) opinię starosty powiatu, na którego terenie jest położona miejscowość obiekt fizjograficzny, jako właściwego sprawach geodezji i gospodarki gruntami;
-5) mapę topograficzną zaznaczonymi granicami miejscowości, jej części obiektu fizjograficznego, będących przedmiotem wniosku;
-informację okosztach finansowych proponowanej zmiany.
+
+- **1)** opiniowanie wniosków o ustalenie, zmianę lub zniesienie urzędowych nazw;
+- **2)** opiniowanie projektów wykazów, o których mowa w art. 9 ust. 1;
+- **3)** wnioskowanie o ustalenie, zmianę lub zniesienie urzędowych nazw miejscowości niezamieszkanych i ich części;
+- **4)** wyrażanie opinii w innych sprawach dotyczących realizacji ustawy.
+
+4. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia:
+
+- **1)** tryb pracy Komisji, uwzględniając konieczność zapewnienia sprawnej pracy Komisji;
+- **2)** wysokość wynagrodzenia przysługującego członkom za udział w posiedzeniach Komisji, uwzględniając, że maksymalna wysokość wynagrodzenia nie może przekroczyć 60% minimalnego wynagrodzenia za pracę, określonego w odrębnych przepisach.
+
+**Art. 5.**
+
+1. W skład Komisji wchodzą:
+
+- **1)** przewodniczący, którym jest przedstawiciel nauki z dziedziny językoznawstwa, powoływany na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej spośród osób wskazanych przez Prezesa Polskiej Akademii Nauk;
+- **2)** zastępca przewodniczącego, powoływany na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej na wniosek przewodniczącego Komisji spośród członków Komisji, o których mowa w pkt 4;
+- **3)** sekretarz, którym jest przedstawiciel ministra właściwego do spraw administracji publicznej;
+- **4)** sześciu członków powoływanych na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej spośród przedstawicieli nauki zgłoszonych przez senaty uczelni oraz rady naukowe komitetów i instytutów naukowych Polskiej Akademii Nauk – z zakresu: językoznawstwa, historii, geografii oraz kartografii;
+- **5)** po jednym przedstawicielu: Ministra Obrony Narodowej, ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego, Głównego Geodety Kraju oraz Prezesa Głównego Urzędu Statystycznego, powoływanym na czteroletnią kadencję przez ministra właściwego do spraw administracji publicznej;
+- **6)** sekretarz Komisji Wspólnej Rządu i Mniejszości Narodowych i Etnicznych, utworzonej na podstawie przepisu art. 23 ustawy z dnia 6 stycznia 2005 r. o mniejszościach narodowych i etnicznych oraz o języku regionalnym (Dz. U. z 2017 r. poz. 823).
+
+2. Minister właściwy do spraw administracji publicznej odwołuje członka Komisji przed upływem kadencji w przypadku:
+
+- **1)** złożenia rezygnacji;
+- **2)** wniosku organu, który zgłosił kandydata na członka.
+
+3. Obsługę administracyjną prac Komisji zapewnia urząd obsługujący ministra właściwego do spraw administracji publicznej.
+
+4. Koszty działalności Komisji są pokrywane z budżetu państwa w części, której dysponentem jest minister właściwy do spraw administracji publicznej.
+
+#### Rozdział 3 Urzędowe nazwy miejscowości i ich części oraz obiektów fizjograficznych
+
+**Art. 6.**
+
+1. Urzędowa nazwa jest ustalana:
+
+- **1)** dla miejscowości i ich części – w pierwszym i drugim przypadku deklinacji, a dla miast i wsi – także w formie przymiotnikowej utworzonej od ustalonej nazwy;
+- **2)** dla obiektów fizjograficznych – w pierwszym i drugim przypadku deklinacji.
+
+2. Podmioty wykonujące zadania publiczne na terytorium Rzeczypospolitej Polskiej są obowiązane używać urzędowych nazw ustalonych zgodnie z niniejszą ustawą, z uwzględnieniem odpowiednich przypadków deklinacji.
+
+**Art. 7.**
+
+1. Urzędowe nazwy, z zastrzeżeniem art. 1 ust. 2, ustala, zmienia lub znosi, w drodze rozporządzenia, minister właściwy do spraw administracji publicznej, po przeprowadzeniu postępowania, o którym mowa w art. 8.
+
+2. Rozporządzenie, o którym mowa w ust. 1, powinno określać dotychczasową nazwę urzędową, nazwę po zmianach, rodzaj miejscowości lub obiektu fizjograficznego, pierwszy i drugi przypadek deklinacji, a w przypadku nazw miast i wsi – również formę przymiotnika utworzonego od tej nazwy.
+
+**Art. 8.**
+
+1. Urzędowa nazwa jest ustalana, zmieniana lub znoszona na wniosek rady gminy, na której obszarze jest położona miejscowość lub obiekt fizjograficzny.
+
+2. Rada gminy przedstawia wniosek, o którym mowa w ust. 1, ministrowi właściwemu do spraw administracji publicznej za pośrednictwem wojewody. W przypadku wniosku dotyczącego nazwy miejscowości zamieszkanej rada gminy jest obowiązana uprzednio przeprowadzić w tej sprawie konsultacje z mieszkańcami tej miejscowości, w trybie, o którym mowa w art. 5a ust. 2 ustawy z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2019 r. poz. 506 i 1309).
+
+3. Urzędowa nazwa może być ustalona, zmieniona lub zniesiona przez ministra właściwego do spraw administracji publicznej z jego inicjatywy, a także z inicjatywy Komisji. Przed ustaleniem, zmianą lub zniesieniem urzędowej nazwy minister występuje do rady gminy, starosty, właściwego miejscowo wojewody i Komisji, a w przypadku obiektu fizjograficznego także zarządu województwa – o opinię. Opinia rady gminy jest poprzedzana przeprowadzeniem konsultacji z mieszkańcami miejscowości, której sprawa dotyczy.
+
+4. Wniosek, o którym mowa w ust. 1, zawiera:
+
+- **1)** uchwałę rady gminy w sprawie wystąpienia o ustalenie, zmianę lub zniesienie urzędowej nazwy, wraz z uzasadnieniem;
+- **2)** w przypadku obiektu fizjograficznego – także opinie zarządów województw, na których terenie obiekt się znajduje;
+- **3)** omówienie wyników konsultacji przeprowadzonych z mieszkańcami miejscowości, której wniosek dotyczy;
+- **4)** opinię starosty powiatu, na którego terenie jest położona miejscowość lub obiekt fizjograficzny, jako właściwego w sprawach geodezji i gospodarki gruntami;
+- **5)** mapę topograficzną z zaznaczonymi granicami miejscowości, jej części lub obiektu fizjograficznego, będących przedmiotem wniosku;
+- **6)** informację o kosztach finansowych proponowanej zmiany.
+
 5. Wymóg zasięgnięcia opinii uznaje się za spełniony:
-1) przypadku niewyrażenia opinii, o których mowa 3, wterminie 60 dni dnia otrzymania wystąpienia oopinię;
-przypadku niewyrażenia opinii, o których mowa ust. 4 pkt 2 i 4, terminie 30 dni dnia otrzymania wystąpienia oopinię.
-6. Wojewoda jest obowiązany przekazać ministrowi właściwemu publicznej wniosek, októrym mowa 1, póêniej niż wciągu 30 dni jego otrzymania, dołączając swoją opinię.
-Wniosek przekazany wojewodę podlega zaopiniowaniu Komisję.
-7. Wniosek, októrym mowa 1, składa się ministrowi właściwemu publicznej wterminie dnia 31 marca roku poprzedzającego rok, wktórym ma nastąpić ustalenie, zmiana zniesienie urzędowej nazwy.
-). 8. Ustalenie, zmiana zniesienie urzędowych nazw następuje zdniem 1 stycznia.
-3. Urzędowa nazwa może być ustalona, zmieniona zniesiona ministra właściwego ad- 9. W przypadku negatywnego rozpatrzenia wnioministracji publicznej zjego inicjatywy, atakże zinicja- sku, o którym mowa ust. 1, minister właściwy tywy Komisji. Przed ustaleniem, zmianą zniesie- publicznej zawiadamia niezwłoczniem urzędowej nazwy minister występuje rady nie, za pośrednictwem wojewody, wnioskodawcę gminy, starosty, właściwego miejscowo wojewody oprzyczynach nieuwzględnienia wniosku.
-iKomisji, awprzypadku obiektu fizjograficznego także zarządu województwa o opinię. Opinia rady gminy jest poprzedzana przeprowadzeniem konsultacji Rozdział 4 zmieszkańcami miejscowości, której sprawa dotyczy.
-Wykazy urzędowych nazw miejscowości iich części wjednostkach zasadniczego trójstopniowego podziału terytorialnego państwa zpodaniem końcówki drugiego przypadku deklinacji, a dla miast i wsi również formy przymiotnikowej nazwy.
-3. Wwykazach podaje się także:
-1) siedmiocyfrowy identyfikator miejscowości zkrajowego rejestru urzędowego podziału terytorialnego ŃTERYT”;
-współrzędne geograficzne obiektów fizjograficznych;
-3) przypadku części miejscowości nazwę miejscowości, której dana część należy.
-4. Minister właściwy publicznej ogłasza, wdrodze obwieszczenia wDzienniku Rzeczypospolitej Polskiej, aktualne wykazy urzędowych nazw miejscowości iich części obiektów fizjograficznych. Przepisy ust. 2 i 3 stosuje się odpowiednio.
-10.Wustawie zdnia 17 maja 1989 Prawo geodezyjne i kartograficzne (Dz. U. 2000 100, 1086, póên. zm.
-ców miastach innych miejscowościach na obszarze gminy, ustalanie numerów porządkowych nieruchomości zabudowanych nieruchomości przeznaczonych pod zabudowę zgodnie miejscowym planem zagospodarowania przestrzennego, atakże prowadzenie i aktualizowanie ewidencji numeracji porządkowej nieruchomości.
-47b. Właściciele nieruchomości zabudowanych nieruchomości przeznaczonych pod zabudowę zgodnie miej) wprowadza się następujące zmiany:
-1) art. 1 otrzymuje brzmienie: ŃArt. Ustawa reguluje sprawy dotyczące:
-1) geodezji ikartografii, krajowego systemu informacji oterenie,
-3) ewidencji gruntów ibudynków,
-4) inwentaryzacji i ewidencji sieci uzbrojenia terenu,
-5) rozgraniczania nieruchomości, państwowego zasobu geodezyjnego ikartograficznego,
-7) uprawnień wykonywania prac geodezyjnych ikartograficznych,
-8) numeracji porządkowej nieruchomości wmiejscowościach.”;
-scowym planem zagospodarowania przestrzennego są obowiązani umieścić na nieruchomości, widocznym miejscu, tabliczkę numerem porządkowym nieruchomości utrzymywać ją wnależytym stanie.
-2. Minister właściwy budownictwa, gospodarki przestrzennej i mieszkaniowej określi, drodze rozporządzenia, sposób ustalania numerów porządkowych oznaczania nimi nieruchomości, uwzględniając wszczególności, że oznaczenie nieruchomości numerem porządkowym następuje zurzędu na wniosek właściciela nieruchomości.”.
-11. Wustawie zdnia 17 maja 1990 opodziale zadań ikompetencji określonych wustawach szczególnych pomiędzy organy gminy aorgany administracji rządowej o zmianie niektórych ustaw (Dz. U.
-34, 198, zpóên. zm. ) wart. 1 uchyla się pkt
-12.Do czasu powołania składu osobowego Komisji Nazw Miejscowości i Obiektów Fizjograficznych, dłużej jednak niż rok dnia wejścia wżycie ustawy, jej zadania wykonuje Komisja Ustalania Nazw Miejscowości i Obiektów Fizjograficznych utworzona na podstawie rozporządzenia wymienionego wart. 15.
-13. Wnioski sprawie ustalania zmiany urzędowej nazwy, złożone i nierozpatrzone przed dniem wejścia życie ustawy, uznaje się za złożone wterminie itrybie określonym wustawie.
-——————— o numeracji nieruchomości (Dz. U. 94, 850, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1613 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 18 września 2003 wsprawie określenia wysokości odsetek ustawowych Na podstawie art. 359 § 3 zdnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, zpóên.
-zm.
-§ 2. Rozporządzenie wchodzi życie dniem 25 września 2003 ) zarządza się, co następuje: § Wysokość odsetek ustawowych ustala się na 12,25 % wstosunku rocznym. Prezes Rady Ministrów: L. Miller ——————— 1614 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW zdnia 19 września 2003 wsprawie przedterminowych wyborów wójta Gminy Bojadła wwojewództwie lubuskim
 
-#### Rozdział 1 tami infrastruktury technicznej zamieszkany ludzi;
+- **1)** w przypadku niewyrażenia opinii, o których mowa w ust. 3, w terminie 60 dni od dnia otrzymania wystąpienia o opinię;
+- **2)** w przypadku niewyrażenia opinii, o których mowa w ust. 4 pkt 2 i 4, w terminie 30 dni od dnia otrzymania wystąpienia o opinię.
 
-#### Rozdział 2 Komisja Nazw Miejscowości iObiektów Fizjograficznych
+6. Wojewoda jest obowiązany przekazać ministrowi właściwemu do spraw administracji publicznej wniosek, o którym mowa w ust. 1, nie później niż w ciągu 30 dni od jego otrzymania, dołączając swoją opinię. Wniosek przekazany przez wojewodę podlega zaopiniowaniu przez Komisję.
 
-#### Rozdział 5 wprzepisach obowiązujących, przepisy przejściowe ikońcowe
+7. Wniosek, o którym mowa w ust. 1, składa się ministrowi właściwemu do spraw administracji publicznej w terminie do dnia 31 marca roku poprzedzającego rok, w którym ma nastąpić ustalenie, zmiana lub zniesienie urzędowej nazwy.
+
+8. Ustalenie, zmiana lub zniesienie urzędowych nazw następuje z dniem 1 stycznia.
+
+9. W przypadku negatywnego rozpatrzenia wniosku, o którym mowa w ust. 1, minister właściwy do spraw administracji publicznej zawiadamia niezwłocznie, za pośrednictwem wojewody, wnioskodawcę o przyczynach nieuwzględnienia wniosku.
+
+#### Rozdział 4 Wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych
+
+**Art. 9.**
+
+1. Minister właściwy do spraw administracji publicznej, w terminie pięciu lat od dnia wejścia w życie ustawy, ustali, w drodze rozporządzenia, wykaz urzędowych nazw miejscowości i ich części oraz, w terminie dziesięciu lat, wykaz urzędowych nazw obiektów fizjograficznych, zwane dalej „wykazami”.
+
+2. Urzędowe nazwy podaje się w wykazach w pierwszym przypadku deklinacji, w kolejności alfabetycznej, z określeniem rodzaju miejscowości lub obiektu fizjograficznego, określeniem umiejscowienia w jednostkach zasadniczego trójstopniowego podziału terytorialnego państwa oraz z podaniem końcówki drugiego przypadku deklinacji, a dla miast i wsi również formy przymiotnikowej nazwy.
+
+3. W wykazach podaje się także:
+
+- **1)** siedmiocyfrowy identyfikator miejscowości z krajowego rejestru urzędowego podziału terytorialnego „TERYT”;
+- **2)** współrzędne geograficzne obiektów fizjograficznych;
+- **3)** w przypadku części miejscowości – nazwę miejscowości, do której dana część należy.
+
+4. Minister właściwy do spraw administracji publicznej ogłasza, w drodze obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej, aktualne wykazy urzędowych nazw miejscowości i ich części oraz obiektów fizjograficznych. Przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+#### Rozdział 5 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
+
+**Art. 10.** (pominięty)
+
+**Art. 11.** (pominięty)
+
+**Art. 12.** Do czasu powołania składu osobowego Komisji Nazw Miejscowości i Obiektów Fizjograficznych, nie dłużej jednak niż przez rok od dnia wejścia w życie ustawy, jej zadania wykonuje Komisja Ustalania Nazw Miejscowości i Obiektów Fizjograficznych utworzona na podstawie rozporządzenia wymienionego w art. 15.
+
+**Art. 13.** Wnioski w sprawie ustalania lub zmiany urzędowej nazwy, złożone i nierozpatrzone przed dniem wejścia w życie ustawy, uznaje się za złożone w terminie i trybie określonym w ustawie.
+
+**Art. 14.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, jednak nie dłużej niż przez rok od dnia wejścia w życie ustawy, zachowują moc przepisy wydane na podstawie rozporządzenia wymienionego w art. 15.
+
+**Art. 15.** Traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o ustalaniu nazw miejscowości i obiektów fizjograficznych oraz o numeracji nieruchomości (Dz. U. poz. 850, z 1948 r. poz. 251, z 1971 r. poz. 115 oraz z 1990 r. poz. 198).
+
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 

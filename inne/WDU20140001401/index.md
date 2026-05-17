@@ -1,0 +1,60 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 5 października 2014 r. w sprawie praktyki zawodowej kandydatów na doradców podatkowych
+address: WDU20140001401
+eli: DU/2014/1401
+publisher: DU
+year: 2014
+pos: 1401
+act_type: Rozporządzenie
+status: akt posiada tekst jednolity
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 października 2014 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2014 poz. 1401 |
+| ISAP | WDU20140001401 |
+| Typ aktu | Rozporządzenie |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2014-10-05 |
+| Data wydania | 2014-10-15 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001401) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1401/text.pdf) |
+
+Poz. 1401 ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 5 października 2014 r.
+sprawie praktyki zawodowej kandydatów doradców podatkowych Na podstawie art. 21 ust. 5 ustawy dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. 2011 r. Nr 41, poz. 213 oraz 2014 r. poz. 768) zarządza się, co następuje: § 1. Rozporządzenie określa szczegółowe warunki odbywania przez kandydatów doradców podatkowych, zwanych dalej „kandydatami”, praktyki zawodowej u doradców podatkowych lub spółkach doradztwa podatkowego, zwanej dalej „praktyką”, oraz rodzaje zatrudnienia tą praktyką.
+§ 2. 1. Kandydaci odbywają u doradcy podatkowego lub spółce doradztwa podatkowego po wyrażeniu zgody przyjęcie kandydata albo wyznaczeniu tej praktyki przez Krajową Radę Doradców Podatkowych.
+2. Praktykę odbywa się wymiarze 8 godzin tygodniu.
+§ 3. 1. Termin i miejsce rozpoczęcia praktyki wyznacza, wniosek kandydata, Przewodniczący Krajowej Rady Doradców Podatkowych, po zasięgnięciu opinii zarządu właściwego regionalnego oddziału Izby Doradców Podatkowych, terminie nie dłuższym niż 30 dni od dnia otrzymania tego wniosku.
+2. Wniosek, o którym mowa ust. 1, należy złożyć nie później niż terminie dwóch lat od dnia złożenia – wynikiem pozytywnym – egzaminu doradcę podatkowego.
+§ 4. 1. Kandydaci odbywają praktykę:
+1) warunkach umożliwiających zapoznanie się wykonywaniem doradztwa podatkowego;
+2) pod nadzorem doradcy podatkowego;
+3) podstawie uzgodnionego szczegółowego programu i warunków odbywania tej praktyki.
+2. Po odbyciu praktyki kandydat otrzymuje dokument potwierdzający jej odbycie.
+§ 5. 1. Na praktyką jest zatrudnienie:
+1) przez okres co najmniej sześciu miesięcy podmiotach uprawnionych do wykonywania doradztwa podatkowego, o których mowa art. 3 i 4 ustawy dnia 5 lipca 1996 r. o doradztwie podatkowym, jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów zakresu prawa podatkowego rzecz klienta;
+2) przez okres co najmniej roku w:
+a) urzędzie skarbowym,
+b) izbie skarbowej,
+c) urzędzie kontroli skarbowej,
+d) u rzędzie celnym,
+e) izbie celnej,
+f) Ministerstwie Finansów,
+g) s amorządowych służbach finansowych,
+h) s amorządowym kolegium odwoławczym – jeżeli do zakresu obowiązków kandydata należało stosowanie przepisów prawa podatkowego związku prowadzonymi postępowaniami podatkowymi lub kontrolnymi;
+3) przez okres co najmniej roku:
+a) stanowisku prokuratora lub sędziego,
+b) n a stanowisku, którym są wykonywane czynności zakresu usługowego prowadzenia ksiąg rachunkowych, lub stanowisku uprawniającym do przeprowadzania lustracji rozumieniu przepisów prawa spółdzielczego,
+c) stanowisku głównego księgowego podmiotach, które podstawie przepisów o rachunkowości są obowiązane do prowadzenia ksiąg rachunkowych,
+d) n a stanowisku skarbnika gminy;
+4) przez okres co najmniej dwóch lat charakterze pracownika naukowego, naukowo-dydaktycznego lub dydaktycznego, rozumieniu przepisów o szkolnictwie wyższym, zajmującego się dziedzinami, których zakres wchodzi prawo podatkowe.
+2. Na praktyką jest wykonywanie przez okres co najmniej sześciu miesięcy zawodu adwokata, radcy prawnego lub biegłego rewidenta.
+3. Przepis ust. 2 stosuje się odpowiednio do prawnika Unii Europejskiej wykonującego stałą podstawie ustawy dnia 5 lipca 2002 r. o świadczeniu przez prawników zagranicznych pomocy prawnej Rzeczypospolitej Polskiej (Dz. U. 2014 r. poz. 134).
+§ 6. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+Minister Finansów: M. Szczurek
+

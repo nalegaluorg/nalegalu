@@ -8,9 +8,12 @@ pos: 1494
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Poz. 1494
+# o utworzeniu Akademii Zamojskiej
+
+*USTAWA z dnia 8 lipca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1494/text.pdf) |
 
-USTAWA z 8 lipca 2021 o utworzeniu Akademii Zamojskiej
-
 **Art. 1.**
 
-1. Tworzy się z dniem 1 września 2021 Akademię Zamojską, zwaną dalej „Akademią”.
+1. Tworzy się z dniem 1 września 2021 r. Akademię Zamojską, zwaną dalej „Akademią”.
 
 2. Siedzibą Akademii jest miasto Zamość.
 
@@ -54,23 +55,33 @@ USTAWA z 8 lipca 2021 o utworzeniu Akademii Zamojskiej
 
 1. Z dniem utworzenia Akademii:
 
-- **1)** pracownicy zatrudnieni w Uczelni stają się pracownikami Akademii; przepis art. 23 ustawy z 26 czerwca 1974 – Kodeks pracy (Dz. U. z 2020 poz. 1320 oraz z 2021 poz. 1162) stosuje się odpowiednio;
+- **1)** pracownicy zatrudnieni w Uczelni stają się pracownikami Akademii; przepis art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2020 r. poz. 1320 oraz z 2021 r. poz. 1162) stosuje się odpowiednio;
 - **2)** studenci Uczelni stają się studentami Akademii;
 - **3)** uczestnicy studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Uczelni stają się uczestnikami odpowiednio studiów podyplomowych, kształcenia specjalistycznego oraz innych form kształcenia Akademii.
 
 2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2021/2022 do Uczelni z dniem utworzenia Akademii stają się osobami przyjętymi na pierwszy rok studiów do Akademii.
 
-3. Stosunki pracy z pracownikami, o których mowa w ust. 1 pkt 1, wygasają po upływie 3 miesięcy od wejścia w życie ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy i płacy albo w razie nieprzyjęcia nowych warunków pracy i płacy.
+3. Stosunki pracy z pracownikami, o których mowa w ust. 1 pkt 1, wygasają po upływie 3 miesięcy od dnia wejścia w życie ustawy, jeżeli przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy i płacy albo w razie nieprzyjęcia nowych warunków pracy i płacy.
 
 **Art. 6.**
 
-1. W terminie do zakończenia drugiej, po utworzeniu Akademii, ewaluacji jakości działalności naukowej, Akademia dostosuje się do wymogów określonych w art. 16 ust. 1 ustawy z 20 lipca 2018 – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 poz. 478 i 619).
+1. W terminie do zakończenia drugiej, po utworzeniu Akademii, ewaluacji jakości działalności naukowej, Akademia dostosuje się do wymogów określonych w art. 16 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2021 r. poz. 478 i 619).
 
 2. Jeżeli Akademia nie spełni wymogu, o którym mowa w ust. 1, traci prawo do posługiwania się nazwą Akademia.
 
 3. W przypadku, o którym mowa w ust. 2, nową nazwę Akademii określi minister właściwy do spraw szkolnictwa wyższego i nauki w drodze rozporządzenia.
 
+**Art. 7.**
+
+1. Członkowie senatu Uczelni, wybrani na kadencję rozpoczętą z dniem 1 września 2020 r., stają się z dniem utworzenia Akademii członkami senatu pierwszej kadencji Akademii.
+
+2. Pierwszego rektora Akademii powołuje minister właściwy do spraw szkolnictwa wyższego i nauki na okres do końca kadencji rozpoczętej z dniem 1 września 2020 r.
+
+3. Rada Uczelni wybrana na kadencję rozpoczętą w dniu 1 stycznia 2021 r. staje się radą Akademii.
+
+4. Kadencji rektora, o której mowa w ust. 2, nie wlicza się do liczby kadencji, o której mowa w art. 26 ust. 2 zdanie pierwsze ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce.
+
 5. Pierwszy statut Akademii nadaje minister właściwy do spraw szkolnictwa wyższego i nauki.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

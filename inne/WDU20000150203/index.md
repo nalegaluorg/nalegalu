@@ -8,6 +8,7 @@ pos: 203
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Sygn. SK 13/98 Trybunał Konstytucyjny składzie: Teresa Dębowska-Romanowska – przewodnicząca Jerzy Ciemniewski Zdzisław Czeszejko-Sochacki Krzysztof Kolasiński – sprawozdawca Marian Zdyb Joanna Szymczak – protokolant po rozpoznaniu 22 lutego 2000 r. na rozprawie skargi konstytucyjnej Wandy R., z udziałem umocowanych przedstawicieli uczestników postępowania: pełnomocnika skarżącej, Sejmu Rzeczypospolitej Polskiej oraz Prokuratora Generalnego, sprawie zgodności: art. 63 ust. 2 i 3 ustawy z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (tekst jednolity z 1995 r. Dz.U. Nr 57, poz. 299; zm.: Nr 101, poz. 504; z 1996 r. Nr 59, poz. 268, Nr 106, poz. 496, Nr 156, poz. 775; z 1997 r. Nr 79, poz. 484, Nr 54, poz. 349; z 1998 r. Nr 106, poz. 668; z 1999 r. Nr 49, poz. 484; z 2000 r. Nr 6, poz. 70) z art. 64 i art. 2 Konstytucji Rzeczypospolitej Polskiej o r z e k a:
@@ -20,7 +21,6 @@ domain: null
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 2000-02-22 |
-| Wejście w życie | 2000-03-07 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000150203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/203/text.pdf) |
 

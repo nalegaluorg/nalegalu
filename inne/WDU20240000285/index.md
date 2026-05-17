@@ -8,9 +8,12 @@ pos: 285
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lutego 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gdańską
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 20 lutego 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000285) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/285/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ dnia 20 lutego 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gdańską
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy dnia 24 lutego 2017 r. inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gdańską (Dz. U. 2021 r. poz. 1644), uwzględnieniem zmiany wprowadzonej ustawą dnia 7 lipca 2023 r. zmianie ustawy planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688) oraz zmian wynikających przepisów ogłoszonych przed dniem 13 lutego 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 78 ustawy dnia 7 lipca 2023 r. zmianie ustawy planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688), który stanowi: „Art. 78. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, wyjątkiem:
 1) art. 1 pkt 62 lit. e zakresie ust. 3b oraz art. 67 ust. 3 pkt 3, które wchodzą życie dniem 1 stycznia 2025 r.;
@@ -93,7 +94,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
     - **c)** charakterystycznych parametrów technicznych inwestycji oraz danych charakteryzujących jej wpływ środowisko;
 
 - **7)** decyzję środowiskowych uwarunkowaniach, której mowa ustawie dnia 3 października 2008 r. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko (Dz. U. 2023 r. poz. 1094, późn. zm. ), jeżeli jest ona wymagana;
-- **7a)** przypadku przedsięwzięć, dla których wydano decyzję środowiskowych uwarunkowaniach postępowaniu wymagającym udziału społeczeństwa załącznik graficzny określający przewidywany teren, którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, który będzie oddziaływać przedsięwzięcie, ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące dniu złożenia wniosku wydanie decyzji środowiskowych uwarunkowaniach, szczególności mapę, której mowa art. 74 ust. 1 pkt 3a ustawy dnia 3 października 2008 r. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko; 17 maja 1989 r. Prawo geodezyjne i kartograficzne;
+- **7a)** przypadku przedsięwzięć, dla których wydano decyzję środowiskowych uwarunkowaniach postępowaniu wymagającym udziału społeczeństwa załącznik graficzny określający przewidywany teren, którym będzie realizowane przedsięwzięcie, oraz przewidywany obszar, który będzie oddziaływać przedsięwzięcie, ile dołączenie tego załącznika było wymagane przez przepisy obowiązujące dniu złożenia wniosku wydanie decyzji środowiskowych uwarunkowaniach, szczególności mapę, której mowa art. 74 ust. 1 pkt 3a ustawy dnia 3 października 2008 r. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko;
 - **9)** wskazanie nieruchomości, stosunku do których decyzja zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej ma wywołać skutek, którym mowa art. 19 ust. 3;
 - **10)** wskazanie ujawnionych ograniczonych praw rzeczowych obciążających nieruchomości wskazane zgodnie pkt 9;
 - **11)** wskazanie nieruchomości, stosunku do których decyzja zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej ma wywołać skutek, którym mowa art. 23 ust. 1;
@@ -120,7 +121,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
 - **6)** właściwego zarządcy drogi odniesieniu do obszarów pasa drogowego, zgodnie przepisami ustawy dnia 21 marca 1985 r. drogach publicznych (Dz. U. 2023 r. poz. 645, 760, 1193 i 1688);
 - **7)** właściwego zarządcy terenów kolejowych odniesieniu do obszarów kolejowych, zgodnie przepisami ustawy dnia 28 marca 2003 r. transporcie kolejowym (Dz. U. 2023 r. poz. 1786, 1720 i 2029);
 - **8)** właściwego miejscowo zarządu województwa, zarządu powiatu oraz wójta (burmistrza, prezydenta miasta), a także wójta (burmistrza, prezydenta miasta) gminy sąsiadującej gminą, terenie której zlokalizowana będzie inwestycja;
-- **9)** ministra właściwego do spraw gospodarki morskiej odniesieniu do nieruchomości, których mowa art. 3 ust. 1 pkt 1 ustawy dnia 20 grudnia 1996 r. portach i przystaniach morskich (Dz. U. 2023 r. poz. 1796); ich strefy ochronne, których mowa ustawie dnia 27 marca 2003 r. planowaniu i zagospodarowaniu przestrzennym (Dz. U. 2023 r. poz. 977, późn. zm. );
+- **9)** ministra właściwego do spraw gospodarki morskiej odniesieniu do nieruchomości, których mowa art. 3 ust. 1 pkt 1 ustawy dnia 20 grudnia 1996 r. portach i przystaniach morskich (Dz. U. 2023 r. poz. 1796); strzennym (Dz. U. 2023 r. poz. 977, późn. zm. );
 - **11)** ministra właściwego do spraw zdrowia odniesieniu do inwestycji realizowanych terenach uzdrowisk lub obszarów ochrony uzdrowiskowej.
 
 7. Budowa lub przebudowa dróg publicznych, których mowa art. 1 ust. 2 pkt 2 lit. f, wymaga uzgodnienia właściwym zarządcą drogi. Przepisy ust. 8 i 9 stosuje się odpowiednio. Odmowa uzgodnienia wymaga wydania decyzji, od której inwestorowi przysługuje odwołanie do ministra właściwego do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa, który rozpatruje odwołanie terminie 21 dni.
@@ -215,7 +216,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
 
 3. Zawiadomienie wydaniu decyzji zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej zawiera informację miejscu, którym strony mogą zapoznać się treścią decyzji.
 
-4. Przepisy ust. 1–3 stosuje się odpowiednio do doręczenia decyzji zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej wydanej przez organ wyższego stopnia i zawiadomienia stron jej wydaniu. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko.
+4. Przepisy ust. 1–3 stosuje się odpowiednio do doręczenia decyzji zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej wydanej przez organ wyższego stopnia i zawiadomienia stron jej wydaniu. oddziaływania środowisko.
 
 2. Do postępowania wydanie decyzji zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej, poprzedzonej decyzją środowiskowych uwarunkowaniach, stosuje się przepisy art. 86f ust. 6, art. 86g oraz art. 86h ustawy dnia 3 października 2008 r. udostępnianiu informacji środowisku i jego ochronie, udziale społeczeństwa ochronie środowiska oraz ocenach oddziaływania środowisko.
 
@@ -288,7 +289,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
 
 5. Termin wydania decyzji, której mowa ust. 1, wynosi 90 dni od dnia złożenia wniosku.
 
-6. Do terminu, którym mowa ust. 5, nie wlicza się terminów przewidzianych przepisach prawa dokonanie określonych czynności, szczególności ramach postępowania sprawie transgranicznego oddziaływania środowisko, okresów zawieszenia postępowania oraz okresów opóźnień wynikłych winy strony albo innych przyczyn niezależnych od organu. wydobywania kopalin ze złóż określa się koncesji wydanej rzecz inwestora przez ministra właściwego do spraw środowiska. Inwestor nie występuje wydanie koncesji, jeżeli wydobycie kopalin byłoby ekonomicznie nieuzasadnione.
+6. Do terminu, którym mowa ust. 5, nie wlicza się terminów przewidzianych przepisach prawa dokonanie określonych czynności, szczególności ramach postępowania sprawie transgranicznego oddziaływania środowisko, okresów zawieszenia postępowania oraz okresów opóźnień wynikłych winy strony albo innych przyczyn niezależnych od organu. dowiska. Inwestor nie występuje wydanie koncesji, jeżeli wydobycie kopalin byłoby ekonomicznie nieuzasadnione.
 
 2. Za ekonomicznie nieuzasadnione wydobycie kopalin uważa się szczególności sytuację, której kwota zwiększenia, związku wydobyciem kopaliny ze złoża, kosztów robót budowlanych i innych kosztów i opłat związanych wydobyciem kopaliny będzie wyższa, niż zysk, jaki może być uzyskany ze zbycia tej kopaliny.
 
@@ -345,7 +346,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
 
 3. Wysokość odszkodowania, którym mowa ust. 1 i 2, ustala się podstawie operatu szacunkowego sporządzonego przez rzeczoznawcę majątkowego, według stanu nieruchomości dniu wydania decyzji zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej przez organ pierwszej instancji oraz według jej wartości dniu uzgodnienia, którym mowa ust. 1, albo dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
 
-4. W przypadku, którym mowa art. 19 ust. 4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się kwotę równą wartości odszkodowania ustalonego tytułu wygaśnięcia ograniczonych praw rzeczowych. rzeczowych ustanowionych tej nieruchomości lub prawie użytkowania wieczystego, nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego. Roszczenia osób uprawnionych tytułu ograniczonych praw rzeczowych zaspokaja się według pierwszeństwa tych praw, ustalonego zgodnie odrębnymi przepisami.
+4. W przypadku, którym mowa art. 19 ust. 4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza się kwotę równą wartości odszkodowania ustalonego tytułu wygaśnięcia ograniczonych praw rzeczowych. nieruchomości lub wartości prawa użytkowania wieczystego. Roszczenia osób uprawnionych tytułu ograniczonych praw rzeczowych zaspokaja się według pierwszeństwa tych praw, ustalonego zgodnie odrębnymi przepisami.
 
 6. Jeżeli nieruchomościach, których mowa art. 19 ust. 3, lub prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania tytułu wygaśnięcia hipoteki ustala się wysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, zakresie, jakim wierzytelność ta nie wygasła, wraz odsetkami zabezpieczonymi tą hipoteką obliczonymi dzień spłaty wierzyciela hipotecznego. Odszkodowanie to podlega zaliczeniu spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz odsetkami.
 
@@ -375,7 +376,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
 
 2. Inwestor, niezwłocznie przed planowanym zajęciem terenu, którym mowa ust. 1, uzgadnia drodze pisemnego porozumienia zarządcą drogi, zarządcą infrastruktury kolejowej lub odpowiednimi organami, których mowa art. 212 ust. 1 ustawy dnia 20 lipca 2017 r. Prawo wodne, zakres, termin i warunki zajęcia tego terenu.
 
-3. Jeżeli terminie 30 dni od dnia, którym wydano decyzję zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej, nie dojdzie do zawarcia porozumienia, którym mowa ust. 1, zakres, termin i warunki zajęcia terenu ustala Wojewoda Pomorski drodze decyzji. zakresie infrastruktury dostępowej, są obowiązane do dokonania wycinki drzew i krzewów oraz ich uprzątnięcia terminie oraz warunkach ustalonych odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe i inwestorem.
+3. Jeżeli terminie 30 dni od dnia, którym wydano decyzję zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej, nie dojdzie do zawarcia porozumienia, którym mowa ust. 1, zakres, termin i warunki zajęcia terenu ustala Wojewoda Pomorski drodze decyzji. nie oraz warunkach ustalonych odrębnym porozumieniu między Państwowym Gospodarstwem Leśnym Lasy Państwowe i inwestorem.
 
 2. Jeżeli terminie 30 dni od dnia, którym wydano decyzję zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej, nie dojdzie do zawarcia porozumienia, którym mowa ust. 1, termin oraz warunki wycinki drzew i krzewów oraz ich uprzątnięcia ustala Wojewoda Pomorski drodze decyzji. Organem wyższego stopnia sprawie, której mowa zdaniu pierwszym, jest minister właściwy do spraw środowiska.
 
@@ -415,7 +416,7 @@ inwestycjach zakresie budowy drogi wodnej łączącej Zalew Wiślany Zatoką Gda
 
 2. Przekazanie akt i odpowiedzi skargę następuje terminie 15 dni od dnia otrzymania skargi. Sąd rozpatruje skargę terminie 30 dni od dnia otrzymania akt wraz odpowiedzią skargę.
 
-3. Termin rozpatrzenia skargi kasacyjnej decyzje, których mowa ustawie, wynosi 2 miesiące od dnia jej wniesienia. którym decyzja stała się ostateczna, a inwestor rozpoczął roboty budowlane. Przepis art. 158 § 2 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
+3. Termin rozpatrzenia skargi kasacyjnej decyzje, których mowa ustawie, wynosi 2 miesiące od dnia jej wniesienia. administracyjnego stosuje się odpowiednio.
 
 2. W przypadku uwzględnienia skargi decyzję zezwoleniu realizację inwestycji zakresie infrastruktury dostępowej sąd administracyjny po upływie 60 dni od dnia rozpoczęcia robót budowlanych może stwierdzić jedynie, że decyzja narusza prawo przyczyn wskazanych art. 145 § 1 lub art. 156 § 1 Kodeksu postępowania administracyjnego.
 

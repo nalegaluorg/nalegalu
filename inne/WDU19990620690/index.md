@@ -8,9 +8,10 @@ pos: 690
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 8 lipca 1999 r. o dopłatach do oprocentowania kredytów bankowych udzielonych na usuwanie skutków powodzi.
+# z dnia 8 lipca 1999 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +25,71 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990620690) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/690/text.pdf) |
 
-**Art. 1.** Ustawa reguluje zasady stosowania do oprocentowania udzielonych banki usuwanie skutków powodzi, które miejsce po od lipca 1997 r., zwanych dalej
+o dopłatach do oprocentowania bankowych udzielonych usuwanie skutków powodzi
+
+**Art. 1.**
+
+1. Ustawa reguluje zasady stosowania dopłat do oprocentowania udzielanych banki usuwanie skutków powodzi.
+
+2. Przepisy ustawy stosuje się odpowiednio do osuwisk ziemnych i huraganów.
 
 **Art. 2.** Ilekroć ustawie jest mowa o:
 
-**Art. 3.**
-
-1. Dopłaty stosowane do oprocen towania udzielonych banki lom lub budynków mieszkalnych, lokali mieszkalnych oraz obiektów infrastruktury technicznej budownictwu mieszkaniowemu, zwa nym dalej "kredytobiorcami", na:
-
-- **1)** remont lokalu mieszkalnego,
-- **2)** remont lub odtworzenie budynku mieszkalnego,
-- **3)** remont lub odtworzenie budynku mieszkal nego lokali tym budynku,
-- **4)** remont lub odtworzenie obiektu infrastruktury technicznej,
-- **5)** odtworzenie budynku mieszkalnego lub obiektu o podobnych parametrach innym miejscu, lub wieczystym uszkodzo nego lub zniszczonego budynku lub obiektu, wy padku gdy odtworzenie budynku lub obiektu tym samym miejscu jest albo nieuzasad nione
-
-2. stosowane do oprocentowa nia udzielonych gminom miesz komunalnych dla osób, które wyniku powodzi lokal lub budynek mieszkalny i nie ich odbudowy z
-
-3. udzielane Bank Gospodarstwa Krajowego i oprocentowania udzie lonych cele, o których mowa ust. 1 i 2, ten bank oraz inne banki, które z nim
-
 **Art. 4.**
 
-1. Kredyty udzielane do wysoko1) naj wynagro dzenia za Ministra Pracy i Polityki Socjalnej, wniosku o udzielenie kredytu re mont lokalu mieszkalnego, budynku mieszkalnego lub budynku mieszkalnego lokalu mieszkalnego we budynku, podstawie uproszczonego kosztorysu robót budowlanych,
+1. Kredyty mogą być udzielane do wysokości:
 
-- **2)** 100% kosztorysowej na:
-    - **a)** remont lokalu mieszkalnego lub budynku miesz kalnego albo jego o której mowa pkt 1, robót przekracza o której mowa pkt 1,
-    - **b)** odtworzenie budynku mieszkalnego albo jego o której mowa wart. 3 ust. 1 pkt 3, lub bu komunalnych,
-    - **c)** remont lub odtworzenie obiektu infrastruktury technicznej.
+- **1)** odpowiadającej 20-krotności najniższego wynagrodzenia za pracę, określonego
+- **2)** 100% wartości kosztorysowej ceny nabycia odpowiednio na: 3 ust. 1 pkt 3, budowę mieszkań komunalnych,
+    - **a)** albo jego części, o której mowa pkt 1, jeśli wartość robót przekracza kwotę, o której mowa pkt 1,
+    - **b)** albo jego części, o której mowa art.
+    - **c)**
+    - **d)** zakup albo przypadku kredytu, o którym mowa art. 3 ust. 1 pkt 6.
 
-- **1)** szkody poniesione wyniku powodzi po twierdzone organ gminy; nie doty czy to udzielanych gminom,
-- **2)** kwota kredytu nie przekracza kosztoryso wej o którym mowa wart. 3 ust. 1 i 2,
-- **3)** oprocentowanie kredytu nie przekracza 1,10 stopy redyskonta weksli Narodowym Banku Polskim, kredyt udzielony nie od którym szkody wyniku powodzi,
-- **5)** bank, który kredytu, potwierdzi, kredyto biorca odsetki i raty
+2. Kredyty mogą być udzielane okres do 10 lat, z możliwością karencji spłacie kapitału do 24 miesięcy.
 
-2. do oprocentowania usuwa nie skutków powodzi z lipca 1997 r. stosowa ne, kredyty udzielone do dnia 31 grudnia 1999 r.
+**Art. 5.**
 
-3. stanowi odsetek banko wi i odpowiada odsetkami mi z oprocentowania, o którym mowa ust. 1 pkt 3, a odsetkami wysoko 2% stosunku rocznym.
+1. Dopłaty mogą być stosowane do oprocentowania udzielonych cele, o których mowa art. 3 ust. 1 i 2, jeżeli:
 
-4. kosztorysowa remontu lub odtwo rzenia budynku mieszkalnego przekracza iloczyn po wierzchni budynku i ostatnio ustalonego przeliczeniowego 1 m po wierzchni budynku mieszkalnego, o którym mowa ustawie wymienionej wart. 2 pkt 4, oprocentowanie kredytu, którego kwota nie przekracza tego iloczynu.
+- **1)** szkody poniesione wyniku powodzi zostały potwierdzone właściwy organ gminy; dotyczy to udzielanych gminom,
+- **2)** kwota przekracza odpowiednio ceny nabycia albo wartości kosztorysowej przedsięwzięcia, o którym mowa art. 3 ust. 1 i 2,
+- **3)** oprocentowanie przekracza 1,10 stopy redyskonta weksli Narodowym Banku Polskim,
+- **4)** został udzielony później niż ciągu 24 miesięcy od miesiąca, którym powstały szkody wyniku powodzi,
+- **5)** bank, który udzielił kredytu, potwierdzi, że kredytobiorca zapłacił należne odsetki i raty kapitałowe.
+
+2. Dopłaty do oprocentowania usuwanie skutków powodzi z lipca 1997 r. mogą być stosowane, jeśli kredyty zostały udzielone do dnia 31 grudnia 1999 r.
+
+3. Dopłata stanowi część odsetek należnych bankowi i odpowiada różnicy między odsetkami wynikającymi z oprocentowania, o którym mowa ust. 1 pkt 3, a użytkowej o którym mowa ustawie wymienionej art. 2 pkt 4, dopłatą może być objęte oprocentowanie części kwocie odpowiadającej temu iloczynowi.
 
 **Art. 6.**
 
-1. nie stosowane, bank, który kredytu,
+1. Dopłaty mogą być stosowane, jeżeli bank, który udzielił kredytu, stwierdził, że:
 
-- **1)** kredyt lub wykorzystany niezgodnie z przeznaczeniem,
-- **2)** wybudowane mieszkania komunalne nie przydzielone osobom, które wyniku powodzi lokal mieszkalny lub budynek mieszkalny.
+- **1)** został części całości wykorzystany niezgodnie z przeznaczeniem,
+- **2)** wybudowane gminę mieszkania komunalne zostały przydzielone osobom, które wyniku powodzi utraciły lokal mieszkalny budynek mieszkalny.
 
-2. W przypadkach, o których mowa ust. 1, kredy tobiorca jest do odsetek z umowy kredytu za okres ko rzystania z kredytu, a bank kredytu zwróci Bankowi Gospodarstwa Krajowego kwo otrzymanych dotychczas do oprocentowania tego kredytu. ków Krajowego Funduszu Mieszkaniowego albo kre dyt z do oprocentowania podstawie ni niejszej ustawy lub przepisów nie dotyczy to szkód wyniku kolejnej powodzi.
+2. W przypadkach, o których mowa ust. 1, kredytobiorca jest obowiązany do spłaty odsetek pełnej wysokości wynikającej z umowy za okres korzystania z kredytu, a bank udzielający zwróci niezwłocznie Bankowi Gospodarstwa Krajowego kwotę otrzymanych dotychczas dopłat do oprocentowania tego kredytu.
+
+3. Środki, o których mowa ust. 2, Bank Gospodarstwa Krajowego przekazuje niezwłocznie do budżetu państwa.
+
+4. Dopłaty mogą być stosowane do oprocentowania udzielonego roboty, o których mowa art. 3 ust. 1 i 2, jeżeli ich wykonanie danym obiekcie była udzielona pożyczka ze środków Krajowego Funduszu Mieszkaniowego udzielony Bank Gospodarstwa Krajowego ramach realizacji rządowych programów popierania budownictwa mieszkaniowego albo z dopłatami do oprocentowania podstawie niniejszej ustawy przepisów odrębnych; dotyczy to szkód powstałych wyniku kolejnej powodzi.
+
+5. Przepis ust. 4 stosuje się odpowiednio przypadku zakup albo o którym mowa art. 3 ust. 1 pkt 6.
 
 **Art. 7.**
 
-1. udzielane Bankowi Gospodar stwa Krajowego oraz bankom, z którymi Bank Gospo darstwa Krajowego zawrze umowy warun ki kredytowania.
-
-2. Bank Gospodarstwa Krajowego udziela kredy tów warunkach umowach, o których mowa ust. 1.
+1. Dopłaty są udzielane Bankowi Gospodarstwa Krajowego oraz bankom, z którymi Bank Gospodarstwa Krajowego zawrze umowy określające
 
 **Art. 8.**
 
-1. dokonywane bu przekazywanych Prezesa Mieszkalnictwa i Rozwoju Miast ra chunek Banku Gospodarstwa Krajowego.
+1. Dopłaty będą dokonywane ze środków budżetowych przekazywanych Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast wyodrębniony rachunek Banku Gospodarstwa Krajowego.
 
-2. o których mowa ust. 1, oprocen towane zasadach stosowanych Bank Gospo darstwa Krajowego dla rachunków
+2. Środki, o których mowa ust. 1, będą oprocentowane zasadach stosowanych Bank Gospodarstwa Krajowego dla rachunków bieżących.
 
-**Art. 9.** Rada Ministrów drodze dzenia:
+**Art. 9.** Rada Ministrów określi, drodze rozporządzenia:
 
-**Art. 10.** Upoważnia ministra do spraw usuwania skutków powodzi do sfinansowania do dnia niniejszej ustawy Bankowi Gospodarstwa Krajowego do udzielo nych banki powodziowych oraz prowi zji z udzielonych
+**Art. 10.** Upoważnia się ministra właściwego do spraw usuwania skutków powodzi do sfinansowania należnych do dnia wejścia życie niniejszej ustawy Bankowi Gospodarstwa Krajowego dopłat do udzielonych banki powodziowych oraz prowizji z tytułu udzielonych dopłat.
 
-**Art. 11.** Ustawa wchodzi po 14 dni od dnia i ma zastosowanie, z art. 4, do kredytów, o których mowa wart. 1, udzielonych przed dniem jej Prezydent Rzeczypospolitej Polskiej: A.
+**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia i ma zastosowanie, z wyjątkiem art. 4, również do kredytów, o których mowa art. 1, udzielonych przed dniem jej wejścia życie.
 

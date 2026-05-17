@@ -8,9 +8,12 @@ pos: 1373
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 września 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy Prawo celne
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-09-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001373) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1373/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy Prawo celne
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2023 r. poz. 1590), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852) oraz zmian wynikających z przepisów ogłoszonych przed dniem 4 września 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 19 i art. 23 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i usług oraz niektórych innych ustaw (Dz. U. poz. 1598 oraz z 2024 r. poz. 852), które stanowią: „Art. 19. 1. Do postępowań sprawie wydania wiążących informacji o pochodzeniu, zwanych dalej „WIP”, przedłużenia użycia, cofnięcia i unieważnienia WIP i wiążących informacji taryfowych, zwanych dalej „WIT”, oraz odwołań składanych od tych rozstrzygnięć, wszczętych i niezakończonych przed dniem 1 stycznia 2024 r., stosuje się przepisy ustawy zmienianej art. 4, brzmieniu dotychczasowym.
 2. Przepis art. 73e ustawy zmienianej art. 4 stosuje się do postępowań sprawie przedłużenia użycia, cofnięcia i unieważnienia WIP i WIT oraz odwołań składanych od rozstrzygnięć sprawie WIP i WIT, wszczętych od dnia 1 lipca 2024 r.” „Art. 23. Ustawa wchodzi życie z dniem 1 lutego 2026 r., z wyjątkiem:
@@ -160,7 +161,7 @@ W rozporządzeniu należy szczególności określić rodzaje i wzory dokumentów
 32. 1. W celu uregulowania sytuacji towarów innych niż będące przedmiotem zakazów lub ograniczeń organ celny może zająć towar i wystąpić o orzeczenie jego przepadku na rzecz Skarbu Państwa, chyba że przepisy prawa celnego stanowią inaczej.
 2. (uchylony)
 3. W przypadku, o którym mowa ust. 1, stosuje się przepisy art. 31 ust. 2 i 7.
-4. (uchylony) lub likwidacji inny sposób oraz kosztów związanych z jego przechowywaniem nie pobiera się, jeżeli łączna kwota tych kosztów nie przekracza równowartości kwoty 10 euro.
+4. (uchylony) kosztów nie przekracza równowartości kwoty 10 euro.
 33. 1. W zakresie nieuregulowanym niniejszej ustawie do sprzedaży towaru, o której mowa art. 250 rozporządzenia wykonawczego, stosuje się przepisy o postępowaniu egzekucyjnym administracji.
 2. Przepisy działu II rozdziału 6 ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji (Dz. U. z 2023 r. poz. 2505 i 2760 oraz z 2024 r. poz. 858, 859 i 1222) dotyczące zobowiązanego stosuje się do osoby, na której ciążą obowiązki wynikające z przepisów prawa celnego, lub każdej innej osoby, której posiadaniu znajduje się towar.
 3. W przypadku gdy zobowiązany jest nieznany, dokumentach stosowanych przy sprzedaży wskazuje się ten fakt.
@@ -183,7 +184,6 @@ W rozporządzeniu należy szczególności określić rodzaje i wzory dokumentów
 36. Zwolnienie od należności przywozowych lub należności wywozowych stosuje się na wniosek zgłaszającego.
 37. 1. Zwolnione od należności przywozowych są paliwa, smary i inne materiały eksploatacyjne niezbędne do funkcjonowania środków transportu, innych niż wymienione art. 107 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych, przewożone tych środkach transportu, wykorzystywane do ich napędu lub działania instalacji, które są wyposażone.
 2. Towary, o których mowa ust. 1, nie mogą być wykorzystywane innych środkach transportu niż ten, którym zostały przywiezione, ani nie mogą zostać usunięte z tego środka transportu, chyba że jest to konieczne ze względu na jego naprawę, oraz nie mogą zostać odpłatnie lub nieodpłatnie odstąpione przez osobę korzystającą ze zwolnienia.
-według stanu i wartości celnej towaru dniu naruszenia warunku i według stawek celnych obowiązujących tym dniu.
 Jeżeli nie można ustalić daty naruszenia warunku, przepis art. 85 unijnego kodeksu celnego stosuje się odpowiednio.
 38. 1. Zwolnione od należności przywozowych są środki spożywcze oraz zapasy pokładowe przywożone innych niż wymienione art. 107 ust. 1 lit. a Rozporządzenia ustanawiającego wspólnotowy system zwolnień celnych środkach transportu, użytkowanych celach zarobkowych, przeznaczone do konsumpcji lub jednorazowego zużycia przez załogę lub pasażerów tych środkach transportu czasie rejsu lub podróży, jeżeli tego rodzaju usługa jest normalną praktyką.
 2. W przypadku sprzedaży podróżnym towarów, o których mowa ust. 1, opakowania towarów muszą być oznaczone sposób umożliwiający ich identyfikację poza środkiem transportu.
@@ -223,7 +223,7 @@ b) ubezpieczeniową;
 a) warunków, o których mowa ust. 2 pkt 1–3,
 b) wymogów kapitałowych określonych przepisami prawa;
 2) o toczących się przed Komisją Nadzoru Finansowego postępowaniach wobec tej osoby.
-bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879), oraz zakładu ubezpieczeń, który wykonuje działalność na podstawie przepisów rozdziału 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838), Komisja Nadzoru Finansowego przekazuje informację, o której mowa ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej.
+podstawie przepisów rozdziału 8 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej (Dz. U. z 2024 r. poz. 838), Komisja Nadzoru Finansowego przekazuje informację, o której mowa ust. 4, niezwłocznie po otrzymaniu informacji od właściwego organu nadzoru państwa członkowskiego Unii Europejskiej.
 6. Wykaz składa się z dwóch części, których wpisuje się:
 1) części I banki i instytucje kredytowe;
 2) części II zakłady ubezpieczeń.
@@ -266,8 +266,7 @@ bankowe (Dz. U. z 2023 r. poz. 2488 oraz z 2024 r. poz. 879), oraz zakładu ubez
 1) termin, którym może być złożony wniosek o wydanie pozwolenia na odroczenie terminu płatności należności celnych przypadku, o którym mowa art. 110 lit. a unijnego kodeksu celnego,
 2) termin, od którego możliwe jest korzystanie z odroczenia płatności należności celnych przypadkach, o których mowa art. 110 lit. b lub c unijnego kodeksu celnego,
 3) termin płatności należności celnych przypadkach, o których mowa art. 111 ust. 3 lub 4 unijnego kodeksu celnego biorąc pod uwagę zapewnienie jednolitości postępowania organów celnych oraz ułatwienie formalności celnych.
-60. (uchylony) wynikającej z długu celnego, stosuje się odpowiednio przepisy rozdziału 3 działu III ustawy z dnia 29 sierpnia 1997 r.
-Ordynacja podatkowa, chyba że przepisy prawa celnego stanowią inaczej.
+60. (uchylony) Ordynacja podatkowa, chyba że przepisy prawa celnego stanowią inaczej.
 2. Zabezpieczenia można dokonać również:
 1) przed zaksięgowaniem kwoty należności;
 2) toku postępowania celnego lub kontroli celnej, przed wydaniem decyzji określającej kwotę należności wynikającą z długu celnego.
@@ -338,7 +337,7 @@ b) organ odwoławczy od decyzji wydawanych sprawach, o których mowa lit. a oraz
 3. Minister właściwy do spraw finansów publicznych, drodze rozporządzenia, wyznaczy dyrektora lub dyrektorów izb administracji skarbowej właściwych do prowadzenia spraw, o których mowa ust. 2. Rozporządzenie powinno szczegółowo określać zakres spraw, które może prowadzić wyznaczony dyrektor izby administracji skarbowej, uwzględniając potrzebę sprawnego wykonywania zadań oraz jednolitości postępowania.
 4. Minister właściwy do spraw finansów publicznych, drodze rozporządzenia, może wyznaczyć dyrektora lub dyrektorów izb administracji skarbowej właściwych do prowadzenia spraw innych niż określone ust. 2. Rozporządzenie powinno szczegółowo określać zakres spraw, które może prowadzić wyznaczony dyrektor izby administracji skarbowej, uwzględniając potrzebę sprawnego wykonywania zadań oraz jednolitości postępowania.
 5. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, urząd skarbowy lub urzędy skarbowe, na których rachunek bankowy dokonuje się wpłaty kwot z tytułu należności przywozowych lub wywozowych oraz z których rachunku bankowego dokonuje się wypłaty z tytułu zwrotu należności przywozowych lub wywozowych, uwzględniając potrzebę zapewnienia sprawnego poboru i zwrotu tych należności.
-organów celnych, mając na uwadze, szczególności, zakres zadań wykonywanych przez te organy, a także rodzaje procedur celnych, którymi mogą być obejmowane towary. Rozporządzenie powinno uwzględniać możliwość sprawowania dozoru celnego i kontroli celnej, a także gospodarcze potrzeby przedsiębiorców.
+celnych, którymi mogą być obejmowane towary. Rozporządzenie powinno uwzględniać możliwość sprawowania dozoru celnego i kontroli celnej, a także gospodarcze potrzeby przedsiębiorców.
 72. W przypadku sporu o właściwość miejscową i rzeczową, przepisy art. 19 i 20 ustawy z dnia 29 sierpnia 1997 r.
 Ordynacja podatkowa stosuje się odpowiednio.
 73. 1. Do:
@@ -359,7 +358,7 @@ Ordynacja podatkowa, z tym że odmowa wydania zaświadczenia lub zaświadczenia 
 1) wiążących informacji o pochodzeniu,
 2) przedłużenia użycia, cofnięcia i unieważnienia wiążących informacji taryfowych oraz odwołań składanych od rozstrzygnięć sprawie wiążących informacji taryfowych składa się i doręcza wyłącznie za pośrednictwem konta na PUESC, z zastrzeżeniem art. 35a ust. 7 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. ).
 74. W zakresie praw i obowiązków następców prawnych i podmiotów przekształconych stosuje się odpowiednio przepisy rozdziału 14 działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
-75. (uchylony) bezpośrednio dla osoby, która go ustanowiła.
+75. (uchylony)
 77. Przedstawiciel celny może udzielić dalszego pełnomocnictwa do wykonywania określonych czynności za zgodą osoby, która go ustanowiła.
 77a. W przypadkach, o których mowa art. 143a rozporządzenia delegowanego, osobę dokonującą zgłoszenia celnego imieniu własnym, lecz na rzecz odbiorcy przesyłki, uważa się za upoważnioną do dokonania zgłoszenia, jeżeli odbiorca przesyłki, poinformowany o możliwości samodzielnego dokonania zgłoszenia celnego lub wyboru innego przedstawiciela celnego, nie zgłosił zamiaru skorzystania z tej możliwości.
 78. (uchylony)
@@ -407,7 +406,7 @@ Informację o wpisie osoby na listę agentów celnych oraz jego zmianie otrzymuj
 2. Przepisu ust. 1 nie stosuje się, jeżeli decyzja całości uwzględnia odwołanie.
 90e. 1. Załatwienie sprawy postępowaniu odwoławczym powinno nastąpić nie później niż ciągu 2 miesięcy od dnia otrzymania odwołania przez organ odwoławczy.
 2. Do terminu określonego ust. 1 nie wlicza się terminów przewidzianych przepisach prawa celnego dla dokonania określonych czynności oraz okresów opóźnień spowodowanych z winy osoby składającej odwołanie albo z przyczyn niezależnych od organu.
-zgodnie z odrębnymi przepisami, a także przez podmioty, o których mowa art. 7 ust. 1 pkt 1, 2 i 4–8 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), lub inne podmioty, które dysponują metodami i wyposażeniem niezbędnym dla danego rodzaju badań lub analiz.
+2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), lub inne podmioty, które dysponują metodami i wyposażeniem niezbędnym dla danego rodzaju badań lub analiz.
 92. 1. Z tytułu przeprowadzonych badań lub analiz towarów pobierane są opłaty, przypadku gdy:
 1) badanie lub analiza zostaną przeprowadzone na żądanie osoby;
 2) rozpatrzenie wniosku o wydanie wiążącej informacji taryfowej lub wiążącej informacji o pochodzeniu towaru wymaga przeprowadzenia badania lub analizy.
@@ -456,7 +455,6 @@ zgodnie z odrębnymi przepisami, a także przez podmioty, o których mowa art. 7
 6) uznawanie miejsc załadunku dla potrzeb odpraw towarów wywożonych z wnioskiem o refundację;
 7) wykonywanie czynności dozoru i kontroli celnej miejscach, których towary objęte refundacją są składowane lub przetwarzane przed ich wywozem;
 8) inne czynności wynikające z przepisów unijnych regulujących Wspólną Politykę Rolną.
-Unii i wywozu towarów z tego obszaru oraz wykonywania czynności kontroli celnej stosuje się odpowiednio.
 3. Czynności ramach postępowania z towarami objętymi Wspólną Polityką Rolną zakresie przewidzianym dla organów celnych są realizowane we współpracy z właściwą agencją płatniczą ustanowioną przepisach odrębnych.
 4. Minister właściwy do spraw finansów publicznych porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, drodze rozporządzenia, sposób współpracy organów celnych z agencją płatniczą przy wykonywaniu zadań wynikających z przepisów unijnych regulujących Wspólną Politykę Rolną, uwzględniając konieczność zapewnienia prawidłowej realizacji tych zadań.
 5. Minister właściwy do spraw finansów publicznych porozumieniu z ministrem właściwym do spraw rynków rolnych może określić, drodze rozporządzenia, dokumenty stosowane obrocie towarami objętymi Wspólną Polityką Rolną oraz szczegółowe warunki i tryb postępowania z tymi towarami, zakresie przewidzianym dla organów celnych, mając na uwadze zapewnienie właściwego dozoru i kontroli celnej oraz wykonywania zadań wynikających z przepisów unijnych regulujących Wspólną Politykę Rolną. Rozporządzenie powinno określać wzory i szczegółowy sposób stosowania dokumentów, szczegółowe warunki i tryb wydawania pozwoleń na prowadzenie magazynów żywnościowych i stosowanie procedury planowej oraz szczegółowe warunki i tryb uznawania miejsc uznanych na potrzeby załadunku.
@@ -473,7 +471,6 @@ Unii i wywozu towarów z tego obszaru oraz wykonywania czynności kontroli celne
 2. Przedstawicielem, o którym mowa ust. 1, może być osoba, o której mowa art. 5 pkt 4 unijnego kodeksu celnego, szczególności przedstawiciel celny.
 100. 1. W przypadku niewykonania lub nieprawidłowego wykonania obowiązku, o którym mowa art. 98 ust. 1, organ celny, nie więcej niż trzykrotnie, upomina postaci papierowej lub elektronicznej osobę zobowiązaną o konieczności złożenia zgłoszenia INTRASTAT lub dokonania korekty zgłoszenia już dokonanego.
 2. Organ celny, przed skierowaniem upomnienia o konieczności dokonania korekty zgłoszenia INTRASTAT, może wezwać, telefonicznie, telefaksem lub za pomocą innego środka łączności, osobę zobowiązaną do dokonania korekty zgłoszenia lub złożenia wyjaśnień tym zakresie.
-sprawozdawczy:
 1) nie dokonała zgłoszenia INTRASTAT lub
 2) nie dokonała korekty złożonego uprzednio zgłoszenia INTRASTAT organ celny może nałożyć karę pieniężną wysokości 3000 zł.
 2. Karę pieniężną, o której mowa ust. 1, organ celny nakłada drodze decyzji.

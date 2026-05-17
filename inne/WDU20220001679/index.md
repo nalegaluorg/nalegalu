@@ -1,0 +1,293 @@
+---
+title: Obwieszczenie Ministra Rozwoju i Technologii z dnia 12 lipca 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju w sprawie szczegółowego zakresu i formy projektu budowlanego
+address: WDU20220001679
+eli: DU/2022/1679
+publisher: DU
+year: 2022
+pos: 1679
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 sierpnia 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1679 |
+| ISAP | WDU20220001679 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-07-12 |
+| Data wydania | 2022-08-10 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1679/text.pdf) |
+
+OBWIESZCZENIE MINISTRA ROZWOJU I TECHNOLOGII z dnia 12 lipca 2022 r.
+sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rozwoju sprawie szczegółowego zakresu i formy projektu budowlanego
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rozwoju z dnia 11 września 2020 r. sprawie szczegółowego zakresu i formy projektu budowlanego (Dz. U. poz. 1609), z uwzględnieniem zmian wprowadzonych:
+1) rozporządzeniem Ministra Rozwoju, Pracy i Technologii z dnia 25 czerwca 2021 r. zmieniającym rozporządzenie sprawie szczegółowego zakresu i formy projektu budowlanego (Dz. U. poz. 1169);
+2) rozporządzeniem Ministra Rozwoju i Technologii z dnia 23 listopada 2021 r. zmieniającym rozporządzenie sprawie szczegółowego zakresu i formy projektu budowlanego (Dz. U. poz. 2280).
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje:
+1) 2 i 3 rozporządzenia Ministra Rozwoju, Pracy i Technologii z dnia 25 czerwca 2021 r. zmieniającego rozporządzenie sprawie szczegółowego zakresu i formy projektu budowlanego (Dz. U. poz. 1169), które stanowią: „§ 2. 1. Do wniosku pozwolenie na budowę lub zgłoszenia budowy oraz odrębnego wniosku zatwierdzenie projektu budowlanego złożonych przed dniem wejścia życie niniejszego rozporządzenia stosuje się przepisy dotychczasowe.
+2. Do projektów zagospodarowania działki lub terenu oraz projektów architektoniczno-budowlanych, które przed dniem wejścia życie niniejszego rozporządzenia zostały:
+1) ostemplowane zgodnie z art. 30 ust. 5e ustawy z dnia 7 lipca 1994 r. Prawo budowlane,
+2) zatwierdzone decyzji pozwoleniu na budowę,
+3) zatwierdzone odrębnej decyzji zatwierdzeniu projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego stosuje się przepisy dotychczasowe.
+Do projektów technicznych postaci papierowej, dla których projektant złożył przed dniem wejścia życie niniejszego rozporządzenia oświadczenie sporządzeniu projektu zgodnie z obowiązującymi przepisami i zasadami wiedzy technicznej, stosuje się przepisy dotychczasowe.
+Rozporządzenie wchodzi życie z dniem lipca 2021 r.”;
+2) 2 rozporządzenia Ministra Rozwoju i Technologii z dnia 23 listopada 2021 r. zmieniającego rozporządzenie sprawie szczegółowego zakresu i formy projektu budowlanego (Dz. U. poz. 2280), który stanowi: „§ 2. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Rozwoju i Technologii: W. Buda ROZPORZĄDZENIE MINISTRA ROZWOJU z dnia 11 września 2020 r.
+sprawie szczegółowego zakresu i formy projektu budowlanego Na podstawie art. 34 ust. 6 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2021 r. poz. 2351 oraz z 2022 r. poz. 88 i 1557) zarządza się, co następuje:
+1. Ilekroć rozporządzeniu jest o:
+1) podpisie osobistym należy to rozumieć podpis osobisty, art. 2 ust. 9 ustawy z dnia 6 sierpnia 2010 r. dowodach osobistych (Dz. U. z 2022 r. poz. 671);
+2) ustawie należy to rozumieć ustawę z dnia 7 lipca 1994 r. Prawo budowlane.
+2. Projekt budowlany sporządza się języku polskim, czytelnej technice graficznej.
+2a. Projekt budowlany postaci papierowej oprawia się do formatu A4.
+2b. 1. Stronę tytułową, spis treści, spis załączników, część opisową i część rysunkową projektu budowlanego postaci elektronicznej zapisuje się plikach komputerowych formacie PDF.
+2. Rozwiązania projektowe części rysunkowej zapisywanej pliku, ust. 1, sporządza się postaci wektorowej.
+Pojedynczy plik, ust. 1, nie może przekraczać 150 MB.
+4. Sposób oznaczania nazw plików komputerowych projektu budowlanego postaci elektronicznej określa załącznik nr do rozporządzenia.
+1. Zakres projektu budowlanego uwzględnia stopień skomplikowania robót budowlanych, specyfikę i charakter obiektu budowlanego, warunki ochrony przeciwpożarowej, których przepisach odrębnych, oraz zależności od przeznaczenia projektowanego obiektu budowlanego niezbędne warunki do korzystania z obiektu osoby ze szczególnymi potrzebami, których ustawie z dnia 19 lipca 2019 r. zapewnianiu dostępności osobom ze szczególnymi potrzebami (Dz. U. z 2020 r. poz. 1062 oraz z 2022 r. poz. 975 i 1079).
+2. Projekt budowlany określa sposób spełnienia wymagań, których art. 5 ust. ustawy.
+Wykaz Polskich Norm powołanych rozporządzeniu określa załącznik nr 2 do rozporządzenia.
+4. (uchylony).
+5. 1. Oprawia się następujące elementy projektu budowlanego:
+1) projekt zagospodarowania działki lub terenu;
+2) projekt architektoniczno-budowlany;
+3) projekt techniczny;
+4) załączniki projektu budowlanego:
+a) opinie, uzgodnienia, pozwolenia i inne dokumenty, których art. 33 ust. 2 ustawy,
+b) oświadczenie właściwego zarządcy drogi możliwości połączenia działki z drogą, zgodnie z przepisami drogach publicznych, art. 34 ust. 3 4 ustawy przypadku drogi krajowej lub wojewódzkiej,
+c) informację dotyczącą bezpieczeństwa i ochrony zdrowia, której art. 20 ust. 1b ustawy.
+1a. W przypadku projektu budowlanego postaci elektronicznej oprawę należy rozumieć zapisanie plikach komputerowych.
+2. Dopuszcza się oprawę wielotomową elementów projektu budowlanego.
+2a. W przypadku projektu budowlanego postaci elektronicznej oprawę wielotomową należy rozumieć zapisanie więcej niż jednym pliku komputerowym, przy czym każdy z plików stanowi osobny tom.
+Dopuszcza się wspólną oprawę elementów projektu budowlanego, z wyjątkiem objęcia wspólną oprawą projektu technicznego postaci elektronicznej.
+4. W przypadku projektu budowlanego postaci elektronicznej wspólną oprawę należy rozumieć zapisanie jednym pliku, 2b ust. 1.
+5a. 1. Elementy projektu budowlanego, których 5 ust. 1, 2 i 4, dotyczące tego samego zamierzenia budowlanego sporządza się takiej samej postaci.
+2. Projekt techniczny może być sporządzony innej postaci niż pozostałe elementy projektu budowlanego, których 5 ust. 1, 2 i 4, dotyczące tego samego zamierzenia budowlanego.
+Przepisu ust. 2 nie stosuje się do dokumentów legalizacyjnych, których art. 48b ust. 2 ustawy.
+6. 1. Strony projektu budowlanego oraz załączniki do niego numeruje się kolejno. Dla każdego elementu projektu budowlanego stosuje się oddzielną numerację.
+2. W przypadku oprawy wielotomowej oddzielną numerację stosuje się dla każdego tomu projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego.
+W przypadku części rysunkowej projektu budowlanego dopuszcza się spełnienie warunku kolejnej numeracji stron poprzez wskazanie numeru rysunku.
+7. 1. Projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany oraz projekt techniczny zawiera:
+1) stronę tytułową;
+2) spis treści;
+3) część opisową;
+4) część rysunkową.
+1a. Element projektu budowlanego, 5 ust. 4, zawiera:
+1) stronę tytułową;
+2) spis załączników;
+3) załączniki.
+2. Na stronie tytułowej zamieszcza się:
+1) nazwę elementu projektu budowlanego, którego ona dotyczy;
+2) informacje dotyczące zamierzenia budowlanego:
+a) nazwę zamierzenia budowlanego,
+b) adres i kategorię obiektu budowlanego,
+c) identyfikatory działek ewidencyjnych, na których obiekt budowlany jest usytuowany,
+d) imię i nazwisko lub nazwę inwestora oraz jego adres;
+3) datę opracowania oraz imię, nazwisko, specjalność, numer uprawnień budowlanych osoby posiadającej uprawnienia budowlane do projektowania odpowiedniej specjalności, która opracowała daną część projektu budowlanego, wraz z określeniem zakresu sporządzonego nią opracowania przypadku strony tytułowej projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego oraz projektu technicznego;
+4) podpis osoby, której 3 przypadku strony tytułowej projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego oraz projektu technicznego postaci papierowej.
+2a. Jeżeli liczba działek ewidencyjnych, na których jest usytuowany obiekt budowlany, uniemożliwia sporządzenie strony tytułowej na jednej stronie formatu A4, dopuszcza się zamieszczenie identyfikatorów działek ewidencyjnych postaci załącznika do strony tytułowej.
+Jeżeli projekt architektoniczno-budowlany lub projekt techniczny podlega sprawdzeniu, na stronie tytułowej zamieszcza się dodatkowo imię i nazwisko, specjalność, numer uprawnień budowlanych, datę sprawdzenia i przypadku projektu budowlanego postaci papierowej podpis projektanta sprawdzającego.
+4. Jeżeli liczba osób opracowujących i sprawdzających projekt zagospodarowania działki lub terenu, projekt architektoniczno-budowlany lub projekt techniczny uniemożliwia sporządzenie strony tytułowej na jednej stronie formatu A4, dopuszcza się zamieszczenie informacji, których ust. 2 3 i 4 oraz ust. 3, postaci załącznika do strony tytułowej.
+4a. Osoba, której ust. 2 3 i ust. 3, biorąca udział opracowaniu lub sprawdzeniu danej części projektu budowlanego postaci elektronicznej zakresie objętym plikiem komputerowym opatruje ten plik kwalifikowanym podpisem elektronicznym, podpisem osobistym albo podpisem zaufanym.
+5. Spis treści zawiera wyliczenie:
+1) zawartości części opisowej projektu,
+2) zawartości części rysunkowej projektu,
+3) dokumentów dołączonych do projektu wraz z numerami odpowiadających im stron.
+6. W przypadku oprawy wielotomowej projektu zagospodarowania działki lub terenu, projektu architektoniczno-budowlanego lub projektu technicznego sporządza się stronę tytułową oraz spis treści oddzielnie dla każdego tomu, przy czym:
+1) na stronie tytułowej zamieszcza się dodatkowo numer tomu, którego ona dotyczy, wraz z informacją łącznej liczbie tomów, na które dany element projektu budowlanego został podzielony;
+2) informacje, których ust. 2 2 lit. c, zamieszcza się na stronie tytułowej pierwszego z tomów, na które dany element projektu budowlanego został podzielony.
+7. W przypadku wspólnego oprawienia elementów projektu budowlanego dopuszcza się:
+1) sporządzenie łącznego spisu treści zawierającego również spis załączników do tych elementów;
+2) zamieszczenie informacji, których ust. 2 2 lit. c, na stronie tytułowej:
+a) projektu zagospodarowania działki lub terenu albo
+b) projektu architektoniczno-budowlanego, jeżeli sporządzenie projektu zagospodarowania działki lub terenu nie jest wymagane.
+8. Łączny spis treści, ust. 7 1, nie obejmuje projektu technicznego.
+8. 1. W przypadku opracowania projektu zagospodarowania działki lub terenu i projektu architektoniczno-budowlanego tego samego projektanta dopuszcza się dołączenie dokumentów, których art. 34 ust. 3d i 2 ustawy, tylko do jednego z tych projektów.
+2. W przypadku oprawy wielotomowej projektu zagospodarowania działki lub terenu oraz projektu architektoniczno-budowlanego dokumenty, których art. 34 ust. 3d ustawy, dołącza się do pierwszego tomu.
+9. 1. Część rysunkową projektu budowlanego:
+1) zaopatruje się w:
+a) niezbędne oznaczenia graficzne i literowe określone Polskich Normach wymienionych załączniku nr 2 do rozporządzenia lub inne objaśnione legendzie,
+b) wyjaśnienia opisowe umożliwiające jednoznaczne odczytanie projektu;
+2) sporządza się z zastosowaniem zasad wymiarowania określonych Polskich Normach wymienionych załączniku nr 2 do rozporządzenia.
+2. Część rysunkową projektu architektoniczno-budowlanego oraz technicznego zaopatruje się oznaczenia klas odporności ogniowej lub dymoszczelności elementów oddzielenia przeciwpożarowego i innych elementów obiektu budowlanego, których przejścia instalacyjne muszą być zabezpieczone pod względem przeciwpożarowym, a także drzwi, bram lub innych zamknięć przeciwpożarowych.
+1) 1:200 dla obiektów budowlanych dużych rozmiarach;
+2) 1:100 dla pozostałych obiektów budowlanych i ich wydzielonych części.
+4. W stosunku do obiektu liniowego skalę rysunków dostosowuje się do długości obiektu sposób umożliwiający jego odwzorowanie z dokładnością zapewniającą czytelność projektu budowlanego.
+5. W stosunku do projektu zagospodarowania działki lub terenu skalę rysunków dostosowuje się do rodzaju i wielkości obiektu lub zamierzenia budowlanego, zapewniając jego czytelność. Stosuje się skale rysunków nie mniejsze niż 1:500, a dla inwestycji liniowych nie mniejsze niż 1:1000.
+10. 1. Na rysunkach wchodzących skład projektu budowlanego umieszcza się metrykę projektu zawierającą:
+1) nazwę obiektu budowlanego podaną co najmniej formie skróconej, właściwie identyfikującą obiekt;
+2) tytuł, skalę i numer rysunku;
+3) imię i nazwisko projektanta oraz numer posiadanych uprawnień budowlanych;
+4) datę sporządzenia rysunku;
+5) podpis projektanta przypadku projektu budowlanego postaci papierowej.
+2. W projekcie architektoniczno-budowlanym i projekcie technicznym, które są objęte obowiązkiem sprawdzenia, metryce projektu umieszcza się dodatkowo imię i nazwisko, numer uprawnień budowlanych, datę sprawdzenia i przypadku projektu budowlanego postaci papierowej podpis projektanta sprawdzającego.
+11. 1. W przypadku odbudowy, rozbudowy, nadbudowy, przebudowy oraz zmiany sposobu użytkowania obiektu budowlanego lub jego części przepisy rozporządzenia stosuje się odpowiednio zakresie projektowanych obiekcie budowlanym zmian.
+2. Część rysunkową projektu odbudowy, rozbudowy, nadbudowy lub przebudowy obiektu budowlanego należy sporządzić sposób:
+1) wyróżniający graficznie stan istniejący;
+2) uwzględniający elementy projektowane oraz te elementy istniejące, które mają wpływ na przyjęte rozwiązania projektowe lub na które przyjęte rozwiązania oddziałują.
+12. Powierzchnie budynku określa się zgodnie z zasadami zawartymi Polskiej Normie dotyczącej określania i obliczania wskaźników powierzchniowych i kubaturowych wymienionej załączniku nr 2 do uwzględniając przepisy 14 4 lit. a oraz 20 ust. 4 lit. b.
+13. Projekt zagospodarowania działki lub terenu sporządza się z uwzględnieniem 3 ust. i 2.
+14. Część opisowa projektu zagospodarowania działki lub terenu zawiera:
+1) określenie przedmiotu zamierzenia budowlanego, a przypadku zamierzenia budowlanego obejmującego więcej niż jeden obiekt budowlany zakres całego zamierzenia;
+2) określenie istniejącego stanu zagospodarowania działki lub terenu, tym informację obiektach budowlanych przeznaczonych do rozbiórki;
+3) projektowane zagospodarowanie działki lub terenu, tym:
+a) urządzenia budowlane związane z obiektami budowlanymi,
+b) sposób odprowadzania lub oczyszczania ścieków,
+c) układ komunikacyjny,
+d) sposób dostępu do drogi publicznej,
+e) parametry techniczne sieci i urządzeń uzbrojenia terenu,
+f) ukształtowanie terenu i układ zieleni, zakresie niezbędnym do uzupełnienia części rysunkowej projektu zagospodarowania działki lub terenu;
+4) zestawienie:
+a) powierzchni zabudowy projektowanych i istniejących obiektów budowlanych, przy czym powierzchnię zabudowy budynku pomniejsza się powierzchnię części zewnętrznych budynku, takich jak: tarasy naziemne i podparte słupami, gzymsy oraz balkony,
+b) powierzchni dróg, parkingów, placów i chodników,
+c) powierzchni biologicznie czynnej,
+d) powierzchni innych części terenu, niezbędnych do sprawdzenia zgodności z ustaleniami miejscowego planu zagospodarowania przestrzennego, a przypadku jego braku z decyzją warunkach zabudowy i zagospodarowania terenu albo uchwały ustaleniu lokalizacji inwestycji mieszkaniowej lub inwestycji towarzyszących;
+5) informacje i dane:
+a) rodzaju ograniczeń lub zakazów zabudowie i zagospodarowaniu tego terenu wynikających z aktów prawa miejscowego lub decyzji warunkach zabudowy i zagospodarowania terenu, jeżeli są wymagane,
+b) czy działka lub teren, na jest projektowany obiekt budowlany, są wpisane do rejestru zabytków lub gminnej ewidencji zabytków lub czy zamierzenie budowlane lokalizowane jest na obszarze objętym ochroną konserwatorską,
+c) określające wpływ eksploatacji górniczej na działkę lub teren zamierzenia budowlanego jeśli zamierzenie budowlane znajduje się granicach terenu górniczego,
+6) dane dotyczące warunków ochrony przeciwpożarowej, szczególności drogach pożarowych oraz przeciwpożarowym zaopatrzeniu wodę, wraz z ich parametrami technicznymi;
+7) inne niezbędne dane wynikające ze specyfiki, charakteru i stopnia skomplikowania obiektu budowlanego lub robót budowlanych;
+8) informację obszarze oddziaływania obiektu.
+15. 1. Część rysunkową projektu zagospodarowania działki lub terenu sporządza się na aktualnej mapie do celów projektowych lub jej kopii.
+1a. W przypadku projektu zagospodarowania działki lub terenu sporządzanego postaci elektronicznej mapa, której ust. 1, lub jej kopia mogą mieć postać wektorową lub rastrową.
+2. Część rysunkowa projektu zagospodarowania działki lub terenu określa:
+1) orientację położenia działki lub terenu stosunku do sąsiednich terenów i stron świata;
+2) granice działki lub terenu;
+3) usytuowanie i obrys istniejących oraz projektowanych obiektów budowlanych wraz z określeniem sposobu ich użytkowania, tym urządzeń budowlanych z nimi związanych, z oznaczeniem wejść i wjazdów, liczbę kondygnacji, charakterystyczne rzędne tym rzędne terenu istniejącego i projektowanego, wymiary oraz odległości od granicy działki lub terenu, wzajemne odległości obiektów budowlanych i urządzeń budowlanych zakresie niezbędnym do sprawdzenia zgodności wymiarów i odległości z przepisami, a także postanowieniami, szczególności decyzji warunkach zabudowy i zagospodarowania terenu oraz uchwały ustaleniu lokalizacji inwestycji mieszkaniowej lub inwestycji towarzyszącej;
+4) zasięg obowiązywania nakazów, ograniczeń i uwarunkowań, których 14 5 lit. a, c i d;
+5) granice terenu zamkniętego oraz jego strefy ochronnej;
+6) układ komunikacji wewnętrznej terenu przedstawiony nawiązaniu do istniejącej i projektowanej komunikacji zewnętrznej, określający szczególności układ dróg wewnętrznych, dojazdów, bocznic kolejowych, parkingów, placów i chodników, a zależności od potrzeb przekroje oraz profile elementów tego układu, charakterystyczne rzędne i wymiary;
+7) przebieg i charakterystyczne wymiary dróg pożarowych oraz dojść łączących wyjścia z obiektów budowlanych z tymi drogami;
+8) ukształtowanie terenu, z oznaczeniem zmian stosunku do stanu istniejącego, a razie potrzeby przekroje pionowe terenu;
+9) układ istniejącej zieleni, z oznaczeniem jej elementów podlegających likwidacji, oraz układ projektowanej zieleni wysokiej i niskiej;
+10) urządzenia lub inne rozwiązania zakresie przeciwpożarowego zaopatrzenia wodę, tym usytuowanie źródeł wody do celów przeciwpożarowych, hydrantów zewnętrznych lub innych punktów poboru wody oraz stanowisk czerpania wody, wraz z dojazdami dla pojazdów pożarniczych;
+11) układ sieci i urządzeń uzbrojenia terenu, przedstawiony z przyłączami do odpowiednich sieci zewnętrznych i wewnętrznych oraz urządzeń budowlanych, tym: wodociągowych, ujęć wody ze strefami ochronnymi, cieplnych, gazowych i kanalizacyjnych lub służących do oczyszczania ścieków, oraz określający sposób odprowadzania wód opadowych, z podaniem niezbędnych spadków, przekrojów przewodów oraz charakterystycznych rzędnych, wymiarów i odległości, wraz z usytuowaniem przyłączy, urządzeń i punktów pomiarowych przypadku objęcia ich zakresem projektu;
+12) układ linii lub przewodów elektrycznych i telekomunikacyjnych oraz związanych z nim urządzeń technicznych, przedstawiony powiązaniu z sieciami zewnętrznymi, z oznaczeniem miejsca i rzędnych miarę potrzeby, przyłączenia do sieci zewnętrznych i złączy z instalacją obiektów budowlanych oraz charakterystycznych elementów, punktów pomiarowych, symboli i wymiarów przypadku objęcia ich zakresem projektu;
+13) podział terenu na części, 16;
+14) położenie sytuacyjno-wysokościowe przypadku obiektów liniowych.
+16. W przypadku zamierzenia budowlanego realizowanego etapowo projekt zagospodarowania działki lub terenu określa kolejność realizacji poszczególnych obiektów wraz z odpowiadającymi im częściami terenu sposób umożliwiający użytkowanie tych obiektów zgodnie z przeznaczeniem.
+17. 1. Dane, których 15 ust. 2, mogą być zamieszczone na dodatkowych rysunkach, jeżeli poprawi to czytelność projektu zagospodarowania działki lub terenu.
+2. W razie konieczności przedstawienia układu sieci, przyłączy i instalacji zewnętrznych na oddzielnych rysunkach, do projektu zagospodarowania działki lub terenu załącza się zbiorczy rysunek koordynacyjny uzbrojenia działki lub terenu.
+18. Informacja obszarze oddziaływania obiektu zawiera:
+1) wskazanie przepisów prawa, oparciu które dokonano określenia obszaru oddziaływania obiektu;
+2) zasięg obszaru oddziaływania obiektu przedstawiony formie opisowej lub graficznej albo informację, że obszar oddziaływania obiektu mieści się całości na działce lub działkach, na których został zaprojektowany.
+19. Projekt architektoniczno-budowlany sporządza się z uwzględnieniem 3 ust. i 2.
+20. 1. Część opisowa projektu architektoniczno-budowlanego zawiera:
+1) rodzaj i kategorię obiektu budowlanego będącego przedmiotem zamierzenia budowlanego;
+2) zamierzony sposób użytkowania oraz program użytkowy obiektu budowlanego;
+3) układ przestrzenny oraz formę architektoniczną obiektu budowlanego, tym jego wygląd zewnętrzny, uwzględniając charakterystyczne wyroby wykończeniowe i kolorystykę elewacji, a także sposób jego dostosowania do warunków wynikających z wymaganych przepisami szczególnymi pozwoleń, uzgodnień lub opinii innych organów, których art. 32 ust. 2 ustawy, lub ustaleń miejscowego planu zagospodarowania przestrzennego, a przypadku jego braku z decyzji warunkach zabudowy i zagospodarowania terenu albo uchwały ustaleniu lokalizacji inwestycji mieszkaniowej lub inwestycji towarzyszących;
+4) charakterystyczne parametry obiektu budowlanego, szczególności:
+a) kubaturę,
+b) zestawienie powierzchni, przy czym: powierzchnię użytkową budynku pomniejsza się powierzchnię: przekroju poziomego wszystkich wewnętrznych przegród budowlanych, przejść i otworów tych przegrodach, przejść przegrodach zewnętrznych, balkonów, tarasów, loggii, schodów wewnętrznych i podestów lokalach mieszkalnych wielopoziomowych, nieużytkowych poddaszy, powierzchnię użytkową budynku powiększa się powierzchnię: antresol, ogrodów zimowych oraz wbudowanych, ściennych szaf, schowków i garderób, przy określaniu powierzchni użytkowej powierzchnię pomieszczeń lub ich części wysokości świetle równej lub większej od 2,20 m zalicza się do obliczeń 100%, wysokości równej lub większej od 1,40 m, lecz mniejszej od 2,20 m 50%, natomiast wysokości mniejszej od 1,40 m pomija się całkowicie, przy określaniu zestawienia powierzchni użytkowej lokali mieszkalnych lokal mieszkalny należy rozumieć wydzielone trwałymi ścianami obrębie budynku pomieszczenie lub zespół pomieszczeń przeznaczonych na stały pobyt ludzi, które wraz z pomieszczeniami pomocniczymi służą zaspokajaniu ich potrzeb mieszkaniowych,
+c) wysokość, długość, szerokość, średnicę,
+d) liczbę kondygnacji,
+e) inne dane niż wskazane lit. a–d niezbędne do stwierdzenia zgodności usytuowania obiektu z wymaganiami ochrony przeciwpożarowej;
+5) opinię geotechniczną oraz informację sposobie posadowienia obiektu budowlanego;
+6) przypadku zamierzenia budowlanego dotyczącego budynku liczbę lokali mieszkalnych i użytkowych;
+7) przypadku zamierzenia budowlanego dotyczącego budynku mieszkalnego wielorodzinnego liczbę lokali mieszkalnych dostępnych dla osób niepełnosprawnych, których art. Konwencji prawach osób niepełnosprawnych, sporządzonej Nowym Jorku dnia 13 grudnia 2006 r. (Dz. U. z 2012 r. poz. 1169 oraz z 2018 r. poz. 1217), tym osób starszych;
+8) opis zapewnienia niezbędnych warunków do korzystania z obiektów użyteczności publicznej i mieszkaniowego budownictwa wielorodzinnego osoby niepełnosprawne, których art. Konwencji prawach osób niepełnosprawnych, sporządzonej Nowym Jorku dnia 13 grudnia 2006 r., tym osoby starsze;
+9) parametry techniczne obiektu budowlanego charakteryzujące wpływ obiektu budowlanego na środowisko i jego wykorzystywanie oraz na zdrowie ludzi i obiekty sąsiednie pod względem:
+a) zapotrzebowania i jakości wody oraz ilości, jakości i sposobu odprowadzania ścieków oraz wód opadowych,
+b) emisji zanieczyszczeń gazowych, tym zapachów, pyłowych i płynnych, z podaniem ich rodzaju, ilości i zasięgu rozprzestrzeniania się,
+c) rodzaju i ilości wytwarzanych odpadów,
+d) właściwości akustycznych oraz emisji drgań, a także promieniowania, szczególności jonizującego, pola elektromagnetycznego i innych zakłóceń, z podaniem odpowiednich parametrów tych czynników i zasięgu ich rozprzestrzeniania się,
+e) wpływu obiektu budowlanego na istniejący drzewostan, powierzchnię ziemi, tym glebę, wody powierzchniowe i podziemne uwzględniając, że przyjęte projekcie budowlanym rozwiązania przestrzenne, funkcjonalne i techniczne powinny wykazywać ograniczenie lub eliminację wpływu obiektu budowlanego na środowisko przyrodnicze, zdrowie ludzi i inne obiekty budowlane, zgodnie z odrębnymi przepisami;
+10) przypadku zamierzenia budowlanego dotyczącego budynku analizę technicznych, środowiskowych i ekonomicznych możliwości realizacji wysoce wydajnych systemów alternatywnych zaopatrzenia energię i ciepło, tym zdecentralizowanych systemów dostawy energii opartych na energii ze źródeł odnawialnych, kogenerację, ogrzewanie lub chłodzenie lokalne lub blokowe, szczególności gdy opiera się całkowicie lub częściowo na energii z odnawialnych źródeł energii, których art. 2 22 ustawy z dnia 20 lutego 2015 r. odnawialnych źródłach energii (Dz. U. z 2022 r. poz. 1378 i 1383), oraz pompy ciepła, określającą:
+a) oszacowanie rocznego zapotrzebowania na energię użytkową do ogrzewania, wentylacji, przygotowania ciepłej wody użytkowej,
+b) dostępne nośniki energii,
+c) wybór dwóch systemów zaopatrzenia energię do analizy porównawczej: systemu konwencjonalnego oraz systemu alternatywnego albo systemu konwencjonalnego oraz systemu hybrydowego, rozumianego jako połączenie systemu konwencjonalnego i alternatywnego,
+d) obliczenia optymalizacyjno-porównawcze dla wybranych systemów zaopatrzenia energię,
+e) wyniki analizy porównawczej i wybór systemu zaopatrzenia energię;
+11) stosunku do budynku analizę technicznych i ekonomicznych możliwości wykorzystania urządzeń, które automatycznie regulują temperaturę oddzielnie poszczególnych pomieszczeniach lub wyznaczonej strefie ogrzewanej, zgodnie z 135 ust. 7–10 i 147 ust. 5–7 rozporządzenia Ministra Infrastruktury z dnia 12 kwietnia 2002 r. sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (Dz. U. z 2022 r. poz. 1225);
+12) informacje zasadniczych elementach wyposażenia budowlano-instalacyjnego, zapewniających użytkowanie obiektu budowlanego zgodnie z przeznaczeniem;
+13) dane dotyczące warunków ochrony przeciwpożarowej, stosownie do zakresu projektu.
+2. Część opisowa projektu architektoniczno-budowlanego zawiera informację zgodzie na odstępstwo, art. 9 ustawy, lub zgodzie udzielonej postanowieniu, art. 6a ust. 2 ustawy z dnia 24 sierpnia 1991 r. ochronie przeciwpożarowej (Dz. U. z 2021 r. poz. 869 i 2490 oraz z 2022 r. poz. 1557), jeżeli zostały wydane.
+21. Część rysunkowa projektu architektoniczno-budowlanego zawiera:
+1) przypadku zamierzenia budowlanego obejmującego budynki:
+a) rzuty wszystkich charakterystycznych poziomów zakresie niezbędnym do przedstawienia układu funkcjonalno-przestrzennego i rozwiązań architektoniczno-budowlanych,
+b) charakterystyczne przekroje, zakresie niezbędnym do przedstawienia układu funkcjonalno-przestrzennego, z nawiązaniem do poziomu terenu, ukazujące powiązanie z podłożem oraz przyległymi obiektami,
+c) widoki elewacji oraz dachu lub przekrycia liczbie dostatecznej do wyjaśnienia formy architektonicznej obiektu budowlanego, tym jego wyglądu zewnętrznego ze wszystkich widocznych stron, z naniesionym na rysunku określeniem graficznym lub opisowym charakterystycznych wyrobów wykończeniowych i kolorystyki;
+2) przypadku zamierzenia budowlanego obejmującego obiekty budowlane inne niż budynki:
+a) rzuty wszystkich charakterystycznych poziomów,
+b) charakterystyczne przekroje,
+c) widoki z nawiązaniem do poziomu terenu, z uwzględnieniem niezbędnych wymiarów, tym zewnętrznych rzucie pionowym i poziomym oraz z określeniem graficznym lub opisowym wyrobów wykończeniowych i kolorystyki.
+22. Projekt techniczny sporządza się z uwzględnieniem 3 ust. i 2.
+23. Część opisowa projektu technicznego obejmuje co najmniej:
+1) rozwiązania konstrukcyjne obiektu budowlanego, zastosowane schematy konstrukcyjne (statyczne), założenia przyjęte do obliczeń konstrukcji, tym dotyczące obciążeń, oraz podstawowe wyniki tych obliczeń, a dla konstrukcji nowych, niesprawdzonych krajowej praktyce wyniki ewentualnych badań doświadczalnych, rozwiązania konstrukcyjno-materiałowe podstawowych elementów konstrukcji obiektu, zależności od potrzeb informację konieczności wykonania pomiarów geodezyjnych przemieszczeń i odkształceń, a przypadku przebudowy, rozbudowy lub nadbudowy obiektu budowlanego dołącza się ekspertyzę techniczną obiektu;
+2) zależności od potrzeb geotechniczne warunki i sposób posadowienia obiektu budowlanego, formie dokumentacji badań podłoża gruntowego i projektu geotechnicznego, oraz sposób zabezpieczenia przed wpływami eksploatacji górniczej;
+3) zależności od potrzeb dokumentację geologiczno-inżynierską;
+4) rozwiązania konstrukcyjno-materiałowe wewnętrznych i zewnętrznych przegród budowlanych;
+5) podstawowe parametry technologiczne oraz współzależności urządzeń i wyposażenia związanego z przeznaczeniem obiektu i jego rozwiązaniami budowlanymi przypadku zamierzenia budowlanego dotyczącego obiektu budowlanego usługowego lub produkcyjnego;
+6) rozwiązania budowlane i techniczno-instalacyjne, nawiązujące do warunków terenu, występujące wzdłuż trasy obiektu budowlanego, oraz rozwiązania techniczno-budowlane miejscach charakterystycznych lub szczególnym znaczeniu dla funkcjonowania obiektu albo istotne ze względów bezpieczeństwa, z uwzględnieniem wymaganych stref ochronnych przypadku zamierzenia budowlanego dotyczącego obiektu budowlanego liniowego;
+7) rozwiązania niezbędnych elementów wyposażenia budowlano-instalacyjnego, szczególności instalacji i urządzeń budowlanych:
+a) ogrzewczych,
+b) chłodniczych,
+c) klimatyzacji wyposażonych urządzenia, które automatycznie regulują temperaturę oddzielnie poszczególnych pomieszczeniach lub wyznaczonej strefie ogrzewanej, tym urządzenia z indywidualnym sterowaniem pomieszczeniowym (w szczególności termostatyczny zawór grzejnikowy, termostat pokojowy, termostat klimakonwektora wentylatorowego, pojedynczy termostat) lub komunikacją z systemem nadrzędnym oraz z funkcją sterowania zależną od zad) wentylacji grawitacyjnej, grawitacyjnej wspomaganej i mechanicznej,
+e) wodociągowych i kanalizacyjnych,
+f) gazowych,
+g) elektroenergetycznych,
+h) telekomunikacyjnych,
+i) piorunochronnych,
+j) ochrony przeciwpożarowej;
+8) sposób powiązania instalacji i urządzeń budowlanych obiektu budowlanego, których 7, z sieciami zewnętrznymi wraz z punktami pomiarowymi, założeniami przyjętymi do obliczeń instalacji oraz podstawowe wyniki tych obliczeń, z doborem rodzaju i wielkości urządzeń, przy czym należy przedstawić:
+a) dla instalacji ogrzewczych, wentylacyjnych, klimatyzacyjnych lub chłodniczych założone parametry klimatu wewnętrznego na podstawie przepisów techniczno-budowlanych oraz przepisów dotyczących racjonalizacji użytkowania energii,
+b) dobór i zwymiarowanie parametrów technicznych podstawowych urządzeń ogrzewczych, wentylacyjnych, klimatyzacyjnych i chłodniczych oraz określenie wartości mocy cieplnej i chłodniczej oraz mocy elektrycznej związanej z tymi urządzeniami;
+9) rozwiązania i sposób funkcjonowania zasadniczych urządzeń instalacji technicznych, tym przemysłowych i ich zespołów tworzących całość techniczno-użytkową, decydującą podstawowym przeznaczeniu obiektu budowlanego, tym charakterystykę i odnośne parametry instalacji i urządzeń technologicznych, mających wpływ na architekturę, konstrukcję, instalacje i urządzenia techniczne związane z tym obiektem;
+10) dane dotyczące warunków ochrony przeciwpożarowej, stosownie do zakresu projektu;
+11) charakterystykę energetyczną budynku, opracowaną zgodnie z przepisami wydanymi na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497), określającą zależności od potrzeb:
+a) bilans mocy urządzeń elektrycznych oraz urządzeń zużywających inne rodzaje energii, stanowiących stałe wyposażenie budowlano-instalacyjne tego budynku, z wydzieleniem mocy urządzeń służących do celów technologicznych związanych z jego przeznaczeniem,
+b) przypadku budynku wyposażonego instalacje ogrzewcze, wentylacyjne, klimatyzacyjne lub chłodnicze właściwości cieplne przegród zewnętrznych, tym ścian pełnych oraz drzwi, wrót, a także przegród przezroczystych i innych,
+c) parametry sprawności energetycznej instalacji ogrzewczych, wentylacyjnych, klimatyzacyjnych lub chłodniczych oraz innych urządzeń mających wpływ na gospodarkę energetyczną budynku,
+d) dane wykazujące, że przyjęte projekcie technicznym rozwiązania budowlane i instalacyjne spełniają wymagania dotyczące oszczędności energii zawarte przepisach techniczno-budowlanych.
+24. Część rysunkowa projektu technicznego zawiera co najmniej:
+1) rzuty wszystkich charakterystycznych poziomów obiektu budowlanego, tym widok dachu lub przekrycia oraz przekroje i elewacje, a dla obiektu liniowego przekroje poprzeczne i podłużne (profile), przeprowadzone charakterystycznych miejscach obiektu budowlanego, niezawarte części rysunkowej projektu zagospodarowania działki lub terenu lub projektu architektoniczno-budowlanego konieczne do przedstawienia:
+a) rozwiązań budowlano-konstrukcyjnych oraz rozwiązań materiałowych obiektu budowlanego i jego powiązania z podłożem oraz przyległymi obiektami budowlanymi,
+b) położenia sytuacyjno-wysokościowego i skrajnych parametrów instalacji i urządzeń technologicznych, związanych lub mających wpływ na konstrukcję obiektu budowlanego, funkcjonowanie instalacji i urządzeń oraz bezpieczeństwo ich użytkowania,
+c) budowli przemysłowych i innych tworzących samonośną całość techniczno-użytkową, jak komin, zbiornik, kolumna rafineryjna, z uwzględnieniem niezbędnych wymiarów, tym zewnętrznych rzucie poziomym i pionowym z nawiązaniem do poziomu terenu, przestrzeni wewnętrznych obiektu budowlanego, szczególności pomieszczeń, rodzaju konstrukcji, przekrojów jego elementów, a także instalacji oraz gabarytów (obrysu) urządzeń technologicznych, których lit. b;
+2) rozwiązania konstrukcyjno-materiałowe przegród zewnętrznych wraz z niezbędnymi szczegółami budowlanymi, mającymi wpływ na właściwości cieplne i szczelność powietrzną przegród, jeżeli ich odwzorowanie nie było wystarczające na rysunkach, których przypadku zamierzenia budowlanego obejmującego ogrzewane, wentylowane i klimatyzowane budynki;
+3) podstawowe urządzenia instalacji ogólnotechnicznych i technologicznych lub ich części, jeżeli ich odwzorowanie nie było wystarczające na rysunkach, których 1;
+4) zasadnicze elementy wyposażenia instalacyjno-budowlanego, umożliwiającego użytkowanie obiektu budowlanego zgodnie z jego przeznaczeniem, tym:
+a) instalacje i urządzenia budowlane: wodociągowe, kanalizacyjne, ogrzewcze, wentylacyjne, chłodnicze, klimatyzacyjne i gazowe,
+b) instalacje i urządzenia budowlane: elektroenergetyczne, telekomunikacyjne oraz instalację piorunochronną,
+c) instalacje i urządzenia budowlane ochrony przeciwpożarowej określone przepisach odrębnych wraz ze sposobem powiązania instalacji obiektu budowlanego bezpośrednio z sieciami (urządzeniami) zewnętrznymi albo z instalacjami zewnętrznymi na zagospodarowywanym terenie oraz związanymi z nimi urządzeniami technicznymi, uwidocznione na rzutach i przekrojach pionowych obiektu budowlanego, co najmniej formie odpowiednio opisanych schematów lub przedstawione na odrębnych rysunkach.
+25. Traci moc rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 25 kwietnia 2012 r.
+sprawie szczegółowego zakresu i formy projektu budowlanego (Dz. U. z 2018 r. poz. 1935).
+26. Rozporządzenie wchodzi życie z dniem 19 września 2020 r.
+SPOSÓB OZNACZANIA NAZW PLIKÓW KOMPUTEROWYCH PROJEKTU BUDOWLANEGO W POSTACI ELEKTRONICZNEJ Nazwa pliku przypadku zapisu* Elementy projektu budowlanego jednym pliku więcej niż jednym pliku projekt zagospodarowania działki lub terenu PZT_z PZT_x_z 2 projekt architektoniczno-budowlany PAB_z PAB_x_z 3 projekt techniczny PT_z PT_x_y_z 4 załączniki projektu budowlanego, tym załączniki projektu zagospodaro- ZL_z ZL_x_z wania działki lub terenu, projektu techniczno-budowlanego i projektu technicznego 5 elementy, których poz. i 2 tabeli PZT_PAB_z 6 elementy, których poz. 1, 2 i 4 tabeli PZT_PAB_ZL_z 7 elementy, których poz. i 4 tabeli PZT_ZL_z 8 elementy, których poz. 2 i 4 tabeli PAB_ZL_z * Objaśnienie skrótów tabeli:
+1) x oznacza kolejny numer pliku;
+2) y oznacza symbol określający zawartość tomu projektu technicznego zawierającego opracowanie wykonane osobę posiadającą uprawnienia budowlane do projektowania określonej specjalności, gdzie:
+a) AR stanowi symbol specjalności architektonicznej,
+b) BO stanowi symbol specjalności konstrukcyjno-budowlanej,
+c) BM stanowi symbol specjalności inżynieryjnej mostowej,
+d) BD stanowi symbol specjalności inżynieryjnej drogowej,
+e) BK stanowi symbol specjalności inżynieryjnej kolejowej zakresie kolejowych obiektów budowlanych i inżynieryjnej kolejowej zakresie sterowania ruchem kolejowym,
+f) BH stanowi symbol specjalności inżynieryjnej hydrotechnicznej,
+g) BW stanowi symbol specjalności inżynieryjnej wyburzeniowej,
+h) BT stanowi symbol specjalności instalacyjnej zakresie sieci, instalacji i urządzeń telekomunikacyjnych,
+i) IS stanowi symbol specjalności instalacyjnej zakresie sieci, instalacji i urządzeń cieplnych, wentylacyjnych, gazowych, wodociągowych i kanalizacyjnych,
+j) IE stanowi symbol specjalności instalacyjnej zakresie sieci, instalacji i urządzeń elektrycznych i elektroenergetycznych,
+k) IN stanowi symbol specjalności innej niż lit. a–j,
+l) WB stanowi symbol więcej niż jednej specjalności;
+3) z oznacza datę sporządzenia plików napisaną formacie rrrr.mm.dd.
+nr 2 WYKAZ POLSKICH NORM POWOŁANYCH W ROZPORZĄDZENIU Lp. Miejsce Numer normy* powołania normy Tytuł normy (zakres powołania) 2 3 4 9 ust. PN-EN ISO 4157-1 Rysunek budowlany Systemy oznaczeń Część 1: Budynki i części budynków 2 PN-EN ISO 4157-2 Rysunek budowlany Systemy oznaczeń Część 2: Nazwy i numery pomieszczeń 3 PN-EN ISO 4157-3 Rysunek budowlany Systemy oznaczeń Część 3: Identyfikatory pomieszczeń 4 PN-EN ISO 6284 Rysunek budowlany Oznaczanie odchyłek granicznych 5 PN-EN ISO 11091 Rysunek budowlany Projekty zagospodarowania terenu 6 PN-B-01025 Rysunek budowlany Oznaczenia graficzne na rysunkach architektoniczno-budowlanych 7 PN-B-01027 Rysunek budowlany Oznaczenia graficzne stosowane projektach zagospodarowania działki lub terenu 8 PN-B-01029 Rysunek budowlany Zasady wymiarowania na rysunkach architektoniczno-budowlanych 9 PN-EN ISO 5261 Rysunek techniczny. Przedstawianie uproszczone prętów i kształtowników 10 PN-EN ISO 2553 Spajanie i procesy pokrewne. Umowne przedstawianie na rysunkach.
+Złącza spajane 11 PN-EN ISO 5845-1 Rysunek techniczny Przedstawianie uproszczone zespołów z częściami złącznymi Część 1: Zasady ogólne 12 12 PN-ISO 9836 Właściwości użytkowe budownictwie Określanie i obliczanie wskaźników powierzchniowych i kubaturowych * Stosuje się najnowszą normę opublikowaną języku polskim.
+
+#### Rozdział Przepisy ogólne
+
+## Część rysunkową projektu architektoniczno-budowlanego oraz projektu technicznego sporządza się skali dostosowanej do specyfiki i charakteru obiektu budowlanego oraz stopnia dokładności oznaczeń graficznych na rysunkach, jednak nie mniejszej niż:
+
+#### Rozdział 2 Projekt zagospodarowania działki lub terenu
+
+#### Rozdział 3 Projekt architektoniczno-budowlany
+
+#### Rozdział 4 Projekt techniczny
+
+#### Rozdział 5 Przepisy końcowe
+

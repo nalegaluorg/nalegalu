@@ -8,9 +8,12 @@ pos: 508
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2026 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa wychowywaniu dzieci
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000508) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/508/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 27 marca 2026 r.
-sprawie ogłoszenia jednolitego tekstu ustawy pomocy państwa wychowywaniu dzieci
 1. Na podstawie 16 ust. 1 ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 11 lutego 2016 r. pomocy państwa wychowywaniu dzieci (Dz. U. z 2024 r. poz. 1576), z uwzględnieniem stanu prawnego na dzień 16 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 24 kwietnia 2025 r. zmianie ustawy cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619);
 2) ustawą z dnia 12 września 2025 r. zmianie niektórych ustaw celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz warunkach pomocy obywatelom Ukrainy związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301);

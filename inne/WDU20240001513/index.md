@@ -8,9 +8,12 @@ pos: 1513
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 października 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy świadczeniu usług drogą elektroniczną
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001513) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1513/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 października 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy świadczeniu usług drogą elektroniczną
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2020 r. poz. 344), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 października 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 124 ustawy z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222), który stanowi: „Art. 124. Ustawa wchodzi życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem:
 1) art. 1, art. 39 pkt 11 lit. b zakresie art. 16a ust. 4 pkt 2c i 2d, art. 46 pkt 5, art. 52 pkt 1, art. 63, art. 68 ust. 2, art. 80 ust. 3 i 5–8 oraz art. 120, które wchodzą życie z dniem następującym po dniu ogłoszenia;
@@ -180,7 +181,7 @@ Art. 26–29. (pominięte)
 
 - **1)** nie jest inicjatorem przekazu danych;
 - **2)** nie wybiera odbiorcy przekazu danych;
-- **3)** nie wybiera oraz nie modyfikuje informacji zawartych przekazie. danych przekazywanych przez odbiorcę usługi lub zapewnienie dostępu do sieci telekomunikacyjnej rozumieniu ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej, nie ponosi odpowiedzialności za treść tych danych, jeżeli:
+- **3)** nie wybiera oraz nie modyfikuje informacji zawartych przekazie. z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej, nie ponosi odpowiedzialności za treść tych danych, jeżeli:
 - **1)** nie jest inicjatorem przekazu danych;
 - **2)** nie wybiera odbiorcy przekazu danych;
 - **3)** nie wybiera oraz nie modyfikuje informacji zawartych przekazie.
@@ -224,7 +225,7 @@ Art. 26–29. (pominięte)
 - **3)** adres zameldowania na pobyt stały;
 - **4)** adres do korespondencji, jeżeli jest inny niż adres, którym pkt 3;
 - **5)** dane służące do weryfikacji podpisu elektronicznego usługobiorcy;
-- **6)** adresy elektroniczne usługobiorcy. inne dane niezbędne ze względu na właściwość świadczonej usługi lub sposób jej rozliczenia.
+- **6)** adresy elektroniczne usługobiorcy.
 
 3. Usługodawca wyróżnia i oznacza te spośród danych, których ust. 2, jako dane, których podanie jest niezbędne do świadczenia usługi drogą elektroniczną.
 

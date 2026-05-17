@@ -8,9 +8,12 @@ pos: 1693
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o izbach aptekarskich
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-12-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1693/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o izbach aptekarskich
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2024 r. poz. 688), z uwzględnieniem zmian wprowadzonych ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U.
 poz. 619) oraz zmian wynikających z przepisów ogłoszonych przed dniem 24 października 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 23 ustawy z dnia 24 kwietnia 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 619), który stanowi: „Art. 23. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”.

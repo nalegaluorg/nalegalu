@@ -8,6 +8,7 @@ pos: 555
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # Kodeks postępowania karnego
@@ -23,7 +24,7 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 1997-06-06 |
 | Data wydania | 1997-08-02 |
-| Ostatnia zmiana | 2026-04-10 |
+| Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970890555) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/555/text.pdf) |
 
 § 2. Oświadczenie składane elektronicznie opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym i wysyła na adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3), zwany dalej „adresem do doręczeń elektronicznych”, wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.

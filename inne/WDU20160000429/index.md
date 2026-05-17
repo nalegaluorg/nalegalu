@@ -1,0 +1,53 @@
+---
+title: Rozporządzenie Ministra Cyfryzacji z dnia 30 marca 2016 r. w sprawie wymagań technicznych i jakościowych w zakresie standardów przesyłanych danych do centralnej ewidencji kierowców
+address: WDU20160000429
+eli: DU/2016/429
+publisher: DU
+year: 2016
+pos: 429
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 31 marca Poz. 429 ROZPORZĄDZENIE MINISTRA CYFRYZACJI 30 marca sprawie wymagań technicznych jakościowych zakresie standardów przesyłanych danych do centralnej ewidencji kierowców Na podstawie art. 100a ust. 5 ustawy 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 2012 1137, późn. zm. ) zarządza się, co następuje:
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 429 |
+| ISAP | WDU20160000429 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2016-03-30 |
+| Data wydania | 2016-03-31 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000429) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/429/text.pdf) |
+
+1. Rozporządzenie określa wymagania techniczne jakościowe zakresie standardów przesyłanych danych tryb wprowadzania danych do centralnej ewidencji kierowców, zwanej dalej „ewidencją”.
+2. Użyte rozporządzeniu określenia oznaczają:
+1) obiekt – obiekt rozumieniu przepisów wydanych na podstawie art. 18 ustawy 17 lutego 2005 o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. 2014 1114 352);
+2) schemat zasilania – strukturę danych cech informacyjnych obiektów przekazywanych do ewidencji;
+3) suma kontrolna – zestaw danych generowany przez system teleinformatyczny obsługujący ewidencję, potwierdzający aktualność danych zgromadzonych ewidencji.
+3. 1. Wprowadzanie danych do ewidencji jest realizowane zgodnie ze schematem zasilania udostępnionym przez administratora ewidencji.
+2. W przypadku zmiany schematu zasilania administrator ewidencji przekazuje niezwłocznie podmiotom obowiązanym do wprowadzania danych do ewidencji zaktualizowany schemat zasilania.
+4. 1. Dane zgromadzone ewidencji, pobrane celu wprowadzenia danych do ewidencji, opatrzone są sumą kontrolną potwierdzającą aktualność tych danych.
+2. Wprowadzenie danych do ewidencji, celu aktualizacji ewidencji, wymaga użycia przez podmiot obowiązany do wprowadzania danych do ewidencji, sumy kontrolnej potwierdzającej aktualność danych.
+5. W przypadku pobrania danych zgromadzonych ewidencji, celu wprowadzenia danych do ewidencji, dotyczących więcej niż jednego obiektu, podmiot obowiązany do wprowadzania danych do ewidencji wskazuje, którego obiektu dotyczą wprowadzane dane.
+6. 1. Administrator ewidencji weryfikuje poprawność wprowadzanych danych oparciu o dane zgromadzone rejestrach PESEL, REGON TERYT.
+2. W przypadku komunikatu o negatywnej weryfikacji poprawności wprowadzanych danych, wraz tym komunikatem wskazane zostają dane zawierające błędy określające ich rodzaj.
+7. 1. Wprowadzenie danych do ewidencji wymaga użycia danych słownikowych udostępnianych przez system teleinformatyczny obsługujący ewidencję.
+2. W przypadku konieczności uzupełnienia udostępnionych przez system teleinformatyczny obsługujący ewidencję danych słownikowych, podmiot obowiązany do wprowadzania danych do ewidencji zgłasza, za pośrednictwem systemu teleinformatycznego obsługującego ewidencję lub systemu teleinformatycznego obsługującego zadania realizowane przez ten podmiot, administratorowi ewidencji konieczność uzupełnienia danych słownikowych.
+3. Uzupełnienia danych słownikowych dokonuje administrator ewidencji niezwłocznie po stwierdzeniu konieczności ich uzupełnienia.
+4. W przypadku braku konieczności uzupełnienia danych słownikowych administrator ewidencji niezwłocznie powiadamia podmiot, o którym mowa ust. 2, o danej słownikowej, której należy użyć.
+5. W przypadku gdy uzupełnienie danych słownikowych wymaga uprzedniego wprowadzenia danych do rejestrów lub ewidencji, o których mowa art. 28 ust. 1, art. 30 ust. 1, art. 33 ust. 1 pkt 9, art. 38 ust. 2, art. 58 ust. 1 pkt 10, art. 77 ust. 1 pkt 5, art. 85 ust. 1, art. 86 ust. 4, art. 87 ust. 2 pkt 4, art. 114 ust. 1, art. 116 ust. 4 art. 117 ust. 2 pkt 8 ustawy 5 stycznia 2011 o kierujących pojazdami (Dz. U. 155, późn. zm. ) art. 100ag ust. 1 ustawy 20 czerwca 1997 – Prawo o ruchu drogowym, administrator ewidencji niezwłocznie przekazuje zgłoszenie do organu właściwego do prowadzenia tego rejestru lub ewidencji. Uzupełnienie danych słownikowych, o którym mowa ust. 3, następuje po potwierdzeniu przez organ właściwy do prowadzenia rejestru lub ewidencji zasadności zgłoszenia.
+8. 1. Otrzymanie komunikatu systemu teleinformatycznego obsługującego ewidencję, potwierdzającego poprawne wprowadzenie danych do ewidencji, wymaga:
+1) wskazania sumy kontrolnej potwierdzającej aktualność danych;
+2) wskazania obiektu, którego dane dotyczą;
+3) wskazania wszystkich danych wymaganych przepisami prawa;
+4) użycia schematu zasilania udostępnianego przez administratora ewidencji;
+5) wyjaśnienia niepoprawności przypadku zidentyfikowania niezgodności danymi zgromadzonymi rejestrze PESEL REGON.
+2. W przypadku braku możliwości wprowadzenia danych do ewidencji administrator ewidencji za pomocą systemu teleinformatycznego obsługującego ewidencję przekaże podmiotowi obowiązanemu do wprowadzania danych do ewidencji informacje o danych, które powodują brak możliwości wprowadzenia danych do ewidencji, o konieczności ponownego wprowadzenia danych.
+9. Rozporządzenie wchodzi życie dniem 1 stycznia 2017 Minister Cyfryzacji: A. Streżyńska
+

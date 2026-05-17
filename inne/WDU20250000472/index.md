@@ -8,9 +8,12 @@ pos: 472
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 kwietnia 2025 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-04-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000472) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/472/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 marca 2025 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o referendum lokalnym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. z 2023 r. poz. 1317), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 212 ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. poz. 1907), który stanowi: „Art. 212. Ustawa wchodzi życie z dniem 1 stycznia 2025 r., z wyjątkiem:
 1) art. 16, art. 156, art. 198 i art. 199, które wchodzą życie z dniem następującym po dniu ogłoszenia;
@@ -98,7 +99,6 @@ poz. 566, 1907 i 1940).
 2. Podpisy zbiera się na kartach, z których każda zawiera informacje o przedmiocie zamierzonego referendum oraz o tym, że poparcia nie można wycofać. Karta zawiera również:
 1) nazwiska i imiona członków grupy oraz imię, nazwisko i miejsce zamieszkania pełnomocnika, jeżeli inicjatorem referendum jest grupa obywateli;
 2) nazwę i adres siedziby statutowej struktury terenowej partii politycznej lub organizacji społecznej oraz imię, nazwisko i adres zamieszkania pełnomocnika, jeżeli inicjatorem referendum jest partia polityczna lub organizacja społeczna.
-miejscu, czasie i sposób wykluczający stosowanie jakichkolwiek nacisków zmierzających do wymuszenia podpisów.
 4. Mieszkaniec jednostki samorządu terytorialnego popierający wniosek o przeprowadzenie referendum podaje na karcie nazwisko, imię, adres zamieszkania, numer ewidencyjny PESEL i datę udzielenia poparcia. Dane te potwierdza własnoręcznym podpisem. Wycofanie udzielonego poparcia jest bezskuteczne.
 14a. 1. W przypadku niezłożenia wniosku o przeprowadzenie referendum, jego inicjator dokonuje protokolarnego zniszczenia kart.
 2. Zniszczenie kart powinno nastąpić nie później niż po 3 dniach od upływu terminu, o którym mowa art. 14 ust. 1.
@@ -137,7 +137,7 @@ sprawie przeprowadzenia referendum, a także na niedotrzymanie przez ten organ t
 24a. 1. Uchwałę rady gminy o przeprowadzeniu referendum sprawie odwołania wójta (burmistrza, prezydenta miasta) przewodniczący rady gminy przekazuje komisarzowi wyborczemu.
 2. Komisarz wyborczy wydaje postanowienie o przeprowadzeniu referendum ciągu 14 dni po upływie terminu do stwierdzenia nieważności uchwały przez wojewodę trybie art. 91 ustawy, o której mowa art. 6 pkt 1, albo ciągu 14 dni od dnia otrzymania orzeczenia o oddaleniu lub odrzuceniu przez sąd administracyjny skargi na rozstrzygnięcie nadzorcze wojewody unieważniające uchwałę, o którym mowa ust. 3.
 3. Na rozstrzygnięcie nadzorcze wojewody unieważniające uchwałę rady gminy o przeprowadzeniu referendum sprawie odwołania wójta (burmistrza, prezydenta miasta) radzie gminy służy skarga do sądu administracyjnego terminie 14 dni od dnia otrzymania rozstrzygnięcia nadzorczego. Sąd administracyjny rozpatruje skargę terminie 14 dni od dnia jej zgłoszenia. Skargę kasacyjną wnosi się terminie 14 dni.
-odwołania organów gminy oraz uchwały rady gminy o przeprowadzenie referendum sprawie odwołania wójta (burmistrza, prezydenta miasta) komisarz wyborczy wydaje postanowienie o przeprowadzeniu referendum terminie liczonym od dnia otrzymania pierwszego wniosku lub uchwały.
+prezydenta miasta) komisarz wyborczy wydaje postanowienie o przeprowadzeniu referendum terminie liczonym od dnia otrzymania pierwszego wniosku lub uchwały.
 25. 1. Postanowienie komisarza wyborczego o przeprowadzeniu referendum zawiera:
 1) termin przeprowadzenia referendum;
 2) wzór i treść karty do głosowania;
@@ -246,7 +246,6 @@ Nie dotyczy to czynności wykonywanych przez komisarza wyborczego.
 2. Wynik referendum gminnego sprawie samoopodatkowania się mieszkańców na cele publiczne jest rozstrzygający, jeżeli za samoopodatkowaniem oddano co najmniej 2/3 ważnych głosów.
 57. 1. Głos jest nieważny, jeżeli na karcie do głosowania, odniesieniu do poszczególnego pytania lub wariantu, nie zaznaczono żadnej odpowiedzi lub nie dokonano wyboru żadnego wariantu.
 2. Głos jest nieważny odniesieniu do poszczególnego pytania lub wariantu, jeżeli na karcie do głosowania zaznaczono więcej niż jedną odpowiedź na dane pytanie lub dokonano wyboru więcej niż jednego wariantu.
-komisji.
 2. Dopisanie na karcie do głosowania dodatkowych uwag lub innych dopisków poza kratką nie wpływa na ważność głosu.
 3. Kart do głosowania przedartych całkowicie na dwie lub więcej części nie bierze się pod uwagę przy obliczaniu wyników głosowania.
 59. 1. Po zakończeniu głosowania obwodowa komisja sporządza trzech egzemplarzach protokół wyników głosowania obwodzie, zawierający liczbę:
@@ -274,7 +273,7 @@ komisji.
 1) łączne dane liczbowe, wymienione art. 59 ust. 1, z obszaru powiatu;
 2) wynik referendum.
 3. Do działania komisji powiatowych, o których mowa ust. 1, stosuje się odpowiednio przepisy art. 59 ust. 2–5 i art. 61 ust. 3.
-wiadomości wyniki głosowania i wynik referendum poprzez wywieszenie swojej siedzibie jednego z egzemplarzy tego protokołu.
+protokołu.
 2. Wojewoda niezwłocznie ogłasza wojewódzkim dzienniku urzędowym protokół wyniku referendum otrzymany od terytorialnej komisji.
 3. Jeżeli referendum zostało zarządzone przez organ stanowiący jednostki samorządu terytorialnego, jeden egzemplarz protokołu wyniku referendum wraz z protokołami terytorialnej komisji i obwodowych komisji terytorialna komisja niezwłocznie przekazuje właściwemu wójtowi (burmistrzowi, prezydentowi miasta), staroście albo marszałkowi województwa.
 4. Jeżeli referendum dotyczyło odwołania organu jednostki samorządu terytorialnego przed upływem kadencji, terytorialna komisja niezwłocznie przesyła protokół wyniku referendum wraz z protokołami obwodowych komisji właściwemu komisarzowi wyborczemu.
@@ -292,7 +291,6 @@ wiadomości wyniki głosowania i wynik referendum poprzez wywieszenie swojej sie
 68. Kto zbiera podpisy osób popierających zgłoszenie wniosku sprawie przeprowadzenia referendum z naruszeniem art. 14 ust. 3, podlega grzywnie.
 69. Kto prowadzi kampanię referendalną z naruszeniem zakazów określonych art. 29 ust. 2 i 3 albo art. 31, podlega karze grzywny.
 70. Kto podaje do publicznej wiadomości wyniki badań opinii publicznej dotyczące przewidywanych zachowań mieszkańców referendum i wyniku referendum oraz sondaży przeprowadzanych dniu głosowania, z naruszeniem zakazu, o którym mowa art. 32, podlega grzywnie.
-niepieniężne z naruszeniem zakazu, o którym mowa art. 43, podlega grzywnie.
 72. Pełnomocnik inicjatora referendum, który nie wykonuje terminie obowiązku przedłożenia sprawozdania finansowego organowi określonemu art. 44 lub art. 45, podlega karze grzywny.
 73. Kto, dysponując nadwyżką środków finansowych inicjatora referendum, nie przekazuje jej instytucji charytatywnej wbrew nakazowi wynikającemu z art. 46, podlega grzywnie.
 74. Do postępowania sprawach, o których mowa art. 69 i art. 72, stosuje się przepisy o postępowaniu sprawach o wykroczenia.

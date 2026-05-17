@@ -8,9 +8,12 @@ pos: 1418
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 17 października 2008 r. o zmianie ustawy o systemie ubezpieczeń społecznych
+# o zmianie ustawy o systemie ubezpieczeń społecznych
+
+*USTAWA z dnia 17 października 2008 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1418/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, zpóên. zm.
+**Art. 1.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz.U. z 2007 r. Nr 11, poz. 74, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Ustawa wchodzi wżycie zdniem 1 stycznia 2009 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— 1418 USTAWA zdnia 17 paêdziernika 2008 r. ozmianie ustawy osystemie ubezpieczeń społecznych ———————
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 stycznia 2009 r.
 

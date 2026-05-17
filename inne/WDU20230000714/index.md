@@ -8,9 +8,12 @@ pos: 714
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 kwietnia 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie osób przebywających na obszarach wodnych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 marca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000714) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/714/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 10 marca 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o bezpieczeństwie osób przebywających na obszarach wodnych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie osób przebywających na obszarach wodnych (Dz. U. z 2022 r.
 poz. 147), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705) oraz zmian wynikających z przepisów ogłoszonych przed dniem 6 marca 2023 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 221–226 i art. 234 ustawy z dnia 1 grudnia 2022 r. o zawodzie ratownika medycznego oraz samorządzie ratowników medycznych (Dz. U. poz. 2705), które stanowią: „Art. 221. 1. Karty doskonalenia zawodowego ratownika medycznego wydane przed dniem wejścia w życie ustawy zachowują ważność przez okres, na jaki zostały wydane.

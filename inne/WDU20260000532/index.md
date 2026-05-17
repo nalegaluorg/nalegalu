@@ -8,6 +8,7 @@ pos: 532
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rodziców aktywności zawodowej oraz wychowaniu dziecka „Aktywny rodzic”

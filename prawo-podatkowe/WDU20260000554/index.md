@@ -8,6 +8,7 @@ pos: 554
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # sprawie ogłoszenia jednolitego tekstu ustawy o podatku dochodowym od osób prawnych

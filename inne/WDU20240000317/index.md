@@ -8,9 +8,12 @@ pos: 317
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 6 marca 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach zakresie elektrowni wiatrowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 lutego 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/317/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 lutego 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach zakresie elektrowni wiatrowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 maja 2016 r. o inwestycjach zakresie elektrowni wiatrowych (Dz. U. z 2021 r. poz. 724), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 9 marca 2023 r. o zmianie ustawy o inwestycjach zakresie elektrowni wiatrowych oraz niektórych innych ustaw (Dz. U. poz. 553),
 2) ustawą z dnia 7 lipca 2023 r. o zmianie ustawy o planowaniu i zagospodarowaniu przestrzennym oraz niektórych innych ustaw (Dz. U. poz. 1688) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 lutego 2024 r.
@@ -36,8 +37,9 @@ sprawie ogłoszenia jednolitego tekstu ustawy o inwestycjach zakresie elektrowni
 4. Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy oraz do projektów planów zagospodarowania przestrzennego województwa albo ich zmian stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 5. Do projektów studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy albo ich zmian, stosunku do których przed dniem wejścia życie niniejszej ustawy ogłoszono o wyłożeniu do publicznego wglądu, stosuje się przepisy ustawy zmienianej art. 4 brzmieniu dotychczasowym.
 6. Do projektów planów miejscowych albo ich zmian, stosunku do których przed dniem wejścia życie ustawy dokonano wyłożenia, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym.
+7. Przepisy art. 4a ustawy zmienianej art. 1 stosuje się do:
 1) projektów planów miejscowych, które nie zostały uchwalone przed dniem wejścia życie niniejszej ustawy;
-2) wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań sprawie wydania decyzji o warunkach zabudowy, o której mowa art. 4 ust. 2 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747 oraz z 2023 r. poz. 553), zwanej dalej „decyzją WZ”, decyzji o lokalizacji inwestycji celu publicznego, o której mowa art. 4 ust. 2 pkt 1 tej ustawy, zwanej dalej „decyzją LICP”, a także decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie sieci przesyłowych, o której mowa art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych (Dz. U. z 2022 r. poz. 273 i 1846), dotyczących sieci elektroenergetycznych najwyższych napięć.
+2) wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy postępowań sprawie wydania decyzji o warunkach zabudowy, o której mowa art. 4 ust. 2 pkt 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz. U. z 2022 r. poz. 503, 1846, 2185 i 2747 oraz z 2023 r. poz. 553), zwanej dalej „decyzją WZ”, decyzji o lokalizacji inwestycji celu publicznego, o której mowa art. 4 ust. 2 pkt 1 tej ustawy, zwanej dalej „decyzją LICP”, a także decyzji o ustaleniu lokalizacji strategicznej inwestycji zakresie
 8. Do postępowań sprawie wydania pozwolenia na budowę wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy oraz do oceny zasadności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa przepisach prawa budowlanego, dokonanego przed dniem wejścia życie niniejszej ustawy, dla sieci elektroenergetycznej najwyższych napięć nie stosuje się przepisów art. 4a ustawy zmienianej art. 1.
 9. Do projektów planów miejscowych albo ich zmian, sporządzanych na podstawie studiów uwarunkowań i kierunków zagospodarowania przestrzennego gminy uchwalonych przed dniem wejścia życie niniejszej ustawy lub na podstawie studiów, o których mowa ust. 5, stosuje się przepis art. 15 ust. 3 pkt 3a ustawy zmienianej art. 4 brzmieniu dotychczasowym.
 Art. 9–11. (pominięte)
@@ -60,9 +62,11 @@ Art. 9–11. (pominięte)
 
 **Art. 10.**
 
-1. Jeżeli planie miejscowym, o którym mowa art. 15 ust. 2, ust. 7 pkt 1 lub ust. 8 ustawy zmienianej art. 1, przewiduje się lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a przypadku zgłoszenia wnosi sprzeciw, jeżeli inwestycja zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy. wymaga uzyskania decyzji o środowiskowych uwarunkowaniach, organ prowadzący postępowanie sprawie decyzji o środowiskowych uwarunkowaniach odmawia zgody na realizację przedsięwzięcia, jeżeli inwestycja zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy.
+1. Jeżeli planie miejscowym, o którym mowa art. 15 ust. 2, ust. 7 pkt 1 lub ust. 8 ustawy zmienianej art. 1, przewiduje się lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a przypadku zgłoszenia wnosi sprzeciw, jeżeli inwestycja zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 11.** W przypadku decyzji WZ wydanej na podstawie postępowań, o których mowa art. 14 ust. 1 i 2 ustawy zmienianej art. 1, oraz decyzji WZ, o których mowa art. 14 ust. 4 ustawy zmienianej art. 1, dla których przed dniem wejścia życie niniejszej ustawy nie wydano pozwolenia na budowę, organ administracji architektoniczno-budowlanej odmawia wydania pozwolenia na budowę, a przypadku zgłoszenia wnosi sprzeciw, jeżeli inwestycja zakresie budynku mieszkalnego albo budynku o funkcji mieszanej nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy.
+2. Jeżeli planie miejscowym, o którym mowa art. 15 ust. 2, ust. 7 pkt 1 lub ust. 8 ustawy zmienianej art. 1, przewiduje się lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, a lokalizacja takiego budynku wymaga uzyskania decyzji o środowiskowych uwarunkowaniach, organ prowadzący postępowanie sprawie decyzji o środowiskowych uwarunkowaniach odmawia zgody na realizację przedsięwzięcia, jeżeli inwestycja zakresie tego budynku nie spełnia wymogu zachowania odległości nie mniejszej niż 700 metrów od elektrowni wiatrowej, z wyjątkiem elektrowni wiatrowych, dla których decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy.
+
+**Art. 11.** W przypadku decyzji WZ wydanej na podstawie postępowań, o których mowa art. 14 ust. 1 i 2 ustawy leniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy.
 
 **Art. 12.** Do lokalizowania lub budowy budynku mieszkalnego albo budynku o funkcji mieszanej na podstawie decyzji WZ albo decyzji LICP, albo lokalizowania takiego budynku na podstawie planu miejscowego, przypadku określania odległości takiego budynku od elektrowni wiatrowej, dla której decyzja o pozwoleniu na budowę stała się ostateczna przed dniem wejścia życie niniejszej ustawy, nie stosuje się przepisu art. 4 ust. 4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.” „Art. 14. 1. Do postępowań sprawie wydania decyzji o środowiskowych uwarunkowaniach dla elektrowni wiatrowych, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą. 2. Do postępowań sprawie wydania pozwolenia na budowę dla elektrowni wiatrowych, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, oraz do oceny zasadności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa przepisach prawa budowlanego, dokonanego przed dniem wejścia życie niniejszej ustawy dla elektrowni wiatrowych, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, z wyłączeniem art. 4a ust. 1 i 2.” „Art. 16. 1. Pozwolenia na budowę budynku mieszkalnego albo budynku o funkcji mieszanej, wydane przed dniem wejścia życie niniejszej ustawy, zachowują ważność. 2. Do postępowań sprawie wydania pozwolenia na budowę lub decyzji o środowiskowych uwarunkowaniach dotyczących budynku mieszkalnego albo budynku o funkcji mieszanej, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe. 3. Zgłoszenia budowy budynków, o których mowa art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2021 r. poz. 2351, z późn. zm. ), stosunku do których przed dniem wejścia życie niniejszej ustawy organ nie wniósł sprzeciwu, pozostają skuteczne. 4. Do zgłoszeń budowy budynków, o których mowa art. 29 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane, dokonanych przed dniem wejścia życie niniejszej ustawy, dla których przed dniem wejścia życie niniejszej ustawy nie upłynął termin na wniesienie sprzeciwu, stosuje się przepisy dotychczasowe. 5. Zgłoszenia budowy budynków, o których mowa art. 29 ust. 1 pkt 1a ustawy z dnia 7 lipca 1994 r. Prawo budowlane, które zostały dokonane przed dniem wejścia życie niniejszej ustawy, pozostają skuteczne. 6. Do postępowań przedmiocie wydania decyzji WZ albo decyzji LICP dla budynku mieszkalnego lub budynku o funkcji mieszanej, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
@@ -70,7 +74,9 @@ Art. 9–11. (pominięte)
 
 1. W przypadku elektrowni wiatrowych wybudowanych przed dniem wejścia życie niniejszej ustawy, niespełniających wymogów określonych art. 4a ustawy zmienianej art. 1, dopuszcza się jedynie wykonywanie ich remontów lub czynności niezbędnych do ich prawidłowego użytkowania, z wyłączeniem działań prowadzących do zwiększenia mocy zainstalowanej elektrycznej lub zwiększenia oddziaływań na środowisko tych elektrowni.
 
-2. W przypadkach określonych ust. 1 minimalna odległość elektrowni wiatrowej określona art. 4a ustawy zmienianej art. 1 nie jest brana pod uwagę przy wydawaniu decyzji administracyjnych wymaganych do wykonywania remontów lub czynności, o których mowa ust. 1. wać przedsiębiorca, który nie został wpisany do rejestru podmiotów wykonujących czynności i przeglądy serwisowe elementów technicznych elektrowni wiatrowej, o którym mowa art. 8c ust. 1 tej ustawy.
+2. W przypadkach określonych ust. 1 minimalna odległość elektrowni wiatrowej określona art. 4a ustawy zmienianej art. 1 nie jest brana pod uwagę przy wydawaniu decyzji administracyjnych wymaganych do wykonywania remontów lub czynności, o których mowa ust. 1.
+
+**Art. 18.** W terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy czynności i przeglądy serwisowe elementów technicznych elektrowni wiatrowej, o której mowa art. 8b ust. 1 ustawy zmienianej art. 1, może wykonywać przedsiębiorca, który nie został wpisany do rejestru podmiotów wykonujących czynności i przeglądy serwisowe elementów technicznych elektrowni wiatrowej, o którym mowa art. 8c ust. 1 tej ustawy.
 
 **Art. 19.** Prezes Urzędu Dozoru Technicznego tworzy rejestr, o którym mowa art. 8c ustawy zmienianej art. 1, terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy.
 
@@ -78,7 +84,7 @@ Art. 9–11. (pominięte)
 
 1. Minister właściwy do spraw gospodarki powołuje członków Komitetu Odwoławczego, o którym mowa art. 8l ust. 1 ustawy zmienianej art. 1, terminie 45 dni od dnia wejścia życie niniejszej ustawy.
 
-2. Podmioty, o których mowa art. 8l ust. 4 pkt 2–5 ustawy zmienianej art. 1, zgłaszają kandydatów do Komitetu Odwoławczego, o którym mowa art. 8l ust. 1 ustawy zmienianej art. 1, terminie 10 dni od dnia wejścia życie niniejszej ustawy. W przypadku niezgłoszenia kandydatów minister właściwy do spraw gospodarki powołuje członków tego komitetu samodzielnie.
+2. Podmioty, o których mowa art. 8l ust. 4 pkt 2–5 ustawy zmienianej art. 1, zgłaszają kandydatów do Komitetu Odwoławczego, o którym mowa art. 8l ust. 1 ustawy zmienianej art. 1, terminie 10 dni od dnia wejścia
 
 **Art. 21.** Prezes Urzędu Dozoru Technicznego nadaje Komitetowi Odwoławczemu, o którym mowa art. 8l ust. 1 ustawy zmienianej art. 1, regulamin, o którym mowa art. 8l ust. 9 ustawy zmienianej art. 1, terminie 45 dni od dnia wejścia życie niniejszej ustawy.
 
@@ -136,7 +142,7 @@ Art. 9–11. (pominięte)
 - **1)** rzutem poziomym istniejącej sieci elektroenergetycznej najwyższych napięć, albo
 - **2)** granicą terenu objętego wnioskiem, na podstawie którego wszczęto postępowanie sprawie wydania decyzji o środowiskowych uwarunkowaniach, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, o ile nie zostało wszczęte postępowanie sprawie wydania decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji inwestycji zakresie sieci przesyłowych, o której mowa art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych, ani pozwolenia na budowę, lub o ile te decyzje nie zostały wydane, albo nie zostały wniesione zgłoszenia, o których mowa przepisach prawa budowlanego, albo
 - **3)** granicą terenu objętego wnioskami o wydanie decyzji WZ, decyzji LICP, decyzji o ustaleniu lokalizacji inwestycji zakresie sieci przesyłowych, o której mowa art. 5 ust. 1 ustawy z dnia 24 lipca 2015 r. o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych, albo granicą terenu objętego tymi decyzjami, o ile zostały wydane, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, o ile nie zostało wniesione zgłoszenie, o którym mowa przepisach prawa budowlanego, albo wszczęte postępowanie sprawie wydania pozwolenia na budowę, lub o ile ta decyzja nie została wydana, albo
-- **4)** granicą terenu objętego zgłoszeniem, o którym mowa przepisach prawa budowlanego, wnioskiem o wydanie pozwolenia na budowę, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, albo inwestycji zakresie sieci elektroenergetycznych najwyższych napięć, a:
+- **4)** granicą terenu objętego zgłoszeniem, o którym mowa przepisach prawa budowlanego, wnioskiem o wydanie pozwolenia na budowę, albo granicą terenu objętego tą decyzją, o ile została wydana, dotyczącymi sieci elektroenergetycznych najwyższych napięć, na którym jest możliwa lokalizacja tej inwestycji, albo a:
 - **6)** okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej lub zlokalizowanej elektrowni wiatrowej przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć, wydawania dla niej pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa przepisach prawa budowlanego, gdy dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
 - **7)** linią rozgraniczającą teren, którego sposób zagospodarowania określony planie miejscowym dopuszcza budowę elektrowni wiatrowej, albo granicą terenu objętego decyzją WZ, albo decyzją LICP, na którym jest możliwa lokalizacja elektrowni wiatrowej, albo okręgiem, którego promień jest równy połowie średnicy wirnika wraz z łopatami, a środek jest środkiem okręgu opisanego na obrysie wieży istniejącej elektrowni wiatrowej, zależności od tego, która odległość jest mniejsza przypadku lokalizowania sieci elektroenergetycznej najwyższych napięć lub wydawania dla niej pozwolenia na budowę albo dokonywania zgłoszenia, o którym mowa przepisach prawa budowlanego, jeżeli nie dla wszystkich elektrowni wiatrowych przewidzianych na terenie, którego sposób zagospodarowania określony planie miejscowym, decyzji WZ albo decyzji LICP dopuszcza budowę elektrowni wiatrowej, wydano pozwolenia na budowę, albo
 - **8)** linią rozgraniczającą teren, którego sposób zagospodarowania określony planie miejscowym dopuszcza budowę elektrowni wiatrowej przypadku lokalizowania elektrowni wiatrowej, albo
@@ -190,7 +196,7 @@ Art. 9–11. (pominięte)
 - **25)** Odległość określoną lub wskazaną zgodnie z:
 - **1)** art. 4 uwzględniają:
     - **a)** organy gminy oraz wojewoda przy sporządzaniu oraz uchwalaniu albo przyjmowaniu planu miejscowego albo jego zmiany,
-    - **b)** organy gminy oraz wojewoda przy wydawaniu decyzji WZ i decyzji LICP, ności wniesienia sprzeciwu wobec zgłoszenia, o którym mowa przepisach prawa budowlanego,
+    - **b)** organy gminy oraz wojewoda przy wydawaniu decyzji WZ i decyzji LICP,
     - **d)** organy wydające decyzje o środowiskowych uwarunkowaniach przy wydawaniu tych decyzji;
 
 - **2)** art. 4a uwzględniają: o przygotowaniu i realizacji strategicznych inwestycji zakresie sieci przesyłowych,
@@ -225,7 +231,7 @@ Art. 9–11. (pominięte)
 **Art. 6e.**
 
 - **27)** 1. Wójt, burmistrz albo prezydent miasta gminy, której jest lokalizowana elektrownia wiatrowa:
-- **1)** terminie 30 dni od dnia podjęcia uchwały o przystąpieniu do sporządzania planu miejscowego, na podstawie którego ma być lokalizowana elektrownia wiatrowa, organizuje co najmniej jedno spotkanie otwarte formie spotkania bezpośredniego oraz co najmniej jedno spotkanie otwarte prowadzone za pomocą środków porozumiewania się na odległość, umożliwiających zabieranie głosu, zadawanie pytań i składanie uwag przez jednoczesną transmisję obrazu i dźwięku oraz zadawanie pytań i składanie uwag formie zapisu tekstowego; strzennym o rozpoczęciu konsultacji społecznych projektu planu miejscowego, na podstawie którego ma być lokalizowana elektrownia wiatrowa, co najmniej 14 dni przed dniem rozpoczęcia konsultacji społecznych i prowadzi te konsultacje przez okres co najmniej 60 dni, jednak nie dłuższy niż 90 dni, z wykorzystaniem form, o których mowa art. 8i ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z tym że organizuje co najmniej jedno spotkanie otwarte formie spotkania bezpośredniego oraz co najmniej jedno spotkanie otwarte prowadzone za pomocą środków porozumiewania się na odległość, umożliwiających zabieranie głosu, zadawanie pytań i składanie uwag przez jednoczesną transmisję obrazu i dźwięku oraz zadawanie pytań i składanie uwag formie zapisu tekstowego;
+- **1)** terminie 30 dni od dnia podjęcia uchwały o przystąpieniu do sporządzania planu miejscowego, na podstawie którego ma być lokalizowana elektrownia wiatrowa, organizuje co najmniej jedno spotkanie otwarte formie spotkania bezpośredniego oraz co najmniej jedno spotkanie otwarte prowadzone za pomocą środków porozumiewania się na odległość, umożliwiających zabieranie głosu, zadawanie pytań i składanie uwag przez jednoczesną transmisję obrazu i dźwięku oraz zadawanie pytań i składanie uwag formie zapisu tekstowego; zowana elektrownia wiatrowa, co najmniej 14 dni przed dniem rozpoczęcia konsultacji społecznych i prowadzi te konsultacje przez okres co najmniej 60 dni, jednak nie dłuższy niż 90 dni, z wykorzystaniem form, o których mowa art. 8i ust. 2 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym, z tym że organizuje co najmniej jedno spotkanie otwarte formie spotkania bezpośredniego oraz co najmniej jedno spotkanie otwarte prowadzone za pomocą środków porozumiewania się na odległość, umożliwiających zabieranie głosu, zadawanie pytań i składanie uwag przez jednoczesną transmisję obrazu i dźwięku oraz zadawanie pytań i składanie uwag formie zapisu tekstowego;
 - **3)** (uchylony)
 - **4)** przekazuje wójtom, burmistrzom albo prezydentom miast gmin pobliskich informację o ogłoszeniu, o którym mowa pkt 2, terminie 3 dni od dnia ogłoszenia, oraz informacje o terminach spotkań otwartych, o których mowa pkt 1 i 2, niezwłocznie po ustaleniu tych terminów.
 
@@ -275,7 +281,7 @@ Art. 9–11. (pominięte)
 
 - **36)** 1. Plan miejscowy, na podstawie którego ma być lokalizowana elektrownia wiatrowa:
 - **1)** określa maksymalną całkowitą wysokość elektrowni wiatrowej, maksymalną średnicę wirnika wraz z łopatami i maksymalną liczbę elektrowni wiatrowych;
-- **2)** sporządza się co najmniej dla obszaru położonego granicach gminy, której jest lokalizowana elektrownia wiatrowa, znajdującego się odległości, o której mowa art. 4 ust. 1. widującego lokalizację elektrowni wiatrowej zamieszcza się szczególności maksymalną całkowitą wysokość elektrowni wiatrowej, maksymalną średnicę wirnika wraz z łopatami oraz maksymalną liczbę elektrowni wiatrowych, które zostaną określone tym planie.
+- **2)** sporządza się co najmniej dla obszaru położonego granicach gminy, której jest lokalizowana elektrownia wiawidującego lokalizację elektrowni wiatrowej zamieszcza się szczególności maksymalną całkowitą wysokość elektrowni wiatrowej, maksymalną średnicę wirnika wraz z łopatami oraz maksymalną liczbę elektrowni wiatrowych, które zostaną określone tym planie.
 
 3. W przypadku gdy odległość elektrowni wiatrowej od budynku mieszkalnego albo budynku o funkcji mieszanej jest mniejsza niż dziesięciokrotność całkowitej wysokości elektrowni wiatrowej i wykracza poza granice gminy, której jest lokalizowana ta elektrownia wiatrowa, plan miejscowy sporządza również gmina pobliska co najmniej dla położonego na jej terenie obszaru znajdującego się odległości nie większej niż 700 metrów od tej elektrowni wiatrowej.
 
@@ -309,7 +315,8 @@ Art. 9–11. (pominięte)
 
 3. Rejestr jest udostępniany publicznie na stronie podmiotowej UDT.
 
-- **1)** firmę przedsiębiorcy oraz jego siedzibę i adres;
+4. Rejestr zawiera:
+
 - **2)** adres do korespondencji, jeżeli jest inny niż określony pkt 1;
 - **3)** informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, numer rejestrze przedsiębiorców Krajowym Rejestrze Sądowym albo odpowiednią informację lub numer z rejestru innym państwie, umożliwiające prowadzenie działalności gospodarczej na terytorium Rzeczypospolitej Polskiej;
 - **4)** numer identyfikacji podatkowej (NIP) albo odpowiedni numer identyfikacji podatkowej innym państwie, umożliwiający prowadzenie działalności gospodarczej na terytorium Rzeczypospolitej Polskiej;
@@ -342,7 +349,6 @@ Art. 9–11. (pominięte)
 - **1)** bezpieczeństwa przeprowadzania czynności i przeglądów serwisowych, która zawiera szczególności wymagania dotyczące dopuszczalnych prędkości wiatru, przy których mogą być realizowane czynności serwisowe, stosowania środków zabezpieczających, tym sprzętu ochrony osobistej, nadzoru prowadzonych prac oraz wykaz prac wymagających pisemnego pozwolenia i asekuracji;
 - **2)** ewakuacji z wysokości pracowników sytuacjach zagrożenia;
 - **3)** bieżącej obsługi i okresowych przeglądów serwisowych, która zawiera instrukcje przeprowadzanych czynności podziale na elementy techniczne elektrowni wiatrowej, wraz z wykazem oprzyrządowania niezbędnego do prowadzenia prac, tym przyrządów kontrolno-pomiarowych;
-- **6)** wykonywania pomiarów i sprawdzeń urządzeń wymagających regulacji nastaw.
 
 6. Przedsiębiorca będący osobą fizyczną lub osoby uprawnione do reprezentowania przedsiębiorcy niebędącego osobą fizyczną posiadają pełną zdolność do czynności prawnych, korzystają z pełni praw publicznych i nie były skazane prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów i obrotowi gospodarczemu.
 
@@ -384,8 +390,6 @@ Art. 9–11. (pominięte)
 2. Przedsiębiorca wpisany do rejestru, zwany dalej „certyfikowanym serwisem”, okresie ważności wpisu spełnia wymagania, o których mowa art. 8d ust. 3, oraz dysponuje wdrożonymi procedurami, o których mowa art. 8d ust. 5.
 
 3. Certyfikowany serwis niezwłocznie informuje Prezesa UDT o zmianie danych, o których mowa art. 8e ust. 3 i 4.
-
-2. Dodatkowa weryfikacja polega na sprawdzeniu spełniania wymagań, o których mowa art. 8d ust. 3, lub dysponowania wdrożonymi procedurami, o których mowa art. 8d ust. 5.
 
 3. Przeprowadzając dodatkową weryfikację, Prezes UDT może wezwać certyfikowany serwis do złożenia wyjaśnień lub przedłożenia dokumentów, o których mowa art. 8e ust. 4, potwierdzających spełnienie wymagań, o których mowa art. 8d ust. 3, lub dysponowanie wdrożonymi procedurami, o których mowa art. 8d ust. 5.
 
@@ -431,9 +435,7 @@ Art. 9–11. (pominięte)
 
 9. Organizację i tryb pracy Komitetu określa regulamin nadany przez Prezesa UDT porozumieniu z ministrem właściwym do spraw gospodarki.
 
-10. Obsługę administracyjno-organizacyjną Komitetu zapewnia UDT. ności wpisu do rejestru przysługuje odwołanie.
-
-2. Odwołanie wnosi się do Komitetu, za pośrednictwem Prezesa UDT, postaci papierowej lub elektronicznej za pomocą środków komunikacji elektronicznej, o których mowa ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, terminie 14 dni od dnia otrzymania zawiadomienia o odmowie dokonania wpisu do rejestru, wykreśleniu z rejestru lub odmowie przedłużenia ważności wpisu do rejestru.
+10. Obsługę administracyjno-organizacyjną Komitetu zapewnia UDT. mocą środków komunikacji elektronicznej, o których mowa ustawie z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną, terminie 14 dni od dnia otrzymania zawiadomienia o odmowie dokonania wpisu do rejestru, wykreśleniu z rejestru lub odmowie przedłużenia ważności wpisu do rejestru.
 
 3. Komitet rozpatruje odwołania składzie trzyosobowym, terminie nie dłuższym niż 30 dni od dnia otrzymania odwołania.
 
@@ -470,9 +472,7 @@ Art. 9–11. (pominięte)
 
 3. Wysokość kary pieniężnej, o której mowa ust. 1, nie może być niższa niż 10 000 zł i nie może być wyższa niż 5% przychodu ukaranego przedsiębiorcy, osiągniętego poprzednim roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością prowadzoną na podstawie koncesji albo wpisu do rejestru działalności regulowanej, wysokość kary nie może być niższa niż 10 000 zł i nie może być wyższa niż 5% przychodu ukaranego przedsiębiorcy, wynikającego z działalności koncesjonowanej albo działalności wykonywanej na podstawie wpisu do rejestru działalności regulowanej, osiągniętego poprzednim roku podatkowym.
 
-4. W przypadku gdy ukarany przedsiębiorca poprzednim roku podatkowym nie osiągnął przychodu, Prezes URE, wymierzając karę pieniężną, uwzględnia ostatni ustalony przychód osiągnięty przez tego przedsiębiorcę roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością prowadzoną na podstawie koncesji albo wpisu do rejestru działalności regulowanej ostatni ustalony przychód z działalności koncesjonowanej albo działalności wykonywanej na podust. 3.
-
-6. W przypadku gdy przed wydaniem decyzji o wymierzeniu kary pieniężnej, o której mowa ust. 1, przypadku, o którym mowa ust. 3, ukarany podmiot nie dysponuje danymi finansowymi niezbędnymi do ustalenia przychodu za poprzedni rok podatkowy, o którym mowa ust. 3, uwzględniany do wymierzenia kary pieniężnej, lub takich danych nie przedstawił Prezesowi URE, stosuje się przepisy ust. 4 i 5.
+4. W przypadku gdy ukarany przedsiębiorca poprzednim roku podatkowym nie osiągnął przychodu, Prezes URE, wymierzając karę pieniężną, uwzględnia ostatni ustalony przychód osiągnięty przez tego przedsiębiorcę roku podatkowym, a jeżeli kara pieniężna jest związana z działalnością prowadzoną na podstawie koncesji albo wpisu do rejestru działalności regulowanej ostatni ustalony przychód z działalności koncesjonowanej albo działalności wykonywanej na podstawie wpisu do rejestru działalności regulowanej. przedni rok podatkowy, o którym mowa ust. 3, uwzględniany do wymierzenia kary pieniężnej, lub takich danych nie przedstawił Prezesowi URE, stosuje się przepisy ust. 4 i 5.
 
 7. Ustalając wysokość kary pieniężnej, Prezes URE uwzględnia wagę i okoliczności naruszenia prawa, stopień przyczynienia się strony, na którą jest nakładana kara pieniężna, do powstania naruszenia prawa oraz jej dotychczasowe zachowanie i możliwości finansowe.
 
@@ -551,7 +551,7 @@ Art. 9–11. (pominięte)
 7. Do projektów planów miejscowych albo ich zmian oraz inwestycji realizowanych na podstawie ustaleń tych planów, stosunku do których przed dniem wejścia życie ustawy:
 
 - **1)** dokonano wyłożenia, stosuje się przepisy dotychczasowe;
-- **2)** nie dokonano wyłożenia, stosuje się przepisy ustawy. cych lokalizację budynku mieszkalnego albo budynku o funkcji mieszanej, skład której wchodzi funkcja mieszkaniowa, na podstawie przepisów dotychczasowych.
+- **2)** nie dokonano wyłożenia, stosuje się przepisy ustawy. na podstawie przepisów dotychczasowych.
 
 9. Przepisów ust. 8 nie stosuje się do planów miejscowych przewidujących lokalizację nowej elektrowni wiatrowej.
 

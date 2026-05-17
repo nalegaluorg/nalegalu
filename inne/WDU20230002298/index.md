@@ -8,9 +8,12 @@ pos: 2298
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 października 2023 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 października 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002298) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2298/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 października 2023 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 lutego 2015 r. o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 (Dz. U. z 2022 r. poz. 2422), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obszarów wiejskich z udziałem środków Europejskiego Funduszu Rolnego na rzecz Rozwoju Obszarów Wiejskich w ramach Programu Rozwoju Obszarów Wiejskich na lata 2014–2020 oraz ustawy o podatku dochodowym od osób fizycznych (Dz. U. poz. 2433),
 2) ustawą z dnia 4 listopada 2022 r. o systemie identyfikacji i rejestracji zwierząt (Dz. U. poz. 2727),
@@ -224,9 +225,9 @@ Art. 59–67. (pominięte)
 
 1. Instytucja zarządzająca sprawuje nadzór nad:
 
-- **1)** agencją płatniczą − w zakresie wykonywania zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy i pomocy technicznej,
-- **2)** podmiotami wdrażającymi − w zakresie wykonywania zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy,
-- **3)** instytucjami pośredniczącymi − w zakresie wykonywania zadań instytucji zarządzającej pod względem wykonywania tych zadań zgodnie z przepisami prawa i programem.
+- **1)** agencją płatniczą  w zakresie wykonywania zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy i pomocy technicznej,
+- **2)** podmiotami wdrażającymi  w zakresie wykonywania zadań związanych z przyznawaniem, wypłatą i zwrotem pomocy,
+- **3)** instytucjami pośredniczącymi  w zakresie wykonywania zadań instytucji zarządzającej pod względem wykonywania tych zadań zgodnie z przepisami prawa i programem.
 
 2. Instytucja zarządzająca, w ramach nadzoru, o którym mowa w ust. 1, może w szczególności:
 
@@ -895,7 +896,7 @@ Art. 59–67. (pominięte)
 8. Do szkolenia uzupełniającego stosuje się odpowiednio przepisy ust. 3 i 4, z tym że o terminie szkolenia uzupełniającego dodatkowo informuje osobę wpisaną na listę:
 
 - **1)** dyrektor CDR w przypadku doradców rolniczych, doradców rolnośrodowiskowych i ekspertów przyrodniczych,
-- **2)** Dyrektor Generalny Lasów Państwowych w przypadku doradców leśnych − co najmniej na 30 dni przed dniem rozpoczęcia tego szkolenia.
+- **2)** Dyrektor Generalny Lasów Państwowych w przypadku doradców leśnych  co najmniej na 30 dni przed dniem rozpoczęcia tego szkolenia.
 
 9. Egzamin i egzamin uzupełniający przeprowadza się w formie pisemnej. Egzamin i egzamin uzupełniający mogą być przeprowadzone z wykorzystaniem środków komunikacji elektronicznej.
 

@@ -8,9 +8,10 @@ pos: 164
 act_type: Dekret
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# • DEKRET o odtworzeniu dyplomów świadectw z ukończenianaukC 3 U.
+# o odtworzeniu dyplomów i świadectw z ukończenia nauki Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) – Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:
 
 | Pole | Wartość |
 |---|---|
@@ -23,20 +24,31 @@ domain: null
 | Ostatnia zmiana | 2015-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19450270164) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1945/164/text.pdf) |
 
-'2.
-(2): o (2).
-formie . . Orzeczenia wznowienia tylko ska wniosek poza zachowaniem przepisu art. prawomocny wyrok karnelto. Wzno348 kodeksu cywilnego winny za- wie nie przy- jeszcze zaginionego padku umorzenia po- , zniszczonego dokilmentu, oznac:z;enie instytucji karnego sprawie z innych powodów, lub, dokument . oraz brak dowodów winy cech jego przynajmniej . • 'Art. 12. W przypadku uchylenia postano W przypadku odtworzenia istotnej wienia; wniose.k o odtwcrzenie treści dokumentu wniosek podlega całkcwitemu dokumentu, 'oddalenia tegc wniosku., pc wzno', 'oddaleniu. wieniu
-7. W razie uwzględnienia wnics.ku bdebrąnie cd zainterescwanej cscby przez· kc- .
-Mcnitorze Pclskim. mcrnika 'organa wydanegc tc winno jej pcstancwienia, o ile wypis ten, nie postanowienia, . cdtwarzającegc zaginiony został tcku pcstępowańia sprawie dołą zniszczony' dckument' oraz c prawie czony do akt. wypis ten znaj terminie do zaskarżenia -tego , postancwienia dował posiadaniu urzędu innej instytU'cji ze wskazaniem instytucji 'osób, którym -to pra- publicznej, sąd . zwróci się dc tych instytucyj wo o wypisu celu akt , 8. Od postanowień, uwzględniających' . sprawy. Odebrany znajdujący się' w' aktach wnioski o odtwcrzenie dokumentu, służy pro-, sprawy wypis ulega skasowaniu przez priekreśle kuratorowi, władzom bezpieczeństwa , publicz~ niego na krzyż poźostaje aktach sprawy.
-nego oraz instytucjóm cscbcm, 'kJ6re według Art',13. Wykcnanie niniejszego dekretu porucza Ministrowi postanowienia dckument . 14. Dekret niniejszy wchcdzi· W lenie t'erminiesiedmicdnicwym cd ukazania z dniem . .
-przepisanegc wart. 7
-9. Orzeczenia drugiej instancji są Prezydent Krajcwej Rady Narodcwej: 'ostateczne. . Bolesław Bierut
-10. Po uprawomccnieniu się post a- Prezes Rady Ministrów: nowien.ia, cdtwarzającegozaginicny znisz-' Edward Osóbka -Morawski czcny dokument. wyda csóbie zainteresowa'" Minister ne.j ~a jej żąd'anie wypiś tegc pcstancwienia. Henryk Świątkowski ,165 DEKRET .. z dnia 7 lipc~ 1945 r.
-o zniesieniu podatku od olejów miheraJnych• .
-Na podstawie ustawy z dnia 3 stycznia 1945 r. o' trybie wydawania z ustawy (Dz. U. R. P. Nr 1).:- Rada Mini strów pcstanawia, a Prezydium Krajcwej Rady Narodowej zatwierdza,. .
-... 1. Uchyla · moc rcz Prezydenta Rzeczypcspclitej z dnia 7 marca 1928 r. c podatku dd olejów minera 1nych(Dz. U. R. P. Nr 27, poz. 252) wraz z zmianami. . _
-2. Wykonanie niniejszego dekretu porucza siC; Ministrowi Skarbu. ' .
-I
-3. Dekret niniejszy wchcdzi z dniem z cd dnia 1 sierpnia 1944 r. ' .
-Prezydent Krajqwej Rady Narodcwej: Bierut Prezes Rady Ministrów: Edward Os6bka -MoraflJski Minister Skarbu: Konstanty
+**Art. 1.** Jeżeli zaginął uległ zniszczeniu dyplom naukowy świadectwo z ukończenia wszelkiego rodzaju szkół i kursów poszczególnych klas tego rodzaju zakładów naukowych, praktycznej nauki zawodu, odbycia praktyki zawodowej, świadectwo dyplom tytuł mistrza czeladnika i wszelkiego rodzaju stanowiska zawodzie pracy zawodowej, a zainteresowana osoba nie może uzyskać nowego jego duplikatu albo zastępczego zaświadczenia instytucji u osoby, która dokument wystawiła, z powodu zaginięcia zniszczenia akt, albo zwinięcia wymienionej instytucji śmierci tej osoby, bez pozostawienia akt, wówczas osoba zainteresowana może wystąpić do sądu rejonowego miejsca swego zamieszkania z wnioskiem o odtworzenie zaginionego zniszczonego dokumentu.
+
+**Art. 2.** Wniosek o odtworzenie winien zawierać dokładną treść zaginionego zniszczonego dokumentu, o ile możliwe, dosłownym jego brzmieniu i żądanie odtworzenia go zgodnie z tą treścią oraz powołanie dowodów jego poparcie.
+
+**Art. 3.**
+
+1. Do wniosku o odtworzenie winno być dołączone zaświadczenie instytucji osoby, która dokument wystawiła, stwierdzające odmowę wystawienia nowego duplikatu z powodu zaginięcia zniszczenia akt, a przypadku zwinięcia powyższej instytucji śmierci tej osoby `jh zaświadczenie władzy gminnej miejsca wystawienia dokumentu, stwierdzającego albo autentyczność zaświadczenia, winny być stwierdzone konsulat przedstawicielstwo polskie. Zaświadczenia powyższe mogą być także wystawiane konsulaty przedstawicielstwa polskie za granicą.
+
+3. Bez złożenia wymienionych ust. 1 2 zaświadczeń wniosek o odtworzenie jest niedopuszczalny i podlega odrzuceniu posiedzeniu niejawnym, chyba że wniosek dotyczy wystawionego poza obecnymi granicami Polski, a Ministerstwo Spraw Zagranicznych, właściwe przedstawicielstwo polskie konsulat stwierdzone zostanie, że uzyskanie tych zaświadczeń jest niemożliwe bardzo utrudnione albo wymaga bardzo długiego czasu.
+
+4. Do czasu utworzenia konsulatów i przedstawicielstw polskich za granicą wnioski o odtworzenie dokumentów, wystawionych poza granicami kraju, można składać bez załączenia zaświadczeń wymienionych ust. 2.
+
+**Art. 4.** Przy nadaniu biegu wnioskowi o odtworzenie akt sędzia zarządzi ogłoszenie o złożeniu tego wniosku dzienniku urzędowym odpowiednio ministra właściwego do spraw oświaty i wychowania albo ministra właściwego do spraw szkolnictwa wyższego, jeżeli sprawa będzie dotyczyć odtworzenia dyplomów i świadectw zakładów naukowych, a Monitorze Sądowym i Gospodarczym, jeżeli sprawa będzie dotyczyć innych dyplomów i świadectw. Ogłoszenie to winno zawierać wskazanie osoby wnioskodawcy i jego miejsca zamieszkania, treść wniosku z dokładnym wskazaniem instytucji osoby, które dokument miał być wystawiony, oraz wezwanie do wszystkich instytucji i osób, posiadających jakiekolwiek wiadomości sprawie, o nadsyłanie sądowi piśmie zgłaszanie do protokółu doniesień co do bezzasadności wniosku. Doniesienia te są wolne od wszelkich opłat sądowych.
+
+**Art. 5.** Postępowanie z wniosków o odtworzenie odbywa się według przepisów kodeksu postępowania cywilnego o postępowaniu nieprocesowym, o ile przepisy niniejszego dekretu nie stanowią inaczej. 2. Postanowienie nie może zapaść przed upływem miesiąca od ukazania się ogłoszenia.
+
+**Art. 7.** (skreślony).
+
+**Art. 8.** (skreślony).
+
+**Art. 9.** Orzeczenia drugiej instancji są ostateczne.
+
+**Art. 10.** Po uprawomocnieniu się postanowienia, odtwarzającego zaginiony zniszczony dokument, sąd wyda osobie zainteresowanej jej żądanie wypis tego postanowienia. Wypis ten zastępuje całkowicie utracony dokument i posiada taką samą moc, jak ten dokument.
+
+**Art. 11.** W przypadku późniejszego ujawnienia, iż postanowienie uwzględniające wniosek o odtworzenie dokumentu, oparte zostało fałszywych dowodach uzyskane zostało czyn karalny, sąd, który ostatnio orzekał sprawie, wznawia z urzędu postępowanie sprawie i uchyla wydane przezeń postanowienie oraz orzeka ponownie o żądaniu wniosku. Podstawą wznowienia postępowania może być tylko skazujący prawomocny wyrok sądu karnego. Wznowienie postępowania może nastąpić także przypadku niemożności wszczęcia umorzenia postępowania karnego sprawie z innych powodów, niż brak dowodów winy cech przestępstwa.
+
+**Art. 12.** W przypadku uchylenia postanowienia, uwzględniającego wniosek o odtworzenie dokumentu, i oddalenia tego wniosku po wznowieniu postępowania sprawie, sąd zarządzi odebranie od zainteresowanej osoby komornika organa bezpieczeństwa wydanego jej wypisu postanowienia, o ile wypis ten nie został toku postępowania sprawie dołączony do akt. Jeżeli wypis ten będzie się znajdował posiadaniu urzędu innej instytucji publicznej, sąd zwróci się do tych instytucji o nadesłanie wypisu celu dołączenia do akt sprawy. Odebrany
 

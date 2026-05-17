@@ -8,9 +8,12 @@ pos: 877
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 lipca 2014 r.
+# o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
+
+*USTAWA z dnia 10 czerwca 2014 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000877) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/877/text.pdf) |
 
-Poz. 877
-USTAWA z dnia 10 czerwca 2014 r.
-o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych
-
 **Art. 1.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 2011 r. Nr 127, poz. 721, z późn. zm. ) w art. 15:
 
-**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

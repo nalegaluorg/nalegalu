@@ -8,9 +8,12 @@ pos: 1385
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 8 października 2010 r. o zmianie ustawy - Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+# o zmianie ustawy – Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej oraz niektórych innych ustaw
+
+*USTAWA z dnia 8 października 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,15 +27,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20102121385) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1385/text.pdf) |
 
-**Art. 1.** W ustawie dnia 12 kwietnia 2001 r. Ordynacja wyborcza do Sejmu Rzeczypospolitej Polskiej do Senatu Rzeczypospolitej Polskiej (Dz. U. 2007 r. 190, poz. 1360, 2008 r. 171, poz. 1056 oraz 2009 r. 119, poz. 999) wprowadza następujące zmiany:
+**Art. 1.** W ustawie z dnia 12 kwietnia 2001 r. - Ordynacja wyborcza do Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej (Dz. U. z 2007 r. Nr 190, poz. 1360, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 119, poz. 999) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 27 września 1990 r. wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. 2010 r. 72, poz. 467 201, poz. 1327) wprowadza następujące zmiany:
+**Art. 2.** W ustawie z dnia 27 września 1990 r. o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz. U. z 2010 r. Nr 72, poz. 467 i Nr 201, poz. 1327) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 24 maja 2000 r. Krajowym Rejestrze Karnym (Dz. U. 2008 r. 50, poz. 292 oraz 2009 r. 53, poz. 432 168, poz. 1323) wprowadza następujące zmiany:
+**Art. 3.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2008 r. Nr 50, poz. 292 oraz z 2009 r. Nr 53, poz. 432 i Nr 168, poz. 1323) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 23 stycznia 2004 r. Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. 25, poz. 219, późn. zm. ) wprowadza następujące zmiany:
+**Art. 4.** W ustawie z dnia 23 stycznia 2004 r. – Ordynacja wyborcza do Parlamentu Europejskiego (Dz. U. Nr 25, poz. 219 z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** Przepisy ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do kadencji Sejmu Senatu następujących po kadencji, czasie której ustawa weszła życie.
+**Art. 5.** Przepisy ustawy zmienianej art. 1, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do kadencji i Senatu następujących po kadencji, czasie której ustawa weszła życie.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

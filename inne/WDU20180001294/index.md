@@ -1,0 +1,40 @@
+---
+title: Obwieszczenie Ministra Rolnictwa i Rozwoju Wsi z dnia 19 czerwca 2018 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa i Rozwoju Wsi w sprawie określenia trybu i terminu powiadamiania o zamiarze nieprzeznaczania do sprzedaży owoców i warzyw oraz o planowanym sposobie ich zagospodarowania
+address: WDU20180001294
+eli: DU/2018/1294
+publisher: DU
+year: 2018
+pos: 1294
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 lipca 2018 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2018 poz. 1294 |
+| ISAP | WDU20180001294 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2018-06-19 |
+| Data wydania | 2018-07-04 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001294) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1294/text.pdf) |
+
+Poz. 1294 OBWIESZCZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 19 czerwca 2018 r.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Rolnictwa Rozwoju Wsi w sprawie określenia trybu terminu powiadamiania o zamiarze nieprzeznaczania oraz o planowanym sposobie zagospodarowania
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523) ogłasza się w załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Rolnictwa Rozwoju Wsi z dnia 31 stycznia 2006 r. w sprawie określenia trybu terminu powiadamiania o zamiarze nieprzeznaczania oraz o planowanym sposobie zagospodarowania (Dz. U. poz. 172), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Rolnictwa Rozwoju Wsi z dnia 25 sierpnia 2017 r. zmieniającym rozporządzenie w sprawie określenia trybu terminu powiadamiania o zamiarze nieprzeznaczania oraz o planowanym sposobie zagospodarowania (Dz. U. poz. 1682).
+2. Podany w załączniku niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Rolnictwa Rozwoju Wsi z dnia 25 sierpnia 2017 r. zmieniającego rozporządzenie w sprawie określenia trybu terminu powiadamiania o zamiarze nieprzeznaczania oraz o planowanym sposobie zagospodarowania (Dz. U. poz. 1682), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 7 dni od dnia ogłoszenia.”.
+Minister Rolnictwa Rozwoju Wsi: K. Jurgiel Dziennik Ustaw – 2 – Poz. 1294 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 31 stycznia 2006 r.
+w sprawie określenia trybu terminu powiadamiania o zamiarze nieprzeznaczania oraz o planowanym sposobie zagospodarowania Na podstawie art. 19 ust. 2 pkt 12 ustawy z dnia 19 grudnia 2003 r. o organizacji rynków oraz rynku chmielu (Dz. U. z 2018 r. poz. 1131) zarządza się, co następuje: § 1. 1. Organizacja producentów lub zrzeszenie powiadamia Prezesa Agencji Restrukturyzacji Modernizacji Rolnictwa o zamiarze nieprzeznaczania truskawek, malin, porzeczek czarnych czerwonych lub białych, agrestu, wiśni, sałaty, kalafiorów, cykorii, korniszonów, fasoli szparagowej, karczochów lub szparagów oraz o planowanej masie sposobie zagospodarowania, godziny 10 dnia poprzedzającego dzień planowanego nieprzeznaczania warzyw.
+2. Powiadomienia, o którym mowa w ust. 1, dokonuje się w formie pisemnej, za pomocą faksu lub pocztą elektroniczną.
+3. W przypadku objętych wspólną organizacją rynku niewymienionych w ust. 1, powiadomienia, o którym mowa w ust. 1, dokonuje się godziny 10 przedostatniego dnia poprzedzającego dzień planowanego nieprzeznaczania warzyw.
+§ 2. 1. Jeżeli organizacja producentów lub zrzeszenie zamierza nie przeznaczyć warzyw, o których mowa w § 1 ust. 1, w sobotę albo w dniu ustawowo wolnym od pracy, zwanych dalej „dniem wolnym od pracy”, lub w dniu następującym po dniu wolnym od pracy, powiadomienia dokonuje się godziny 10 ostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
+2. Jeżeli organizacja producentów lub zrzeszenie zamierza nie przeznaczyć owoców warzyw, o których mowa w § 1 ust. 3, w dniu wolnym od pracy lub w dniu następującym po dniu wolnym od pracy, powiadomienia dokonuje się godziny 10 przedostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
+3. Jeżeli organizacja producentów lub zrzeszenie zamierza nie przeznaczyć owoców warzyw, o których mowa w § 1 ust. 1, drugiego dnia następującego po dniu wolnym od pracy, powiadomienia, o którym mowa w § 1, dokonuje się godziny 10 ostatniego dnia roboczego poprzedzającego dzień wolny od pracy.
+§ 3. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+

@@ -8,9 +8,12 @@ pos: 1374
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 września 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy o Centrum Dialogu im. Juliusza Mieroszewskiego
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-10-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001374) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1374/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy o Centrum Dialogu im. Juliusza Mieroszewskiego
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 25 marca 2011 r. o Centrum Dialogu im. Juliusza Mieroszewskiego (Dz. U. z 2023 r. poz. 96), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 sierpnia 2024 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 44 ustawy z dnia 28 czerwca 2024 r. o zmianie ustawy o finansach publicznych oraz niektórych innych ustaw (Dz. U. poz. 1089), który stanowi: „Art. 44. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem art. 8 pkt 3 i 4 oraz art. 16 pkt 2, które wchodzą życie z dniem 1 stycznia 2025 r.”.
 Marszałek Sejmu: S. Hołownia
@@ -133,7 +134,7 @@ o Centrum Dialogu im. Juliusza Mieroszewskiego
 - **2)** złożenia rezygnacji;
 - **3)** skazania prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
-3. Odwołanie następuje z dniem określonym akcie odwołania. powierza zastępcy Dyrektora Centrum pełnienie obowiązków Dyrektora Centrum na okres nie dłuższy niż trzy miesiące, z możliwością jednorazowego przedłużenia tego okresu o kolejne trzy miesiące.
+3. Odwołanie następuje z dniem określonym akcie odwołania. z możliwością jednorazowego przedłużenia tego okresu o kolejne trzy miesiące.
 
 **Art. 11.** Do zadań i obowiązków Dyrektora Centrum należy szczególności:
 
@@ -308,7 +309,7 @@ o Centrum Dialogu im. Juliusza Mieroszewskiego
 
 2. Centrum nie może udzielić dofinansowania przedsięwzięcia:
 
-- **1)** osobie fizycznej skazanej prawomocnym wyrokiem sądu za przestępstwo składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione celu osiągnięcia korzyści majątkowej; zarządzających lub wspólnikiem została skazana prawomocnym wyrokiem sądu za przestępstwo, o którym mowa pkt 1;
+- **1)** osobie fizycznej skazanej prawomocnym wyrokiem sądu za przestępstwo składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione celu osiągnięcia korzyści majątkowej; pkt 1;
 - **3)** podmiotowi, który:
     - **a)** posiada zaległości z tytułu należności publicznoprawnych lub
     - **b)** pozostaje pod zarządem komisarycznym, znajduje się toku likwidacji, postępowania upadłościowego lub postępowania naprawczego, lub
@@ -352,7 +353,7 @@ o Centrum Dialogu im. Juliusza Mieroszewskiego
 - **1)** roczny plan działania Centrum;
 - **2)** projekt rocznego planu finansowego Centrum;
 - **3)** roczne sprawozdanie z działalności Centrum;
-- **4)** roczne sprawozdanie finansowe Centrum. narodowego, na zasadach określonych odrębnych przepisach, wyposaży Centrum nieruchomości niezbędne do jego działalności.
+- **4)** roczne sprawozdanie finansowe Centrum. działalności.
 
 2. Centrum jest zwolnione z podatków i innych danin publicznych z tytułu przejęcia nieruchomości trybie, o którym mowa ust. 1.
 

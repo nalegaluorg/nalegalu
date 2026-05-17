@@ -8,6 +8,7 @@ pos: 1321
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o dozorze technicznym
@@ -23,7 +24,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-21 |
 | Data wydania | 2000-12-31 |
-| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221321) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1321/text.pdf) |
 

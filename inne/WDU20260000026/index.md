@@ -8,9 +8,10 @@ pos: 26
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 stycznia 2026
+# 2026 26
 
 | Pole | Wartość |
 |---|---|
@@ -50,14 +51,18 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 - **1)** posiadająca prawo wykonywania zawodu lekarza;
 - **2)** posiadająca tytuł specjalisty, albo
-- **3)** odbywająca szkolenie specjalizacyjne określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo
-- **4)** posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza wyłączeniem okresów wykonywania zawodu celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres miejsce zatrudnienia podmiocie leczniczym.
+- **3)** odbywająca szkolenie specjalizacyjne określonej dziedzinie medycyny, która ukończyła moduł podstawowy właściwy dla danego szkolenia specjalizacyjnego lub trzeci rok tego szkolenia – przypadku specjalizacji, dla których przewidziany został moduł jednolity szkolenia, albo
+- **4)** posiadająca co najmniej pięcioletni okres wykonywania zawodu lekarza – wyłączeniem okresów wykonywania zawodu celu odbycia stażu podyplomowego, wykonywania zawodu na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu na podstawie prawa wykonywania zawodu na określony zakres czynności zawodowych, okres miejsce zatrudnienia podmiocie leczniczym.
 
 6. Osobą wykonującą samodzielny zawód medyczny może być osoba posiadająca:
 
 - **1)** prawo wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty;
 - **2)** tytuł specjalisty dziedzinie pielęgniarstwa albo fizjoterapii;
-- **3)** co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres stawie umowy o pracę albo na podstawie umowy o świadczenie usług, do której zgodnie Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia.
+- **3)** co najmniej pięcioletni okres wykonywania zawodu pielęgniarki albo pielęgniarza albo zawodu fizjoterapeuty, wyłączeniem okresu wykonywania zawodu pielęgniarki albo pielęgniarza na podstawie warunkowego prawa wykonywania zawodu, wykonywania zawodu przyznanego na określony zakres czynności zawodowych, okres miejsce zatrudnienia podmiocie wykonującym działalność leczniczą.
+
+**Art. 85b.**
+
+1. Lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny realizują zadania na podstawie umowy o pracę albo na podstawie umowy o świadczenie usług, do której zgodnie Kodeksem cywilnym stosuje
 
 2. Naczelny Lekarz Zakładu, zastępca Naczelnego Lekarza Zakładu, lekarze inspektorzy nadzoru orzecznictwa lekarskiego, główni lekarze orzecznicy oraz zastępcy głównych lekarzy orzeczników realizują zadania określone ustawie wyłącznie na podstawie umowy o pracę.
 
@@ -75,8 +80,8 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 3. Zawiadomienie, o którym mowa ust. 2, Zakład doręcza:
 
-- **1)** sposób wskazany art. 71ab ust. 1 1a przypadku osoby zainteresowanej posiadającej jednocześnie profil informacyjny systemie teleinformatycznym Zakładu oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa art. 25 dnia 18 listopada 2020 o doręczeniach elektronicznych albo
-- **2)** przez operatora pocztowego rozumieniu dnia 23 listopada 2012 Prawo pocztowe (Dz. 366, 820 1456), albo
+- **1)** sposób wskazany art. 71ab ust. 1 1a – przypadku osoby zainteresowanej posiadającej jednocześnie profil informacyjny systemie teleinformatycznym Zakładu oraz adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych, o której mowa art. 25 dnia 18 listopada 2020 o doręczeniach elektronicznych albo
+- **2)** przez operatora pocztowego rozumieniu dnia 23 listopada 2012 – Prawo pocztowe (Dz. 366, 820 1456), albo
 - **3)** przez pracowników Zakładu lub przez inne upoważnione osoby.
 
 4. Zawiadomienie, o którym mowa w:
@@ -87,14 +92,18 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 5. Zawiadomienie przekazane:
 
-- **1)** telefonicznie ma skutek doręczenia, jeżeli rozmowa była rejestrowana, a osoba zainteresowana wyraziła zgodę na nagranie;
-- **2)** za pomocą środków komunikacji elektronicznej ma skutek doręczenia, jeżeli doręczający otrzymał potwierdzenie jego otrzymania przez osobę zainteresowaną.
+- **1)** telefonicznie – ma skutek doręczenia, jeżeli rozmowa była rejestrowana, a osoba zainteresowana wyraziła zgodę na nagranie;
+- **2)** za pomocą środków komunikacji elektronicznej – ma skutek doręczenia, jeżeli doręczający otrzymał potwierdzenie jego otrzymania przez osobę zainteresowaną.
 
 6. Jeżeli stan zdrowia stwierdzony zaświadczeniu lekarskim wydanym przez lekarza, pod którego opieką lekarską znajduje się osoba zainteresowana, wystawione niewcześniej niż na miesiąc przed datą złożenia wniosku o świadczenie, uniemożliwia osobiste zgłoszenie się na badanie, może ono być przeprowadzone miejscu pobytu osoby zainteresowanej, za jej zgodą.
 
 7. W przypadku gdy osoba zainteresowana terminie 7 dni od dnia wyznaczonego terminu badania, badania dodatkowego lub obserwacji szpitalnej albo ustania przyczyny niestawiennictwa lub uniemożliwienia przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej złoży wniosek, którym uprawdopodobni, że niestawiennictwo lub uniemożliwienie przeprowadzenia badania, badania dodatkowego lub obserwacji szpitalnej nastąpiło bez jej winy, Zakład wyznacza nowy termin badania, badania dodatkowego lub obserwacji szpitalnej.
 
-8. W przypadku niezłożenia wniosku, o którym mowa ust. 7, albo złożenia go po terminie, o którym mowa wykonujące samodzielny zawód medyczny wydają orzeczenia.
+8. W przypadku niezłożenia wniosku, o którym mowa ust. 7, albo złożenia go po terminie, o którym mowa ust. 7, Zakład umarza postępowanie sprawie albo wstrzymuje wypłatę świadczenia.
+
+**Art. 85d.**
+
+1. W ramach realizacji zadań, o których mowa art. 68 ust. 1 pkt 5, lekarze orzecznicy oraz osoby wykonujące samodzielny zawód medyczny wydają orzeczenia.
 
 2. Lekarz orzecznik przy orzekaniu jest związany:
 
@@ -104,7 +113,7 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 3. Orzeczenie jest wydawane:
 
 - **1)** po przeprowadzeniu bezpośredniego badania osoby zainteresowanej oraz po analizie dokumentacji dołączonej do wniosku lub uzupełnionej prowadzonym postępowaniu albo
-- **2)** na podstawie dokumentacji dołączonej do wniosku lub uzupełnionej prowadzonym postępowaniu jeżeli umożliwia ona dokonanie prawidłowej kompleksowej oceny okoliczności wynikających celu, dla którego jest wydawane orzeczenie.
+- **2)** na podstawie dokumentacji dołączonej do wniosku lub uzupełnionej prowadzonym postępowaniu – jeżeli umożliwia ona dokonanie prawidłowej kompleksowej oceny okoliczności wynikających celu, dla którego jest wydawane orzeczenie.
 
 4. Przed wydaniem orzeczenia dokumentacja dołączona do wniosku może zostać uzupełniona, szczególności o dokumentację medyczną przebiegu leczenia rehabilitacji, opinię lekarza konsultanta lub psychologa, wyniki badań dodatkowych lub obserwacji szpitalnej.
 
@@ -119,7 +128,7 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 - **1)** datę wydania;
 - **2)** oznaczenie terenowej jednostki organizacyjnej, której zostało wydane orzeczenie;
 - **3)** identyfikator orzeczenia, nadawany przez system teleinformatyczny Zakładu;
-- **4)** imię nazwisko, numer PESEL osoby zainteresowanej, a razie gdy nie nadano numeru PESEL datę urodzenia, rodzaj, serię numer dokumentu tożsamości;
+- **4)** imię nazwisko, numer PESEL osoby zainteresowanej, a razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię numer dokumentu tożsamości;
 - **5)** ustalenia orzecznicze odnoszące się do celu wydania orzeczenia, wskazanego we wniosku o jego wydanie;
 - **6)** uzasadnienie;
 - **7)** pouczenie o prawie do wniesienia sprzeciwu albo braku tego prawa;
@@ -138,9 +147,9 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 6. O terminie, o którym mowa ust. 3 4, oraz okolicznościach, o których mowa ust. 5, Zakład zawiadamia osobę zainteresowaną.
 
-7. W przypadku przekroczenia terminu, o którym mowa ust. 3 4, osoba zainteresowana może wnieść ponaglenie stracyjnego.
+7. W przypadku przekroczenia terminu, o którym mowa ust. 3 4, osoba zainteresowana może wnieść ponaglenie do Zakładu.
 
-9. Ponaglenie, o którym mowa ust. 7, rozpatruje się terminie 7 dni od dnia jego wpływu do Zakładu.
+8. Do rozpatrzenia ponaglenia, o którym mowa ust. 7, nie stosuje się art. 37 Kodeksu postępowania admini9. Ponaglenie, o którym mowa ust. 7, rozpatruje się terminie 7 dni od dnia jego wpływu do Zakładu.
 
 10. W razie uznania ponaglenia za zasadne, Zakład niezwłocznie wyznacza termin wydania orzeczenia oraz wyjaśnia przyczyny przekroczenia terminu, o którym mowa ust. 3 4.
 
@@ -158,7 +167,7 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 2. Sprzeciw, o którym mowa ust. 1, wnosi się do Zakładu.
 
-3. Zakład nie rozpatruje sprzeciwu wniesionego po terminie, o którym mowa ust. 1. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na złożenie sprzeciwu, szczególności razie odrzucenia przez sąd odwołania od decyzji przypadku określonym art. 477 § 3 dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. 2024 1568, późn. zm. ).
+3. Zakład nie rozpatruje sprzeciwu wniesionego po terminie, o którym mowa ust. 1. W uzasadnionych przypadkach Zakład, na wniosek osoby zainteresowanej, może przywrócić termin na złożenie sprzeciwu, szczególności razie odrzucenia przez sąd odwołania od decyzji przypadku określonym art. 477 § 3 dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. 2024 1568, późn. zm. ).
 
 4. Główny lekarz orzecznik albo zastępca głównego lekarza orzecznika, terminie 14 dni od dnia wydania orzeczenia, może zgłosić zarzut wadliwości orzeczenia przekazać sprawę do ponownego rozpatrzenia, wyłączeniem orzeczeń wydawanych postępowaniach, o których mowa art. 59 dnia 25 czerwca 1999 o świadczeniach pieniężnych ubezpieczenia społecznego razie choroby macierzyństwa. O zgłoszeniu zarzutu wadliwości orzeczenia Zakład niezwłocznie zawiadamia osobę zainteresowaną lub podmiot uprawniony do otrzymania orzeczenia przypadkach przewidzianych przepisami innych ustaw.
 
@@ -170,11 +179,13 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 - **1)** posiadaną przez lekarza specjalizację;
 - **2)** potrzebę dokonania prawidłowej kompleksowej oceny okoliczności wynikających celu, dla którego jest wydawane orzeczenie;
-- **3)** konieczność skierowania sprawy do innego lekarza orzecznika niż wydający orzeczenie przypadku gdy sprzeciw lub zarzut wadliwości dotyczy orzeczenia wydanego przez lekarza orzecznika.
+- **3)** konieczność skierowania sprawy do innego lekarza orzecznika niż wydający orzeczenie – przypadku gdy sprzeciw lub zarzut wadliwości dotyczy orzeczenia wydanego przez lekarza orzecznika.
 
 8. W przypadku, o którym mowa ust. 5, sprawach szczególnie skomplikowanych główny lekarz orzecznik albo zastępca głównego lekarza orzecznika może skierować sprawę do ponownego rozpatrzenia przez trzech lekarzy orzeczników orzekających łącznie. Przepisy ust. 6 7 stosuje się odpowiednio.
 
 9. Od orzeczenia wydanego wyniku ponownego rozpatrzenia sprawy sprzeciw lub zarzut wadliwości orzeczenia nie przysługuje.
+
+10. Do orzeczeń wydawanych wyniku ponownego rozpatrzenia sprawy stosuje się odpowiednio art. 85c–85e.
 
 11. Orzeczenie, wobec którego nie wniesiono sprzeciwu lub co do którego nie zgłoszono zarzutu wadliwości, albo orzeczenie wydane wyniku ponownego rozpatrzenia sprawy stanowi podstawę do wydania decyzji sprawie świadczenia albo do podjęcia rozstrzygnięcia zakresie wskazanym przepisami innych ustaw.
 
@@ -207,10 +218,14 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 1. W celu realizacji zadań, o których mowa art. 68 ust. 1 pkt 5, podmioty udzielające świadczeń zdrowotnych są obowiązane do nieodpłatnego udostępniania Zakładowi dokumentacji medycznej:
 
-- **1)** postaci papierowej przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku poświadczonych za zgodność oryginałem;
-- **2)** postaci elektronicznej za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych.
+- **1)** postaci papierowej – przez sporządzenie jej wyciągu, odpisu, kopii lub wydruku – poświadczonych za zgodność oryginałem;
+- **2)** postaci elektronicznej – za pośrednictwem środków komunikacji elektronicznej albo na informatycznym nośniku danych.
 
-2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której pracy, o których mowa art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze postępowaniu związanym wydaniem orzeczenia.
+2. Podmiot udzielający świadczeń zdrowotnych udostępnia niezwłocznie dokumentację medyczną, o której mowa ust. 1, niepóźniej niż terminie 14 dni od dnia otrzymania wniosku o jej udostępnienie.
+
+**Art. 85j.**
+
+1. Zadania związane wydawaniem orzeczeń oraz kontrolą orzecznictwa o czasowej niezdolności do pracy, o których mowa art. 68 ust. 1 pkt 5, mogą być realizowane przy wsparciu osób upoważnionych, wykonujących czynności pomocnicze postępowaniu związanym wydaniem orzeczenia.
 
 2. Osoby upoważnione, o których mowa ust. 1:
 
@@ -223,13 +238,15 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 **Art. 2.** W ustawie dnia 20 lipca 1950 o zawodzie felczera (Dz. 2022 1529) art. 1c ust. 3 otrzymuje brzmienie: „3. Naczelna Rada Lekarska udostępnia informacje zawarte rejestrze felczerów systemowi informacji ochronie zdrowia, o którym mowa ustawie dnia 28 kwietnia 2011 o systemie informacji ochronie zdrowia (Dz. 302, 779, 1537 1705), oraz Zakładowi Ubezpieczeń Społecznych dla celów określonych art. 56 ust. 5 pkt 3 dnia 25 czerwca 1999 o świadczeniach pieniężnych ubezpieczenia społecznego razie choroby macierzyństwa (Dz. 501 1083 oraz 2026 26).”.
 
-**Art. 3.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. 2024 1568, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie dnia 17 listopada 1964 – Kodeks postępowania cywilnego (Dz. 2024 1568, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** W ustawie dnia 29 maja 1974 o zaopatrzeniu inwalidów wojennych wojskowych oraz ich rodzin (Dz.
 
 **Art. 5.** W ustawie dnia 16 września 1982 o pracownikach urzędów państwowych (Dz. 1459) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie dnia 24 stycznia 1991 o kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. 2022 2039) art. 12 ust. 4 otrzymuje brzmienie: „4. Związek zranień, kontuzji lub innych obrażeń lub chorób pobytem miejscach, o których mowa art. 3 art. 4 ust. 1, a także związek niezdolności do pracy takim pobytem ustala lekarz orzecznik Zakładu Ubezpieczeń Społecznych. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach trybie określonych ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ).”.
+
+**Art. 7.** W ustawie dnia 14 lutego 1991 – Prawo o notariacie (Dz. 2024 1001 oraz 479, 1669 1793) art. 16 § 1 pkt 2 otrzymuje brzmienie: „2) powodu choroby lub ułomności został uznany orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków notariusza lub bez uzasadnionej przyczyny odmówił poddania się ocenie niezdolności do pracy, mimo zalecenia rady właściwej izby notarialnej; orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach trybie określonych ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ).”.
 
 **Art. 8.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz.
 
@@ -241,18 +258,22 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 **Art. 12.** W ustawie dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz.
 
+**Art. 13.** W ustawie dnia 25 czerwca 1999 o świadczeniach pieniężnych ubezpieczenia społecznego razie choroby macierzyństwa (Dz. 501 1083) wprowadza się następujące zmiany:
+
 **Art. 68b.**
 
 1. Wszczęcie kontroli, o której mowa art. 68, następuje urzędu, na podstawie upoważnienia do przeprowadzenia kontroli udzielonego kontrolującemu.
 
 2. Wszczęcie kontroli następuje przez okazanie osobie kontrolowanej upoważnienia, o którym mowa ust. 1.
 
+3. Upoważnienie, o którym mowa ust. 1, zawiera:
+
 - **1)** wskazanie podstawy prawnej do przeprowadzenia kontroli;
 - **2)** oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek;
 - **3)** datę miejsce wystawienia upoważnienia;
 - **4)** imię nazwisko kontrolującego wraz podaniem:
-    - **a)** numeru legitymacji służbowej przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
-    - **b)** numeru legitymacji pracowniczej lub dokumentu tożsamości daty wydania tego dokumentu przypadku kontroli dokonywanej przez płatnika składek;
+    - **a)** numeru legitymacji służbowej – przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
+    - **b)** numeru legitymacji pracowniczej lub dokumentu tożsamości daty wydania tego dokumentu – przypadku kontroli dokonywanej przez płatnika składek;
 
 - **5)** wskazanie zakresu kontroli;
 - **6)** podpis osoby udzielającej upoważnienia.
@@ -266,7 +287,7 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 - **1)** wstępu do miejsca przeprowadzania kontroli,
 - **2)** legitymowania osoby kontrolowanej wyłącznie celu ustalenia tożsamości,
 - **3)** żądania oraz odbierania informacji od osoby kontrolowanej, jej płatnika składek lub lekarza leczącego,
-- **4)** dostępu do danych ubezpieczonego płatnika składek gromadzonych przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego koncie płatnika składek jeżeli jest to uzasadnione celem prowadzonej kontroli.
+- **4)** dostępu do danych ubezpieczonego płatnika składek gromadzonych przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego koncie płatnika składek – jeżeli jest to uzasadnione celem prowadzonej kontroli.
 
 3. Kontrolujący jest obowiązany do:
 
@@ -283,22 +304,22 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 - **1)** oznaczenie jednostki organizacyjnej Zakładu Ubezpieczeń Społecznych albo płatnika składek;
 - **2)** datę, godzinę miejsce przeprowadzenia kontroli;
 - **3)** dane osoby kontrolowanej:
-    - **a)** imię nazwisko,
-    - **b)** numer PESEL, a razie gdy nie nadano numeru PESEL datę urodzenia, rodzaj, serię numer dokumentu tożsamości,
+    - **b)** numer PESEL, a razie gdy nie nadano numeru PESEL – datę urodzenia, rodzaj, serię numer dokumentu tożsamości,
     - **c)** miejsce zamieszkania lub pobytu,
     - **d)** miejsce pracy;
 
 - **4)** dane osób kontrolujących:
     - **a)** imię nazwisko,
-    - **b)** numer legitymacji służbowej przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
-    - **c)** numer legitymacji pracowniczej lub dokumentu tożsamości datę wydania tego dokumentu przypadku kontroli dokonywanej przez płatnika składek;
+    - **b)** numer legitymacji służbowej – przypadku kontroli dokonywanej przez Zakład Ubezpieczeń Społecznych,
+    - **c)** numer legitymacji pracowniczej lub dokumentu tożsamości datę wydania tego dokumentu – przypadku kontroli dokonywanej przez płatnika składek;
 
+- **5)** okres orzeczonej niezdolności do pracy albo okres konieczności sprawowania opieki;
 - **6)** numer zaświadczenia lekarskiego o czasowej niezdolności do pracy albo oznaczenie decyzji o przyznaniu świadczenia rehabilitacyjnego;
 - **7)** imię nazwisko lekarza, który wydał zaświadczenie o czasowej niezdolności do pracy;
 - **8)** opis dokonanych ustaleń;
 - **9)** pouczenie o prawie złożenia zastrzeżeń;
 - **10)** podpis osoby kontrolowanej;
-- **11)** wzmiankę o odmowie podpisania protokołu przez osobę kontrolowaną przypadku odmowy podpisania protokołu;
+- **11)** wzmiankę o odmowie podpisania protokołu przez osobę kontrolowaną – przypadku odmowy podpisania protokołu;
 - **12)** podpis osoby kontrolującej.
 
 2. Protokół kontroli sporządza się dwóch egzemplarzach, których jeden doręcza się osobie kontrolowanej.
@@ -315,13 +336,13 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 **Art. 68f.**
 
-1. Zakład Ubezpieczeń Społecznych, urzędu lub na wniosek płatnika składek, jest uprawniony do formalnej kontroli zaświadczeń lekarskich obejmującej zwolnienia powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy lub wynagrodzenie za czas niezdolności do pracy, o którym mowa art. 92 dnia czerwca 1974 Kodeks pracy, oraz zwolnienia powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
+1. Zakład Ubezpieczeń Społecznych, urzędu lub na wniosek płatnika składek, jest uprawniony do formalnej kontroli zaświadczeń lekarskich obejmującej zwolnienia powodu niezdolności do pracy, za które przysługuje zasiłek chorobowy lub wynagrodzenie za czas niezdolności do pracy, o którym mowa art. 92 dnia 26 czerwca 1974 – Kodeks pracy, oraz zwolnienia powodu konieczności osobistego sprawowania opieki, za które przysługuje zasiłek opiekuńczy.
 
 2. Kontrola, o której mowa ust. 1, polega na sprawdzeniu, czy zaświadczenie zostało wydane zgodnie przepisami sprawie zasad trybu wystawiania zaświadczeń lekarskich.
 
 **Art. 68g.** Minister właściwy do spraw zabezpieczenia społecznego określi, drodze rozporządzenia, wzór upoważnienia do przeprowadzenia kontroli prawidłowości wykorzystywania zwolnień od pracy wzór protokołu tej kontroli, uwzględniając elementy upoważnienia protokołu kontroli określone odpowiednio art. 68b ust. 3 art. 68e ust. 1.”;
 
-**Art. 14.** W ustawie dnia 27 lipca 2001 Prawo o ustroju sądów powszechnych (Dz. 2024 334, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 14.** W ustawie dnia 27 lipca 2001 – Prawo o ustroju sądów powszechnych (Dz. 2024 334, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 15.** W ustawie dnia 27 lipca 2001 o kuratorach sądowych (Dz. 2023 1095 oraz 620) wprowadza się następujące zmiany:
 
@@ -337,7 +358,9 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 **Art. 21.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. 1461, 1537 1739) art. 87a ust. 1 pkt 4 lit. b otrzymuje brzmienie: „b) rodzaj schorzenia uzasadniającego skierowanie na rehabilitację leczniczą oraz schorzenia współistniejącego, jeżeli takie zostało wskazane orzeczeniu lekarza orzecznika Zakładu Ubezpieczeń Społecznych lub fizjoterapeuty, o którym mowa przepisach o zawodzie fizjoterapeuty, o potrzebie rehabilitacji leczniczej, ustalonych według obowiązującej Międzynarodowej Klasyfikacji Chorób Problemów Zdrowotnych,”.
 
-**Art. 22.** W ustawie dnia 16 listopada 2006 o świadczeniu pieniężnym uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. 2021 1820) art. 2 ust. 5 otrzymuje brzmienie: „5. W przypadku braku dokumentu, o którym mowa ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych, na zasadach trybie określonych ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ).”. art. 28 ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 nie narusza uprawnień Zakładu Ubezpieczeń Społecznych określonych art. 85i dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ) art. 121 ust. 2 dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 1749 oraz 2026 26).”.
+**Art. 22.** W ustawie dnia 16 listopada 2006 o świadczeniu pieniężnym uprawnieniach przysługujących cywilnym niewidomym ofiarom działań wojennych (Dz. 2021 1820) art. 2 ust. 5 otrzymuje brzmienie: „5. W przypadku braku dokumentu, o którym mowa ust. 4 pkt 1, o niezdolności do pracy, dacie jej powstania oraz związku tej niezdolności ze stanem narządu wzroku orzeka lekarz orzecznik Zakładu Ubezpieczeń Społecznych, na zasadach trybie określonych ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ).”.
+
+**Art. 23.** W ustawie dnia 6 listopada 2008 o prawach pacjenta Rzeczniku Praw Pacjenta (Dz. 2024 581) art. 28 ust. 2 otrzymuje brzmienie: „2. Przepis ust. 1 nie narusza uprawnień Zakładu Ubezpieczeń Społecznych określonych art. 85i dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ) art. 121 ust. 2 dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 1749 oraz 2026 26).”.
 
 **Art. 24.** W ustawie dnia 21 listopada 2008 o służbie cywilnej (Dz. 2024 409 oraz 620
 
@@ -347,7 +370,7 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 **Art. 27.** W ustawie dnia 25 września 2015 o zawodzie fizjoterapeuty (Dz. 2023 1213 1234) art. 4 ust. 2 po pkt 9 dodaje się pkt 9a brzmieniu: „9a) wydawaniu orzeczeń sprawach rehabilitacji leczniczej ramach prewencji rentowej, o której mowa art. 69 ust. 1 pkt 1 dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. );”.
 
-**Art. 28.** W ustawie dnia 28 stycznia 2016 Prawo o prokuraturze (Dz. 2024 390 oraz 304
+**Art. 28.** W ustawie dnia 28 stycznia 2016 – Prawo o prokuraturze (Dz. 2024 390 oraz 304
 
 **Art. 29.** W ustawie dnia 30 listopada 2016 o statusie sędziów Trybunału Konstytucyjnego (Dz. 2018 1422) art. 32 po ust. 2 dodaje się ust. 2a brzmieniu: „2a. Orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych, o którym mowa ust. 1 2, jest wydawane na zasadach trybie określonych ustawie dnia 13 października 1998 o systemie ubezpieczeń społecznych (Dz. 350, późn. zm. ).”.
 
@@ -361,11 +384,17 @@ USTAWA dnia 18 grudnia o zmianie o systemie ubezpieczeń społecznych oraz niekt
 
 **Art. 34.** W okresie od dnia wejścia życie niniejszej do dnia poprzedzającego dzień wejścia życie art. 1 pkt 2 lit. a tiret drugie niniejszej ustawy, do wydawania orzeczeń przez osoby wykonujące samodzielny zawód medyczny, o których mowa art. 4 pkt 21 zmienianej art. 1, sprawach, o których mowa art. 85a ust. 2 zmienianej art. 1, stosuje się odpowiednio przepisy dotyczące orzekania przez lekarzy orzeczników Zakładu Ubezpieczeń Społecznych.
 
-**Art. 35.** W okresie od dnia wejścia życie niniejszej do dnia poprzedzającego dzień wejścia życie art. 1 pkt 2 lit. b niniejszej Zakład Ubezpieczeń Społecznych zawiera umowy, o których mowa art. 85b ust. 1 zmienianej art. 1, wyłączeniem przepisów dnia 11 września 2019 Prawo zamówień publicznych (Dz. 2024 1320, późn. zm. ).
+**Art. 35.** W okresie od dnia wejścia życie niniejszej do dnia poprzedzającego dzień wejścia życie art. 1 pkt 2 lit. b niniejszej Zakład Ubezpieczeń Społecznych zawiera umowy, o których mowa art. 85b ust. 1 zmienianej art. 1, wyłączeniem przepisów dnia 11 września 2019 – Prawo zamówień publicznych (Dz. 2024 1320, późn. zm. ).
 
 **Art. 36.** Do postępowań sprawie kierowania na rehabilitację leczniczą ramach prewencji rentowej, o której mowa art. 69 ust. 1 zmienianej art. 1, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 37.** W terminie miesiąca od dnia wejścia życie niniejszej Prezes Zakładu Ubezpieczeń Społecznych dostosuje wynagrodzenie osób, o których mowa art. 85b ust. 1 2 zmienianej art. 1, którymi jest zawarta umowa o pracę, do zasad, o których mowa art. 85b ust. 3–5 zmienianej art. 1. Zakładu Ubezpieczeń Społecznych sprawach wszczętych niezakończonych przed dniem wejścia życie art. 1 pkt 9 zakresie art. 85a ust. 1 art. 85c–85j niniejszej stosuje się przepisy art. 85c–85j zmienianej art. 1. 2. Do orzeczeń komisji lekarskich Zakładu Ubezpieczeń Społecznych, wydanych przed dniem wejścia życie art. 3 pkt 2 3 niniejszej ustawy, będących podstawą decyzji organu rentowego, od których wniesiono odwołanie stosuje się przepisy art. 477 § 2 oraz art. 477 § 4 zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, odnoszące się do orzeczeń lekarzy orzeczników Zakładu Ubezpieczeń Społecznych wydanych wyniku ponownego rozpatrzenia sprawy.
+**Art. 37.** W terminie miesiąca od dnia wejścia życie niniejszej Prezes Zakładu Ubezpieczeń Społecznych dostosuje wynagrodzenie osób, o których mowa art. 85b ust. 1 2 zmienianej art. 1, którymi jest zawarta umowa o pracę, do zasad, o których mowa art. 85b ust. 3–5 zmienianej art. 1.
+
+**Art. 38.**
+
+1. Do wydawania orzeczeń lekarzy orzeczników Zakładu Ubezpieczeń Społecznych oraz komisji lekarskich Zakładu Ubezpieczeń Społecznych sprawach wszczętych niezakończonych przed dniem wejścia życie art. 1 pkt 9 zakresie art. 85a ust. 1 art. 85c–85j niniejszej stosuje się przepisy art. 85c–85j zmienianej art. 1.
+
+2. Do orzeczeń komisji lekarskich Zakładu Ubezpieczeń Społecznych, wydanych przed dniem wejścia życie art. 3 pkt 2 3 niniejszej ustawy, będących podstawą decyzji organu rentowego, od których wniesiono odwołanie stosuje się przepisy art. 477 § 2 oraz art. 477 § 4 zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, odnoszące się do orzeczeń lekarzy orzeczników Zakładu Ubezpieczeń Społecznych wydanych wyniku ponownego rozpatrzenia sprawy.
 
 **Art. 39.** Do postępowań sprawie ustalania okoliczności, o których mowa art. 17 ust. 1 zmienianej art. 13, brzmieniu dotychczasowym, wszczętych niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 

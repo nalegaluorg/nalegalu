@@ -8,9 +8,12 @@ pos: 252
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 marca 2026 r.
+# o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw
+
+*USTAWA z dnia 23 stycznia 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,100 +26,6 @@ domain: null
 | Data wydania | 2026-03-02 |
 | Ostatnia zmiana | 2026-03-11 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000252) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/252/text.pdf) |
-
-USTAWA z dnia 23 stycznia 2026 r.
-o zmianie ustawy o krajowym systemie cyberbezpieczeństwa oraz niektórych innych ustaw
-o obrocie instrumentami finansowymi Podmiot, o którym mowa w art. 48 ust. 7 ustawy z dnia 29 lipca 2005 r.
-o obrocie instrumentami finansowymi Podmiot prowadzący ASO w rozumieniu art. 3 pkt 2 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi Podmiot prowadzący OTF w rozumieniu art. 3 pkt 10b ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi Administratorzy kluczowych wskaźników referencyjnych Podmiot utworzony na podstawie art. 67 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe I II III Sektor Podsektor Rodzaj podmiotu Podmiot, o którym mowa w art. 3 pkt 21a ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi mający siedzibę na terytorium Rzeczypospolitej Polskiej Ochrona zdrowia Udzielanie świadczeń Podmiot leczniczy, o którym mowa w art. 4 ust. 1 ustawy z dnia zdrowotnych i zdrowie 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2026 r. poz. 156) publiczne Laboratoria referencyjne UE, o których mowa w art. 15 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/2371 z dnia 23 listopada 2022 r. w sprawie poważnych transgranicznych zagrożeń zdrowia oraz uchylenia decyzji nr 1082/2013/UE (Dz. Urz. UE L 314 z 06.12.2022, str. 1) Jednostka podległa ministrowi właściwemu do spraw zdrowia albo przez niego nadzorowana, właściwa w zakresie systemów informacyjnych ochrony zdrowia Urzędy obsługujące organy Państwowej Inspekcji Sanitarnej Krajowe Centrum Monitorowania Ratownictwa Medycznego, o którym mowa w art. 27a ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2026 r. poz. 141) Jednostki organizacyjne publicznej służby krwi, o których mowa w art. 4 ust. 3 pkt 2 ustawy z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz. U. z 2024 r. poz. 1782) Podmioty udzielające świadczeń opieki zdrowotnej będące podwykonawcą dla podmiotów kluczowych lub podmiotów ważnych w sektorze ochrona zdrowia, w rozumieniu art. 133 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2025 r. poz. 1461, 1537 i 1739 oraz z 2026 r. poz. 26 i 203) Świadczeniodawcy posiadający w swojej strukturze organizacyjnej Szpitalny Oddział Ratunkowy, Centrum Urazowe lub Centrum Urazowe dla Dzieci Produkcja Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i dystrybucja i Produktów Biobójczych substancji czynnych, Urzędy obsługujące organy Inspekcji Farmaceutycznej produktów leczniczych Podmioty prowadzące działalność badawczo-rozwojową w zakresie i wyrobów produktów leczniczych zdefiniowanych w art. 1 pkt 2 dyrektywy medycznych 2001/83/WE Parlamentu Europejskiego i Rady z dnia 6 listopada 2001 r. w sprawie wspólnotowego kodeksu odnoszącego się do produktów leczniczych stosowanych u ludzi (Dz. Urz. UE L 311 z 28.11.2001, str. 67, z późn. zm. ) Podmioty produkujące podstawowe substancje farmaceutyczne oraz leki i pozostałe wyroby farmaceutyczne, o których mowa w sekcji C dział 21 klasyfikacji NACE Rev. 2 I II III Sektor Podsektor Rodzaj podmiotu Podmioty produkujące wyroby medyczne uznane za mające krytyczne znaczenie podczas danego stanu zagrożenia zdrowia publicznego („wykaz wyrobów medycznych o krytycznym znaczeniu w przypadku stanu zagrożenia zdrowia publicznego”) w rozumieniu art. 22 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2022/123 z dnia 25 stycznia 2022 r. w sprawie wzmocnienia roli Europejskiej Agencji Leków w zakresie gotowości na wypadek sytuacji kryzysowej i zarządzania kryzysowego w odniesieniu do produktów leczniczych i wyrobów medycznych (Dz. Urz. UE L 20 z 31.01.2022, str. 1, z późn.
-zm. ) Przedsiębiorca prowadzący działalność polegającą na prowadzeniu hurtowni farmaceutycznej w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2025 r. poz. 750, 905, 924, 1416, 1537 i 1795) Przedsiębiorca lub podmiot prowadzący działalność gospodarczą w państwie członkowskim Unii Europejskiej lub państwie członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronie umowy o Europejskim Obszarze Gospodarczym, który uzyskał pozwolenie na dopuszczenie do obrotu produktu leczniczego Importer produktu leczniczego lub substancji czynnej w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne Wytwórca produktu leczniczego lub substancji czynnej w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne Importer równoległy w rozumieniu ustawy z dnia 6 września 2001 r.
-Prawo farmaceutyczne Dystrybutor substancji czynnej w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne Przedsiębiorca prowadzący działalność w formie apteki ogólnodostępnej w rozumieniu ustawy z dnia 6 września 2001 r.
-Prawo farmaceutyczne Zaopatrzenie Podmiot dostarczający wodę przeznaczoną do spożycia przez ludzi, w wodę pitną i jej w tym przedsiębiorstwo wodociągowo-kanalizacyjne, o którym mowa dystrybucja w art. 2 pkt 4 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U.
-z 2024 r. poz. 757), z wyłączeniem podmiotów, dla których dostarczanie wody przeznaczonej do spożycia przez ludzi jest inną niż istotną częścią ich ogólnej działalności Zbiorowe Podmiot odprowadzający lub oczyszczający ścieki, w tym odprowadzanie przedsiębiorstwo wodociągowo-kanalizacyjne, o którym mowa w art. 2 ścieków pkt 4 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, z wyłączeniem podmiotów, dla których odprowadzanie lub oczyszczanie ścieków jest inną niż istotna częścią ich ogólnej działalności Infrastruktura Infrastruktura cyfrowa cyfrowa z wyłączeniem komunikacji elektronicznej Dostawca punktu wymiany ruchu internetowego Dostawca usług DNS, z wyłączeniem operatorów głównych serwerów nazw Rejestr nazw domen najwyższego poziomu (TLD) Dostawca chmury obliczeniowej I II III Sektor Podsektor Rodzaj podmiotu Dostawca usług centrum przetwarzania danych Dostawca sieci dostarczania treści Dostawca usług zaufania Podmiot świadczący usługę rejestracji nazw domen Komunikacja Przedsiębiorca komunikacji elektronicznej elektroniczna Zarządzanie Dostawca usług zarządzanych usługami ICT Dostawca usług zarządzanych w zakresie cyberbezpieczeństwa Przestrzeń Operator infrastruktury naziemnej, który wspiera świadczenie usług kosmiczna kosmicznych, z wyjątkiem operatora, o którym mowa w art. 2 pkt 40 lit. b ustawy z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej Polska Agencja Kosmiczna Podmioty 1) Podmioty z uwzględnieniem pkt 2–4: publiczne a) jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz urzędy je obsługujące,
-b) jednostki sektora finansów publicznych, o których mowa w art. 9 pkt 3, 5–6, 8 i 9 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych,
-c) państwowe instytucje kultury,
-d) instytuty badawcze,
-e) Narodowy Bank Polski,
-f) Bank Gospodarstwa Krajowego,
-g) Urząd Dozoru Technicznego,
-h) Polska Agencja Żeglugi Powietrznej,
-i) Polskie Centrum Akredytacji,
-j) Urząd Komisji Nadzoru Finansowego,
-k) Polska Agencja Prasowa,
-l) Państwowe Gospodarstwo Wodne Wody Polskie, o którym mowa w ustawie z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2025 r. poz. 960 i 1535),
-m) Polski Fundusz Rozwoju i inne instytucje rozwoju, o których mowa w art. 2 ust. 1 pkt 1 i 3–6 ustawy z dnia 4 lipca 2019 r.
-o systemie instytucji rozwoju,
-n) Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej,
-o) wojewódzkie fundusze ochrony środowiska i gospodarki wodnej,
-p) Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych,
-q) Zakład Unieszkodliwiania Odpadów Promieniotwórczych z siedzibą w Otwocku-Świerku,
-r) państwowa osoba prawna, wobec której wydano decyzję, o której mowa w art. 7m,
-s) spółka, o której mowa w art. 2 ust. 1 ustawy z dnia 29 kwietnia 2016 r. o szczególnych zasadach wykonywania niektórych zadań dotyczących informatyzacji w zakresie działów administracji rządowej budżet i finanse publiczne I II III Sektor Podsektor Rodzaj podmiotu
-2) w odniesieniu do samorządu województwa: jednostki budżetowe oraz zakłady budżetowe z wyłączeniem:
-a) jednostek organizacyjnych, o których mowa w art. 2 ustawy z dnia 14 grudnia 2016 r. Prawo oświatowe (Dz. U. z 2025 r.
-poz. 1043, 1160 i 1837 oraz z 2026 r. poz. 187 i 203), oraz ich zespołów,
-b) jednostek organizacyjnych wspierania rodziny i systemu pieczy zastępczej, o których mowa w art. 2 ust. 3 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (Dz. U. z 2025 r. poz. 49 i 1301 oraz z 2026 r.
-poz. 187 i 203),
-c) jednostek organizacyjnych, o których mowa w art. 6 pkt 5 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, oprócz regionalnych ośrodków polityki społecznej,
-d) wojewódzkich urzędów pracy,
-e) parków krajobrazowych i ich zespołów,
-f) jednostek obsługujących, o których mowa w art. 8d ustawy z dnia 5 czerwca 1998 r. o samorządzie województwa, w zakresie, w jakim prowadzą wspólną obsługę jednostek, o których mowa w lit. a–e
-3) w odniesieniu do samorządu powiatu: starostwo powiatowe
-4) w odniesieniu do samorządu gminy: urząd gminy, jeżeli zatrudnia na dzień 1 stycznia danego roku w przeliczeniu na pełny wymiar czasu pracy na podstawie umowy o pracę co najmniej 50 osób SEKTORY WAŻNE I II III Sektor Podsektor Rodzaj podmiotu Usługi pocztowe Operator pocztowy, o którym mowa w art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U.
-z 2025 r. poz. 366, 820 i 1456) Inwestycje Podmiot będący inwestorem obiektu energetyki jądrowej energetyki jądrowej określonego w art. 2 pkt 2 ustawy z dnia 29 czerwca 2011 r.
-o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, który uzyskał decyzję zasadniczą, o której mowa w art. 3a ust. 1 tej ustawy Gospodarowanie Zbieranie odpadów Przedsiębiorstwa świadczące usługi w rozumieniu ustawy odpadami z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2023 r.
-poz. 1587, z późn. zm. ), polegające na zbieraniu odpadów, zobowiązane do uzyskania wpisu w rejestrze, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r.
-o odpadach, z wyłączeniem przedsiębiorstw, dla których usługi te nie stanowią podstawowej działalności gospodarczej określonej zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r.
-o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792) Transport odpadów Przedsiębiorstwa świadczące usługi w rozumieniu ustawy z dnia 14 grudnia 2012 r. o odpadach, polegające na transporcie odpadów, zobowiązane do uzyskania wpisu w rejestrze, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, z wyłączeniem przedsiębiorstw, dla których usługi te nie stanowią podstawowej działalności gospodarczej określonej zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej Przetwarzanie odpadów, w tym Przedsiębiorstwa świadczące usługi w rozumieniu ustawy sortowanie, wraz z nadzorem nad z dnia 14 grudnia 2012 r. o odpadach, polegające na wymienionymi działaniami, przetwarzaniu odpadów, w tym sortowaniu, wraz a także późniejsze postępowanie z nadzorem nad wymienionymi działaniami, a także z miejscami unieszkodliwiania podmioty świadczące usługi z późniejszym odpadów postępowaniem z miejscami unieszkodliwiania odpadów, zobowiązane do uzyskania wpisu w rejestrze, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r.
-o odpadach, z wyłączeniem przedsiębiorstw, dla których usługi te nie stanowią podstawowej działalności gospodarczej określonej zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r.
-o statystyce publicznej Działania wykonywane Przedsiębiorstwa świadczące usługi w rozumieniu ustawy w charakterze sprzedawcy z dnia 14 grudnia 2012 r. o odpadach, polegające na odpadów lub pośrednika działaniach wykonywanych w charakterze sprzedawcy w obrocie odpadami odpadów lub pośrednika w obrocie odpadami, zobowiązane do uzyskania wpisu w rejestrze, o którym mowa w art. 49 ust. 1 ustawy z dnia 14 grudnia 2012 r. o odpadach, z wyłączeniem przedsiębiorstw, dla których usługi te nie I II III Sektor Podsektor Rodzaj podmiotu stanowią podstawowej działalności gospodarczej określonej zgodnie z przepisami wydanymi na podstawie art. 40 ust. 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej Produkcja, Przedsiębiorstwa zajmujące się produkcją substancji oraz wytwarzanie dystrybucją substancji lub mieszanin, o których mowa i dystrybucja w art. 3 pkt 9 i 14 rozporządzenia (WE) nr 1907/2006 chemikaliów Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r.
-w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm. ) Przedsiębiorstwa zajmujące się wytwarzaniem z substancji lub mieszanin wyrobów, o których mowa w art. 3 pkt 3 rozporządzenia (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającego dyrektywę 1999/45/WE oraz uchylającego rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE I II III Sektor Podsektor Rodzaj podmiotu Produkcja, Przedsiębiorstwa spożywcze w rozumieniu art. 3 pkt 2 przetwarzanie rozporządzenia (WE) nr 178/2002 Parlamentu i dystrybucja Europejskiego i Rady z dnia 28 stycznia 2002 r.
-żywności ustanawiającego ogólne zasady i wymagania prawa żywnościowego, powołującego Europejski Urząd ds. Bezpieczeństwa Żywności oraz ustanawiającego procedury w zakresie bezpieczeństwa żywności (Dz. Urz.
-UE L 31 z 01.02.2002, str. 1, z późn. zm. ), zajmujące się dystrybucją hurtową oraz przemysłowymi produkcją i przetwarzaniem Produkcja Produkcja wyrobów medycznych Podmioty produkujące wyroby medyczne w rozumieniu i wyrobów medycznych do art. 2 ust. 1 rozporządzenia Parlamentu Europejskiego diagnostyki in vitro i Rady (UE) 2017/745 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych, zmiany dyrektywy 2001/83/WE, rozporządzenia (WE) nr 178/2002 i rozporządzenia (WE) nr 1223/2009 oraz uchylenia dyrektyw Rady 90/385/EWG i 93/42/EWG (Dz. Urz. UE L 117 z 05.05.2017, str. 1, z późn. zm. ) Podmioty produkujące wyroby medyczne do diagnostyki in vitro w rozumieniu art. 2 ust. 2 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2017/746 z dnia 5 kwietnia 2017 r. w sprawie wyrobów medycznych do diagnostyki in vitro oraz uchylenia dyrektywy 98/79/WE i decyzji Komisji 2010/227/UE (Dz. Urz. UE L 117 z 05.05.2017, str. 176, z późn. zm. ), z wyjątkiem podmiotów produkujących wyroby medyczne uznane za mające krytyczne znaczenie podczas danego stanu zagrożenia zdrowia publicznego Produkcja komputerów, Przedsiębiorca prowadzący którykolwiek z rodzajów wyrobów elektronicznych działalności gospodarczej, o których mowa w sekcji C i optycznych dział 26 klasyfikacji NACE Rev. 2, ujętej w załączniku I do rozporządzenia (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniającego rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm. ) I II III Sektor Podsektor Rodzaj podmiotu Produkcja urządzeń Przedsiębiorca prowadzący którykolwiek z rodzajów elektrycznych działalności gospodarczej, o których mowa w sekcji C dział 27 klasyfikacji NACE Rev. 2 Produkcja maszyn i urządzeń, Przedsiębiorca prowadzący którykolwiek z rodzajów gdzie indziej niesklasyfikowana działalności gospodarczej, o których mowa w sekcji C dział 28 klasyfikacji NACE Rev. 2 Produkcja pojazdów Przedsiębiorca prowadzący którykolwiek z rodzajów samochodowych, przyczep działalności gospodarczej, o których mowa w sekcji C i naczep dział 29 klasyfikacji NACE Rev. 2 Produkcja pozostałego sprzętu Przedsiębiorca prowadzący którykolwiek z rodzajów transportowego działalności gospodarczej, o których mowa w sekcji C dział 30 klasyfikacji NACE Rev. 2 Dostawcy usług Dostawca internetowej platformy handlowej cyfrowych Dostawca wyszukiwarki internetowej Dostawca platformy sieci usług społecznościowych Badania naukowe Organizacja badawcza Podmioty, o których mowa w art. 7 ust. 1 pkt 1–4, 6–7 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce Podmioty publiczne samorządowe jednostki budżetowe; samorządowe zakłady budżetowe; samorządowe instytucje kultury;
-spółki wykonujące zadania o charakterze użyteczności publicznej w rozumieniu art. 1 ust. 2 ustawy z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 2021 r. poz. 679) KATEGORIE FUNKCJI KRYTYCZNYCH DLA BEZPIECZEŃSTWA SIECI I USŁUG Identyfikacja powiązanej Lp. Opis funkcji funkcji sieciowej wg standardów 3GPP 1 Uwierzytelnianie urządzeń użytkowników AMF Access & Mobility i zarządzanie prawami dostępu management Function AUSF Authentication Server Function 2 Przechowywanie danych kryptograficznych UDM Unified Data i identyfikacyjnych związanych z użytkownikami Management końcowymi 3 Zarządzanie łącznością z urządzeniami użytkowników Radio Base Station Baseband i alokacja zasobów radiowych Unit and other features such as Radio Units and antennas 4 Ruting ruchu sieciowego pomiędzy urządzeniami UPF User Plane Function użytkownika a sieciami i aplikacjami innych firm 5 Zarządzanie połączeniami ze sprzętem użytkownika SMF Session Management i sesjami Function 6 Wdrażanie, zarządzanie i monitorowanie polityk PCF Policy Control Function dostępu do sieci 7 Przydzielanie elementu sieci dla połączeń NSSF Network Slice z urządzeniami użytkowników Selection Function 8 Rejestrowanie, autoryzacja i utrzymanie ciągłości usług NRF Network Repository sieciowych Function 9 Zabezpieczenia sieci przed oddziaływaniem aplikacji NEF Network Exposure zewnętrznych Function 10 Zabezpieczenia połączeń z innymi sieciami SEPP Security Edge Protection Proxy WYMOGI DLA SYSTEMU ZARZĄDZANIA BEZPIECZEŃSTWEM INFORMACJI DLA PODMIOTU WAŻNEGO BĘDĄCEGO PODMIOTEM PUBLICZNYM I. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego podmiotem publicznym obejmuje co najmniej:
-1) inwentaryzację produktów ICT, usług ICT i procesów ICT służących do przetwarzania informacji;
-2) kontrolowanie podstawowych wersji używanego produktów ICT lub usług ICT, a jeżeli to możliwe, korzystanie z mechanizmów kontroli instalacji produktów ICT lub usług ICT na urządzeniach, w tym na urządzeniach mobilnych;
-3) zapewnienie ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym dostępem, uszkodzeniami lub zakłóceniami, w zakresie:
-a) ochrony fizycznej miejsc, w których jest przetwarzana informacja, w przypadku przetwarzania danych w urządzeniach znajdujących się pod kontrolą podmiotu,
-b) ochrony wykorzystującej oprogramowanie zabezpieczające lub sprzętowe zabezpieczenia, w które są wyposażone urządzenia przetwarzające informacje, albo
-c) udokumentowania mechanizmów zapewnienia ochrony przetwarzanych informacji przed ich kradzieżą, nieuprawnionym dostępem, uszkodzeniami lub zakłóceniami w przypadku korzystania z usług dostawcy chmury obliczeniowej lub dostawcy usługi centrum przetwarzania danych;
-4) dopuszczenie do informacji wyłącznie osób posiadających stosowne uprawnienia do systemów informacyjnych (w tym systemów operacyjnych, usług sieciowych i aplikacji) oraz zapewnienie środków uniemożliwiających nieautoryzowany dostęp do tych systemów;
-5) stosowanie zasad przyznania minimalnych uprawnień niezbędnych dla realizacji zadań;
-6) bezzwłoczne cofanie przyznanych uprawnień w przypadku stwierdzenia braku podstawy dostępu do informacji na stałe lub zawieszanie uprawnień w przypadku niewykonywania obowiązków co najmniej przez jeden miesiąc;
-7) modyfikację zakresu przyznanych uprawnień, jeżeli jest to zasadne z uwagi na zmianę charakteru wykonywanych zadań i zakresu dostępu do informacji;
-8) ustanowienie podstawowych zasad gwarantujących bezpieczną pracę przy przetwarzaniu mobilnym i pracy na odległość;
-9) kontrolę usług poczty elektronicznej wykorzystującej mechanizmy, o których mowa w art. 24 ust. 1 ustawy z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej;
-10) wykonywanie zapasowych kopii danych odseparowanych logicznie i fizycznie od danych przetwarzanych w systemach informacyjnych dla realizacji zadania publicznego;
-11) testowanie pod kątem kompletności i możliwości odtworzenia danych zawartych w zapasowych kopiach;
-12) przygotowanie i testowanie procedury w przypadku wystąpienia awarii lub incydentu;
-13) stosowanie oprogramowania antywirusowego;
-14) stosowanie zasad cyberhigieny przez pracowników korzystających z systemów informacyjnych, w tym kierownika podmiotu;
-15) monitorowanie częstotliwości wydawania kolejnych wersji produktów ICT, źródeł dystrybucji produktów ICT oraz cyklu życia produktów ICT w celu zapewnienia bezpieczeństwa systemu informacyjnego;
-16) stosowanie stabilnych wersji produktów ICT lub usług ICT, w stosunku do których nie występują informacje o krytycznych podatnościach, a w przypadku ich wystąpienia dopuszczalne jest stosowanie tych wersji produktów ICT lub usług ICT, które nie stwarzają istotnego negatywnego wpływu na poziom bezpieczeństwa systemów informacyjnych;
-17) stosowanie środków minimalizujących wystąpienie incydentów przez szkolenie osób zaangażowanych w proces przetwarzania informacji, ze szczególnym uwzględnieniem takich zagadnień, jak:
-a) rodzaje cyberzagrożeń,
-b) podstawowe zasady cyberhigieny,
-c) reagowania na wystąpienie incydentu,
-d) świadomość skutków naruszenia zasad bezpieczeństwa informacji;
-18) określenie procedur i zasad działania podmiotu na wypadek wystąpienia cyberzagrożenia lub w przypadku wystąpienia incydentu.
-II. System zarządzania bezpieczeństwem informacji dla podmiotu ważnego będącego podmiotem publicznym może dodatkowo obejmować:
-1) stosowanie środków zapewniających bezpieczeństwo informacji, w tym produktów ICT, usług ICT lub procesów ICT minimalizujących ryzyko błędów ludzkich;
-2) stosowanie dedykowanych usług poczty elektronicznej dla podmiotu na podstawie umowy lub w ramach wspólnego wykonywania obowiązków z zakresu cyberbezpieczeństwa przy pomocy jednostki wyznaczonej, o której mowa w art. 16e ust. 1;
-3) zapewnienie wysokiej dostępności systemów informacyjnych:
-a) w zakresie określenia czasu dostępu do systemów informacyjnych,
-b) przez zapewnianie zdolności działania systemu informacyjnego i jego dostępności niezależnie od wystąpienia awarii lub incydentu;
-4) określanie i kontrolowanie zasad korzystania przez podmiotu publicznego będącego podmiotem ważnym z:
-a) ogólnodostępnych usług dostawców chmury obliczeniowej,
-b) usług ogólnodostępnych dużych generatywnych modeli sztucznej inteligencji;
-5) monitorowanie dostępu do informacji oraz stanu działania systemów informacyjnych za pomocą dedykowanego oprogramowania wykorzystywanego przez pracowników albo korzystanie w tym zakresie z usług dostawcy usług zarządzanych w zakresie cyberbezpieczeństwa;
-6) testowanie poziomów bezpieczeństwa systemów informacyjnych oraz zasad cyberhigieny przez pracowników;
-7) zawieranie w umowach serwisowych podpisanych ze stronami trzecimi zapisów gwarantujących odpowiedni poziom bezpieczeństwa systemów informacyjnych;
-8) zapewnienie aktualności wykorzystywanych produktów ICT oraz usług ICT;
-9) stosowanie dodatkowych środków technicznych i organizacyjnych, jeżeli jest to konieczne dla zapewnienia odpowiedniego poziomu bezpieczeństwa systemów informacyjnych.
-III. Podmiot ważny będący podmiotem publicznym dokonuje przeglądu systemu zarządzania bezpieczeństwem informacji:
-1) co najmniej raz w roku albo
-2) bezzwłocznie w przypadku wydania przez Pełnomocnika Rządu do Spraw Cyberbezpieczeństwa rekomendacji, w zakresie, w jakim dotyczy ona systemów informacyjnych, produktów ICT lub usług ICT podmiotu, albo
-3) bezzwłocznie w przypadku wystąpienia okoliczności, które mogą wpłynąć na ryzyko wystąpienia incydentu poważnego i wymagających ponownego zrealizowania działań opisanych w przyjętym systemie zarządzania bezpieczeństwie informacji lub zmian w samym systemie.
-IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań wskazanych do realizacji w systemie zarządzania cyberbezpieczeństwa.
 
 **Art. 1.** W ustawie z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20) wprowadza się następujące zmiany:
 
@@ -135,11 +44,11 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 4. Podmioty kluczowe lub podmioty ważne, o których mowa w art. 7a ust. 2, uzupełniają dane w wykazie, składając wniosek o zmianę wpisu w tym wykazie, w tym również uzupełniają dane w wykazie w zakresie ich działalności, która nie została objęta wpisem z urzędu.
 
-5. Zawiadomienie o wpisie do wykazu z urzędu oraz wezwanie, o którym mowa w ust. 2, doręcza się w sposób określony w dziale I rozdziale 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+5. Zawiadomienie o wpisie do wykazu z urzędu oraz wezwanie, o którym mowa w ust. 2, doręcza się w sposób określony w dziale I rozdziale 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 6. W przypadku przedsiębiorców telekomunikacyjnych zawiadomienie o wpisie do wykazu z urzędu oraz wezwanie, o którym mowa w ust. 2, może być doręczone za pomocą Platformy Usług Elektronicznych Urzędu Komunikacji Elektronicznej w ramach współpracy ministra właściwego do spraw informatyzacji z Prezesem Urzędu Komunikacji Elektronicznej.
 
-7. Sprawy, o których mowa w ust. 1 i 2, mogą być załatwiane w sposób, o którym mowa w art. 14 § 1b ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+7. Sprawy, o których mowa w ust. 1 i 2, mogą być załatwiane w sposób, o którym mowa w art. 14 § 1b ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 7c.**
 
@@ -151,7 +60,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 4. Wniosek o zmianę wpisu w wykazie zawiera wskazanie zmienianych danych oraz numer podmiotu w tym wykazie.
 
-5. Wniosek o wpis, zmianę wpisu albo o wykreślenie z wykazu zawiera oświadczenie kierownika podmiotu kluczowego lub podmiotu ważnego o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. Kodeks karny oświadczam, że dane zawarte we wniosku są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia. Odpowiedzialność za złożenie fałszywego oświadczenia nie obejmuje podania zakresów adresów IP oraz zakresów nazw domenowych.
+5. Wniosek o wpis, zmianę wpisu albo o wykreślenie z wykazu zawiera oświadczenie kierownika podmiotu kluczowego lub podmiotu ważnego o następującej treści: „Świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny oświadczam, że dane zawarte we wniosku są zgodne z prawdą.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za złożenie fałszywego oświadczenia. Odpowiedzialność za złożenie fałszywego oświadczenia nie obejmuje podania zakresów adresów IP oraz zakresów nazw domenowych.
 
 6. Wniosek o wpis, zmianę wpisu albo o wykreślenie z wykazu sporządza się w postaci elektronicznej i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym kierownika podmiotu kluczowego lub podmiotu ważnego lub osoby przez niego upoważnionej albo kwalifikowaną pieczęcią elektroniczną ze wskazaniem w treści pisma osoby opatrującej pismo pieczęcią. Wniosek składa się w systemie teleinformatycznym, o którym mowa w art. 46 ust. 1.
 
@@ -228,7 +137,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **14)** Służbie Ochrony Państwa,
 - **15)** Służbie Wywiadu Wojskowego,
 - **16)** Straży Granicznej,
-- **17)** Żandarmerii Wojskowej w zakresie niezbędnym do realizacji ich ustawowych zadań.
+- **17)** Żandarmerii Wojskowej – w zakresie niezbędnym do realizacji ich ustawowych zadań.
 
 3. Udostępnianie danych, o których mowa w art. 7 ust. 2, odbywa się za pomocą systemu teleinformatycznego, o którym mowa w art. 46 ust. 1.
 
@@ -248,7 +157,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 3. Organ właściwy do spraw cyberbezpieczeństwa zawiadamia podmiot o wpisie do wykazu na podstawie ust. 1 oraz wzywa ten podmiot do uzupełnienia brakujących danych w wykazie, w terminie 6 miesięcy od dnia otrzymania zawiadomienia, pod rygorem nałożenia kary pieniężnej.
 
-4. Zawiadomienie o wpisie do wykazu na podstawie ust. 1 oraz wezwanie, o którym mowa w ust. 3, doręcza się w sposób określony w dziale I rozdziale 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Zawiadomienie o wpisie do wykazu na podstawie ust. 1 oraz wezwanie, o którym mowa w ust. 3, doręcza się w sposób określony w dziale I rozdziale 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 5. Wpis do wykazu na podstawie ust. 1 jest inną czynnością z zakresu administracji publicznej, na którą przysługuje skarga do sądu administracyjnego, i wymaga uzasadnienia.
 
@@ -256,7 +165,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 1. Organ właściwy do spraw cyberbezpieczeństwa może dokonywać czynności sprawdzających mających na celu weryfikację zgodności ze stanem faktycznym danych zawartych w wykazie.
 
-2. W przypadku stwierdzenia, że dane w wykazie są niezgodne ze stanem faktycznym, organ właściwy do spraw cyberbezpieczeństwa wzywa podmiot do zmiany wpisu, w terminie 7 dni od dnia doręczenia wezwania, pod rygorem nałożenia kary pieniężnej. Do doręczenia wezwania stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. W przypadku stwierdzenia, że dane w wykazie są niezgodne ze stanem faktycznym, organ właściwy do spraw cyberbezpieczeństwa wzywa podmiot do zmiany wpisu, w terminie 7 dni od dnia doręczenia wezwania, pod rygorem nałożenia kary pieniężnej. Do doręczenia wezwania stosuje się przepisy działu I rozdziału 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 3. Organ właściwy do spraw cyberbezpieczeństwa poprawia, z urzędu, oczywiste omyłki i błędy zawarte w wykazie.
 
@@ -290,7 +199,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 7. Podmiot, wobec którego wydano decyzję, o której mowa w ust. 1:
 
 - **1)** realizuje obowiązki, o których mowa w rozdziale 3, w terminie 12 miesięcy,
-- **2)** zapewnia przeprowadzenie po raz pierwszy audytu, o którym mowa w art. 15 ust. 1, w terminie 24 miesięcy od dnia doręczenia tej decyzji.
+- **2)** zapewnia przeprowadzenie po raz pierwszy audytu, o którym mowa w art. 15 ust. 1, w terminie 24 miesięcy – od dnia doręczenia tej decyzji.
 
 **Art. 7m.**
 
@@ -310,7 +219,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 6. Państwowa osoba prawna, wobec której wydano decyzję, o której mowa w ust. 1:
 
 - **1)** realizuje obowiązki, o których mowa w rozdziale 3, w terminie 12 miesięcy,
-- **2)** zapewnia przeprowadzenie po raz pierwszy audytu w terminie 24 miesięcy od dnia doręczenia tej decyzji.”;
+- **2)** zapewnia przeprowadzenie po raz pierwszy audytu w terminie 24 miesięcy – od dnia doręczenia tej decyzji.”;
 - **15)** tytuł rozdziału 3 otrzymuje brzmienie: „Obowiązki podmiotów kluczowych lub podmiotów ważnych”;
 - **16)** art. 8 otrzymuje brzmienie: „Art. 8. 1. Podmiot kluczowy lub podmiot ważny wdraża system zarządzania bezpieczeństwem informacji w systemie informacyjnym wykorzystywanym w procesach wpływających na świadczenie usługi przez ten podmiot, zapewniający:
 - **1)** prowadzenie systematycznego szacowania ryzyka wystąpienia incydentu oraz zarządzanie tym ryzykiem;
@@ -345,7 +254,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **3)** wyniki skoordynowanej oceny bezpieczeństwa przeprowadzonej przez Grupę Współpracy, o której mowa w art. 22 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2022/2555 z dnia 14 grudnia 2022 r. w sprawie środków na rzecz wysokiego wspólnego poziomu cyberbezpieczeństwa na terytorium Unii, zmieniającej rozporządzenie (UE) nr 910/2014 i dyrektywę (UE) 2018/1972 oraz uchylającej dyrektywę (UE) 2016/1148 (dyrektywa NIS 2) (Dz. Urz. UE L 333 z 27.12.2022, str. 80), zwanej dalej „dyrektywą 2022/2555”;
 - **4)** wyniki postępowania, o którym mowa w art. 67b.
 
-3. Podmiot ważny będący podmiotem publicznym albo podmiotem, o którym mowa w art. 7 ust. 1 pkt 1–4 i 6–7 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce, niebędącym organizacją badawczą w zakresie, w jakim realizuje zadania publiczne z wykorzystaniem systemów informacyjnych, nie stosuje przepisu ust. 1. Podmiot, o którym mowa w zdaniu pierwszym, opracowuje, wdraża, realizuje, monitoruje i utrzymuje w systemach informacyjnych kontrolowanych przez ten podmiot system zarządzania bezpieczeństwem informacji spełniający wymogi określone w załączniku nr 4 do ustawy.
+3. Podmiot ważny będący podmiotem publicznym albo podmiotem, o którym mowa w art. 7 ust. 1 pkt 1–4 i 6–7 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, niebędącym organizacją badawczą w zakresie, w jakim realizuje zadania publiczne z wykorzystaniem systemów informacyjnych, nie stosuje przepisu ust. 1. Podmiot, o którym mowa w zdaniu pierwszym, opracowuje, wdraża, realizuje, monitoruje i utrzymuje w systemach informacyjnych kontrolowanych przez ten podmiot system zarządzania bezpieczeństwem informacji spełniający wymogi określone w załączniku nr 4 do ustawy.
 
 4. Podmiot publiczny uwzględnia w systemie zarządzania bezpieczeństwem informacji system informacyjny dostarczany przez inny podmiot publiczny, w tym na podstawie przepisów ustawy, w szczególności system informacyjny zapewniający działanie rejestru publicznego w zakresie odpowiadającym zakresowi kompetencji tego podmiotu, wynikającym z polityki bezpieczeństwa danego systemu informacyjnego lub przepisów prawa regulujących sposób działania tego systemu.”;
 
@@ -437,7 +346,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
     - **d)** plan postępowania z ryzykiem,
     - **e)** opis zabezpieczeń technicznych obiektów infrastruktury,
     - **f)** zasady organizacji i wykonywania ochrony fizycznej infrastruktury,
-    - **g)** dane o specjalistycznej uzbrojonej formacji ochronnej, o której mowa w art. 2 pkt 7 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532), chroniącej infrastrukturę jeżeli występuje;
+    - **g)** dane o specjalistycznej uzbrojonej formacji ochronnej, o której mowa w art. 2 pkt 7 ustawy z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2025 r. poz. 532), chroniącej infrastrukturę – jeżeli występuje;
 
 - **3)** dokumentacja systemu zarządzania ciągłością działania;
 - **4)** dokumentacja techniczna systemu informacyjnego wykorzystywanego w procesie świadczenia usługi;
@@ -458,10 +367,10 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 8. Zniszczenie wycofanej z użytkowania dokumentacji dotyczącej bezpieczeństwa systemu informacyjnego wykorzystywanego w procesie świadczenia usługi potwierdza się protokołem brakowania zawierającym w szczególności: datę protokołu, oznaczenie niszczonej dokumentacji, opis sposobu zniszczenia, dane osoby zatwierdzającej protokół. Protokoły brakowania dokumentacji dotyczącej bezpieczeństwa systemu informacyjnego wykorzystywanego w procesie świadczenia usługi są przechowywane w sposób trwały.”;
 
 - **19)** w art. 11:
-    - **a)** w ust. 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „Podmiot kluczowy lub podmiot ważny:”, pkt 2 otrzymuje brzmienie: „2) zapewnia dostęp do informacji o rejestrowanych incydentach właściwemu CSIRT MON, CSIRT NASK, CSIRT GOV lub CSIRT sektorowemu w zakresie niezbędnym do realizacji jego zadań;”, pkt 4 otrzymuje brzmienie: „4) zgłasza wczesne ostrzeżenie o incydencie poważnym niezwłocznie, niepóźniej niż w ciągu 24 godzin od momentu jego wykrycia, do właściwego CSIRT sektorowego;”, po pkt 4 dodaje się pkt 4a–4c w brzmieniu: „4a) zgłasza incydent poważny niezwłocznie, niepóźniej niż w ciągu 72 godzin od momentu jego wykrycia, do właściwego CSIRT sektorowego;
+    - **a)** w ust. 1: – wprowadzenie do wyliczenia otrzymuje brzmienie: „Podmiot kluczowy lub podmiot ważny:”, – pkt 2 otrzymuje brzmienie: „2) zapewnia dostęp do informacji o rejestrowanych incydentach właściwemu CSIRT MON, CSIRT NASK, CSIRT GOV lub CSIRT sektorowemu w zakresie niezbędnym do realizacji jego zadań;”, – pkt 4 otrzymuje brzmienie: „4) zgłasza wczesne ostrzeżenie o incydencie poważnym niezwłocznie, niepóźniej niż w ciągu 24 godzin od momentu jego wykrycia, do właściwego CSIRT sektorowego;”, – po pkt 4 dodaje się pkt 4a–4c w brzmieniu: „4a) zgłasza incydent poważny niezwłocznie, niepóźniej niż w ciągu 72 godzin od momentu jego wykrycia, do właściwego CSIRT sektorowego;
 
 - **4b)** przekazuje, na wniosek właściwego CSIRT sektorowego, sprawozdanie okresowe z obsługi incydentu poważnego;
-- **4c)** przekazuje właściwemu CSIRT sektorowemu sprawozdanie końcowe z obsługi incydentu poważnego, niepóźniej niż w ciągu miesiąca od dnia zgłoszenia, o którym mowa w pkt 4a;”, pkt 5 otrzymuje brzmienie: „5) współdziała podczas obsługi incydentu poważnego i incydentu krytycznego z właściwym CSIRT MON, CSIRT NASK, CSIRT GOV lub CSIRT sektorowym, przekazując niezbędne dane, w tym dane osobowe;”,
+- **4c)** przekazuje właściwemu CSIRT sektorowemu sprawozdanie końcowe z obsługi incydentu poważnego, niepóźniej niż w ciągu miesiąca od dnia zgłoszenia, o którym mowa w pkt 4a;”, – pkt 5 otrzymuje brzmienie: „5) współdziała podczas obsługi incydentu poważnego i incydentu krytycznego z właściwym CSIRT MON, CSIRT NASK, CSIRT GOV lub CSIRT sektorowym, przekazując niezbędne dane, w tym dane osobowe;”,
     - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: „1a. Dostawca usług zaufania zgłasza incydent poważny niezwłocznie, niepóźniej niż w ciągu 24 godzin od momentu jego wykrycia do właściwego CSIRT sektorowego.”,
     - **c)** ust. 2 otrzymuje brzmienie: „2. Wczesne ostrzeżenie, o którym mowa w ust. 1 pkt 4, zgłoszenie, o którym mowa w ust. 1 pkt 4a, sprawozdanie okresowe, o którym mowa w ust. 1 pkt 4b, sprawozdanie końcowe, o którym mowa w ust. 1 pkt 4c, oraz sprawozdanie z postępu obsługi incydentu poważnego, o którym mowa w art. 12b ust. 1, są przekazywane za pomocą systemu teleinformatycznego, o którym mowa w art. 46 ust. 1.”,
     - **d)** po ust. 2 dodaje się ust. 2a i 2b w brzmieniu: „2a. W przypadku zaistnienia poważnego cyberzagrożenia podmiot kluczowy lub podmiot ważny informuje użytkowników swoich usług, na których takie cyberzagrożenie może mieć wpływ, o możliwych środkach zapobiegawczych, które użytkownicy ci mogą podjąć. Podmiot kluczowy lub podmiot ważny informuje tych użytkowników o samym poważnym cyberzagrożeniu, jeżeli nie spowoduje to zwiększenia poziomu ryzyka dla bezpieczeństwa systemów informacyjnych.
@@ -473,7 +382,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **1)** liczby użytkowników, których dotyczy zakłócenie świadczenia usługi,
 - **2)** czasu oddziaływania incydentu na świadczoną usługę,
 - **3)** zasięgu geograficznego obszaru, którego dotyczy incydent,
-- **4)** innych czynników charakterystycznych dla danego sektora lub podsektora, jeżeli występują kierując się potrzebą zapewnienia ochrony przed zagrożeniem życia lub zdrowia ludzi, znacznymi stratami majątkowymi oraz obniżeniem jakości świadczonej usługi.”;
+- **4)** innych czynników charakterystycznych dla danego sektora lub podsektora, jeżeli występują – kierując się potrzebą zapewnienia ochrony przed zagrożeniem życia lub zdrowia ludzi, znacznymi stratami majątkowymi oraz obniżeniem jakości świadczonej usługi.”;
 - **20)** art. 12 otrzymuje brzmienie: „Art. 12. 1. Wczesne ostrzeżenie, o którym mowa w art. 11 ust. 1 pkt 4, zawiera:
 - **1)** dane podmiotu zgłaszającego, w tym firmę przedsiębiorcy, numer z właściwego rejestru, siedzibę i adres;
 - **2)** imię i nazwisko, numer telefonu służbowego oraz adres służbowej poczty elektronicznej osoby dokonującej zgłoszenia;
@@ -557,13 +466,13 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 1. Rejestry nazw domen najwyższego poziomu (TLD) oraz podmioty świadczące usługi rejestracji nazw domen na żądanie:
 
-- **1)** sądu w celu przeprowadzenia dowodu w postępowaniu karnym, postępowaniu w sprawach o wykroczenia lub w postępowaniu cywilnym,
-- **2)** prokuratora w celu przeprowadzenia dowodu w postępowaniu karnym lub postępowaniu w sprawach o wykroczenia,
-- **3)** Policji oraz innych upoważnionych organów w postępowaniu karnym lub czynnościach wyjaśniających w sprawie o wykroczenie i postępowaniu w sprawach o wykroczenia w celu przeprowadzenia dowodu w postępowaniu karnym lub czynnościach wyjaśniających w sprawie o wykroczenie i postępowaniu w sprawach o wykroczenia,
-- **4)** CSIRT sektorowego w celu przeprowadzenia obsługi incydentu poważnego przez CSIRT sektorowy związanego z daną domeną,
-- **5)** CSIRT GOV, CSIRT MON lub CSIRT NASK w celu przeprowadzenia obsługi incydentu poważnego lub incydentu krytycznego związanego z daną domeną,
-- **6)** podmiotu wykonującego postanowienie sądu w przedmiocie zabezpieczenia środka dowodowego, o którym mowa w art. 479 § 1 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ),
-- **7)** Prezesa Urzędu Komunikacji Elektronicznej w celu weryfikacji, czy podmiot składający sprzeciw wobec wpisania domeny na listę ostrzeżeń, o którym mowa w art. 21 ust. 1 ustawy z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej (Dz. U. z 2024 r. poz. 1803), dysponuje do tej domeny tytułem prawnym udzielają dostępu do konkretnych danych dotyczących rejestracji nazw domen, które mają znaczenie dla prowadzonego postępowania lub czynności wyjaśniających w sprawie o wykroczenie, z zachowaniem przepisów dotyczących ochrony danych osobowych.
+- **1)** sądu – w celu przeprowadzenia dowodu w postępowaniu karnym, postępowaniu w sprawach o wykroczenia lub w postępowaniu cywilnym,
+- **2)** prokuratora – w celu przeprowadzenia dowodu w postępowaniu karnym lub postępowaniu w sprawach o wykroczenia,
+- **3)** Policji oraz innych upoważnionych organów w postępowaniu karnym lub czynnościach wyjaśniających w sprawie o wykroczenie i postępowaniu w sprawach o wykroczenia – w celu przeprowadzenia dowodu w postępowaniu karnym lub czynnościach wyjaśniających w sprawie o wykroczenie i postępowaniu w sprawach o wykroczenia,
+- **4)** CSIRT sektorowego – w celu przeprowadzenia obsługi incydentu poważnego przez CSIRT sektorowy związanego z daną domeną,
+- **5)** CSIRT GOV, CSIRT MON lub CSIRT NASK – w celu przeprowadzenia obsługi incydentu poważnego lub incydentu krytycznego związanego z daną domeną,
+- **6)** podmiotu wykonującego postanowienie sądu w przedmiocie zabezpieczenia środka dowodowego, o którym mowa w art. 479 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568, z późn. zm. ),
+- **7)** Prezesa Urzędu Komunikacji Elektronicznej – w celu weryfikacji, czy podmiot składający sprzeciw wobec wpisania domeny na listę ostrzeżeń, o którym mowa w art. 21 ust. 1 ustawy z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej (Dz. U. z 2024 r. poz. 1803), dysponuje do tej domeny tytułem prawnym – udzielają dostępu do konkretnych danych dotyczących rejestracji nazw domen, które mają znaczenie dla prowadzonego postępowania lub czynności wyjaśniających w sprawie o wykroczenie, z zachowaniem przepisów dotyczących ochrony danych osobowych.
 
 2. Żądanie udostępnienia danych, o których mowa w ust. 1, składa się w postaci elektronicznej i opatruje kwalifikowanym podpisem elektronicznym, podpisem zaufanym, podpisem osobistym albo kwalifikowaną pieczęcią elektroniczną. Żądanie zawiera uzasadnienie.
 
@@ -642,7 +551,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 2. CSIRT NASK określi sposób dokonywania zgłoszeń, o których mowa w art. 30 ust. 1.
 
-3. Komunikat zawierający informacje o sposobie dokonywania zgłoszeń, o których mowa odpowiednio w art. 11, art. 13 i art. 30 ust. 1, CSIRT MON, CSIRT NASK, CSIRT GOV oraz CSIRT sektorowe publikują odpowiednio na stronie podmiotowej Biuletynu Informacji Publicznej Ministra Obrony Narodowej, Naukowej i Akademickiej Sieci Komputerowej Państwowego Instytutu Badawczego, Agencji Bezpieczeństwa Wewnętrznego lub organu właściwego do spraw cyberbezpieczeństwa.
+3. Komunikat zawierający informacje o sposobie dokonywania zgłoszeń, o których mowa odpowiednio w art. 11, art. 13 i art. 30 ust. 1, CSIRT MON, CSIRT NASK, CSIRT GOV oraz CSIRT sektorowe publikują odpowiednio na stronie podmiotowej Biuletynu Informacji Publicznej Ministra Obrony Narodowej, Naukowej i Akademickiej Sieci Komputerowej – Państwowego Instytutu Badawczego, Agencji Bezpieczeństwa Wewnętrznego lub organu właściwego do spraw cyberbezpieczeństwa.
 
 **Art. 32.**
 
@@ -724,9 +633,9 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 4. Zespołem właściwym do przeprowadzenia oceny bezpieczeństwa jest:
 
-- **1)** w przypadku podmiotów, o których mowa w art. 26 ust. 5 CSIRT MON;
-- **2)** w przypadku podmiotów, o których mowa w art. 26 ust. 6 pkt 1 lit. a–k CSIRT NASK;
-- **3)** w przypadku podmiotów, o których mowa w art. 26 ust. 7 pkt 1–4d CSIRT GOV.
+- **1)** w przypadku podmiotów, o których mowa w art. 26 ust. 5 – CSIRT MON;
+- **2)** w przypadku podmiotów, o których mowa w art. 26 ust. 6 pkt 1 lit. a–k – CSIRT NASK;
+- **3)** w przypadku podmiotów, o których mowa w art. 26 ust. 7 pkt 1–4d – CSIRT GOV.
 
 5. CSIRT MON, CSIRT NASK albo CSIRT GOV przeprowadza ocenę bezpieczeństwa systemu informacyjnego podmiotu krajowego systemu cyberbezpieczeństwa, po poinformowaniu organu właściwego do spraw cyberbezpieczeństwa o zamiarze przeprowadzenia oceny bezpieczeństwa.
 
@@ -741,7 +650,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **1)** za zgodą podmiotu krajowego systemu cyberbezpieczeństwa, wyrażoną w formie pisemnej lub formie elektronicznej pod rygorem nieważności albo
 - **2)** na zlecenie organu właściwego do spraw cyberbezpieczeństwa.
 
-2. Ocenę bezpieczeństwa systemów informacyjnych Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Narodowego Banku Polskiego, Biura Rzecznika Praw Obywatelskich, Biura Rzecznika Praw Dziecka, Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Państwowej Inspekcji Pracy, Trybunału Konstytucyjnego, Sądu Najwyższego, sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych przeprowadza się wyłącznie po uzyskaniu zgody tych podmiotów.
+2. Ocenę bezpieczeństwa systemów informacyjnych Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej Polskiej, Narodowego Banku Polskiego, Biura Rzecznika Praw Obywatelskich, Biura Rzecznika Praw Dziecka, Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, Państwowej Inspekcji Pracy, Trybunału Konstytucyjnego, Sądu Najwyższego, sądów administracyjnych, Najwyższej Izby Kontroli, Krajowej Rady Radiofonii i Telewizji, Krajowego Biura Wyborczego, Urzędu Ochrony Danych Osobowych przeprowadza się wyłącznie po uzyskaniu zgody tych podmiotów.
 
 3. Organ właściwy do spraw cyberbezpieczeństwa przed zleceniem przeprowadzenia oceny bezpieczeństwa przeprowadza analizę ryzyka, o której mowa w art. 53b ust. 2, i na jej podstawie dokonuje wyboru podmiotu kluczowego lub podmiotu ważnego, którego system informacyjny będzie podlegał ocenie bezpieczeństwa.
 
@@ -759,7 +668,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 7. Podmiot krajowego systemu cyberbezpieczeństwa, którego system informacyjny podlega ocenie bezpieczeństwa, przekazuje CSIRT przeprowadzającemu ocenę niezbędne informacje techniczne i organizacyjne niezbędne do przeprowadzenia oceny bezpieczeństwa oraz wskazuje imię i nazwisko, adres służbowej poczty elektronicznej oraz numer telefonu służbowego osoby upoważnionej do reprezentacji podmiotu, a także osoby upoważnionej do udzielania wyjaśnień CSIRT w trakcie przeprowadzania oceny bezpieczeństwa.
 
-8. CSIRT MON, CSIRT NASK, CSIRT GOV i CSIRT sektorowy mogą wytwarzać lub pozyskiwać urządzenia lub programy komputerowe, o których mowa w art. 269b ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), oraz ich używać w celu określenia podatności ocenianego systemu informacyjnego na możliwość popełnienia przestępstw, o których mowa w art. 165 § 1 pkt 4, art. 267 § 3, art. 268a § 1 albo § 2 w związku z § 1, art. 269 § 1 i 2 albo art. 269a ustawy z dnia 6 czerwca 1997 r. Kodeks karny.
+8. CSIRT MON, CSIRT NASK, CSIRT GOV i CSIRT sektorowy mogą wytwarzać lub pozyskiwać urządzenia lub programy komputerowe, o których mowa w art. 269b ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), oraz ich używać w celu określenia podatności ocenianego systemu informacyjnego na możliwość popełnienia przestępstw, o których mowa w art. 165 § 1 pkt 4, art. 267 § 3, art. 268a § 1 albo § 2 w związku z § 1, art. 269 § 1 i 2 albo art. 269a ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
 
 9. Używając urządzeń lub programów komputerowych, o których mowa w ust. 8, CSIRT MON, CSIRT NASK, CSIRT GOV i CSIRT sektorowy mogą uzyskać dostęp do informacji dla nich nieprzeznaczonej, przełamując albo omijając elektroniczne, magnetyczne, informatyczne lub inne szczególne zabezpieczenie, lub mogą uzyskać dostęp do całości lub części tego systemu informacyjnego.
 
@@ -779,7 +688,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 1. Minister będący organem właściwym do spraw cyberbezpieczeństwa dla kilku sektorów lub podsektorów może powierzyć jednostce jemu podległej albo nadzorowanej przez niego zadanie lub zadania CSIRT sektorowego.
 
-2. Powierzenie odbywa się w drodze decyzji, do której nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+2. Powierzenie odbywa się w drodze decyzji, do której nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 3. Komunikat o powierzeniu przez ministra będącego organem właściwym do spraw cyberbezpieczeństwa dla kilku sektorów lub podsektorów zadania lub zadań CSIRT sektorowego jednostce podległej albo nadzorowanej przez tego ministra ogłasza się w dzienniku urzędowym organu właściwego do spraw cyberbezpieczeństwa.
 
@@ -791,9 +700,9 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 2. Powierzenie, o którym mowa w ust. 1, następuje na podstawie porozumienia organu właściwego do spraw cyberbezpieczeństwa:
 
-- **1)** w przypadku powierzenia zadań CSIRT NASK za zgodą ministra właściwego do spraw informatyzacji z Dyrektorem Naukowej i Akademickiej Sieci Komputerowej Państwowego Instytutu Badawczego;
-- **2)** w przypadku powierzenia zadań CSIRT GOV z Szefem Agencji Bezpieczeństwa Wewnętrznego;
-- **3)** w przypadku powierzenia zadań CSIRT MON z Ministrem Obrony Narodowej.
+- **1)** w przypadku powierzenia zadań CSIRT NASK – za zgodą ministra właściwego do spraw informatyzacji – z Dyrektorem Naukowej i Akademickiej Sieci Komputerowej – Państwowego Instytutu Badawczego;
+- **2)** w przypadku powierzenia zadań CSIRT GOV – z Szefem Agencji Bezpieczeństwa Wewnętrznego;
+- **3)** w przypadku powierzenia zadań CSIRT MON – z Ministrem Obrony Narodowej.
 
 3. Do porozumienia, o którym mowa w ust. 2, stosuje się przepis art. 44a ust. 4.
 
@@ -838,7 +747,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 6. Do umowy, o której mowa w ust. 2, stosuje się odpowiednio przepis art. 150 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.”;
 
 - **53)** w art. 46:
-    - **a)** w ust. 1: w pkt 5 wyrazy „zagrożeniach cyberbezpieczeństwa” zastępuje się wyrazem „cyberzagrożeniach”, kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) czynności nadzorcze organów właściwych do spraw cyberbezpieczeństwa;
+    - **a)** w ust. 1: – w pkt 5 wyrazy „zagrożeniach cyberbezpieczeństwa” zastępuje się wyrazem „cyberzagrożeniach”, – kropkę zastępuje się średnikiem i dodaje się pkt 6–8 w brzmieniu: „6) czynności nadzorcze organów właściwych do spraw cyberbezpieczeństwa;
 
 - **7)** dokonywanie zgłoszenia naruszenia ochrony danych osobowych, o którym mowa w art. 33 rozporządzenia 2016/679 i art. 44 ustawy z dnia 14 grudnia 2018 r. o ochronie danych osobowych przetwarzanych w związku z zapobieganiem i zwalczaniem przestępczości (Dz. U. z 2023 r. poz. 1206), przez podmioty kluczowe lub podmioty ważne;
 - **8)** wymianę informacji o aktach ministra właściwego do spraw informatyzacji, Pełnomocnika, organów właściwych do spraw cyberbezpieczeństwa oraz Prezesa Rady Ministrów, o których mowa w art. 33 ust. 4, art. 42 ust. 1 pkt 5, art. 45 ust. 3, art. 67, art. 67a, art. 67b ust. 15, art. 67g ust. 1 i art. 67l ust. 1.”,
@@ -877,7 +786,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **2)** przekazywanie, na wniosek właściwego CSIRT MON, CSIRT NASK lub CSIRT GOV, zgłoszenia incydentu dotyczącego więcej niż jednego sektora lub innych państw członkowskich Unii Europejskiej do Pojedynczych Punktów Kontaktowych w innych państwach członkowskich Unii Europejskiej;”;
 - **57)** w art. 49:
     - **a)** w ust. 1 w pkt 5 wyrazy „operatorów usług kluczowych” zastępuje się wyrazami „podmiotów kluczowych lub podmiotów ważnych”,
-    - **b)** w ust. 3: w pkt 2 wyrazy „Agencji Unii Europejskiej do spraw Bezpieczeństwa Sieci i Informacji (ENISA)” zastępuje się wyrazem „ ENISA”, pkt 4 otrzymuje brzmienie: „4) dobrych praktyk w zakresie wymiany informacji związanych ze zgłaszaniem w Unii Europejskiej incydentów poważnych przez podmioty kluczowe lub podmioty ważne;”, pkt 6 otrzymuje brzmienie: „6) dobrych praktyk w zakresie identyfikowania podmiotów kluczowych lub podmiotów ważnych przez państwa członkowskie Unii Europejskiej, w tym w odniesieniu do transgranicznych zależności, dotyczących ryzyka i incydentów.”,
+    - **b)** w ust. 3: – w pkt 2 wyrazy „Agencji Unii Europejskiej do spraw Bezpieczeństwa Sieci i Informacji (ENISA)” zastępuje się wyrazem „ ENISA”, – pkt 4 otrzymuje brzmienie: „4) dobrych praktyk w zakresie wymiany informacji związanych ze zgłaszaniem w Unii Europejskiej incydentów poważnych przez podmioty kluczowe lub podmioty ważne;”, – pkt 6 otrzymuje brzmienie: „6) dobrych praktyk w zakresie identyfikowania podmiotów kluczowych lub podmiotów ważnych przez państwa członkowskie Unii Europejskiej, w tym w odniesieniu do transgranicznych zależności, dotyczących ryzyka i incydentów.”,
     - **c)** dodaje się ust. 4–8 w brzmieniu: „4. Pojedynczy Punkt Kontaktowy przekazuje ENISA aktualne dane z wykazu dotyczące dostawców usług DNS, rejestrów nazw domen najwyższego poziomu (TLD), dostawców chmury obliczeniowej, dostawców usługi centrum przetwarzania danych, dostawców sieci dostarczania treści, dostawców usług zarządzanych, dostawców usług zarządzanych w zakresie cyberbezpieczeństwa, jak również dostawców internetowych platform handlowych, wyszukiwarek internetowych i platform usług sieci społecznościowych.
 
 5. Dane, o których mowa w ust. 4, obejmują:
@@ -982,7 +891,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **6)** uzasadnienie żądania;
 - **7)** pouczenie o zagrożeniu karą za niespełnienie żądania, o którym mowa w ust. 1.
 
-3. Żądanie, o którym mowa w ust. 1, sporządza się w postaci elektronicznej i doręcza się w sposób określony w dziale I rozdziale 8 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego albo przez system teleinformatyczny, o którym mowa w art. 46 ust. 1 pkt 6.
+3. Żądanie, o którym mowa w ust. 1, sporządza się w postaci elektronicznej i doręcza się w sposób określony w dziale I rozdziale 8 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego albo przez system teleinformatyczny, o którym mowa w art. 46 ust. 1 pkt 6.
 
 4. Przepisy ust. 1–3 stosuje się odpowiednio do żądania udzielenia dostępu do danych, dokumentów i informacji koniecznych do wykonania nadzoru oraz dowodów realizacji wymogów, o których mowa w art. 8 ust. 1.
 
@@ -1059,7 +968,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 4. Przepisy ust. 1–3 stosuje się odpowiednio do współpracy organów właściwych do spraw cyberbezpieczeństwa i organów właściwych do spraw podmiotów krytycznych w przypadku, gdy nadzór jest sprawowany nad podmiotem kluczowym będącym podmiotem krytycznym.”;
 
 - **65)** art. 54 otrzymuje brzmienie: „Art. 54. Do kontroli realizowanej wobec podmiotów kluczowych lub podmiotów ważnych:
-- **1)** będących przedsiębiorcami stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców;
+- **1)** będących przedsiębiorcami stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
 - **2)** niebędących przedsiębiorcami stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej;
 - **3)** będących jednostkami samorządu terytorialnego stosuje się przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej.”;
 - **66)** w art. 56 dodaje się ust. 3 i 4 w brzmieniu: „3. Organ przeprowadzający kontrolę może żądać od podmiotu kontrolowanego przedstawienia tłumaczenia na język polski sporządzonej w języku obcym dokumentacji przedłożonej przez podmiot kontrolowany. Tłumaczenie dokumentacji podmiot kontrolowany jest obowiązany wykonać na własny koszt. Zlecenie tłumaczenia dokumentacji podmiotom trzecim odbywa się z poszanowaniem tajemnicy prawnie chronionej na podstawie odrębnych przepisów.
@@ -1094,9 +1003,9 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 - **69)** po art. 59 dodaje się art. 59a–59c w brzmieniu: „Art. 59a. 1. W przypadku stwierdzenia podczas sprawowania nadzoru podejrzenia naruszenia ochrony danych osobowych organ właściwy do spraw cyberbezpieczeństwa informuje o tym Prezesa Urzędu Ochrony Danych Osobowych w terminie 7 dni od dnia stwierdzenia podejrzenia tego naruszenia.
 
-2. W przypadku stwierdzenia podejrzenia naruszenia ochrony danych osobowych podczas sprawowania nadzoru nad jednostką organizacyjną prokuratury organ właściwy do spraw cyberbezpieczeństwa informuje właściwy organ prokuratury, o którym mowa w art. 191a § 1 ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390, z 2025 r. poz. 304 i 1178 oraz z 2026 r. poz. 26).
+2. W przypadku stwierdzenia podejrzenia naruszenia ochrony danych osobowych podczas sprawowania nadzoru nad jednostką organizacyjną prokuratury organ właściwy do spraw cyberbezpieczeństwa informuje właściwy organ prokuratury, o którym mowa w art. 191a § 1 ustawy z dnia 28 stycznia 2016 r. – Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390, z 2025 r. poz. 304 i 1178 oraz z 2026 r. poz. 26).
 
-3. W przypadku stwierdzenia podejrzenia naruszenia ochrony danych osobowych podczas sprawowania nadzoru nad sądem organ właściwy do spraw cyberbezpieczeństwa informuje właściwego prezesa sądu albo Krajową Radę Sądownictwa, o których mowa w art. 175dd § 1 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ).
+3. W przypadku stwierdzenia podejrzenia naruszenia ochrony danych osobowych podczas sprawowania nadzoru nad sądem organ właściwy do spraw cyberbezpieczeństwa informuje właściwego prezesa sądu albo Krajową Radę Sądownictwa, o których mowa w art. 175dd § 1 ustawy z dnia 27 lipca 2001 r. – Prawo o ustroju sądów powszechnych (Dz. U. z 2024 r. poz. 334, z późn. zm. ).
 
 **Art. 59b.**
 
@@ -1134,14 +1043,14 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 5. Kontrola doraźna, o której mowa w art. 53 ust. 2 pkt 1, kończy się sporządzeniem:
 
-- **1)** sprawozdania z kontroli w przypadku jednostek samorządu terytorialnego oraz podmiotów niebędących przedsiębiorcami,
-- **2)** protokołu kontroli w przypadku podmiotów będących przedsiębiorcami zawierającymi opis ustalonego stanu faktycznego oraz jego ocenę, a także, w razie potrzeby, zalecenia lub wnioski wzywające do usunięcia nieprawidłowości lub usprawnienia funkcjonowania podmiotu kontrolowanego. Sprawozdanie z kontroli albo protokół kontroli podpisuje kierownik komórki do spraw kontroli w organie właściwym do spraw cyberbezpieczeństwa.
+- **1)** sprawozdania z kontroli – w przypadku jednostek samorządu terytorialnego oraz podmiotów niebędących przedsiębiorcami,
+- **2)** protokołu kontroli – w przypadku podmiotów będących przedsiębiorcami – zawierającymi opis ustalonego stanu faktycznego oraz jego ocenę, a także, w razie potrzeby, zalecenia lub wnioski wzywające do usunięcia nieprawidłowości lub usprawnienia funkcjonowania podmiotu kontrolowanego. Sprawozdanie z kontroli albo protokół kontroli podpisuje kierownik komórki do spraw kontroli w organie właściwym do spraw cyberbezpieczeństwa.
 
 6. Kierownik podmiotu kontrolowanego w terminie 3 dni roboczych od dnia otrzymania sprawozdania z kontroli albo protokołu kontroli, o których mowa w ust. 5, ma prawo przedstawić do niego stanowisko. Nie wstrzymuje to realizacji ustaleń kontroli doraźnej.
 
 7. Jeżeli w toku kontroli doraźnej, o której mowa w art. 53 ust. 2 pkt 1, zostaną ujawnione okoliczności wskazujące na naruszenia przepisów ustawy, które wykraczają poza zakres tej kontroli, kontrolę w dalszej części przeprowadza się na zasadach ogólnych z zastosowaniem przepisów art. 54–59b.
 
-8. Do kontroli doraźnej, o której mowa w art. 53 ust. 2 pkt 1, w zakresie nieuregulowanym niniejszą ustawą w stosunku do podmiotów będących przedsiębiorcami stosuje się odpowiednio przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, a w przypadku jednostek samorządu terytorialnego oraz podmiotów niebędących przedsiębiorcami przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej. Przepisów art. 47 ust. 1 i 2 oraz art. 54 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców nie stosuje się.”;
+8. Do kontroli doraźnej, o której mowa w art. 53 ust. 2 pkt 1, w zakresie nieuregulowanym niniejszą ustawą w stosunku do podmiotów będących przedsiębiorcami stosuje się odpowiednio przepisy ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, a w przypadku jednostek samorządu terytorialnego oraz podmiotów niebędących przedsiębiorcami – przepisy ustawy z dnia 15 lipca 2011 r. o kontroli w administracji rządowej. Przepisów art. 47 ust. 1 i 2 oraz art. 54 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców nie stosuje się.”;
 
 - **70)** w art. 61 ust. 3 otrzymuje brzmienie: „3. Pełnomocnikiem jest minister właściwy do spraw informatyzacji, sekretarz stanu albo podsekretarz stanu w urzędzie obsługującym ministra właściwego do spraw informatyzacji.”;
 - **71)** w art. 62:
@@ -1169,7 +1078,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **1)** Pełnomocnik;
 - **2)** sekretarz PCOC;
 - **3)** przedstawiciele:
-    - **a)** ministra członka Rady Ministrów właściwego do spraw koordynowania działalności służb specjalnych, jeżeli został powołany,
+    - **a)** ministra – członka Rady Ministrów właściwego do spraw koordynowania działalności służb specjalnych, jeżeli został powołany,
     - **b)** ministra właściwego do spraw informatyzacji,
     - **c)** ministra właściwego do spraw wewnętrznych,
     - **d)** ministra właściwego do spraw zagranicznych,
@@ -1223,7 +1132,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 13. Zarządzenie jest publikowane na stronie podmiotowej Biuletynu Informacji Publicznej Pełnomocnika.”;
 
 - **73)** w art. 65:
-    - **a)** w ust. 1: w pkt 1 wyrazy „zagrożeniom cyberbezpieczeństwa” zastępuje się wyrazem „cyberzagrożeniom”, w pkt 2: wyrazy „sektorowe zespoły cyberbezpieczeństwa” zastępuje się wyrazami „CSIRT sektorowe”, wyrazy „zagrożeniom cyberbezpieczeństwa” zastępuje się wyrazem „cyberzagrożeniom”, w pkt 3 wyrazy „i CSIRT NASK” zastępuje się wyrazami „CSIRT NASK i CSIRT sektorowych”, w pkt 4 wyrazy „sektorowych zespołów cyberbezpieczeństwa” zastępuje się wyrazami „CSIRT sektorowych”, pkt 8 otrzymuje brzmienie: „8) współdziałania zespołów CSIRT MON, CSIRT NASK, CSIRT GOV i CSIRT sektorowego w sektorze bankowości i infrastruktury rynków finansowych oraz właściwego organu w rozumieniu rozporządzenia 2022/2554, w zakresie działalności podmiotów finansowych będących podmiotami kluczowymi lub podmiotami ważnymi;”, dodaje się pkt 9 w brzmieniu: „9) decyzji w sprawie uznania dostawcy sprzętu lub oprogramowania za dostawcę wysokiego ryzyka.”,
+    - **a)** w ust. 1: – w pkt 1 wyrazy „zagrożeniom cyberbezpieczeństwa” zastępuje się wyrazem „cyberzagrożeniom”, – w pkt 2: – – wyrazy „sektorowe zespoły cyberbezpieczeństwa” zastępuje się wyrazami „CSIRT sektorowe”, – – wyrazy „zagrożeniom cyberbezpieczeństwa” zastępuje się wyrazem „cyberzagrożeniom”, – w pkt 3 wyrazy „i CSIRT NASK” zastępuje się wyrazami „CSIRT NASK i CSIRT sektorowych”, – w pkt 4 wyrazy „sektorowych zespołów cyberbezpieczeństwa” zastępuje się wyrazami „CSIRT sektorowych”, – pkt 8 otrzymuje brzmienie: „8) współdziałania zespołów CSIRT MON, CSIRT NASK, CSIRT GOV i CSIRT sektorowego w sektorze bankowości i infrastruktury rynków finansowych oraz właściwego organu w rozumieniu rozporządzenia 2022/2554, w zakresie działalności podmiotów finansowych będących podmiotami kluczowymi lub podmiotami ważnymi;”, – dodaje się pkt 9 w brzmieniu: „9) decyzji w sprawie uznania dostawcy sprzętu lub oprogramowania za dostawcę wysokiego ryzyka.”,
     - **b)** w ust. 2 wyrazy „Rady Ministrów” zastępuje się wyrazami „Prezesa Rady Ministrów”;
 
 - **74)** po art. 65 dodaje się art. 65a w brzmieniu: „Art. 65a. 1. Przewodniczący Kolegium, działając z urzędu lub na wniosek innego członka Kolegium, może zlecić CSIRT MON, CSIRT NASK lub CSIRT GOV przeprowadzenie analizy dotyczącej wpływu konkretnych produktów ICT, usług ICT lub procesów ICT na bezpieczeństwo usług świadczonych przez podmioty określone w art. 67b ust. 1, uwzględniającej informacje przekazane przez państwa członkowskie Unii Europejskiej lub organy Unii Europejskiej i Organizacji Traktatu Północnoatlantyckiego oraz przekazane przez sektor prywatny.
@@ -1235,7 +1144,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **75)** w art. 66:
     - **a)** w ust. 1 w pkt 4 w lit. g kropkę zastępuje się przecinkiem i dodaje się lit. h w brzmieniu: „h) organy właściwe do spraw cyberbezpieczeństwa.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. Członkowie Kolegium, o których mowa w ust. 1 pkt 4 lit. a–e oraz lit. h, mogą być zastępowani przez upoważnionych przedstawicieli w randze sekretarza stanu, podsekretarza stanu, wiceprezesa urzędu lub zastępcy przewodniczącego.”,
-    - **c)** w ust. 4: pkt 1 otrzymuje brzmienie: „1) dyrektor Rządowego Centrum Bezpieczeństwa albo jego zastępca;”, w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–9 w brzmieniu: „6) Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni albo jego zastępca;
+    - **c)** w ust. 4: – pkt 1 otrzymuje brzmienie: „1) dyrektor Rządowego Centrum Bezpieczeństwa albo jego zastępca;”, – w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6–9 w brzmieniu: „6) Dowódca Komponentu Wojsk Obrony Cyberprzestrzeni albo jego zastępca;
 
 - **7)** Prokurator Generalny albo jego zastępca;
 - **8)** Szef Agencji Wywiadu albo jego zastępca;
@@ -1273,13 +1182,13 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 - **1)** podmioty kluczowe lub podmioty ważne, z wyłączeniem podsektora komunikacji elektronicznej,
 - **2)** przedsiębiorców komunikacji elektronicznej, których roczne przychody z tytułu wykonywania działalności telekomunikacyjnej w poprzednim roku obrotowym były wyższe od kwoty 10 milionów złotych,
-- **3)** podmioty finansowe, z wyłączeniem podmiotów określonych w art. 16 rozporządzenia 2022/2554 za dostawcę wysokiego ryzyka.
+- **3)** podmioty finansowe, z wyłączeniem podmiotów określonych w art. 16 rozporządzenia 2022/2554 – za dostawcę wysokiego ryzyka.
 
-2. Do postępowania w sprawie uznania za dostawcę wysokiego ryzyka, jeżeli ustawa nie stanowi inaczej, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyłączeniem art. 28, art. 31, art. 51, art. 66a i art. 79 tej ustawy.
+2. Do postępowania w sprawie uznania za dostawcę wysokiego ryzyka, jeżeli ustawa nie stanowi inaczej, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyłączeniem art. 28, art. 31, art. 51, art. 66a i art. 79 tej ustawy.
 
 3. Stroną postępowania w sprawie uznania za dostawcę wysokiego ryzyka jest każdy, wobec kogo zostało wszczęte postępowanie w sprawie uznania za dostawcę wysokiego ryzyka.
 
-4. Do postępowania w sprawie uznania za dostawcę wysokiego ryzyka może przystąpić, na wniosek, na prawach strony, przedsiębiorca telekomunikacyjny mający siedzibę na terytorium Rzeczypospolitej Polskiej wpisany do rejestru przedsiębiorców telekomunikacyjnych, który w poprzednim roku obrotowym uzyskał przychód z tytułu prowadzenia działalności telekomunikacyjnej w wysokości co najmniej dwudziestotysięcznej krotności przeciętnego wynagrodzenia w gospodarce narodowej wskazanego w ostatnim komunikacie Prezesa Głównego Urzędu Statystycznego, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26). Przepisy art. 31 § 2 i 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+4. Do postępowania w sprawie uznania za dostawcę wysokiego ryzyka może przystąpić, na wniosek, na prawach strony, przedsiębiorca telekomunikacyjny mający siedzibę na terytorium Rzeczypospolitej Polskiej wpisany do rejestru przedsiębiorców telekomunikacyjnych, który w poprzednim roku obrotowym uzyskał przychód z tytułu prowadzenia działalności telekomunikacyjnej w wysokości co najmniej dwudziestotysięcznej krotności przeciętnego wynagrodzenia w gospodarce narodowej wskazanego w ostatnim komunikacie Prezesa Głównego Urzędu Statystycznego, o którym mowa w art. 20 pkt 1 lit. a ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26). Przepisy art. 31 § 2 i 3 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego stosuje się odpowiednio.
 
 5. Za poprzedni rok obrotowy uznaje się rok, przed którym postępowanie zostało wszczęte. Za ostatni komunikat Prezesa Głównego Urzędu Statystycznego uznaje się ostatni komunikat Prezesa Głównego Urzędu Statystycznego ogłoszony przed wszczęciem postępowania.
 
@@ -1287,11 +1196,11 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 7. Minister właściwy do spraw informatyzacji zawiadamia Prokuratora Generalnego o wszczęciu postępowania w sprawie uznania za dostawcę wysokiego ryzyka.
 
-8. Jeżeli dostawcą sprzętu lub oprogramowania jest strona niemająca siedziby na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym zawiadomienie, o którym mowa w ust. 6, publikuje się na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji. Udostępnienie ma skutek doręczenia zawiadomienia stronie po upływie 14 dni od dnia jego dokonania.
+8. Jeżeli dostawcą sprzętu lub oprogramowania jest strona niemająca siedziby na terytorium państwa członkowskiego Unii Europejskiej, Konfederacji Szwajcarskiej albo państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym zawiadomienie, o którym mowa w ust. 6, publikuje się na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji. Udostępnienie ma skutek doręczenia zawiadomienia stronie po upływie 14 dni od dnia jego dokonania.
 
 9. W terminie 14 dni od dnia opublikowania na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji zawiadomienia, o którym mowa w ust. 6 i 8, organizacja społeczna może przedstawić ministrowi właściwemu do spraw informatyzacji stanowisko co do dostawcy sprzętu lub oprogramowania, wobec którego wszczęto postępowanie, oraz dostarczanych przez niego produktów ICT, usług ICT oraz procesów ICT. Minister właściwy do spraw informatyzacji, przed wydaniem decyzji, publikuje na swojej stronie podmiotowej Biuletynu Informacji Publicznej raport ze złożonych w terminie stanowisk, wskazując w szczególności główne uwagi zawarte w stanowiskach.
 
-10. Przed wydaniem decyzji minister właściwy do spraw informatyzacji zasięga opinii Kolegium. Kolegium przekazuje opinię w terminie 3 miesięcy od dnia wystąpienia o opinię. Okresu od dnia wystąpienia o opinię do Kolegium do dnia jej otrzymania nie wlicza się do terminu załatwienia sprawy. Przepisu art. 106 § 5 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+10. Przed wydaniem decyzji minister właściwy do spraw informatyzacji zasięga opinii Kolegium. Kolegium przekazuje opinię w terminie 3 miesięcy od dnia wystąpienia o opinię. Okresu od dnia wystąpienia o opinię do Kolegium do dnia jej otrzymania nie wlicza się do terminu załatwienia sprawy. Przepisu art. 106 § 5 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 11. Opinia, o której mowa w ust. 10 zdanie pierwsze, zawiera analizę:
 
@@ -1345,9 +1254,9 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 3. Do czasu wycofania sprzętu lub oprogramowania, o którym mowa w ust. 1 pkt 2 oraz w ust. 2, dopuszcza się użytkowanie dotychczas posiadanych typów produktów ICT, rodzajów usług ICT i konkretnych procesów ICT w zakresie objętym decyzją, dostarczanych przez dostawcę wysokiego ryzyka, w zakresie naprawy, modernizacji, wymiany elementu lub aktualizacji, jeżeli jest to niezbędne dla zapewnienia odpowiedniej jakości i ciągłości świadczonych usług, w szczególności dokonywania niezbędnych napraw awarii lub uszkodzeń.
 
-4. Podmioty, o których mowa w art. 67b ust. 1, do których stosuje się ustawę z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), nie mogą nabywać typów produktów ICT, rodzajów usług ICT lub konkretnych procesów ICT określonych w decyzji, o której mowa w art. 67b ust. 15.
+4. Podmioty, o których mowa w art. 67b ust. 1, do których stosuje się ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), nie mogą nabywać typów produktów ICT, rodzajów usług ICT lub konkretnych procesów ICT określonych w decyzji, o której mowa w art. 67b ust. 15.
 
-5. W przypadku gdy podmioty, o których mowa w art. 67b ust. 1, do których stosuje się ustawę z dnia 11 września 2019 r. Prawo zamówień publicznych, nabyły, w drodze zamówienia publicznego, przed dniem ogłoszenia decyzji, o której mowa w art. 67b ust. 15, produkt ICT, usługę ICT lub proces ICT określone w tej decyzji, mogą korzystać z tych produktów, usług lub procesów niedłużej niż 7 lat od dnia ogłoszenia decyzji, o której mowa w art. 67b ust. 15, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, a w przypadku produktów ICT, usług ICT lub procesów ICT wykorzystywanych do wykonywania funkcji krytycznych określonych w załączniku nr 3 do ustawy, niedłużej niż 4 lata od dnia ogłoszenia decyzji, o której mowa w art. 67b ust. 15.
+5. W przypadku gdy podmioty, o których mowa w art. 67b ust. 1, do których stosuje się ustawę z dnia 11 września 2019 r. – Prawo zamówień publicznych, nabyły, w drodze zamówienia publicznego, przed dniem ogłoszenia decyzji, o której mowa w art. 67b ust. 15, produkt ICT, usługę ICT lub proces ICT określone w tej decyzji, mogą korzystać z tych produktów, usług lub procesów niedłużej niż 7 lat od dnia ogłoszenia decyzji, o której mowa w art. 67b ust. 15, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, a w przypadku produktów ICT, usług ICT lub procesów ICT wykorzystywanych do wykonywania funkcji krytycznych określonych w załączniku nr 3 do ustawy, niedłużej niż 4 lata od dnia ogłoszenia decyzji, o której mowa w art. 67b ust. 15.
 
 **Art. 67d.**
 
@@ -1382,7 +1291,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 2. Polecenie zabezpieczające dotyczy nieokreślonej liczby podmiotów kluczowych lub podmiotów ważnych oraz podmiotów finansowych, z wyłączeniem podmiotów określonych w art. 16 rozporządzenia 2022/2554.
 
-3. Do postępowania w sprawie o wydanie polecenia zabezpieczającego nie stosuje się przepisów art. 10, art. 34, art. 79, art. 81, art. 81a, art. 107 § 1 pkt 3, art. 145 § 1 pkt 4 i art. 156 § 1 pkt 4 oraz rozdziału 8 działu I ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, a pozostałe przepisy tej ustawy stosuje się odpowiednio.
+3. Do postępowania w sprawie o wydanie polecenia zabezpieczającego nie stosuje się przepisów art. 10, art. 34, art. 79, art. 81, art. 81a, art. 107 § 1 pkt 3, art. 145 § 1 pkt 4 i art. 156 § 1 pkt 4 oraz rozdziału 8 działu I ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, a pozostałe przepisy tej ustawy stosuje się odpowiednio.
 
 4. Stronę zawiadamia się o czynnościach w sprawie przez publiczne opublikowanie informacji na stronie podmiotowej Biuletynu Informacji Publicznej ministra właściwego do spraw informatyzacji.
 
@@ -1394,7 +1303,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **4)** skuteczność obowiązku określonego zachowania zmniejszającego skutki incydentu krytycznego lub zapobiegającego jego rozprzestrzenianiu się;
 - **5)** ocenę stopnia dotkliwości wprowadzanych obowiązków dla podmiotów objętych poleceniem zabezpieczającym oraz proporcjonalności tych obowiązków do celu ich wprowadzania.
 
-6. Do analizy, o której mowa w ust. 5, nie stosuje się przepisu art. 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+6. Do analizy, o której mowa w ust. 5, nie stosuje się przepisu art. 106 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 7. Pełnomocnik, dyrektor Rządowego Centrum Bezpieczeństwa, Szef Agencji Bezpieczeństwa Wewnętrznego oraz minister właściwy do spraw informatyzacji, może wzywać podmioty, o których mowa w ust. 2, lub organy administracji publicznej do udzielenia informacji niezbędnych do przeprowadzenia analizy. Organy administracji publicznej udzielają informacji, o których mowa w zdaniu pierwszym, niezwłocznie, niepóźniej niż w ciągu 72 godzin od otrzymania wezwania.
 
@@ -1470,7 +1379,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 - **1)** zakres powierzonych zadań;
 - **2)** czas realizacji powierzonych zadań, niedłuższy niż 1 rok, lub sposób ich odwołania;
-- **3)** w razie potrzeby szczególne zasady współpracy z CSIRT MON, CSIRT NASK i CSIRT GOV;
+- **3)** w razie potrzeby – szczególne zasady współpracy z CSIRT MON, CSIRT NASK i CSIRT GOV;
 - **4)** zasady informowania Kolegium o stanie realizacji powierzonych zadań.
 
 3. Realizacja wybranych zadań, o których mowa w art. 26, jest dokonywana przez Ministra Obrony Narodowej z wykorzystaniem jednostek mu podległych lub przez niego nadzorowanych, z uwzględnieniem art. 12a ustawy z dnia 29 sierpnia 2002 r. o stanie wojennym oraz o kompetencjach Naczelnego Dowódcy Sił Zbrojnych i zasadach jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 504 oraz z 2026 r. poz. 252).
@@ -1565,8 +1474,8 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 2. Do wysokości kary pieniężnej, o której mowa w ust. 1 pkt 1 i 5, jeżeli dostawca usług DNS, rejestr nazw domen najwyższego poziomu (TLD), podmiot świadczący usługi rejestracji nazw domen, dostawca chmury obliczeniowej, dostawca usług centrum przetwarzania danych, dostawca sieci dostarczania treści, dostawca usług zarządzanych, dostawca usług zarządzanych w zakresie cyberbezpieczeństwa, dostawca internetowej platformy handlowej, dostawca wyszukiwarki internetowej oraz dostawca platformy usług sieci społecznościowych jest:
 
-- **1)** podmiotem kluczowym stosuje się przepis art. 73 ust. 3;
-- **2)** podmiotem ważnym stosuje się przepis art. 73 ust. 4.
+- **1)** podmiotem kluczowym – stosuje się przepis art. 73 ust. 3;
+- **2)** podmiotem ważnym – stosuje się przepis art. 73 ust. 4.
 
 3. Do wysokości kary pieniężnej, o której mowa w ust. 1 pkt 2, stosuje się przepis art. 73 ust. 3.
 
@@ -1595,7 +1504,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 6. Minister właściwy do spraw informatyzacji przekazuje Komisji Wspólnej Rządu i Samorządu Terytorialnego, do końca pierwszego kwartału danego roku, informację za rok poprzedni o wysokości wpływów z tytułu kar pieniężnych, nałożonych na samorządowe podmioty publiczne, stanowiących przychód Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa.”;
 
 - **85)** uchyla się art. 75 i art. 76;
-- **86)** po art. 76 dodaje się art. 76a–76e w brzmieniu: „Art. 76a. 1. Organ właściwy do spraw cyberbezpieczeństwa, podejmując decyzję o nałożeniu kary pieniężnej i ustalając jej wysokość, uwzględnia odpowiednio kryteria określone w art. 53 ust. 12 oraz wysokość przychodu uzyskanego z działalności gospodarczej w roku obrotowym poprzedzającym wymierzenie kary pieniężnej, możliwości finansowe podmiotu kluczowego lub podmiotu ważnego będącego podmiotem publicznym albo możliwości finansowe kierownika podmiotu kluczowego lub podmiotu ważnego. Przepisu art. 189a § 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+- **86)** po art. 76 dodaje się art. 76a–76e w brzmieniu: „Art. 76a. 1. Organ właściwy do spraw cyberbezpieczeństwa, podejmując decyzję o nałożeniu kary pieniężnej i ustalając jej wysokość, uwzględnia odpowiednio kryteria określone w art. 53 ust. 12 oraz wysokość przychodu uzyskanego z działalności gospodarczej w roku obrotowym poprzedzającym wymierzenie kary pieniężnej, możliwości finansowe podmiotu kluczowego lub podmiotu ważnego będącego podmiotem publicznym albo możliwości finansowe kierownika podmiotu kluczowego lub podmiotu ważnego. Przepisu art. 189a § 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 2. W przypadku gdy podmiot kluczowy lub podmiot ważny powstał w wyniku połączenia lub przekształcenia innych podmiotów, obliczając wysokość jego przychodu organ właściwy do spraw cyberbezpieczeństwa uwzględnia przychód osiągnięty przez te podmioty w roku obrotowym poprzedzającym rok nałożenia kary pieniężnej. Przepisy art. 73 ust. 3–4 stosuje się odpowiednio.
 
@@ -1625,17 +1534,17 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 **Art. 76c.**
 
-1. Jeżeli za czyn zagrożony karą określoną w art. 73 lub art. 73a została nałożona prawomocnie kara pieniężna przez Prezesa Urzędu Ochrony Danych Osobowych w związku z naruszeniem ochrony danych osobowych, organ właściwy do spraw cyberbezpieczeństwa nie wszczyna postępowania w sprawie nałożenia kary i poprzestaje na pouczeniu. Jeżeli zostało wszczęte postępowanie w sprawie nałożenia kary pieniężnej, stosuje się odpowiednio przepis art. 189f ust. 1 pkt 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. Jeżeli za czyn zagrożony karą określoną w art. 73 lub art. 73a została nałożona prawomocnie kara pieniężna przez Prezesa Urzędu Ochrony Danych Osobowych w związku z naruszeniem ochrony danych osobowych, organ właściwy do spraw cyberbezpieczeństwa nie wszczyna postępowania w sprawie nałożenia kary i poprzestaje na pouczeniu. Jeżeli zostało wszczęte postępowanie w sprawie nałożenia kary pieniężnej, stosuje się odpowiednio przepis art. 189f ust. 1 pkt 2 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 2. W przypadku, o którym mowa w ust. 1, organ właściwy do spraw cyberbezpieczeństwa może stosować środki nadzoru określone w art. 53 ust. 4, 5 i 9.
 
 **Art. 76d.**
 
-1. W przypadku, o którym mowa w art. 73 ust. 1 pkt 3, kara pieniężna może być nakładana w sposób określony w art. 14 § 1b ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+1. W przypadku, o którym mowa w art. 73 ust. 1 pkt 3, kara pieniężna może być nakładana w sposób określony w art. 14 § 1b ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
-2. Do postępowania w sprawie nałożenia kary pieniężnej stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyjątkiem przepisów o milczącym załatwieniu sprawy.
+2. Do postępowania w sprawie nałożenia kary pieniężnej stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, z wyjątkiem przepisów o milczącym załatwieniu sprawy.
 
-**Art. 76e.** W zakresie nieuregulowanym w niniejszym rozdziale stosuje się odpowiednio przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.”;
+**Art. 76e.** W zakresie nieuregulowanym w niniejszym rozdziale stosuje się odpowiednio przepisy działu IVa ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.”;
 
 **Art. 2.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2025 r. poz. 1153 i 1436) wprowadza się następujące zmiany:
 
@@ -1645,13 +1554,13 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 **Art. 5.** W ustawie z dnia 20 sierpnia 1997 r. o Krajowym Rejestrze Sądowym (Dz. U. z 2025 r. poz. 869, 1556 i 1792 oraz z 2026 r. poz. 119 i 176) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) po art. 299h dodaje się art. 299i w brzmieniu: „Art. 299i. § 1. Szef Krajowej Administracji Skarbowej udostępnia nieodpłatnie organom właściwym do spraw cyberbezpieczeństwa oraz Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową Państwowy Instytut Badawczy, w drodze teletransmisji, bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie, dane w zakresie niezbędnym do dokonania przez te podmioty weryfikacji wielkości przedsiębiorstwa zgodnie z art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252).
+**Art. 6.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) po art. 299h dodaje się art. 299i w brzmieniu: „Art. 299i. § 1. Szef Krajowej Administracji Skarbowej udostępnia nieodpłatnie organom właściwym do spraw cyberbezpieczeństwa oraz Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy, w drodze teletransmisji, bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie, dane w zakresie niezbędnym do dokonania przez te podmioty weryfikacji wielkości przedsiębiorstwa zgodnie z art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252).
 
 **Art. 7.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie województwa (Dz. U. z 2025 r. poz. 581 i 1535) wprowadza się następujące zmiany:
 
 **Art. 8.** W ustawie z dnia 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2025 r. poz. 1684) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199) w art. 50 dodaje się ust. 32 w brzmieniu: „32. Zakład udostępnia organom właściwym do spraw cyberbezpieczeństwa i Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową Państwowy Instytut Badawczy, drogą elektroniczną, dane obejmujące roczną liczbę ubezpieczonych, którzy zostali zgłoszeni przez płatnika, w zakresie niezbędnym do realizacji ich ustawowych zadań. Dane, o których mowa w zdaniu pierwszym, obejmują ubezpieczonych zgłoszonych przez płatnika do Zakładu od dnia 1 stycznia do dnia 31 grudnia danego roku. Udostępnienie informacji następuje nieodpłatnie.”.
+**Art. 9.** W ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199) w art. 50 dodaje się ust. 32 w brzmieniu: „32. Zakład udostępnia organom właściwym do spraw cyberbezpieczeństwa i Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową – Państwowy Instytut Badawczy, drogą elektroniczną, dane obejmujące roczną liczbę ubezpieczonych, którzy zostali zgłoszeni przez płatnika, w zakresie niezbędnym do realizacji ich ustawowych zadań. Dane, o których mowa w zdaniu pierwszym, obejmują ubezpieczonych zgłoszonych przez płatnika do Zakładu od dnia 1 stycznia do dnia 31 grudnia danego roku. Udostępnienie informacji następuje nieodpłatnie.”.
 
 **Art. 10.** W ustawie z dnia 24 maja 2000 r. o Krajowym Rejestrze Karnym (Dz. U. z 2024 r. poz. 276 oraz z 2025 r. poz. 1235) w art. 6 w ust. 1 po pkt 10b dodaje się pkt 10c w brzmieniu: „10c) podmiotom kluczowym lub podmiotom ważnym w rozumieniu art. 5 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252) w zakresie niezbędnym do weryfikacji niekaralności osoby realizującej zadania, o których mowa w art. 8 i art. 11 tej ustawy;”.
 
@@ -1667,15 +1576,15 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 **Art. 16.** W ustawie z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781) art. 104 otrzymuje brzmienie: „Art. 104. 1. Środki z administracyjnej kary pieniężnej stanowią dochód budżetu państwa, z uwzględnieniem ust. 2. 2. Środki z administracyjnej kary pieniężnej nałożonej za naruszenie art. 5 ust. 1 lit. f, art. 25 ust. 1 i 2, art. 28 ust. 3 lit. c oraz art. 32 ust. 1 i 2 rozporządzenia 2016/679 stanowią w 50 % dochód budżetu państwa, a w 50 % dochód Funduszu Cyberbezpieczeństwa, o którym mowa w art. 2 ustawy z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662, z 2025 r. poz. 1017 oraz z 2026 r. poz. 252).”.
 
-**Art. 17.** W ustawie z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 17.** W ustawie z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 18.** W ustawie z dnia 2 grudnia 2021 r. o szczególnych zasadach wynagradzania osób realizujących zadania z zakresu cyberbezpieczeństwa (Dz. U. z 2024 r. poz. 1662 oraz z 2025 r. poz. 1017) wprowadza się następujące zmiany:
 
-**Art. 19.** W ustawie z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej (Dz. U. z 2024 r. poz. 1803) w art. 2 pkt 11 otrzymuje brzmienie: „11) podmiot publiczny podmiot wskazany w sektorze podmiotów publicznych w załącznikach nr 1 i 2 do ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa;”.
+**Art. 19.** W ustawie z dnia 28 lipca 2023 r. o zwalczaniu nadużyć w komunikacji elektronicznej (Dz. U. z 2024 r. poz. 1803) w art. 2 pkt 11 otrzymuje brzmienie: „11) podmiot publiczny – podmiot wskazany w sektorze podmiotów publicznych w załącznikach nr 1 i 2 do ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa;”.
 
-**Art. 20.** W ustawie z dnia 12 lipca 2024 r. Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820) w art. 40 w ust. 1 w pkt 2 w lit. b wyrazy „operatorów usług” zastępuje się wyrazem „podmiotów”.
+**Art. 20.** W ustawie z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221 oraz z 2025 r. poz. 637 i 820) w art. 40 w ust. 1 w pkt 2 w lit. b wyrazy „operatorów usług” zastępuje się wyrazem „podmiotów”.
 
-**Art. 21.** W ustawie z dnia 12 lipca 2024 r. Przepisy wprowadzające ustawę Prawo komunikacji elektronicznej (Dz. U. poz. 1222) w art. 68 uchyla się ust. 3.
+**Art. 21.** W ustawie z dnia 12 lipca 2024 r. – Przepisy wprowadzające ustawę – Prawo komunikacji elektronicznej (Dz. U. poz. 1222) w art. 68 uchyla się ust. 3.
 
 **Art. 22.**
 
@@ -1726,7 +1635,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 4. Podmioty kluczowe lub podmioty ważne, które przed dniem wejścia w życie niniejszej ustawy były operatorami usług kluczowych zgłaszają incydenty poważne zgodnie z art. 11–12b ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-5. Przedsiębiorcy telekomunikacyjni, którzy przed dniem wejścia w życie niniejszej ustawy realizowali obowiązki określone w dziale VIIa ustawy z dnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834), realizują te obowiązki na podstawie dotychczasowych przepisów do czasu rozpoczęcia realizacji obowiązków określonych w rozdziale 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+5. Przedsiębiorcy telekomunikacyjni, którzy przed dniem wejścia w życie niniejszej ustawy realizowali obowiązki określone w dziale VIIa ustawy z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2024 r. poz. 34, 731 i 834), realizują te obowiązki na podstawie dotychczasowych przepisów do czasu rozpoczęcia realizacji obowiązków określonych w rozdziale 3 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 6. Podmioty kluczowe lub podmioty ważne, które przed dniem wejścia w życie niniejszej ustawy były operatorami usług kluczowych do czasu wdrożenia systemu zarządzania bezpieczeństwem informacji zgodnego z art. 8 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, stosują system zarządzania bezpieczeństwem informacji zgodny z art. 8 ustawy zmienianej w art. 1 w brzmieniu dotychczasowym.
 
@@ -1777,7 +1686,7 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 3. Informacja o osiągnięciu zdolności operacyjnej przez CSIRT sektorowy jest również publikowana na stronach internetowych:
 
 - **1)** ministerstwa albo innego urzędu administracji rządowej, obsługującego Pełnomocnika Rządu do Spraw Cyberbezpieczeństwa,
-- **2)** CSIRT MON, CSIRT NASK, CSIRT GOV a także jest przekazywana za pomocą systemu teleinformatycznego, o którym mowa w art. 46 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
+- **2)** CSIRT MON, CSIRT NASK, CSIRT GOV – a także jest przekazywana za pomocą systemu teleinformatycznego, o którym mowa w art. 46 ust. 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 43.** Obowiązujące w dniu wejścia w życie niniejszej ustawy porozumienia administracyjne pomiędzy podmiotami publicznymi będącymi podmiotami kluczowymi lub podmiotami ważnymi regulujące wspólne wykonywanie obowiązków z zakresu informatyzacji albo cyberbezpieczeństwa lub przekazujące obsługę tych obowiązków do wskazanego w porozumieniu podmiotu będącego sygnatariuszem porozumienia, zachowują moc do czasu wyznaczenia jednostki do wspólnej obsługi przez organ stanowiący takiej jednostki samorządu terytorialnego na podstawie przepisów, o których mowa w art. 16e ust. 5 w brzmieniu nadanym niniejszą ustawą, niedłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
 
@@ -1797,148 +1706,148 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 
 **Art. 48.**
 
-1. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 20 gospodarka, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+1. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 20 – gospodarka, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 5 662 tys. zł;
-- **2)** w 2027 r. 5 353 tys. zł;
-- **3)** w 2028 r. 5 587 tys. zł;
-- **4)** w 2029 r. 5 836 tys. zł;
-- **5)** w 2030 r. 6 101 tys. zł;
-- **6)** w 2031 r. 6 384 tys. zł;
-- **7)** w 2032 r. 6 682 tys. zł;
-- **8)** w 2033 r. 7 000 tys. zł;
-- **9)** w 2034 r. 7 338 tys. zł;
-- **10)** w 2035 r. 7 317 tys. zł.
+- **1)** w 2026 r. – 5 662 tys. zł;
+- **2)** w 2027 r. – 5 353 tys. zł;
+- **3)** w 2028 r. – 5 587 tys. zł;
+- **4)** w 2029 r. – 5 836 tys. zł;
+- **5)** w 2030 r. – 6 101 tys. zł;
+- **6)** w 2031 r. – 6 384 tys. zł;
+- **7)** w 2032 r. – 6 682 tys. zł;
+- **8)** w 2033 r. – 7 000 tys. zł;
+- **9)** w 2034 r. – 7 338 tys. zł;
+- **10)** w 2035 r. – 7 317 tys. zł.
 
-2. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 21 gospodarka morska, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+2. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 21 – gospodarka morska, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 111 tys. zł;
-- **2)** w 2027 r. 114 tys. zł;
-- **3)** w 2028 r. 122 tys. zł;
-- **4)** w 2029 r. 130 tys. zł;
-- **5)** w 2030 r. 138 tys. zł;
-- **6)** w 2031 r. 147 tys. zł;
-- **7)** w 2032 r. 157 tys. zł;
-- **8)** w 2033 r. 168 tys. zł;
-- **9)** w 2034 r. 179 tys. zł;
-- **10)** w 2035 r. 191 tys. zł.
+- **1)** w 2026 r. – 111 tys. zł;
+- **2)** w 2027 r. – 114 tys. zł;
+- **3)** w 2028 r. – 122 tys. zł;
+- **4)** w 2029 r. – 130 tys. zł;
+- **5)** w 2030 r. – 138 tys. zł;
+- **6)** w 2031 r. – 147 tys. zł;
+- **7)** w 2032 r. – 157 tys. zł;
+- **8)** w 2033 r. – 168 tys. zł;
+- **9)** w 2034 r. – 179 tys. zł;
+- **10)** w 2035 r. – 191 tys. zł.
 
-3. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 22 gospodarka wodna, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+3. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 22 – gospodarka wodna, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 6 268 tys. zł;
-- **2)** w 2027 r. 6 819 tys. zł;
-- **3)** w 2028 r. 7 160 tys. zł;
-- **4)** w 2029 r. 7 523 tys. zł;
-- **5)** w 2030 r. 7 908 tys. zł;
-- **6)** w 2031 r. 8 317 tys. zł;
-- **7)** w 2032 r. 8 750 tys. zł;
-- **8)** w 2033 r. 9 211 tys. zł;
-- **9)** w 2034 r. 9 699 tys. zł;
-- **10)** w 2035 r. 10 218 tys. zł.
+- **1)** w 2026 r. – 6 268 tys. zł;
+- **2)** w 2027 r. – 6 819 tys. zł;
+- **3)** w 2028 r. – 7 160 tys. zł;
+- **4)** w 2029 r. – 7 523 tys. zł;
+- **5)** w 2030 r. – 7 908 tys. zł;
+- **6)** w 2031 r. – 8 317 tys. zł;
+- **7)** w 2032 r. – 8 750 tys. zł;
+- **8)** w 2033 r. – 9 211 tys. zł;
+- **9)** w 2034 r. – 9 699 tys. zł;
+- **10)** w 2035 r. – 10 218 tys. zł.
 
-4. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 27 informatyzacja, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+4. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 27 – informatyzacja, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 136 778 tys. zł;
-- **2)** w 2027 r. 137 213 tys. zł;
-- **3)** w 2028 r. 146 969 tys. zł;
-- **4)** w 2029 r. 167 112 tys. zł;
-- **5)** w 2030 r. 189 948 tys. zł;
-- **6)** w 2031 r. 217 414 tys. zł;
-- **7)** w 2032 r. 223 028 tys. zł;
-- **8)** w 2033 r. 251 875 tys. zł;
-- **9)** w 2034 r. 287 067 tys. zł;
-- **10)** w 2035 r. 332 833 tys. zł.
+- **1)** w 2026 r. – 136 778 tys. zł;
+- **2)** w 2027 r. – 137 213 tys. zł;
+- **3)** w 2028 r. – 146 969 tys. zł;
+- **4)** w 2029 r. – 167 112 tys. zł;
+- **5)** w 2030 r. – 189 948 tys. zł;
+- **6)** w 2031 r. – 217 414 tys. zł;
+- **7)** w 2032 r. – 223 028 tys. zł;
+- **8)** w 2033 r. – 251 875 tys. zł;
+- **9)** w 2034 r. – 287 067 tys. zł;
+- **10)** w 2035 r. – 332 833 tys. zł.
 
-5. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 28 szkolnictwo wyższe i nauka, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+5. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 28 – szkolnictwo wyższe i nauka, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 5 754 tys. zł;
-- **2)** w 2027 r. 6 289 tys. zł;
-- **3)** w 2028 r. 6 594 tys. zł;
-- **4)** w 2029 r. 6 917 tys. zł;
-- **5)** w 2030 r. 7 259 tys. zł;
-- **6)** w 2031 r. 7 622 tys. zł;
-- **7)** w 2032 r. 8 007 tys. zł;
-- **8)** w 2033 r. 8 415 tys. zł;
-- **9)** w 2034 r. 8 848 tys. zł;
-- **10)** w 2035 r. 9 307 tys. zł.
+- **1)** w 2026 r. – 5 754 tys. zł;
+- **2)** w 2027 r. – 6 289 tys. zł;
+- **3)** w 2028 r. – 6 594 tys. zł;
+- **4)** w 2029 r. – 6 917 tys. zł;
+- **5)** w 2030 r. – 7 259 tys. zł;
+- **6)** w 2031 r. – 7 622 tys. zł;
+- **7)** w 2032 r. – 8 007 tys. zł;
+- **8)** w 2033 r. – 8 415 tys. zł;
+- **9)** w 2034 r. – 8 848 tys. zł;
+- **10)** w 2035 r. – 9 307 tys. zł.
 
-6. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 32 rolnictwo, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+6. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 32 – rolnictwo, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 7 295 tys. zł;
-- **2)** w 2027 r. 7 878 tys. zł;
-- **3)** w 2028 r. 8 294 tys. zł;
-- **4)** w 2029 r. 8 736 tys. zł;
-- **5)** w 2030 r. 9 207 tys. zł;
-- **6)** w 2031 r. 9 706 tys. zł;
-- **7)** w 2032 r. 10 237 tys. zł;
-- **8)** w 2033 r. 10 801 tys. zł;
-- **9)** w 2034 r. 11 401 tys. zł;
-- **10)** w 2035 r. 12 039 tys. zł.
+- **1)** w 2026 r. – 7 295 tys. zł;
+- **2)** w 2027 r. – 7 878 tys. zł;
+- **3)** w 2028 r. – 8 294 tys. zł;
+- **4)** w 2029 r. – 8 736 tys. zł;
+- **5)** w 2030 r. – 9 207 tys. zł;
+- **6)** w 2031 r. – 9 706 tys. zł;
+- **7)** w 2032 r. – 10 237 tys. zł;
+- **8)** w 2033 r. – 10 801 tys. zł;
+- **9)** w 2034 r. – 11 401 tys. zł;
+- **10)** w 2035 r. – 12 039 tys. zł.
 
 7. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 39 ‒ transport, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 6 473 tys. zł;
-- **2)** w 2027 r. 7 030 tys. zł;
-- **3)** w 2028 r. 7 387 tys. zł;
-- **4)** w 2029 r. 7 766 tys. zł;
-- **5)** w 2030 r. 8 168 tys. zł;
-- **6)** w 2031 r. 8 595 tys. zł;
-- **7)** w 2032 r. 9 048 tys. zł;
-- **8)** w 2033 r. 9 529 tys. zł;
-- **9)** w 2034 r. 10 040 tys. zł;
-- **10)** w 2035 r. 10 582 tys. zł.
+- **1)** w 2026 r. – 6 473 tys. zł;
+- **2)** w 2027 r. – 7 030 tys. zł;
+- **3)** w 2028 r. – 7 387 tys. zł;
+- **4)** w 2029 r. – 7 766 tys. zł;
+- **5)** w 2030 r. – 8 168 tys. zł;
+- **6)** w 2031 r. – 8 595 tys. zł;
+- **7)** w 2032 r. – 9 048 tys. zł;
+- **8)** w 2033 r. – 9 529 tys. zł;
+- **9)** w 2034 r. – 10 040 tys. zł;
+- **10)** w 2035 r. – 10 582 tys. zł.
 
 8. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 47 ‒ energia, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 6 268 tys. zł;
-- **2)** w 2027 r. 6 819 tys. zł;
-- **3)** w 2028 r. 7 160 tys. zł;
-- **4)** w 2029 r. 7 523 tys. zł;
-- **5)** w 2030 r. 7 908 tys. zł;
-- **6)** w 2031 r. 8 317 tys. zł;
-- **7)** w 2032 r. 8 750 tys. zł;
-- **8)** w 2033 r. 9 211 tys. zł;
-- **9)** w 2034 r. 9 699 tys. zł;
-- **10)** w 2035 r. 10 218 tys. zł.
+- **1)** w 2026 r. – 6 268 tys. zł;
+- **2)** w 2027 r. – 6 819 tys. zł;
+- **3)** w 2028 r. – 7 160 tys. zł;
+- **4)** w 2029 r. – 7 523 tys. zł;
+- **5)** w 2030 r. – 7 908 tys. zł;
+- **6)** w 2031 r. – 8 317 tys. zł;
+- **7)** w 2032 r. – 8 750 tys. zł;
+- **8)** w 2033 r. – 9 211 tys. zł;
+- **9)** w 2034 r. – 9 699 tys. zł;
+- **10)** w 2035 r. – 10 218 tys. zł.
 
-9. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 51 klimat, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+9. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 51 – klimat, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 5 960 tys. zł;
-- **2)** w 2027 r. 6 501 tys. zł;
-- **3)** w 2028 r. 6 820 tys. zł;
-- **4)** w 2029 r. 7 160 tys. zł;
-- **5)** w 2030 r. 7 519 tys. zł;
-- **6)** w 2031 r. 7 900 tys. zł;
-- **7)** w 2032 r. 8 304 tys. zł;
-- **8)** w 2033 r. 8 733 tys. zł;
-- **9)** w 2034 r. 9 188 tys. zł;
-- **10)** w 2035 r. 9 672 tys. zł.
+- **1)** w 2026 r. – 5 960 tys. zł;
+- **2)** w 2027 r. – 6 501 tys. zł;
+- **3)** w 2028 r. – 6 820 tys. zł;
+- **4)** w 2029 r. – 7 160 tys. zł;
+- **5)** w 2030 r. – 7 519 tys. zł;
+- **6)** w 2031 r. – 7 900 tys. zł;
+- **7)** w 2032 r. – 8 304 tys. zł;
+- **8)** w 2033 r. – 8 733 tys. zł;
+- **9)** w 2034 r. – 9 188 tys. zł;
+- **10)** w 2035 r. – 9 672 tys. zł.
 
-10. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 57 Agencja Bezpieczeństwa Wewnętrznego, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+10. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 57 – Agencja Bezpieczeństwa Wewnętrznego, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 3 000 tys. zł;
-- **2)** w 2027 r. 3 000 tys. zł;
-- **3)** w 2028 r. 3 000 tys. zł;
-- **4)** w 2029 r. 3 000 tys. zł;
-- **5)** w 2030 r. 3 000 tys. zł;
-- **6)** w 2031 r. 3 000 tys. zł;
-- **7)** w 2032 r. 3 000 tys. zł;
-- **8)** w 2033 r. 3 000 tys. zł;
-- **9)** w 2034 r. 3 000 tys. zł;
-- **10)** w 2035 r. 3 000 tys. zł.
+- **1)** w 2026 r. – 3 000 tys. zł;
+- **2)** w 2027 r. – 3 000 tys. zł;
+- **3)** w 2028 r. – 3 000 tys. zł;
+- **4)** w 2029 r. – 3 000 tys. zł;
+- **5)** w 2030 r. – 3 000 tys. zł;
+- **6)** w 2031 r. – 3 000 tys. zł;
+- **7)** w 2032 r. – 3 000 tys. zł;
+- **8)** w 2033 r. – 3 000 tys. zł;
+- **9)** w 2034 r. – 3 000 tys. zł;
+- **10)** w 2035 r. – 3 000 tys. zł.
 
-11. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 76 Urząd Komunikacji Elektronicznej, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
+11. Maksymalny limit wydatków z budżetu państwa dla części budżetowej 76 – Urząd Komunikacji Elektronicznej, będący skutkiem finansowym wejścia w życie niniejszej ustawy, wynosi:
 
-- **1)** w 2026 r. 8 014 tys. zł;
-- **2)** w 2027 r. 8 619 tys. zł;
-- **3)** w 2028 r. 9 087 tys. zł;
-- **4)** w 2029 r. 9 586 tys. zł;
-- **5)** w 2030 r. 10 115 tys. zł;
-- **6)** w 2031 r. 10 678 tys. zł;
-- **7)** w 2032 r. 11 277 tys. zł;
-- **8)** w 2033 r. 11 915 tys. zł;
-- **9)** w 2034 r. 12 593 tys. zł;
-- **10)** w 2035 r. 13 314 tys. zł.
+- **1)** w 2026 r. – 8 014 tys. zł;
+- **2)** w 2027 r. – 8 619 tys. zł;
+- **3)** w 2028 r. – 9 087 tys. zł;
+- **4)** w 2029 r. – 9 586 tys. zł;
+- **5)** w 2030 r. – 10 115 tys. zł;
+- **6)** w 2031 r. – 10 678 tys. zł;
+- **7)** w 2032 r. – 11 277 tys. zł;
+- **8)** w 2033 r. – 11 915 tys. zł;
+- **9)** w 2034 r. – 12 593 tys. zł;
+- **10)** w 2035 r. – 13 314 tys. zł.
 
 12. Minister właściwy do spraw gospodarki monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 1, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku czwartego kwartału ‒ według stanu na dzień 20 listopada danego roku. W przypadku zagrożenia przekroczenia lub przekroczenia przyjętego na dany rok budżetowy limitu wydatków minister właściwy do spraw gospodarki wdraża mechanizm korygujący polegający na ograniczeniu finansowania działalności:
 
@@ -1990,14 +1899,12 @@ IV. Podmiot ważny będący podmiotem publicznym dokumentuje realizacj działań
 - **1)** organu właściwego do spraw cyberbezpieczeństwa dla sektora gospodarowania odpadami;
 - **2)** CSIRT sektorowego dla sektora gospodarowania odpadami.
 
-21. Szef Agencji Bezpieczeństwa Wewnętrznego monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 10, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku czwartego kwartału ‒ według stanu na dzień 20 listopada danego roku. W przypadku zagrożenia przekroczenia lub przekroczenia przyjętego na dany rok budżetowy limitu wydatków Szef Agencji Bezpieczeństwa Wewnętrznego wdraża mechanizm korygujący polegający na ograniczeniu finansowania czynności nadzorczych wobec podmiotów publicznych w zakresie cyberbezpieczeństwa. Wdrożenie tego mechanizmu korygującego następuje w uzgodnieniu z ministrem członkiem Rady Ministrów właściwym do spraw koordynowania działalności służb specjalnych albo z Prezesem Rady Ministrów, jeżeli minister członek Rady Ministrów właściwy do spraw koordynowania działalności służb specjalnych nie został powołany.
+21. Szef Agencji Bezpieczeństwa Wewnętrznego monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 10, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku czwartego kwartału ‒ według stanu na dzień 20 listopada danego roku. W przypadku zagrożenia przekroczenia lub przekroczenia przyjętego na dany rok budżetowy limitu wydatków Szef Agencji Bezpieczeństwa Wewnętrznego wdraża mechanizm korygujący polegający na ograniczeniu finansowania czynności nadzorczych wobec podmiotów publicznych w zakresie cyberbezpieczeństwa. Wdrożenie tego mechanizmu korygującego następuje w uzgodnieniu z ministrem – członkiem Rady Ministrów właściwym do spraw koordynowania działalności służb specjalnych albo z Prezesem Rady Ministrów, jeżeli minister – członek Rady Ministrów właściwy do spraw koordynowania działalności służb specjalnych nie został powołany.
 
 22. Prezes Urzędu Komunikacji Elektronicznej monitoruje wykorzystanie limitu wydatków, o którym mowa w ust. 11, i dokonuje oceny wykorzystania tego limitu według stanu na koniec każdego kwartału, a w przypadku czwartego kwartału ‒ według stanu na dzień 20 listopada danego roku. W przypadku zagrożenia przekroczenia lub przekroczenia przyjętego na dany rok budżetowy limitu wydatków Prezes Urzędu Komunikacji Elektronicznej wdraża mechanizm korygujący polegający na ograniczeniu finansowania działalności:
 
 - **1)** organu właściwego do spraw cyberbezpieczeństwa dla sektora poczty i podsektora komunikacji elektronicznej;
 - **2)** CSIRT sektorowego dla sektora poczty i podsektora komunikacji elektronicznej.
 
-**Art. 49.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki SEKTORY KLUCZOWE I II III Sektor Podsektor Rodzaj podmiotu Energia Wydobywanie kopalin Podmioty prowadzące działalność gospodarczą w zakresie wydobywania gazu ziemnego na podstawie koncesji, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Podmioty prowadzące działalność gospodarczą w zakresie wydobywania ropy naftowej na podstawie koncesji, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Podmioty prowadzące działalność gospodarczą w zakresie wydobywania węgla brunatnego na podstawie koncesji, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Podmioty prowadzące działalność gospodarczą w zakresie wydobywania węgla kamiennego na podstawie koncesji, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Podmioty prowadzące działalność gospodarczą w zakresie wydobywania pozostałych kopalin na podstawie koncesji, o której mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Energia elektryczna Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania energii elektrycznej Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie przesyłania energii elektrycznej Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie dystrybucji energii elektrycznej Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie obrotu energią elektryczną Podmioty, o których mowa w art. 3 pkt 28b ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Uczestnicy rynku świadczący usługę, o której mowa w art. 3 pkt 6e ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Uczestnicy rynku świadczący usługę, o której mowa w art. 3 pkt 11j ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Uczestnicy rynku świadczący usługę, o której mowa w art. 3 pkt 59 i 59a ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne I II III Sektor Podsektor Rodzaj podmiotu Przedsiębiorcy odpowiedzialni za zarządzanie punktem ładowania i jego obsługę, świadczący usługę ładowania na rzecz użytkowników końcowych, w tym w imieniu i na rzecz dostawcy usług w zakresie mobilności Ciepło Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania ciepła Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie obrotu ciepłem Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie przesyłania ciepła Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie dystrybucji ciepła Ropa i paliwa Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie wytwarzania paliw ciekłych, o której mowa w art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Podmioty prowadzące działalność gospodarczą w zakresie przesyłania ropy naftowej Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie przesyłania paliw ciekłych siecią rurociągów, o której mowa w art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Podmiot prowadzący działalność gospodarczą w zakresie magazynowania ropy naftowej, w tym w zakresie bezzbiornikowego podziemnego magazynowania ropy naftowej, o którym mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Podmioty prowadzące działalność gospodarczą w zakresie przeładunku ropy naftowej Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, wykonujące działalność gospodarczą w zakresie magazynowania paliw ciekłych, o którym mowa w art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, oraz podmiot prowadzący działalność w zakresie bezzbiornikowego podziemnego magazynowania paliw ciekłych, o którym mowa w art. 22 ust. 1 ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, wykonujące działalność gospodarczą w zakresie przeładunku paliw ciekłych, o którym mowa w art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne I II III Sektor Podsektor Rodzaj podmiotu Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, wykonujące działalność gospodarczą w zakresie obrotu paliwami ciekłymi lub w zakresie obrotu paliwami ciekłymi z zagranicą, o którym mowa w art. 32 ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Podmioty prowadzące działalność gospodarczą w zakresie wytwarzania paliw syntetycznych Agencja wykonawcza utworzona na podstawie ustawy z dnia 17 grudnia 2020 r. o rezerwach strategicznych (Dz. U. z 2024 r. poz. 1598 i 1907 oraz z 2026 r. poz. 203) Gaz Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, prowadzące działalność w zakresie wytwarzania paliw gazowych, o którym mowa w art. 3 pkt 45 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie przesyłania paliw gazowych Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, posiadające koncesję na wykonywanie działalności gospodarczej w zakresie obrotu gazem ziemnym z zagranicą lub na wykonywanie działalności gospodarczej w zakresie obrotu paliwami gazowymi Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, będące wyznaczonym przez Prezesa Urzędu Regulacji Energetyki operatorem systemu przesyłowego gazowego Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 25 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, będące wyznaczonym przez Prezesa Urzędu Regulacji Energetyki operatorem systemu dystrybucyjnego gazowego Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 26 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, będące wyznaczonym przez Prezesa Urzędu Regulacji Energetyki operatorem systemu magazynowania paliw gazowych Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 27 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, będące wyznaczonym przez Prezesa Urzędu Regulacji Energetyki operatorem systemu skraplania gazu ziemnego Przedsiębiorstwa energetyczne prowadzące działalność gospodarczą w zakresie rafinacji i przetwarzania gazu ziemnego Energetyka jądrowa Podmiot będący operatorem obiektu energetyki jądrowej, określonego w art. 2 pkt 2 ustawy z dnia 29 czerwca 2011 r. o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących Wodór Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, prowadzące działalność w zakresie przesyłania wodoru Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, prowadzące działalność w zakresie magazynowania wodoru I II III Sektor Podsektor Rodzaj podmiotu Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, prowadzące działalność w zakresie wytwarzania wodoru Przedsiębiorstwo energetyczne, o którym mowa w art. 3 pkt 12 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, prowadzące działalność w zakresie dystrybucji wodoru Transport Transport lotniczy Przewoźnik lotniczy, o którym mowa w art. 3 pkt 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 300/2008 z dnia 11 marca 2008 r. w sprawie wspólnych zasad w dziedzinie ochrony lotnictwa cywilnego i uchylającego rozporządzenie (WE) nr 2320/2002 (Dz. Urz. UE L 97 z 09.04.2008, str. 72) Zarządzający lotniskiem, o którym mowa w art. 2 pkt 7 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176) Przedsiębiorca, o którym mowa w art. 177 ust. 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze, wykonujący dla przewoźników lotniczych oraz innych użytkowników statków powietrznych jedną lub więcej kategorii usług, o których mowa w art. 176 tej ustawy, oraz przedsiębiorca, o którym mowa w art. 186b ust. 1 pkt 2 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze, wykonujący zadania związane z kontrolą bezpieczeństwa Instytucja zapewniająca służby żeglugi powietrznej, o której mowa w art. 127 ust. 1 ustawy z dnia 3 lipca 2002 r. Prawo lotnicze Transport kolejowy Zarządca infrastruktury kolejowej w rozumieniu art. 4 pkt 7 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2025 r. poz. 1234 oraz z 2026 r. poz. 41), z wyłączeniem zarządców wyłącznie infrastruktury nieczynnej, o której mowa w art. 4 pkt 1b tej ustawy, infrastruktury prywatnej, o której mowa w art. 4 pkt 1c, oraz infrastruktury kolei wąskotorowej, o której mowa w art. 4 pkt 1d tej ustawy Przewoźnik kolejowy, o którym mowa w art. 4 pkt 9 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, którego działalność podlega licencjonowaniu, oraz operator obiektu infrastruktury usługowej, o którym mowa w art. 4 pkt 52 ustawy z dnia 28 marca 2003 r. o transporcie kolejowym, jeżeli przedsiębiorca wykonujący funkcję operatora jest jednocześnie przewoźnikiem kolejowym Transport wodny Armator w transporcie morskim pasażerów i towarów zgodnie z definicją dla transportu morskiego w załączniku I do rozporządzenia (WE) nr 725/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie podniesienia ochrony statków i obiektów portowych (Dz. Urz. UE L 129 z 29.04.2004, str. 6, z późn. zm. ), z wyłączeniem poszczególnych statków, na których prowadzą działalność ci armatorzy Armator, o którym mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz. 18) Podmiot zarządzający portem morskim, o którym mowa w art. 3 ust. 1 pkt 2 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597) I II III Sektor Podsektor Rodzaj podmiotu Podmiot zarządzający obiektem portowym, o którym mowa w art. 2 pkt 11 rozporządzenia (WE) 725/2004 Parlamentu Europejskiego i Rady z dnia 31 marca 2004 r. w sprawie podniesienia ochrony statków i obiektów portowych Podmioty prowadzące na terenie portu działalność wspomagającą transport morski ujęte w klasie 52.22 klasyfikacji NACE Rev. 2, ujętej w załączniku I do rozporządzenia (WE) nr 1893/2006 Parlamentu Europejskiego i Rady z dnia 20 grudnia 2006 r. w sprawie statystycznej klasyfikacji działalności gospodarczej NACE Rev. 2 i zmieniającego rozporządzenie Rady (EWG) nr 3037/90 oraz niektóre rozporządzenia WE w sprawie określonych dziedzin statystycznych (Dz. Urz. UE L 393 z 30.12.2006, str. 1, z późn. zm. ) VTS (Służba Kontroli Ruchu Statków) aparat pomocniczy dyrektora urzędu morskiego powołany w celu monitorowania ruchu statków i przekazywania informacji, stanowiący część składową Narodowego Systemu SafeSeaNet, o którym mowa w art. 91 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2025 r. poz. 883 i 1535) Transport drogowy Zarządca drogi, o którym mowa w art. 19 ust. 2 pkt 1 ustawy z dnia 21 marca 1985 r. o drogach publicznych Podmioty świadczące usługę ITS, o której mowa w art. 4 pkt 36 ustawy z dnia 21 marca 1985 r. o drogach publicznych Bankowość Instytucja kredytowa, o której mowa w art. 4 ust. 1 pkt 17 ustawy z dnia i infrastruktura 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2026 r. poz. 38 i 176) rynków Bank krajowy, o którym mowa w art. 4 ust. 1 pkt 1 ustawy z dnia finansowych 29 sierpnia 1997 r. Prawo bankowe
-
-##### Oddział banku zagranicznego, o którym mowa w art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe Spółdzielcze kasy oszczędnościowo-kredytowe w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych Podmiot prowadzący rynek regulowany, o którym mowa w art. 14 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ) Podmiot, o którym mowa w art. 3 pkt 49 ustawy z dnia 29 lipca 2005 r.
+**Art. 49.** Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.
 

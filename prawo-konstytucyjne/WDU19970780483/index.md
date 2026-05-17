@@ -8,6 +8,7 @@ pos: 483
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # W trosce o byt i przyszłość naszej Ojczyzny, odzyskawszy w 1989 roku możliwość suwerennego i demokratycznego stanowienia o Jej losie, my, Naród Polski – wszyscy obywatele Rzeczypospolitej, zarówno wierzący w Boga będącego źródłem prawdy, sprawiedliwości, dobra i piękna, jak i nie podzielający tej wiary, a te uniwersalne wartości wywodzący z innych źródeł, równi w prawach i w powinnościach wobec dobra wspólnego – Polski, wdzięczni naszym przodkom za ich pracę, za walkę o niepodległość okupioną ogromnymi ofiarami, za kulturę zakorzenioną w chrześcijańskim dziedzictwie Narodu i ogólnoludzkich wartościach, nawiązując do najlepszych tradycji Pierwszej i Drugiej Rzeczypospolitej, zobowiązani, by przekazać przyszłym pokoleniom wszystko, co cenne z ponad tysiącletniego dorobku, złączeni więzami wspólnoty z naszymi rodakami rozsianymi po świecie, świadomi potrzeby współpracy ze wszystkimi krajami dla dobra Rodziny Ludzkiej, pomni gorzkich doświadczeń z czasów, gdy podstawowe wolności i prawa człowieka były w naszej Ojczyźnie łamane, pragnąc na zawsze zagwarantować prawa obywatelskie, a działaniu instytucji publicznych zapewnić rzetelność i sprawność, w poczuciu odpowiedzialności przed Bogiem lub przed własnym sumieniem, ustanawiamy Konstytucję Rzeczypospolitej Polskiej jako prawa podstawowe dla państwa oparte na poszanowaniu wolności i sprawiedliwości, współdziałaniu władz, dialogu społecznym oraz na zasadzie pomocniczości umacniającej uprawnienia obywateli i ich wspólnot.
@@ -1441,57 +1442,6 @@ Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą 
 
 6. Jeżeli ustawa o zmianie Konstytucji dotyczy przepisów rozdziału I, II lub XII, podmioty określone w ust. 1 mogą zażądać, w terminie 45 dni od dnia uchwalenia ustawy przez Senat, przeprowadzenia referendum zatwierdzającego. Z wnioskiem w tej sprawie podmioty te zwracają się do Marszałka Sejmu, który zarządza niezwłocznie przeprowadzenie referendum w ciągu 60 dni od dnia złożenia wniosku. Zmiana Konstytucji zostaje przyjęta, jeżeli za tą zmianą opowiedziała się większość głosujących.
 
-7. Po zakończeniu postępowania określonego w ust. 4 i 6 Marszałek przedstawia Prezydentowi Rzeczypospolitej uchwaloną ustawę do podpisu. Prezydent Rzeczypospolitej podpisuje ustawę w ciągu 21 dni od dnia przedstawienia i zarządza jej ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+7. Po zakończeniu postępowania określonego w ust. 4 i 6 Marszałek przedstawia Prezydentowi Rzeczypospolitej uchwaloną ustawę do podpisu.
 
-#### Rozdział XIII PRZEPISY PRZEJŚCIOWE I KOŃCOWE
-
-**Art. 236.**
-
-1. W okresie 2 lat od dnia wejścia w życie Konstytucji Rada Ministrów przedstawi Sejmowi projekty ustaw niezbędnych do stosowania Konstytucji.
-
-2. Ustawy wprowadzające w życie art. 176 ust. 1 w zakresie dotyczącym postępowania przed sądami administracyjnymi zostaną uchwalone przed upływem 5 lat od dnia wejścia w życie Konstytucji. Do czasu wejścia w życie tych ustaw obowiązują przepisy dotyczące rewizji nadzwyczajnej od orzeczeń Naczelnego Sądu Administracyjnego.
-
-**Art. 237.**
-
-1. W okresie 4 lat od dnia wejścia w życie Konstytucji w sprawach o wykroczenia orzekają kolegia do spraw wykroczeń przy sądach rejonowych, przy czym o karze aresztu orzeka sąd.
-
-2. Odwołanie od orzeczenia kolegium rozpoznaje sąd.
-
-**Art. 238.**
-
-1. Kadencja konstytucyjnych organów władzy publicznej i osób wchodzących w ich skład wybranych lub powołanych przed wejściem w życie Konstytucji kończy się z upływem okresu ustalonego w przepisach obowiązujących przed dniem wejścia w życie Konstytucji.
-
-2. W przypadku gdy przepisy obowiązujące przed dniem wejścia w życie Konstytucji nie ustalały tej kadencji, a od dnia wyboru lub powołania upłynął okres dłuższy niż ustalony przez Konstytucję, kadencja konstytucyjna organów władzy publicznej lub osób wchodzących w ich skład upływa po roku od dnia wejścia w życie Konstytucji.
-
-3. W przypadku gdy przepisy obowiązujące przed dniem wejścia w życie Konstytucji nie ustalały tej kadencji, a od dnia wyboru lub powołania upłynął okres krótszy niż ustalony przez Konstytucję dla konstytucyjnych organów władzy publicznej lub osób wchodzących w ich skład, czas, w którym organy te lub osoby pełniły funkcje według przepisów dotychczasowych, wlicza się do kadencji ustalonej w Konstytucji.
-
-**Art. 239.**
-
-1. W okresie 2 lat od dnia wejścia w życie Konstytucji orzeczenia Trybunału Konstytucyjnego o niezgodności z Konstytucją ustaw uchwalonych przed dniem jej wejścia w życie nie są ostateczne i podlegają rozpatrzeniu przez Sejm, który może odrzucić orzeczenie Trybunału Konstytucyjnego większością 2/3 głosów, w obecności co najmniej połowy ustawowej liczby posłów. Nie dotyczy to orzeczeń wydanych w następstwie pytań prawnych do Trybunału Konstytucyjnego.
-
-2. Postępowanie w sprawach o ustalenie przez Trybunał Konstytucyjny powszechnie obowiązującej wykładni ustaw, wszczęte przed wejściem w życie Konstytucji, podlega umorzeniu.
-
-3. Z dniem wejścia w życie Konstytucji uchwały Trybunału Konstytucyjnego w sprawie ustalenia wykładni ustaw tracą moc powszechnie obowiązującą. W mocy pozostają prawomocne wyroki sądu oraz inne prawomocne decyzje organów władzy publicznej, podjęte z uwzględnieniem znaczenia przepisów ustalonego przez Trybunał Konstytucyjny w drodze powszechnie obowiązującej wykładni ustaw.
-
-**Art. 240.** W okresie roku od dnia wejścia w życie Konstytucji ustawa budżetowa może przewidywać pokrywanie deficytu budżetowego przez zaciąganie zobowiązań w centralnym banku państwa.
-
-**Art. 241.**
-
-1. Umowy międzynarodowe ratyfikowane dotychczas przez Rzeczpospolitą Polską na podstawie obowiązujących w czasie ich ratyfikacji przepisów konstytucyjnych i ogłoszone w Dzienniku Ustaw uznaje się za umowy ratyfikowane za uprzednią zgodą wyrażoną w ustawie i stosuje się do nich przepisy art. 91 Konstytucji, jeżeli z treści umowy międzynarodowej wynika, że dotyczą one kategorii spraw wymienionych w art. 89 ust. 1 Konstytucji.
-
-2. Rada Ministrów w ciągu 2 lat od wejścia w życie Konstytucji przedstawi Sejmowi wykaz umów międzynarodowych zawierających postanowienia niezgodne z Konstytucją.
-
-3. Senatorowie wybrani przed dniem wejścia w życie Konstytucji, którzy nie ukończyli 30 lat, zachowują swoje mandaty do końca kadencji, na którą zostali wybrani.
-
-4. Połączenie mandatu posła lub senatora z funkcją lub zatrudnieniem, których dotyczy zakaz określony w art. 103, powoduje wygaśnięcie mandatu po upływie miesiąca od dnia wejścia w życie Konstytucji, chyba że poseł albo senator wcześniej zrzeknie się funkcji albo ustanie zatrudnienie.
-
-5. Sprawy będące przedmiotem postępowania ustawodawczego albo przed Trybunałem Konstytucyjnym bądź Trybunałem Stanu, a rozpoczęte przed wejściem w życie Konstytucji, są prowadzone zgodnie z przepisami konstytucyjnymi obowiązującymi w dniu rozpoczęcia sprawy.
-
-6. W okresie 2 lat od dnia wejścia w życie Konstytucji Rada Ministrów ustali, które z uchwał Rady Ministrów oraz zarządzeń ministrów lub innych organów administracji rządowej, podjęte lub wydane przed dniem wejścia w życie Konstytucji, wymagają – stosownie do warunków określonych w art. 87 ust. 1 i art. 92 Konstytucji – zastąpienia ich przez rozporządzenia wydane na podstawie upoważnienia ustawy, której projekt w odpowiednim czasie Rada Ministrów przedstawi Sejmowi. W tym samym okresie Rada Ministrów przedstawi Sejmowi projekt ustawy określającej, które akty normatywne organów administracji rządowej, wydane przed dniem wejścia w życie Konstytucji, stają się uchwałami albo zarządzeniami w rozumieniu art. 93 Konstytucji.
-
-7. Obowiązujące w dniu wejścia w życie Konstytucji akty prawa miejscowego oraz przepisy gminne stają się aktami prawa miejscowego w rozumieniu art. 87 ust. 2 Konstytucji.
-
-**Art. 242.** Tracą moc:
-
-**Art. 243.** Konstytucja Rzeczypospolitej Polskiej wchodzi w życie po upływie 3 miesięcy od dnia jej ogłoszenia.
 

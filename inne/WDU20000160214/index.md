@@ -8,6 +8,7 @@ pos: 214
 act_type: Orzeczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # Trybunał Konstytucyjny w składzie: Wiesław Johann – przewodniczący Zdzisław Czeszejko-Sochacki Lech Garlicki – sprawozdawca Joanna Szymczak – protokolant po rozpoznaniu 6 marca 2000 r. na rozprawie pytania prawnego Naczelnego Sądu Administracyjnego w Warszawie udziałem umocowanych przedstawicieli uczestników postępowania: składu orzekającego, Ministra Spraw Wewnętrznych i Administracji oraz Prokuratora Generalnego: czy przepis § 42 ust. 1 rozporządzenia Ministra Gospodarki Przestrzennej i Budownictwa dnia 14 grudnia 1994 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki i ich usytuowanie (tekst jednolity 1999 r. Dz.U. Nr 15, poz. 140; zm.: Nr 44, poz. 434) w części dotyczącej ogrodzeń między sąsiednimi działkami, na których budowę nie jest wymagane pozwolenie ani zgłoszenie zamiaru ich budowy, jest zgodny art. 7 ust. 2 pkt 1 ustawy dnia 7 lipca 1994 r. – Prawo budowlane (Dz.U. Nr 89, poz. 414; zm.: 1995 r. Nr 141, poz.
@@ -20,7 +21,6 @@ domain: null
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 2000-03-06 |
-| Wejście w życie | 2000-03-28 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000160214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/214/text.pdf) |
 

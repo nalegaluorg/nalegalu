@@ -8,9 +8,12 @@ pos: 1131
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 lipca 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy Prawo dewizowe
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001131) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1131/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 lipca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy Prawo dewizowe
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2022 r. poz. 309), z uwzględnieniem zmian wprowadzonych ustawą z dnia 9 maja 2024 r. o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 5 ustawy z dnia 9 maja 2024 r.
 o zmianie ustawy o Krajowej Administracji Skarbowej oraz niektórych innych ustaw (Dz. U. poz. 850), który stanowi: „Art. 5. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 3 pkt 2, który wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”.

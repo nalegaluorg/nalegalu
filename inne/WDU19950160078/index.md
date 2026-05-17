@@ -8,6 +8,7 @@ pos: 78
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
 # o ochronie gruntów rolnych i leśnych

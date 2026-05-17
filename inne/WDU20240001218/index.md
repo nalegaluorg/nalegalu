@@ -8,9 +8,12 @@ pos: 1218
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 sierpnia 2024 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -21,11 +24,9 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2024-08-01 |
 | Data wydania | 2024-08-09 |
-| Ostatnia zmiana | 2024-08-18 |
+| Ostatnia zmiana | 2024-10-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1218/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 1 sierpnia 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2017 r. o systemie monitorowania drogowego i kolejowego przewozu towarów oraz obrotu paliwami opałowymi (Dz. U. z 2023 r. poz. 104), z uwzględnieniem zmian wprowadzonych ustawą z dnia 28 lipca 2023 r.
 o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523) oraz zmian wynikających z przepisów ogłoszonych przed dniem 31 lipca 2024 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 49 ustawy z dnia 28 lipca 2023 r. o delegowaniu kierowców w transporcie drogowym (Dz. U. poz. 1523), który stanowi: „Art. 49. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:

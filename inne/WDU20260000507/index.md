@@ -8,9 +8,12 @@ pos: 507
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 13 kwietnia 2026 r.
+# o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw
+
+*USTAWA z dnia 13 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,18 +27,15 @@ domain: null
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000507) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/507/text.pdf) |
 
-USTAWA z dnia 13 marca 2026 r.
-o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy oraz niektórych innych ustaw
-
 **Art. 1.** W ustawie z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2026 r. poz. 30) wprowadza się następujące zmiany:
 
 **Art. 32b.**
 
 1. Wykreślenie z wpisu CEIDG przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3, następuje niezwłocznie, niepóźniej niż terminie 7 dni od dnia przekazania informacji, o których mowa art. 23 ust. 1 pkt 1 i 1a.
 
-2. Wykreślenie z wpisu CEIDG przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3, następuje niezwłocznie, niepóźniej niż terminie 7 dni od dnia otrzymania informacji o jego śmierci albo znalezieniu zwłok, a jeżeli przedstawiciel ustawowy nie posiadał numeru PESEL po uzyskaniu wiarygodnej informacji o jego śmierci. kresie danych dotyczących przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3, zawiera dane niezgodne z rzeczywistym stanem rzeczy, minister właściwy do spraw gospodarki, drodze decyzji administracyjnej, usuwa dane przedstawiciela ustawowego małoletniego wskazanego we wpisie CEIDG.
+2. Wykreślenie z wpisu CEIDG przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3, następuje niezwłocznie, niepóźniej niż terminie 7 dni od dnia otrzymania informacji o jego śmierci albo znalezieniu zwłok, a jeżeli przedstawiciel ustawowy nie posiadał numeru PESEL – po uzyskaniu wiarygodnej informacji o jego śmierci.
 
-4. W przypadku gdy wpis CEIDG małoletniego nie zawiera informacji zakresie przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3, minister właściwy do spraw gospodarki, drodze decyzji administracyjnej, uzupełnia wpis o dane przedstawiciela ustawowego.”;
+3. W przypadku powzięcia przez ministra właściwego do spraw gospodarki informacji, że wpis CEIDG zakresie danych dotyczących przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3, zawiera dane niezgodne z rzeczywistym stanem rzeczy, minister właściwy do spraw gospodarki, drodze decyzji administracyjnej, usuwa dane przedstawiciela ustawowego małoletniego wskazanego we wpisie CEIDG. wego, o którym mowa art. 5 ust. 2 pkt 3, minister właściwy do spraw gospodarki, drodze decyzji administracyjnej, uzupełnia wpis o dane przedstawiciela ustawowego.”;
 
 - **34)** art. 33 wyrazy „z CEIDG przedsiębiorcy” zastępuje się wyrazami „przedsiębiorcy z CEIDG”;
 - **35)** art. 34:
@@ -53,13 +53,13 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
     - **a)** ust. 2a otrzymuje brzmienie: „2a. W przypadku prokurenta informacji, o której mowa ust. 1, wskazuje się, czy prokurent został powołany na zarządcę sukcesyjnego.”,
     - **b)** ust. 3 otrzymuje brzmienie: „3. W przypadku pełnomocnika będącego osobą prawną lub jednostką organizacyjną niebędącą osobą prawną, której przepisy szczególne przyznają zdolność prawną, informacja, o której mowa ust. 1, zawiera firmę pełnomocnika, numer Krajowym Rejestrze Sądowym, adres siedziby oraz dane, o których mowa ust. 2 pkt 4 i 6–9.”,
     - **c)** po ust. 3 dodaje się ust. 3a brzmieniu: „3a. W przypadku opublikowania przez przedsiębiorcę informacji o więcej niż jednym pełnomocniku, może on wskazać, któremu z nich doręcza się pisma.”;
+
+- **40)** art. 39:
     - **a)** ust. 1 wyrazy „art. 8 ust. 1” zastępuje się wyrazami „art. 8 ust. 1a”,
     - **b)** uchyla się ust. 2,
     - **c)** ust. 7 wyrazy „art. 8 ust. 1” zastępuje się wyrazami „art. 8 ust. 1a”;
-
-- **41)** art. 40:
     - **a)** ust. 1 wyrazy „art. 39 ust. 1 i 2” zastępuje się wyrazami „art. 39 ust. 1”,
-    - **b)** ust. 2: wyrazy „art. 39 ust. 1 i 2” zastępuje się wyrazami „art. 39 ust. 1”, wyrazy „art. 9, art. 10 ust. 1 i 5–9” zastępuje się wyrazami „art. 10 ust. 1, 5 i 7”;
+    - **b)** ust. 2: – wyrazy „art. 39 ust. 1 i 2” zastępuje się wyrazami „art. 39 ust. 1”, – wyrazy „art. 9, art. 10 ust. 1 i 5–9” zastępuje się wyrazami „art. 10 ust. 1, 5 i 7”;
 
 - **42)** po rozdziale 6 dodaje się rozdział 6a brzmieniu: „Rozdział 6a Zasady składania wniosków i publikowania CEIDG informacji o spółce cywilnej
 
@@ -81,16 +81,18 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 - **10)** informację o przekształceniu spółki cywilnej spółkę podlegającą wpisowi do Krajowego Rejestru Sądowego;
 - **11)** dane dotyczące zarządcy sukcesyjnego, o ile został powołany.
 
-3. Informacje, o których mowa ust. 2 pkt 3–5 i 7–10, zawierają dane zgodne z aktualną umową lub uchwałą, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184 i 507), lub umową spółki cywilnej, o ile umowa, uchwała lub umowa spółki cywilnej takie dane zawierają.
+3. Informacje, o których mowa ust. 2 pkt 3–5 i 7–10, zawierają dane zgodne z aktualną umową lub uchwałą, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184 i 507), lub umową spółki cywilnej, o ile umowa, uchwała lub umowa spółki cywilnej takie dane zawierają.
 
-4. Jeżeli umowa spółki cywilnej, umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, nie zawierają informacji, o których mowa ust. 2 pkt 3–5 i 7–10, we wniosku o publikację informacji o spółce cywilnej wskazuje się te informacje zgodnie z rzeczywistym stanem rzeczy.
+4. Jeżeli umowa spółki cywilnej, umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, nie zawierają informacji, o których mowa ust. 2 pkt 3–5 i 7–10, we wniosku o publikację informacji o spółce cywilnej wskazuje się te informacje zgodnie z rzeczywistym stanem rzeczy.
 
 5. Informacje, o których mowa ust. 2 pkt 4, dotyczące wspólników spółki cywilnej wpisanych do CEIDG oraz dane, o których mowa ust. 2 pkt 11, obejmują dane zawarte we wpisie przedsiębiorcy CEIDG.
 
 6. Informacje, o których mowa ust. 2 pkt 4, dotyczące wspólników spółki cywilnej niepodlegających wpisowi do CEIDG obejmują:
 
-- **1)** imię i nazwisko wspólnika, a także numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON, o ile taki posiada przypadku gdy wspólnik spółki cywilnej jest osobą fizyczną;
-- **2)** firmę wspólnika, numer Krajowym Rejestrze Sądowym, o ile taki posiada, a także numer identyfikacji podatkowej (NIP), o ile taki posiada przypadku gdy wspólnik spółki cywilnej jest osobą prawną lub inną jednostką organizacyjną nieposiadającą osobowości prawnej. cywilnej, o której informacje podlegają publikacji CEIDG, ponoszą odpowiedzialność za szkodę wyrządzoną zgłoszeniem do CEIDG nieprawdziwych informacji, jeżeli informacje o spółce cywilnej podlegały obowiązkowi publikacji na ich wniosek, a także niezgłoszeniem do CEIDG ustawowym terminie informacji podlegających obowiązkowi publikacji albo niezgłoszeniem zmian danych objętych informacją o spółce cywilnej, chyba że szkoda nastąpiła wskutek siły wyższej albo wyłącznie z winy poszkodowanego lub osoby trzeciej, za którą wspólnicy spółki cywilnej, o której informacja podlega publikacji CEIDG, nie ponoszą odpowiedzialności.
+- **1)** imię i nazwisko wspólnika, a także numer identyfikacji podatkowej (NIP) lub numer identyfikacyjny REGON, o ile taki posiada – przypadku gdy wspólnik spółki cywilnej jest osobą fizyczną;
+- **2)** firmę wspólnika, numer Krajowym Rejestrze Sądowym, o ile taki posiada, a także numer identyfikacji podatkowej (NIP), o ile taki posiada – przypadku gdy wspólnik spółki cywilnej jest osobą prawną lub inną jednostką organizacyjną nieposiadającą osobowości prawnej.
+
+7. Domniemywa się, że informacje o spółce cywilnej opublikowane CEIDG są prawdziwe. Wspólnicy spółki cywilnej, o której informacje podlegają publikacji CEIDG, ponoszą odpowiedzialność za szkodę wyrządzoną zgłoszeniem do CEIDG nieprawdziwych informacji, jeżeli informacje o spółce cywilnej podlegały obowiązkowi publikacji na ich wniosek, a także niezgłoszeniem do CEIDG ustawowym terminie informacji podlegających obowiązkowi publikacji albo niezgłoszeniem zmian danych objętych informacją o spółce cywilnej, chyba że szkoda nastąpiła o której informacja podlega publikacji CEIDG, nie ponoszą odpowiedzialności.
 
 **Art. 42b.**
 
@@ -132,16 +134,16 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 1. Do złożenia wniosku o publikację informacji o spółce cywilnej jest obowiązany wspólnik spółki cywilnej uprawniony do reprezentacji spółki.
 
-2. Do złożenia wniosku o publikację informacji o spółce cywilnej imieniu wspólnika spółki cywilnej, o którym mowa ust. 1, jest uprawniony przedstawiciel ustawowy, o którym mowa art. 5 ust. 2 pkt 3, 7, 8 i 11, pełnomocnik lub prokurent, o których mowa art. 38 ust. 1, o ile zakres ich umocowania wskazany CEIDG przewiduje takie uprawnienie. spółki jest obowiązany dołączyć, postaci elektronicznej, aktualną umowę lub uchwałę, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umowę spółki cywilnej, o ile została stwierdzona pismem.
+2. Do złożenia wniosku o publikację informacji o spółce cywilnej imieniu wspólnika spółki cywilnej, o którym mowa ust. 1, jest uprawniony przedstawiciel ustawowy, o którym mowa art. 5 ust. 2 pkt 3, 7, 8 i 11, pełnomocnik lub prokurent, o których mowa art. 38 ust. 1, o ile zakres ich umocowania wskazany CEIDG przewiduje takie uprawnienie.
 
-4. Do wniosków, o których mowa art. 42b ust. 7 pkt 2–5, wspólnik spółki cywilnej uprawniony do reprezentacji spółki jest obowiązany dołączyć, postaci elektronicznej, aktualną umowę lub uchwałę, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umowę spółki cywilnej, przypadku zmiany tej umowy lub uchwały, lub umowy spółki cywilnej, o ile została stwierdzona pismem.
+3. Do wniosku, o którym mowa art. 42b ust. 7 pkt 1, wspólnik spółki cywilnej uprawniony do reprezentacji spółki jest obowiązany dołączyć, postaci elektronicznej, aktualną umowę lub uchwałę, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umowę spółki cywilnej, o ile została stwierdzona pismem. tacji spółki jest obowiązany dołączyć, postaci elektronicznej, aktualną umowę lub uchwałę, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umowę spółki cywilnej, przypadku zmiany tej umowy lub uchwały, lub umowy spółki cywilnej, o ile została stwierdzona pismem.
 
-5. W przypadku gdy umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umowa spółki cywilnej, zostały sporządzone postaci papierowej, do wniosku o publikację informacji o spółce cywilnej, przypadkach, o których mowa ust. 3 i 4, wspólnik spółki cywilnej uprawniony do reprezentacji spółki jest obowiązany dołączyć ich odwzorowanie cyfrowe.
+5. W przypadku gdy umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umowa spółki cywilnej, zostały sporządzone postaci papierowej, do wniosku o publikację informacji o spółce cywilnej, przypadkach, o których mowa ust. 3 i 4, wspólnik spółki cywilnej uprawniony do reprezentacji spółki jest obowiązany dołączyć ich odwzorowanie cyfrowe.
 
 6. Wraz z wnioskiem o publikację informacji o spółce cywilnej wspólnik spółki cywilnej uprawniony do reprezentacji spółki jest obowiązany złożyć oświadczenie, że informacje, o których mowa art. 42a ust. 2 pkt 3–5 i 7–10, są zgodne z:
 
-- **1)** umową lub uchwałą, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umową spółki cywilnej, o ile została stwierdzona pismem, lub
-- **2)** rzeczywistym stanem rzeczy, jeżeli umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umowa spółki cywilnej nie zawierają tych informacji.
+- **1)** umową lub uchwałą, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umową spółki cywilnej, o ile została stwierdzona pismem, lub
+- **2)** rzeczywistym stanem rzeczy, jeżeli umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umowa spółki cywilnej nie zawierają tych informacji.
 
 7. Oświadczenie, o którym mowa ust. 6, składa się pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia. Składający oświadczenie zawiera nim klauzulę o treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
@@ -164,14 +166,12 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 2. Wniosek o publikację informacji o spółce cywilnej jest niepoprawny, gdy:
 
 - **1)** nie zawiera danych niezbędnych do dokonania zgłoszenia identyfikacyjnego lub aktualizacyjnego, o którym mowa przepisach o zasadach ewidencji i identyfikacji podatników i płatników, lub niezbędnych do uzyskania wpisu lub zmiany wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON);
-- **2)** nie dołączono do niego aktualnej umowy lub uchwały, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umowy spółki cywilnej, o ile została stwierdzona pismem, z wyłączeniem przypadków, o których mowa art. 42c ust. 4;
+- **2)** nie dołączono do niego aktualnej umowy lub uchwały, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umowy spółki cywilnej, o ile została stwierdzona pismem, z wyłączeniem przypadków, o których mowa art. 42c ust. 4;
 - **3)** został złożony przez osobę nieuprawnioną;
 - **4)** jest niepodpisany;
-- **5)** nie dołączono do niego oświadczenia, o którym mowa art. 42c ust. 6. rej właściwy naczelnik urzędu skarbowego nie przekazał do CEIDG informacji o nadanym numerze identyfikacji podatkowej (NIP), informacja o spółce cywilnej nie jest publikowana.
+- **5)** nie dołączono do niego oświadczenia, o którym mowa art. 42c ust. 6.
 
-**Art. 42f.**
-
-1. Wniosek o publikację informacji o spółce cywilnej składa się z wykorzystaniem formularza elektronicznego, o którym mowa art. 42b ust. 5.
+3. W przypadku złożenia wniosku, o którym mowa art. 42b ust. 7 pkt 1, dotyczącego spółki cywilnej, dla której właściwy naczelnik urzędu skarbowego nie przekazał do CEIDG informacji o nadanym numerze identyfikacji podatkowej (NIP), informacja o spółce cywilnej nie jest publikowana.
 
 2. System teleinformatyczny CEIDG przesyła na adres poczty elektronicznej wskazany formularzu, o którym mowa art. 42b ust. 5, urzędowe poświadczenie odbioru, o którym mowa art. 3 pkt 20 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
@@ -195,7 +195,9 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 3. W przypadku gdy właściwy naczelnik urzędu skarbowego zwróci do CEIDG dane objęte wnioskiem o publikację informacji o spółce cywilnej wraz z informacją o negatywnej weryfikacji danych, o której mowa art. 8c ust. 2b pkt 2 ustawy z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników, CEIDG nie przesyła danych objętych wnioskiem do Głównego Urzędu Statystycznego oraz Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego. System teleinformatyczny CEIDG niezwłocznie informuje składającego, że wniosek nie został przekazany do Głównego Urzędu Statystycznego oraz Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego.
 
-4. W przypadku gdy wniosek o publikację informacji o spółce cywilnej jest poprawny zakresie danych niezbędnych do uzyskania wpisu lub zmiany wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), Główny Urząd Statystyczny przekazuje informację zwrotną o numerze identyfikacyjnym REGON spółki cywilnej wraz z danymi objętymi tym wnioskiem za pośrednictwem systemu teleinformatycznego CEIDG lub innego systemu teleinformatycznego zintegrowanego z CEIDG do CEIDG, terminie 3 dni roboczych od dnia przekazania wniosku przez CEIDG. tycznego CEIDG lub innego systemu teleinformatycznego zintegrowanego z CEIDG, przesyła odpowiednie dane do Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego wraz z informacją o nadanym numerze identyfikacji podatkowej (NIP) oraz nadanym numerze identyfikacyjnym REGON.
+4. W przypadku gdy wniosek o publikację informacji o spółce cywilnej jest poprawny zakresie danych niezbędnych do uzyskania wpisu lub zmiany wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), Główny Urząd Statystyczny przekazuje informację zwrotną o numerze identyfikacyjnym REGON spółki cywilnej wraz z danymi objętymi tym wnioskiem za pośrednictwem systemu teleinformatycznego CEIDG lub innego systemu teleinformatycznego zintegrowanego z CEIDG do CEIDG, terminie 3 dni roboczych od dnia przekazania wniosku przez CEIDG.
+
+5. Po uzyskaniu danych i informacji, o których mowa ust. 4, CEIDG, za pośrednictwem systemu teleinformatycznego CEIDG lub innego systemu teleinformatycznego zintegrowanego z CEIDG, przesyła odpowiednie dane do numerze identyfikacji podatkowej (NIP) oraz nadanym numerze identyfikacyjnym REGON.
 
 6. CEIDG publikuje informacje o spółce cywilnej niepóźniej niż następnego dnia roboczego po dniu otrzymania danych i informacji, o których mowa ust. 4.
 
@@ -217,7 +219,7 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 **Art. 42k.** Do zmiany albo wykreślenia informacji o spółce cywilnej publikowanej CEIDG przepisy art. 42d i art. 42f–42h stosuje się.
 
-**Art. 42l.** W przypadku spółki cywilnej, która spełnia warunki, o których mowa art. 22 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, CEIDG umożliwia złożenie wniosku, o którym mowa art. 42b ust. 7 pkt 3 i 4, na zasadach określonych niniejszym rozdziale.
+**Art. 42l.** W przypadku spółki cywilnej, która spełnia warunki, o których mowa art. 22 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, CEIDG umożliwia złożenie wniosku, o którym mowa art. 42b ust. 7 pkt 3 i 4, na zasadach określonych niniejszym rozdziale.
 
 **Art. 42m.** Zmianie z urzędu podlegają dane, o których mowa art. 42a ust. 2:
 
@@ -233,13 +235,9 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 **Art. 42q.** Publikacji z urzędu CEIDG podlegają informacje i dane, o których mowa art. 42a ust. 2 pkt 1 i 2, oraz ich zmiany.
 
-**Art. 42r.** CEIDG korzysta z informacji zawartych rejestrach publicznych dostępnych formie elektronicznej zakresie danych objętych wnioskiem, o którym mowa art. 42b ust. 1, celu weryfikacji poprawności danych. cywilnej, której wspólnikiem jest ten przedsiębiorca.
+**Art. 42r.** CEIDG korzysta z informacji zawartych rejestrach publicznych dostępnych formie elektronicznej zakresie danych objętych wnioskiem, o którym mowa art. 42b ust. 1, celu weryfikacji poprawności danych.
 
-**Art. 42t.**
-
-1. Wniosek o publikację informacji o spółce cywilnej oraz umowa lub uchwała, o której mowa art. 866 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, lub umowa spółki cywilnej, a także żądania, zgłoszenia oraz zmiany, o których mowa art. 42b ust. 2 i 3, podlegają archiwizacji przez okres 10 lat od dnia zakończenia publikacji informacji o spółce cywilnej.
-
-2. Archiwizacji, o której mowa ust. 1, dokonuje minister właściwy do spraw gospodarki. Przepisów o narodowym zasobie archiwalnym i archiwach nie stosuje się.
+**Art. 42s.** Wykreślenie przedsiębiorcy z CEIDG nie oznacza braku publikacji oraz usunięcia informacji o spółce cywilnej, której wspólnikiem jest ten przedsiębiorca. ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, lub umowa spółki cywilnej, a także żądania, zgłoszenia oraz zmiany, o których mowa art. 42b ust. 2 i 3, podlegają archiwizacji przez okres 10 lat od dnia zakończenia publikacji informacji o spółce cywilnej. 2. Archiwizacji, o której mowa ust. 1, dokonuje minister właściwy do spraw gospodarki. Przepisów o narodowym zasobie archiwalnym i archiwach nie stosuje się.
 
 **Art. 42u.**
 
@@ -249,7 +247,7 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 3. Potwierdzenie, o którym mowa ust. 2, nie podlega opłacie skarbowej.
 
-4. Do zaświadczeń, o których mowa ust. 1, nie stosuje się przepisów działu VII ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. Do zaświadczeń, o których mowa ust. 1, nie stosuje się przepisów działu VII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 5. Organy administracji publicznej nie mogą domagać się od przedsiębiorców okazywania, przekazywania lub załączania do wniosków i innych przedkładanych przed nimi pism, zaświadczeń, o których mowa ust. 1.”;
 
@@ -314,9 +312,9 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 **Art. 66c.** Do dnia 31 października 2028 r. zarządca sukcesyjny jest obowiązany złożyć wniosek o zmianę wpisu CEIDG terminie 7 dni od dnia zmiany danych obejmujących numer identyfikacji podatkowej (NIP) oraz numer identyfikacyjny REGON spółki cywilnej, o ile przedsiębiorca zawarł umowę takiej spółki.
 
-**Art. 66d.** Do dnia 31 października 2028 r. CEIDG przekazuje do Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz podmiotów, o których mowa art. 44 ust. 3, drogą elektroniczną, dane, o których mowa art. 5 ust. 2 pkt 2, oraz zmiany tych danych niepóźniej niż dniu roboczym następującym po dniu uzyskania tych danych lub ich zmiany.”.
+**Art. 66d.** Do dnia 31 października 2028 r. CEIDG przekazuje do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz podmiotów, o których mowa art. 44 ust. 3, drogą elektroniczną, dane, o których mowa art. 5 ust. 2 pkt 2, oraz zmiany tych danych niepóźniej niż dniu roboczym następującym po dniu uzyskania tych danych lub ich zmiany.”.
 
-**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184) art. 860 dodaje się § 3 i 4 brzmieniu: „§ 3. Jeżeli przepis ustawy tak stanowi, zawarcie umowy spółki lub wykonanie innej czynności dotyczącej spółki może nastąpić także z wykorzystaniem wzoru umowy lub innych wzorów udostępnionych systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+**Art. 2.** W ustawie z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184) art. 860 dodaje się § 3 i 4 brzmieniu: „§ 3. Jeżeli przepis ustawy tak stanowi, zawarcie umowy spółki lub wykonanie innej czynności dotyczącej spółki może nastąpić także z wykorzystaniem wzoru umowy lub innych wzorów udostępnionych systemie teleinformatycznym Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
 **Art. 3.** W ustawie z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799 oraz z 2025 r. poz. 1792) wprowadza się następujące zmiany:
 
@@ -326,7 +324,7 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 **Art. 6.** W ustawie z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, 894, 896, 1203, 1541 i 1811) art. 96:
 
-**Art. 7.** W ustawie z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) użyte art. 5 ust. 2 i 4 oraz art. 17 ust. 1, różnych przypadkach, wyrazy „wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej” zastępuje się użytymi odpowiednim przypadku wyrazami „wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej z informacją o podjęciu działalności gospodarczej”. granicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794) art. 4 dodaje się ust. 9 brzmieniu: „9. Osoby zagraniczne składające wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej są obowiązane do posiadania numeru PESEL, a jeżeli nie został im nadany do posiadania niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 sprawie identyfikacji elektronicznej i usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ).”.
+**Art. 7.** W ustawie z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) użyte art. 5 ust. 2 i 4 oraz art. 17 ust. 1, różnych przypadkach, wyrazy „wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej” zastępuje się użytymi odpowiednim przypadku wyrazami „wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej z informacją o podjęciu działalności gospodarczej”. granicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794) art. 4 dodaje się ust. 9 brzmieniu: „9. Osoby zagraniczne składające wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej są obowiązane do posiadania numeru PESEL, a jeżeli nie został im nadany – do posiadania niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 sprawie identyfikacji elektronicznej i usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ).”.
 
 **Art. 9.** W ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170) wprowadza się następujące zmiany:
 
@@ -336,31 +334,31 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 1. Minister właściwy do spraw gospodarki terminie do 6 miesięcy od dnia wejścia życie niniejszej ustawy przekaże dane zawarte Centralnej Ewidencji i Informacji o Działalności Gospodarczej do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON) objęte żądaniem wpisu krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), o którym mowa art. 6 ust. 3 pkt 1 ustawy zmienianej art. 1, celu realizacji działania, o którym mowa ust. 2. Wykorzystanie tych danych przez Prezesa Głównego Urzędu Statystycznego następuje po uzgodnieniu warunków technicznych ich przekazania z ministrem właściwym do spraw gospodarki.
 
-2. Do dnia 1 stycznia 2027 r. na podstawie danych, o których mowa ust. 1, krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) zostaną skreślone wpisy osób fizycznych prowadzących działalność gospodarczą, które nie zostały wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a których działalność zgodnie z ustawą z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507) podlega wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
+2. Do dnia 1 stycznia 2027 r. na podstawie danych, o których mowa ust. 1, krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) zostaną skreślone wpisy osób fizycznych prowadzących działalność gospodarczą, które nie zostały wpisane do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, a których działalność zgodnie z ustawą z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507) podlega wpisowi do Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
 **Art. 13.** Do wniosków o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej złożonych i co do których wpis nie został dokonany przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
 **Art. 14.**
 
-1. Do wniosków, o których mowa art. 3 ust. 2a pkt 1 ustawy zmienianej art. 1, złożonych wybranym urzędzie gminy albo wysłanych przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) na adres wybranego urzędu gminy do dnia 31 października 2026 r. i co do których wpis nie został dokonany stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+1. Do wniosków, o których mowa art. 3 ust. 2a pkt 1 ustawy zmienianej art. 1, złożonych wybranym urzędzie gminy albo wysłanych przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) na adres wybranego urzędu gminy do dnia 31 października 2026 r. i co do których wpis nie został dokonany stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
-2. Do wniosków, o których mowa art. 3 ust. 2a pkt 2–6 ustawy zmienianej art. 1, złożonych wybranym urzędzie gminy albo wysłanych przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe na adres wybranego urzędu gminy do dnia 31 października 2028 r. i co do których wpis nie został dokonany stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+2. Do wniosków, o których mowa art. 3 ust. 2a pkt 2–6 ustawy zmienianej art. 1, złożonych wybranym urzędzie gminy albo wysłanych przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na adres wybranego urzędu gminy do dnia 31 października 2028 r. i co do których wpis nie został dokonany stosuje się przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 **Art. 15.**
 
-1. Wnioski, o których mowa art. 3 ust. 2a pkt 1 ustawy zmienianej art. 1, złożone wybranym urzędzie gminy albo wysłane przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe na adres wybranego urzędu gminy po dniu 31 października 2026 r. i co do których wpis nie został dokonany, pozostawia się bez rozpoznania.
+1. Wnioski, o których mowa art. 3 ust. 2a pkt 1 ustawy zmienianej art. 1, złożone wybranym urzędzie gminy albo wysłane przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na adres wybranego urzędu gminy po dniu 31 października 2026 r. i co do których wpis nie został dokonany, pozostawia się bez rozpoznania.
 
-2. Wnioski, o których mowa art. 3 ust. 2a pkt 2–6 ustawy zmienianej art. 1, złożone wybranym urzędzie gminy albo wysłane przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe na adres wybranego urzędu gminy po dniu 31 października 2028 r. i co do których wpis nie został dokonany, pozostawia się bez rozpoznania.
+2. Wnioski, o których mowa art. 3 ust. 2a pkt 2–6 ustawy zmienianej art. 1, złożone wybranym urzędzie gminy albo wysłane przesyłką rejestrowaną rozumieniu art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe na adres wybranego urzędu gminy po dniu 31 października 2028 r. i co do których wpis nie został dokonany, pozostawia się bez rozpoznania.
 
 **Art. 16.**
 
 1. Od dnia 1 listopada 2026 r. do dnia 31 października 2028 r. wniosek, o którym mowa art. 3 ust. 2a pkt 1 ustawy zmienianej art. 1, z wyjątkiem wniosku, którym wskazano przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, składa się z wykorzystaniem formularza elektronicznego, o którym mowa art. 3 ust. 2 ustawy zmienianej art. 1. System teleinformatyczny Centralnej Ewidencji i Informacji o Działalności Gospodarczej przesyła na wskazany tym formularzu adres poczty elektronicznej urzędowe poświadczenie odbioru, o którym mowa art. 3 pkt 20 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160).
 
-2. Do dnia 31 października 2028 r. wnioski o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, których wskazano przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, mogą być złożone wyłącznie sposób, o którym mowa art. 8 ust. 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym. przez organy ewidencyjne na podstawie art. 66 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. poz. 97 oraz z 2011 r. poz. 764), dla których nie zmieniono danych, o których mowa art. 5 ust. 1 pkt 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, zakresie imienia lub nazwiska przedsiębiorcy, Centralna Ewidencja i Informacja o Działalności Gospodarczej, po weryfikacji z rejestrem PESEL, terminie do dnia 31 października 2028 r., zmieni te dane, jeżeli danym przypadku jest to możliwe.
+2. Do dnia 31 października 2028 r. wnioski o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, których wskazano przedstawiciela ustawowego, o którym mowa art. 5 ust. 2 pkt 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, mogą być złożone wyłącznie sposób, o którym mowa art. 8 ust. 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym. gospodarczej oraz o zmianie niektórych innych ustaw (Dz. U. z 2009 r. poz. 97 oraz z 2011 r. poz. 764), dla których nie zmieniono danych, o których mowa art. 5 ust. 1 pkt 1 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą, zakresie imienia lub nazwiska przedsiębiorcy, Centralna Ewidencja i Informacja o Działalności Gospodarczej, po weryfikacji z rejestrem PESEL, terminie do dnia 31 października 2028 r., zmieni te dane, jeżeli danym przypadku jest to możliwe.
 
 2. W przypadku braku we wpisie Centralnej Ewidencji i Informacji o Działalności Gospodarczej imienia lub nazwiska firmie przedsiębiorcy, Centralna Ewidencja i Informacja o Działalności Gospodarczej, po weryfikacji z rejestrem PESEL, terminie do dnia 31 października 2028 r. dopisze imię i nazwisko przedsiębiorcy do danych, o których mowa art. 5 ust. 1 pkt 2 ustawy zmienianej art. 1, jeżeli danym przypadku jest to możliwe.
 
-3. Centralna Ewidencja i Informacja o Działalności Gospodarczej, terminie, o którym mowa ust. 1 i 2, przekazuje drogą elektroniczną informację o zmianach, o których mowa ust. 1 i 2, do Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+3. Centralna Ewidencja i Informacja o Działalności Gospodarczej, terminie, o którym mowa ust. 1 i 2, przekazuje drogą elektroniczną informację o zmianach, o których mowa ust. 1 i 2, do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 4. Przepisów ust. 1 i 2 nie stosuje się do wpisów wykreślonych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz do wpisów, dla których złożono wniosek, o którym mowa art. 14 ust. 1 ustawy zmienianej art. 1.
 
@@ -370,11 +368,11 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 2. Po upływie terminu, o którym mowa ust. 1, Centralna Ewidencja i Informacja o Działalności Gospodarczej usuwa dane, o których mowa art. 5 ust. 1 pkt 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym.
 
-3. Centralna Ewidencja i Informacja o Działalności Gospodarczej przekazuje drogą elektroniczną informację o zmianie, o której mowa ust. 1, do Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+3. Centralna Ewidencja i Informacja o Działalności Gospodarczej przekazuje drogą elektroniczną informację o zmianie, o której mowa ust. 1, do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 4. Przepisów ust. 1 i 2 nie stosuje się do wpisów wykreślonych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz do wpisów, dla których złożono wniosek, o którym mowa art. 14 ust. 1 ustawy zmienianej art. 1.
 
-5. Do czynności, o której mowa ust. 2, przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+5. Do czynności, o której mowa ust. 2, przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego nie stosuje się.
 
 **Art. 19.**
 
@@ -384,11 +382,11 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 3. W przypadku nieaktualnej informacji o obywatelstwie przedsiębiorcy albo jej braku we wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, Centralna Ewidencja i Informacja o Działalności Gospodarczej, po dokonaniu weryfikacji z rejestrem PESEL, terminie do dnia 31 października 2028 r. dopisuje poprawną informację o obywatelstwie przedsiębiorcy, jeżeli danym przypadku jest to możliwe.
 
-4. Centralna Ewidencja i Informacja o Działalności Gospodarczej terminie, o którym mowa ust. 1–3, przekazuje drogą elektroniczną informację o zmianach, o których mowa ust. 1–3, do Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+4. Centralna Ewidencja i Informacja o Działalności Gospodarczej terminie, o którym mowa ust. 1–3, przekazuje drogą elektroniczną informację o zmianach, o których mowa ust. 1–3, do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 5. Przepisów ust. 1–3 nie stosuje się do wpisów wykreślonych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz do wpisów, dla których złożono wniosek, o którym mowa art. 14 ust. 1 ustawy zmienianej art. 1. art. 1 brzmieniu dotychczasowym, są niezgodne z oznaczeniami kodowymi przyjętymi rejestrze TERYT rozumieniu art. 2 pkt 12b ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799, z 2025 r. poz. 1792 oraz z 2026 r. poz. 507), Centralna Ewidencja i Informacja o Działalności Gospodarczej, po uzgodnieniu warunków technicznych wymiany danych z Prezesem Głównego Urzędu Statystycznego, terminie do dnia 31 października 2028 r. zmienia te dane, jeżeli danym przypadku jest to możliwe.
 
-2. Centralna Ewidencja i Informacja o Działalności Gospodarczej terminie do dnia 31 października 2028 r. przekazuje drogą elektroniczną informację o zmianie, o której mowa ust. 1, do Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+2. Centralna Ewidencja i Informacja o Działalności Gospodarczej terminie do dnia 31 października 2028 r. przekazuje drogą elektroniczną informację o zmianie, o której mowa ust. 1, do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 3. Przepisu ust. 1 nie stosuje się do wpisów wykreślonych z Centralnej Ewidencji i Informacji o Działalności Gospodarczej oraz do wpisów, dla których złożono wniosek, o którym mowa art. 14 ust. 1 ustawy zmienianej art. 1.
 
@@ -398,7 +396,7 @@ o zmianie ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarcz
 
 1. W przypadku gdy wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej osoby zagranicznej, o której mowa art. 4 ust. 9 ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 89, 619, 621 i 1794 oraz z 2026 r. poz. 507), nie zawiera numeru PESEL albo niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 sprawie identyfikacji elektronicznej i usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ), osoba ta składa wniosek o zmianę wpisu Centralnej Ewidencji i Informacji o Działalności Gospodarczej i uzupełnia wpis o numer PESEL albo o ten niepowtarzalny identyfikator do dnia 1 czerwca 2030 r.
 
-2. Po upływie terminu określonego ust. 1 Centralna Ewidencja i Informacja o Działalności Gospodarczej wykreśla wpis z Centralnej Ewidencji i Informacji o Działalności Gospodarczej niezawierający numeru PESEL albo niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 sprawie identyfikacji elektronicznej i usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym. później jednak niż dniu roboczym następującym po dniu wykreślenia przedsiębiorcy z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, informację o dokonaniu wykreślenia, o którym mowa ust. 2, do Centralnego Rejestru Podmiotów Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+2. Po upływie terminu określonego ust. 1 Centralna Ewidencja i Informacja o Działalności Gospodarczej wykreśla wpis z Centralnej Ewidencji i Informacji o Działalności Gospodarczej niezawierający numeru PESEL albo niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 sprawie identyfikacji elektronicznej i usług zaufania odniesieniu do transakcji elektronicznych na rynku wewnętrznym. później jednak niż dniu roboczym następującym po dniu wykreślenia przedsiębiorcy z Centralnej Ewidencji i Informacji o Działalności Gospodarczej, informację o dokonaniu wykreślenia, o którym mowa ust. 2, do Centralnego Rejestru Podmiotów – Krajowej Ewidencji Podatników, Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Społecznych, Kasy Rolniczego Ubezpieczenia Społecznego oraz do organów, o których mowa art. 44 ust. 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
 
 **Art. 23.** Centralna Ewidencja i Informacja o Działalności Gospodarczej do dnia 1 czerwca 2031 r. usuwa wpisy Centralnej Ewidencji i Informacji o Działalności Gospodarczej, które zostały wykreślone z ewidencji działalności gospodarczej przed dniem 1 lipca 2011 r. na podstawie decyzji właściwego organu ewidencyjnego, zgromadzone ewidencjach prowadzonych przez organy gminy i przeniesione do Centralnej Ewidencji i Informacji o Działalności Gospodarczej na podstawie art. 66 ustawy z dnia 19 grudnia 2008 r. o zmianie ustawy o swobodzie działalności gospodarczej oraz o zmianie niektórych innych ustaw bez podstawy prawnej, jeżeli danym przypadku jest to możliwe.
 

@@ -8,9 +8,12 @@ pos: 1692
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 sierpnia 2023 r.
+# o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
+
+*USTAWA z dnia 16 czerwca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +27,13 @@ domain: null
 | Ostatnia zmiana | 2024-10-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1692/text.pdf) |
 
-USTAWA z dnia 16 czerwca 2023 r.
-o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
-
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
 1. Ustawa określa zasady funkcjonowania systemu jakości w opiece zdrowotnej i bezpieczeństwa pacjenta.
 
-2. Przepisów ustawy nie stosuje się do podmiotów wykonujących działalność leczniczą udzielających świadczeń opieki zdrowotnej osobom pozbawionym wolności na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606).
+2. Przepisów ustawy nie stosuje się do podmiotów wykonujących działalność leczniczą udzielających świadczeń opieki zdrowotnej osobom pozbawionym wolności na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny wykonawczy (Dz. U. z 2023 r. poz. 127, z 2022 r. poz. 2600 oraz z 2023 r. poz. 818 i 1606).
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
@@ -43,15 +43,15 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Jakość w opiece zdrowotnej jest mierzona z wykorzystaniem wskaźników jakości opieki zdrowotnej mieszczących się w zakresie obszarów:
 
-- **1)** klinicznego rozumianego jako zestaw wskaźników odnoszących się do poziomu i efektów realizowanych świadczeń opieki zdrowotnej, opisywanych przez parametry:
+- **1)** klinicznego – rozumianego jako zestaw wskaźników odnoszących się do poziomu i efektów realizowanych świadczeń opieki zdrowotnej, opisywanych przez parametry:
     - **a)** efektu leczniczego,
     - **b)** powtórnych hospitalizacji z tej samej przyczyny,
     - **c)** śmiertelności po zabiegach: w trakcie hospitalizacji w okresie 30 dni, 90 dni oraz roku od dnia zakończenia hospitalizacji,
     - **d)** doświadczenia w wykonywaniu określonych świadczeń opieki zdrowotnej,
     - **e)** struktury procedur medycznych wykonywanych w przypadkach określonych problemów zdrowotnych;
 
-- **2)** konsumenckiego rozumianego jako wyniki badań opinii pacjentów o organizacji procesu udzielania świadczeń opieki zdrowotnej;
-- **3)** zarządczego rozumianego jako zestaw wskaźników odnoszących się do efektywności wykorzystania zasobów oraz wdrożenia systemów zarządzania, opisywanych przez parametry dotyczące:
+- **2)** konsumenckiego – rozumianego jako wyniki badań opinii pacjentów o organizacji procesu udzielania świadczeń opieki zdrowotnej;
+- **3)** zarządczego – rozumianego jako zestaw wskaźników odnoszących się do efektywności wykorzystania zasobów oraz wdrożenia systemów zarządzania, opisywanych przez parametry dotyczące:
     - **a)** posiadania akredytacji lub innego certyfikatu albo świadectwa potwierdzającego jakość wydanego przez niezależną akredytowaną jednostkę,
     - **b)** stopnia wykorzystania zasobów będących w dyspozycji podmiotu,
     - **c)** długości hospitalizacji,
@@ -156,7 +156,7 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
     - **a)** siedziby podmiotu wnioskującego,
     - **b)** miejsca prowadzenia działalności przez podmiot wnioskujący,
     - **c)** miejsca udzielania świadczeń opieki zdrowotnej przez podmiot wnioskujący,
-    - **d)** miejsca udzielania świadczeń opieki zdrowotnej przez podwykonawcę w zakresie, w jakim realizuje on umowę zawartą przez podmiot wnioskujący z podwykonawcą;
+    - **d)** miejsca udzielania świadczeń opieki zdrowotnej przez podwykonawcę – w zakresie, w jakim realizuje on umowę zawartą przez podmiot wnioskujący z podwykonawcą;
 
 - **2)** wglądu do dokumentacji niezbędnej do realizacji celu wizyty autoryzacyjnej, dotyczącej miejsca udzielania świadczeń opieki zdrowotnej, personelu w podmiocie wnioskującym oraz jego podwykonawcy, sprzętu i aparatury medycznej, określonych w przepisach wydanych na podstawie art. 31d i art. 31da ust. 1 ustawy o świadczeniach, struktury organizacyjnej i funkcjonowania tego podmiotu oraz związanej z wewnętrznym systemem;
 - **3)** uzyskiwania ustnych i pisemnych wyjaśnień od kierownika podmiotu wnioskującego lub osoby przez niego upoważnionej.
@@ -204,7 +204,7 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 4. W przypadku gdy zawarta z Funduszem umowa o udzielanie świadczeń opieki zdrowotnej objętych autoryzacją zostanie rozwiązana z powodu:
 
 - **1)** utraty przez podmiot wnioskujący uprawnień koniecznych do udzielania świadczeń opieki zdrowotnej,
-- **2)** udzielania świadczeń opieki zdrowotnej w sposób niespełniający warunków wydania autoryzacji, o których mowa w art. 7 Prezes Funduszu cofa autoryzację w zakresie świadczeń objętych umową nie później niż w terminie 14 dni od dnia rozwiązania tej umowy.
+- **2)** udzielania świadczeń opieki zdrowotnej w sposób niespełniający warunków wydania autoryzacji, o których mowa w art. 7 – Prezes Funduszu cofa autoryzację w zakresie świadczeń objętych umową nie później niż w terminie 14 dni od dnia rozwiązania tej umowy.
 
 5. W przypadku zmiany warunków realizacji świadczeń gwarantowanych w rozumieniu art. 5 pkt 35 ustawy o świadczeniach, w zakresie świadczeń objętych autoryzacją, dotychczas wydana autoryzacja zachowuje ważność przez okres, na jaki została wydana.
 
@@ -309,20 +309,20 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 1. Ocena spełniania przez podmiot wnioskujący o udzielenie akredytacji pojedynczych standardów akredytacyjnych jest dokonywana według skali punktowej:
 
 - **1)** trzystopniowej:
-    - **a)** 1 punkt nie spełnia wymagań standardu akredytacyjnego,
-    - **b)** 3 punkty spełnia częściowo wymagania standardu akredytacyjnego,
-    - **c)** 5 punktów spełnia wymagania standardu akredytacyjnego;
+    - **a)** 1 punkt – nie spełnia wymagań standardu akredytacyjnego,
+    - **b)** 3 punkty – spełnia częściowo wymagania standardu akredytacyjnego,
+    - **c)** 5 punktów – spełnia wymagania standardu akredytacyjnego;
 
 - **2)** dwustopniowej:
-    - **a)** 1 punkt nie spełnia wymagań standardu akredytacyjnego,
-    - **b)** 5 punktów spełnia wymagania standardu akredytacyjnego.
+    - **a)** 1 punkt – nie spełnia wymagań standardu akredytacyjnego,
+    - **b)** 5 punktów – spełnia wymagania standardu akredytacyjnego.
 
 2. Każdy pojedynczy standard akredytacyjny posiada wagę w postaci przypisanej mu liczby:
 
-- **1)** 1 dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu;
-- **2)** 0,75 dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu, ale trudnego do wprowadzenia z uwagi na konieczność istotnych zmian organizacyjnych lub związanego z nakładami finansowymi;
-- **3)** 0,5 dla pojedynczego standardu akredytacyjnego związanego z opisem procedur i postępowania;
-- **4)** 0,25 dla pojedynczego standardu akredytacyjnego niemającego istotnego wpływu na bezpieczeństwo pacjenta i personelu.
+- **1)** 1 – dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu;
+- **2)** 0,75 – dla pojedynczego standardu akredytacyjnego istotnego dla bezpieczeństwa pacjenta i personelu, ale trudnego do wprowadzenia z uwagi na konieczność istotnych zmian organizacyjnych lub związanego z nakładami finansowymi;
+- **3)** 0,5 – dla pojedynczego standardu akredytacyjnego związanego z opisem procedur i postępowania;
+- **4)** 0,25 – dla pojedynczego standardu akredytacyjnego niemającego istotnego wpływu na bezpieczeństwo pacjenta i personelu.
 
 3. Ocena standardu akredytacyjnego polega na ustaleniu iloczynu wagi standardu akredytacyjnego i oceny uzyskanej w skali punktowej.
 
@@ -472,7 +472,7 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
     - **a)** siedziby podmiotu wnioskującego o udzielenie akredytacji,
     - **b)** miejsca prowadzenia działalności przez podmiot wnioskujący o udzielenie akredytacji,
     - **c)** miejsca udzielania świadczeń opieki zdrowotnej przez podmiot wnioskujący o udzielenie akredytacji,
-    - **d)** miejsca udzielania świadczeń opieki zdrowotnej przez: podwykonawcę w zakresie, w jakim realizuje on umowę o udzielanie świadczeń opieki zdrowotnej zawartą między nim a podmiotem wnioskującym o udzielenie akredytacji, osobę trzecią wykonującą zawód medyczny w związku z powierzeniem tej osobie niektórych czynności na podstawie umów lub porozumień zawartych z podmiotem wnioskującym o udzielenie akredytacji;
+    - **d)** miejsca udzielania świadczeń opieki zdrowotnej przez: – podwykonawcę w zakresie, w jakim realizuje on umowę o udzielanie świadczeń opieki zdrowotnej zawartą między nim a podmiotem wnioskującym o udzielenie akredytacji, – osobę trzecią wykonującą zawód medyczny w związku z powierzeniem tej osobie niektórych czynności na podstawie umów lub porozumień zawartych z podmiotem wnioskującym o udzielenie akredytacji;
 
 - **2)** wglądu do dokumentacji medycznej na zasadach określonych w art. 26 ust. 3 pkt 8 ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692) w zakresie niezbędnym do przeprowadzenia przeglądu akredytacyjnego;
 - **3)** wglądu do innej dokumentacji niezbędnej do przeprowadzenia przeglądu akredytacyjnego dotyczącej kwalifikacji, ewidencji czasu pracy i zakresu obowiązków personelu podmiotu wnioskującego o udzielenie akredytacji oraz struktury organizacyjnej i funkcjonowania tego podmiotu;
@@ -567,8 +567,8 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Akredytacja zachowuje ważność przez okres, na jaki jej udzielono, dla podmiotu, który został przekształcony na zasadach określonych:
 
-- **1)** w art. 551–563, art. 567–577 i art. 579–584 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825),
-- **2)** dla samodzielnego publicznego zakładu opieki zdrowotnej zgodnie z art. 69 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej o ile nie doszło do zmiany rodzaju działalności leczniczej albo zakresu świadczeń przez ten podmiot.
+- **1)** w art. 551–563, art. 567–577 i art. 579–584 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2022 r. poz. 1467, 1488, 2280 i 2436 oraz z 2023 r. poz. 739 i 825),
+- **2)** dla samodzielnego publicznego zakładu opieki zdrowotnej zgodnie z art. 69 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej – o ile nie doszło do zmiany rodzaju działalności leczniczej albo zakresu świadczeń przez ten podmiot.
 
 2. W przypadku, o którym mowa w ust. 1, nie wydaje się nowego certyfikatu akredytacyjnego.
 
@@ -640,8 +640,8 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 
 1. Wizytator otrzymuje wynagrodzenie na podstawie umowy zawartej z osobą kierującą ośrodkiem akredytacyjnym, za każdy dzień przeglądu akredytacyjnego w wysokości nie wyższej niż:
 
-- **1)** 50% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 w przypadku koordynatora;
-- **2)** 40% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 w przypadku wizytatora.
+- **1)** 50% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 – w przypadku koordynatora;
+- **2)** 40% przeciętnego miesięcznego wynagrodzenia, o którym mowa w art. 40 ust. 2 – w przypadku wizytatora.
 
 2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość wynagrodzenia wizytatora oraz koordynatora, uwzględniając zakres ich zadań.
 
@@ -752,7 +752,7 @@ o jakości w opiece zdrowotnej i bezpieczeństwie pacjenta
 1. Członkom Rady Akredytacyjnej przysługuje:
 
 - **1)** wynagrodzenie nieprzekraczające 60% średniego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, włącznie z wypłatami z zysku, za pierwszy kwartał poprzedniego roku, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”, za udział w każdym posiedzeniu Rady Akredytacyjnej;
-- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
+- **2)** zwrot kosztów przejazdu w wysokości i na warunkach określonych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465).
 
 2. W przypadku gdy w danym miesiącu Rada Akredytacyjna odbywa więcej niż jedno posiedzenie, jej członkom przysługuje wynagrodzenie za udział w 2 posiedzeniach.
 

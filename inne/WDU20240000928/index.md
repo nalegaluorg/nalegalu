@@ -8,9 +8,12 @@ pos: 928
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 czerwca 2024 r.
+# o ochronie sygnalistów
+
+*USTAWA z dnia 14 czerwca 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2024-06-24 |
 | Ostatnia zmiana | 2025-08-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000928) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/928/text.pdf) |
-
-USTAWA z dnia 14 czerwca 2024 r.
-o ochronie sygnalistów
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -53,7 +53,7 @@ o ochronie sygnalistów
 - **14)** bezpieczeństwa sieci i systemów teleinformatycznych;
 - **15)** interesów finansowych Skarbu Państwa Rzeczypospolitej Polskiej, jednostki samorządu terytorialnego oraz Unii Europejskiej;
 - **16)** rynku wewnętrznego Unii Europejskiej, w tym publicznoprawnych zasad konkurencji i pomocy państwa oraz opodatkowania osób prawnych;
-- **17)** konstytucyjnych wolności i praw człowieka i obywatela występujące w stosunkach jednostki z organami władzy publicznej i niezwiązane z dziedzinami wskazanymi w pkt 1–16.
+- **17)** konstytucyjnych wolności i praw człowieka i obywatela – występujące w stosunkach jednostki z organami władzy publicznej i niezwiązane z dziedzinami wskazanymi w pkt 1–16.
 
 2. Podmiot prawny może dodatkowo w ramach procedury zgłoszeń wewnętrznych przewidzieć możliwość zgłaszania informacji o naruszeniach dotyczących obowiązujących w tym podmiocie prawnym regulacji wewnętrznych lub standardów etycznych, które zostały ustanowione przez podmiot prawny na podstawie przepisów prawa powszechnie obowiązującego i pozostają z nimi zgodne. W takim przypadku nie stosuje się przepisów rozdziałów 4 i 5.
 
@@ -84,13 +84,13 @@ o ochronie sygnalistów
 - **1)** przepisami o ochronie informacji niejawnych oraz innych informacji, które nie podlegają ujawnieniu z mocy przepisów prawa powszechnie obowiązującego ze względów bezpieczeństwa publicznego;
 - **2)** tajemnicą zawodową zawodów medycznych oraz prawniczych;
 - **3)** tajemnicą narady sędziowskiej;
-- **4)** postępowaniem karnym w zakresie tajemnicy postępowania przygotowawczego oraz tajemnicy rozprawy sądowej prowadzonej z wyłączeniem jawności.
+- **4)** postępowaniem karnym – w zakresie tajemnicy postępowania przygotowawczego oraz tajemnicy rozprawy sądowej prowadzonej z wyłączeniem jawności.
 
-2. Ustawy nie stosuje się do naruszeń prawa w zakresie zamówień w dziedzinach obronności i bezpieczeństwa w rozumieniu art. 7 pkt 36 ustawy z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), do których nie stosuje się tej ustawy, umów offsetowych zawieranych na podstawie ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 1218) oraz innych środków podejmowanych w celu ochrony podstawowych lub istotnych interesów bezpieczeństwa państwa na podstawie art. 346 Traktatu o funkcjonowaniu Unii Europejskiej.
+2. Ustawy nie stosuje się do naruszeń prawa w zakresie zamówień w dziedzinach obronności i bezpieczeństwa w rozumieniu art. 7 pkt 36 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i 1720), do których nie stosuje się tej ustawy, umów offsetowych zawieranych na podstawie ustawy z dnia 26 czerwca 2014 r. o niektórych umowach zawieranych w związku z realizacją zamówień o podstawowym znaczeniu dla bezpieczeństwa państwa (Dz. U. z 2022 r. poz. 1218) oraz innych środków podejmowanych w celu ochrony podstawowych lub istotnych interesów bezpieczeństwa państwa na podstawie art. 346 Traktatu o funkcjonowaniu Unii Europejskiej.
 
 3. Przepisów rozdziału 5 nie stosuje się do naruszeń prawa bezpośrednio związanych z realizacją przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2024 r. poz. 812), ustawowych zadań mających na celu zapewnienie bezpieczeństwa narodowego.
 
-4. Organem publicznym właściwym do przyjęcia zgłoszenia zewnętrznego dotyczącego naruszenia prawa przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, oraz realizacji zadań, o których mowa w rozdziale 4, jest Prezes Rady Ministrów albo Minister Koordynator Służb Specjalnych, w przypadku jego powołania.
+4. Organem publicznym właściwym do przyjęcia zgłoszenia zewnętrznego dotyczącego naruszenia prawa przez służby specjalne, o których mowa w art. 11 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu, oraz realizacji zadań, o których mowa w rozdziale 4, jest Prezes Rady Ministrów albo Minister – Koordynator Służb Specjalnych, w przypadku jego powołania.
 
 **Art. 6.** Sygnalista podlega ochronie określonej w przepisach rozdziału 2 od chwili dokonania zgłoszenia lub ujawnienia publicznego, pod warunkiem że miał uzasadnione podstawy sądzić, że informacja będąca przedmiotem zgłoszenia lub ujawnienia publicznego jest prawdziwa w momencie dokonywania zgłoszenia lub ujawnienia publicznego i że stanowi informację o naruszeniu prawa.
 
@@ -142,7 +142,7 @@ o ochronie sygnalistów
 
 - **1)** odmowie nawiązania stosunku pracy;
 - **2)** wypowiedzeniu lub rozwiązaniu bez wypowiedzenia stosunku pracy;
-- **3)** niezawarciu umowy o pracę na czas określony lub umowy o pracę na czas nieokreślony po rozwiązaniu umowy o pracę na okres próbny, niezawarciu kolejnej umowy o pracę na czas określony lub niezawarciu umowy o pracę na czas nieokreślony po rozwiązaniu umowy o pracę na czas określony w przypadku gdy sygnalista miał uzasadnione oczekiwanie, że zostanie z nim zawarta taka umowa;
+- **3)** niezawarciu umowy o pracę na czas określony lub umowy o pracę na czas nieokreślony po rozwiązaniu umowy o pracę na okres próbny, niezawarciu kolejnej umowy o pracę na czas określony lub niezawarciu umowy o pracę na czas nieokreślony po rozwiązaniu umowy o pracę na czas określony – w przypadku gdy sygnalista miał uzasadnione oczekiwanie, że zostanie z nim zawarta taka umowa;
 - **4)** obniżeniu wysokości wynagrodzenia za pracę;
 - **5)** wstrzymaniu awansu albo pominięciu przy awansowaniu;
 - **6)** pominięciu przy przyznawaniu innych niż wynagrodzenie świadczeń związanych z pracą lub obniżeniu wysokości tych świadczeń;
@@ -189,7 +189,7 @@ o ochronie sygnalistów
 
 **Art. 17.** Nie można zrzec się praw określonych w niniejszym rozdziale ani przyjąć na siebie odpowiedzialności za szkodę powstałą z powodu dokonania zgłoszenia lub ujawnienia publicznego. Nie dotyczy to przyjęcia odpowiedzialności za szkodę powstałą z powodu świadomego zgłoszenia lub ujawnienia publicznego nieprawdziwych informacji.
 
-**Art. 18.** Postanowienia aktów prawnych, o których mowa w art. 9 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878), w zakresie, w jakim bezpośrednio lub pośrednio wyłączają lub ograniczają prawo do dokonania zgłoszenia lub ujawnienia publicznego lub przewidują stosowanie środków odwetowych, nie obowiązują.
+**Art. 18.** Postanowienia aktów prawnych, o których mowa w art. 9 § 2 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2023 r. poz. 1465 oraz z 2024 r. poz. 878), w zakresie, w jakim bezpośrednio lub pośrednio wyłączają lub ograniczają prawo do dokonania zgłoszenia lub ujawnienia publicznego lub przewidują stosowanie środków odwetowych, nie obowiązują.
 
 **Art. 19.** Postanowienia umów o pracę oraz innych aktów, na podstawie których powstaje stosunek pracy lub które kształtują prawa i obowiązki stron stosunku pracy, w zakresie, w jakim bezpośrednio lub pośrednio wyłączają lub ograniczają prawo do dokonania zgłoszenia lub ujawnienia publicznego lub przewidują stosowanie środków odwetowych, są nieważne.
 
@@ -244,8 +244,8 @@ o ochronie sygnalistów
 - **4)** tryb postępowania z informacjami o naruszeniach prawa zgłoszonymi anonimowo;
 - **5)** obowiązek potwierdzenia sygnaliście przyjęcia zgłoszenia wewnętrznego w terminie 7 dni od dnia jego otrzymania, chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać potwierdzenie;
 - **6)** obowiązek podjęcia, z zachowaniem należytej staranności, działań następczych przez wewnętrzną jednostkę organizacyjną lub osobę, o których mowa w pkt 3;
-- **7)** maksymalny termin na przekazanie sygnaliście informacji zwrotnej, nieprzekraczający 3 miesięcy od dnia potwierdzenia przyjęcia zgłoszenia wewnętrznego lub w przypadku nieprzekazania potwierdzenia, o którym mowa w pkt 5 3 miesięcy od upływu 7 dni od dnia dokonania zgłoszenia wewnętrznego, chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać informację zwrotną;
-- **8)** zrozumiałe i łatwo dostępne informacje na temat dokonywania zgłoszeń zewnętrznych do Rzecznika Praw Obywatelskich albo organów publicznych oraz w stosownych przypadkach do instytucji, organów lub jednostek organizacyjnych Unii Europejskiej.
+- **7)** maksymalny termin na przekazanie sygnaliście informacji zwrotnej, nieprzekraczający 3 miesięcy od dnia potwierdzenia przyjęcia zgłoszenia wewnętrznego lub – w przypadku nieprzekazania potwierdzenia, o którym mowa w pkt 5 – 3 miesięcy od upływu 7 dni od dnia dokonania zgłoszenia wewnętrznego, chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać informację zwrotną;
+- **8)** zrozumiałe i łatwo dostępne informacje na temat dokonywania zgłoszeń zewnętrznych do Rzecznika Praw Obywatelskich albo organów publicznych oraz – w stosownych przypadkach – do instytucji, organów lub jednostek organizacyjnych Unii Europejskiej.
 
 2. Procedura zgłoszeń wewnętrznych może dodatkowo objąć w szczególności:
 
@@ -341,10 +341,10 @@ o ochronie sygnalistów
 
 - **1)** ustala procedurę przyjmowania zgłoszeń zewnętrznych, która określa w szczególności tryb postępowania z informacjami o naruszeniach prawa zgłoszonymi anonimowo;
 - **2)** przyjmuje zgłoszenia zewnętrzne o naruszeniach prawa w dziedzinach wskazanych w art. 3 ust. 1 pkt 1–16, dokonuje ich wstępnej weryfikacji i przekazuje je organowi publicznemu właściwemu do podjęcia działań następczych;
-- **3)** przyjmuje i rozpatruje zgłoszenia zewnętrzne w przypadku gdy zgłoszenie dotyczy naruszenia prawa w dziedzinie wskazanej w art. 3 ust. 1 pkt 17 i żaden inny organ publiczny nie jest właściwy do podjęcia działań następczych;
+- **3)** przyjmuje i rozpatruje zgłoszenia zewnętrzne – w przypadku gdy zgłoszenie dotyczy naruszenia prawa w dziedzinie wskazanej w art. 3 ust. 1 pkt 17 i żaden inny organ publiczny nie jest właściwy do podjęcia działań następczych;
 - **4)** zapewnia powszechny dostęp do informacji na temat praw i środków ochrony prawnej sygnalistów oraz osób, o których mowa w art. 21, przed działaniami odwetowymi oraz praw osób, których dotyczy zgłoszenie zewnętrzne, w szczególności przez zamieszczanie tych informacji na swojej stronie w Biuletynie Informacji Publicznej;
 - **5)** udziela sygnalistom, osobom, o których mowa w art. 21, oraz osobom, których dotyczy zgłoszenie zewnętrzne, porad w zakresie, o którym mowa w pkt 4;
-- **6)** udziela sygnalistom oraz osobom, o których mowa w art. 21, informacji o organach, które w zakresie realizowanych zadań mogą podjąć działania służące ochronie sygnalistów przed działaniami odwetowymi, oraz w odpowiednich przypadkach wsparcia w kontaktach z takimi organami, w szczególności przez poinformowanie właściwych organów o dostrzeżonej konieczności objęcia sygnalisty ochroną.
+- **6)** udziela sygnalistom oraz osobom, o których mowa w art. 21, informacji o organach, które w zakresie realizowanych zadań mogą podjąć działania służące ochronie sygnalistów przed działaniami odwetowymi, oraz – w odpowiednich przypadkach – wsparcia w kontaktach z takimi organami, w szczególności przez poinformowanie właściwych organów o dostrzeżonej konieczności objęcia sygnalisty ochroną.
 
 2. Rozpatrywanie zgłoszeń zewnętrznych przez Rzecznika Praw Obywatelskich, o których mowa w ust. 1 pkt 3, obejmuje czynności określone w art. 11, art. 12 oraz art. 13 ust. 1, 2 i 3 ustawy z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz. U. z 2023 r. poz. 1058 oraz z 2024 r. poz. 928).
 
@@ -362,7 +362,7 @@ o ochronie sygnalistów
 
 6. Odstępując od przekazania zgłoszenia zewnętrznego, Rzecznik Praw Obywatelskich może poinformować sygnalistę, że informacja objęta zgłoszeniem podlega rozpatrzeniu w trybie przewidzianym w przepisach odrębnych, w szczególności jako przedmiot powództwa cywilnego, zawiadomienia o podejrzeniu popełnienia przestępstwa, skargi do sądu administracyjnego, skargi, wniosku lub petycji, lub może zostać przedstawiona właściwym organom do rozpatrzenia w innym trybie. Poinformowanie sygnalisty nie wpływa w szczególności na dopuszczalność wniesionego później środka prawnego, na bieg terminów ani na treść rozstrzygnięcia lub sposób zakończenia postępowania. Informacja przekazana sygnaliście zawiera pouczenie w tym zakresie.
 
-7. Przekazanie zgłoszenia, o którym mowa w ust. 2, oraz odstąpienie od przekazania zgłoszenia, o którym mowa w ust. 4, nie stanowią czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860).
+7. Przekazanie zgłoszenia, o którym mowa w ust. 2, oraz odstąpienie od przekazania zgłoszenia, o którym mowa w ust. 4, nie stanowią czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2023 r. poz. 1634, 1705 i 1860).
 
 **Art. 33.** Organ publiczny ustala procedurę przyjmowania zgłoszeń zewnętrznych oraz podejmowania działań następczych, która określa w szczególności tryb postępowania z informacjami o naruszeniach prawa zgłoszonymi anonimowo, zwaną dalej „procedurą zgłoszeń zewnętrznych”.
 
@@ -371,17 +371,17 @@ o ochronie sygnalistów
 1. Organ publiczny:
 
 - **1)** przyjmuje zgłoszenie zewnętrzne;
-- **2)** dokonuje wstępnej weryfikacji zgłoszenia zewnętrznego, polegającej na ustaleniu, czy zgłoszenie dotyczy informacji o naruszeniu prawa, oraz na ustaleniu, czy zgłoszenie dotyczy naruszeń prawa w dziedzinie należącej do zakresu działania tego organu, a jeżeli nie należy na ustaleniu organu publicznego właściwego do podjęcia działań następczych;
-- **3)** rozpatruje zgłoszenie zewnętrzne w przypadku gdy zgłoszenie dotyczy naruszeń prawa w dziedzinie należącej do zakresu działania tego organu;
-- **4)** przekazuje zgłoszenie zewnętrzne niezwłocznie, nie później jednak niż w terminie 14 dni od dnia dokonania zgłoszenia, a w uzasadnionych przypadkach nie później niż w terminie 30 dni, do organu publicznego właściwego do podjęcia działań następczych w przypadku gdy zgłoszenie dotyczy naruszeń prawa w dziedzinie nienależącej do zakresu działania tego organu oraz informuje o tym sygnalistę;
+- **2)** dokonuje wstępnej weryfikacji zgłoszenia zewnętrznego, polegającej na ustaleniu, czy zgłoszenie dotyczy informacji o naruszeniu prawa, oraz na ustaleniu, czy zgłoszenie dotyczy naruszeń prawa w dziedzinie należącej do zakresu działania tego organu, a jeżeli nie należy – na ustaleniu organu publicznego właściwego do podjęcia działań następczych;
+- **3)** rozpatruje zgłoszenie zewnętrzne – w przypadku gdy zgłoszenie dotyczy naruszeń prawa w dziedzinie należącej do zakresu działania tego organu;
+- **4)** przekazuje zgłoszenie zewnętrzne niezwłocznie, nie później jednak niż w terminie 14 dni od dnia dokonania zgłoszenia, a w uzasadnionych przypadkach – nie później niż w terminie 30 dni, do organu publicznego właściwego do podjęcia działań następczych – w przypadku gdy zgłoszenie dotyczy naruszeń prawa w dziedzinie nienależącej do zakresu działania tego organu – oraz informuje o tym sygnalistę;
 - **5)** podejmuje działania następcze z zachowaniem należytej staranności;
 - **6)** przekazuje sygnaliście informację zwrotną.
 
 2. Przepisy art. 32 ust. 4–6 stosuje się odpowiednio.
 
-3. W przypadku gdy informacja o naruszeniu prawa jest przedmiotem jednocześnie dokonanego zgłoszenia zewnętrznego oraz wniesionej skargi, o której mowa w art. 227 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), lub gdy z treści wniesionego pisma wynika, że dokonano zgłoszenia zewnętrznego, stosuje się wyłącznie przepisy niniejszego rozdziału.
+3. W przypadku gdy informacja o naruszeniu prawa jest przedmiotem jednocześnie dokonanego zgłoszenia zewnętrznego oraz wniesionej skargi, o której mowa w art. 227 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), lub gdy z treści wniesionego pisma wynika, że dokonano zgłoszenia zewnętrznego, stosuje się wyłącznie przepisy niniejszego rozdziału.
 
-4. W przypadku gdy przepisy odrębne nie pozwalają ustalić organu właściwego do rozstrzygnięcia sporu o właściwość między organami publicznymi, w zakresie rozpatrzenia zgłoszenia zewnętrznego lub podjęcia działań następczych, stosuje się odpowiednio przepisy art. 22 i art. 23 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+4. W przypadku gdy przepisy odrębne nie pozwalają ustalić organu właściwego do rozstrzygnięcia sporu o właściwość między organami publicznymi, w zakresie rozpatrzenia zgłoszenia zewnętrznego lub podjęcia działań następczych, stosuje się odpowiednio przepisy art. 22 i art. 23 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 **Art. 35.**
 
@@ -398,8 +398,8 @@ o ochronie sygnalistów
 
 2. Zgłoszenie zewnętrzne w formie dokumentowej może być dokonane:
 
-- **1)** w postaci papierowej na adres do korespondencji wskazany przez Rzecznika Praw Obywatelskich lub organ publiczny przyjmujący zgłoszenie;
-- **2)** w postaci elektronicznej na adres poczty elektronicznej lub adres elektronicznej skrzynki podawczej, lub adres do doręczeń elektronicznych, wskazane przez Rzecznika Praw Obywatelskich lub organ publiczny przyjmujący zgłoszenie, lub za pośrednictwem przeznaczonego do tego formularza internetowego lub aplikacji wskazanej przez organ publiczny jako aplikacja właściwa do dokonywania zgłoszeń w postaci elektronicznej.
+- **1)** w postaci papierowej – na adres do korespondencji wskazany przez Rzecznika Praw Obywatelskich lub organ publiczny przyjmujący zgłoszenie;
+- **2)** w postaci elektronicznej – na adres poczty elektronicznej lub adres elektronicznej skrzynki podawczej, lub adres do doręczeń elektronicznych, wskazane przez Rzecznika Praw Obywatelskich lub organ publiczny przyjmujący zgłoszenie, lub za pośrednictwem przeznaczonego do tego formularza internetowego lub aplikacji wskazanej przez organ publiczny jako aplikacja właściwa do dokonywania zgłoszeń w postaci elektronicznej.
 
 **Art. 37.** Rzecznik Praw Obywatelskich albo organ publiczny, który przyjął zgłoszenie zewnętrzne, przesyła sygnaliście niezwłocznie, nie później jednak niż w terminie 7 dni od dnia przyjęcia zgłoszenia, potwierdzenie jego przyjęcia, chyba że sygnalista wystąpił wyraźnie z odmiennym wnioskiem w tym zakresie lub Rzecznik Praw Obywatelskich albo organ publiczny ma uzasadnione podstawy sądzić, że potwierdzenie przyjęcia zgłoszenia zagroziłoby ochronie poufności tożsamości sygnalisty.
 
@@ -420,9 +420,9 @@ o ochronie sygnalistów
 
 **Art. 40.**
 
-1. Rzecznik Praw Obywatelskich może pozostawić bez rozpoznania zgłoszenie zewnętrzne w przypadku, gdy odstąpił od przekazania wcześniejszego zgłoszenia zewnętrznego organowi publicznemu właściwemu do podjęcia działań następczych, albo w przypadku, gdy w zgłoszeniu zewnętrznym dotyczącym sprawy będącej już przedmiotem wcześniejszego zgłoszenia przez tego samego lub innego sygnalistę nie zawarto istotnych nowych informacji na temat naruszeń prawa w porównaniu z wcześniejszym zgłoszeniem zewnętrznym. Rzecznik Praw Obywatelskich informuje sygnalistę o pozostawieniu zgłoszenia bez rozpoznania, podając uzasadnienie, a w razie kolejnego zgłoszenia pozostawia je bez rozpoznania i nie informuje o tym sygnalisty.
+1. Rzecznik Praw Obywatelskich może pozostawić bez rozpoznania zgłoszenie zewnętrzne w przypadku, gdy odstąpił od przekazania wcześniejszego zgłoszenia zewnętrznego organowi publicznemu właściwemu do podjęcia działań następczych, albo w przypadku, gdy w zgłoszeniu zewnętrznym dotyczącym sprawy będącej już przedmiotem wcześniejszego zgłoszenia przez tego samego lub innego sygnalistę nie zawarto istotnych nowych informacji na temat naruszeń prawa w porównaniu z wcześniejszym zgłoszeniem zewnętrznym. Rzecznik Praw Obywatelskich informuje sygnalistę o pozostawieniu zgłoszenia bez rozpoznania, podając uzasadnienie, a w razie kolejnego zgłoszenia – pozostawia je bez rozpoznania i nie informuje o tym sygnalisty.
 
-2. Organ publiczny może nie podjąć działań następczych w przypadku, gdy w zgłoszeniu zewnętrznym dotyczącym sprawy będącej już przedmiotem wcześniejszego zgłoszenia przez tego samego lub innego sygnalistę nie zawarto istotnych nowych informacji na temat naruszeń prawa w porównaniu z wcześniejszym zgłoszeniem zewnętrznym. Organ publiczny informuje sygnalistę o niepodjęciu działań następczych, podając uzasadnienie, a w razie kolejnego zgłoszenia pozostawia je bez rozpoznania i nie informuje o tym sygnalisty.
+2. Organ publiczny może nie podjąć działań następczych w przypadku, gdy w zgłoszeniu zewnętrznym dotyczącym sprawy będącej już przedmiotem wcześniejszego zgłoszenia przez tego samego lub innego sygnalistę nie zawarto istotnych nowych informacji na temat naruszeń prawa w porównaniu z wcześniejszym zgłoszeniem zewnętrznym. Organ publiczny informuje sygnalistę o niepodjęciu działań następczych, podając uzasadnienie, a w razie kolejnego zgłoszenia – pozostawia je bez rozpoznania i nie informuje o tym sygnalisty.
 
 3. W przypadkach, o których mowa w ust. 1 i 2, Rzecznik Praw Obywatelskich albo organ publiczny odnotowuje ten fakt wraz z uzasadnieniem w rejestrze, o którym mowa w art. 45 albo art. 46.
 
@@ -457,13 +457,13 @@ o ochronie sygnalistów
 
 1. Rzecznik Praw Obywatelskich upoważnia spośród pracowników Biura Rzecznika Praw Obywatelskich osoby uprawnione do:
 
-- **1)** przyjmowania zgłoszeń zewnętrznych, dokonywania ich wstępnej weryfikacji oraz informowania sygnalisty zgodnie z art. 32 ust. 3, 5 i 6;
+- **1)** przyjmowania zgłoszeń zewnętrznych, dokonywania ich wstępnej weryfikacji oraz informowania sygnalisty – zgodnie z art. 32 ust. 3, 5 i 6;
 - **2)** przekazywania zainteresowanym osobom informacji na temat procedury przyjmowania zgłoszeń zewnętrznych.
 
 2. Organ publiczny upoważnia spośród pracowników urzędu obsługującego ten organ osoby uprawnione do:
 
 - **1)** przyjmowania zgłoszeń zewnętrznych, dokonywania ich wstępnej weryfikacji, podejmowania działań następczych oraz związanego z tym przetwarzania danych osobowych;
-- **2)** kontaktu z sygnalistą w celu przekazywania informacji zwrotnych i w razie potrzeby zwracania się o wyjaśnienia lub dodatkowe informacje w zakresie przekazanych informacji, jakie mogą być w jego posiadaniu;
+- **2)** kontaktu z sygnalistą w celu przekazywania informacji zwrotnych i – w razie potrzeby – zwracania się o wyjaśnienia lub dodatkowe informacje w zakresie przekazanych informacji, jakie mogą być w jego posiadaniu;
 - **3)** przekazywania zainteresowanym osobom informacji na temat procedury zgłoszeń zewnętrznych.
 
 3. Osoby, o których mowa w ust. 1 lub 2, są wyznaczane na podstawie kwalifikacji zawodowych, w szczególności wiedzy fachowej na temat prawa i praktyk w dziedzinie ochrony danych osobowych oraz umiejętności wypełniania powierzonych zadań.
@@ -475,7 +475,7 @@ o ochronie sygnalistów
 6. Jeżeli zgłoszenie zewnętrze zostało przyjęte przez nieupoważnionego pracownika Biura Rzecznika Praw Obywatelskich albo urzędu obsługującego organ publiczny, pracownik ten jest obowiązany do:
 
 - **1)** nieujawniania informacji mogących skutkować ustaleniem tożsamości sygnalisty lub osoby, której dotyczy zgłoszenie;
-- **2)** niezwłocznego przekazania zgłoszenia upoważnionemu pracownikowi odpowiednio Biura Rzecznika Praw Obywatelskich albo urzędu obsługującego organ publiczny bez wprowadzania zmian w tym zgłoszeniu.
+- **2)** niezwłocznego przekazania zgłoszenia upoważnionemu pracownikowi odpowiednio Biura Rzecznika Praw Obywatelskich albo urzędu obsługującego organ publiczny – bez wprowadzania zmian w tym zgłoszeniu.
 
 7. Przepis ust. 6 stosuje się odpowiednio w przypadku, gdy zgłoszenie zewnętrzne otrzymano za pośrednictwem innych środków komunikacji niż przyjęte zgodnie z procedurą przyjmowania zgłoszeń zewnętrznych lub procedurą zgłoszeń zewnętrznych.
 
@@ -519,7 +519,7 @@ o ochronie sygnalistów
 - **6)** informację o wydaniu zaświadczenia, o którym mowa w art. 38;
 - **7)** datę zakończenia sprawy;
 - **8)** informacje o niepodejmowaniu dalszych działań w przypadku, o którym mowa w art. 40 ust. 2;
-- **9)** szacunkową szkodę majątkową, jeżeli została stwierdzona, oraz kwoty odzyskane w wyniku postępowań dotyczących naruszeń prawa będących przedmiotem zgłoszenia o ile organ publiczny posiada te dane.
+- **9)** szacunkową szkodę majątkową, jeżeli została stwierdzona, oraz kwoty odzyskane w wyniku postępowań dotyczących naruszeń prawa będących przedmiotem zgłoszenia – o ile organ publiczny posiada te dane.
 
 4. Dane osobowe oraz pozostałe informacje zawarte w rejestrze zgłoszeń zewnętrznych są przechowywane przez okres 3 lat po zakończeniu roku kalendarzowego, w którym zakończono działania następcze, lub po zakończeniu postępowań zainicjowanych tymi działaniami.
 
@@ -529,7 +529,7 @@ o ochronie sygnalistów
 
 - **1)** liczbę przyjętych zgłoszeń zewnętrznych;
 - **2)** liczbę postępowań wyjaśniających i postępowań wszczętych w wyniku przyjętych zgłoszeń zewnętrznych oraz informacje na temat wyniku tych postępowań;
-- **3)** szacunkową szkodę majątkową, jeżeli została stwierdzona, oraz kwoty odzyskane w wyniku postępowań dotyczących naruszeń prawa będących przedmiotem zgłoszenia zewnętrznego o ile organ publiczny posiada te dane.
+- **3)** szacunkową szkodę majątkową, jeżeli została stwierdzona, oraz kwoty odzyskane w wyniku postępowań dotyczących naruszeń prawa będących przedmiotem zgłoszenia zewnętrznego – o ile organ publiczny posiada te dane.
 
 2. Dane statystyczne, o których mowa w ust. 1, nie obejmują danych osobowych ani informacji stanowiących tajemnicę przedsiębiorstwa.
 
@@ -566,7 +566,7 @@ o ochronie sygnalistów
 
 2. Rzecznik Praw Obywatelskich oraz organ publiczny dostosowują procedury, o których mowa w ust. 1, odpowiednio do wyników dokonanego przeglądu oraz doświadczenia własnego lub innych organów publicznych.
 
-**Art. 50.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed organami publicznymi stosuje się odpowiednio przepisy działów VII i VIII ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+**Art. 50.** W zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed organami publicznymi stosuje się odpowiednio przepisy działów VII i VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
 
 #### Rozdział 5 Ujawnienie publiczne
 
@@ -575,7 +575,7 @@ o ochronie sygnalistów
 1. Sygnalista dokonujący ujawnienia publicznego podlega ochronie, jeżeli dokona:
 
 - **1)** zgłoszenia wewnętrznego, a następnie zgłoszenia zewnętrznego, a podmiot prawny, a następnie organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w procedurze wewnętrznej, a następnie w terminie na przekazanie informacji zwrotnej ustalonym w procedurze zewnętrznej organu publicznego nie podejmą żadnych odpowiednich działań następczych ani nie przekażą sygnaliście informacji zwrotnej lub
-- **2)** od razu zgłoszenia zewnętrznego, a organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w swojej procedurze zewnętrznej nie podejmie żadnych odpowiednich działań następczych ani nie przekaże sygnaliście informacji zwrotnej chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać taką informację.
+- **2)** od razu zgłoszenia zewnętrznego, a organ publiczny w terminie na przekazanie informacji zwrotnej ustalonym w swojej procedurze zewnętrznej nie podejmie żadnych odpowiednich działań następczych ani nie przekaże sygnaliście informacji zwrotnej – chyba że sygnalista nie podał adresu do kontaktu, na który należy przekazać taką informację.
 
 2. Sygnalista dokonujący ujawnienia publicznego podlega ochronie także w przypadku, gdy ma uzasadnione podstawy sądzić, że:
 
@@ -583,9 +583,9 @@ o ochronie sygnalistów
 - **2)** dokonanie zgłoszenia zewnętrznego narazi sygnalistę na działania odwetowe, lub
 - **3)** w przypadku dokonania zgłoszenia zewnętrznego istnieje niewielkie prawdopodobieństwo skutecznego przeciwdziałania naruszeniu prawa z uwagi na szczególne okoliczności sprawy, takie jak możliwość ukrycia lub zniszczenia dowodów, istnienia zmowy między organem publicznym a sprawcą naruszenia lub udziału organu publicznego w naruszeniu.
 
-**Art. 52.** Przy ocenie, czy działanie następcze jest odpowiednie, uwzględnia się w szczególności czynności podjęte w celu zweryfikowania informacji o naruszeniu, prawidłowość oceny informacji o naruszeniu oraz adekwatność środków podjętych w następstwie stwierdzenia naruszenia, w tym w odpowiednim przypadku w celu zapobiegnięcia dalszym naruszeniom, z uwzględnieniem wagi naruszenia.
+**Art. 52.** Przy ocenie, czy działanie następcze jest odpowiednie, uwzględnia się w szczególności czynności podjęte w celu zweryfikowania informacji o naruszeniu, prawidłowość oceny informacji o naruszeniu oraz adekwatność środków podjętych w następstwie stwierdzenia naruszenia, w tym – w odpowiednim przypadku – w celu zapobiegnięcia dalszym naruszeniom, z uwzględnieniem wagi naruszenia.
 
-**Art. 53.** Przepisów art. 51 i art. 52 nie stosuje się, jeżeli przekazanie informacji o naruszeniu prawa następuje bezpośrednio do prasy i stosuje się ustawę z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. z 2018 r. poz. 1914).
+**Art. 53.** Przepisów art. 51 i art. 52 nie stosuje się, jeżeli przekazanie informacji o naruszeniu prawa następuje bezpośrednio do prasy i stosuje się ustawę z dnia 26 stycznia 1984 r. – Prawo prasowe (Dz. U. z 2018 r. poz. 1914).
 
 #### Rozdział 6 Przepisy karne
 
@@ -607,7 +607,7 @@ o ochronie sygnalistów
 
 **Art. 58.** Kto, będąc odpowiedzialnym za ustanowienie procedury zgłoszeń wewnętrznych, wbrew przepisom ustawy procedury tej nie ustanawia lub ustanawia ją z istotnym naruszeniem wynikających z ustawy wymogów, podlega karze grzywny.
 
-**Art. 59.** Orzekanie w sprawach o czyn określony w art. 58 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
+**Art. 59.** Orzekanie w sprawach o czyn określony w art. 58 następuje w trybie przepisów ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2022 r. poz. 1124 oraz z 2023 r. poz. 1963).
 
 #### Rozdział 7 Przepisy zmieniające, dostosowujące i przepis końcowy
 
@@ -623,5 +623,5 @@ o ochronie sygnalistów
 
 2. Pierwsze sprawozdanie, o którym mowa w art. 19 ust. 5 ustawy zmienianej w art. 60, Rzecznik Praw Obywatelskich przekazuje Sejmowi i Senatowi po 2 latach od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 64.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 ust. 4, art. 25 ust. 1 pkt 8 oraz przepisów rozdziału 4, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 64.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 ust. 4, art. 25 ust. 1 pkt 8 oraz przepisów rozdziału 4, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

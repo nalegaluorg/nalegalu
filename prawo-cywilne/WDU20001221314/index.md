@@ -8,6 +8,7 @@ pos: 1314
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # o zmianie ustawy o szkolnictwie wyższym, ustawy o wyższych szkołach zawodowych, ustawy o transporcie kolejowym i ustawy o usługach turystycznych oraz ustawy - Kodeks postępowania cywilnego, ustawy - Prawo o ustroju sądów powszechnych i ustawy o działach administracji rządowej - w związku z dostosowaniem do prawa Unii Europejskiej
@@ -23,7 +24,6 @@ domain: null
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-08 |
 | Data wydania | 2000-12-31 |
-| Wejście w życie | 2001-01-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1314/text.pdf) |
 

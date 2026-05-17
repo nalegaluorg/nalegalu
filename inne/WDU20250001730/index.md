@@ -8,9 +8,12 @@ pos: 1730
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 grudnia 2025 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zawodach medycznych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-12-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1730/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 7 listopada 2025 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o niektórych zawodach medycznych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 17 sierpnia 2023 r. o niektórych zawodach medycznych (Dz. U. poz. 1972), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 27 listopada 2024 r. o zmianie ustawy o Centrum Medycznym Kształcenia Podyplomowego oraz niektórych innych ustaw (Dz. U. poz. 1897),
 2) ustawą z dnia 24 kwietnia 2025 r. o zmianie ustawy o Państwowym Ratownictwie Medycznym oraz niektórych innych ustaw (Dz. U. poz. 637) oraz zmian wynikających z przepisów ogłoszonych przed dniem 29 października 2025 r.

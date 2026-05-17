@@ -1,0 +1,76 @@
+---
+title: Rozporządzenie Ministra Finansów z dnia 28 sierpnia 2015 r. w sprawie dokumentów załączanych do zawiadomień o zamiarze nabycia albo objęcia akcji lub praw z akcji CCP albo o zamiarze stania się podmiotem dominującym CCP
+address: WDU20150001447
+eli: DU/2015/1447
+publisher: DU
+year: 2015
+pos: 1447
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# sprawie dokumentów załączanych zawiadomień zamiarze nabycia objęcia akcji praw akcji zamiarze stania się podmiotem dominującym Na podstawie art. 47a ust. 4 ustawy dnia 29 lipca 2005 r. obrocie instrumentami finansowymi (Dz. U. 2014 r.
+
+*ROZPORZĄDZENIE MINISTRA FINANSÓW dnia 28 sierpnia 2015 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2015 poz. 1447 |
+| ISAP | WDU20150001447 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2015-08-28 |
+| Data wydania | 2015-09-23 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001447) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1447/text.pdf) |
+
+poz. 94, późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa dokumenty, które należy załączyć zawiadomienia zamiarze nabycia objęcia akcji praw akcji CCP, składanego na podstawie art. 31 ust. 2 rozporządzenia Parlamentu Europejskiego Rady (UE) nr 648/2012 dnia 4 lipca 2012 r. sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych repozytoriów transakcji (Dz. Urz. UE L 201 27.07.2012, str. 1, późn. zm.), zwanego dalej „rozporządzeniem 648/2012”.
+§ 2. Do zawiadomienia, którym mowa art. 31 ust. 2 rozporządzenia 648/2012, zawiadomiezałącza:
+1) przypadku osób fizycznych poświadczoną kopię dokumentu potwierdzającego tożsamość podmiotu składającego zawierającego imię, nazwisko oraz datę miejsce urodzenia wraz oświadczeniem miejscu zamieszkania;
+2) przypadku osób prawnych jednostek organizacyjnych nieposiadających osobowości prawnej:
+a) oryginał poświadczoną kopię odpisu Krajowego Rejestru Sądowego innego właściwego rejestru prowadzonego przez upoważniony organ, wydane wcześniej niż 3 miesiące przed dniem złożenia zawiadomienia, wydruk komputerowy aktualnych informacji Krajowego Rejestru Sądowego, którym mowa art. 4 ust. 4aa ustawy dnia 20 sierpnia 1997 r. Krajowym Rejestrze Sądowym (Dz. U. 2015 r. poz. 1142), zawierający co najmniej nazwę, adres siedziby, imiona nazwiska osób uprawnionych reprezentacji wraz zasadami reprezentacji oraz formę prawną; jeżeli zgodnie przepisami dotyczącymi innego właściwego rejestru odpis zawiera wszystkich informacji wskazanych zdaniu poprzednim, informacje te należy przekazać formie oświadczenia,
+b) poświadczone kopie dokumentów potwierdzających tożsamość osób zarządzających podmiotem składającym zawierających imię, nazwisko oraz datę miejsce urodzenia wraz oświadczeniem miejscu zamieszkania;
+cych skład grupy, przedmiotów ich działalności oraz rodzaju zakresu powiązań między podmiotami grupie, prawnych faktycznych powiązań finansowych, kapitałowych osobowych, a przypadku podmiotów podlegających nadzorowi sprawowanemu przez organ nadzoru nad rynkiem finansowym ze wskazaniem także organu nadzoru;
+5) poświadczone kopie dokumentów potwierdzających tożsamość osób przewidzianych na członków zarządu CCP, zawierających imię, nazwisko oraz datę miejsce urodzenia wraz oświadczeniem miejscu zamieszkania, oraz graficzny schemat organizacyjny CCP, obejmujący podział zadań pomiędzy członków zarządu CCP, ile przewidywane są zmiany zarządzie, oświadczenie braku zamiaru dokonywania takich zmian;
+6) oświadczenie zamiarze nabycia objęcia akcji praw akcji zamiarze stania się podmiotem dominującym CCP, ze wskazaniem nazwy oraz adresu siedziby CCP, którego dotyczy zawiadomienie;
+7) dokumenty poświadczające wykształcenie doświadczenie zawodowe:
+a) osoby fizycznej składającej zawiadomienie osób, których mowa pkt 5,
+b) osób, których mowa pkt 2 lit. b pkt 5;
+8) dokumenty dotyczące składającego zawiadomienie oraz każdej osób wymienionych pkt 2 lit. b pkt 5:
+a) zaświadczenia oświadczenia skazaniach za przestępstwo przestępstwo skarbowe postępowaniach warunkowo umorzonych,
+b) oświadczenia zakończonych ukaraniem, okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach administracyjnych, a przypadku osób fizycznych również postępowaniach dyscyplinarnych,
+c) oświadczenia zakończonych, okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach sądowych sprawach gospodarczych, postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym, a także informacje zakończonych, okresie 5 lat poprzedzających złożenie zawiadomienia, postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym podmiotu, którym zawiadomienie posiada udział równy przekraczający 10% ogólnej liczby głosów organie stanowiącym kapitale zakładowym wobec którego zawiadomienie jest podmiotem dominującym;
+9) oświadczenia składającego zawiadomienie oraz każdej osób wymienionych pkt 2 lit. b pkt 5 toczących się postępowaniach:
+a) karnych przestępstwo umyślne, wyłączeniem przestępstw ściganych oskarżenia prywatnego, postępowaniach sprawie przestępstwo skarbowe, tym związanych odpowiedzialnością, której mowa przepisach odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary,
+b) dyscyplinarnych, administracyjnych przeciwko danej osobie nałożenie kary innej sankcji administracyjnej stosunku danej osoby,
+c) sądowych sprawach gospodarczych przeciwko danej osobie, postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym, a także postępowaniach związanych likwidacją, upadłością, likwidacją majątku upadłego postępowaniem naprawczym podmiotu, którym zawiadomienie posiada udział równy przekraczający 10% ogólnej liczby głosów organie stanowiącym kapitale zakładowym wobec którego zawiadomienie jest podmiotem dominującym;
+10) oświadczenia składającego zawiadomienie o:
+a) środkach nadzorczych, które okresie 5 lat poprzedzających złożenie zawiadomienia były podejmowane przez podmiotem dominującym,
+c) środkach nadzorczych, które okresie 5 lat poprzedzających złożenie zawiadomienia były podejmowane przez właściwy organ nadzoru stosunku podmiotu składającego zawiadomienie będącego osobą fizyczną stosunku członków organu zarządzającego podmiotu składającego zawiadomienie związku nieprawidłowościami działalności innych podmiotów podlegających nadzorowi właściwego organu nadzoru, których zawiadomienie będący osobą fizyczną członek organu zarządzającego podmiotu składającego zawiadomienie był członkiem organu zarządzającego okresie podjęcia środków nadzorczych, oświadczenie, że zawiadomienie będący osobą fizyczną członek organu zarządzającego podmiotu składającego zawiadomienie był członkiem organu zarządzającego podmiotu podlegającego nadzorowi właściwego organu nadzoru,
+d) zobowiązaniach, których mowa art. 47a ust. 3 ustawy dnia 29 lipca 2005 r. obrocie instrumentami finansowymi,
+e) przypadkach odmowy uzyskania cofnięcia jakiegokolwiek zezwolenia zgody związku wykonywaną planowaną działalnością pełnieniem funkcji na rynku finansowym, podaniem przyczyn,
+f) przypadkach ustania inicjatywy pracodawcy zleceniodawcy zatrudnienia jakimkolwiek charakterze instytucji wykonującej działalność na rynku finansowym, podaniem przyczyn,
+g) prowadzonych przez właściwe organy nadzoru państw członkowskich Unii Europejskiej okresie ostatnich 5 lat postępowaniach wniosku zawiadomienia podmiotu składającego zamiaru nabycia objęcia akcji praw akcji stania się podmiotem dominującym instytucji kredytowej, zakładu ubezpieczeń, firmy inwestycyjnej, instytucji pieniądza elektronicznego, towarzystwa funduszy inwestycyjnych, spółki zarządzającej, zarządzającego alternatywnym funduszem inwestycyjnym, którym mowa art. 4 ust. 1 lit. b dyrektywy Parlamentu Europejskiego Rady 2011/61/UE dnia 8 czerwca 2011 r. sprawie zarządzających alternatywnymi funduszami inwestycyjnymi zmiany dyrektyw 2003/41/WE 2009/65/WE oraz rozporządzeń (WE) nr 1060/2009 (UE) nr 1095/2010 (Dz. Urz. UE L 174 01.07.2011, str. 1, późn. zm.), który uzyskał zezwolenie, którym mowa art. 6 ust. 1 tej dyrektywy, zagranicznego rynku regulowanego, CCP, którym mowa art. 2 pkt 1 rozporządzenia 648/2012, repozytorium transakcji, którym mowa art. 2 pkt 2 rozporządzenia 648/2012, podmiotu wykonującego funkcje rozliczeniowe, rozrachunkowe bądź depozytowe odniesieniu instrumentów finansowych, podaniem organu prowadzącego postępowanie, daty wszczęcia zakończenia postępowania, oznaczeniem podmiotu, którego dotyczył zamiar, oraz wskazaniem wyników postępowania;
+11) deklarację podmiotu składającego zawiadomienie sposobie zakresie stosowania zasad ładu korporacyjnego przyjętych przez CCP;
+12) sprawozdania finansowe podmiotu składającego zawiadomienie za ostatnie 3 lata poprzedzające złożenie zawiadomienia całego okresu działalności, jeżeli zawiadomienie działalność gospodarczą przez okres krótszy niż 3 lata, przypadku gdy obowiązek sporządzania takich sprawozdań finansowych wynika odrębnych przepisów; przypadku gdy odrębne przepisy nakładają obowiązek badania sprawozdań finansowych, zawiadomienie załącza sprawozdanie finansowe zbadane przez uprawniony badania sprawozdań finansowych wraz opinią badania; przypadku gdy zawiadomienie zostało złożone okresie poprzedzającym sporządzenie sprawozdania finansowego za dany rok obrotowy jego badanie, zawiadomienie powinien przedstawić wstępne sprawozdanie finansowe, a razie jego braku inne dokumenty potwierdzające jego sytuację finansową, aktualną na dzień złożenia zawiadomienia;
+13) skonsolidowane sprawozdania finansowe przypadku podmiotu sporządzającego skonsolidowane sprawozdanie finansowe wchodzącego skład grupy kapitałowej, której jednostka dominująca sporządza skonsolidowane sprawozdanie finansowe, przy czym wymagania określone pkt 12 stosuje się odpowiednio;
+ma obowiązku sporządzania sprawozdań finansowych;
+17) oświadczenie niezaleganiu podatkach oświadczenie stanie zaległości podmiotu składającego zawiadomieoraz oświadczenie niezaleganiu opłacaniu składek na ubezpieczenia społeczne oświadczenie stanie zaległości podmiotu składającego zawiadomienie;
+18) informacje wszystkich ratingach podmiotu składającego zawiadomienie oraz jego podmiotów zależnych oraz ich zmianach okresie 3 lat poprzedzających złożenie zawiadomienia, ze wskazaniem instytucji nadającej rating oraz wyjaśnieniem jego znaczenia, informację braku takiego ratingu;
+19) oświadczenie liczbie akcji praw akcji, które mają być nabyte objęte, ze wskazaniem ich udziału liczbie głosów organie stanowiącym kapitale zakładowym, wszystkich przywilejów ograniczeń, charakterystykę będących przedmiotem zamierzonego nabycia uprawnień podmiotu dominującego wraz prawami statusem, którymi wiążą się te uprawnienia;
+20) informacje sposobie, jaki mają być nabyte objęte akcje prawa akcji, wraz dokumentami potwierdzającymi planowane podjęte działania zmierzające nabycia objęcia, ile zostały sporządzone;
+21) przypadku działania porozumieniu charakterystykę porozumienia, ze wskazaniem prawa właściwego oraz praw obowiązków stron porozumienia;
+22) oświadczenie wysokości udokumentowanym źródle pochodzenia środków, które mają być przeznaczone na realizację zamiaru, którym mowa art. 31 ust. 2 rozporządzenia 648/2012, oraz sposobie terminach ich przekazania zbywcy związku realizacją tego zamiaru, jak również wskazanie, czy są one pożyczone inny sposób obciążone, ze wskazaniem pożyczkodawcy podmiotu, na rzecz którego środki są obciążone, oraz tytułu prawnego korzystania tych środków, warunków udzielenia pożyczki obciążenia środków zwrotu pożyczki ustania obciążenia;
+23) oświadczenie aktywach podmiotu składającego które mają być zbyte ciągu 1 roku od dnia złożenia zawiadomienia, ze wskazaniem ich wartości;
+24) zakresie informacji planów marketingowych, operacyjnych, finansowych oraz organizacji zarządzania plany inwestycyjne składającego zawiadomienie stosunku oraz proponowane kierunki rozwoju działalności CCP:
+a) przypadku zamiaru nabycia objęcia akcji praw akcji liczbie pozwalającej na uzyskanie przekroczenie 50% głosów organie stanowiącym kapitale zakładowym skutkującej uzyskaniem pozycji jednostki dominującej wobec plan działalności zawierający: plan rozwoju działalności CCP, obejmujący uzasadnienie zamiaru, którego dotyczy średnioterminowe cele finansowe, kierunki rozwoju działalności obejmujące przewidywane zmiany zakresie docelowej struktury uczestników rozliczających ich klientów oraz świadczonych na ich rzecz usług wraz informacją na temat sposobu ich realizacji, działania mające na celu integrację grupą podmiotów, której należy oczekiwane przyszłe dane finansowe na okres 3 lat, obejmujące przewidywany bilans oraz rachunek zysków strat, przewidywane wskaźniki rentowności oraz adekwatności kapitałowej, informację poziomie narażenia na poszczególne rodzaje ryzyka, przewidywane transakcje wewnątrz grupy, opis wpływu realizacji zamiaru objętego zawiadomieniem na organizację zarządzanie CCP, obejmujący liczbę członków zarządu podział zadań między nimi, projektowane regulacje wewnętrzne CCP, ile podlegają one zmianie, tym zakresie rachunkowości, badania sprawozdań finansowych, cen opłat związanych ze świadczonymi usługami, zarządzania konfliktami interesów, ciągłości działania, wymogów ostrożnościowych, uzgodnień interoperacyjnych, zapewnienia zgodności przepisami, polityki wynagrodzeń, trudności finansowych, szczegółowy opis wpływu na sytuację finansową CCP, polityki zakresie dywidendy,
+b) przypadku gdy zamiar dotyczy nabycia objęcia akcji praw akcji liczbie odpowiadającej 20% więcej głosów organie stanowiącym jego kapitału zakładowego strategię działalności obejmującą: okres, przez jaki zawiadomienie zamierza posiadać akcje prawa akcji CCP, oraz zamiary zwiększenia, zmniejszenia utrzymania liczby posiadanych akcji praw akcji przyszłości, oświadczenie, czy zawiadomienie zamierza być aktywnym akcjonariuszem mniejszościowym, ze wskazaniem, jakie kierunki rozwoju działalności będzie popierał, a jakich nie, wraz uzasadnieniem takiego stanowiska, oświadczenie woli możliwościach finansowych spełnienia wymogów kapitałowych wymaganych dla CCP, tym udziału podwyższaniu kapitału zakładowego przypadku rozwoju jego działalności trudności finansowych, szczegółowy opis wpływu na sytuację finansową CCP, polityki zakresie dywidendy, strategię rozwoju CCP, politykę inwestycyjną, oczekiwania podmiotu składającego zawiadomienie zakresie wskazanym lit. a tiret pierwsze,
+c) przypadku gdy zamiar dotyczy nabycia objęcia akcji praw akcji liczbie odpowiadającej 10% więcej głosów organie stanowiącym jego kapitału zakładowego strategię działalności obejmującą dane wskazane lit. b tiret pierwsze, drugie trzecie;
+25) pełnomocnictwo inny dokument potwierdzający umocowanie osób podpisujących zawiadomienie działania imieniu podmiotu składającego zawiadomienie;
+26) pełnomocnictwo doręczeń toku postępowania przedmiocie zawiadomienia ustanowione na terytorium Rzeczypospolitej Polskiej przypadku gdy zawiadomienie ma miejsce zamieszkania siedzibę poza granicami Rzeczypospolitej Polskiej.
+§ 3. Rozporządzenie wchodzi życie po upływie 7 dni od dnia ogłoszenia.
+Minister Finansów: M. Szczurek
+

@@ -8,9 +8,12 @@ pos: 1026
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 czerwca 2019 r.
+# o zawodzie psychologa i samorządzie zawodowym psychologów
+
+*USTAWA z dnia 8 czerwca 2001 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,39 +26,6 @@ domain: null
 | Data wydania | 2019-06-03 |
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001026) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1026/text.pdf) |
-
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 16 maja 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o zawodzie psychologa i samorządzie zawodowym psychologów
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2017 r. poz. 1523 oraz z 2018 r. poz. 2243) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów (Dz. U. Nr 73, poz. 763), z uwzględnieniem zmian wprowadzonych:
-1) ustawą z dnia 21 grudnia 2001 r. o zmianie ustawy o zawodzie psychologa i samorządzie zawodowym psychologów oraz ustawy o zmianie ustawy Prawo o ruchu drogowym (Dz. U. Nr 154, poz. 1798),
-2) ustawą z dnia 9 stycznia 2009 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz o zmianie niektórych innych ustaw (Dz. U. Nr 22, poz. 120),
-3) ustawą z dnia 23 stycznia 2009 r. o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie (Dz. U. Nr 92, poz. 753 i Nr 99, poz. 826),
-4) ustawą z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000),
-5) ustawą z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U.
-poz. 1669) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 maja 2019 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) art. 3 ustawy z dnia 21 grudnia 2001 r. o zmianie ustawy o zawodzie psychologa i samorządzie zawodowym psychologów oraz ustawy o zmianie ustawy Prawo o ruchu drogowym (Dz. U. Nr 154, poz. 1798), który stanowi: „Art. 3. Ustawa wchodzi w życie z dniem 31 grudnia 2001 r.”;
-2) art. 20 ustawy z dnia 9 stycznia 2009 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz o zmianie niektórych innych ustaw (Dz. U. Nr 22, poz. 120), który stanowi: „Art. 20. Ustawa wchodzi w życie z dniem ogłoszenia.”;
-3) art. 27 i art. 39 ustawy z dnia 23 stycznia 2009 r. o zmianie niektórych ustaw w związku ze zmianami w organizacji i podziale zadań administracji publicznej w województwie (Dz. U. Nr 92, poz. 753 i Nr 99, poz. 826), które stanowią: „Art. 27. Postępowania wszczęte i niezakończone przed wojewodą od dnia wejścia w życie niniejszej ustawy toczą się przed organem, który przejął jego zadania i kompetencje.” „Art. 39. Ustawa wchodzi w życie po upływie 45 dni od dnia ogłoszenia, z wyjątkiem art. 29 ust. 2, art. 30 ust. 3, art. 31 ust. 2, art. 35 ust. 2 oraz art. 37, które wchodzą w życie z dniem ogłoszenia, oraz art. 5, który wchodzi w życie z dniem 1 stycznia 2010 r.”;
-4) odnośników nr 1 i 2 oraz art. 159, art. 160, art. 171 i art. 176 ustawy z dnia 10 maja 2018 r. o ochronie danych osobowych (Dz. U. poz. 1000), które stanowią: „ Niniejsza ustawa służy stosowaniu rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych).
-Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europejskiego i Rady (UE) 2016/680 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych przez właściwe organy do celów zapobiegania przestępczości, prowadzenia postępowań przygotowawczych, wykrywania i ścigania czynów zabronionych i wykonywania kar, w sprawie swobodnego przepływu takich danych oraz uchylającą decyzję ramową Rady 2008/977/WSiSW.” „Art. 159. 1. Do kontroli wszczętych na podstawie ustawy uchylanej w art. 175 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
-2. Upoważnienia oraz legitymacje służbowe wydane przed dniem wejścia w życie niniejszej ustawy zachowują ważność do czasu zakończenia kontroli, o których mowa w ust. 1.
-
-**Art. 160.**
-
-1. Postępowania prowadzone przez Generalnego Inspektora Ochrony Danych Osobowych, wszczęte i niezakończone przed dniem wejścia w życie niniejszej ustawy, prowadzone są przez Prezesa Urzędu.
-
-2. Postępowania, o których mowa w ust. 1, prowadzi się na podstawie ustawy uchylanej w art. 175, zgodnie z zasadami określonymi w ustawie z dnia 14 czerwca 1960 r. − Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650).
-
-3. Czynności dokonane w postępowaniach, o których mowa w ust. 1, pozostają skuteczne.
-
-4. Postępowania prowadzone na podstawie rozdziału 6 ustawy uchylanej w art. 175 umarza się. Decyzji o umorzeniu postępowania nie wydaje się.” „Art. 171. 1. W sprawach sądowych, sądowoadministracyjnych lub administracyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których stroną lub uczestnikiem był Generalny Inspektor Ochrony Danych Osobowych, z dniem wejścia w życie niniejszej ustawy stroną lub uczestnikiem staje się Prezes Urzędu.
-
-2. W sprawach sądowych, sądowoadministracyjnych lub administracyjnych, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, w których stroną lub uczestnikiem było Biuro Generalnego Inspektora Ochrony Danych Osobowych, z dniem wejścia w życie niniejszej ustawy stroną lub uczestnikiem staje się Urząd.” „Art. 176. Ustawa wchodzi w życie z dniem 25 maja 2018 r.”;
-
-- **5)** art. 350 ustawy z dnia 3 lipca 2018 r. Przepisy wprowadzające ustawę Prawo o szkolnictwie wyższym i nauce (Dz. U. poz. 1669), który stanowi: „Art. 350. Ustawa wchodzi w życie z dniem 1 października 2018 r., z wyjątkiem:
-- **1)** art. 1 pkt 1, art. 42 pkt 2 lit. b oraz art. 334 ust. 2, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-- **2)** art. 19 pkt 3 lit. b w zakresie dodawanego w art. 21 w ust. 1 pkt 39c, art. 120 pkt 1, art. 127 pkt 33–36 i 39 oraz art. 167, które wchodzą w życie z dniem 1 stycznia 2019 r.”. Marszałek Sejmu: M. Kuchciński USTAWA z dnia 8 czerwca 2001 r. o zawodzie psychologa i samorządzie zawodowym psychologów
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -85,9 +55,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 1. Psychologowie tworzą samorząd zawodowy, zwany dalej „samorządem”.
 
-2. Osoby wykonujące zawód psychologa i psychologowie-stażyści stają się członkami samorządu psychologów z mocy prawa.
-
-**Art. 6.** Nadzór nad wykonywaniem ustawy sprawuje minister właściwy do spraw pracy.
+2. Osoby wykonujące zawód psychologa i psychologowie-stażyści stają się członkami samorządu psychologów z mocy prawa. spraw pracy.
 
 #### Rozdział 2 Prawo wykonywania zawodu psychologa
 
@@ -97,10 +65,13 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 1. Na listę psychologów wpisuje się osobę, która łącznie spełnia następujące warunki:
 
-- **1)** uzyskała w polskiej uczelni dyplom magistra psychologii lub uzyskała za granicą wykształcenie uznane za równorzędne w Rzeczypospolitej Polskiej;
+- **1)** uzyskała:
+    - **a)** w Rzeczypospolitej Polskiej tytuł zawodowy magistra na kierunku psychologia lub za granicą wykształcenie uznane za równorzędne w Rzeczypospolitej Polskiej lub
+    - **b)** tytuł zawodowy magistra na kierunku psychologia zdrowia po ukończeniu w Rzeczypospolitej Polskiej jednolitych studiów magisterskich na kierunku psychologia zdrowia;
+
 - **2)** posiada pełną zdolność do czynności prawnych;
 - **3)** włada językiem polskim w mowie i piśmie w zakresie koniecznym do wykonywania zawodu psychologa;
-- **4)** odbyła podyplomowy staż zawodowy, pod merytorycznym nadzorem psychologa posiadającego prawo wykonywania zawodu, który ponosi odpowiedzialność za czynności zawodowe wykonywane przez psychologa-stażystę.
+- **4)** odbyła podyplomowy staż zawodowy, pod merytorycznym nadzorem psychologa posiadającego prawo wykonywania zawodu, który ponosi odpowiedzialność za czynności zawodowe wykonywane przez psychologastażystę.
 
 2. Warunku określonego w ust. 1 pkt 4 nie stosuje się, o ile umowy międzynarodowe stanowią inaczej.
 
@@ -108,9 +79,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 4. Wpis na listę psychologów-stażystów następuje na wniosek zainteresowanego, po spełnieniu warunków określonych w ust. 1 pkt 1–3 i podjęciu podyplomowego stażu zawodowego, w trybie określonym w ust. 3.
 
-5. Na listę psychologów wpisuje się cudzoziemca, o ile umowy międzynarodowe to przewidują i przedstawi on aktualne prawo wykonywania zawodu psychologa w państwie pochodzenia.
-
-6. W trakcie podyplomowego stażu zawodowego psycholog uzyskuje ograniczone prawo wykonywania zawodu.
+5. Na listę psychologów wpisuje się cudzoziemca, o ile umowy międzynarodowe to przewidują i przedstawi on aktualne prawo wykonywania zawodu psychologa w państwie pochodzenia. ograniczone prawo wykonywania zawodu.
 
 7. Osoba, która zgłosiła Radzie Regionalnej Izby Psychologów zamiar wykonywania zawodu psychologa po upływie 5 lat od ukończenia studiów psychologicznych i podyplomowego stażu zawodowego, albo psycholog, który nie wykonuje zawodu przez okres dłuższy niż 5 lat, odbywa na własny koszt przeszkolenie, którego program i zasady określa Rada Regionalnej Izby Psychologów.
 
@@ -132,9 +101,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 3. Jeżeli komisja, o której mowa w ust. 1, orzeknie o niezdolności psychologa do wykonywania zawodu, Rada Regionalnej Izby Psychologów skreśla psychologa z listy psychologów.
 
-4. Jeżeli psycholog odmawia poddania się badaniu, Rada Regionalnej Izby Psychologów może zawiesić go w prawie do wykonywania zawodu na czas nie dłuższy niż 6 miesięcy.
-
-5. Podstawą skreślenia z listy psychologów lub zawieszenia w prawie do wykonywania zawodu jest uchwała Rady Regionalnej Izby Psychologów, od której skreślonemu lub zawieszonemu w prawie wykonywania zawodu przysługuje odwołanie do sądu apelacyjnego właściwego ze względu na siedzibę Rady Regionalnej Izby Psychologów w terminie 14 dni od dnia doręczenia uchwały.
+4. Jeżeli psycholog odmawia poddania się badaniu, Rada Regionalnej Izby Psychologów może zawiesić go w prawie do wykonywania zawodu na czas nie dłuższy niż 6 miesięcy. wykonywania zawodu jest uchwała Rady Regionalnej Izby Psychologów, od której skreślonemu lub zawieszonemu w prawie wykonywania zawodu przysługuje odwołanie do sądu apelacyjnego właściwego ze względu na siedzibę Rady Regionalnej Izby Psychologów w terminie 14 dni od dnia doręczenia uchwały.
 
 6. Postępowanie w sprawach, o których mowa w ust. 3 i 4, jest poufne. Zastrzeżenie to nie dotyczy osoby, wobec której toczy się postępowanie.
 
@@ -146,7 +113,9 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 1. Podjęcie usług psychologicznych następuje za zgodą osoby (klienta) lub grupy osób (klientów) stanowiących podmiot diagnozowania i oddziaływania psychologicznego, z zastrzeżeniem ust. 2 i 3.
 
-2. Zgoda nie jest wymagana w przypadkach określonych w przepisach Kodeksu karnego, Kodeksu postępowania karnego oraz w ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2018 r. poz. 1878 oraz z 2019 r. poz. 730).
+2. Zgoda nie jest wymagana w przypadkach określonych w przepisach Kodeksu karnego, Kodeksu postępowania karnego oraz w ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. z 2018 r. poz. 1878 oraz z 2019 r. poz.
+
+- **730)** .
 
 3. Zgoda na przeprowadzenie badań nie jest wymagana także w stosunku do osób podlegających kwalifikacji wojskowej, kierowanych do specjalności i funkcji zgodnie z kryteriami doboru takich osób do poszczególnych specjalności wojskowych, oraz osób ubiegających się o przyjęcie do zawodowej służby wojskowej.
 
@@ -154,11 +123,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 1. Psycholog poinformuje klienta o celu postępowania, jego przebiegu, wynikach i sposobie ich udostępniania oraz powinien uzyskać akceptację planowanych czynności.
 
-2. Jeżeli wyniki badań mają służyć nie tylko do informacji klienta, stosuje się przepisy o ochronie danych osobowych.
-
-**Art. 14.**
-
-1. Psycholog ma obowiązek zachowania w tajemnicy informacji związanych z klientem, uzyskanych w związku z wykonywaniem zawodu.
+2. Jeżeli wyniki badań mają służyć nie tylko do informacji klienta, stosuje się przepisy o ochronie danych osobowych. związanych z klientem, uzyskanych w związku z wykonywaniem zawodu.
 
 2. Obowiązek zachowania tajemnicy zawodowej nie może być ograniczony w czasie.
 
@@ -181,7 +146,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 3. W skład Komisji Ekspertów wchodzą, dysponujący wiedzą w zakresie objętym ustawą:
 
-- **1)** przedstawiciel ministra właściwego do spraw pracy jako przewodniczący;
+- **1)** przedstawiciel ministra właściwego do spraw pracy – jako przewodniczący;
 - **2)** przedstawiciel ministra właściwego do spraw oświaty i wychowania;
 - **3)** przedstawiciel ministra właściwego do spraw zdrowia;
 - **4)** dwaj przedstawiciele Komitetu Nauk Psychologicznych Polskiej Akademii Nauk;
@@ -191,9 +156,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 5. Koszty działalności Komisji Ekspertów pokrywa minister właściwy do spraw pracy.
 
-6. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, sposób działania Komisji Ekspertów oraz zasady wynagradzania jej członków.
-
-7. Komisja Ekspertów działa na podstawie uchwalonego przez siebie regulaminu, zatwierdzonego przez ministra właściwego do spraw pracy.
+6. Minister właściwy do spraw pracy określi, w drodze rozporządzenia, sposób działania Komisji Ekspertów oraz zasady wynagradzania jej członków. regulaminu, zatwierdzonego przez ministra właściwego do spraw pracy.
 
 **Art. 17.**
 
@@ -225,9 +188,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 **Art. 19.**
 
-1. Komisja Ekspertów ustala i aktualizuje listę metod i narzędzi psychologicznych zastrzeżonych wyłącznie do stosowania przez psychologów.
-
-2. Krajowa Rada Psychologów sprawuje nadzór nad warunkami stosowania, rozpowszechniania i nabywania metod i narzędzi psychologicznych.
+1. Komisja Ekspertów ustala i aktualizuje listę metod i narzędzi psychologicznych zastrzeżonych wyłącznie do stosowania przez psychologów. rozpowszechniania i nabywania metod i narzędzi psychologicznych.
 
 #### Rozdział 4 Odpowiedzialność dyscyplinarna
 
@@ -249,9 +210,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 **Art. 26.**
 
-1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od chwili popełnienia czynu upłynęły 3 lata, z zastrzeżeniem ust. 2.
-
-2. Jeżeli czyn psychologa zawiera znamiona przestępstwa, przedawnienie następuje nie wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego.
+1. Nie można wszcząć postępowania dyscyplinarnego, jeżeli od chwili popełnienia czynu upłynęły 3 lata, z zastrzeżeniem ust. 2. następuje nie wcześniej niż przedawnienie przewidziane w przepisach Kodeksu karnego.
 
 3. W razie śmierci obwinionego przed ukończeniem postępowania dyscyplinarnego toczy się ono nadal, jeżeli zażąda tego w terminie dwóch miesięcy od dnia zgonu obwinionego jego małżonek, krewny w linii prostej, brat lub siostra.
 
@@ -280,44 +239,17 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 **Art. 32.** Organami samorządu są Krajowy Zjazd Psychologów, Krajowa Rada Psychologów, Krajowa Komisja Rewizyjna, Krajowa Komisja Dyscyplinarna, Krajowy Rzecznik Odpowiedzialności Zawodowej, Regionalny Zjazd Psychologów, Regionalna Rada Psychologów, Regionalna Komisja Rewizyjna, Regionalna Komisja Dyscyplinarna i Regionalny Rzecznik Odpowiedzialności Zawodowej.
 
-**Art. 33.**
-
-1. Zadaniem samorządu psychologów jest w szczególności:
-
-- **1)** dbałość o przestrzeganie standardów wykonywania zawodu psychologa;
-- **2)** nadzór nad przestrzeganiem zasad etyki zawodowej psychologa;
-- **3)** ochrona prawna metod i narzędzi psychologicznych;
-- **4)** reprezentowanie zawodu psychologa i ochrona jego interesów;
-- **5)** współpraca z Komisją Ekspertów, szkołami wyższymi, jednostkami badawczo-rozwojowymi oraz towarzystwami naukowymi w kraju i za granicą;
-- **6)** opiniowanie aktów prawnych dotyczących zawodu psychologa;
-- **7)** współpraca z organami władzy i administracji rządowej i samorządowej, związkami zawodowymi i samorządami zawodowymi oraz innymi organizacjami społecznymi w sprawach związanych z wykonywaniem zawodu psychologa;
-- **8)** zarządzanie majątkiem jednostek organizacyjnych samorządu psychologów;
-- **9)** zarządzanie majątkiem i działalnością gospodarczą izb psychologów.
-
-2. Zadania określone w ust. 1 organy samorządu psychologów wykonują w szczególności przez:
-
-- **1)** prowadzenie list psychologów i psychologów-stażystów;
-- **2)** stwierdzenie prawa wykonywania zawodu psychologa;
-- **3)** określenie zasad odbywania podyplomowego stażu zawodowego;
-- **4)** prowadzenie rejestru prywatnych praktyk psychologicznych;
-- **5)** określanie standardów i programów studiów podyplomowych dla psychologów oraz opiniowanie zasad i warunków uzyskiwania specjalizacji zawodowej;
-- **6)** prowadzenie wykazu chronionych metod psychologicznych;
-- **7)** występowanie w obronie indywidualnych i zbiorowych interesów członków samorządu psychologów;
-- **8)** kontrola warunków wykonywania zawodu.
-
 **Art. 34.** Wybory do organów samorządu odbywają się w głosowaniu tajnym w obecności co najmniej połowy uprawnionych do głosowania.
 
 **Art. 35.**
 
 1. Czynne prawo wyborcze przysługuje wszystkim członkom izb psychologów.
 
-2. Bierne prawo wyborcze przysługuje wszystkim członkom izb psychologów, z zastrzeżeniem art. 37 ust. 3.
-
-**Art. 36.** Organy samorządu podejmują uchwały zwykłą większością głosów w obecności co najmniej połowy członków danego organu; w przypadku równej liczby głosów decyduje głos przewodniczącego.
+2. Bierne prawo wyborcze przysługuje wszystkim członkom izb psychologów, z zastrzeżeniem art. 37 ust. 3. w obecności co najmniej połowy członków danego organu; w przypadku równej liczby głosów decyduje głos przewodniczącego.
 
 **Art. 37.**
 
-1. Kadencja organów samorządu trwa cztery lata, ale działają one do czasu ukonstytuowania się nowo wybranych organów.
+1. Kadencja organów samorządu trwa cztery lata, ale działają one do czasu ukonstytuowania się nowo wy-branych organów.
 
 2. Tę samą funkcję w organach izb psychologów można pełnić nie dłużej niż przez dwie kolejne kadencje.
 
@@ -387,9 +319,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 2. Krajowa Komisja Dyscyplinarna rozpatruje odwołania od orzeczeń regionalnych komisji dyscyplinarnych oraz odwołania.
 
-3. Orzeczenia Krajowej Komisji Dyscyplinarnej, z zastrzeżeniem art. 18 ust. 4 oraz art. 48, są ostateczne.
-
-**Art. 48.** Od orzeczenia wydanego przez Krajową Komisję Dyscyplinarną przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Przewodniczącemu Krajowej Rady Psychologów odwołanie do właściwego miejscowo sądu apelacyjnego w terminie 30 dni od dnia doręczenia orzeczenia Krajowej Komisji Dyscyplinarnej wraz z uzasadnieniem.
+3. Orzeczenia Krajowej Komisji Dyscyplinarnej, z zastrzeżeniem art. 18 ust. 4 oraz art. 48, są ostateczne. przysługuje stronom, Ministrowi Sprawiedliwości, Rzecznikowi Praw Obywatelskich oraz Przewodniczącemu Krajowej Rady Psychologów odwołanie do właściwego miejscowo sądu apelacyjnego w terminie 30 dni od dnia doręczenia orzeczenia Krajowej Komisji Dyscyplinarnej wraz z uzasadnieniem.
 
 **Art. 49.**
 
@@ -415,8 +345,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 4. Do zadań Zjazdu Regionalnej Izby Psychologów należy:
 
-- **1)** podejmowanie uchwał w sprawach objętych zakresem działania izby;
-- **2)** uchwalenie budżetu, ustalanie zasad gospodarki finansowej izby oraz zatwierdzenie sprawozdań Rady Regionalnej Izby Psychologów z jego wykonania;
+- **1)** podejmowanie uchwał w sprawach objętych zakresem działania izby; zatwierdzenie sprawozdań Rady Regionalnej Izby Psychologów z jego wykonania;
 - **3)** rozpatrywanie i zatwierdzanie rocznych i kadencyjnych sprawozdań Regionalnej Rady, Regionalnej Komisji Rewizyjnej, Regionalnej Komisji Dyscyplinarnej oraz Rzecznika Odpowiedzialności Zawodowej;
 - **4)** uchwalenie regulaminów organów samorządu psychologów zgodnych z wymaganiami statutu, o którym mowa w art. 40 pkt 1;
 - **5)** wybór przewodniczącego i członków Regionalnej Rady, członków Regionalnej Komisji Rewizyjnej, członków Regionalnej Komisji Dyscyplinarnej oraz Regionalnego Rzecznika Odpowiedzialności Zawodowej i jego zastępców;
@@ -445,7 +374,6 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 - **2)** nadzór nad należytym wykonywaniem zawodu przez psychologów;
 - **3)** nadzór nad należytym przebiegiem podyplomowego stażu zawodowego psychologów-stażystów poprzez zapewnienie opiekuna merytorycznego stażu i pokrycie jego wynagrodzenia;
 - **4)** prowadzenie rejestru psychologów i psychologów-stażystów z danego regionu;
-- **5)** prowadzenie rejestru prywatnych praktyk psychologicznych;
 - **6)** współpracę z marszałkiem województwa w zakresie nadzoru nad zgodnym z zezwoleniem wykonywaniem prywatnych praktyk psychologicznych;
 - **7)** wykonywanie uchwał Regionalnego i Krajowego Zjazdu Psychologów;
 - **8)** wykonywanie zadań zleconych przez Krajową Radę Psychologów;
@@ -479,9 +407,7 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 2. Regionalny Rzecznik Odpowiedzialności Zawodowej składa okresowe i kadencyjne sprawozdanie Regionalnemu Zjazdowi.
 
-**Art. 60.** Regionalny Rzecznik Odpowiedzialności Zawodowej przed Regionalną Komisją Dyscyplinarną pełni rolę oskarżyciela.
-
-#### Rozdział 8 Przepis karny
+**Art. 60.** Regionalny Rzecznik Odpowiedzialności Zawodowej przed Regionalną Komisją Dyscyplinarną pełni rolę oskarżyciela. Przepis karny
 
 **Art. 61.**
 
@@ -506,10 +432,6 @@ Niniejsza ustawa w zakresie swojej regulacji wdraża dyrektywę Parlamentu Europ
 
 1. Psychologów, którzy w dniu wejścia w życie ustawy posiadali dyplom magistra psychologii lub dyplom magistra filozofii chrześcijańskiej ze specjalizacją filozoficzno-psychologiczną uzyskany na Katolickim Uniwersytecie Lubelskim do 1 października 1981 r. lub dyplom magistra filozofii chrześcijańskiej w zakresie psychologii uzyskany w Akademii Teologii Katolickiej do końca 1992 r. oraz pracowali w zawodzie co najmniej dwa lata, wpisuje się na listę psychologów Regionalnej Izby Psychologów, na której obszarze wykonują zawód.
 
-2. Osoby zatrudnione na stanowiskach psychologów, które nie spełniają warunków określonych w ust. 1, mogą w okresie 1 roku od wejścia w życie ustawy wystąpić do Krajowej Rady Psychologów z wnioskiem o przyznanie prawa wykonywania zawodu, który zostanie rozpatrzony w terminie 3 miesięcy od dnia jego wpłynięcia.
-
-**Art. 64.**
-
-- **5)** Ustawa wchodzi w życie z dniem 1 stycznia 2006 r., z wyjątkiem art. 62 ust. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+2. Osoby zatrudnione na stanowiskach psychologów, które nie spełniają warunków określonych w ust. 1, mogą w okresie 1 roku od wejścia w życie ustawy wystąpić do Krajowej Rady Psychologów z wnioskiem o przyznanie prawa wykonywania zawodu, który zostanie rozpatrzony w terminie 3 miesięcy od dnia jego wpłynięcia. 62 ust. 1, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
 
 

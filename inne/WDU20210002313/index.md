@@ -8,9 +8,12 @@ pos: 2313
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 15 grudnia 2021 r.
+# Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku akcyzowym oraz ustawy o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
+
+*USTAWA z dnia 29 października 2021 o zmianie ustawy o podatku akcyzowym oraz ustawy o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,14 +27,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002313) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2313/text.pdf) |
 
-USTAWA z dnia 29 października 2021 r.
-o zmianie ustawy o podatku akcyzowym oraz ustawy o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw
-
-**Art. 1.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2020 r. poz. 722, z późn. zm. ) wprowadza się następujące zmiany:
-
-**Art. 2.** W ustawie z dnia 30 marca 2021 r. o zmianie ustawy o podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 694 1642) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 6 grudnia 2008 o podatku akcyzowym (Dz. U. z 2020 poz. 722, z późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** Średnią ważoną detaliczną cenę sprzedaży tytoniu do palenia rok 2022 ogłoszoną podstawie art. 99d ust. 1 ustawy zmienianej art. 1, brzmieniu dotychczasowym, uznaje się również za ogłoszoną potrzeby ustalenia minimalnej stawki podatku akcyzowego tytoń do palenia rok 2022.
 
-**Art. 4.** Ustawa wchodzi życie z dniem 1 stycznia 2022 r., z wyjątkiem art. 2 pkt 1, który wchodzi życie z dniem 31 grudnia 2021 r. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 4.** Ustawa wchodzi życie z dniem 1 stycznia 2022 r., z wyjątkiem art. 2 pkt 1, który wchodzi życie z dniem 31 grudnia 2021 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

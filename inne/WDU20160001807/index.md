@@ -8,9 +8,10 @@ pos: 1807
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 4 listopada 2016 Poz. 1807
+# Ustawa z dnia 14 września 2016 r. o zmianie ustawy o Krajowej Szkole Administracji Publicznej oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +25,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001807) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1807/text.pdf) |
 
-USTAWA dnia 14 września 2016 zmianie ustawy Szkole niektórych innych ustaw
+**Art. 1.** W ustawie z dnia 14 czerwca 1991 r. Szkole (Dz. U. z 2015 r. poz. 248 oraz z 2016 r. poz. 1344) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie dnia 14 czerwca 1991 Szkole (Dz. U. 2015 poz. 248 2016 poz. 1344) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie z dnia 13 października 1998 r. systemie ubezpieczeń społecznych (Dz. U. z 2016 r. poz. 963, 1247 i 1579) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2016 poz. 963, 1247 1579) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie z dnia 27 lipca 2001 r. służbie zagranicznej (Dz. U. poz. 1403, z późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 30 października 2002 ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych (Dz. U. 2015 poz. 1242 1442) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie z dnia 27 sierpnia 2004 r. świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2016 r. poz. 1793) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie dnia 27 sierpnia świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2016 poz. 1793) wprowadza się następujące zmiany:
-
-**Art. 6.** W ustawie dnia 21 listopada 2008 służbie cywilnej (Dz. U. 2016 poz. 1345 1605) wprowadza się następujące zmiany:
+**Art. 6.** W ustawie z dnia 21 listopada 2008 r. służbie cywilnej (Dz. U. z 2016 r. poz. 1345 i 1605) wprowadza się następujące zmiany:
 
 **Art. 7.** Ilekroć przepisach prawa jest mowa o:
 
-**Art. 8.** Ustawa wchodzi ż ycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Polskiej: A. Duda
 

@@ -8,9 +8,12 @@ pos: 929
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
+source: "isap-pdf"
 ---
 
-# Warszawa, dnia 29 czerwca 2016
+# o Radzie Mediów Narodowych
+
+*USTAWA z dnia 22 czerwca 2016 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,97 +27,148 @@ domain: null
 | Ostatnia zmiana | 2025-09-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000929) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/929/text.pdf) |
 
-USTAWA dnia 22 czerwca 2016 o Radzie Narodowych Ustawa określa zadania, kompetencje organizację Narodowych, zwanej dalej „Radą”, zasady tryb powoływania jej członków.
-2. Rada jest organem właściwym sprawach powoływania odwoływania składów osobowych organów jednostek publicznej radiofonii telewizji Polskiej Agencji Prasowej, zwanych dalej „spółkami”, innych sprawach określonych ustawie.
-2. Zadania, o których mowa 1, Rada wykonuje, kierując potrzebą zapewnienia rzetelnego wypełniania przez spółki ich ustawowych zadań ochrony ich samodzielności niezależności redakcyjnej.
-3. skład wchodzi pięciu członków, których trzech członków wybiera Sejm, a dwóch członków powołuje Prezydent Rzeczypospolitej Polskiej.
-4. Kadencja członka trwa 6 lat.
-5. Członkiem może zostać osoba, która:
-1) ma obywatelstwo polskie;
-2) wyróżnia wiedzą doświadczeniem sprawach związanych zadaniami działaniem mediów;
-3) nie była skazana prawomocnym wyrokiem sądu za przestępstwo popełnione winy umyślnej.
+**Art. 1.** Ustawa określa zadania, kompetencje i organizację Rady Mediów Narodowych, zwanej dalej „Radą”, oraz zasady i tryb powoływania jej członków.
+
+**Art. 2.**
+
+1. Rada jest organem właściwym sprawach powoływania i odwoływania składów osobowych organów jednostek publicznej radiofonii i telewizji oraz Polskiej Agencji Prasowej, zwanych dalej „spółkami”, oraz innych sprawach określonych ustawie.
+
+2. Zadania, o których mowa ust. 1, Rada wykonuje, kierując się potrzebą zapewnienia rzetelnego wypełniania przez spółki ich ustawowych zadań oraz ochrony ich samodzielności i niezależności redakcyjnej.
+
+**Art. 3.** W skład Rady wchodzi pięciu członków, z których trzech członków wybiera Sejm, a dwóch członków powołuje Prezydent Rzeczypospolitej Polskiej.
+
+**Art. 4.** Kadencja członka Rady trwa 6 lat.
+
+**Art. 5.**
+
+1. Członkiem Rady może zostać osoba, która:
+
+- **1)** ma obywatelstwo polskie;
+- **2)** wyróżnia się wiedzą i doświadczeniem sprawach związanych z zadaniami i działaniem mediów;
+- **3)** nie była skazana prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+
 2. Członkostwa Radzie nie można łączyć z:
-1) pełnieniem funkcji organie władzy wykonawczej;
-2) członkostwem organie jednostki samorządu terytorialnego;
-3) zatrudnieniem administracji rządowej lub samorządowej;
-4) zatrudnieniem Kancelarii Prezydenta Rzeczypospolitej Polskiej;
-5) członkostwem Krajowej Radzie Radiofonii Telewizji lub zatrudnieniem jej biurze.
-3. Członkiem nie może być osoba posiadająca udziały albo akcje spółki lub inny sposób uczestnicząca podmiocie będącym dostawcą usługi medialnej lub producentem radiowym lub telewizyjnym.
-6. Prezydent Rzeczypospolitej Polskiej powołuje członków spośród kandydatów zgłoszonych przez kluby parlamentarne lub poselskie tworzone przez ugrupowania, których przedstawiciele nie wchodzą skład Ministrów (kluby opozycyjne), uwzględnieniem zasad określonych 2–7.
-Radzie przeznaczone dla osoby powoływanej przez Prezydenta Rzeczypospolitej Polskiej.
+
+- **1)** pełnieniem funkcji organie władzy wykonawczej;
+- **2)** członkostwem organie jednostki samorządu terytorialnego;
+- **3)** zatrudnieniem administracji rządowej lub samorządowej;
+- **4)** zatrudnieniem Kancelarii Prezydenta Rzeczypospolitej Polskiej;
+- **5)** członkostwem Krajowej Radzie Radiofonii i Telewizji lub zatrudnieniem jej biurze.
+
+3. Członkiem Rady nie może być osoba posiadająca udziały albo akcje spółki lub inny sposób uczestnicząca podmiocie będącym dostawcą usługi medialnej lub producentem radiowym lub telewizyjnym.
+
+**Art. 6.**
+
+1. Prezydent Rzeczypospolitej Polskiej powołuje członków Rady spośród kandydatów zgłoszonych przez kluby parlamentarne lub poselskie tworzone przez ugrupowania, których przedstawiciele nie wchodzą skład Rady Ministrów (kluby opozycyjne), z uwzględnieniem zasad określonych ust. 2–7.
+
+2. Prezydent Rzeczypospolitej Polskiej wyznacza 14-dniowy termin na zgłaszanie kandydatów do Rady, przypadający nie wcześniej niż na 2 miesiące przed upływem kadencji członka Rady i nie później niż na 30 dni przed upływem kadencji członka Rady. W przypadku odwołania członka Rady, Prezydent Rzeczypospolitej Polskiej wyznacza termin na zgłaszanie kandydatów nie później niż 14 dni od dnia wydania postanowienia sprawie odwołania członka Rady.
+
+2a. W przypadku wygaśnięcia członkostwa Radzie, Prezydent Rzeczypospolitej Polskiej wyznacza termin na zgłaszanie kandydatów nie później niż 14 dni od dnia wydania postanowienia sprawie stwierdzenia wygaśnięcia członkostwa Radzie.
+
+3. Jeżeli jest tylko jeden klub opozycyjny, ma on prawo przedstawić po dwóch kandydatów na każde wolne miejsce Radzie przeznaczone dla osoby powoływanej przez Prezydenta Rzeczypospolitej Polskiej.
+
 4. Jeżeli są dwa wolne miejsca Radzie przeznaczone dla osób powoływanych przez Prezydenta Rzeczypospolitej Polskiej, prawo zgłoszenia po dwóch kandydatów na te miejsca przysługuje kolejno dwóm najliczniejszym klubom opozycyjnym.
-5. Jeżeli klub opozycyjny uprawniony zgłoszenia dwóch kandydatów, zgodnie 4 nie korzysta tego prawa terminie wyznaczonym zgodnie 2, prawo to przechodzi na najliczniejszy klubów opozycyjnych pominięty przy zastosowaniu tego przepisu. Prezydent Rzeczypospolitej Polskiej wyznacza temu klubowi opozycyjnemu termin 14 dni od dnia upływu terminu na zgłoszenie kandydata na podstawie 4.
-6. Przepis 5 stosuje odpowiednio razie nieskorzystania prawa zgłoszenia kandydatów zgodnie tym przepisem.
-7. Jeżeli żaden klubów opozycyjnych nie skorzystał prawa zgłoszenia kandydatów na członka Rady, Prezydent Rzeczypospolitej Polskiej powołuje członka spośród osób spełniających wymagania określone 5.
-7. Wygaśnięcie członkostwa Radzie przed upływem kadencji następuje przypadku:
-1) śmierci;
-2) zrzeczenia funkcji;
-3) skazania prawomocnym wyrokiem sądu za przestępstwo popełnione winy umyślnej;
-4) złożenia niezgodnego prawdą oświadczenia lustracyjnego, stwierdzonego prawomocnym orzeczeniem sądu.
+
+4a. Jeżeli jest jedno wolne miejsce Radzie przeznaczone dla osób powoływanych przez Prezydenta Rzeczypospolitej Polskiej, prawo zgłoszenia po jednym kandydacie na to miejsce przysługuje kolejno dwóm najliczniejszym klubom opozycyjnym.
+
+5. Jeżeli klub opozycyjny uprawniony do zgłoszenia kandydatów, zgodnie z ust. 4 albo 4a nie korzysta z tego prawa terminie wyznaczonym zgodnie z ust. 2 albo 2a, prawo to przechodzi na najliczniejszy z klubów opozycyjnych pominięty przy zastosowaniu tego przepisu. Prezydent Rzeczypospolitej Polskiej wyznacza temu klubowi opozycyjnemu termin 14 dni od dnia upływu terminu na zgłoszenie kandydata na podstawie ust. 4 albo 4a.
+
+6. Przepis ust. 5 stosuje się odpowiednio razie nieskorzystania z prawa zgłoszenia kandydatów zgodnie z tym przepisem.
+
+7. Jeżeli żaden z klubów opozycyjnych nie skorzystał z prawa zgłoszenia kandydatów na członka Rady, Prezydent Rzeczypospolitej Polskiej powołuje członka Rady spośród osób spełniających wymagania określone art. 5.
+
+**Art. 7.**
+
+1. Wygaśnięcie członkostwa Radzie przed upływem kadencji następuje przypadku:
+
+- **1)** śmierci;
+- **2)** zrzeczenia się funkcji;
+- **3)** skazania prawomocnym wyrokiem sądu za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** złożenia niezgodnego z prawdą oświadczenia lustracyjnego, stwierdzonego prawomocnym orzeczeniem sądu.
+
 2. Wygaśnięcie członkostwa Radzie stwierdza:
-1) Marszałek Sejmu przypadku członków wybranych przez Sejm;
-2) Prezydent Rzeczypospolitej Polskiej przypadku członków powołanych przez Prezydenta.
+
+- **1)** Marszałek przypadku członków wybranych przez Sejm;
+- **2)** Prezydent Rzeczypospolitej Polskiej przypadku członków powołanych przez Prezydenta.
+
 3. Organ, który wybrał albo powołał członka Rady, odwołuje go przed upływem kadencji przypadku:
-1) naruszenia zakazu, o którym mowa 5 2 lub 3;
-2) choroby trwale uniemożliwiającej pełnienie funkcji.
-8. związku upływem kadencji członka wybranego przez Sejm albo powołanego przez Prezydenta Rzeczypospolitej Polskiej odpowiednio Marszałek Sejmu albo Prezydent Rzeczypospolitej Polskiej może powierzyć ustępującemu członkowi dalsze pełnienie obowiązków czasu wyboru albo powołania nowego członka Rady, jednak nie dłużej niż przez 60 dni od dnia upływu kadencji.
-9. pełnieniu swojej funkcji członek jest niezależny powinien kierować dobrem publicznym.
-2. Członek jest obowiązany składania Marszałkowi Sejmu oświadczenia o swoim stanie majątkowym na zasadach określonych 10 ustawy dnia 21 sierpnia 1997 o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. 2006 poz. 1584, 2008 poz. 1458, 2009 poz. 1375, 2010 poz. 1228 2015 poz. 1635).
-10. Pracami kieruje Przewodniczący Rady.
-2. Przewodniczącego wybierają ze swojego grona odwołują członkowie Rady.
-11. Posiedzenia zwołuje Przewodniczący Rady.
+
+- **1)** naruszenia zakazu, o którym mowa art. 5 ust. 2 lub 3;
+- **2)** choroby trwale uniemożliwiającej pełnienie funkcji.
+
+**Art. 8.** W związku z upływem kadencji członka Rady wybranego przez Sejm albo powołanego przez Prezydenta Rzeczypospolitej Polskiej odpowiednio Marszałek albo Prezydent Rzeczypospolitej Polskiej może powierzyć ustępującemu członkowi dalsze pełnienie obowiązków do czasu wyboru albo powołania nowego członka Rady, jednak nie dłużej niż przez 60 dni od dnia upływu kadencji.
+
+**Art. 9.**
+
+1. W pełnieniu swojej funkcji członek Rady jest niezależny i powinien kierować się dobrem publicznym.
+
+2. Członek Rady jest obowiązany do składania Marszałkowi oświadczenia o swoim stanie majątkowym na zasadach określonych art. 10 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2019 r. poz. 2399).
+
+**Art. 10.**
+
+1. Pracami Rady kieruje Przewodniczący Rady.
+
+2. Przewodniczącego Rady wybierają ze swojego grona i odwołują członkowie Rady.
+
+**Art. 11.**
+
+1. Posiedzenia Rady zwołuje Przewodniczący Rady.
+
 2. Rada podejmuje uchwały bezwzględną większością głosów obecności co najmniej 3 członków Rady.
-3. sprawach niecierpiących zwłoki Przewodniczący może zarządzić głosowanie korespondencyjne. Przepis 2 stosuje odpowiednio.
-2. Sejm Senat rozpatrują informację, o której mowa 1, łącznie corocznym sprawozdaniem składanym przez Krajową Radę Radiofonii Telewizji na podstawie 12 1 ustawy dnia 29 grudnia 1992 o radiofonii telewizji (Dz. U. 2016 poz. 639).
-3. Organy, o których mowa 1, mogą zgłaszać uwagi informacji, o której mowa
-4. Rada jest obowiązana ustosunkować uwag, o których mowa 3, ciągu 30 dni od dnia doręczenia Przewodniczącemu uwag odpowiednio przez Marszałka Sejmu, Marszałka Senatu, Prezydenta Rzeczypospolitej Polskiej, Prezesa Ministrów lub Przewodniczącego Krajowej Radiofonii Telewizji. Każdy członek może dołączyć stanowiska tej sprawie zdanie odrębne.
-14. Członkowi przysługuje miesięczne wynagrodzenie kwocie przeciętnego wynagrodzenia, a przypadku Przewodniczącego półtorakrotności przeciętnego wynagrodzenia ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie 20 pkt 2 ustawy dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2016 poz. 887).
-2. Wysokość wynagrodzenia podlega zmianie, począwszy od miesiąca następującego po miesiącu, którym ostatnio dokonano ogłoszenia, o którym mowa
-3. Członek ma prawo zwrotu uzasadnionych kosztów podróży związanych pełnieniem obowiązków na zasadach określonych przepisach sprawie wysokości warunków ustalania należności przysługujących pracownikowi zatrudnionemu państwowej lub samorządowej jednostce sfery budżetowej tytułu podróży służbowej.
-4. zakresie podlegania ubezpieczeniom społecznym ubezpieczeniu zdrowotnemu członków stosuje odpowiednio przepisy dotyczące członków rad nadzorczych.
-15. Obsługę administracyjno-organizacyjną zapewnia Kancelaria Sejmu.
-2. Koszty funkcjonowania obejmujące wydatki na pokrycie świadczeń przysługujących członkom na podstawie 14 koszty związane obsługą, o której mowa 1, są pokrywane budżetu państwa ze środków, których dysponentem jest Szef Kancelarii Sejmu.
-16. ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2012 poz. 361, późn. zm. ) wprowadza następujące zmiany:
-1) 13 po pkt 7 dodaje pkt 7a brzmieniu: „7a) przychody otrzymywane przez członków Narodowych;”;
-2) 21 1 po pkt 17 dodaje pkt 17a brzmieniu: „17a) kwoty stanowiące zwrot kosztów przysługujący członkom Narodowych;”.
-17. ustawie dnia 29 grudnia 1992 o radiofonii telewizji (Dz. U. 2016 poz. 639) wprowadza następujące zmiany:
-1) 27 3 wyrazy „minister właściwy spraw Skarbu Państwa” zastępuje wyrazami „Rada Narodowych”;
-2) 28:
-a) 1e wyrazy „minister właściwy spraw Skarbu Państwa” zastępuje wyrazami „Rada Narodowych”,
-b) 1f otrzymuje brzmienie: „1f. Członków rady nadzorczej powołuje spośród osób, które spełniają warunki określone przepisach o prywatyzacji komercjalizacji dla kandydatów rad nadzorczych spółek, których Skarb Państwa jest jedynym akcjonariuszem.”;
-„1a. walnym zgromadzeniu mają prawo uczestniczyć także członkowie Narodowych.
-1b. Zmiana statutu spółki następuje na wniosek lub za uprzednią zgodą Narodowych.”;
-5) 30:
-a) 3 po wyrazach „zarząd spółki” dodaje wyrazy „za zgodą Narodowych”,
-b) 5 wyrazy „Krajowa Rada” zastępuje wyrazami „Rada Narodowych”;
-6) 31b dotychczasową treść oznacza jako 1 dodaje 2 brzmieniu: „2. Sprawozdania, o których mowa 1, udostępnia także Radzie Narodowych.”;
-7) 32 wyrazy „Krajowej Rady” zastępuje wyrazami „Rady Narodowych”.
-18. ustawie dnia 31 lipca 1997 o Polskiej Agencji Prasowej (Dz. U. poz. 687 2007 poz. 47) wprowadza następujące zmiany:
-1) 4:
-a) 3 wyrazy „Do dnia udostępnienia akcji osobom trzecim przychodami” zastępuje wyrazem „Przychodami”,
-b) po 7 dodaje 7a brzmieniu: „7a. Sprawozdania, o których mowa 6 pkt 3, rozliczenie, o którym mowa 7, udostępnia także Radzie Narodowych.”;
-2) 6 1 dodaje zdanie drugie brzmieniu: „Zmiana statutu następuje na wniosek lub za zgodą Narodowych.”;
-3) 7:
-a) 1 otrzymuje brzmienie: „1. Skarb Państwa zachowuje wszystkie akcje Spółce.”,
-b) uchyla 2 3,
-c) 5 otrzymuje brzmienie: „5. Walnym Zgromadzeniu mają prawo uczestniczyć także członkowie Narodowych.”,
-d) uchyla 6;
-4) 8:
-a) 2 wyrazy „Rada Nadzorcza większością głosów oddanych obecności co najmniej 2/3 jej członków” zastępuje wyrazami „Rada Narodowych”,
-b) uchyla 3;
-5) 9:
-a) 1 otrzymuje brzmienie: „1. Rada Nadzorcza, powoływana przez Radę Narodowych, liczy 3 członków.”,
-b) po 1 dodaje 1a brzmieniu: „1a. Członków Nadzorczej powołuje spośród osób, które spełniają warunki określone przepisach o prywatyzacji komercjalizacji dla kandydatów rad nadzorczych spółek, których Skarb Państwa jest jedynym akcjonariuszem.”,
-c) uchyla 3;
-6) 10 1 dodaje zdanie drugie brzmieniu: „Członków Programowej powołuje odwołuje Rada Narodowych.”.
-21. Marszałek Sejmu zwołuje pierwsze posiedzenie terminie 14 dni od dnia wyboru albo powołania ostatniego członka Rady.
-2. Wynagrodzenie, o którym mowa 14 1, przysługuje, począwszy od miesiąca, którym odbyło pierwsze posiedzenie Rady.
-22. Prezydent Rzeczypospolitej Polskiej wyznacza klubom opozycyjnym 14-dniowy termin na zgłaszanie kandydatów nie później niż 30 dni od dnia wejścia życie ustawy.
-23. Przed dniem zebrania na pierwsze posiedzenie sprawach niecierpiących zwłoki czynności ustawowo zastrzeżonych dla dokonuje minister właściwy spraw Skarbu Państwa.
-24. Niezwłocznie po dniu zebrania na pierwsze posiedzenie minister właściwy spraw Skarbu Państwa zwoła nadzwyczajne walne zgromadzenia spółek celu dostosowania ich statutów zmian wynikających niniejszej ustawy.
-2. Organy spółek działają składzie istniejącym dniu wejścia życie niniejszej ustawy czasu zmian dokonywanych na podstawie ustawy dnia 29 grudnia 1992 o radiofonii telewizji ustawy dnia 31 lipca 1997 o Polskiej Agencji Prasowej bądź zmienionego statutu spółki.
-3. Z dniem wejścia życie niniejszej ustawy wygasają mandaty dotychczasowych rad programowych spółek, zastrzeżeniem 4.
-4. programowe spółek działają dotychczasowym składzie czasu powołania rad programowych na podstawie przepisów ustawy zmienianej 17 brzmieniu nadanym niniejszą ustawą.
-25. Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, wyjątkiem 19, który wchodzi życie dniem ogłoszenia.
-Prezydent Rzeczypospolitej Polskiej: A. Duda
+
+3. W sprawach niecierpiących zwłoki Przewodniczący Rady może zarządzić głosowanie korespondencyjne. Przepis ust. 2 stosuje się odpowiednio.
+
+4. Szczegółowy tryb prac Rady określa regulamin Rady.
+
+**Art. 12.** Rada jest uprawniona do wglądu sprawy spółki. W tym zakresie Radzie przysługują uprawnienia, jakie ustawa i statut spółki przyznają radzie nadzorczej.
+
+**Art. 13.**
+
+1. Rada przedstawia corocznie do 31 marca Sejmowi, Senatowi, Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów oraz Krajowej Radzie Radiofonii i Telewizji, a także podaje do wiadomości publicznej pisemną informację o swojej działalności poprzednim roku.
+
+2. Sejm i Senat rozpatrują informację, o której mowa ust. 1, łącznie z corocznym sprawozdaniem składanym przez Krajową Radę Radiofonii i Telewizji na podstawie art. 12 ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2020 r. poz. 805).
+
+3. Organy, o których mowa ust. 1, mogą zgłaszać uwagi do informacji, o której mowa ust. 1.
+
+4. Rada jest obowiązana ustosunkować się do uwag, o których mowa ust. 3, ciągu 30 dni od dnia doręczenia Przewodniczącemu Rady uwag odpowiednio przez Marszałka Sejmu, Marszałka Senatu, Prezydenta Rzeczypospolitej Polskiej, Prezesa Rady Ministrów lub Przewodniczącego Krajowej Rady Radiofonii i Telewizji. Każdy członek Rady może dołączyć do stanowiska Rady tej sprawie zdanie odrębne.
+
+**Art. 14.**
+
+1. Członkowi Rady przysługuje miesięczne wynagrodzenie kwocie przeciętnego wynagrodzenia, a przypadku Przewodniczącego Rady – półtorakrotności przeciętnego wynagrodzenia ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie art. 20 pkt 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353).
+
+2. Wysokość wynagrodzenia podlega zmianie, począwszy od miesiąca następującego po miesiącu, którym ostatnio dokonano ogłoszenia, o którym mowa ust. 1.
+
+3. Członek Rady ma prawo do zwrotu uzasadnionych kosztów podróży związanych z pełnieniem obowiązków na zasadach określonych przepisach sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej.
+
+4. W zakresie podlegania ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu do członków Rady stosuje się odpowiednio przepisy dotyczące członków rad nadzorczych.
+
+**Art. 15.**
+
+1. Obsługę administracyjno-organizacyjną Rady zapewnia Kancelaria Sejmu.
+
+2. Koszty funkcjonowania Rady obejmujące wydatki na pokrycie świadczeń przysługujących członkom Rady na podstawie art. 14 oraz koszty związane z obsługą, o której mowa ust. 1, są pokrywane z budżetu państwa ze środków, których dysponentem jest Szef Kancelarii Sejmu. Art. 16–19. (pominięte)
+
+**Art. 20.** Tworzy się Radę.
+
+**Art. 21.**
+
+1. Marszałek zwołuje pierwsze posiedzenie Rady terminie 14 dni od dnia wyboru albo powołania ostatniego członka Rady.
+
+2. Wynagrodzenie, o którym mowa art. 14 ust. 1, przysługuje, począwszy od miesiąca, którym odbyło się pierwsze posiedzenie Rady.
+
+**Art. 22.** Prezydent Rzeczypospolitej Polskiej wyznacza klubom opozycyjnym 14-dniowy termin na zgłaszanie kandydatów do Rady nie później niż 30 dni od dnia wejścia życie ustawy.
+
+**Art. 23.** Przed dniem zebrania się Rady na pierwsze posiedzenie sprawach niecierpiących zwłoki czynności ustawowo zastrzeżonych dla Rady dokonuje minister właściwy do spraw Skarbu Państwa.
+
+**Art. 24.**
+
+1. Niezwłocznie po dniu zebrania się Rady na pierwsze posiedzenie minister właściwy do spraw Skarbu Państwa zwoła nadzwyczajne walne zgromadzenia spółek celu dostosowania ich statutów do zmian wynikających z niniejszej ustawy.
+
+2. Organy spółek działają składzie istniejącym dniu wejścia życie niniejszej ustawy do czasu zmian dokonywanych na podstawie ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji oraz ustawy z dnia 31 lipca 1997 r. o Polskiej Agencji Prasowej bądź zmienionego statutu spółki.
+
+3. Z dniem wejścia życie niniejszej ustawy wygasają mandaty dotychczasowych rad programowych spółek, z zastrzeżeniem ust. 4.
+
+4. Rady programowe spółek działają dotychczasowym składzie do czasu powołania rad programowych na podstawie przepisów ustawy zmienianej art. 17 brzmieniu nadanym niniejszą ustawą.
+
+**Art. 25.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia , z wyjątkiem art. 19, który wchodzi życie z dniem ogłoszenia.
 

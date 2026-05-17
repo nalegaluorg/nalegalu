@@ -8,9 +8,12 @@ pos: 29
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 stycznia 2019 r.
+# o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego
+
+*USTAWA z dnia 23 listopada 2018 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,131 +27,136 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190000029) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/29/text.pdf) |
 
-USTAWA dnia 23 listopada 2018 r.
-świadczeniu rekompensacyjnym tytułu utraty prawa do bezpłatnego węgla oraz tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego
-
-**Art. 1.** Ustawa określa zasady i sposób realizacji świadczenia rekompensacyjnego tytułu utraty prawa do bezpłatnego węgla oraz tytułu zaprzestania pobierania bezpłatnego węgla naturze lub ekwiwalencie pieniężnym, zwanego dalej „rekompensatą”, przez osoby niebędące pracownikami przedsiębiorstwa górniczego.
+**Art. 1.** Ustawa określa zasady i sposób realizacji świadczenia rekompensacyjnego z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla w naturze lub w ekwiwalencie pieniężnym, zwanego dalej „rekompensatą”, przez osoby niebędące pracownikami przedsiębiorstwa górniczego.
 
 **Art. 2.**
 
-1. Użyte ustawie określenia oznaczają:
+1. Użyte w ustawie określenia oznaczają:
 
-- **1)** osoba uprawniona: poz. 1270 i 2245), albo mających ustalone prawo do renty rodzinnej po pracowniku przedsiębiorstwa górniczego zmarłym czasie trwania stosunku pracy lub byłym pracowniku, którym mowa lit. a tiret pierwsze, pobierających bezpłatny węgiel naturze lub ekwiwalencie pieniężnym, którym przedsiębiorstwo górnicze zaprzestało wydawać bezpłatny węgiel lub wypłacać ekwiwalent pieniężny przed dniem wejścia życie niniejszej ustawy;
-    - **a)** uprawnionych do bezpłatnego węgla na podstawie postanowień układów zbiorowych pracy, porozumień lub innych regulacji obowiązujących przedsiębiorstwie górniczym, które utraciły moc obowiązującą przed dniem wejścia życie ustawy, na skutek zawartych porozumień lub dokonanych wypowiedzeń: byłych pracowników, których stosunek pracy został rozwiązany przedsiębiorstwem górniczym na podstawie ustawy dnia 13 marca 2003 r. szczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn niedotyczących pracowników (Dz. U. 2018 r. poz. 1969) i którzy po ustaniu tego stosunku pracy nabyli prawo do zasiłku dla bezrobotnych oraz bezpośrednio po zakończeniu pobierania tego zasiłku nabyli prawo do świadczenia przedemerytalnego i je pobierali, emerytów i rencistów, mających ustalone prawo do emerytury lub renty tytułu niezdolności do pracy, którzy zamiast emerytury lub tej renty pobierają rentę rodzinną po zmarłym współmałżonku, wdowy, wdowców i sieroty, mających ustalone prawo do renty rodzinnej po pracowniku zmarłym czasie trwania stosunku pracy, emerycie lub renciście przedsiębiorstwa górniczego, jeżeli utrata uprawnienia do bezpłatnego węgla nie została im zrekompensowana jakikolwiek inny sposób,
-    - **b)** wdowy i wdowców, mających ustalone prawo do renty rodzinnej po osobie uprawnionej rozumieniu art. 2 pkt 1 lit. a ustawy dnia 12 października 2017 r. świadczeniu rekompensacyjnym tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971), zwanej dalej „ustawą świadczeniu rekompensacyjnym”,
-    - **c)** osoby uprawnione rozumieniu art. 2 pkt 1 ustawy świadczeniu rekompensacyjnym, którym nie wypłacono świadczenia rekompensacyjnego tytułu utraty prawa do bezpłatnego węgla, wyjątkiem osób, którym przedsiębiorstwo wypłacające udzieliło pisemnej odmowy, której mowa art. 5 ust. 9 tej ustawy,
-    - **d)** wdowy, wdowców i sieroty otrzymujących świadczenia specjalne, których mowa art. 82 ust. 1 i art. 83 ust. 1 ustawy dnia 17 grudnia 1998 r. emeryturach i rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2018 r.
-    - **a)** spółkę węglową jednoosobową spółkę Skarbu Państwa, która prowadziła dniu 31 grudnia 2011 r. wydobycie węgla kamiennego na podstawie koncesji,
-    - **b)** spółkę, której Skarb Państwa lub spółki węglowe posiadały dniu 31 grudnia 2011 r. akcje lub udziały, która prowadziła tym dniu wydobycie węgla kamiennego na podstawie koncesji;
+- **1)** osoba uprawniona: poz. 1270 i 2245), albo mających ustalone prawo do renty rodzinnej po pracowniku przedsiębiorstwa górniczego zmarłym w czasie trwania stosunku pracy lub byłym pracowniku, o którym mowa w lit. a tiret pierwsze, pobierających bezpłatny węgiel w naturze lub w ekwiwalencie pieniężnym, którym przedsiębiorstwo górnicze zaprzestało wydawać bezpłatny węgiel lub wypłacać ekwiwalent pieniężny przed dniem wejścia w życie niniejszej ustawy;
+    - **a)** uprawnionych do bezpłatnego węgla podstawie postanowień układów zbiorowych pracy, porozumień lub innych regulacji obowiązujących w przedsiębiorstwie górniczym, które utraciły moc obowiązującą przed dniem wejścia w życie ustawy, skutek zawartych porozumień lub dokonanych wypowiedzeń: – byłych pracowników, których stosunek pracy został rozwiązany z przedsiębiorstwem górniczym podstawie ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. z 2018 r. poz. 1969) i którzy po ustaniu tego stosunku pracy nabyli prawo do zasiłku dla bezrobotnych oraz bezpośrednio po zakończeniu pobierania tego zasiłku nabyli prawo do świadczenia przedemerytalnego i je pobierali, – emerytów i rencistów, mających ustalone prawo do emerytury lub renty z tytułu niezdolności do pracy, którzy zamiast emerytury lub tej renty pobierają rentę rodzinną po zmarłym współmałżonku, – wdowy, wdowców i sieroty, mających ustalone prawo do renty rodzinnej po pracowniku zmarłym w czasie trwania stosunku pracy, emerycie lub renciście z przedsiębiorstwa górniczego, jeżeli utrata uprawnienia do bezpłatnego węgla nie została im zrekompensowana w jakikolwiek inny sposób,
+    - **b)** wdowy i wdowców, mających ustalone prawo do renty rodzinnej po osobie uprawnionej w rozumieniu art. 2 pkt 1 lit. a ustawy z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971), zwanej dalej „ustawą o świadczeniu rekompensacyjnym”,
+    - **c)** osoby uprawnione w rozumieniu art. 2 pkt 1 ustawy o świadczeniu rekompensacyjnym, którym nie wypłacono świadczenia rekompensacyjnego z tytułu utraty prawa do bezpłatnego węgla, z wyjątkiem osób, którym przedsiębiorstwo wypłacające udzieliło pisemnej odmowy, o której mowa w art. 5 ust. 9 tej ustawy,
+    - **d)** wdowy, wdowców i sieroty otrzymujących świadczenia specjalne, o których mowa w art. 82 ust. 1 i art. 83 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2018 r.
+
+- **2)** przedsiębiorstwo górnicze:
+    - **a)** spółkę węglową – jednoosobową spółkę Skarbu Państwa, która prowadziła w dniu 31 grudnia 2011 r. wydobycie węgla kamiennego podstawie koncesji,
+    - **b)** spółkę, w której Skarb Państwa lub spółki węglowe posiadały w dniu 31 grudnia 2011 r. akcje lub udziały, która prowadziła w tym dniu wydobycie węgla kamiennego podstawie koncesji;
 
 - **3)** przedsiębiorstwo wypłacające:
-    - **a)** przedsiębiorstwo, którym mowa art. 8 ust. 1 ustawy dnia 7 września 2007 r. funkcjonowaniu górnictwa węgla kamiennego (Dz. U. 2018 r. poz. 1374 i 2341) przypadku osób uprawnionych ze zlikwidowanych przedsiębiorstw górniczych lub przedsiębiorstw górniczych, które zaprzestały wydobycia węgla kamiennego na podstawie koncesji przed dniem wejścia życie ustawy,
-    - **b)** przedsiębiorstwo górnicze przypadku osób uprawnionych przedsiębiorstw górniczych, które dniu wejścia życie ustawy prowadzą wydobycie węgla kamiennego na podstawie koncesji.
+    - **a)** przedsiębiorstwo, o którym mowa w art. 8 ust. 1 ustawy z dnia 7 września 2007 r. o funkcjonowaniu górnictwa węgla kamiennego (Dz. U. z 2018 r. poz. 1374 i 2341) – w przypadku osób uprawnionych ze zlikwidowanych
+    - **b)** przedsiębiorstwo górnicze – w przypadku osób uprawnionych z przedsiębiorstw górniczych, które w dniu wejścia w życie ustawy prowadzą wydobycie węgla kamiennego podstawie koncesji.
 
-2. Za wdowy i wdowców, których mowa ust. 1 pkt 1 lit. a tiret trzecie, lit. b i d oraz art. 2 pkt 1 lit. b ustawy świadczeniu rekompensacyjnym, uznaje się również osoby, które ponownie zawarły związek małżeński, tracąc status wdowy lub wdowca.
+2. Za wdowy i wdowców, o których mowa w ust. 1 pkt 1 lit. a tiret trzecie, lit. b i d oraz art. 2 pkt 1 lit. b ustawy o świadczeniu rekompensacyjnym, uznaje się również osoby, które ponownie zawarły związek małżeński, tracąc status wdowy lub wdowca.
 
-3. W przypadku osób uprawnionych, których mowa ust. 1 pkt 1 lit. a tiret drugie i trzecie oraz lit. b–d, posiadanie ustalonego prawa do renty rodzinnej oraz do świadczeń specjalnych, których mowa art. 82 ust. 1 i art. 83 ust. 1 ustawy dnia 17 grudnia 1998 r. emeryturach i rentach Funduszu Ubezpieczeń Społecznych, ustala się na dzień utraty prawa do bezpłatnego węgla lub zaprzestania jego pobierania naturze lub ekwiwalencie pieniężnym.
+3. W przypadku osób uprawnionych, o których mowa w ust. 1 pkt 1 lit. a tiret drugie i trzecie oraz lit. b–d, posiadanie ustalonego prawa do renty rodzinnej oraz do świadczeń specjalnych, o których mowa w art. 82 ust. 1 i art. 83 ust. 1 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych, ustala się dzień utraty prawa do bezpłatnego węgla lub zaprzestania jego pobierania w naturze lub w ekwiwalencie pieniężnym.
 
 **Art. 3.**
 
 1. Rekompensata przysługuje osobie uprawnionej.
 
-2. Rekompensata nie przysługuje osobie uprawnionej, której roszczenie tytułu prawa do bezpłatnego węgla podlega zaspokojeniu na podstawie prawomocnego wyroku sądowego.
+2. Rekompensata nie przysługuje osobie uprawnionej, której roszczenie z tytułu prawa do bezpłatnego węgla podlega zaspokojeniu podstawie prawomocnego wyroku sądowego.
 
-3. Rekompensata nie przysługuje osobie uprawnionej, której roszczenie tytułu prawa do rekompensaty zostało zaspokojone na podstawie przepisów ustawy świadczeniu rekompensacyjnym.
+3. Rekompensata nie przysługuje osobie uprawnionej, której roszczenie z tytułu prawa do rekompensaty zostało zaspokojone podstawie przepisów ustawy o świadczeniu rekompensacyjnym.
 
 **Art. 4.**
 
 1. Wysokość rekompensaty wynosi 10 000 zł.
 
-2. Rekompensata jest wypłacana jednorazowo przez właściwe przedsiębiorstwo wypłacające przekazem pocztowym albo przelewem na rachunek bankowy albo rachunek prowadzony spółdzielczej kasie oszczędnościowo-kredytowej, wskazany we wniosku wypłatę rekompensaty.
+2. Rekompensata jest wypłacana jednorazowo przez właściwe przedsiębiorstwo wypłacające przekazem pocztowym albo przelewem rachunek bankowy albo rachunek prowadzony w spółdzielczej kasie oszczędnościowo-kredytowej, wskazany we wniosku o wypłatę rekompensaty.
 
-3. Roszczenie świadczenie tytułu wypłaty rekompensaty wygasa po upływie 12 miesięcy od dnia następującego po ostatnim dniu terminu, którym mowa art. 5 ust. 1.
+3. Roszczenie o świadczenie z tytułu wypłaty rekompensaty wygasa po upływie 12 miesięcy od dnia następującego po ostatnim dniu terminu, o którym mowa w art. 5 ust. 1.
 
-4. W przypadku śmierci osoby uprawnionej, której mowa art. 2 ust. 1 pkt 1 lit. a tiret pierwsze i drugie oraz lit. c zakresie, jakim dotyczy osób uprawnionych, których mowa art. 2 pkt 1 lit. a ustawy świadczeniu rekompensacyjnym, która złożyła wniosek wypłatę rekompensaty, należną jej rekompensatę wypłaca się częściach równych wdowie, wdowcowi i sierotom uprawnionym do renty rodzinnej po tej osobie.
+4. W przypadku śmierci osoby uprawnionej, o której mowa w art. 2 ust. 1 pkt 1 lit. a tiret pierwsze i drugie oraz lit. c w zakresie, w jakim dotyczy osób uprawnionych, o których mowa w art. 2 pkt 1 lit. a ustawy o świadczeniu rekompensacyjnym, która złożyła wniosek o wypłatę rekompensaty, należną jej rekompensatę wypłaca się w częściach równych wdowie, wdowcowi i sierotom uprawnionym do renty rodzinnej po tej osobie.
 
 **Art. 5.**
 
-1. Wniosek wypłatę rekompensaty osoba uprawniona składa do właściwego przedsiębiorstwa wypłacającego terminie 90 dni od dnia wejścia życie ustawy.
+1. Wniosek o wypłatę rekompensaty osoba uprawniona składa do właściwego przedsiębiorstwa wypłacającego w terminie 90 dni od dnia wejścia w życie ustawy.
 
-2. Wniosek wypłatę rekompensaty zawiera:
+2. Wniosek o wypłatę rekompensaty zawiera:
 
 - **1)** imię i nazwisko osoby uprawnionej;
-- **2)** numer PESEL albo rodzaj i numer dokumentu tożsamości przypadku braku numeru PESEL;
-- **3)** nazwę przedsiębiorstwa górniczego, którego osoba uprawniona przeszła na emeryturę lub rentę albo którego zmarły współmałżonek osoby uprawnionej przeszedł na emeryturę lub rentę, albo którego osoba uprawniona otrzymywała bezpłatny węgiel naturze lub ekwiwalencie pieniężnym lub które przyznało jej to uprawnienie;
+- **2)** numer PESEL albo rodzaj i numer dokumentu tożsamości w przypadku braku numeru PESEL;
+- **3)** nazwę przedsiębiorstwa górniczego, z którego osoba uprawniona przeszła emeryturę lub rentę albo z którego zmarły współmałżonek osoby uprawnionej przeszedł emeryturę lub rentę, albo z którego osoba uprawniona otrzymywała bezpłatny węgiel w naturze lub w ekwiwalencie pieniężnym lub które przyznało jej to uprawnienie;
 - **4)** wskazanie sposobu wypłaty rekompensaty;
 - **5)** adres zamieszkania osoby uprawnionej;
-- **6)** numer rachunku bankowego albo rachunku prowadzonego spółdzielczej kasie oszczędnościowo-kredytowej, na jaki ma być wypłacona rekompensata przypadku wypłaty rekompensaty przelewem;
-- **7)** telefon do kontaktu osobą uprawnioną; tariusza albo przez wójta, burmistrza, prezydenta miasta właściwego dla adresu zamieszkania osoby uprawnionej lub osobę przez niego upoważnioną.
+- **6)** numer rachunku bankowego albo rachunku prowadzonego w spółdzielczej kasie oszczędnościowo-kredytowej, jaki ma być wypłacona rekompensata – w przypadku wypłaty rekompensaty przelewem;
+- **7)** telefon do kontaktu z osobą uprawnioną;
+- **8)** miejscowość, datę i podpis osoby uprawnionej, a w przypadku składania wniosku o wypłatę rekompensaty w sposób inny niż osobiście w siedzibie przedsiębiorstwa wypłacającego – podpis osoby uprawnionej poświadczony przez notariusza albo przez wójta, burmistrza, prezydenta miasta właściwego dla adresu zamieszkania osoby uprawnionej lub osobę przez niego upoważnioną.
 
-3. Do wniosku wypłatę rekompensaty dołącza się:
+3. Do wniosku o wypłatę rekompensaty dołącza się:
 
 - **1)** dokumenty potwierdzające uprawnienie do rekompensaty;
-- **2)** oświadczenie następującej treści: „Oświadczam, że:
-- **1)** dane zawarte we wniosku wypłatę rekompensaty są zgodne prawdą;
-- **2)** roszczenia tytułu prawa do bezpłatnego węgla nie podlegają zaspokojeniu na podstawie prawomocnego wyroku sądowego;
-- **3)** nie złożyłem(am) pozwu/złożyłem(am) pozew dotyczący(ego) roszczenia tytułu prawa do bezpłatnego węgla do sądu ... ...;
-- **4)** nie złożyłem(am) pozwu/złożyłem(am) pozew dotyczący(ego) roszczenia tytułu świadczenia rekompensacyjnego przysługującego na podstawie ustawy dnia 12 października 2017 r. świadczeniu rekompensacyjnym tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971) do sądu ... ...;
-- **5)** przypadku wypłaty rekompensaty nie będę występować roszczeniami tytułu prawa do bezpłatnego węgla przysługującego na podstawie postanowień układów zbiorowych pracy, porozumień lub innych regulacji obowiązujących przedsiębiorstwie górniczym, które utraciły moc obowiązującą przed dniem wejścia życie ustawy na skutek zawartych porozumień lub dokonanych wypowiedzeń. *Niepotrzebne skreślić.”.
+- **2)** oświadczenie o następującej treści: „Oświadczam, że:
+- **1)** dane zawarte we wniosku o wypłatę rekompensaty są zgodne z prawdą;
+- **3)** nie złożyłem(am) pozwu/złożyłem(am) pozew dotyczący(ego) roszczenia z tytułu prawa do bezpłatnego węgla do sądu ... w ...;
+- **4)** nie złożyłem(am) pozwu/złożyłem(am) pozew dotyczący(ego) roszczenia z tytułu świadczenia rekompensacyjnego przysługującego podstawie ustawy z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971) do sądu ... w ...;
+- **5)** w przypadku wypłaty rekompensaty nie będę występować z roszczeniami z tytułu prawa do bezpłatnego węgla przysługującego podstawie postanowień układów zbiorowych pracy, porozumień lub innych regulacji obowiązujących w przedsiębiorstwie górniczym, które utraciły moc obowiązującą przed dniem wejścia w życie ustawy skutek zawartych porozumień lub dokonanych wypowiedzeń. *Niepotrzebne skreślić.”.
 
-4. Oświadczenie, którym mowa ust. 3 pkt 2, składa się pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
+4. Oświadczenie, o którym mowa w ust. 3 pkt 2, składa się pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-5. Wniosek wypłatę rekompensaty składa się na formularzu, którego wzór określa załącznik do ustawy.
+5. Wniosek o wypłatę rekompensaty składa się formularzu, którego wzór określa załącznik do ustawy.
 
-6. W przypadku gdy wniosek wypłatę rekompensaty nie zawiera danych, których mowa ust. 2, lub nie dołączono do niego dokumentów, których mowa ust. 3 pkt 1, lub oświadczenia, którym mowa ust. 3 pkt 2, przedsiębiorstwo wypłacające niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku wypłatę rekompensaty lub dołączenia dokumentów lub oświadczenia terminie 14 dni od dnia doręczenia wezwania pouczeniem, że nieuzupełnienie danych lub niedołączenie dokumentów lub oświadczenia tym terminie spowoduje odmowę wypłaty rekompensaty.
+6. W przypadku gdy wniosek o wypłatę rekompensaty nie zawiera danych, o których mowa w ust. 2, lub nie dołączono do niego dokumentów, o których mowa w ust. 3 pkt 1, lub oświadczenia, o którym mowa w ust. 3 pkt 2, przedsiębiorstwo wypłacające niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku o wypłatę rekompensaty lub dołączenia dokumentów lub oświadczenia w terminie 14 dni od dnia doręczenia wezwania z pouczeniem, że nieuzupełnienie danych lub niedołączenie dokumentów lub oświadczenia w tym terminie spowoduje odmowę wypłaty rekompensaty.
 
-7. Przedsiębiorstwo wypłacające odmawia formie pisemnej, podaniem przyczyny odmowy, wypłaty rekompensaty, jeżeli wniosek wypłatę rekompensaty:
+7. Przedsiębiorstwo wypłacające odmawia w formie pisemnej, z podaniem przyczyny odmowy, wypłaty rekompensaty, jeżeli wniosek o wypłatę rekompensaty:
 
 - **1)** złożyła osoba nieuprawniona;
-- **2)** został złożony po upływie terminu, którym mowa ust. 1, lub uzupełniony po upływie terminu, którym mowa ust. 6.
+- **2)** został złożony po upływie terminu, o którym mowa w ust. 1, lub uzupełniony po upływie terminu, o którym mowa w ust. 6.
 
-8. Przedsiębiorstwo wypłacające, inicjatywy własnej albo na wniosek osoby uprawnionej, prostuje błędy pisarskie oraz inne oczywiste omyłki odmowie, której mowa ust. 7.
+8. Przedsiębiorstwo wypłacające, z inicjatywy własnej albo wniosek osoby uprawnionej, prostuje błędy pisarskie oraz inne oczywiste omyłki w odmowie, o której mowa w ust. 7.
 
-9. Od odmowy, której mowa ust. 7, przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych terminie 14 dni od dnia otrzymania odmowy lub jej sprostowania. Stronami postępowania sądowego są przedsiębiorstwo wypłacające, które odmówiło wypłaty rekompensaty osobie składającej odwołanie, oraz ta osoba.
+9. Od odmowy, o której mowa w ust. 7, przysługuje odwołanie do sądu pracy i ubezpieczeń społecznych w terminie 14 dni od dnia otrzymania odmowy lub jej sprostowania. Stronami postępowania sądowego są przedsiębiorstwo wypłacające, które odmówiło wypłaty rekompensaty osobie składającej odwołanie, oraz ta osoba.
 
-**Art. 6.** Wójt, burmistrz, prezydent miasta lub osoba przez niego upoważniona są obowiązani, na wniosek osób zainteresowanych, do poświadczania własnoręczności podpisu osoby uprawnionej, którym mowa art. 5 ust. 2 pkt 8.
+**Art. 6.** Wójt, burmistrz, prezydent miasta lub osoba przez niego upoważniona są obowiązani, wniosek osób zainteresowanych, do poświadczania własnoręczności podpisu osoby uprawnionej, o którym mowa w art. 5 ust. 2 pkt 8.
 
 **Art. 7.**
 
-1. Rekompensaty są finansowane dotacji celowej przyznawanej przez ministra właściwego do spraw gospodarki złożami kopalin, zwanego dalej „ministrem”.
+1. Rekompensaty są finansowane z dotacji celowej przyznawanej przez ministra właściwego do spraw gospodarki złożami kopalin, zwanego dalej „ministrem”.
 
-2. Dotację, której mowa ust. 1, przyznaje się na wniosek przedsiębiorstwa wypłacającego złożony do ministra.
+2. Dotację, o której mowa w ust. 1, przyznaje się wniosek przedsiębiorstwa wypłacającego złożony do ministra.
+
+3. Wniosek, o którym mowa w ust. 2, zawiera:
 
 - **1)** nazwę przedsiębiorstwa wypłacającego;
 - **2)** adres siedziby przedsiębiorstwa wypłacającego;
-- **3)** liczbę osób uprawnionych, którym ma być wypłacona rekompensata, ze wskazaniem przedsiębiorstwa górniczego, którego osoby uprawnione otrzymywały bezpłatny węgiel naturze lub ekwiwalencie pieniężnym;
-- **4)** kwotę dotacji, której mowa ust. 1;
+- **3)** liczbę osób uprawnionych, którym ma być wypłacona rekompensata, ze wskazaniem przedsiębiorstwa górniczego, z którego osoby uprawnione otrzymywały bezpłatny węgiel w naturze lub w ekwiwalencie pieniężnym;
+- **4)** kwotę dotacji, o której mowa w ust. 1;
 - **5)** podpis osoby upoważnionej do reprezentacji przedsiębiorstwa wypłacającego.
 
-4. W przypadku gdy wniosek, którym mowa ust. 2, zawiera braki formalne, minister wzywa przedsiębiorstwo wypłacające do ich uzupełnienia terminie 7 dni od dnia doręczenia wezwania pod rygorem pozostawienia wniosku bez rozpoznania.
+4. W przypadku gdy wniosek, o którym mowa w ust. 2, zawiera braki formalne, minister wzywa przedsiębiorstwo wypłacające do ich uzupełnienia w terminie 7 dni od dnia doręczenia wezwania pod rygorem pozostawienia wniosku bez rozpoznania.
 
-5. Podstawą przekazywania środków dotacji, której mowa ust. 1, jest umowa zawarta między ministrem a przedsiębiorstwem wypłacającym, które złożyło wniosek, którym mowa ust. 2.
+5. Podstawą przekazywania środków z dotacji, o której mowa w ust. 1, jest umowa zawarta między ministrem a przedsiębiorstwem wypłacającym, które złożyło wniosek, o którym mowa w ust. 2.
 
-6. Środki dotacji, której mowa ust. 1, są przekazywane na rachunek bankowy wyodrębniony tym celu przez przedsiębiorstwo wypłacające i są odrębnie ewidencjonowane.
+7. Agencja Rozwoju Przemysłu S.A., zlecenie ministra, monitoruje wykorzystanie dotacji, o której mowa w ust. 1.
 
-7. Agencja Rozwoju Przemysłu S.A., na zlecenie ministra, monitoruje wykorzystanie dotacji, której mowa ust. 1.
-
-8. Agencja Rozwoju Przemysłu S.A. przetwarza dane osobowe zawarte we wniosku wypłatę rekompensaty oraz wniosku wypłatę rekompensaty, którym mowa art. 5 ust. 1 ustawy świadczeniu rekompensacyjnym, celu realizacji zadania, którym mowa ust. 7.
+8. Agencja Rozwoju Przemysłu S.A. przetwarza dane osobowe zawarte we wniosku o wypłatę rekompensaty oraz wniosku o wypłatę rekompensaty, o którym mowa w art. 5 ust. 1 ustawy o świadczeniu rekompensacyjnym, w celu realizacji zadania, o którym mowa w ust. 7.
 
 **Art. 8.**
 
-1. Przedsiębiorstwo wypłacające sporządza rozliczenie przyznanej dotacji, której mowa art. 7 ust. 1, i przekazuje je ministrowi terminie 15 dni od dnia wykonania zadania określonego umowie, której mowa art. 7 ust. 5.
+1. Przedsiębiorstwo wypłacające sporządza rozliczenie przyznanej dotacji, o której mowa w art. 7 ust. 1, i przekazuje je ministrowi w terminie 15 dni od dnia wykonania zadania określonego w umowie, o której mowa w art. 7 ust. 5.
 
-2. Rozliczenie, którym mowa ust. 1, zawiera zestawienie otrzymanych kwot dotacji, której mowa art. 7 ust. 1, oraz rozliczenie wydatkowanych kwot tej dotacji.
+2. Rozliczenie, o którym mowa w ust. 1, zawiera zestawienie otrzymanych kwot dotacji, o której mowa w art. 7 ust. 1, oraz rozliczenie wydatkowanych kwot tej dotacji.
 
-3. Przedsiębiorstwo wypłacające dokonuje zwrotu niewykorzystanej części dotacji terminie nie dłuższym niż 15 dni od dnia wykonania zadania określonego umowie, której mowa art. 7 ust. 5.
+3. Przedsiębiorstwo wypłacające dokonuje zwrotu niewykorzystanej części dotacji w terminie nie dłuższym niż 15 dni od dnia wykonania zadania określonego w umowie, o której mowa w art. 7 ust. 5.
 
-**Art. 9.** Przedsiębiorstwo wypłacające nie dokonuje potrąceń i egzekucji kwoty rekompensaty.
+**Art. 9.** Przedsiębiorstwo wypłacające nie dokonuje potrąceń i egzekucji z kwoty rekompensaty.
 
-**Art. 10.** Kwota rekompensaty nie stanowi podstawy wymiaru składek na ubezpieczenie zdrowotne.
+**Art. 10.** Kwota rekompensaty nie stanowi podstawy wymiaru składek ubezpieczenie zdrowotne.
 
-**Art. 11.** Kwoty rekompensaty nie wlicza się do dochodu, którym mowa w:
+**Art. 11.** Kwoty rekompensaty nie wlicza się do dochodu, o którym mowa w:
 
-**Art. 12.** W ustawie dnia 26 lipca 1991 r. podatku dochodowym od osób fizycznych (Dz. U. 2018 r. poz. 1509, późn. zm. ) art. 52h otrzymuje brzmienie: „Art. 52h. Zwalnia się od podatku dochodowego kwoty świadczenia rekompensacyjnego tytułu utraty prawa do bezpłatnego węgla, którym mowa ustawie dnia 12 października 2017 r. świadczeniu rekompensacyjnym tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971), oraz kwoty świadczenia rekompensacyjnego tytułu utraty prawa do bezpłatnego węgla oraz tytułu zaprzestania pobierania bezpłatnego węgla naturze lub ekwiwalencie pieniężnym, którym mowa ustawie dnia 23 listopada 2018 r. świadczeniu rekompensacyjnym tytułu utraty prawa do bezpłatnego węgla oraz tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego (Dz. U. 2019 r. poz. 29).”. ustawy podlega rozpatrzeniu przez przedsiębiorstwo wypłacające na podstawie przepisów niniejszej ustawy. 2. W przypadku gdy przedsiębiorstwo wypłacające wzywa do uzupełnienia wniosku wypłatę rekompensaty lub dołączenia dokumentów lub oświadczenia osobę uprawnioną, której mowa art. 2 ust. 1 pkt 1 lit. c, która złożyła wniosek wypłatę rekompensaty, którym mowa art. 5 ust. 1 ustawy świadczeniu rekompensacyjnym, przed dniem wejścia życie niniejszej ustawy, osoba ta uzupełnia ten wniosek zgodnie art. 5 ust. 2 i 3 ustawy świadczeniu rekompensacyjnym.
+**Art. 12.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2018 r. poz. 1509, z późn. zm. ) art. 52h otrzymuje brzmienie: „Art. 52h. Zwalnia się od podatku dochodowego kwoty świadczenia rekompensacyjnego z tytułu utraty prawa do bezpłatnego węgla, o którym mowa w ustawie z dnia 12 października 2017 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla (Dz. U. poz. 1971), oraz kwoty świadczenia rekompensacyjnego z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla w naturze lub w ekwiwalencie pieniężnym, o którym mowa w ustawie z dnia 23 listopada 2018 r. o świadczeniu rekompensacyjnym z tytułu utraty prawa do bezpłatnego węgla oraz z tytułu zaprzestania pobierania bezpłatnego węgla przez osoby niebędące pracownikami przedsiębiorstwa górniczego (Dz. U. z 2019 r. poz. 29).”.
+
+**Art. 13.**
+
+1. Wniosek o wypłatę rekompensaty, o którym mowa w art. 5 ust. 1 ustawy o świadczeniu rekompensacyjnym, złożony przez osobę uprawnioną, o której mowa w art. 2 ust. 1 pkt 1 lit. c, przed dniem wejścia w życie niniejszej ustawy podlega rozpatrzeniu przez przedsiębiorstwo wypłacające podstawie przepisów niniejszej ustawy.
+
+2. W przypadku gdy przedsiębiorstwo wypłacające wzywa do uzupełnienia wniosku o wypłatę rekompensaty lub dołączenia dokumentów lub oświadczenia osobę uprawnioną, o której mowa w art. 2 ust. 1 pkt 1 lit. c, która złożyła wniosek o wypłatę rekompensaty, o którym mowa w art. 5 ust. 1 ustawy o świadczeniu rekompensacyjnym, przed dniem wejścia w życie niniejszej ustawy, osoba ta uzupełnia ten wniosek zgodnie z art. 5 ust. 2 i 3 ustawy o świadczeniu rekompensacyjnym.
 
 **Art. 14.** Realizacja wypłat rekompensat nastąpi od dnia 1 czerwca 2019 r.
 
-**Art. 15.** Maksymalny limit wydatków budżetu państwa będący skutkiem finansowym wejścia życie ustawy wynosi 2019 r. 240,8 mln zł.
+**Art. 15.** Maksymalny limit wydatków z budżetu państwa będący skutkiem finansowym wejścia w życie ustawy wynosi w 2019 r. 240,8 mln zł.
 
-**Art. 16.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda WZÓR Wniosek wypłatę świadczenia rekompensacyjnego tytułu utraty prawa do bezpłatnego węgla oraz tytułu zaprzestania pobierania bezpłatnego węgla naturze lub ekwiwalencie pieniężnym Imię/imiona osoby uprawnionej Nazwisko osoby uprawnionej Numer PESEL Nazwa przedsiębiorstwa górniczego (oddział/ kopalnia), którego osoba uprawniona przeszła na emeryturę lub rentę albo którego zmarły współmałżonek osoby uprawnionej przeszedł na emeryturę lub rentę, albo którego osoba uprawniona otrzymywała bezpłatny węgiel naturze lub ekwiwalencie pieniężnym lub które przyznało jej to uprawnienie Wskazanie sposobu wypłaty rekompensaty przekaz pocztowy/przelew bankowy* Adres zamieszkania osoby uprawnionej ........................................... ...................... .................................. ulica nr domu nr mieszkania .................................................... kod pocztowy miejscowość Numer rachunku bankowego/numer rachunku prowadzonego spółdzielczej kasie oszczędnościowo-kredytowej Telefon do kontaktu osobą uprawnioną miejscowość, data ………………………... .……..…………………………………………….. czytelny podpis osoby uprawnionej ……………………………………………………….. data i czytelny podpis osoby przyjmującej wniosek * Niepotrzebne skreślić. POUCZENIE: Do wniosku dołącza się:
+**Art. 16.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

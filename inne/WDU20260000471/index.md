@@ -8,9 +8,12 @@ pos: 471
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 7 kwietnia 2026 r.
+# o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
+
+*USTAWA z dnia 13 marca 2026 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +27,6 @@ domain: null
 | Ostatnia zmiana | 2026-04-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/471/text.pdf) |
 
-USTAWA z dnia 13 marca 2026 r.
-o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa oraz ustawy o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym
-
 **Art. 1.** W ustawie z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2023 r. poz. 1582) wprowadza się następujące zmiany:
 
 **Art. 24a.**
@@ -35,7 +35,7 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 
 - **1)** udzielonych zezwoleń indywidualnych,
 - **2)** udzielonych zezwoleń globalnych,
-- **3)** podmiotów korzystających z krajowych zezwoleń generalnych udzielonych na podstawie przepisów wydanych na podstawie art. 8 ust. 2 oraz podmiotów korzystających z generalnych unijnych zezwoleń na wywóz zwany dalej „rejestrem”.
+- **3)** podmiotów korzystających z krajowych zezwoleń generalnych udzielonych na podstawie przepisów wydanych na podstawie art. 8 ust. 2 oraz podmiotów korzystających z generalnych unijnych zezwoleń na wywóz – zwany dalej „rejestrem”.
 - **1)** udzielonych zezwoleń indywidualnych i zezwoleń globalnych:
     - **a)** nazwę i adres siedziby albo miejsca zamieszkania wnioskodawcy,
     - **b)** nazwę i adres siedziby albo miejsca zamieszkania eksportera lub dostawcy,
@@ -45,7 +45,7 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
     - **f)** numer udzielonego zezwolenia indywidualnego lub zezwolenia globalnego,
     - **g)** datę wydania i ważności zezwolenia indywidualnego lub zezwolenia globalnego,
     - **h)** numer kontrolny określony wykazie, o którym mowa przepisach wydanych na podstawie art. 6a ust. 3, albo załącznikach I i IV do rozporządzenia 2021/821, albo wskazanie, że towar nie znajduje się załącznikach I i IV do rozporządzenia 2021/821,
-    - **i)** kategorię uzbrojenia określoną przepisach wydanych na podstawie art. 27b jeżeli towar taką kategorię posiada,
+    - **i)** kategorię uzbrojenia określoną przepisach wydanych na podstawie art. 27b – jeżeli towar taką kategorię posiada,
     - **j)** kod klasyfikacyjny układzie odpowiadającym Nomenklaturze Scalonej (CN) zgodnej z rozporządzeniem Rady (EWG) nr 2658/87 z dnia 23 lipca 1987 r. sprawie nomenklatury taryfowej i statystycznej oraz sprawie Wspólnej Taryfy Celnej,
     - **k)** ilość i wartość towarów o znaczeniu strategicznym oraz walutę transakcji,
     - **l)** informację o sposobie końcowego wykorzystania towarów o znaczeniu strategicznym przez końcowego użytkownika, tym informację, czy towar jest przeznaczony dla przedstawicielstwa dyplomatycznego określonego państwa innym państwie lub przy organizacji międzynarodowej,
@@ -66,9 +66,9 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 
 - **1)** zapewnia ochronę przed nieuprawnionym dostępem do rejestru;
 - **2)** dokonuje niezwłocznej aktualizacji danych zawartych rejestrze;
-- **3)** zapewnia integralność danych zawartych rejestrze.
+- **3)** zapewnia integralność danych zawartych rejestrze. ministrowi właściwemu do spraw gospodarki terminie 14 dni od dnia zmiany danych. Minister właściwy do spraw gospodarki zmienia dane rejestrze terminie 14 dni od zgłoszenia.
 
-6. W przypadku zmiany danych osobowych wpisanych do rejestru, podmiot wpisany do rejestru zgłasza te zmiany ministrowi właściwemu do spraw gospodarki terminie 14 dni od dnia zmiany danych. Minister właściwy do spraw gospodarki zmienia dane rejestrze terminie 14 dni od zgłoszenia. powi do tych danych lub ich przekazywaniu. Zabezpieczenia te polegają co najmniej na:
+7. Dane osobowe podlegają zabezpieczeniom zapobiegającym nadużyciom lub niezgodnemu z prawem dostępowi do tych danych lub ich przekazywaniu. Zabezpieczenia te polegają co najmniej na:
 
 - **1)** dopuszczeniu przez administratora danych do przetwarzania danych osobowych wyłącznie osób pisemnie do tego upoważnionych;
 - **2)** pisemnym zobowiązaniu się osób upoważnionych do przetwarzania danych osobowych do zachowania ich tajemnicy;
@@ -86,7 +86,7 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 
 - **1)** dane osoby fizycznej uprawnionej do reprezentowania podmiotu, o którym mowa ust. 1:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało,
+    - **b)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało,
     - **c)** adres poczty elektronicznej lub numer telefonu do kontaktu sprawie wniosku;
 
 - **2)** dane podmiotu, o którym mowa ust. 1:
@@ -95,21 +95,23 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 
 - **3)** dane osoby fizycznej, której będzie nadany dostęp do rejestru:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało;
+    - **b)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało;
 
 - **4)** dane osoby fizycznej upoważnionej do prowadzenia ewidencji, o której mowa art. 25 ust. 1, o ile ewidencja ta jest prowadzona postaci elektronicznej systemie, z wykorzystaniem usługi online udostępnionej systemie PIP:
     - **a)** imię i nazwisko,
-    - **b)** numer PESEL, a przypadku jego braku rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało.
+    - **b)** numer PESEL, a przypadku jego braku – rodzaj, serię i numer dokumentu tożsamości oraz nazwę państwa, które go wydało.
 
 4. Wniosek o uzyskanie dostępu do danych z rejestru opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym osoby fizycznej uprawnionej do reprezentowania podmiotu, o którym mowa ust. 1.
 
 5. Jeżeli wniosek o uzyskanie dostępu do danych z rejestru jest niekompletny lub zawiera nieprawidłowe lub błędne dane, organ kontroli obrotu informuje podmiot składający wniosek o uchybieniach za pośrednictwem systemu PIP.
 
-6. Do rozpatrywania wniosku o uzyskanie dostępu do danych z rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
+6. Do rozpatrywania wniosku o uzyskanie dostępu do danych z rejestru nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 **Art. 24d.**
 
-1. Minister właściwy do spraw gospodarki może, drodze porozumienia, powierzyć instytutowi badawczemu rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1017 i 1080 oraz z 2026 r. poz. 160) lub instytutowi działającemu ramach Sieci Badawczej Łukasiewicz rozumieniu ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2026 r. poz. 194), którego przedmiocie i zakresie działalności znajdują się badania naukowe i prace rozwojowe dziedzinie pozostałych nauk przyrodniczych i technicznych, realizację niektórych zadań związanych z utrzymaniem i rozwojem systemu, polegających na zapewnianiu jego ciągłej i bezawaryjnej pracy, podejmowaniu działań serwisowych oraz wdrażaniu nowych funkcjonalności tego systemu. właściwy do spraw gospodarki.
+1. Minister właściwy do spraw gospodarki może, drodze porozumienia, powierzyć instytutowi badawczemu rozumieniu art. 1 ust. 1 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534, z 2025 r. poz. 1017 i 1080 oraz z 2026 r. poz. 160) lub instytutowi działającemu ramach Sieci Badawczej Łukasiewicz rozumieniu ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2026 r. poz. 194), polegających na zapewnianiu jego ciągłej i bezawaryjnej pracy, podejmowaniu działań serwisowych oraz wdrażaniu nowych funkcjonalności tego systemu.
+
+2. Zadania, o których mowa ust. 1, są finansowane z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw gospodarki.
 
 3. Porozumienie, o którym mowa ust. 1, określa szczególności:
 
@@ -138,10 +140,10 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 - **17)** art. 25:
     - **a)** po ust. 1 dodaje się ust. 1a i 1b brzmieniu: „1a. Ewidencję, o której mowa ust. 1, prowadzi się postaci papierowej albo postaci elektronicznej systemie, z wykorzystaniem usługi online udostępnionej systemie PIP, albo innym systemie teleinformatycznym posiadającym rozwiązania umożliwiające rejestrację i przechowywanie wpisów wraz z kopią zapasową oraz pozwalającym na weryfikację wpisów na podstawie dokumentów przechowywanych przez podmiot prowadzący tę ewidencję.
 
-1b. Podmiot zamierzający prowadzić ewidencję systemie składa wniosek o dostęp do danych i informacji zawartych rejestrze za pośrednictwem systemu PIP, sposób określony art. 24c.”,
+1b. Podmiot zamierzający prowadzić ewidencję systemie składa wniosek o dostęp do danych i informacji zawartych rejestrze za pośrednictwem systemu PIP, sposób określony art. 24c.”, „1. Podmiot, który dokonuje obrotu na podstawie krajowego zezwolenia generalnego lub generalnego unijnego zezwolenia na wywóz, jest obowiązany przekazać organowi kontroli obrotu roczną informację o realizacji tego obrotu albo jego braku terminie do końca I kwartału roku kalendarzowego następującego po roku, którego dotyczy ta informacja. Informacja ta jest przekazywana postaci papierowej albo postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, albo za pośrednictwem systemu PIP.”;
 
 - **b)** ust. 2 pkt 6 kropkę zastępuje się średnikiem i dodaje się pkt 7 brzmieniu: „7) numer zezwolenia indywidualnego albo zezwolenia globalnego na obrót towarami o znaczeniu strategicznym albo numer krajowego zezwolenia generalnego albo generalnego unijnego zezwolenia na wywóz, przypadku gdy jest wymagane.”;
-- **18)** art. 26 ust. 1 otrzymuje brzmienie: „1. Podmiot, który dokonuje obrotu na podstawie krajowego zezwolenia generalnego lub generalnego unijnego zezwolenia na wywóz, jest obowiązany przekazać organowi kontroli obrotu roczną informację o realizacji tego obrotu albo jego braku terminie do końca I kwartału roku kalendarzowego następującego po roku, którego dotyczy ta informacja. Informacja ta jest przekazywana postaci papierowej albo postaci elektronicznej na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, albo za pośrednictwem systemu PIP.”;
+- **19)** art. 27a:
     - **a)** ust. 1 otrzymuje brzmienie: „1. Podmiot dokonujący wywozu lub transferu wewnątrzunijnego uzbrojenia z terytorium Rzeczypospolitej Polskiej jest obowiązany przekazać ministrowi właściwemu do spraw zagranicznych roczny raport z faktycznego wykonania tego wywozu lub transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej terminie do końca kwietnia następnego roku.”,
     - **b)** ust. 2 pkt 1 otrzymuje brzmienie: „1) nazwę, ilość i wartość uzbrojenia będącego przedmiotem wywozu lub transferu wewnątrzunijnego z terytorium Rzeczypospolitej Polskiej;”;
 
@@ -153,13 +155,13 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 
 **Art. 2.** W ustawie z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743) wprowadza się następujące zmiany:
 
-**Art. 3.** Dotychczasowy rejestr prowadzony na podstawie art. 21 ust. 1 ustawy zmienianej art. 1 staje się rejestrem, o którym mowa art. 24a ust. 1 ustawy zmienianej art. 1.
-
 **Art. 4.**
 
 1. Oświadczenie, o którym mowa art. 8 ust. 3 ustawy zmienianej art. 1, złożone przed dniem wejścia życie niniejszej ustawy zachowuje ważność.
 
-2. Do oświadczenia, o którym mowa art. 8 ust. 3 ustawy zmienianej art. 1, złożonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe. nych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym. Zezwolenia indywidualne i zezwolenia globalne oraz certyfikaty importowe odpowiednio udzielone albo wydane na podstawie wniosków, o których mowa zdaniu pierwszym, wpisuje się do rejestru, o którym mowa art. 24a ust. 1 ustawy zmienianej art. 1, zakresie określonym przepisach dotychczasowych.
+2. Do oświadczenia, o którym mowa art. 8 ust. 3 ustawy zmienianej art. 1, złożonego przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 5.** Do wniosków, o których mowa art. 9 i art. 22 ust. 2 ustawy zmienianej art. 1, złożonych i nierozpatrzonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej art. 1 brzmieniu dotychczasowym. Zezwolenia indywidualne i zezwolenia globalne oraz certyfikaty importowe odpowiednio udzielone albo wydane na podstawie wniosków, o których mowa zdaniu pierwszym, wpisuje się do rejestru, o którym mowa art. 24a ust. 1 ustawy zmienianej art. 1, zakresie określonym przepisach dotychczasowych.
 
 **Art. 6.** Do zezwoleń indywidualnych, zezwoleń globalnych, certyfikatów importowych oraz poświadczeń oświadczenia końcowego użytkownika wydanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -183,5 +185,5 @@ o zmianie ustawy o obrocie z zagranicą towarami, technologiami i usługami o zn
 
 2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 22 ust. 7, art. 25 ust. 4, art. 26 ust. 2 i art. 27b ustawy zmienianej art. 1 zachowują moc do dnia wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 22 ust. 7, art. 25 ust. 4, art. 26 ust. 2 i art. 27b ustawy zmienianej art. 1, jednak niedłużej niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 12.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17 lit. b, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, oraz art. 2 i art. 10, które wchodzą życie z dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: K. Nawrocki
+**Art. 12.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 17 lit. b, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia, oraz art. 2 i art. 10, które wchodzą życie z dniem następującym po dniu ogłoszenia.
 

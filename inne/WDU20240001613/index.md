@@ -1,0 +1,40 @@
+---
+title: Rozporządzenie Ministra Infrastruktury z dnia 29 października 2024 r. zmieniające rozporządzenie w sprawie wzoru zaświadczenia na przewozy drogowe na potrzeby własne oraz wypisu z tego zaświadczenia
+address: WDU20240001613
+eli: DU/2024/1613
+publisher: DU
+year: 2024
+pos: 1613
+act_type: Rozporządzenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 4 listopada 2024 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 1613 |
+| ISAP | WDU20240001613 |
+| Typ aktu | Rozporządzenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-10-29 |
+| Data wydania | 2024-11-04 |
+| Ostatnia zmiana | 2024-11-05 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1613/text.pdf) |
+
+Opis zabezpieczeń:
+1. Zaświadczenie na przewozy drogowe na potrzeby własne ma formę dwustronicowego dokumentu formatu A4.
+2. Zabezpieczenia zastosowane papierze: papier zabezpieczony chemicznie, niewykazujący luminescencji promieniowaniu ultrafioletowym, dwutonowy, bieżący znak wodny, włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.
+3. Zabezpieczenia zastosowane druku: tło giloszowe, elementy graficzne wykonane farbą aktywną promieniowaniu ultrafioletowym, mikrodruki.
+4. Inne zabezpieczenia: element graficzny wykonany techniką suchego tłoczenia.
+5. Numeracja typograficzna wykonana farbą aktywną promieniowaniu ultrafioletowym.
+Opis zabezpieczeń:
+1. Wypis z zaświadczenia na przewozy drogowe na potrzeby własne ma formę dwustronicowego dokumentu formatu A4.
+2. Zabezpieczenia zastosowane papierze: papier zabezpieczony chemicznie, niewykazujący luminescencji promieniowaniu ultrafioletowym, dwutonowy, bieżący znak wodny, włókna zabezpieczające widoczne promieniowaniu ultrafioletowym.
+3. Zabezpieczenia zastosowane druku: tło giloszowe, elementy graficzne wykonane farbą aktywną promieniowaniu ultrafioletowym, mikrodruki.
+4. Inne zabezpieczenia: element graficzny wykonany techniką suchego tłoczenia.
+5. Numeracja typograficzna wykonana farbą aktywną promieniowaniu ultrafioletowym.
+

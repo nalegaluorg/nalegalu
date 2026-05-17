@@ -1,0 +1,161 @@
+---
+title: Obwieszczenie Ministra Klimatu i Środowiska z dnia 7 listopada 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie profilu wody w kąpielisku
+address: WDU20220002499
+eli: DU/2022/2499
+publisher: DU
+year: 2022
+pos: 2499
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 5 grudnia 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 2499 |
+| ISAP | WDU20220002499 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-11-07 |
+| Data wydania | 2022-12-05 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002499) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2499/text.pdf) |
+
+22449999 OBWIESZCZENIE MINISTRA KLIMATU I ŚRODOWISKA z dnia 7 listopada 2022 r.
+w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Środowiska w sprawie profilu wody w kąpielisku
+1. Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Środowiska z dnia 4 listopada 2019 r. w sprawie profilu wody w kąpielisku (Dz. U. poz. 2206), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Klimatu i Środowiska z dnia 16 września 2021 r. zmieniającym rozporządzenie w sprawie profilu wody w kąpielisku (Dz. U. poz. 1751).
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Klimatu i Środowiska z dnia 16 września 2021 r. zmieniającego rozporządzenie w sprawie profilu wody w kąpielisku (Dz. U. poz. 1751), który stanowi: „§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”.
+Minister Klimatu i Środowiska: A. Moskwa ROZPORZĄDZENIE MINISTRA ŚRODOWISKA z dnia 4 listopada 2019 r.
+w sprawie profilu wody w kąpielisku Na podstawie art. 51 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
+1) sposób sporządzania profilu wody w kąpielisku;
+2) szczegółowy zakres informacji zawartych w profilu wody w kąpielisku i sposób ich przedstawiania;
+3) sposób dokonywania aktualizacji profilu wody w kąpielisku.
+§ 2. 1. Organizator kąpieliska sporządza profil wody w kąpielisku na podstawie danych uzyskanych w szczególności od:
+1) dyrektorów regionalnych zarządów gospodarki wodnej Wód Polskich;
+2) organów Inspekcji Ochrony Środowiska;
+3) organów Państwowej Inspekcji Sanitarnej;
+4) dyrektorów urzędów morskich.
+2. Organy, o których mowa w ust. 1, w zakresie swojej właściwości, udostępniają, na wniosek organizatora kąpieliska, informacje, które mogą być wykorzystane przy sporządzaniu przez organizatora kąpieliska profilu wody w kąpielisku.
+3. Profil wody w kąpielisku może zostać sporządzony dla jednego kąpieliska lub kilku sąsiadujących ze sobą kąpielisk.
+4. Jeden profil wody w kąpielisku może zostać sporządzony dla kilku sąsiadujących ze sobą kąpielisk, jeżeli w okresie ostatnich czterech lat poprzedzających rok, w którym jest sporządzany profil wody w kąpielisku, kąpieliska te uzyskały takie same wyniki klasyfikacji jakości wody w kąpielisku, o której mowa w art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r.
+Prawo wodne, a profile wody w tych kąpieliskach wskazują na wspólne czynniki ryzyka albo ich brak.
+§ 3. 1. Profil wody w kąpielisku powinien zawierać informacje o:
+1) lokalizacji kąpieliska;
+2) lokalizacji punktu lub punktów ustanowionych w celu kontroli jakości wody w kąpielisku;
+3) cechach fizycznych, geograficznych i hydrologicznych:
+a) wód, na których jest zlokalizowane kąpielisko,
+b) innych wód powierzchniowych, za pośrednictwem których jest możliwy dopływ zanieczyszczeń do wody w tym kąpielisku, znajdujących się w zlewni wód, o których mowa w lit. a;
+4) zanieczyszczeniach, które mogą mieć wpływ na wodę w kąpielisku oraz wywierać niekorzystny wpływ na stan zdrowia kąpiących się, przyczynach tych zanieczyszczeń, a w przypadku istnienia ryzyka krótkotrwałych zanieczyszczeń również o:
+a) przewidywanym charakterze, częstotliwości oraz czasie trwania spodziewanych krótkotrwałych zanieczyszczeń,
+b) potencjalnych przyczynach krótkotrwałych zanieczyszczeń, harmonogramie eliminacji tych przyczyn oraz działaniach podejmowanych w celu obniżenia ryzyka wystąpienia krótkotrwałych zanieczyszczeń,
+c) działaniach podejmowanych w celu zapobieżenia narażeniu kąpiących się na kontakt z krótkotrwałymi zanieczyszczeniami, wraz z podaniem podmiotów odpowiedzialnych za podjęcie takich działań i ich danych kontaktowych w przypadkach występowania krótkotrwałych zanieczyszczeń;
+5) możliwości rozmnożenia sinic, makroglonów lub fitoplanktonu.
+2. Szczegółowe informacje zawarte w profilu wody w kąpielisku przedstawia się w formie tabeli, w postaci wydruku oraz w wersji elektronicznej, a także w formie mapy w skali od 1:500 do 1:10 000, w postaci wydruku lub w wersji elektronicznej, sporządzanej na podstawie warstw systemów informacji geograficznej (GIS) , przedstawiającej położenie kąpieliska lub grupy kąpielisk, zasięg kąpieliska lub grupy kąpielisk oraz informacje, o których mowa w ust. 1 pkt 3 i 4. Tabelę sporządza się w sposób określony w załączniku do rozporządzenia.
+3. Informacje inne niż określone w tabeli, o której mowa w ust. 2, mogą być dołączone do profilu wody w kąpielisku w formie załączników.
+§ 4. 1. Organizator kąpieliska dokonuje aktualizacji profilu wody w kąpielisku na podstawie danych uzyskanych od organów, o których mowa w § 2 ust. 1.
+2. Do aktualizacji profilu wody w kąpielisku stosuje się przepis § 2 ust. 2.
+3. Aktualizacji, o której mowa w ust. 1, podlega profil wody w kąpielisku sporządzony dla kąpieliska, w którym woda została zaklasyfikowana, zgodnie z przepisami wydanymi na podstawie art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, jako „dobra”, „dostateczna” albo „niedostateczna”, w celu zweryfikowania informacji, o których mowa w § 3 ust. 1.
+4. Aktualizacji, o której mowa w ust. 1, dokonuje się co najmniej raz na:
+1) 4 lata w przypadku kąpieliska, w którym woda została zaklasyfikowana jako „dobra”;
+2) 3 lata w przypadku kąpieliska, w którym woda została zaklasyfikowana jako „dostateczna”;
+3) 2 lata w przypadku kąpieliska, w którym woda została zaklasyfikowana jako „niedostateczna”.
+5. Profil wody w kąpielisku sporządzony dla kąpieliska, w którym woda została zaklasyfikowana, zgodnie z przepisami wydanymi na podstawie art. 48 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne, jako „doskonała”, podlega aktualizacji w zakresie informacji, o których mowa w § 3 ust. 1, wyłącznie wówczas, gdy klasyfikacja wody w tym kąpielisku została zmieniona na „dobrą”, „dostateczną” albo „niedostateczną”.
+6. W przypadku przeprowadzenia istotnych robót budowlanych lub istotnych zmian w infrastrukturze kąpieliska lub w jego sąsiedztwie profil wody w kąpielisku podlega aktualizacji przed rozpoczęciem następnego sezonu kąpielowego niezależnie od wyników klasyfikacji wody w kąpielisku.
+§ 5. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+TABELA SZCZEGÓŁOWE INFORMACJE ZAWARTE W PROFILU WODY W KĄPIELISKU TABELA SZCZEGÓŁOWE INFORMACJE ZAWARTE W PROFILU WODY W KĄPIELISKU A. Informacje podstawowe I Dane ogólne o kąpielisku 1 Nazwa kąpieliska 2 Adres kąpieliska 3 Województwo Numer jednostki terytorialnej Systemu 4 Kodowania Jednostek Terytorialnych i Statystycznych (KTS) poziom 6, w której jest zlokalizowane kąpielisko 5 Nazwa gminy, w której jest zlokalizowane kąpielisko 6 Nazwa powiatu, w którym jest zlokalizowane kąpielisko 7 Krajowy kod kąpieliska 8 Identyfikator kąpieliska Numid II Informacje o profilu wody w kąpielisku 9 Data sporządzenia profilu wody w kąpielisku (zakończenia prac nad tym profilem) 10 Data sporządzenia poprzedniego profilu wody w kąpielisku 11 Data następnej aktualizacji profilu wody w kąpielisku 12 Powód aktualizacji profilu wody w kąpielisku Imię i nazwisko osoby sporządzającej 13 profil wody w kąpielisku III Właściwy organ Imię i nazwisko albo nazwa, adres, numer 14 telefonu, numer faksu (jeżeli posiada) oraz adres poczty elektronicznej organizatora kąpieliska Nazwa właściwego terytorialnie organu samorządu terytorialnego, który umieścił 15 kąpielisko w wykazie, o którym mowa w art. 37 ustawy z dnia 20 lipca 2017 r.
+Prawo wodne 16 Nazwa właściwego regionalnego zarządu gospodarki wodnej Wód Polskich 17 Nazwa właściwego wojewódzkiego inspektoratu ochrony środowiska Nazwa właściwego państwowego 18 powiatowego inspektora sanitarnego lub państwowego granicznego inspektora sanitarnego 19 Nazwa właściwego urzędu morskiego IV Informacje dotyczące lokalizacji kąpieliska 20 Kategoria wód powierzchniowych, na których jest zlokalizowane kąpielisko □ ciek (w tym zbiornik zaporowy) 21 □ jezioro lub inny zbiornik wodny (np.: staw, glinianka, wyrobisko pożwirowe) 22 □ wody przejściowe 23 □ wody przybrzeżne 24 Nazwa cieku, jeziora lub innego zbiornika wodnego, lub akwenu wód przejściowych 25 Identyfikator hydrograficzny Nazwa jednolitej części wód 26 powierzchniowych, w której jest zlokalizowane kąpielisko 27 Kod jednolitej części wód powierzchniowych, w której jest zlokalizowane kąpielisko Kąpielisko jest zlokalizowane w silnie 28 zmienionej jednolitej części wód powierzchniowych □ tak □ nie 29 Kąpielisko jest zlokalizowane w sztucznej jednolitej części wód powierzchniowych □ tak □ nie Lokalizacja kąpieliska kilometraż 30 cieku 31 Lokalizacja kąpieliska brzeg cieku □ prawy brzeg □ lewy brzeg 32 Lokalizacja kąpieliska długość plaży wzdłuż linii brzegowej …………. m Lokalizacja kąpieliska współrzędne 33 geograficzne granic kąpieliska w formacie dziesiętnym B. Ocena i klasyfikacja jakości wody w kąpielisku 34 Sezonowa ocena jakości wody w kąpielisku, po ostatnim sezonie kąpielowym data wykonania oceny (dd/mm/rrrr): ………………..
+wynik oceny: ………………………..
+Wyniki 4 ostatnich klasyfikacji jakości wody w kąpielisku (dotyczy kąpielisk istniejących 35 4 lata i dłużej; dla kąpielisk istniejących krócej niż 4 lata podaje się wyniki wszystkich dokonanych klasyfikacji) klasyfikacja za lata: ……………………….
+wynik klasyfikacji: ………………………..
+klasyfikacja za lata: ……………………….
+wynik klasyfikacji: ………………………..
+klasyfikacja za lata: ……………………….
+wynik klasyfikacji: ………………………..
+klasyfikacja za lata: ……………………….
+wynik klasyfikacji: ………………………..
+Lokalizacja punktu, w którym uzyskano dane 36 do klasyfikacji, o której mowa w polu 35 (współrzędne geograficzne w formacie dziesiętnym) Wynik ostatniej klasyfikacji stanu 37 ekologicznego lub potencjału ekologicznego jednolitej części wód powierzchniowych, w której jest zlokalizowane kąpielisko rok wykonania klasyfikacji: ………………..
+rok/lata przeprowadzenia badań monitoringowych będących źródłem danych do klasyfikacji: ………………..
+stan ekologiczny/potencjał ekologiczny jednolitej części wód: ………………………..
+Wynik ostatniej klasyfikacji stanu 38 chemicznego jednolitej części wód powierzchniowych, w której jest zlokalizowane kąpielisko rok wykonania klasyfikacji: ………………..
+rok/lata przeprowadzenia badań monitoringowych będących źródłem danych do klasyfikacji: ………………..
+stan chemiczny jednolitej części wód: ………………………..
+Wynik ostatniej oceny stanu jednolitej części wód powierzchniowych, w której jest 39 zlokalizowane kąpielisko, na podstawie wyników klasyfikacji, o których mowa w polach 37 i 38 rok wykonania oceny: ………………..
+stan jednolitej części wód: ………………………..
+Kod reprezentatywnego punktu pomiarowo40 -kontrolnego, w którym uzyskano dane do klasyfikacji i oceny, o której mowa w polach 37, 38 i 39 C. Opis cech fizycznych, hydrologicznych i geograficznych wód, na których jest zlokalizowane kąpielisko I Kąpielisko zlokalizowane na cieku innym niż zbiornik zaporowy 41 Wysokość nad poziomem morza □ < 200 m 42 □ 200–800 m 43 □ > 800 m 44 Powierzchnia zlewni cieku □ < 10 km² 45 □ 10 km² lub więcej, ale mniej niż 100 km² 46 □ 100 km² lub więcej, ale mniej niż 1000 km² 47 □ 1000 km² lub więcej, ale mniej niż 10 000 km² 48 □ ≥ 10 000 km² 49 Typ cieku kod typu: 50 nazwa typu: 51 Średni przepływ z ostatnich 4 lat Średni niski przepływ z wielolecia (SNQ) …………. m³/s Średnia z przepływów średnich rocznych 52 z wielolecia (SSQ) …………. m³/s 53 Średni wysoki przepływ z wielolecia (SWQ) …………. m³/s 54 Współczynnik nieregularności przepływów SSQ/SWQ II Kąpielisko zlokalizowane na jeziorze lub innym zbiorniku wodnym 55 Wysokość nad poziomem morza □ < 200 m 56 □ 200–800 m 57 □ > 800 m 58 Powierzchnia jeziora lub innego zbiornika wodnego ……… km² 59 Typ jeziora kod typu: 60 nazwa typu: 61 Charakterystyka dna kąpieliska 62 Głębokość jeziora lub innego zbiornika wodnego maksymalna: ………. m 63 średnia: ………. m III Kąpielisko zlokalizowane na zbiorniku zaporowym 64 Wysokość nad poziomem morza □ < 200 m 65 □ 200–800 m 66 □ > 800 m 67 Powierzchnia zlewni zbiornika □ < 10 km² 68 □ 10 km² lub więcej, ale mniej niż 100 km² 69 □ 100 km² lub więcej, ale mniej niż 1000 km² 70 □ 1000 km² lub więcej, ale mniej niż 10 000 km² 71 □ ≥ 10 000 km² 72 Powierzchnia zbiornika przy normalnym poziomie piętrzenia (NPP) ……… km² 73 Objętość zbiornika przy normalnym poziomie piętrzenia (NPP) ……… mln m³ 74 Głębokość zbiornika przy normalnym poziomie piętrzenia (NPP) maksymalna: ………. m 75 średnia: ………. m 76 Średnie dobowe zmiany poziomu wody …………… m IV Kąpielisko zlokalizowane na wodach przejściowych lub przybrzeżnych 77 Typ wód przejściowych kod typu: 78 nazwa typu: 79 Typ wód przybrzeżnych kod typu: 80 nazwa typu: D. Przyczyny zanieczyszczeń, które mogą mieć wpływ na wodę w kąpielisku oraz wywierać niekorzystny wpływ na stan zdrowia kąpiących się I Zrzuty zanieczyszczeń 81 Zrzuty oczyszczonych ścieków komunalnych □ 82 Zrzuty oczyszczonych ścieków przemysłowych □ 83 Zrzuty ścieków z oczyszczalni przydomowych □ 84 Nielegalne zrzuty zanieczyszczeń □ 85 Zrzuty wód pochłodniczych □ Zrzuty oczyszczonych wód 86 opadowych lub roztopowych z systemu kanalizacji □ 87 Zrzuty nieoczyszczonych wód deszczowych □ 88 Zrzuty ścieków z odwodnienia zakładów górniczych □ Odprowadzanie wód z urządzeń 89 melioracyjnych odwadniających pola nawożone gnojówką lub gnojowicą □ 90 Zrzuty ze stawów hodowlanych □ 91 Zrzuty zanieczyszczeń z jednostek pływających □ 92 Inne □ II Użytkowanie zlewni wokół kąpieliska 93 Zabudowa miejska □ 94 Tereny i komunikacyjne przemysłowe, handlowe □ 95 Kopalnie, wyrobiska i budowy □ 96 Miejskie tereny zielone i wypoczynkowe □ 97 Grunty orne □ 98 Uprawy trwałe □ 99 Łąki i pastwiska □ 100 Obszary upraw mieszanych □ 101 Lasy □ 102 Zespoły roślinności drzewiastej i krzewiastej □ Tereny otwarte, pozbawione 103 roślinności lub z rzadkim pokryciem roślinnym □ 104 Inne □ III Formy wypoczynku na terenie kąpieliska i w jego otoczeniu, w odległości do 500 m 105 Kąpiel □ 106 Sporty wodne (kajaki, łodzie żaglowe, motorówki) □ 107 Wędkarstwo □ 108 Inne □ IV Wyposażenie techniczne kąpieliska oraz dbałość o jego czystość 109 Toalety □ tak 110 □ nie 111 Natryski □ tak 112 □ nie 113 Kosze na śmieci □ tak 114 □ nie 115 Ogrodzenie plaży kąpieliska □ tak 116 □ nie 117 Sprzątanie plaży kąpieliska □ tak 118 częstotliwość: ……. razy/dobę 119 □ nie 120 Zakaz wprowadzania zwierząt na teren kąpieliska i plażę kąpieliska □ tak 121 □ nie V Inne informacje 122 Kąpielisko zlokalizowane na obszarze objętym formą ochrony przyrody □ tak 123 opis formy ochrony przyrody : 124 □ nie 125 Kąpielisko zlokalizowane w odległości mniejszej niż 1000 m od wodopoju dla zwierząt □ tak 126 odległość od wodopoju : ….. m 127 □ nie 128 Zanieczyszczenie osadów dennych □ metale ciężkie 129 □ substancje priorytetowe 130 □ brak zanieczyszczenia 131 □ brak danych E. Możliwość rozmnożenia się sinic 132 Zakwity sinic zaobserwowane w okresie ostatnich 4 lat □ nie stwierdzono 133 □ zjawisko wystąpiło tylko w 1 roku 134 □ zjawisko wystąpiło w 2 lub 3 latach 135 □ zjawisko występowało w każdym roku z ostatnich 4 lat 136 Ryzyko rozmnożenia się sinic w przyszłości □ brak 137 □ małe 138 □ średnie 139 □ duże F. Możliwość rozmnożenia się makroglonów lub fitoplanktonu I Makroglony 140 Morszczyn pęcherzykowaty (Fucus vesiculosus) 141 Zielenice z rodzaju Ulva 142 Inne taksony makroglonów niż wymienione w polach: 140 i 141 II Fitoplankton 143 Ryzyko rozmnożenia się fitoplanktonu □ brak 144 □ małe 145 □ średnie 146 □ duże G. Informacja w przypadku, gdy istnieje ryzyko krótkotrwałych zanieczyszczeń w okresie, dla którego sporządzono profil wody w kąpielisku 147 Rodzaj spodziewanych krótkotrwałych zanieczyszczeń 148 Częstotliwość spodziewanych krótkotrwałych zanieczyszczeń 149 Czas trwania spodziewanych krótkotrwałych zanieczyszczeń 150 Przyczyna spodziewanych krótkotrwałych zanieczyszczeń Działania podejmowane w związku ze 151 spodziewanymi krótkotrwałymi zanieczyszczeniami Działania, jakie zostaną podjęte w przypadku 152 wystąpienia spodziewanych krótkotrwałych zanieczyszczeń Właściwe organy i osoby wskazane do 153 kontaktu na wypadek wystąpienia krótkotrwałych zanieczyszczeń H. Opis cech fizycznych, hydrologicznych i geograficznych innych wód powierzchniowych znajdujących się w zlewni wód, na których jest zlokalizowane kąpielisko, za pośrednictwem których jest możliwy dopływ zanieczyszczeń do wody w kąpielisku I Nazwa cieku, jeziora lub innego zbiornika 154 wodnego, lub akwenu wód przejściowych lub przybrzeżnych 155 Nazwa jednolitej części wód powierzchniowych 156 Kod jednolitej części wód powierzchniowych 157 Wysokość nad poziomem morza □ < 200 m 158 □ 200–800 m 159 □ > 800 m 160 Powierzchnia zlewni □ < 10 km² 161 □ 10 km² lub więcej, ale mniej niż 100 km² 162 □ 100 km² lub więcej, ale mniej niż 1000 km² 163 □ 1000 km² lub więcej, ale mniej niż 10 000 km² 164 □ ≥ 10 000 km² 165 Typ cieku lub jeziora kod typu: 166 nazwa typu: 167 Średni przepływ z ostatnich 4 lat Średni niski przepływ z wielolecia (SNQ) …………. m³/s Średnia z przepływów średnich rocznych 168 z wielolecia (SSQ) …………. m³/s Średni wysoki przepływ z wielolecia (SWQ) 169 …………. m³/s 170 Współczynnik nieregularności przepływów SSQ/SWQ Objaśnienia: Dane własne organizatora kąpieliska oraz wyniki dokonanych przez niego obserwacji.
+Dane pochodzące od państwowego powiatowego inspektora sanitarnego lub od państwowego granicznego inspektora sanitarnego.
+Wypełnia się tylko w przypadku, gdy przed aktualizacją został sporządzony profil wody w kąpielisku poprzedzający bieżącą aktualizację.
+Pole 19 wypełnia się tylko w przypadku kąpieliska zlokalizowanego na wodach przejściowych lub przybrzeżnych.
+Dane pochodzące od dyrektora regionalnego zarządu gospodarki wodnej Wód Polskich lub właściciela wód niebędących własnością Skarbu Państwa.
+Zaznacza się właściwe; w przypadku zaznaczenia pola 20, 21 lub 22 przechodzi się do pola 24; jeżeli zaznaczono pole 23, przechodzi się do pola 25.
+Jeżeli kąpielisko nie znajduje się w wyznaczonej jednolitej części wód powierzchniowych, pola 26–31 pozostawia się puste i przechodzi się do pola 32.
+Zaznacza się właściwe pole.
+Podaje się kilometraż początku kąpieliska; w przypadku gdy kąpielisko nie jest zlokalizowane na cieku, pole 30 pozostawia się puste i przechodzi się do pola 32.
+Zaznacza się właściwe; jeżeli kąpielisko nie jest zlokalizowane na cieku, pole 31 pozostawia się puste i przechodzi się do pola 32.
+Podaje się współrzędne punktów granicznych znajdujących się na początku i końcu kąpieliska na linii brzegowej oraz współrzędne punktów granicznych znajdujących się na obszarze wód, na których jest zlokalizowane kąpielisko.
+W układzie współrzędnych płaskich prostokątnych, na obowiązującym podkładzie map topograficznych lub ortofotomap z państwowego zasobu geodezyjnego i kartograficznego lub na podstawie odczytów z systemu nawigacji satelitarnej, zgodnie z przepisami wydanymi na podstawie art. 3 ust. 5 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2021 r. poz. 1990, z późn. zm.).
+Dane pochodzące od Głównego Inspektora Ochrony Środowiska.
+Podaje się, jeżeli wypełniono pole 26.
+Jeżeli kąpielisko nie jest zlokalizowane na cieku innym niż zbiornik zaporowy, przechodzi się do punktu II w części C.
+Dotyczy wód kąpieliska.
+Typy wód powierzchniowych, z podziałem na kategorie tych wód, są określone w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne (Dz. U. z 2021 r. poz. 2233, z późn. zm.).
+Dane pochodzące z Instytutu Meteorologii i Gospodarki Wodnej Państwowego Instytutu Badawczego.
+Jeżeli kąpielisko nie jest zlokalizowane na jeziorze lub innym zbiorniku wodnym, przechodzi się do punktu III w części C.
+Dno muliste, piaszczyste lub kamieniste.
+Jeżeli kąpielisko nie jest zlokalizowane na zbiorniku zaporowym, przechodzi się do punktu IV w części C.
+Wypełnia się, jeżeli zaznaczono pole 22.
+Wypełnia się, jeżeli zaznaczono pole 23.
+Zaznacza się właściwe pole.
+Dane pochodzące od wojewódzkiego inspektora ochrony środowiska.
+Dane pochodzące od dyrektora zarządu zlewni Wód Polskich lub dyrektora regionalnego zarządu gospodarki wodnej Wód Polskich.
+Wypełnia się na podstawie pozwoleń wodnoprawnych.
+Podaje się odległość zrzutu od kąpieliska, z dokładnością do 50 m.
+Dane pochodzące od dyrektora urzędu morskiego.
+Opis zgodnie z klasami pokrycia terenu lub użytkowania ziemi wyróżnionymi w bazie CORINE Land Cover (CLC), na poziomie 3.
+Wypełnia się, jeżeli zaznaczono pole 117.
+W rozumieniu ustawy z dnia 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2022 r. poz. 916, z późn. zm.).
+Wypełnia się, jeżeli zaznaczono pole 122, podając w szczególności nazwę obszaru objętego formą ochrony przyrody (np.: nazwę parku narodowego, nazwę obszaru Natura 2000).
+Wypełnia się, jeżeli zaznaczono pole 125.
+Na podstawie najbardziej aktualnych danych z ostatnich 4 lat poprzedzających rok, w którym jest sporządzany profil wody w kąpielisku.
+Wykaz substancji priorytetowych jest określony w przepisach wydanych na podstawie art. 114 ustawy z dnia 20 lipca 2017 r. Prawo wodne.
+Opis na podstawie obserwacji na miejscu.
+Zaznacza się, jeżeli zaznaczono pole 132, a wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, nie wskazały na przekroczenie przez wskaźniki charakteryzujące warunki biogenne oraz przez w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla I klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r.
+Prawo wodne (Dz. U. z 2017 r. poz. 1121), w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r. lub lata wcześniejsze.
+Zaznacza się, jeżeli zaznaczono:
+1) pole 133, a wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, nie wskazały na przekroczenie przez wskaźniki charakteryzujące warunki biogenne oraz przez w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla I klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r.
+lub lata wcześniejsze, lub
+2) pole 132, a wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, nie wskazały na przekroczenie przez wskaźniki charakteryzujące warunki biogenne oraz przez w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla II klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r.
+lub lata wcześniejsze.
+Zaznacza się, jeżeli zaznaczono:
+1) pole 133, a wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, wskazały na przekroczenie przez wskaźniki charakteryzujące warunki biogenne oraz przez w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla II klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r. lub lata wcześniejsze, lub
+2) pole 134.
+Zaznacza się, jeżeli zaznaczono pole 135.
+Dotyczy tylko kąpielisk zlokalizowanych na wodach przejściowych i przybrzeżnych.
+Podaje się, czy stwierdzono występowanie makroglonów, oraz ocenia się ich niekorzystny wpływ na jakość wody w kąpielisku.
+Dotyczy tylko kąpielisk zlokalizowanych na wodach przejściowych i przybrzeżnych, jeziorach, zbiornikach zaporowych oraz ciekach typów:
+1) 19, 20, 24, 25 (o powierzchni zlewni ≥ 5000 km² w przypadku tych czterech typów) i 21 według typologii obowiązującej do dnia wejścia w życie aktualizacji planów gospodarowania wodami na obszarach dorzeczy, o których mowa w art. 321 ustawy z dnia 20 lipca 2017 r. Prawo wodne, lecz nie później niż do dnia 22 grudnia 2021 r.;
+2) RzN, Rz_org (o powierzchni zlewni ≥ 5000 km² w przypadku tych dwóch typów), RwN, R_poj i Rl_poj według typologii obowiązującej od dnia wejścia w życie aktualizacji planów gospodarowania wodami na obszarach dorzeczy, o których mowa w art. 321 ustawy z dnia 20 lipca 2017 r. Prawo wodne, lecz nie później niż od dnia 22 grudnia 2021 r.
+Zaznacza się, jeżeli wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, nie wskazały na przekroczenie przez przezroczystość, wskaźniki charakteryzujące warunki tlenowe i zanieczyszczenia organiczne, wskaźniki charakteryzujące warunki biogenne oraz w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla I klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r. lub lata wcześniejsze.
+Zaznacza się, jeżeli wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, nie wskazały na przekroczenie przez przezroczystość, wskaźniki charakteryzujące warunki tlenowe i zanieczyszczenia organiczne, wskaźniki charakteryzujące warunki biogenne oraz w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla II klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r. Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r. lub lata wcześniejsze.
+Zaznacza się, jeżeli wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, nie wskazały na przekroczenie przez w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla III klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r. lub lata wcześniejsze.
+Zaznacza się, jeżeli wyniki monitoringu będącego podstawą do klasyfikacji, o której mowa w polu 37, wskazały na przekroczenie przez w zależności od kategorii wód fitoplankton lub chlorofil a wartości granicznych określonych dla III klasy stanu ekologicznego lub potencjału ekologicznego jednolitych części wód powierzchniowych w przepisach wydanych na podstawie art. 53 ust. 4 ustawy z dnia 20 lipca 2017 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2019 r. lub lata późniejsze, lub w przepisach wydanych na podstawie art. 38a ust. 3 ustawy z dnia 18 lipca 2001 r.
+Prawo wodne, w przypadku gdy klasyfikacja, o której mowa w polu 37, została wykonana za 2018 r. lub lata wcześniejsze.
+Pojęcie „krótkotrwałe zanieczyszczenia” odnosi się tylko do skażeń mikrobiologicznych (enterokoki, Escherichia coli), których przyczyny można jednoznacznie ustalić i co do których nie przewiduje się, że będą miały niekorzystny wpływ na jakość wody w kąpielisku przez okres dłuższy niż 72 godziny od stwierdzenia ich wystąpienia, oraz dla których są ustalone procedury prognozowania i działań w przypadku ich wystąpienia.
+Podaje się imię i nazwisko osoby, nazwę instytucji, adres, numer telefonu, numer faksu (jeżeli posiada) oraz adres poczty elektronicznej.
+W razie konieczności powiela się pola punktu I, tworząc w ten sposób kolejne punkty części H. Numery kolejnych punktów zapisuje się cyframi rzymskimi, poczynając od II, numery kolejnych pól cyframi arabskimi, poczynając od 171.
+Jeżeli akwen nie stanowi wyznaczonej jednolitej części wód powierzchniowych, pola 155 i 156 pozostawia się puste i przechodzi się do pola 157.
+Wypełnia się tylko w przypadku cieków, jezior lub innych zbiorników wodnych oraz zbiorników zaporowych.
+Wypełnia się tylko w przypadku cieków i zbiorników zaporowych.
+Podaje się, jeżeli wypełniono pola 155 i 156.
+Wypełnia się tylko w przypadku cieków i jezior.
+Wypełnia się tylko w przypadku cieków.
+

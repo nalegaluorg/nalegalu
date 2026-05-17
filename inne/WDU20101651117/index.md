@@ -8,9 +8,12 @@ pos: 1117
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 5 sierpnia 2010 r. o nadaniu nowej nazwy Akademii Ekonomicznej im. Karola Adamieckiego w Katowicach
+# o nadaniu nowej nazwy Akademii Ekonomicznej im. Karola Adamieckiego w Katowicach
+
+*USTAWA z dnia 5 sierpnia 2010 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,5 +27,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101651117) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1117/text.pdf) |
 
-**Art. 1.** Akademii Ekonomicznej im. Karola Adamie- Art. 2. Ustawa wchodzi w życie z dniem 1 paździerckiego w Katowicach nadaje się nazwę „Uniwersytet nika 2010 r. Ekonomiczny w Katowicach”. 1117 USTAWA z dnia 5 sierpnia 2010 r. o nadaniu nowej nazwy Akademii Ekonomicznej im. Karola Adamieckiego w Katowicach Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 1.** Akademii Ekonomicznej im. Karola Adamieckiego w Katowicach nadaje się nazwę „Uniwersytet Ekonomiczny w Katowicach”.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem 1 października 2010 r.
 

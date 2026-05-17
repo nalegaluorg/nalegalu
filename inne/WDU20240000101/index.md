@@ -8,9 +8,12 @@ pos: 101
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 stycznia 2024 r.
+# sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budynków
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 stycznia 2024 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/101/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 24 stycznia 2024 r.
-sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budynków
 1. Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 2014 r. charakterystyce energetycznej budynków (Dz. U. z 2021 r. poz. 497), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 7 października 2022 r. zmianie ustawy charakterystyce energetycznej budynków oraz ustawy Prawo budowlane (Dz. U. poz. 2206),
 2) ustawą z dnia 17 sierpnia 2023 r. zmianie ustawy odnawialnych źródłach energii oraz niektórych innych ustaw (Dz. U. poz. 1762) oraz zmian wynikających z przepisów ogłoszonych przed dniem 17 stycznia 2024 r.
@@ -41,11 +42,13 @@ sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budy
 
 1. Świadectwa charakterystyki energetycznej przekazane przed dniem wejścia życie niniejszej ustawy zachowują ważność okres, na jaki zostały sporządzone.
 
-2. Do świadectw charakterystyki energetycznej i protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji nieprzekazanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe. ustawy zmienianej brzmieniu dotychczasowym.
+2. Do świadectw charakterystyki energetycznej i protokołów z kontroli systemu ogrzewania lub systemu klimatyzacji nieprzekazanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 5.** Do ogłoszeń i reklam, których 13 ustawy zmienianej brzmieniu dotychczasowym, dla których przed dniem wejścia życie niniejszej ustawy zawarto umowę na rozpowszechnianie, stosuje się przepisy ustawy zmienianej brzmieniu dotychczasowym.
 
 **Art. 6.** Do wniosków ponowny wpis, których 22 i 27 ustawy zmienianej 1, złożonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustawy zmienianej brzmieniu dotychczasowym.
 
-**Art. 7.** Kontrolę, 23 ustawy zmienianej brzmieniu nadanym niniejszą ustawą, przeprowadza się:
+**Art. 7.** Kontrolę, 23 ustawy zmienianej brzmieniu nadanym niniejszą ustawą, prowadzona przypadku gdy kontrola, 23 ustawy zmienianej brzmieniu dotychczasowym, została przeprowadzona przed dniem wejścia życie niniejszej ustawy;
 
 **Art. 10.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia.”;
 
@@ -62,7 +65,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budy
 - **3)** Właściciel lub zarządca budynku lub części budynku lub osoba, przysługuje spółdzielcze własnościowe prawo do lokalu, lub osoba, przysługuje spółdzielcze lokatorskie prawo do lokalu mieszkalnego, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla budynku lub części budynku:
 - **1)** zbywanego na podstawie umowy sprzedaży;
 - **2)** zbywanego na podstawie umowy sprzedaży spółdzielczego własnościowego prawa do lokalu;
-- **3)** wynajmowanego. wości, prokuraturę oraz organy administracji publicznej przekracza 250 m i których dokonywana jest obsługa interesantów, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla tego budynku. Kopię świadectwa charakterystyki energetycznej, które przekazano postaci papierowej, albo wydruk świadectwa charakterystyki energetycznej, które przekazano postaci elektronicznej, z wyłączeniem zaleceń zawartych tym świadectwie, umieszcza się widocznym miejscu zajmowanych budynkach, których ust. 2.
+- **3)** wynajmowanego. santów, zapewnia sporządzenie świadectwa charakterystyki energetycznej dla tego budynku. Kopię świadectwa charakterystyki energetycznej, które przekazano postaci papierowej, albo wydruk świadectwa charakterystyki energetycznej, które przekazano postaci elektronicznej, z wyłączeniem zaleceń zawartych tym świadectwie, umieszcza się widocznym miejscu zajmowanych budynkach, których ust. 2.
 
 4. Obowiązki, których ust. i 2, nie dotyczą budynku:
 
@@ -125,7 +128,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budy
 
 4. Nabywca albo najemca nie mogą zrzec się prawa do otrzymania zgodnie z ust. odpowiednio świadectwa charakterystyki energetycznej, jego kopii albo wydruku.
 
-5. W przypadku zawarcia umowy zbycia prawa własności części budynku albo spółdzielczego własnościowego prawa do lokalu albo umowy najmu części budynku przekazywane świadectwo charakterystyki energetycznej dotyczy części budynku albo lokalu będących przedmiotem umowy. nie z ust. 1. W przypadku nieprzekazania nabywcy świadectwa charakterystyki energetycznej notariusz poucza podmiot obowiązany do jego przekazania zgodnie z ust. karze grzywny za niewykonanie tego obowiązku.
+5. W przypadku zawarcia umowy zbycia prawa własności części budynku albo spółdzielczego własnościowego prawa do lokalu albo umowy najmu części budynku przekazywane świadectwo charakterystyki energetycznej dotyczy części budynku albo lokalu będących przedmiotem umowy. miot obowiązany do jego przekazania zgodnie z ust. karze grzywny za niewykonanie tego obowiązku.
 
 **Art. 12.**
 
@@ -237,7 +240,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budy
 
 5. Oświadczenie, którym ust. 4 1, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych zeznań. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych zeznań.
 
-6. Po wpisaniu do wykazu, którym 31 ust. 2, osoba uprawniona otrzymuje link aktywacyjny na adres poczty elektronicznej wskazany we wniosku, którym ust. 2, i uzyskuje dostęp do systemu teleinformatycznego, którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków. informuje osobę wpisaną do wykazu, którym 31 ust. 2, konieczności wskazania adresu poczty elektronicznej, na który zostanie przekazany link aktywacyjny.
+6. Po wpisaniu do wykazu, którym 31 ust. 2, osoba uprawniona otrzymuje link aktywacyjny na adres poczty elektronicznej wskazany we wniosku, którym ust. 2, i uzyskuje dostęp do systemu teleinformatycznego, którym prowadzony jest centralny rejestr charakterystyki energetycznej budynków. tronicznej, na który zostanie przekazany link aktywacyjny.
 
 8. Kontroli systemu ogrzewania i systemu klimatyzacji budynku dokonuje osoba wpisana do wykazu, którym 31 ust. 2.
 
@@ -404,7 +407,7 @@ sprawie ogłoszenia jednolitego tekstu ustawy charakterystyce energetycznej budy
 - **5)** wskazanie źródeł finansowania renowacji budynków;
 - **6)** możliwości wsparcia inteligentnych technologii oraz budynków i społeczności korzystających z dobrej łączności;
 - **7)** wykaz umiejętności i kształcenia sektorze budownictwa i efektywności energetycznej;
-- **8)** rekomendowany scenariusz renowacji zawierający plan działań do 2050 r. Strategię przyjmuje, drodze uchwały, Rada Ministrów. rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1999 z dnia 11 grudnia 2018 r. sprawie zarządzania unią energetyczną i działaniami dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, z późn. zm. ).
+- **8)** rekomendowany scenariusz renowacji zawierający plan działań do 2050 r. Strategię przyjmuje, drodze uchwały, Rada Ministrów. energetyczną i działaniami dziedzinie klimatu, zmiany rozporządzeń Parlamentu Europejskiego i Rady (WE) nr 663/2009 i (WE) nr 715/2009, dyrektyw Parlamentu Europejskiego i Rady 94/22/WE, 98/70/WE, 2009/31/WE, 2009/73/WE, 2010/31/UE, 2012/27/UE i 2013/30/UE, dyrektyw Rady 2009/119/WE i (EU) 2015/652 oraz uchylenia rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 525/2013 (Dz. Urz. UE L 328 z 21.12.2018, str. 1, z późn. zm. ).
 
 5. Minister właściwy do spraw budownictwa, planowania i zagospodarowania przestrzennego oraz mieszkalnictwa przekazuje ministrowi właściwemu do spraw energii niezbędne informacje zakresie swojej właściwości celu aktualizacji zintegrowanego krajowego planu dziedzinie energii i klimatu oraz sporządzania sprawozdania z realizacji tego planu.
 

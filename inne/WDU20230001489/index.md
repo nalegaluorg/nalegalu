@@ -8,9 +8,12 @@ pos: 1489
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 1 sierpnia 2023 r.
+# o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw
+
+*USTAWA z dnia 7 lipca 2023 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,9 +26,6 @@ domain: null
 | Data wydania | 2023-08-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1489/text.pdf) |
-
-USTAWA z dnia 7 lipca 2023 r.
-o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych ustaw
 
 **Art. 1.** W ustawie z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2023 r. poz. 1433) wprowadza się następujące zmiany:
 
@@ -59,17 +59,17 @@ o zmianie ustawy o ochronie żeglugi i portów morskich oraz niektórych innych 
 
 **Art. 3.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080 i 1088) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) dodaje się art. 122b brzmieniu: „Art. 122b. 1. Statek powietrzny, który wykonuje lot przestrzeni powietrznej Rzeczypospolitej Polskiej sposób odbiegający od ustalonej organizacji lotu i mogący stanowić zagrożenie dla bezpieczeństwa wielu osób, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
+**Art. 4.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642) dodaje się art. 122b brzmieniu: „Art. 122b. 1. Statek powietrzny, który wykonuje lot przestrzeni powietrznej Rzeczypospolitej Polskiej sposób odbiegający od ustalonej organizacji lotu i mogący stanowić zagrożenie dla bezpieczeństwa wielu osób, może być wezwany przez państwowy organ zarządzania ruchem lotniczym do:
 
 **Art. 5.** W ustawie z dnia 24 kwietnia 2009 r. o inwestycjach zakresie terminalu regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu (Dz. U. z 2023 r. poz. 924) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547, 1053 i 1088) art. 3 po pkt 5 dodaje się pkt 5a i 5b brzmieniu: „5a) ustawie z dnia 3 lipca 2002 r. Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642 oraz z 2023 r. poz. 1489) zakresie działań podejmowanych przez żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej na podstawie art. 122b tej ustawy;
+**Art. 6.** W ustawie z dnia 24 maja 2013 r. o środkach przymusu bezpośredniego i broni palnej (Dz. U. z 2023 r. poz. 202, 547, 1053 i 1088) art. 3 po pkt 5 dodaje się pkt 5a i 5b brzmieniu: „5a) ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2022 r. poz. 1235, 1715, 1846, 2185 i 2642 oraz z 2023 r. poz. 1489) – zakresie działań podejmowanych przez żołnierzy Sił Zbrojnych Rzeczypospolitej Polskiej na podstawie art. 122b tej ustawy;
 
-**Art. 7.** W ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632) art. 24 otrzymuje brzmienie: „Art. 24. 1. Działania antyterrorystyczne na zasadach określonych ustawie mogą być prowadzone również poza granicami Rzeczypospolitej Polskiej, na akwenach polskiej strefie odpowiedzialności SAR zgodnie z Międzynarodową konwencją o poszukiwaniu i ratownictwie morskim, sporządzoną Hamburgu dnia 27 kwietnia 1979 r. (Dz. U. z 1988 r. poz. 184 i 185), i polskiej wyłącznej strefie ekonomicznej. 2. Służby ratownicze prowadzą zakresie swoich kompetencji działania polskiej strefie odpowiedzialności SAR i polskiej wyłącznej strefie ekonomicznej zmierzające do usunięcia skutków zdarzenia o charakterze terrorystycznym i tym zakresie współdziałają ze sobą oraz ze służbami prowadzącymi działania antyterrorystyczne.”. skroplonego gazu ziemnego Świnoujściu oraz niektórych innych ustaw (Dz. U. poz. 1590 oraz z 2021 r. poz. 922) art. 5 ust. 1 pkt 6–10 otrzymują brzmienie: „6) 2023 r. 10 000 000 zł;
+**Art. 7.** W ustawie z dnia 10 czerwca 2016 r. o działaniach antyterrorystycznych (Dz. U. z 2022 r. poz. 2632) art. 24 otrzymuje brzmienie: „Art. 24. 1. Działania antyterrorystyczne na zasadach określonych ustawie mogą być prowadzone również poza granicami Rzeczypospolitej Polskiej, na akwenach polskiej strefie odpowiedzialności SAR zgodnie z Międzynarodową konwencją o poszukiwaniu i ratownictwie morskim, sporządzoną Hamburgu dnia 27 kwietnia 1979 r. (Dz. U. z 1988 r. poz. 184 i 185), i polskiej wyłącznej strefie ekonomicznej. 2. Służby ratownicze prowadzą zakresie swoich kompetencji działania polskiej strefie odpowiedzialności SAR i polskiej wyłącznej strefie ekonomicznej zmierzające do usunięcia skutków zdarzenia o charakterze terrorystycznym i tym zakresie współdziałają ze sobą oraz ze służbami prowadzącymi działania antyterrorystyczne.”. ust. 1 pkt 6–10 otrzymują brzmienie: „6) 2023 r. – 10 000 000 zł;
 
 **Art. 9.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 19 ust. 3 ustawy zmienianej art. 3 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 19 ust. 5 ustawy zmienianej art. 3, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie niniejszej ustawy.
 
 **Art. 10.** Inwestycje polegające na budowie budynku dla załóg jednostek pływających Straży Granicznej wraz z nabrzeżem dla postoju jednostek pływających Straży Granicznej wraz z infrastrukturą towarzyszącą, przygotowywane i realizowane przed dniem wejścia życie niniejszej ustawy jako inwestycje zakresie budowy lub przebudowy terminalu, o których mowa art. 2 ust. 2 pkt 3 lit. a ustawy zmienianej art. 5, stają się inwestycją, o której mowa art. 38 pkt 2 lit. zp ustawy zmienianej art. 5. Wszystkie czynności dokonane postępowaniach dotyczących przygotowywania lub realizacji tej inwestycji pozostają mocy.
 
-**Art. 11.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+**Art. 11.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 8, który wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

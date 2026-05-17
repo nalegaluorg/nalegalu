@@ -8,9 +8,12 @@ pos: 561
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 12 kwietnia 2024 r.
+# o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
+
+*USTAWA z dnia 8 września 2000 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,19 +27,6 @@ domain: null
 | Ostatnia zmiana | 2025-12-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/561/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2022 r. poz. 2542), z uwzględnieniem zmian wprowadzonych ustawą z dnia 16 czerwca 2023 r.
-o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 marca 2024 r.
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 28 ustawy z dnia 16 czerwca 2023 r. o zmianie ustawy o publicznym transporcie zbiorowym oraz niektórych innych ustaw (Dz. U. poz. 1720), który stanowi: „Art. 28. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) art. 1 pkt 1 i 21–28 oraz art. 3, które wchodzą w życie z dniem 1 stycznia 2026 r.;
-2) art. 1 pkt 2 lit. a tiret pierwsze, art. 7, art. 10, art. 11, art. 14 oraz art. 20, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
-3) art. 4 i art. 19, które wchodzą w życie z dniem 1 czerwca 2024 r.;
-4) art. 5 pkt 1, 2, 4, 5 i 6 lit. b, art. 8 pkt 9 i 10 oraz art. 9, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia;
-5) art. 12 pkt 1–3, 4 lit. a i pkt 5–11, które wchodzą w życie z dniem 1 stycznia 2025 r.”.
-Marszałek Sejmu: S. Hołownia
-USTAWA z dnia 8 września 2000 r.
-o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
 do dnia 30 kwietnia 2004 r.
 Art. 33za. 1. W roku 2020 minister właściwy do spraw aktywów państwowych przekazuje, na wniosek ministra właściwego do spraw transportu, środki z budżetu państwa, w wysokości 850 000 tys. zł, z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
 2. Środki, o których mowa w ust. 1, przeznacza się na inwestycje kapitałowe realizowane przez PLK SA, polegające na podwyższeniu kapitału zakładowego spółek zależnych PLK SA w rozumieniu Kodeksu spółek handlowych i objęciu przez PLK SA nowo utworzonych udziałów w podwyższonym kapitale zakładowym.
@@ -70,19 +60,15 @@ Art. 65–73. (pominięte)
 
 6. Do zbywania akcji PKP SA stosuje się przepisy ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2024 r. poz. 125).
 
-7. Do PKP SA stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”, jeżeli przepisy ustawy nie stanowią inaczej.
+7. Do PKP SA stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), zwanej dalej „Kodeksem spółek handlowych”, jeżeli przepisy ustawy nie stanowią inaczej.
 
-**Art. 2a.**
+**Art. 2a.** Minister właściwy do spraw transportu zatwierdza zmiany do aktu założycielskiego spółki z ograniczoną odpowiedzialnością, działającej pod firmą „CARGOTOR spółka z ograniczoną odpowiedzialnością”, z siedzibą w Warszawie, zwaną dalej „Cargotor”, od dnia objęcia większości udziałów w kapitale zakładowym Cargotor przez PKP Polskie Linie Kolejowe Spółka Akcyjna, zwaną dalej „PLK SA”.
 
-- **3)** Minister właściwy do spraw transportu zatwierdza zmiany do aktu założycielskiego spółki z ograniczoną odpowiedzialnością, działającej pod firmą „CARGOTOR spółka z ograniczoną odpowiedzialnością”, z siedzibą w Warszawie, zwaną dalej „Cargotor”, od dnia objęcia większości udziałów w kapitale zakładowym Cargotor przez PKP Polskie Linie Kolejowe Spółka Akcyjna, zwaną dalej „PLK SA”.
-
-**Art. 2b.**
-
-- **3)** Zgromadzenie wspólników, od dnia objęcia większości udziałów w kapitale zakładowym Cargotor przez PLK SA, powołuje Radę Nadzorczą Cargotor spośród osób wskazanych przez ministra właściwego do spraw transportu oraz powołuje w jej skład jednego przedstawiciela ministra właściwego do spraw finansów publicznych.
+**Art. 2b.** Zgromadzenie wspólników, od dnia objęcia większości udziałów w kapitale zakładowym Cargotor przez PLK SA, powołuje Radę Nadzorczą Cargotor spośród osób wskazanych przez ministra właściwego do spraw transportu oraz powołuje w jej skład jednego przedstawiciela ministra właściwego do spraw finansów publicznych.
 
 **Art. 2c.**
 
-- **3)** 1. Udziały Cargotor należące do PLK SA mogą być zbywane wyłącznie na rzecz Skarbu Państwa.
+1. Udziały Cargotor należące do PLK SA mogą być zbywane wyłącznie na rzecz Skarbu Państwa.
 
 2. Minister właściwy do spraw transportu wykonuje prawa z udziałów Cargotor należących do Skarbu Państwa.
 
@@ -110,7 +96,7 @@ Art. 65–73. (pominięte)
 
 4. Udział przedstawicieli pracowników w organach spółek, o których mowa w art. 14, 15 i art. 19, określają ich statuty lub umowy spółek.
 
-5. Do pełnienia funkcji Prezesa Zarządu PKP SA w pierwszym Zarządzie PKP SA powołuje się Prezesa Zarządu PKP Dyrektora Generalnego PKP, chyba że nie wyrazi on zgody na pełnienie tej funkcji.
+5. Do pełnienia funkcji Prezesa Zarządu PKP SA w pierwszym Zarządzie PKP SA powołuje się Prezesa Zarządu PKP – Dyrektora Generalnego PKP, chyba że nie wyrazi on zgody na pełnienie tej funkcji.
 
 6. Akt komercjalizacji PKP zastępuje określone w przepisach Kodeksu handlowego czynności poprzedzające złożenie wniosku o wpis spółki do rejestru handlowego .
 
@@ -118,7 +104,7 @@ Art. 65–73. (pominięte)
 
 **Art. 6.**
 
-1. Bilans zamknięcia PKP staje się bilansem otwarcia PKP SA, przy czym suma kapitałów PKP SA: akcyjnego i zapasowego jest równa funduszom PKP założycielskiemu i przedsiębiorstwa. Przy ustalaniu kapitałów uwzględnia się nierozliczony wynik finansowy z lat poprzedzających komercjalizację PKP.
+1. Bilans zamknięcia PKP staje się bilansem otwarcia PKP SA, przy czym suma kapitałów PKP SA: akcyjnego i zapasowego jest równa funduszom PKP – założycielskiemu i przedsiębiorstwa. Przy ustalaniu kapitałów uwzględnia się nierozliczony wynik finansowy z lat poprzedzających komercjalizację PKP.
 
 2. Sprawozdanie finansowe sporządzone na dzień komercjalizacji PKP, po zaopiniowaniu przez Radę Nadzorczą PKP SA, zatwierdza Walne Zgromadzenie PKP SA.
 
@@ -142,7 +128,7 @@ Art. 65–73. (pominięte)
 
 **Art. 10.** Członków Zarządu PKP SA oraz Rady Nadzorczej PKP SA powołuje i odwołuje Walne Zgromadzenie PKP SA.
 
-**Art. 11.** Pracownikowi PKP SA, będącemu członkiem Rady Nadzorczej PKP SA, spółka nie może, w okresie sprawowania mandatu członka Rady Nadzorczej PKP SA i w okresie roku po jego wygaśnięciu, wypowiedzieć stosunku pracy. W tym czasie spółka nie może również zmienić na niekorzyść pracownika jego warunków pracy i płacy, z wyjątkiem przypadku, o którym mowa w art. 241 § 2 Kodeksu pracy.
+**Art. 11.** Pracownikowi PKP SA, będącemu członkiem Rady Nadzorczej PKP SA, spółka nie może, w okresie sprawowania mandatu członka Rady Nadzorczej PKP SA i w okresie roku po jego wygaśnięciu, wypowiedzieć stosunku pracy. W tym czasie spółka nie może również zmienić na niekorzyść pracownika jego warunków pracy i płacy, z wyjątkiem przypadku, o którym mowa w art. 16 ust. 5 ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
 
 **Art. 12.** (uchylony)
 
@@ -156,7 +142,7 @@ Art. 65–73. (pominięte)
 
 2. Spółki przewozowe, z dniem wpisu do rejestru handlowego , w zakresie wykonywanego przez nie rodzaju przewozów, wstępują w prawa i obowiązki PKP SA jako przewoźnika kolejowego, w rozumieniu:
 
-- **1)** ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2020 r. poz. 8 oraz z 2023 r. poz. 1720);
+- **1)** ustawy z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2020 r. poz. 8 oraz z 2023 r. poz. 1720);
 - **2)** ustawy z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2023 r. poz. 1786, 1720 i 2029).
 
 **Art. 15.**
@@ -248,7 +234,7 @@ Art. 65–73. (pominięte)
 
 - **1)** dokumenty potwierdzające:
     - **a)** prawo do przedmiotu rozporządzenia,
-    - **b)** wartość rynkową przedmiotu rozporządzenia, o której mowa w ust. 2c pkt 2: wycenę rzeczoznawcy albo oświadczenie wnioskodawcy jeżeli wartość przedmiotu rozporządzenia można ustalić na podstawie opublikowanych cenników lub notowań giełdowych albo jeżeli koszt wyceny przewyższa 20 % wartości bilansowej przedmiotu rozporządzenia;
+    - **b)** wartość rynkową przedmiotu rozporządzenia, o której mowa w ust. 2c pkt 2: wycenę rzeczoznawcy albo oświadczenie wnioskodawcy – jeżeli wartość przedmiotu rozporządzenia można ustalić na podstawie opublikowanych cenników lub notowań giełdowych albo jeżeli koszt wyceny przewyższa 20 % wartości bilansowej przedmiotu rozporządzenia;
 
 - **2)** projekt umowy, na podstawie której ma być dokonane rozporządzenie;
 - **3)** inne dokumenty potwierdzające dane i informacje zawarte we wniosku.
@@ -285,7 +271,7 @@ Art. 65–73. (pominięte)
 
 4. Zmiana sposobu wykorzystania przekazanych linii kolejowych przez jednostkę samorządu terytorialnego wymaga uzyskania zgody ministra właściwego do spraw transportu. Do wniosku jednostki samorządu terytorialnego stosuje się odpowiednio art. 18 ust. 2c pkt 1 i 3–5, ust. 2d pkt 1 lit. a, pkt 2 i 3 oraz ust. 2e i 4.
 
-5. W przypadku niewyrażenia zgody, o której mowa w ust. 4, jednostka samorządu terytorialnego jest obowiązana zwrócić tę nieruchomość odpowiednio PKP SA lub PLK SA w stanie niepogorszonym, a w przypadku wyrażenia zgody jest obowiązana przekazać PKP SA lub PLK SA kwotę za nieruchomość obliczoną według wartości rynkowej, z uwzględnieniem stanu i cen nieruchomości z dnia wyrażenia zgody przez ministra właściwego do spraw transportu.
+5. W przypadku niewyrażenia zgody, o której mowa w ust. 4, jednostka samorządu terytorialnego jest obowiązana zwrócić tę nieruchomość odpowiednio PKP SA lub PLK SA w stanie niepogorszonym, a w przypadku wyrażenia zgody – jest obowiązana przekazać PKP SA lub PLK SA kwotę za nieruchomość obliczoną według wartości rynkowej, z uwzględnieniem stanu i cen nieruchomości z dnia wyrażenia zgody przez ministra właściwego do spraw transportu.
 
 6. Roszczenie dotyczące zwrotnego przeniesienia własności nieruchomości albo zwrotu kwoty odpowiadającej wartości nieruchomości przekazanej na podstawie umowy, o której mowa w ust. 1, podlega ujawnieniu w księdze wieczystej. Podstawą wpisu roszczenia do ksiąg wieczystych przekazywanych nieruchomości jest umowa, o której mowa w ust. 1.
 
@@ -314,11 +300,9 @@ Art. 65–73. (pominięte)
 
 8. Właściwy organ podatkowy, w związku z zawarciem umowy, o której mowa w ust. 1, wydaje decyzję stwierdzającą wygaśnięcie zobowiązania podatkowego, o którym mowa w ust. 5–7.
 
-9. Do decyzji, o której mowa w ust. 8, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760).
+9. Do decyzji, o której mowa w ust. 8, stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760).
 
-**Art. 18e.**
-
-- **11)** Linie kolejowe niebędące liniami o znaczeniu państwowym przekazane jednostce samorządu terytorialnego zgodnie z art. 18a ust. 1 albo art. 39 ust. 3 lub 4, mogą być przez tę jednostkę, w porozumieniu z PKP SA albo PLK SA, za zgodą ministra właściwego do spraw transportu, przekazane nieodpłatnie na własność lub oddane do korzystania na podstawie umów prawa cywilnego innej jednostce samorządu terytorialnego w celu wykonywania przewozów kolejowych. Do wyrażenia zgody przez ministra właściwego do spraw transportu stosuje się odpowiednio przepisy art. 18 ust. 2c pkt 1 i 3–5, ust. 2d pkt 1 lit. a, pkt 2 i 3 oraz ust. 2e i 4.
+**Art. 18e.** Linie kolejowe niebędące liniami o znaczeniu państwowym przekazane jednostce samorządu terytorialnego zgodnie z art. 18a ust. 1 albo art. 39 ust. 3 lub 4, mogą być przez tę jednostkę, w porozumieniu z PKP SA albo PLK SA, za zgodą ministra właściwego do spraw transportu, przekazane nieodpłatnie na własność lub oddane do korzystania na podstawie umów prawa cywilnego innej jednostce samorządu terytorialnego w celu wykonywania przewozów kolejowych. Do wyrażenia zgody przez ministra właściwego do spraw transportu stosuje się odpowiednio przepisy art. 18 ust. 2c pkt 1 i 3–5, ust. 2d pkt 1 lit. a, pkt 2 i 3 oraz ust. 2e i 4.
 
 **Art. 19.**
 
@@ -375,11 +359,11 @@ Art. 65–73. (pominięte)
 1. Restrukturyzacji finansowej na zasadach określonych w ustawie podlegają zobowiązania PKP SA:
 
 - **1)** znane na dzień 30 czerwca 2002 r. zaległości z tytułu:
-    - **a)** podatków: dochodowego od osób prawnych, od towarów i usług, akcyzowego, zniesionych przed dniem 1 marca 2003 r.,
+    - **a)** podatków: – dochodowego od osób prawnych, – od towarów i usług, – akcyzowego, – zniesionych przed dniem 1 marca 2003 r.,
     - **b)** cła;
 
 - **2)** znane na dzień 31 grudnia 2001 r. zaległości wobec:
-    - **a)** Funduszu Ubezpieczeń Społecznych z tytułu składek należnych do dnia 31 grudnia 1998 r. w całości, oraz z tytułu składek należnych za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2001 r. w części finansowanej przez płatnika, z zastrzeżeniem ust. 3,
+    - **a)** Funduszu Ubezpieczeń Społecznych z tytułu składek należnych do dnia 31 grudnia 1998 r. – w całości, oraz z tytułu składek należnych za okres od dnia 1 stycznia 1999 r. do dnia 31 grudnia 2001 r. – w części finansowanej przez płatnika, z zastrzeżeniem ust. 3,
     - **b)** Funduszu Pracy z tytułu należnych składek,
     - **c)** Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych z tytułu należnych wpłat,
     - **d)** Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej z tytułu nieuiszczonych opłat i kar eksploatacyjnych;
@@ -417,7 +401,7 @@ Art. 65–73. (pominięte)
 
 **Art. 24a.**
 
-1. Do restrukturyzacji finansowej zobowiązań PKP SA wobec budżetu państwa, z wyłączeniem zobowiązań określonych w art. 22, stosuje się przepisy art. 66 ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa, z zastrzeżeniem art. 17 i art. 24b–24d.
+1. Do restrukturyzacji finansowej zobowiązań PKP SA wobec budżetu państwa, z wyłączeniem zobowiązań określonych w art. 22, stosuje się przepisy art. 66 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, z zastrzeżeniem art. 17 i art. 24b–24d.
 
 2. Urząd skarbowy może nie wyrazić zgody na przeniesienie własności rzeczy lub praw majątkowych za zobowiązania, o których mowa w ust. 1, w przypadku gdy czynności te mogłyby spowodować szkodę dla interesu Skarbu Państwa.
 
@@ -425,8 +409,9 @@ Art. 65–73. (pominięte)
 
 1. Zobowiązania PKP SA z tytułu podatku dochodowego od osób prawnych, powstałe w rozliczeniu za lata 2011–2015, podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w ust. 2 i 4 oraz w art. 24d.
 
-2. Zobowiązania, o których mowa w ust. 1, podlegają zapłacie w sposób określony w tym przepisie do wysokości kwoty odpowiadającej iloczynowi stawki podatku, o której mowa w art. 19 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz. 232) oraz dochodu uzyskanego przez PKP SA w danym roku podatkowym z tytułu:
+2. Zobowiązania, o których mowa w ust. 1, podlegają zapłacie w sposób określony w tym przepisie do wysokości kwoty odpowiadającej iloczynowi stawki podatku, o której mowa w art. 19 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2023 r. poz. 2805 oraz z 2024 r. poz.
 
+- **232)** oraz dochodu uzyskanego przez PKP SA w danym roku podatkowym z tytułu:
 - **1)** nabycia w zamian za wkłady niepieniężne akcji lub udziałów w PKP Cargo SA, PKP Intercity SA, PLK SA, PKP Energetyka SA, Telekomunikacja Kolejowa sp. z o.o. i PKP Linia Hutnicza Szerokotorowa sp. z o.o., obliczonego jako różnica przychodu odpowiadającego wartości nominalnej objętych akcji lub udziałów i kosztu uzyskania tego przychodu, w rozumieniu ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, oraz
 - **2)** wierzytelności podlegających zamianie na akcje PLK SA, wynikających z umowy zawartej między PKP SA i PLK SA na podstawie art. 17 ust. 5 w brzmieniu obowiązującym przed dniem 25 maja 2003 r.
 
@@ -436,7 +421,7 @@ Art. 65–73. (pominięte)
 
 5. Nadwyżka, wynikająca z różnicy zapłaconych zaliczek oraz należnego podatku pomniejszonego o wartość akcji PLK SA przeniesionych na rzecz Skarbu Państwa w trybie art. 24d, podlega zwrotowi PKP SA, jeżeli przeniesienie własności akcji nastąpi nie później, niż do dnia, w którym upływa termin do złożenia zeznania za dany rok podatkowy.
 
-6. Do nadwyżki zaliczek, o której mowa w ust. 5, przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa dotyczące nadpłaty stosuje się odpowiednio. Art. 24ba. 1. Zobowiązania PKP SA z tytułu podatku dochodowego od osób prawnych, powstałe w rozliczeniu za lata 2022–2026, podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w ust. 2 i 4 oraz w art. 24d.
+6. Do nadwyżki zaliczek, o której mowa w ust. 5, przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa dotyczące nadpłaty stosuje się odpowiednio. Art. 24ba. 1. Zobowiązania PKP SA z tytułu podatku dochodowego od osób prawnych, powstałe w rozliczeniu za lata 2022–2026, podlegają zapłacie w drodze przeniesienia własności akcji PLK SA, na warunkach określonych w ust. 2 i 4 oraz w art. 24d.
 
 2. Zobowiązania, o których mowa w ust. 1, podlegają zapłacie do wysokości kwoty odpowiadającej iloczynowi stawki podatku, o której mowa w art. 19 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, oraz dochodu uzyskanego przez PKP SA w danym roku podatkowym z tytułu:
 
@@ -450,7 +435,7 @@ Art. 65–73. (pominięte)
 
 5. Nadwyżka, wynikająca z różnicy zapłaconych zaliczek oraz należnego podatku dochodowego od osób prawnych pomniejszonego o wartość akcji PLK SA przeniesionych na rzecz Skarbu Państwa w trybie art. 24d, podlega zwrotowi PKP SA, jeżeli przeniesienie własności akcji nastąpi nie później niż do dnia, w którym upływa termin do złożenia zeznania za dany rok podatkowy.
 
-6. Do nadwyżki, o której mowa w ust. 5, przepisy rozdziału 9 działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa stosuje się odpowiednio.
+6. Do nadwyżki, o której mowa w ust. 5, przepisy rozdziału 9 działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa stosuje się odpowiednio.
 
 7. Wnoszenie wkładów niepieniężnych do spółek, o których mowa w ust. 2 pkt 2, wymaga zgody ministra właściwego do spraw transportu. Przepisy art. 18 ust. 2, 2a, 2c–2e, 4 i 7 stosuje się.
 
@@ -507,7 +492,7 @@ Art. 65–73. (pominięte)
 
 **Art. 30.** (uchylony)
 
-**Art. 31.** Przy sprzedaży wierzytelności PKP SA stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933) o zmianie wierzyciela, z tym że sprzedaż nie może być dokonana na rzecz dłużnika, jego zstępnych i wstępnych, podmiotu zależnego lub dominującego, w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2022 r. poz. 2554 oraz z 2023 r. poz. 825 i 1723).
+**Art. 31.** Przy sprzedaży wierzytelności PKP SA stosuje się przepisy ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933) o zmianie wierzyciela, z tym że sprzedaż nie może być dokonana na rzecz dłużnika, jego zstępnych i wstępnych, podmiotu zależnego lub dominującego, w rozumieniu ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. z 2022 r. poz. 2554 oraz z 2023 r. poz. 825 i 1723).
 
 **Art. 32.**
 
@@ -515,17 +500,17 @@ Art. 65–73. (pominięte)
 
 2. Środki pochodzące z emisji obligacji, o których mowa w ust. 1, o wartości nominalnej do 3 900 000 000 zł mogą być przeznaczone, z zastrzeżeniem ust. 4 i ust. 13, wyłącznie na:
 
-- **1)** w pierwszej kolejności spłatę kredytów lub pożyczek wraz z odsetkami od tych kredytów lub pożyczek oraz innymi kosztami, o których mowa w ust. 6;
-- **2)** świadczenia przedemerytalne dla osób zwolnionych z PKP w 2000 r., wypłacane w latach 2000–2001, jednorazowe odprawy pieniężne dla pracowników zwalnianych w latach 2000–2002 z podmiotów wymienionych w art. 48, jednorazowe szkolenia, doradztwo zawodowe i społeczne dla pracowników, o których mowa w art. 56 ust. 1, oraz świadczenia socjalne z tytułu udzielonego urlopu kolejowego w kwocie do 1 100 000 000 zł;
-- **3)** spłatę zobowiązań oraz zapewnienie ciągłości procesu eksploatacyjnego, w tym zakup materiałów i usług, zakupy i remonty kolejowych pojazdów szynowych, modernizację urządzeń związanych z ruchem kolejowym i bezpieczeństwem ruchu kolejowego, w tym inwestycje w kwocie do 1 450 000 000 zł, w tym:
-    - **a)** spłatę zobowiązań wobec przedsiębiorstw utworzonych z zakładów i jednostek organizacyjnych wydzielonych z PKP w okresie od dnia 1 lipca 1991 r. do dnia 31 grudnia 1993 r. oraz zakup usług od tych przedsiębiorstw w kwocie do 450 000 000 zł,
-    - **b)** spłatę zobowiązań wobec przedsiębiorstw energetycznych oraz zakup energii i paliwa trakcyjnego w kwocie do 300 000 000 zł,
-    - **c)** spłatę zobowiązań eksploatacyjnych i inwestycyjnych związanych z modernizacją urządzeń ruchu kolejowego i bezpieczeństwem tego ruchu oraz zakupy kolejowych pojazdów szynowych w kwocie do 700 000 000 zł;
+- **1)** w pierwszej kolejności – spłatę kredytów lub pożyczek wraz z odsetkami od tych kredytów lub pożyczek oraz innymi kosztami, o których mowa w ust. 6;
+- **2)** świadczenia przedemerytalne dla osób zwolnionych z PKP w 2000 r., wypłacane w latach 2000–2001, jednorazowe odprawy pieniężne dla pracowników zwalnianych w latach 2000–2002 z podmiotów wymienionych w art. 48, jednorazowe szkolenia, doradztwo zawodowe i społeczne dla pracowników, o których mowa w art. 56 ust. 1, oraz świadczenia socjalne z tytułu udzielonego urlopu kolejowego – w kwocie do 1 100 000 000 zł;
+- **3)** spłatę zobowiązań oraz zapewnienie ciągłości procesu eksploatacyjnego, w tym zakup materiałów i usług, zakupy i remonty kolejowych pojazdów szynowych, modernizację urządzeń związanych z ruchem kolejowym i bezpieczeństwem ruchu kolejowego, w tym inwestycje – w kwocie do 1 450 000 000 zł, w tym:
+    - **a)** spłatę zobowiązań wobec przedsiębiorstw utworzonych z zakładów i jednostek organizacyjnych wydzielonych z PKP w okresie od dnia 1 lipca 1991 r. do dnia 31 grudnia 1993 r. oraz zakup usług od tych przedsiębiorstw – w kwocie do 450 000 000 zł,
+    - **b)** spłatę zobowiązań wobec przedsiębiorstw energetycznych oraz zakup energii i paliwa trakcyjnego – w kwocie do 300 000 000 zł,
+    - **c)** spłatę zobowiązań eksploatacyjnych i inwestycyjnych związanych z modernizacją urządzeń ruchu kolejowego i bezpieczeństwem tego ruchu oraz zakupy kolejowych pojazdów szynowych – w kwocie do 700 000 000 zł;
 
-- **4)** pokrycie zobowiązań głównych według stanu na dzień 31 grudnia 1998 r. z tytułu zobowiązań publicznoprawnych oraz zakupu materiałów i usług, w szczególności leków i środków opatrunkowych jednostek kolejowej służby zdrowia, wydzielonych z PKP w celu utworzenia z nich samodzielnych publicznych zakładów opieki zdrowotnej w kwocie do 45 000 000 zł;
-- **5)** pokrycie kosztów usług świadczonych przez doradców prywatyzacyjnych dla PKP SA w kwocie do 6 000 000 zł;
+- **4)** pokrycie zobowiązań głównych według stanu na dzień 31 grudnia 1998 r. z tytułu zobowiązań publicznoprawnych oraz zakupu materiałów i usług, w szczególności leków i środków opatrunkowych jednostek kolejowej służby zdrowia, wydzielonych z PKP w celu utworzenia z nich samodzielnych publicznych zakładów opieki zdrowotnej – w kwocie do 45 000 000 zł;
+- **5)** pokrycie kosztów usług świadczonych przez doradców prywatyzacyjnych dla PKP SA – w kwocie do 6 000 000 zł;
 - **6)** pokrycie kosztów emisji obligacji, z wyjątkiem kosztów wykupu obligacji oraz płatności z tytułu odsetek lub dyskonta;
-- **7)** spłatę zobowiązań z tytułu składek na ubezpieczenie społeczne w części finansowanej przez ubezpieczonych oraz ubezpieczenie zdrowotne wraz z odsetkami w kwocie do 420 000 000 zł;
+- **7)** spłatę zobowiązań z tytułu składek na ubezpieczenie społeczne w części finansowanej przez ubezpieczonych oraz ubezpieczenie zdrowotne wraz z odsetkami – w kwocie do 420 000 000 zł;
 - **8)** dofinansowanie deficytowych regionalnych przewozów pasażerskich wykonywanych przez PKP lub PKP SA albo spółki utworzone przez PKP lub PKP SA.
 
 3. Wydatki na realizację celów, o których mowa w ust. 2 pkt 2–8, mogą być poniesione wyłącznie w zakresie, w jakim realizacja tych celów nie została sfinansowana środkami z kredytów lub pożyczek, o których mowa w ust. 6.
@@ -662,9 +647,9 @@ Art. 65–73. (pominięte)
 
 1. Skarb Państwa reprezentowany przez ministra właściwego do spraw transportu przekaże PKP Przewozy Regionalne sp. z o.o., zwanej dalej „PKP PR”, tytułem rekompensaty za straty poniesione przez PKP PR w związku z wykonywaniem przewozów pasażerskich w ramach obowiązku świadczenia usług publicznych w okresie od dnia 1 października 2001 r. do dnia 30 kwietnia 2004 r. dotację w kwocie 2 160 000 000 zł, przy czym kwota:
 
-- **1)** 500 000 000 zł zostanie przekazana w terminie do dnia 31 lipca 2008 r.;
-- **2)** 883 000 000 zł zostanie przekazana w równych transzach miesięcznych w terminie do dnia 30 listopada 2008 r.;
-- **3)** 777 000 000 zł zostanie przekazana w terminie do dnia 30 listopada 2009 r.
+- **1)** 500 000 000 zł zostanie przekazana – w terminie do dnia 31 lipca 2008 r.;
+- **2)** 883 000 000 zł zostanie przekazana w równych transzach miesięcznych – w terminie do dnia 30 listopada 2008 r.;
+- **3)** 777 000 000 zł zostanie przekazana – w terminie do dnia 30 listopada 2009 r.
 
 2. Kwoty, o których mowa w ust. 1, mogą być przekazywane zgodnie ze szczegółowym harmonogramem określonym w umowie zawartej między ministrem właściwym do spraw transportu a PKP PR.
 
@@ -686,8 +671,8 @@ Art. 65–73. (pominięte)
 
 1. PKP SA otrzyma z budżetu państwa w 2008 r. i w 2009 r., na zasadach określonych w ustawie, pożyczki w łącznej kwocie 1 860 000 000 zł, z tym że pożyczkę w kwocie:
 
-- **1)** 1 383 000 000 zł w terminie do dnia 30 września 2008 r.;
-- **2)** 477 000 000 zł w terminie do dnia 30 września 2009 r.
+- **1)** 1 383 000 000 zł – w terminie do dnia 30 września 2008 r.;
+- **2)** 477 000 000 zł – w terminie do dnia 30 września 2009 r.
 
 2. Pożyczki, o których mowa w ust. 1, zostaną udzielone na podstawie umów zawartych w 2008 r. i w 2009 r. pomiędzy Skarbem Państwa reprezentowanym przez ministra właściwego do spraw finansów publicznych a PKP SA.
 
@@ -747,31 +732,31 @@ Art. 65–73. (pominięte)
 
 2. Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, nie może przekroczyć w:
 
-- **1)** 2020 r. 4 900 000 000 zł;
-- **2)** 2021 r. 2 300 000 000 zł;
-- **3)** 2022 r. 1 200 000 000 zł;
-- **4)** 2023 r. 1 200 000 000 zł;
-- **5)** 2024 r. 2 540 000 000 zł;
-- **6)** 2025 r. 1 214 000 000 zł;
-- **7)** 2026 r. 1 856 000 000 zł;
-- **8)** 2027 r. 1 690 000 000 zł.
+- **1)** 2020 r. – 4 900 000 000 zł;
+- **2)** 2021 r. – 2 300 000 000 zł;
+- **3)** 2022 r. – 1 200 000 000 zł;
+- **4)** 2023 r. – 1 200 000 000 zł;
+- **5)** 2024 r. – 2 540 000 000 zł;
+- **6)** 2025 r. – 1 214 000 000 zł;
+- **7)** 2026 r. – 1 856 000 000 zł;
+- **8)** 2027 r. – 1 690 000 000 zł.
 
 2a. Minister właściwy do spraw finansów publicznych, biorąc pod uwagę wykorzystanie określonego w ustawie budżetowej poziomu limitu skarbowych papierów wartościowych, może w danym roku budżetowym, na wniosek ministra właściwego do spraw transportu, przekazać PLK SA skarbowe papiery wartościowe o wartości nominalnej większej niż określona w ust. 2 dla danego roku budżetowego. Zwiększenie wartości nominalnej skarbowych papierów wartościowych planowanych do przekazania w danym roku budżetowym nie może powodować zwiększenia łącznej wartości nominalnej skarbowych papierów wartościowych wynikającej z ust. 2.
 
-3. Akcje w podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa. Art. 33wa. 13) 1. W latach 2023–2028 minister właściwy do spraw finansów publicznych może także przekazać PLK SA na wniosek ministra właściwego do spraw transportu, skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
+3. Akcje w podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa. Art. 33wa. 1. W latach 2023–2028 minister właściwy do spraw finansów publicznych może także przekazać PLK SA na wniosek ministra właściwego do spraw transportu, skarbowe papiery wartościowe z przeznaczeniem na podwyższenie kapitału zakładowego PLK SA.
 
 2. Łączna wartość nominalna skarbowych papierów wartościowych, o których mowa w ust. 1, nie może przekroczyć w:
 
-- **1)** 2023 r. 7 412 000 zł;
-- **2)** 2024 r. 222 265 000 zł;
-- **3)** 2025 r. 989 331 000 zł;
-- **4)** 2026 r. 897 104 000 zł;
-- **5)** 2027 r. 780 336 000 zł;
-- **6)** 2028 r. 498 852 000 zł.
+- **1)** 2023 r. – 7 412 000 zł;
+- **2)** 2024 r. – 222 265 000 zł;
+- **3)** 2025 r. – 989 331 000 zł;
+- **4)** 2026 r. – 897 104 000 zł;
+- **5)** 2027 r. – 780 336 000 zł;
+- **6)** 2028 r. – 498 852 000 zł.
 
 3. Akcje w podwyższonym kapitale zakładowym PLK SA zostaną objęte przez Skarb Państwa.
 
-**Art. 33x.** Do podwyższenia kapitału zakładowego PLK SA stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+**Art. 33x.** Do podwyższenia kapitału zakładowego PLK SA stosuje się przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 **Art. 33y.**
 
@@ -818,7 +803,7 @@ Art. 65–73. (pominięte)
 
 4. Nabycie praw, o których mowa w ust. 1 i ust. 3, nie może naruszać praw osób trzecich.
 
-**Art. 34a.** Grunty, o których mowa w art. 34, z dniem 1 czerwca 2003 r. nie podlegają komunalizacji na podstawie przepisów ustawy z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ).
+**Art. 34a.** Grunty, o których mowa w art. 34, z dniem 1 czerwca 2003 r. nie podlegają komunalizacji na podstawie przepisów ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ).
 
 **Art. 35.**
 
@@ -895,10 +880,10 @@ Art. 65–73. (pominięte)
 4a. Nieruchomości PKP SA mogą być:
 
 - **1)** zbywane w trybie bezprzetargowym według ceny rynkowej na rzecz Skarbu Państwa w celu włączenia do Zasobu Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2023 r. poz. 1054, 1688 i 1693), do Zasobu Spółki Celowej, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, w tym na własność tej Spółki;
-- **2)** przedmiotem zamiany z nieruchomościami, w stosunku do których:
+- **2)** przedmiotem zamiany z nieruchomościami, w stosunku do których: o Centralnym Porcie Komunikacyjnym, jest właścicielem lub użytkownikiem wieczystym,
     - **a)** na mocy ustawy z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości, Krajowy Zasób Nieruchomości wykonuje prawo własności i inne prawa rzeczowe na rzecz Skarbu Państwa,
     - **b)** na mocy ustawy z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, Spółka Celowa wykonuje prawo własności i inne prawa rzeczowe na rzecz Skarbu Państwa,
-    - **c)** Spółka Celowa, o której mowa w ustawie z dnia 10 maja 2018 r. o Centralnym Porcie Komunikacyjnym, jest właścicielem lub użytkownikiem wieczystym,
+    - **c)** Spółka Celowa, o której mowa w ustawie z dnia 10 maja 2018 r.
     - **d)** jednostka samorządu terytorialnego, państwowa osoba prawna lub państwowa jednostka organizacyjna jest właścicielem lub użytkownikiem wieczystym.
 
 5. PKP SA może pomniejszyć kapitał zapasowy o wartość księgową netto przekazywanego mienia w postaci środków trwałych.
@@ -949,9 +934,7 @@ Art. 65–73. (pominięte)
 
 **Art. 39e.** PKP SA jako użytkownik wieczysty nieruchomości wnoszący wkłady niepieniężne obejmujące nieruchomości do spółek utworzonych na podstawie art. 14 i art. 15 lub spółek, o których mowa w art. 78a, lub spółki, do których PKP SA wnosi na podstawie ustawy nieruchomości w ramach wkładu niepieniężnego, są uprawnione do żądania odłączenia z dotychczasowej księgi wieczystej części nieruchomości i założenia dla niej nowej księgi wieczystej albo jej przyłączenia do nieruchomości, dla której jest prowadzona księga wieczysta, albo połączenia kilku nieruchomości stanowiących całość gospodarczą lub graniczących ze sobą w księdze wieczystej w jedną nieruchomość.
 
-**Art. 39f.**
-
-- **24)** Podmiot zarządzający zapleczem technicznym pasażerskiego i towarowego taboru kolejowego, zlokalizowanym na gruncie o nieuregulowanym na rzecz PKP SA stanie prawnym, stanowiącym teren zamknięty, o którym mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762), w celu wykonania robót budowlanych dotyczących infrastruktury zaplecza, dysponuje nieruchomością lub jej częścią, na której położone jest to zaplecze, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ), pod warunkiem że nieruchomość zarządzana jest przez podmiot zarządzający na podstawie umowy zawartej z PKP SA, której przedmiotem jest oddanie nieruchomości do korzystania, i PKP SA wyraziła zgodę na wykonanie robót budowlanych.
+**Art. 39f.** Podmiot zarządzający zapleczem technicznym pasażerskiego i towarowego taboru kolejowego, zlokalizowanym na gruncie o nieuregulowanym na rzecz PKP SA stanie prawnym, stanowiącym teren zamknięty, o którym mowa w art. 2 pkt 9 ustawy z dnia 17 maja 1989 r. – Prawo geodezyjne i kartograficzne (Dz. U. z 2023 r. poz. 1752, 1615, 1688 i 1762), w celu wykonania robót budowlanych dotyczących infrastruktury zaplecza, dysponuje nieruchomością lub jej częścią, na której położone jest to zaplecze, na cele budowlane w rozumieniu przepisów ustawy z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. z 2023 r. poz. 682, z późn. zm. ), pod warunkiem że nieruchomość zarządzana jest przez podmiot zarządzający na podstawie umowy zawartej z PKP SA, której przedmiotem jest oddanie nieruchomości do korzystania, i PKP SA wyraziła zgodę na wykonanie robót budowlanych.
 
 **Art. 40.**
 
@@ -967,7 +950,7 @@ Art. 65–73. (pominięte)
 - **6)** przedmiotem zbycia są akcje albo udziały w spółkach innych niż określone w art. 14, art. 19 i art. 20a ustawy, a także inne składniki finansowych aktywów trwałych albo licencje, patenty lub inne prawa własności przemysłowej, jeżeli odmienny niż przetarg tryb zbycia określa uchwała walnego zgromadzenia lub statut PKP SA;
 - **6a)** składniki aktywów trwałych są wnoszone do spółki jako wkład niepieniężny na pokrycie podwyższonego kapitału zakładowego w zamian za objęcie akcji lub udziałów tej spółki, w szczególności w celu realizacji programu rządowego;
 - **7)** zbycie następuje w postępowaniu likwidacyjnym, na zasadach określonych uchwałą walnego zgromadzenia i z zachowaniem odrębnych przepisów;
-- **8)** przeniesienie własności rzeczy lub praw majątkowych następuje w zamian za wygaśnięcie zaległości podatkowych na warunkach określonych w ustawie z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+- **8)** przeniesienie własności rzeczy lub praw majątkowych następuje w zamian za wygaśnięcie zaległości podatkowych na warunkach określonych w ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 3. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, sposób i tryb organizowania przez PKP SA przetargów oraz rokowań na zbycie aktywów trwałych, w tym:
 
@@ -976,7 +959,7 @@ Art. 65–73. (pominięte)
 - **3)** termin składania ofert oraz zakończenia przetargu,
 - **4)** sposób sporządzania oraz treść protokołu z przeprowadzonego przetargu,
 - **5)** warunki, w których dopuszcza się odstąpienie od przetargu lub obniżenie ceny,
-- **6)** tryb postępowania przy przeprowadzaniu rokowań po odstąpieniu od przetargu z uwzględnieniem konieczności ochrony interesu Skarbu Państwa.
+- **6)** tryb postępowania przy przeprowadzaniu rokowań po odstąpieniu od przetargu – z uwzględnieniem konieczności ochrony interesu Skarbu Państwa.
 
 4. W uzasadnionych przypadkach, kierując się interesem spółki, PKP SA może dokonać zbycia środków, o których mowa w ust. 2, na zasadach określonych w ust. 1.
 
@@ -997,7 +980,7 @@ Art. 65–73. (pominięte)
 - **1)** na podstawie umowy najmu;
 - **2)** po śmierci najemcy, jeżeli są osobami wymienionymi w art. 691 § 1 i 2 Kodeksu cywilnego;
 - **3)** jeżeli są lub były pracownikami podmiotów utworzonych z zakładów lub jednostek organizacyjnych wydzielonych z PKP w okresie od dnia 1 lipca 1991 r.;
-- **3a)** jeżeli są lub były pracownikami: które wykonywały lub nadal wykonują zadania na rzecz zbywcy lub jego poprzednika prawnego, bądź też, gdy budynki, w których są oni najemcami lokali, były budowane w ramach wspólnych inwestycji tych podmiotów wraz ze zbywcą lub jego poprzednikiem prawnym;
+- **3a)** jeżeli są lub były pracownikami: – które wykonywały lub nadal wykonują zadania na rzecz zbywcy lub jego poprzednika prawnego, bądź też, gdy budynki, w których są oni najemcami lokali, były budowane w ramach wspólnych inwestycji tych podmiotów wraz ze zbywcą lub jego poprzednikiem prawnym;
     - **a)** przedsiębiorstw państwowych lub jednostek organizacyjnych,
     - **b)** podmiotów utworzonych z zakładów lub jednostek organizacyjnych wydzielonych z przedsiębiorstw państwowych po dniu 1 sierpnia 1990 r.
 
@@ -1038,7 +1021,7 @@ Art. 65–73. (pominięte)
 2. Sprzedaż lokalu mieszkalnego następuje po cenie ustalonej na zasadach określonych w przepisach o gospodarce nieruchomościami, pomniejszonej o:
 
 - **1)** 6 % za każdy rok pracy najemcy w PKP, PKP SA oraz w przedsiębiorstwach państwowych, jednostkach organizacyjnych i podmiotach, o których mowa w art. 42 ust. 1 pkt 3 i 3a,
-- **2)** oraz 3 % za każdy rok najmu mieszkania od PKP albo PKP i PKP SA łącznie, nie więcej jednak niż o 95 %.
+- **2)** oraz 3 % – za każdy rok najmu mieszkania od PKP albo PKP i PKP SA łącznie, – nie więcej jednak niż o 95 %.
 
 2a. Jeżeli osobą uprawnioną jest emeryt, rencista lub wdowa (wdowiec) po niej, to korzysta on (ona) z obniżki 95 % ceny.
 
@@ -1065,7 +1048,7 @@ Art. 65–73. (pominięte)
 2. PKP SA składa gminie właściwej ze względu na miejsce położenia nieruchomości, o których mowa w ust. 1, propozycję ich przekazania wraz z:
 
 - **1)** pełnymi odpisami z ksiąg wieczystych, urządzonych dla przekazywanych nieruchomości, w szczególności potwierdzającymi prawo PKP SA do gruntów oraz własność położonych na nich budynków i innych urządzeń;
-- **2)** dokumentacją budowy i dokumentacją powykonawczą budynków i urządzeń, a także książką obiektu budowlanego, a w razie ich braku inwentaryzacją budynków i urządzeń;
+- **2)** dokumentacją budowy i dokumentacją powykonawczą budynków i urządzeń, a także książką obiektu budowlanego, a w razie ich braku – inwentaryzacją budynków i urządzeń;
 - **3)** informacją o tym, kiedy i jakie remonty lub modernizacje zostały w przekazanych obiektach przeprowadzone w okresie ostatnich 10 lat.
 
 3. Nieruchomości, o których mowa w ust. 1, mogą być też przekazane w razie braku dokumentacji, o której mowa w ust. 2 pkt 2. W tym przypadku PKP SA ponosi uzasadnione koszty sporządzenia inwentaryzacji budynków i urządzeń wchodzących w skład nieruchomości, której nie wykonano do dnia jej przekazania.
@@ -1076,7 +1059,7 @@ Art. 65–73. (pominięte)
 
 6. PKP SA wypłaca gminie kaucje mieszkaniowe wniesione przez najemców, najpóźniej w dniu zawarcia umowy, w takiej wysokości, w jakiej należałoby je w tym dniu zwrócić najemcom, powiadamiając ich o tym.
 
-7. Umowy najmu lokali mieszkalnych, mieszczących się w przekazanych gminie budynkach, przekształcają się, z mocy prawa, z dniem przekazania w umowy najmu zawarte na czas nieoznaczony. Do umów tych mają zastosowanie przepisy ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
+7. Umowy najmu lokali mieszkalnych, mieszczących się w przekazanych gminie budynkach, przekształcają się, z mocy prawa, z dniem przekazania – w umowy najmu zawarte na czas nieoznaczony. Do umów tych mają zastosowanie przepisy ustawy z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. z 2023 r. poz. 725).
 
 8. PKP SA pomniejsza kapitał zapasowy o wartość księgową netto przekazywanych nieruchomości, o których mowa w ust. 1.
 
@@ -1084,7 +1067,7 @@ Art. 65–73. (pominięte)
 
 **Art. 47a.**
 
-1. Jednostka samorządu terytorialnego, która w trybie przepisów ustawy z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych nabyła prawo własności nieruchomości wraz z budynkami mieszkalnymi będącymi do dnia wejścia w życie tej ustawy w posiadaniu PKP lub PKP SA, a lokale mieszkalne zajmują osoby określone w art. 42 ust. 1, stosuje do sprzedaży tych lokali odpowiednio przepisy art. 42 ust. 2 i 3 oraz art. 43–46.
+1. Jednostka samorządu terytorialnego, która w trybie przepisów ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych nabyła prawo własności nieruchomości wraz z budynkami mieszkalnymi będącymi do dnia wejścia w życie tej ustawy w posiadaniu PKP lub PKP SA, a lokale mieszkalne zajmują osoby określone w art. 42 ust. 1, stosuje do sprzedaży tych lokali odpowiednio przepisy art. 42 ust. 2 i 3 oraz art. 43–46.
 
 2. Przepis ust. 1, stosuje się również do spółdzielni mieszkaniowej i gminy, którym na podstawie art. 43 ust. 4, art. 46a lub art. 81 ust. 1 zostały przekazane nieruchomości wraz z budynkami mieszkalnymi będącymi dotychczas w posiadaniu PKP lub PKP SA, a lokale mieszkalne zajmują osoby określone w art. 42 ust. 1.
 
@@ -1146,7 +1129,7 @@ Art. 65–73. (pominięte)
 
 3. Świadczenie socjalne, o którym mowa w ust. 1, podlega waloryzacji w trybie i na zasadach dotyczących emerytur.
 
-4. Świadczenie socjalne podlega ochronie prawnej jak wynagrodzenie za pracę zgodnie z Kodeksem pracy.
+4. Świadczenie socjalne podlega ochronie prawnej jak wynagrodzenie za pracę – zgodnie z Kodeksem pracy.
 
 5. Kwota świadczenia socjalnego stanowi podstawę wymiaru składek na ubezpieczenie emerytalne, rentowe oraz zdrowotne.
 
@@ -1293,7 +1276,7 @@ Art. 65–73. (pominięte)
 
 4. Prawo do deputatu węglowego nie przysługuje jednak emerytowi lub renciście, jeżeli nie przysługiwało mu w okresie zatrudnienia, z tytułu którego powstało prawo do emerytury lub renty.
 
-5. Ekwiwalent pieniężny, o którym mowa w ust. 1, przyznaje i wypłaca w dwóch terminach wraz z wypłatą emerytury lub renty: w marcu za okres od 1 stycznia do 30 czerwca i we wrześniu za okres od 1 lipca do 31 grudnia każdego roku Zakład Ubezpieczeń Społecznych z dotacji celowej z budżetu państwa.
+5. Ekwiwalent pieniężny, o którym mowa w ust. 1, przyznaje i wypłaca w dwóch terminach wraz z wypłatą emerytury lub renty: w marcu – za okres od 1 stycznia do 30 czerwca i we wrześniu – za okres od 1 lipca do 31 grudnia każdego roku Zakład Ubezpieczeń Społecznych z dotacji celowej z budżetu państwa.
 
 6. W przypadku przyznania emerytury lub renty po terminie wypłaty ekwiwalentu pieniężnego, ekwiwalent należny od dnia przyznania emerytury lub renty do końca półrocznego okresu, o którym mowa w ust. 5, wypłaca się łącznie z pierwszą należnością z tytułu emerytury lub renty.
 
@@ -1346,7 +1329,7 @@ Art. 65–73. (pominięte)
 2. Przekazaniu mogą podlegać nieruchomości, w stosunku do których PKP SA w okresie, o którym mowa w ust. 1, złoży gminom właściwym ze względu na miejsce położenia tych nieruchomości oświadczenia o zamiarze ich przekazania wraz z:
 
 - **1)** pełnymi odpisami z ksiąg wieczystych, urządzonych dla przekazywanych nieruchomości, a w szczególności potwierdzającymi prawo przekazującego do gruntów oraz własność położonych na nich budynków i innych urządzeń;
-- **2)** dokumentacją budowy i dokumentacją powykonawczą budynków i urządzeń, a także książką obiektu budowlanego, a w razie ich braku inwentaryzacją budynków i urządzeń;
+- **2)** dokumentacją budowy i dokumentacją powykonawczą budynków i urządzeń, a także książką obiektu budowlanego, a w razie ich braku – inwentaryzacją budynków i urządzeń;
 - **3)** informacją o tym, kiedy i jakie remonty lub modernizacje zostały w przekazanych obiektach przeprowadzone w okresie ostatnich 10 lat.
 
 3. Nieruchomość może być też przekazana w razie braku dokumentacji, o której mowa w ust. 2 pkt 2. W tym przypadku gminie przysługuje roszczenie wobec przekazującego nieruchomość o zwrot uzasadnionych kosztów sporządzenia inwentaryzacji budynków i urządzeń wchodzących w skład nieruchomości, której nie wykonano do dnia przekazania nieruchomości.
@@ -1363,7 +1346,7 @@ Art. 65–73. (pominięte)
 
 9. Kaucje mieszkaniowe wniesione przez najemców przekazujący wypłaca gminie najpóźniej w dniu zawarcia umowy w takiej wysokości, w jakiej należałoby je zwrócić najemcom w tym dniu.
 
-10. Umowy najmu lokali mieszkalnych, mieszczących się w przekazanych gminie budynkach, przekształcają się, z mocy prawa, z dniem przekazania w umowy najmu zawarte na czas nieoznaczony. Do umów tych mają zastosowanie przepisy o najmie lokali mieszkalnych i dodatkach mieszkaniowych .
+10. Umowy najmu lokali mieszkalnych, mieszczących się w przekazanych gminie budynkach, przekształcają się, z mocy prawa, z dniem przekazania – w umowy najmu zawarte na czas nieoznaczony. Do umów tych mają zastosowanie przepisy o najmie lokali mieszkalnych i dodatkach mieszkaniowych .
 
 **Art. 82.**
 

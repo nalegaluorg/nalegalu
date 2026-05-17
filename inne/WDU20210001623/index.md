@@ -8,11 +8,10 @@ pos: 1623
 act_type: Ustawa
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
 # szczególnych rozwiązaniach związanych ze specjalnym przeznaczeniem gruntów leśnych
-
-*USTAWA z dnia 23 lipca 2021 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -39,9 +38,9 @@ domain: null
 
 **Art. 2.**
 
-1. W przypadku wskazanym art. 1 ust. 1 zamiana jest dokonywana przez Dyrektora Generalnego Lasów Państwowych na wniosek ministra właściwego do spraw środowiska złożony porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki, przy uwzględnieniu kryterium wielkości nieruchomości, po ich wycenie przez osoby posiadające uprawnienia z zakresu szacowania nieruchomości i bez obowiązku dokonywania dopłat przypadku różnej wartości zamienianych nieruchomości. Lasy Państwowe mogą dokonywać zamiany lasów, gruntów i innych nieruchomości Skarbu Państwa pozostających ich zarządzie jedynie na lasy, grunty i inne nieruchomości, na których jest możliwe prowadzenie gospodarki leśnej.
+1. W przypadku wskazanym art. 1 ust. 1 zamiana jest dokonywana przez Dyrektora Generalnego Lasów Państwowych na wniosek ministra właściwego do spraw środowiska złożony porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki, przy uwzględnieniu kryterium wielkości powierzchni nieruchomości, po ich wycenie przez osoby posiadające uprawnienia z zakresu szacowania nieruchomości i bez obowiązku dokonywania dopłat przypadku różnej wartości zamienianych nieruchomości. Lasy Państwowe mogą dokonywać zamiany lasów, gruntów i innych nieruchomości Skarbu Państwa pozostających ich zarządzie jedynie na lasy, grunty i inne nieruchomości, na których jest możliwe prowadzenie gospodarki leśnej.
 
-2. W przypadku wskazanym art. 1 ust. 3 zamiana jest dokonywana przez organ właściwy zgodnie z art. 11 ust. 1 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11, 234, 815, 1551 i 1561) na wniosek ministra właściwego do spraw środowiska złożony porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki, przy uwzględnieniu kryterium wielkości nieruchomości, po ich wycenie przez osoby posiadające uprawnienia z zakresu szacowania nieruchomości i bez obowiązku dokonywania dopłat przypadku różnej wartości zamienianych nieruchomości.
+2. W przypadku wskazanym art. 1 ust. 3 zamiana jest dokonywana przez organ właściwy zgodnie z art. 11 ust. 1 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. z 2020 r. poz. 1990 oraz z 2021 r. poz. 11, 234, 815, 1551 i 1561) na wniosek ministra właściwego do spraw środowiska złożony porozumieniu z ministrem właściwym do spraw klimatu oraz ministrem właściwym do spraw gospodarki, przy uwzględnieniu kryterium wielkości powierzchni nieruchomości, po ich wycenie przez osoby posiadające uprawnienia z zakresu szacowania nieruchomości i bez obowiązku dokonywania dopłat przypadku różnej wartości zamienianych nieruchomości.
 
 3. Zamiany, mowa ust. 1 i 2, dokonuje się po uzyskaniu pozytywnej opinii komisji sejmowej właściwej do spraw leśnictwa i gospodarki leśnej.
 
@@ -51,13 +50,13 @@ domain: null
 
 6. Stroną umowy zamiany może być wyłącznie:
 
-- **1)** państwowa osoba prawna rozumieniu art. 3 ust. 1–3 ustawy z dnia 16 grudnia 2016 r. zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735 oraz z 2021 r. poz. 159, 255, 1551 i 1561) lub zarządzie Lasów Państwowych, stanowiące obszary objęte formami ochrony przyrody, których mowa art. 6 ust. 1 pkt 1–5 ustawy z dnia 16 kwietnia 2004 r. ochronie przyrody (Dz. U. z 2021 r. poz. 1098).
+- **1)** państwowa osoba prawna rozumieniu art. 3 ust. 1–3 ustawy z dnia 16 grudnia 2016 r. zasadach zarządzania mieniem państwowym (Dz. U. z 2020 r. poz. 735 oraz z 2021 r. poz. 159, 255, 1551 i 1561) lub
+- **2)** osoba prawna, Skarb Państwa posiada większość akcji rozumieniu art. 2 pkt 2 ustawy z dnia 16 grudnia 2016 r. zasadach zarządzania mieniem państwowym, lub
+- **3)** jednostka samorządu terytorialnego.
 
-2. W przypadku wyłączenia gruntów, których mowa art. 1 ust. 2 i 3, z produkcji rolniczej lub leśnej na cele, których mowa art. 1 ust. 1, nie stosuje się przepisów ustawy z dnia 3 lutego 1995 r. ochronie gruntów rolnych i leśnych (Dz. U. z 2021 r. poz. 1326) dotyczących należności i opłat rocznych oraz jednorazowego odszkodowania, których mowa art. 12 ust. 1 tej ustawy.
+7. Umowa zamiany określa cel, którym mowa art. 1 ust. 1.
 
-**Art. 4.**
-
-1. Lasy Państwowe zarządzające przed zamianą, mowa art. 1 ust. 1 i 3, lasami, gruntami i innymi nieruchomościami będącymi przedmiotem tej zamiany są obowiązane do dokonania nieodpłatnie wycinki drzew i krzewów oraz ich uprzątnięcia terminie ustalonym odrębnym porozumieniu zawartym między Lasami Państwowymi a podmiotem, z którym została dokonana ta zamiana.
+8. Umowa zamiany nie może być zawarta bez uzyskania pozytywnej opinii komisji sejmowej właściwej do spraw leśnictwa i gospodarki leśnej. nieruchomościami będącymi przedmiotem tej zamiany są obowiązane do dokonania nieodpłatnie wycinki drzew i krzewów oraz ich uprzątnięcia terminie ustalonym odrębnym porozumieniu zawartym między Lasami Państwowymi a podmiotem, z którym została dokonana ta zamiana.
 
 2. Drewno pozyskane z wycinki drzew i krzewów, mowa ust. 1, staje się nieodpłatnie własnością Lasów Państwowych.
 
@@ -78,5 +77,5 @@ domain: null
 
 **Art. 7.** Zamiana, mowa art. 1 ust. 1 i 3, może być dokonana okresie 2 lat od dnia wejścia życie ustawy.
 
-**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda TECHNOLOGII ORAZ POPRAWIE JAKOŚCI POWIETRZA ALBO STRATEGICZNEJ PRODUKCJI DLA OBRONNOŚCI PAŃSTWA, WYSOKICH TECHNOLOGII ELEKTRONICZNYCH I PROCESORÓW, ELEKTROMOBILNOŚCI, INNOWACYJNEJ TECHNOLOGII WODOROWEJ, LOTNICTWA, MOTORYZACJI ORAZ PRZEMYSŁU TWORZYW SZTUCZNYCH 1. Nieruchomości Skarbu Państwa Jaworznie stanowiące działki nr:
+**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda NIERUCHOMOŚCI SKARBU PAŃSTWA POZOSTAJĄCE W ZARZĄDZIE LASÓW PAŃSTWOWYCH, KTÓRE MOGĄ BYĆ PRZEDMIOTEM ZAMIANY NA LASY, GRUNTY I INNE NIERUCHOMOŚCI W PRZYPADKACH UZASADNIONYCH POTRZEBAMI I CELAMI POLITYKI PAŃSTWA
 

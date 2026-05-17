@@ -8,9 +8,12 @@ pos: 1832
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
+source: "isap-pdf"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 25 września 2019 r.
+# w sprawie ogłoszenia jednolitego tekstu ustawy o europejskich radach zakładowych
+
+*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2019 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +27,6 @@ domain: null
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001832) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1832/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 września 2019 r.
-w sprawie ogłoszenia jednolitego tekstu ustawy o europejskich radach zakładowych
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 kwietnia 2002 r. o europejskich radach zakładowych (Dz. U. z 2018 r. poz. 1247), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608) oraz zmian wynikających z przepisów ogłoszonych przed dniem 11 września 2019 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 17 i art. 23 ustawy z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz niektórych innych ustaw (Dz. U. poz. 1608), które stanowią: „Art. 17. Osobom będącym w dniu wejścia w życie niniejszej ustawy członkami związków zawodowych przysługują uprawnienia na zasadach dotychczasowych.” „Art. 23. Ustawa wchodzi w życie z dniem 1 stycznia 2019 r., z wyjątkiem art. 1 pkt 14 w zakresie art. 25 ust. 6, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia.”.
 Marszałek Sejmu: E. Witek
