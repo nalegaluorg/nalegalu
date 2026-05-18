@@ -1,6 +1,6 @@
 # Rejected Acts
 
-Acts excluded from publication due to quality issues. Total: 861
+Acts excluded from publication due to quality issues. Total: 857
 
 | Address | Reason |
 |---------|--------|
@@ -34,14 +34,12 @@ Acts excluded from publication due to quality issues. Total: 861
 | WDU19600510297 | No text extracted from PDF — may be a scanned document |
 | WDU19640090060 | CID font encoding failure — unreadable glyphs (6541 occurrence(s)); missing Poli |
 | WDU19640150086 | No text extracted from PDF — may be a scanned document |
-| WDU19640430297 | CID font encoding failure — unreadable glyphs (7841 occurrence(s)); missing Poli |
 | WDU19690210151 | No text extracted from PDF — may be a scanned document |
 | WDU19700160138 | No text extracted from PDF — may be a scanned document |
 | WDU19710120115 | CID font encoding failure — unreadable glyphs (7719 occurrence(s)); missing Poli |
 | WDU19710160156 | No text extracted from PDF — may be a scanned document |
 | WDU19740270159 | No text extracted from PDF — may be a scanned document |
 | WDU19750450234 | No text extracted from PDF — may be a scanned document |
-| WDU19770380167 | CID font encoding failure — unreadable glyphs (36193 occurrence(s)); missing Pol |
 | WDU19770380169 | CID font encoding failure — unreadable glyphs (19248 occurrence(s)); missing Pol |
 | WDU19820110081 | No text extracted from PDF — may be a scanned document |
 | WDU19820160125 | No text extracted from PDF — may be a scanned document |
@@ -119,7 +117,6 @@ Acts excluded from publication due to quality issues. Total: 861
 | WDU19930060029 | CID font encoding failure — unreadable glyphs (629 occurrence(s)); missing Polis |
 | WDU19930470212 | CID font encoding failure — unreadable glyphs (4576 occurrence(s)); missing Poli |
 | WDU19930500226 | CID font encoding failure — unreadable glyphs (341 occurrence(s)) |
-| WDU19930610284 | CID font encoding failure — unreadable glyphs (51952 occurrence(s)); missing Pol |
 | WDU19930810383 | No text extracted from PDF — may be a scanned document |
 | WDU19931290602 | CID font encoding failure — unreadable glyphs (894 occurrence(s)); missing Polis |
 | WDU19940040017 | CID font encoding failure — unreadable glyphs (12853 occurrence(s)); missing Pol |
@@ -155,7 +152,6 @@ Acts excluded from publication due to quality issues. Total: 861
 | WDU19960060041 | CID font encoding failure — unreadable glyphs (256 occurrence(s)) |
 | WDU19960090054 | No text extracted from PDF — may be a scanned document |
 | WDU19960230102 | CID font encoding failure — unreadable glyphs (895 occurrence(s)); missing Polis |
-| WDU19960240110 | CID font encoding failure — unreadable glyphs (600 occurrence(s)) |
 | WDU19960320139 | CID font encoding failure — unreadable glyphs (347 occurrence(s)) |
 | WDU19960320143 | No text extracted from PDF — may be a scanned document |
 | WDU19960410176 | CID font encoding failure — unreadable glyphs (658 occurrence(s)); missing Polis |

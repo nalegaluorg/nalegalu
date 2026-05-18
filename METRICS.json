@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-05-17T18:15:33Z",
+  "generated_at": "2026-05-18T22:02:24Z",
   "acts": {
-    "published": 13317,
-    "rejected": 861,
+    "published": 13321,
+    "rejected": 857,
     "total_in_db": 13987
   },
   "content": {
-    "total_body_chars": 458184220,
-    "total_articles": 191689,
-    "avg_body_chars": 34405,
+    "total_body_chars": 458365892,
+    "total_articles": 191757,
+    "avg_body_chars": 34409,
     "avg_articles": 14.4
   },
   "sources": {
-    "isap-pdf": 12759,
+    "isap-pdf": 12763,
     "eli-html": 512,
     "unknown": 46
   },
   "domains": {
-    "inne": 12650,
+    "inne": 12652,
     "prawo-podatkowe": 169,
     "prawo-karne": 110,
-    "prawo-cywilne": 97,
-    "prawo-pracy": 49,
+    "prawo-cywilne": 98,
+    "prawo-pracy": 50,
     "prawo-ochrony-srodowiska": 48,
     "prawo-administracyjne": 46,
     "prawo-budowlane": 30,
@@ -36,8 +36,8 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 670,
+    "quality_gate_blocked": 666,
     "rejected_scans": 99,
-    "rejected_other": 762
+    "rejected_other": 758
   }
 }
