@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **97** aktów
+Łącznie: **98** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -102,6 +102,7 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU19640160094](WDU19640160094/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19640160094/orzecznictwo.md) |
 | [WDU19640160093](WDU19640160093/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640160093/orzecznictwo.md) |
 | [WDU19640090059](WDU19640090059/index.md) | Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640090059/orzecznictwo.md) |
+| [WDU19640430297](WDU19640430297/index.md) | Ustawa z dnia 17 listopada 1964 r. - Przepisy wprowadzające Kodeks postępow | Ustawa | obowiązujący | [tak](WDU19640430297/orzecznictwo.md) |
 | [WDU19640430296](WDU19640430296/index.md) | Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640430296/orzecznictwo.md) |
 
-*97 aktów • [← Powrót do spisu głównego](../README.md)*
+*98 aktów • [← Powrót do spisu głównego](../README.md)*

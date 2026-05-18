@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Inne**.
 
-Łącznie: **12650** aktów
+Łącznie: **12652** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -12461,6 +12461,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19931340646](WDU19931340646/index.md) | Ustawa z dnia 16 grudnia 1993 r. o zmianie niektórych ustaw regulujących za | Ustawa | obowiązujący | [tak](WDU19931340646/orzecznictwo.md) |
 | [WDU19930810383](WDU19930810383/index.md) | Obwieszczenie Prezesa Rady Ministrów z dnia 25 sierpnia 1993 r. w sprawie o | Obwieszczenie | obowiązujący |  |
 | [WDU19930070034](WDU19930070034/index.md) | Ustawa z dnia 29 grudnia 1992 r. o radiofonii i telewizji. | Ustawa | akt posiada tekst jednolity | [tak](WDU19930070034/orzecznictwo.md) |
+| [WDU19930610284](WDU19930610284/index.md) | Konwencja o Ochronie Praw Człowieka i Podstawowych Wolności sporządzona w R | Konwencja | obowiązujący | [tak](WDU19930610284/orzecznictwo.md) |
 | [WDU19930470213](WDU19930470213/index.md) | Ustawa z dnia 15 maja 1993 r. o zmianie ustaw - Prawo o ustroju sądów powsz | Ustawa | obowiązujący | [tak](WDU19930470213/orzecznictwo.md) |
 | [WDU19930470211](WDU19930470211/index.md) | Ustawa z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji. | Ustawa | akt posiada tekst jednolity | [tak](WDU19930470211/orzecznictwo.md) |
 | [WDU19930440200](WDU19930440200/index.md) | Ustawa z dnia 16 kwietnia 1993 r. o włączeniu Akademii Medycznej im. Mikoła | Ustawa | akt posiada tekst jednolity |  |
@@ -12596,6 +12597,7 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19810200101](WDU19810200101/index.md) | Ustawa z dnia 31 lipca 1981 r. o wynagrodzeniu osób zajmujących kierownicze | Ustawa | akt posiada tekst jednolity | [tak](WDU19810200101/orzecznictwo.md) |
 | [WDU19800070018](WDU19800070018/index.md) | Ustawa z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolite | Ustawa | akt posiada tekst jednolity | [tak](WDU19800070018/orzecznictwo.md) |
 | [WDU19780310130](WDU19780310130/index.md) | Ustawa z dnia 21 grudnia 1978 r. o odznakach i mundurach. | Ustawa | akt posiada tekst jednolity | [tak](WDU19780310130/orzecznictwo.md) |
+| [WDU19770380167](WDU19770380167/index.md) | Międzynarodowy Pakt Praw Obywatelskich i Politycznych otwarty do podpisu w  | Umowa międzynarodowa | obowiązujący | [tak](WDU19770380167/orzecznictwo.md) |
 | [WDU19770370163](WDU19770370163/index.md) | Ustawa z dnia 17 grudnia 1977 r. o polskiej strefie rybołówstwa morskiego. | Ustawa | akt posiada tekst jednolity |  |
 | [WDU19740270159](WDU19740270159/index.md) | Ustawa z dnia 18 lipca 1974 r. o amnestii. | Ustawa | obowiązujący |  |
 | [WDU19740210117](WDU19740210117/index.md) | Ustawa z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowy | Ustawa | akt posiada tekst jednolity | [tak](WDU19740210117/orzecznictwo.md) |
@@ -12657,4 +12659,4 @@ Akty prawne z dziedziny: **Inne**.
 | [WDU19310380294](WDU19310380294/index.md) | Ustawa z dnia 17 marca 1931 r. w sprawie przystąpienia Polski do traktatu,  | Ustawa | obowiązujący |  |
 | [WDU19200310178](WDU19200310178/index.md) | Ustawa z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców | Ustawa | akt posiada tekst jednolity | [tak](WDU19200310178/orzecznictwo.md) |
 
-*12650 aktów • [← Powrót do spisu głównego](../README.md)*
+*12652 aktów • [← Powrót do spisu głównego](../README.md)*

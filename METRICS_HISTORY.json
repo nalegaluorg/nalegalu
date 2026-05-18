@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2026-05-18",
+    "published": 13321,
+    "rejected": 857,
+    "total_body_chars": 458365892,
+    "total_articles": 191757,
+    "sources": {
+      "isap-pdf": 12763,
+      "eli-html": 512,
+      "unknown": 46
+    },
+    "manual": 0
+  }
+]
