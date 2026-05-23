@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-05-18T22:02:24Z",
+  "generated_at": "2026-05-23T06:15:21Z",
   "acts": {
-    "published": 13321,
-    "rejected": 857,
-    "total_in_db": 13987
+    "published": 13831,
+    "rejected": 256,
+    "total_in_db": 13988
   },
   "content": {
-    "total_body_chars": 458365892,
-    "total_articles": 191757,
-    "avg_body_chars": 34409,
-    "avg_articles": 14.4
+    "total_body_chars": 472091514,
+    "total_articles": 193004,
+    "avg_body_chars": 34132,
+    "avg_articles": 14.0
   },
   "sources": {
-    "isap-pdf": 12763,
-    "eli-html": 512,
+    "isap-pdf": 13365,
+    "eli-html": 420,
     "unknown": 46
   },
   "domains": {
-    "inne": 12652,
-    "prawo-podatkowe": 169,
-    "prawo-karne": 110,
-    "prawo-cywilne": 98,
-    "prawo-pracy": 50,
-    "prawo-ochrony-srodowiska": 48,
+    "inne": 13135,
+    "prawo-podatkowe": 175,
+    "prawo-karne": 116,
+    "prawo-cywilne": 104,
+    "prawo-pracy": 51,
+    "prawo-ochrony-srodowiska": 50,
     "prawo-administracyjne": 46,
-    "prawo-budowlane": 30,
-    "prawo-energetyczne": 21,
-    "prawo-bankowe": 21,
+    "prawo-budowlane": 31,
+    "prawo-bankowe": 24,
+    "prawo-energetyczne": 23,
     "prawo-handlowe": 21,
     "prawo-zamowien": 19,
     "prawo-upadlosciowe": 14,
@@ -36,8 +36,8 @@
     "prawo-konstytucyjne": 2
   },
   "quality": {
-    "quality_gate_blocked": 666,
-    "rejected_scans": 99,
-    "rejected_other": 758
+    "quality_gate_blocked": 157,
+    "rejected_scans": 0,
+    "rejected_other": 256
   }
 }

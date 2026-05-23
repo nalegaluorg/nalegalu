@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-12 |
 | Data wydania | 2004-04-15 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040640593) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/593/text.pdf) |
 
 Art. 135–143. (pominięte)

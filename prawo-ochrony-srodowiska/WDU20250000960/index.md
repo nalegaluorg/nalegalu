@@ -540,15 +540,15 @@ Art. 480–524. (pominięte)
 - **3)** zapobieżenie, zmniejszenie lub wyeliminowanie przyczyn zanieczyszczenia wody w kąpielisku;
 - **4)** przekazanie społeczeństwu informacji dotyczącej jakości wody w kąpielisku w sposób niebudzący wątpliwości co do stwierdzonych zagrożeń.
 
-3. Przy badaniu wody w kąpieliskach oraz w miejscach okazjonalnie wykorzystywanych do kąpieli dopuszcza się stosowanie metody alternatywnej w stosunku do metody referencyjnej określonej w przepisach wydanych na podstawie art. 48 ust. 1 pkt 3, w przypadku udokumentowania równoważności wyników badania tej wody przeprowadzonego metodą alternatywną z wynikami badania wody przeprowadzonego metodą referencyjną.
+3. (uchylony)
 
-4. Uznanie metody alternatywnej w zakresie badania wody w kąpieliskach oraz miejscach okazjonalnie wykorzystywanych do kąpieli za równoważną z metodą referencyjną następuje zgodnie z aktualnym wydaniem normy PN-EN ISO 17994.
+4. (uchylony)
 
-5. Badania równoważności metody alternatywnej dokonuje się w laboratoriach akredytowanych.
+5. (uchylony)
 
-6. Dokumentacja z badań równoważności metody alternatywnej jest przedkładana instytutowi badawczemu wykonującemu zadania z zakresu zdrowia publicznego w celu oceny jej kompletności i poprawności w odniesieniu do wymagań aktualnego wydania normy PN-EN ISO 17994 oraz spełnienia wymagania określonego w ust. 5.
+6. (uchylony)
 
-7. Minister właściwy do spraw zdrowia, po uzyskaniu pozytywnej oceny instytutu, o której mowa w ust. 6, przedstawia Komisji Europejskiej informacje dotyczące metody alternatywnej oraz jej równoważności wraz z dokumentacją, o której mowa w ust. 6.
+7. (uchylony)
 
 **Art. 48.**
 
@@ -1407,7 +1407,7 @@ Art. 480–524. (pominięte)
 
 1. Właściwy organ Inspekcji Ochrony Środowiska prowadzi monitoring substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej, przez okres co najmniej 12 miesięcy, w co najmniej 15 reprezentatywnych punktach pomiarowo-kontrolnych.
 
-2. Wybierając reprezentatywne punkty pomiarowo-kontrolne, o których mowa w ust. 1, oraz określając terminy badania substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej, właściwy organ Inspekcji Ochrony Środowiska uwzględnia sposoby użytkowania oraz możliwość pojawienia się danej substancji szczególnie szkodliwej dla środowiska wodnego w tym środowisku.
+2. Wybierając reprezentatywne punkty pomiarowo-kontrolne, o których mowa w ust. 1, oraz określając terminy badania substancji szczególnie szkodliwych dla środowiska wodnego zawartych na liście obserwacyjnej, właściwy organ Inspekcji Ochrony Środowiska uwzględnia sposoby użytkowania oraz możliwość pojawienia się danej substancji szczególnie szkodliwej dla środowiska wodnego w tym środowisku lub obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi.
 
 3. Monitoring każdej substancji szczególnie szkodliwej dla środowiska wodnego zawartej na liście obserwacyjnej rozpoczyna się nie później niż z dniem, w którym upływa 6 miesięcy od dnia umieszczenia tej substancji na tej liście.
 
@@ -3385,6 +3385,7 @@ Art. 480–524. (pominięte)
 - **18)** realizuje zadania obronne oraz zadania z zakresu zarządzania kryzysowego przekazane przez ministra właściwego do spraw gospodarki wodnej;
 - **19)** współuczestniczy z ministrem właściwym do spraw gospodarki wodnej w zakresie opracowywania krajowego programu oczyszczania ścieków komunalnych, o którym mowa w art. 88, i jego aktualizacji;
 - **20)** koordynuje zapewnienie odpowiedniej ilości i jakości wody dla ludności, przemysłu oraz rolnictwa;
+- **20a)** tworzy zbiór danych zawierających informacje z ocen ryzyka lub ich aktualizacji oraz informacje o działaniach zapobiegających ryzyku w rozumieniu art. 2 pkt 6a ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków lub służących jego kontroli i zapewnia dostęp do nich Komisji Europejskiej, Europejskiej Agencji Środowiska i Europejskiemu Centrum ds. Zapobiegania i Kontroli Chorób, o którym mowa w art. 4h ust. 4 tej ustawy;
 - **21)** sprawuje nadzór nad planowaniem inwestycji w gospodarce wodnej oraz ich realizacją, z wyłączeniem śródlądowych dróg wodnych o szczególnym znaczeniu transportowym;
 - **22)** ustala przebieg granic obszarów dorzeczy, granic regionów wodnych oraz granic zlewni, o których mowa w art. 13 ust. 4;
 - **23)** wykonuje kontrolę gospodarowania wodami, o której mowa w art. 335 ust. 1 pkt 1, oraz wydaje decyzje, o których mowa w art. 343 ust. 2, 3 i 6;
@@ -3428,6 +3429,8 @@ Art. 480–524. (pominięte)
 - **25)** podejmują działania mające na celu bilansowanie ilościowe i jakościowe wód powierzchniowych i podziemnych;
 - **26)** podejmują działania mające na celu zapewnienie na potrzeby ludności, przemysłu oraz rolnictwa wody w odpowiedniej ilości i jakości;
 - **27)** pełnią funkcję organu regulacyjnego, o którym mowa w art. 27a ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757);
+- **27a)** podejmują działania zapobiegające ryzku lub służące jego kontroli, o których mowa w art. 4f ust. 6 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
+- **27b)** po konsultacji z dostawcą wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków identyfikują podmioty odpowiedzialne za zanieczyszczenie wody, które stwarza ryzyko, o którym mowa w art. 4f ust. 6 tej ustawy, zgodnie z art. 4f ust. 9 tej ustawy;
 - **28)** prowadzą system informacyjny gospodarowania wodami, o którym mowa w art. 329, oraz udostępniają gromadzone w tym systemie dane;
 - **29)** współpracują z Krajowym Zarządem Gospodarki Wodnej w zakresie opracowywania krajowego programu oczyszczania ścieków komunalnych i jego aktualizacji;
 - **30)** opiniują wieloletnie plany rozwoju i modernizacji urządzeń wodociągowych i urządzeń kanalizacyjnych, o których mowa w art. 21 ust. 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
@@ -5264,7 +5267,8 @@ Art. 480–524. (pominięte)
 6. Bezpłatny dostęp do danych z systemu informacyjnego gospodarowania wodami przysługuje:
 
 - **1)** organom administracji publicznej oraz instytutom badawczym – w celu realizacji zadań ustawowych;
-- **2)** szkołom, uczelniom oraz organizacjom pozarządowym – w celu edukacyjnym.
+- **2)** szkołom, uczelniom oraz organizacjom pozarządowym – w celu edukacyjnym;
+- **3)** dostawcom wody w rozumieniu art. 2 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków – w celu dokonywania oceny ryzyka w obszarze zasilania ujęcia wody wykorzystywanego do poboru wody przeznaczonej do spożycia przez ludzi, o której mowa w art. 4e ust. 1 pkt 1 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, lub jej przeglądu lub aktualizacji, o których mowa w art. 4e ust. 2 tej ustawy.
 
 7. Minister właściwy do spraw gospodarki wodnej w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia:
 
@@ -5504,29 +5508,19 @@ Art. 480–524. (pominięte)
 
 **Art. 348.**
 
-1. Badanie pobranych próbek wody w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli mogą wykonywać:
+1. Badania pobranych próbek wody w kąpieliskach i miejscach okazjonalnie wykorzystywanych do kąpieli są wykonywane na zasadach określonych w rozdziale 3a ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 2024 r. poz. 416 oraz z 2026 r. poz. 605).
 
-- **1)** laboratoria Państwowej Inspekcji Sanitarnej lub
-- **2)** laboratoria o udokumentowanym systemie jakości prowadzonych badań wody, zatwierdzonym przez Państwową Inspekcję Sanitarną.
+2. (uchylony)
 
-2. Udokumentowany system jakości prowadzonych badań wody powinien być zgodny z wymaganiami zawartymi w normie PN-EN ISO/IEC-17025.
+3. (uchylony)
 
-3. Zatwierdzenie, o którym mowa w ust. 1 pkt 2, jest dokonywane każdego roku przez właściwego państwowego powiatowego lub państwowego granicznego inspektora sanitarnego na podstawie:
+4. (uchylony)
 
-- **1)** zaświadczenia potwierdzającego przeszkolenie przez organy Państwowej Inspekcji Sanitarnej osób pobierających próbki wody do badań albo certyfikatu laboratorium w zakresie pobierania próbek wody;
-- **2)** wykazu badań prowadzonych przez laboratorium oraz dokumentacji potwierdzającej poprawność badań, o których mowa w ust. 4;
-- **3)** zestawienia wyników i oceny badań biegłości, wykonanych nie później niż 2 lata od dnia wystąpienia o zatwierdzenie.
+5. (uchylony)
 
-4. Określa się dwustopniowy system zapewnienia jakości badań obejmujący:
+6. (uchylony)
 
-- **1)** wewnętrzną kontrolę jakości wyników badań;
-- **2)** zewnętrzną kontrolę jakości wyników badań realizowaną przez udział w badaniach biegłości.
-
-5. W przypadku zmiany normy PN-EN ISO/IEC-17025 zatwierdzenie, o którym mowa w ust. 1 pkt 2, jest wykonywane zgodnie z wydaniem normy obowiązującym w momencie wykonania badań biegłości.
-
-6. Organizator badań biegłości powinien postępować zgodnie z wymaganiami zawartymi w normie PN-EN ISO/IEC 17043.
-
-7. Właściwy państwowy powiatowy lub państwowy graniczny inspektor sanitarny może dokonać kontroli laboratorium przed zatwierdzeniem, o którym mowa w ust. 1 pkt 2, w zakresie zgodności systemu jakości prowadzonych badań z wymaganiami zawartymi w normie PN-EN ISO/IEC-17025.
+7. (uchylony)
 
 #### Rozdział 4 Monitoring wód
 

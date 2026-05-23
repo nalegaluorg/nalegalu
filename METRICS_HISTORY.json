@@ -11,5 +11,17 @@
       "unknown": 46
     },
     "manual": 0
+  },
+  {
+    "date": "2026-05-23",
+    "published": 13831,
+    "rejected": 256,
+    "total_body_chars": 472091514,
+    "total_articles": 193004,
+    "sources": {
+      "isap-pdf": 13365,
+      "eli-html": 420,
+      "unknown": 46
+    }
   }
 ]

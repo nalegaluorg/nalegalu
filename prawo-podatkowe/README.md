@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **169** aktów
+Łącznie: **175** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -37,6 +37,7 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20240001861](WDU20240001861/index.md) | Rozporządzenie Ministra Finansów z dnia 13 grudnia 2024 r. w sprawie zwolni | Rozporządzenie | obowiązujący |  |
 | [WDU20240001721](WDU20240001721/index.md) | Ustawa z dnia 8 listopada 2024 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20240001593](WDU20240001593/index.md) | Ustawa z dnia 27 września 2024 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
+| [WDU20240001314](WDU20240001314/index.md) | Rozporządzenie Ministra Finansów z dnia 16 sierpnia 2024 r. w sprawie dodat | Rozporządzenie | obowiązujący |  |
 | [WDU20230000996](WDU20230000996/index.md) | Ustawa z dnia 14 kwietnia 2023 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20230000511](WDU20230000511/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy o dostępności cyfrowej stron | Ustawa | obowiązujący |  |
 | [WDU20230001787](WDU20230001787/index.md) | Ustawa z dnia 17 sierpnia 2023 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
@@ -158,9 +159,11 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20032021957](WDU20032021957/index.md) | Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
 | [WDU20032021956](WDU20032021956/index.md) | Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20032021956/orzecznictwo.md) |
 | [WDU20022001684](WDU20022001684/index.md) | Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
+| [WDU20021811515](WDU20021811515/index.md) | Ustawa z dnia 11 października 2002 r. o zmianie ustawy o zaopatrzeniu inwal | Ustawa | obowiązujący | [tak](WDU20021811515/orzecznictwo.md) |
 | [WDU20021691387](WDU20021691387/index.md) | Ustawa z dnia 12 września 2002 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący | [tak](WDU20021691387/orzecznictwo.md) |
 | [WDU20021691384](WDU20021691384/index.md) | Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20021411182](WDU20021411182/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący | [tak](WDU20021411182/orzecznictwo.md) |
+| [WDU20021411179](WDU20021411179/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący |  |
 | [WDU20010890968](WDU20010890968/index.md) | Ustawa z dnia 20 czerwca 2001 r. o zmianie ustawy o świadczeniu pieniężnym  | Ustawa | obowiązujący | [tak](WDU20010890968/orzecznictwo.md) |
 | [WDU20010390459](WDU20010390459/index.md) | Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący | [tak](WDU20010390459/orzecznictwo.md) |
 | [WDU20010160166](WDU20010160166/index.md) | Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości p | Ustawa | obowiązujący |  |
@@ -173,7 +176,10 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19981390905](WDU19981390905/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 9 listopada 1998 r.  | Obwieszczenie | obowiązujący |  |
 | [WDU19971370926](WDU19971370926/index.md) | Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa. | Ustawa | akt posiada tekst jednolity | [tak](WDU19971370926/orzecznictwo.md) |
 | [WDU19951420704](WDU19951420704/index.md) | Ustawa z dnia 13 października 1995 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
+| [WDU19950960478](WDU19950960478/index.md) | Ustawa z dnia 8 czerwca 1995 r. o zmianie ustawy o działalności ubezpieczen | Ustawa | obowiązujący |  |
+| [WDU19941260626](WDU19941260626/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 19 listopada 1994 r. | Obwieszczenie | obowiązujący |  |
+| [WDU19940870406](WDU19940870406/index.md) | Ustawa z dnia 28 maja 1994 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*169 aktów • [← Powrót do spisu głównego](../README.md)*
+*175 aktów • [← Powrót do spisu głównego](../README.md)*

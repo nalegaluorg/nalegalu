@@ -22,7 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-22 |
 | Data wydania | 2015-10-09 |
-| Ostatnia zmiana | 2025-05-08 |
+| Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001580) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1580/text.pdf) |
 
 Test sprawności fizycznej składa się z pięciu prób sprawnościowych umożliwiających dokonanie pomiaru podstawowych zdolności motorycznych, tj. szybkości, zwinności, siły, mocy (skoczności) oraz gibkości.

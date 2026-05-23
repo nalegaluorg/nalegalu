@@ -406,7 +406,10 @@ Art. 213–221. (pominięte)
 - **27)** przetwarzanie danych osobowych, w tym także danych medycznych oraz danych dotyczących skazań, orzeczeń o ukaraniu i mandatów karnych oraz danych osobowych przetwarzanych w systemach teleinformatycznych, o których mowa w art. 3b ust. 1 ustawy z dnia 8 grudnia 2006 r. o Polskiej Agencji Żeglugi Powietrznej (Dz. U. z 2025 r. poz. 1267), wyłącznie dla potrzeb rejestrów i postępowań określonych w ustawie oraz w ustawie z dnia 5 sierpnia 2022 r. o transporcie materiałów niebezpiecznych drogą powietrzną, zgodnie z przepisami o ochronie danych osobowych;
 - **28)** uzgadnianie projektów miejscowych planów zagospodarowania przestrzennego i projektów decyzji o warunkach zabudowy i zagospodarowania terenu oraz opiniowanie projektów planów ogólnych gmin i projektów planów zagospodarowania przestrzennego województwa, w zakresie przewidzianym w ustawie;
 - **29)** wykonywanie zadań określonych w art. 18 lit. a–e, g–k oraz m rozporządzenia nr 2019/947/UE;
-- **30)** autoryzacja jednostek oceniających zgodność systemów bezzałogowych statków powietrznych na zasadach określonych w ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) oraz notyfikowanie tych jednostek Komisji Europejskiej oraz innym państwom członkowskim Unii Europejskiej na zasadach określonych w sekcji 4 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2019/945/UE”.
+- **30)** autoryzacja jednostek oceniających zgodność systemów bezzałogowych statków powietrznych na zasadach określonych w ustawie z dnia 13 kwietnia 2016 r. o systemach oceny zgodności i nadzoru rynku (Dz. U. z 2025 r. poz. 568) oraz notyfikowanie tych jednostek Komisji Europejskiej oraz innym państwom członkowskim Unii Europejskiej na zasadach określonych w sekcji 4 rozporządzenia delegowanego Komisji (UE) 2019/945 z dnia 12 marca 2019 r. w sprawie systemów bezzałogowych statków powietrznych oraz operatorów systemów bezzałogowych statków powietrznych z państw trzecich (Dz. Urz. UE L 152 z 11.06.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2019/945/UE”;
+- **31)** sprawowanie nadzoru nad stosowaniem zharmonizowanych przepisów dotyczących upowszechniania i dostaw zrównoważonych paliw lotniczych (SAF) w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz. Urz. UE L 2023/2405 z 31.10.2023, z późn. zm. ), zwanego dalej „rozporządzeniem nr 2023/2405”, przez:
+    - **a)** operatorów statków powietrznych w rozumieniu art. 3 pkt 3 rozporządzenia nr 2023/2405 i osoby, o których mowa w art. 2 ust. 3 rozporządzenia nr 2023/2405, które dokonały powiadomienia, o którym mowa w tym przepisie, zwanych dalej „operatorami statków powietrznych”,
+    - **b)** organy zarządzające unijnymi portami lotniczymi w rozumieniu art. 3 pkt 2 rozporządzenia nr 2023/2405.
 
 2a. W zakresie, o którym mowa w ust. 2, Prezes Urzędu wykonuje uprawnienia państwa członkowskiego Unii Europejskiej, właściwego organu państwa członkowskiego oraz kompetentnej władzy państwa członkowskiego określone w rozporządzeniach i decyzjach Unii Europejskiej, niezastrzeżone w niniejszej ustawie, innych ustawach oraz umowach międzynarodowych na rzecz ministra właściwego do spraw transportu, innych organów administracji publicznej lub Polskiej Agencji Żeglugi Powietrznej.
 
@@ -439,7 +442,7 @@ Art. 213–221. (pominięte)
 
 **Art. 21a.**
 
-1. Wnioski o dokonanie czynności, o których mowa w art. 145a ust. 1, art. 191 ust. 5 i art. 193 ust. 1 i 2, przedstawiane Prezesowi Urzędu dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być składane w języku angielskim.
+1. Wnioski o dokonanie czynności, o których mowa w art. 66e ust. 1, art. 145a ust. 1, art. 191 ust. 5 i art. 193 ust. 1 i 2, przedstawiane Prezesowi Urzędu dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być składane w języku angielskim.
 
 2. Dokumenty:
 
@@ -448,7 +451,7 @@ Art. 213–221. (pominięte)
 
 3. W przypadkach, o których mowa w ust. 1 i 2, na żądanie Prezesa Urzędu podmiot przedkłada tłumaczenie wniosku, dokumentu lub zawiadomienia na język polski.
 
-4. Wnioski o dokonanie czynności, o których mowa w art. 193 ust. 1 i 2, dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być kopiami.
+4. Wnioski o dokonanie czynności, o których mowa w art. 66e ust. 1, art. 193 ust. 1 i 2, dokumenty, o których mowa w art. 201a ust. 1 i 2, a także zawiadomienie Prezesa Urzędu, o którym mowa w art. 196b ust. 1, mogą być kopiami.
 
 5. Dokumenty:
 
@@ -1569,6 +1572,42 @@ Art. 213–221. (pominięte)
 
 3. Minister właściwy do spraw transportu może określić, w drodze rozporządzenia, środki, które należy podjąć w celu zapewnienia zgodności działań wojskowych służb żeglugi powietrznej ze wspólnymi wymogami dotyczącymi zapewniania służb żeglugi powietrznej określonymi na podstawie art. 6 rozporządzenia nr 550/2004/WE, z uwzględnieniem zasad współpracy instytucji zapewniających służby ruchu lotniczego z odpowiednimi służbami i organami wojskowymi oraz innymi organami państwowymi.
 
+**Art. 66c.** Prezes Urzędu, w drodze decyzji administracyjnej, rozstrzyga o traktowaniu portu lotniczego nieobjętego zakresem art. 3 pkt 1 rozporządzenia nr 2023/2405 jako unijnego portu lotniczego w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 zgodnie z art. 2 ust. 2 akapit pierwszy tego rozporządzenia.
+
+**Art. 66d.** Prezes Urzędu, na wniosek zarządzającego lotniskiem będącym portem lotniczym nieobjętym zakresem art. 3 pkt 1 rozporządzenia nr 2023/2405, w drodze decyzji administracyjnej, rozstrzyga o traktowaniu tego portu lotniczego jako unijnego portu lotniczego w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405, jeżeli zostały spełnione wymagania, o których mowa w art. 6 ust. 1 tego rozporządzenia.
+
+**Art. 66e.**
+
+1. Prezes Urzędu, na wniosek operatora statku powietrznego, w drodze decyzji administracyjnej, rozstrzyga o tymczasowym zwolnieniu z obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, albo o przedłużeniu zwolnienia z tego obowiązku, jeżeli zostały spełnione wymagania, o których mowa w art. 5 ust. 3 rozporządzenia nr 2023/2405, uwzględniając wytyczne, o których mowa w art. 5 ust. 11 tego rozporządzenia.
+
+2. Domniemywa się, że wniosek, o którym mowa w ust. 1, został złożony zgodnie z zasadami reprezentacji lub przez osobę należycie umocowaną.
+
+3. Operator statku powietrznego może złożyć wniosek, o którym mowa w ust. 1, również za pomocą systemu teleinformatycznego EASA dotyczącego zrównoważonego rozwoju, co jest równoznaczne ze złożeniem tego wniosku do Prezesa Urzędu.
+
+4. Decyzję administracyjną w przedmiocie tymczasowego zwolnienia albo przedłużenia tego zwolnienia, o których mowa w ust. 1, a także pisma w postępowaniu administracyjnym w tych sprawach doręcza się na adres poczty elektronicznej – w przypadku gdy wnioskodawca wskaże taki adres do doręczeń, albo w formie pisemnej lub za pomocą telefaksu.
+
+5. W sprawach dotyczących tymczasowego zwolnienia albo przedłużenia tego zwolnienia, o których mowa w ust. 1, nie stosuje się przepisu art. 32 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507).
+
+6. Prezes Urzędu cofa tymczasowe zwolnienie albo przedłużenie tego zwolnienia, o których mowa w ust. 1, w przypadku i na zasadach określonych w art. 5 ust. 9 rozporządzenia nr 2023/2405.
+
+**Art. 66f.**
+
+1. Prezes Urzędu, w ramach nadzoru nad realizacją obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, może żądać od operatora statku powietrznego przedstawienia dokumentów lub informacji służących weryfikacji realizacji tego obowiązku.
+
+2. Dokumenty lub informacje, o których mowa w ust. 1, mogą być przekazywane w języku polskim lub angielskim. Na wniosek Prezesa Urzędu dokumenty i informacje przekazywane w innym języku powinny zostać przetłumaczone przez operatora statku powietrznego na język polski albo angielski.
+
+3. W celu wykazania realizacji obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, operator statku powietrznego jest obowiązany przechowywać dokumenty lub informacje, o których mowa w ust. 1, przez okres 5 lat od ostatniego dnia roku, w którym lot został wykonany.
+
+**Art. 66g.** Informacje, o których mowa w art. 6 ust. 2 rozporządzenia nr 2023/2405, są przekazywane Prezesowi Urzędu w terminie 21 dni od dnia doręczenia wniosku, o którym mowa w tym przepisie.
+
+**Art. 66h.** Informacje, o których mowa w art. 6 ust. 4 rozporządzenia nr 2023/2405, są przekazywane zarządzającemu lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu przez podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub przez operatora statku powietrznego na wniosek tego zarządzającego lotniskiem, w terminie 14 dni od dnia doręczenia tego wniosku.
+
+**Art. 66i.**
+
+1. Podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu dostarczają operatorowi statku powietrznego, na jego żądanie, dokumenty lub informacje niezbędne do przygotowania przez niego zgodnie z art. 5 ust. 2 rozporządzenia nr 2023/2405 należytego uzasadnienia nieosiągnięcia progu określonego w art. 5 ust. 1 rozporządzenia nr 2023/2405, w terminie wskazanym przez operatora statku powietrznego, niekrótszym niż 21 dni.
+
+2. Wykaz dokumentów i informacji, o których mowa w ust. 1, określają wytyczne Komisji Europejskiej, o których mowa w art. 5 ust. 11 rozporządzenia nr 2023/2405.
+
 **Art. 67.**
 
 1. Statki powietrzne i ich użytkownicy mają prawo korzystać z lotnisk użytku publicznego na równych zasadach.
@@ -1652,7 +1691,7 @@ Art. 213–221. (pominięte)
 
 1. Zadania koordynatora określa rozporządzenie nr 95/93/WE z dnia 18 stycznia 1993 r. w sprawie wspólnych zasad przydzielania czasu na start lub lądowanie w portach lotniczych Wspólnoty.
 
-2. Koordynator działa na własny rachunek i nie jest przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, z późn. zm. ).
+2. Koordynator działa na własny rachunek i nie jest przedsiębiorcą w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
 
 2a. Koordynator działa w sposób niezależny, neutralny, niedyskryminacyjny i przejrzysty.
 
@@ -6778,13 +6817,31 @@ Art. 213–221. (pominięte)
 
 18. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 7 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 15 000 zł.
 
-19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł.
+19. Operator systemu bezzałogowego statku powietrznego, który wykonuje operację z użyciem systemu bezzałogowego statku powietrznego z naruszeniem art. 14 ust. 8 rozporządzenia nr 2019/947/UE, podlega karze pieniężnej w wysokości 300 zł. Art. 209uo. 1. Operator statku powietrznego, który narusza obowiązek, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, podlega karze pieniężnej w złotych w wysokości dwukrotności kwoty stanowiącej iloczyn rocznej średniej ceny paliwa lotniczego za tonę i łącznej rocznej niezatankowanej ilości w rozumieniu art. 3 pkt 26 rozporządzenia nr 2023/2405 paliwa lotniczego określonej w sprawozdaniu, o którym mowa w art. 8 rozporządzenia nr 2023/2405, za rok poprzedzający.
+
+2. Prezes Urzędu ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Urzędu Lotnictwa Cywilnego oraz udostępnia w Biuletynie Informacji Publicznej na swojej stronie podmiotowej roczną średnią cenę paliwa lotniczego za tonę oraz metodykę zastosowaną do ustalania tej ceny, na podstawie informacji podawanych przez EASA zgodnie z art. 13 ust. 1 rozporządzenia nr 2023/2405, w terminie do dnia 31 grudnia każdego roku, za poprzedni rok kalendarzowy. Roczną średnią cenę paliwa lotniczego za tonę ustala się w złotych według średniego kursu euro ogłaszanego przez Narodowy Bank Polski w tabeli kursów na dzień 31 stycznia każdego roku, a w przypadku gdy w tym roku Narodowy Bank Polski nie ogłasza średniego kursu euro w dniu 31 stycznia – według średniego kursu euro ogłoszonego w najbliższej po tej dacie tabeli kursów Narodowego Banku Polskiego, w roku ogłoszenia obwieszczenia.
+
+3. Prezes Urzędu umarza postępowanie w sprawie nałożenia kary pieniężnej, o której mowa w ust. 1, jeżeli operator statku powietrznego udowodni, że nie zrealizował obowiązku, o którym mowa w art. 5 ust. 1 rozporządzenia nr 2023/2405, w wyniku okoliczności, o których mowa w art. 12 ust. 2 rozporządzenia nr 2023/2405.
+
+4. Operator statku powietrznego, który nie przedstawił Prezesowi Urzędu sprawozdania, o którym mowa w art. 8 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 100 000 zł.
+
+5. Zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu, który w terminie, o którym mowa w art. 66g, nie przekaże Prezesowi Urzędu informacji, o których mowa w art. 6 ust. 2 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 10 000 zł.
+
+6. Zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu, który nie podjął wszelkich niezbędnych działań, o których mowa w art. 6 ust. 3 tego rozporządzenia, podlega karze pieniężnej w wysokości do 50 000 zł.
+
+7. Podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub operator statku powietrznego, który na żądanie zarządzającego lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu nie przekaże temu zarządzającemu lotniskiem w terminie, o którym mowa w art. 66h, posiadanych informacji, o których mowa w art. 6 ust. 4 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 10 000 zł.
+
+8. Karę pieniężną, o której mowa w ust. 7, Prezes Urzędu wymierza po uzyskaniu od zarządzającego lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu pisemnego zawiadomienia o naruszeniu obowiązku, o którym mowa w ust. 7. Do zawiadomienia ten zarządzający lotniskiem dołącza dokumenty potwierdzające naruszenie obowiązku, o którym mowa w ust. 7, wraz z opisem tego naruszenia.
+
+9. Podmiot zajmujący się obsługą paliwa w rozumieniu art. 3 pkt 20 rozporządzenia nr 2023/2405 lub zarządzający lotniskiem będącym unijnym portem lotniczym w rozumieniu art. 3 pkt 1 rozporządzenia nr 2023/2405 albo traktowanym jako unijny port lotniczy w rozumieniu tego przepisu, który nie dostarczy operatorowi statku powietrznego w terminie określonym zgodnie z art. 66i ust. 1 dokumentów lub informacji niezbędnych do przygotowania przez tego operatora zgodnie z art. 5 ust. 2 rozporządzenia nr 2023/2405 należytego uzasadnienia nieosiągnięcia progu określonego w art. 5 ust. 1 rozporządzenia nr 2023/2405, podlega karze pieniężnej w wysokości do 10 000 zł.
+
+10. Karę pieniężną, o której mowa w ust. 9, Prezes Urzędu wymierza po uzyskaniu od operatora statku powietrznego pisemnego zawiadomienia o naruszeniu obowiązku, o którym mowa w ust. 9. Do zawiadomienia operator statku powietrznego dołącza dokumenty potwierdzające naruszenie obowiązku, o którym mowa w ust. 9, wraz z opisem tego naruszenia.
 
 **Art. 209w.**
 
-1. Kary pieniężne, o których mowa w art. 209a–209un, nakłada Prezes Urzędu w drodze decyzji administracyjnej.
+1. Kary pieniężne, o których mowa w art. 209a–209un oraz art. 209uo ust. 1, 4–7 i 9, nakłada Prezes Urzędu w drodze decyzji administracyjnej.
 
-2. Nakładając kary pieniężne, o których mowa w art. 209a ust. 2, art. 209b, art. 209c ust. 2 w zakresie naruszeń, o których mowa w pkt 3.2–3.6, 3.9 i 3.10 załącznika nr 3 do ustawy, art. 209e, art. 209f, art. 209l, art. 209m, art. 209ua–209uf, art. 209ul lub art. 209um, Prezes Urzędu bierze pod uwagę:
+2. Nakładając kary pieniężne, o których mowa w art. 209a ust. 2, art. 209b, art. 209c ust. 2 w zakresie naruszeń, o których mowa w pkt 3.2–3.6, 3.9 i 3.10 załącznika nr 3 do ustawy, art. 209e, art. 209f, art. 209l, art. 209m, art. 209ua–209uf, art. 209ul, art. 209um lub art. 209uo ust. 4–7 i 9, Prezes Urzędu bierze pod uwagę:
 
 - **1)** wagę i okoliczności naruszenia prawa;
 - **2)** częstotliwość niedopełniania w przeszłości obowiązku albo naruszania zakazu tego samego rodzaju co niedopełnienie obowiązku albo naruszenie zakazu, w następstwie którego ma być nałożona kara;
@@ -6795,6 +6852,10 @@ Art. 213–221. (pominięte)
 3. Nakładając kary pieniężne, o których mowa w art. 209s, art. 209t i art. 209uj, Prezes Urzędu bierze pod uwagę przesłanki określone w ust. 2 pkt 1 i 5.
 
 4. W przypadku stwierdzenia naruszenia, o którym mowa w art. 209h albo art. 209m, Prezes Urzędu, w drodze decyzji administracyjnej, określa zakres naruszenia oraz termin jego usunięcia pod rygorem nałożenia kary pieniężnej określonej w tych przepisach w przypadku nieusunięcia naruszenia w wyznaczonym terminie.
+
+5. Karę pieniężną, o której mowa w art. 209uo ust. 1, 4–7 i 9, uiszcza się w terminie 14 dni od dnia uprawomocnienia się decyzji o jej wymierzeniu na rachunek bankowy Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+6. Prezes Urzędu przekazuje Narodowemu Funduszowi Ochrony Środowiska i Gospodarki Wodnej informację o wymierzonej karze pieniężnej, o której mowa w art. 209uo ust. 1, 4–7 i 9, w terminie 14 dni od dnia uprawomocnienia się decyzji o jej wymierzeniu.
 
 **Art. 209x.**
 
@@ -6814,7 +6875,11 @@ Art. 213–221. (pominięte)
 
 2. Karę pieniężną, o której mowa w ust. 1, nakłada, w drodze decyzji administracyjnej, Prezes Urzędu po stwierdzeniu uchybień w ramach kontroli, o której mowa w art. 29b ust. 7.
 
-**Art. 209y.** Należności z tytułu kar pieniężnych stanowią dochód budżetu państwa.
+**Art. 209y.**
+
+1. Należności z tytułu kar pieniężnych stanowią dochód budżetu państwa, z wyjątkiem należności z tytułu kar pieniężnych, o których mowa w art. 209uo ust. 1, 4–7 i 9, które stanowią przychód Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej.
+
+2. Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej przedstawia ministrowi właściwemu do spraw transportu, ministrowi właściwemu do spraw klimatu i Prezesowi Urzędu informację o wpłatach z tytułu kar pieniężnych, o których mowa w art. 209uo ust. 1, 4–7 i 9, dokonanych w danym roku kalendarzowym, do dnia 31 marca roku następującego po roku, którego dotyczy informacja.
 
 ### DZIAŁ XII Przepisy karne
 

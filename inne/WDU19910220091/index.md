@@ -27,8 +27,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19910220091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/91/text.pdf) |
 
-o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
-
 ### DZIAŁ I Ustrój notariatu
 
 #### Rozdział 1 Przepisy ogólne
@@ -63,7 +61,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 **Art. 5.**
 
-§ 1. Notariuszowi za dokonanie czynności notarialnych przysługuje wynagrodzenie określone na podstawie umowy ze stronami czynności, nie wyższe niż maksymalne stawki taksy notarialnej właściwe dla danej czynności.
+§ 1. Notariuszowi za dokonanie czynności notarialnych przysługuje wynagrodzenie określone na podstawie umowy ze stronami czynności, niewyższe niż maksymalne stawki taksy notarialnej właściwe dla danej czynności.
 
 § 2. Wynagrodzenie, o którym mowa w § 1, nie obejmuje kosztów przejazdu i innych niezbędnych wydatków, poniesionych przez notariusza w związku z dokonaniem czynności.
 
@@ -124,14 +122,14 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 § 2. Do egzaminu notarialnego składanego przed komisją, o której mowa w art. 71b § 1 lub 2, bez odbycia aplikacji notarialnej mogą przystąpić osoby, które w Rzeczypospolitej Polskiej:
 
 - **1)** posiadają stopień naukowy doktora nauk prawnych;
-- **2)** przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym lub w Trybunale Konstytucyjnym i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
-- **3)** po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane z czynnościami wykonywanymi przez notariusza w kancelarii notarialnej;
-- **4)** po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej na rzecz tych urzędów;
-- **5)** po ukończeniu aplikacji legislacyjnej przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
+- **2)** przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta prokuratora, asystenta sędziego, starszego asystenta sędziego lub były zatrudnione w Sądzie Najwyższym lub w Trybunale Konstytucyjnym i wykonywały zadania odpowiadające czynnościom asystenta sędziego;
+- **3)** po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu wykonywały na podstawie umowy o pracę lub umowy cywilnoprawnej wymagające wiedzy prawniczej czynności bezpośrednio związane z czynnościami wykonywanymi przez notariusza w kancelarii notarialnej;
+- **4)** po ukończeniu wyższych studiów prawniczych przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej na rzecz tych urzędów;
+- **5)** po ukończeniu aplikacji legislacyjnej przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w urzędach organów władzy publicznej lub w państwowych jednostkach organizacyjnych i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane z tworzeniem projektów ustaw, rozporządzeń lub aktów prawa miejscowego;
 - **6)** zajmują stanowisko radcy Prokuratorii Generalnej Rzeczypospolitej Polskiej;
 - **7)** zdały egzamin sędziowski, prokuratorski, adwokacki, radcowski lub komorniczy.
 
-§ 2a. Do egzaminu notarialnego składanego przed komisją, o której mowa w art. 71b § 1 lub 2, bez odbycia aplikacji notarialnej mogą przystąpić również osoby, które przez okres co najmniej 4 lat w okresie nie dłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego.
+§ 2a. Do egzaminu notarialnego składanego przed komisją, o której mowa w art. 71b § 1 lub 2, bez odbycia aplikacji notarialnej mogą przystąpić również osoby, które przez okres co najmniej 4 lat w okresie niedłuższym niż 6 lat przed złożeniem wniosku o dopuszczenie do egzaminu były zatrudnione w międzynarodowym organie sądowym, w szczególności w Trybunale Sprawiedliwości Unii Europejskiej lub Europejskim Trybunale Praw Człowieka i wykonywały zadania odpowiadające czynnościom asystenta sędziego.
 
 § 2b. Do egzaminu notarialnego składanego przed komisją, o której mowa w art. 71b § 1 lub 2, bez odbycia aplikacji notarialnej mogą przystąpić również osoby, które nie złożyły wniosku o powołanie na notariusza w terminie określonym w art. 14a § 1, oraz osoby, o których mowa w art. 16a § 2 i art. 76 § 4b.
 
@@ -139,7 +137,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 4. Osoby, o których mowa w § 2–2b, muszą spełniać wymagania przewidziane w art. 11 pkt 1–3 i 7.
 
-**Art. 13.** Wniosek, o którym mowa w art. 10 § 1, powinien zawierać dane o kwalifikacjach osoby zainteresowanej, wymienionej w art. 11 lub art. 12 § 1, oraz wskazywać lokal przewidywany do prowadzenia kancelarii i termin jej uruchomienia. Do wniosku osoba zainteresowana jest obowiązana dołączyć – w przypadku osoby urodzonej przed dniem 1 sierpnia 1972 r. – oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2024 r. poz. 273 i 834) albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
+**Art. 13.** Wniosek, o którym mowa w art. 10 § 1, powinien zawierać dane o kwalifikacjach osoby zainteresowanej, wymienionej w art. 11 lub art. 12 § 1, oraz wskazywać lokal przewidywany do prowadzenia kancelarii i termin jej uruchomienia. Do wniosku osoba zainteresowana jest obowiązana dołączyć – w przypadku osoby urodzonej przed dniem 1 sierpnia 1972 r. – oświadczenie, o którym mowa w art. 7 ust. 1 ustawy z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2025 r. poz. 1519) albo informację, o której mowa w art. 7 ust. 3a tej ustawy.
 
 **Art. 13a.** Minister Sprawiedliwości zasięga z Krajowego Rejestru Karnego informacji o osobie zainteresowanej powołaniem na stanowisko notariusza.
 
@@ -153,7 +151,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 1. Uzyskanie pozytywnego wyniku z egzaminu notarialnego uprawnia do złożenia wniosku, o którym mowa w art. 10 § 1, w terminie 10 lat od dnia doręczenia uchwały o wyniku egzaminu notarialnego.
 
-§ 2. Termin określony w § 1 nie dotyczy zastępców notarialnych, zatrudnionych w kancelarii notarialnej łącznie przez okres co najmniej 10 lat poprzedzających datę złożenia wniosku, o którym mowa w art. 10 § 1, pod warunkiem, że w okresie tym, łącznie przez okres co najmniej 5 lat, posiadali upoważnienie do wykonywania czynności notarialnych, o którym mowa w art. 76a § 2.
+§ 2. Termin określony w § 1 nie dotyczy zastępców notarialnych zatrudnionych w kancelarii notarialnej łącznie przez okres co najmniej 10 lat poprzedzających datę złożenia wniosku, o którym mowa w art. 10 § 1, pod warunkiem że w okresie tym, łącznie przez okres co najmniej 5 lat, posiadali upoważnienie do wykonywania czynności notarialnych, o którym mowa w art. 76a § 2.
 
 **Art. 15.**
 
@@ -165,7 +163,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 1. Minister Sprawiedliwości odwołuje notariusza, jeżeli notariusz:
 
-- **1)** zrezygnował z prowadzenia kancelarii; [2) z powodu choroby lub ułomności został uznany orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków notariusza lub bez uzasadnionej przyczyny odmówił poddania się ocenie niezdolności do pracy, mimo zalecenia rady właściwej izby notarialnej;] <2) z powodu choroby lub ułomności został uznany orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków notariusza lub bez uzasadnionej przyczyny odmówił poddania się ocenie niezdolności do pracy, mimo zalecenia rady właściwej izby notarialnej; orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ). > 2a) ukończył 70 lat;
+- **1)** zrezygnował z prowadzenia kancelarii; [2) z powodu choroby lub ułomności został uznany orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków notariusza lub bez uzasadnionej przyczyny odmówił poddania się ocenie niezdolności do pracy, mimo zalecenia rady właściwej izby notarialnej;] <2) z powodu choroby lub ułomności został uznany orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych za trwale niezdolnego do pełnienia obowiązków notariusza lub bez uzasadnionej przyczyny odmówił poddania się ocenie niezdolności do pracy, mimo zalecenia rady właściwej izby notarialnej; orzeczenie lekarza orzecznika Zakładu Ubezpieczeń Społecznych jest wydawane na zasadach i w trybie określonych w ustawie z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, 252, 426, 473 i 507);> 2a) ukończył 70 lat;
 - **3)** (uchylony)
 - **4)** został pozbawiony prawa prowadzenia kancelarii orzeczeniem sądu dyscyplinarnego;
 - **4a)** (utracił moc)
@@ -201,9 +199,8 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 § 4. Obowiązek zachowania tajemnicy nie dotyczy informacji:
 
 - **1)** udostępnianych na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
-- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i
-- **2760)** ,
-- **3)** udostępnianych na podstawie art. 300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) – w zakresie określonym tymi przepisami.
+- **2)** przekazywanych na podstawie przepisów rozdziału 11a działu III ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ),
+- **3)** udostępnianych na podstawie art. 300 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187) – w zakresie określonym tymi przepisami.
 
 **Art. 19.**
 
@@ -231,7 +228,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 **Art. 20a.**
 
-§ 1. Notariusz wykonujący zawód obowiązany jest posiadać adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
+§ 1. Notariusz wykonujący zawód obowiązany jest posiadać adres do doręczeń elektronicznych, o którym mowa w art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2026 r. poz. 3 i 507), wpisany do bazy adresów elektronicznych, o której mowa w art. 25 tej ustawy.
 
 § 2. Minister Sprawiedliwości występuje do ministra właściwego do spraw informatyzacji o wykreślenie adresu do doręczeń elektronicznych z bazy adresów elektronicznych w przypadkach, o których mowa w art. 16 § 1 i 3, art. 43 § 3 i 4 oraz art. 68 § 1.
 
@@ -380,7 +377,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 **Art. 41.** Krajowa Rada Notarialna może zwołać kongres notariuszy w celu zasięgnięcia opinii w istotnych sprawach notariatu.
 
-**Art. 41a.** [§ 1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych, prowadzi w systemie teleinformatycznym listę notariuszy oraz zastępców notarialnych, która zawiera imię i nazwisko, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, a także informacje o zawieszeniu w czynnościach zawodowych.] <§ 1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych prowadzi w systemie teleinformatycznym listę notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza, która zawiera:
+**Art. 41a.** § [1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych, prowadzi w systemie teleinformatycznym listę notariuszy oraz zastępców notarialnych, która zawiera imię i nazwisko, właściwą izbę notarialną, datę i numer decyzji o powołaniu notariusza lub o jego odwołaniu, datę umieszczenia w wykazie zastępców notarialnych lub skreślenia z tego wykazu, a także informacje o zawieszeniu w czynnościach zawodowych.] <§ 1. Krajowa Rada Notarialna na podstawie informacji przekazywanych przez rady izb notarialnych prowadzi w systemie teleinformatycznym listę notariuszy, zastępców notarialnych oraz notariuszy emerytowanych, jeżeli zostali wyznaczeni do zastępstwa notariusza, która zawiera:
 
 #### Rozdział 5 Nadzór nad notariatem i odpowiedzialność notariuszy za szkody
 
@@ -430,7 +427,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 #### Rozdział 6 Odpowiedzialność dyscyplinarna
 
-**Art. 50.** Notariusz odpowiada dyscyplinarnie za przewinienia zawodowe, w tym za oczywistą i rażącą obrazę przepisów prawnych, uchybienia powadze lub godności zawodu, jak również za niespełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 19a, zgodnie z przepisami wydanymi na podstawie art. 19b oraz za niewykonanie obowiązku, o którym mowa w art. 71 § 8, i niewykonanie zobowiązania, o którym mowa w art. 71a § 5, a także za niespełnienie obowiązku, o którym mowa w art. 8a ust. 1 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2017 r. poz.
+**Art. 50.** Notariusz odpowiada dyscyplinarnie za przewinienia zawodowe, w tym za oczywistą i rażącą obrazę przepisów prawnych, uchybienia powadze lub godności zawodu, jak również za niespełnienie obowiązku zawarcia umowy ubezpieczenia, o którym mowa w art. 19a, zgodnie z przepisami wydanymi na podstawie art. 19b oraz za niewykonanie obowiązku, o którym mowa w art. 71 § 8, i niewykonanie zobowiązania, o którym mowa w art. 71a § 5, a także za niespełnienie obowiązku, o którym mowa w art. 8a ust. 1 ustawy z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2017 r. poz. 2278).
 
 **Art. 51.**
 
@@ -438,7 +435,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 - **1)** upomnienie;
 - **2)** nagana;
-- **3)** kara pieniężna do wysokości pięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, nie niższa od połowy tego wynagrodzenia;
+- **3)** kara pieniężna do wysokości pięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, nieniższa od połowy tego wynagrodzenia;
 - **4)** pozbawienie prawa prowadzenia kancelarii.
 
 § 2. Wymierzenie kary nagany lub kary pieniężnej pociąga za sobą niemożność udziału ukaranego w organach samorządu notarialnego i w sądzie dyscyplinarnym przez okres 3 lat.
@@ -614,7 +611,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 1. Egzamin wstępny przeprowadzają komisje egzaminacyjne do spraw aplikacji notarialnej przy Ministrze Sprawiedliwości, powołane w drodze zarządzenia, zwane dalej „komisjami kwalifikacyjnymi”. Właściwość komisji kwalifikacyjnej obejmuje obszar właściwości jednej lub kilku izb notarialnych. Siedziba komisji kwalifikacyjnej mieści się w siedzibie izby notarialnej.
 
-§ 2. Minister Sprawiedliwości, nie później niż 21 dni przed wyznaczonym terminem egzaminu wstępnego, może powołać na obszarze właściwości izby notarialnej więcej niż jedną komisję kwalifikacyjną do przeprowadzenia egzaminu wstępnego, jeżeli przemawiają za tym względy organizacyjne, a w szczególności duża liczba kandydatów przystępujących do egzaminu wstępnego. Przepisu art. 71f § 5 nie stosuje się.
+§ 2. Minister Sprawiedliwości, niepóźniej niż 21 dni przed wyznaczonym terminem egzaminu wstępnego, może powołać na obszarze właściwości izby notarialnej więcej niż jedną komisję kwalifikacyjną do przeprowadzenia egzaminu wstępnego, jeżeli przemawiają za tym względy organizacyjne, a w szczególności duża liczba kandydatów przystępujących do egzaminu wstępnego. Przepisu art. 71f § 5 nie stosuje się.
 
 § 3. Minister Sprawiedliwości jest organem wyższego stopnia w stosunku do komisji kwalifikacyjnej.
 
@@ -622,7 +619,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 5. Egzamin wstępny na aplikację notarialną przeprowadza się raz w roku w terminie wyznaczonym przez Ministra Sprawiedliwości.
 
-§ 6. W przypadku zaistnienia przeszkody uniemożliwiającej przeprowadzenie egzaminu wstępnego przez daną komisję kwalifikacyjną w terminie, o którym mowa w § 5, Minister Sprawiedliwości wyznacza dodatkowy termin przeprowadzenia egzaminu wstępnego przez tę komisję kwalifikacyjną, o którym przewodniczący komisji kwalifikacyjnej zawiadamia kandydatów listem poleconym za poświadczeniem odbioru oraz obwieszcza na tablicy ogłoszeń w siedzibie wyznaczonej rady izby notarialnej. Przepisy art. 71c § 5 i § 7– 11 stosuje się odpowiednio, z wyłączeniem terminu, o którym mowa w § 9.
+§ 6. W przypadku zaistnienia przeszkody uniemożliwiającej przeprowadzenie egzaminu wstępnego przez daną komisję kwalifikacyjną w terminie, o którym mowa w § 5, Minister Sprawiedliwości wyznacza dodatkowy termin przeprowadzenia egzaminu wstępnego przez tę komisję kwalifikacyjną, o którym przewodniczący komisji kwalifikacyjnej zawiadamia kandydatów listem poleconym za poświadczeniem odbioru oraz obwieszcza na tablicy ogłoszeń w siedzibie wyznaczonej rady izby notarialnej. Przepisy art. 71c § 5 i § 7–11 stosuje się odpowiednio, z wyłączeniem terminu, o którym mowa w § 9.
 
 **Art. 71c.**
 
@@ -636,19 +633,17 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 5. Przewodniczącemu i członkom zespołu do przygotowania pytań testowych przysługuje wynagrodzenie.
 
-§ 6. Nie później niż 90 dni przed terminem egzaminu wstępnego, przewodniczący zespołu do przygotowania pytań testowych, podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902), zwanym dalej „Biuletynem Informacji Publicznej”, ustalony przez zespół do przygotowania pytań testowych i zatwierdzony przez Ministra Sprawiedliwości, wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego w dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
+§ 6. Niepóźniej niż 90 dni przed terminem egzaminu wstępnego, przewodniczący zespołu do przygotowania pytań testowych, podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. z 2022 r. poz. 902 oraz z 2025 r. poz. 1844), zwanym dalej „Biuletynem Informacji Publicznej”, ustalony przez zespół do przygotowania pytań testowych i zatwierdzony przez Ministra Sprawiedliwości, wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego w dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
 
 § 7. Zespół do przygotowania pytań testowych sporządza zestaw 150 pytań w formie testu jednokrotnego wyboru na egzamin wstępny dla kandydatów na aplikantów notarialnych wraz z wykazem prawidłowych odpowiedzi w sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespół do przygotowania pytań testowych zapewnia zgodność wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym.
 
 § 8. Każda rada izby notarialnej może zgłosić zespołowi do przygotowania pytań testowych, za pośrednictwem przewodniczącego zespołu do przygotowania pytań testowych, propozycję pytań testowych wraz z wykazem prawidłowych odpowiedzi.
 
-§ 9. Sporządzony przez zespół do przygotowania pytań testowych zestaw pytań testowych oraz wykaz prawidłowych odpowiedzi, przewodniczący zespołu do przygotowania pytań testowych przekazuje Ministrowi Sprawiedliwości nie później niż 50 dni przed wyznaczonym terminem egzaminu wstępnego. Minister Sprawiedliwości zapewnia wydrukowanie odpowiedniej liczby egzemplarzy zestawu pytań testowych wraz z kartami odpowiedzi oraz ich doręczenie, wraz z wykazem prawidłowych odpowiedzi zgodnym z obowiązującym stanem prawnym na dzień egzaminu, poszczególnym komisjom kwalifikacyjnym w sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem.
+§ 9. Sporządzony przez zespół do przygotowania pytań testowych zestaw pytań testowych oraz wykaz prawidłowych odpowiedzi, przewodniczący zespołu do przygotowania pytań testowych przekazuje Ministrowi Sprawiedliwości niepóźniej niż 50 dni przed wyznaczonym terminem egzaminu wstępnego. Minister Sprawiedliwości zapewnia wydrukowanie odpowiedniej liczby egzemplarzy zestawu pytań testowych wraz z kartami odpowiedzi oraz ich doręczenie, wraz z wykazem prawidłowych odpowiedzi zgodnym z obowiązującym stanem prawnym na dzień egzaminu, poszczególnym komisjom kwalifikacyjnym w sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem.
 
 § 10. Członkowie zespołu do przygotowania pytań testowych są zobowiązani do przedstawienia pisemnego uzasadnienia prawidłowych odpowiedzi zgłoszonych przez nich pytań testowych, w przypadku zaistnienia wątpliwości dotyczących treści pytań testowych, a w szczególności w toku procedury odwoławczej od uchwały ustalającej wynik egzaminu wstępnego kandydata.
 
-§ 11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2023 r. poz. 1605 i
-
-- **1720)** , jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
+§ 11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ), jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
 § 12. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Notarialnej, określi, w drodze rozporządzenia:
 
@@ -680,7 +675,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 - **6)** oryginał dowodu uiszczenia opłaty za egzamin wstępny;
 - **7)** 3 zdjęcia zgodnie z wymaganiami obowiązującymi przy wydawaniu dowodów osobistych.
 
-§ 2a. Zamiast dokumentów, o których mowa w § 2 pkt 4, można złożyć zaświadczenie, z którego wynika, iż kandydat zdał wszystkie egzaminy i odbył praktyki przewidziane w planie wyższych studiów prawniczych oraz ma wyznaczony termin egzaminu magisterskiego. Warunkiem dopuszczenia do egzaminu wstępnego takiego kandydata jest złożenie przez niego w siedzibie komisji kwalifikacyjnej nie później niż 7 dni przed terminem egzaminu wstępnego dokumentów, o których mowa w § 2 pkt 4.
+§ 2a. Zamiast dokumentów, o których mowa w § 2 pkt 4, można złożyć zaświadczenie, z którego wynika, iż kandydat zdał wszystkie egzaminy i odbył praktyki przewidziane w planie wyższych studiów prawniczych oraz ma wyznaczony termin egzaminu magisterskiego. Warunkiem dopuszczenia do egzaminu wstępnego takiego kandydata jest złożenie przez niego w siedzibie komisji kwalifikacyjnej niepóźniej niż 7 dni przed terminem egzaminu wstępnego dokumentów, o których mowa w § 2 pkt 4.
 
 § 3. Zgłoszenie powinno być złożone przez kandydata najpóźniej 45 dni przed dniem rozpoczęcia egzaminu wstępnego do komisji kwalifikacyjnej. Termin do złożenia zgłoszenia nie podlega przywróceniu.
 
@@ -700,9 +695,11 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 1. Kandydat uiszcza opłatę za egzamin wstępny, która stanowi dochód budżetu państwa.
 
-§ 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie wstępnym albo złożenia nie później niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
+§ 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie wstępnym albo złożenia niepóźniej niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej w terminie 30 dni od dnia złożenia tego wniosku.
 
-§ 2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Notarialnej określa, w drodze rozporządzenia, wysokość opłaty – nie wyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207 oraz z 2023 r. poz. 1667), zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
+§ 2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Notarialnej określa, w drodze rozporządzenia, wysokość opłaty – niewyższą niż równowartość minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 października 2002 r. o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz.
+
+- **1773)** , zwanego dalej „minimalnym wynagrodzeniem” – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu wstępnego.
 
 **Art. 71f.**
 
@@ -850,7 +847,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 **Art. 72b.**
 
-§ 1. Rada właściwej izby notarialnej, w uzasadnionych przypadkach, na wniosek aplikanta notarialnego może udzielić aplikantowi notarialnemu zgody na przerwę w odbywaniu aplikacji na okres nie dłuższy niż 12 miesięcy.
+§ 1. Rada właściwej izby notarialnej, w uzasadnionych przypadkach, na wniosek aplikanta notarialnego może udzielić aplikantowi notarialnemu zgody na przerwę w odbywaniu aplikacji na okres niedłuższy niż 12 miesięcy.
 
 § 2. Przerwa może być udzielona tylko raz w trakcie trwania aplikacji.
 
@@ -888,7 +885,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 15. Ostateczną treść zadań wraz z opisami istotnych zagadnień ustala zespół większością głosów w obecności co najmniej pięciu członków zespołu. W razie równej liczby głosów rozstrzyga głos przewodniczącego zespołu.
 
-§ 16. Ustalone przez zespół zadania wraz z opisami istotnych zagadnień przewodniczący zespołu przekazuje Ministrowi Sprawiedliwości nie później niż 50 dni przed wyznaczonym terminem egzaminu notarialnego. Minister Sprawiedliwości zapewnia wydrukowanie odpowiedniej liczby egzemplarzy zadań i opisów istotnych zagadnień oraz ich doręczenie poszczególnym komisjom, w sposób uwzględniający konieczność zabezpieczenia zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
+§ 16. Ustalone przez zespół zadania wraz z opisami istotnych zagadnień przewodniczący zespołu przekazuje Ministrowi Sprawiedliwości niepóźniej niż 50 dni przed wyznaczonym terminem egzaminu notarialnego. Minister Sprawiedliwości zapewnia wydrukowanie odpowiedniej liczby egzemplarzy zadań i opisów istotnych zagadnień oraz ich doręczenie poszczególnym komisjom, w sposób uwzględniający konieczność zabezpieczenia zadań wraz z opisami istotnych zagadnień przed ich nieuprawnionym ujawnieniem.
 
 § 17. Do wydrukowania i doręczenia zadań wraz z opisami istotnych zagadnień poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż progi unijne, o których mowa w art. 3 ust. 1 tej ustawy.
 
@@ -902,7 +899,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 **Art. 74a.**
 
-§ 1. Minister Sprawiedliwości zamieszcza w Biuletynie Informacji Publicznej, nie później niż na 90 dni przed terminem egzaminu notarialnego, ogłoszenie o egzaminie notarialnym, w którym podaje w szczególności:
+§ 1. Minister Sprawiedliwości zamieszcza w Biuletynie Informacji Publicznej, niepóźniej niż na 90 dni przed terminem egzaminu notarialnego, ogłoszenie o egzaminie notarialnym, w którym podaje w szczególności:
 
 - **1)** termin złożenia wniosku o dopuszczenie do egzaminu notarialnego, zwanego dalej „wnioskiem”;
 - **2)** adres siedziby komisji kwalifikacyjnej;
@@ -940,9 +937,9 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 1. Kandydat uiszcza opłatę za egzamin notarialny, która stanowi dochód budżetu państwa.
 
-§ 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie notarialnym albo złożenia nie później niż 14 dni przed terminem egzaminu notarialnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie notarialnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji w terminie 30 dni od dnia złożenia tego wniosku.
+§ 1a. W przypadku wydania postanowienia o pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału w egzaminie notarialnym albo złożenia niepóźniej niż 14 dni przed terminem egzaminu notarialnego pisemnego oświadczenia kandydata o odstąpieniu od udziału w egzaminie notarialnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji w terminie 30 dni od dnia złożenia tego wniosku.
 
-§ 2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Notarialnej określa, w drodze rozporządzenia, wysokość opłaty egzaminacyjnej – nie wyższą niż równowartość minimalnego wynagrodzenia – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu notarialnego.
+§ 2. Minister Sprawiedliwości po zasięgnięciu opinii Krajowej Rady Notarialnej określa, w drodze rozporządzenia, wysokość opłaty egzaminacyjnej – niewyższą niż równowartość minimalnego wynagrodzenia – uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu notarialnego.
 
 **Art. 74c.**
 
@@ -1162,7 +1159,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 2. Stwierdzenie powinno nastąpić na podstawie prawem przewidzianych dokumentów, a w braku takich dokumentów – w sposób wyłączający wszelką wątpliwość co do określenia tożsamości osoby biorącej udział w czynności notarialnej.
 
-§ 2a. Notariusz przed dokonaniem czynności notarialnej, o której mowa w art. 85a § 1, weryfikuje w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2024 r. poz. 736 i 854), w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a ustawy z dnia 24 września 2010 r. o ewidencji ludności, zwanym dalej „rejestrem zastrzeżeń numerów PESEL”, czy numer PESEL osoby wskazanej w art. 85a § 1 jest zastrzeżony.
+§ 2a. Notariusz przed dokonaniem czynności notarialnej, o której mowa w art. 85a § 1, weryfikuje w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2026 r. poz. 384), w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a ustawy z dnia 24 września 2010 r. o ewidencji ludności, zwanym dalej „rejestrem zastrzeżeń numerów PESEL”, czy numer PESEL osoby wskazanej w art. 85a § 1 jest zastrzeżony.
 
 § 3. Sposób stwierdzenia tożsamości notariusz określi w sporządzonym dokumencie.
 
@@ -1212,7 +1209,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 **Art. 90a.**
 
-§ 1. [Z chwilą zaprzestania prowadzenia działalności kancelarii dokumenty obejmujące dokonanie czynności notarialnych, o których mowa w art. 79 pkt 6a, wraz z rejestrem akcjonariuszy prostej spółki akcyjnej notariusz przekazuje radzie właściwej izby notarialnej, o czym prezes tej rady niezwłocznie zawiadamia spółkę.] <Z chwilą zaprzestania prowadzenia działalności kancelarii dokumenty obejmujące dokonanie czynności notarialnych, o których mowa w art. 79 pkt 6a, wraz z rejestrem akcjonariuszy prostej spółki akcyjnej notariusz przekazuje radzie właściwej izby notarialnej, o czym prezes tej rady niezwłocznie zawiadamia spółkę oraz sąd rejestrowy właściwy ze względu na jej siedzibę.> Przepisu art. 90 § 1 nie stosuje się.
+§ 1. [Z chwilą zaprzestania prowadzenia działalności kancelarii dokumenty obejmujące dokonanie czynności notarialnych, o których mowa w art. 79 pkt 6a, wraz z rejestrem akcjonariuszy prostej spółki akcyjnej notariusz przekazuje radzie właściwej izby notarialnej, o czym prezes tej rady niezwłocznie zawiadamia spółkę] . <Z chwilą zaprzestania prowadzenia działalności kancelarii dokumenty obejmujące dokonanie czynności notarialnych, o których mowa w art. 79 pkt 6a, wraz z rejestrem akcjonariuszy prostej spółki akcyjnej notariusz przekazuje radzie właściwej izby notarialnej, o czym prezes tej rady niezwłocznie zawiadamia spółkę oraz sąd rejestrowy właściwy ze względu na jej siedzibę.> Przepisu art. 90 § 1 nie stosuje się.
 
 § 2. Po zawiadomieniu przez spółkę o zawarciu umowy o prowadzenie rejestru akcjonariuszy prostej spółki akcyjnej prezes rady właściwej izby notarialnej niezwłocznie przekazuje podmiotowi prowadzącemu rejestr akcjonariuszy dokumenty, o których mowa w § 1.
 
@@ -1239,15 +1236,19 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 3. Jeżeli akt notarialny dotyczy czynności prawnej, akt ten powinien zawierać treści istotne dla tej czynności. Ponadto akt notarialny powinien zawierać inne stwierdzenia, których potrzeba umieszczenia w akcie wynika z niniejszej ustawy, z przepisów szczególnych albo z woli stron.
 
-§ 4. Jeżeli akt notarialny zawiera przeniesienie, zmianę lub zrzeczenie się prawa ujawnionego w księdze wieczystej albo ustanowienie prawa, które może być ujawnione w księdze wieczystej bądź obejmuje czynność przenoszącą własność nieruchomości, chociażby dla tej nieruchomości nie była prowadzona księga wieczysta, notariusz sporządzający akt notarialny, nie później niż w dniu jego sporządzenia, składa wniosek o wpis w księdze wieczystej za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Na żądanie strony czynności notarialnej, wniosek zawiera żądanie dokonania w księdze wieczystej także innego wpisu związanego z czynnością notarialną.
+§ 4. Jeżeli akt notarialny zawiera przeniesienie, zmianę lub zrzeczenie się prawa ujawnionego w księdze wieczystej albo ustanowienie prawa, które może być ujawnione w księdze wieczystej bądź obejmuje czynność przenoszącą własność nieruchomości, chociażby dla tej nieruchomości nie była prowadzona księga wieczysta, notariusz sporządzający akt notarialny, niepóźniej niż w dniu jego sporządzenia, składa wniosek o wpis w księdze wieczystej za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe. Na żądanie strony czynności notarialnej, wniosek zawiera żądanie dokonania w księdze wieczystej także innego wpisu związanego z czynnością notarialną.
 
 § 4. Złożenie wniosku o wpis w księdze wieczystej przez notariusza za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe uważa się za złożenie wniosku przez stronę czynności notarialnej.
 
-§ 5. (uchylony) § 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2019 r. poz. 1314 oraz z 2023 r. poz. 1463), przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu.
+§ 5. (uchylony) § 6. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości dokonane przez osobę, na rzecz której zostało przekształcone prawo użytkowania wieczystego w prawo własności nieruchomości na podstawie art. 1 ust. 1, 2 albo ust. 3 ustawy z dnia 29 lipca 2005 r. o przekształceniu prawa użytkowania wieczystego w prawo własności nieruchomości (Dz. U. z 2024 r. poz.
 
-§ 7. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2023 r. poz. 152), na których ustanowiono zabezpieczenie odwróconego kredytu hipotecznego ujawnione w księdze wieczystej, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis bankowi, którego prawo ujawniono w tej księdze wieczystej.
+- **900)** , przed upływem 5 lat, licząc od dnia przekształcenia, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis organowi, który wydał decyzję o przekształceniu.
 
-§ 8. Jeżeli akt notarialny dotyczy umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695), albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, a deweloper jest właścicielem lub wieczystym użytkownikiem nieruchomości, notariusz sporządzający akt notarialny składa wniosek o wpis w księdze wieczystej roszczenia nabywcy, o którym mowa w art. 38 ust. 2 tej ustawy, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe.
+§ 7. Jeżeli akt notarialny w swej treści zawiera przeniesienie własności nieruchomości lub prawa, o którym mowa w art. 4 ust. 2 ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2025 r. poz.
+
+- **573)** , na których ustanowiono zabezpieczenie odwróconego kredytu hipotecznego ujawnione w księdze wieczystej, notariusz, który sporządził ten akt, jest obowiązany przesłać z urzędu jego wypis bankowi, którego prawo ujawniono w tej księdze wieczystej.
+
+§ 8. Jeżeli akt notarialny dotyczy umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27), albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, a deweloper jest właścicielem lub wieczystym użytkownikiem nieruchomości, notariusz sporządzający akt notarialny składa wniosek o wpis w księdze wieczystej roszczenia nabywcy, o którym mowa w art. 38 ust. 2 tej ustawy, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe.
 
 § 9. Jeżeli akt notarialny dotyczy umowy deweloperskiej, o której mowa w art. 5 pkt 6 ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym, albo jednej z umów, o których mowa w art. 2 ust. 1 pkt 2, 3 lub 5 lub ust. 2 tej ustawy, a deweloper nie jest właścicielem lub wieczystym użytkownikiem nieruchomości, notariusz sporządzający akt notarialny składa wniosek o wpis w księdze wieczystej roszczenia nabywcy, o którym mowa w art. 38 ust. 2 tej ustawy, za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe, jeżeli deweloper przedłoży zgodę właściciela lub wieczystego użytkownika nieruchomości na wpis. W przypadku braku zgody notariusz poucza nabywcę o skutkach braku wpisu i o treści § 10.
 
@@ -1390,7 +1391,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 4. W przypadku wpisów dokonywanych przez notariusza opłatę, o której mowa w § 3, notariusz pobiera od stron czynności notarialnej podlegającej wpisowi do Rejestru Spadkowego. Notariusz uzależnia dokonanie czynności od uprzedniego uiszczenia należnej opłaty.
 
-§ 5. W przypadku wpisów dokonywanych przez sąd opłatę, o której mowa w § 3, uiszcza wnioskodawca wraz z wniesieniem pisma wszczynającego postępowanie o wydanie orzeczenia podlegającego wpisowi do Rejestru Spadkowego. Do pisma, wraz z którym nie wniesiono opłaty, stosuje się odpowiednio przepis art. 130 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2023 r. poz. 1550, z późn. zm. ). Do opłaty stosuje się przepisy ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2023 r. poz. 1144, 1532 i 1860) dotyczące wydatków, z wyłączeniem art. 83 tej ustawy.
+§ 5. W przypadku wpisów dokonywanych przez sąd opłatę, o której mowa w § 3, uiszcza wnioskodawca wraz z wniesieniem pisma wszczynającego postępowanie o wydanie orzeczenia podlegającego wpisowi do Rejestru Spadkowego. Do pisma, wraz z którym nie wniesiono opłaty, stosuje się odpowiednio przepis art. 130 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2026 r. poz. 468 i 473). Do opłaty stosuje się przepisy ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2025 r. poz. 1228 oraz z 2026 r. poz. 346 i 473) dotyczące wydatków, z wyłączeniem art. 83 tej ustawy.
 
 § 6. Minister Sprawiedliwości, po zasięgnięciu opinii Krajowej Rady Notarialnej, określi, w drodze rozporządzenia, sposób uiszczania i wysokość opłat za wpisy dokonywane w Rejestrze Spadkowym przez notariusza albo sąd, mając na względzie wysokość kosztów administracyjnych prowadzenia Rejestru Spadkowego oraz jego niedochodowy charakter i niezbędny rozwój.
 
@@ -1398,7 +1399,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 1. Zarejestrowany akt poświadczenia dziedziczenia ma skutki prawomocnego postanowienia o stwierdzeniu nabycia spadku.
 
-§ 2. Niepóźniej niż w dniu sporządzenia protokołu, o którym mowa w art. 95ga, notariusz składa za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe wniosek o wpis w księdze wieczystej, o ile następstwo prawne po osobie wpisanej jako osoba uprawniona z tytułu spółdzielczego własnościowego prawa do lokalu, właściciel lub użytkownik wieczysty nieruchomości zostało wykazane odpowiednimi dokumentami. Notariusz poucza spadkobiercę lub zapisobiercę windykacyjnego o możliwości złożenia żądania, o którym mowa w art. 95ga, a także treści art. 626 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego oraz obowiązku wynikającym z art. 35 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793), o czym wzmiankę umieszcza w akcie poświadczenia dziedziczenia.
+§ 2. Niepóźniej niż w dniu sporządzenia protokołu, o którym mowa w art. 95ga, notariusz składa za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe wniosek o wpis w księdze wieczystej, o ile następstwo prawne po osobie wpisanej jako osoba uprawniona z tytułu spółdzielczego własnościowego prawa do lokalu, właściciel lub użytkownik wieczysty nieruchomości zostało wykazane odpowiednimi dokumentami. Notariusz poucza spadkobiercę lub zapisobiercę windykacyjnego o możliwości złożenia żądania, o którym mowa w art. 95ga, a także treści art. 626 § 1 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego oraz obowiązku wynikającym z art. 35 ust. 1 ustawy z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2025 r. poz. 341, 1669, 1792 i 1793 oraz z 2026 r. poz. 119), o czym wzmiankę umieszcza w akcie poświadczenia dziedziczenia.
 
 § 3. Złożenie przez notariusza wniosku, o którym mowa w § 2, uważa się za złożenie wniosku przez spadkobiercę lub zapisobiercę windykacyjnego.
 
@@ -1466,7 +1467,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 4. Przepisy § 1–3 stosuje się odpowiednio do sprostowania, zmiany lub uchylenia europejskiego poświadczenia spadkowego albo zawieszenia jego skutków.
 
-#### Rozdział 3c Czynności dokonywane na podstawie ustawy z dnia 5 lipca 2018 r.
+#### Rozdział 3c Czynności dokonywane na podstawie ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw
 
 **Art. 95z.** Notariusz sporządza akt powołania zarządcy sukcesyjnego albo akt odwołania zarządcy sukcesyjnego w przypadkach wskazanych w ustawie z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, zwanej dalej „ustawą o zarządzie sukcesyjnym”. Art. 95za. Przed sporządzeniem aktu powołania zarządcy sukcesyjnego albo aktu odwołania zarządcy sukcesyjnego notariusz spisuje protokół powołania zarządcy sukcesyjnego albo protokół odwołania zarządcy sukcesyjnego. Art. 95zb. Przystępując do spisania protokołu powołania zarządcy sukcesyjnego albo protokołu odwołania zarządcy sukcesyjnego, notariusz poucza osoby biorące udział w spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu oraz odpowiedzialności karnej za złożenie fałszywych oświadczeń. Art. 95zc. § 1. W protokole powołania zarządcy sukcesyjnego zamieszcza się:
 
@@ -1524,7 +1525,7 @@ o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwienia
 
 § 3. W przypadku złożenia na przechowanie w kopercie zamkniętej dokumentu lub informatycznego nośnika danych, o którym mowa w art. 79 pkt 6, zabezpieczonego w sposób uniemożliwiający zapoznanie się z jego treścią, koperta lub zabezpieczenie powinno być zaopatrzone w podpis składającego.
 
-§ 4. Do informatycznego nośnika danych, o którym mowa w art. 79 pkt 6, stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2c ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164).
+§ 4. Do informatycznego nośnika danych, o którym mowa w art. 79 pkt 6, stosuje się odpowiednio przepisy wydane na podstawie art. 5 ust. 2c ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2020 r. poz. 164 oraz z 2025 r. poz. 1173).
 
 **Art. 107.**
 
