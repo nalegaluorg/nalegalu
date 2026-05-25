@@ -1,0 +1,31 @@
+---
+title: Ustawa z dnia 20 stycznia 1990 r. o zmianach w organizacji i działalności spółdzielczości.
+address: WDU19900060036
+eli: DU/1990/36
+publisher: DU
+year: 1990
+pos: 36
+act_type: Ustawa
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# . . R EE S E z a z . z p
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 1990 nr 6 poz. 36 |
+| ISAP | WDU19900060036 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 1990-01-20 |
+| Data wydania | 1990-02-07 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900060036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/36/text.pdf) |
+
+**Art. 1.** Nr 1. Z dniem wejścia w życie ustawy związki spółdzielcze przechodzą w stan likwi- 90, dacji. 2. Przepis ust. 1 stosuje się wobec spółdzielni osób prawnych oraz spółdzielni osób prawnych 1 fizycznych, jeżeli spółdzielnie te, powstając w wyniku przekształcenia związku spółdzielczego, przejęły w części lub w całości majątek tego związk u . 3. Do likwidacji związków spółdzielczych oraz spółdzielni, o których mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 16 września 1982 r. Prawo spółdzielcze (Dz.U. Nr 30, poz. 210, z 1983 r. Nr 39, poz. 176, z 1986 r. Nr 39, 3, poz. 12 1 Nr 6, poz. 33) w zakresie nie uregulowanym odmiennie przepisami niniejszej ustawy. 1. Likwidatora centralnego związku spółdzielczego wyznacza niezwłocznie po wejŚciu w życie ustawy Minister Finansów, a w stosunku do pozostałych związków oraz spółdzielni, o których mowa w art. 1 ust. 2, z upoważnienia Ministra Finansów dyrektor izby skarbowej. 2. Likwidatora Centralnego Związku Spółdzielni Inwalidów i Centralnego Związku Spółdzielni Niewidomych wyznacza niezwłocznie po wejściu w życie ustawy Minister Pracy 1 Polityki Socjalnej, a likwidatora Centralnego Związku Spółdzielni Rękodzieła Ludowego i Artystycznego "Cepelia" Minister Kultury i S z t u k i . 3. Pełnomocnika do Spraw Spółdzielni Inwalidów i Spółdzielni Niewidomych wyznacza niezwłocznie po wejściu w życie ustawy Minister Pracy i Polityki Socjaln e j . 1. Likwidator, niezależnie od obowiązku sporządzenia planu finansowego likwidacji i planu zaspokojenia zobowiązań, w tym zobowiązań wymienionych w art. 6, sporządza plan rozdysponowania zakładów i innych wyodrębnionych jednostek organizacyjnych, utworzonych w celu prowadzenia działalności gospodarczej, zwanych dalej "zakładami", oraz innych rzeczowych składników majątkowych 6a. związku spółdzielczego. . Plany, o których mowa w ust. I, podlegają zatwierdzeniu przez zebranie przedstawicieli spółdzielni zrzeszonych w związku, wymienionych w ust. 6. Zatwierdzenie planu następuje większością głosów przedstawicieli obecnych na zebran i u . „. W wypadku niezatwierdzenia planu, o którym mowa w ust. 2, przez zebranie przedstawicieli spółdzielni w ciągu 30 dni, plan może zatwierdzić organ, który wyznaczył likwidatora. . Likwidator jest obowiązany zapewnić kontynuowanie działalności zakładów likwidowanego związku spółdzielczego. „ W planach, o których mowa w ust. 1, należy uwzględnić, że z majątku związku spółdzielczego podlegającego likwidacji wyłącza się istniejące zakłady i inne rzeczowe składniki majątkowe przejęte nieodpłatnie od spółdzielni w okresie 10 lat licząc wstecz od dnia wejścia w życie ustawy. Zakłady te i składniki majątkowe zwraca się nieodpłatnie spółdzielniom, od których zostały przejęte. . Zakłady oraz rzeczowe składniki majątkowe, z wyjątkiem określonych w ust. 5, mogą być przekazane na własność na podstawie umowy zawartej z likwidatorem spółdzielniom zrzeszonym w likwidowanym związku, spółdzielniom założonym przez spółdzielnie zrzeszone w tym związku oraz spółdzielniom pracy założonym przez pracowników zakładu w celu kontynuowania działalności gospodarczej prowadzonej w tym zakładzie. Przekazanie na własność zakładów oraz rzeczowych składników majątkowych likwidowanego centralnego związku spółdzielczego może nastąpić także na rzecz spółdzielni, która wystąpiła z tego związku i nie zrzeszyła się w innym centralnym związku spółdzielczym. Przekazanie zakładów oraz rzeczowych składników majątkowych likwidowanej Centrali Spółdzielni Ogrodniczych i Pszczelarskich może nastąpić także na rzecz spółki z ograniczoną odpowiedzialnością lub spółki akcyjnej założonych przez spółdzielnie zrzeszone w tej Centrali. Pracownicy zakładów, członkowie tych spółdzielni oraz producenci rolni związani co najmniej od 2 lat z tymi zakładami poprzez kontraktację lub kooperację mają prawo do objęcia udziałów lub akcji w takich spółkach na zasadach określonych w planie, o którym mowa w art. 3 ust. 1 i 2 . Składniki majątkowe nie służące do prowadzenia działalności gospodarczej powinny być przekazane przez likwidatora nowo utworzonym związkom rewizyjnym na ich wniosek, o ile nie są zatwierdzone plany likwidacji. . Przekazanie zakładu może nastąpić na zasadach częściowej lub pełnej odpłatnoŚci w zależności od stanu środków niezbędnych do pokrycia zobowiązań likwidowanego związku spółdzielczego, związanych z działalnością tego zakładu, bądź nieodpłatnie, jeżeli nabywca przejmie na zasadach ogólnych te zobowiązania. . Przepis ust. 7 stosuje się odpowiednio do przekazania rzeczowych składników majątkowych. . Spółdzielnie oraz pracownicy zakładu mogą składać likwidatorowi wnioski o przekazanie zakładu spółdzielniom, o których mowa w ust. 6, w terminie 3 miesięcy od dnia wejścia w życie ustawy. Wnioski te są uwzględnione przez likwidatora przy sporządzaniu planów, o których mowa w ust. 1. Spółdzielnia pracy założona przez co najmniej połowę pracowników zakładu może żądać przekazania jej na własność tego zakładu, jeżeli pracownicy ci złożyli wniosek, o którym mowa w ust. 9, oraz każdy z nich wniósł udział członkowski w kwocie odpowiadającej co najmniej 3-miesięcznemu Średniemu wynagrodzeniu miesięcznemu pobieranemu przez pracowników zatrudnionych w tym zakładzie. 11. Likwidator zapewnia realizację ustaleń zatwierdzonego planu rozdysponowania 12. zakładów i innych wyodrębnionych jednostek organizacyjnych oraz innych rzeczowych składników majątkowych związku spółdzielczego. Likwidator w szczególności:
+
+**Art. 21.** Ustawa wchodzi w życie z dniem ogłoszenia.
+

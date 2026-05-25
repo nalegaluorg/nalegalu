@@ -1,0 +1,3502 @@
+---
+title: "Obwieszczenie Ministra Edukacji i Nauki z dnia 6 kwietnia 2021 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Nauki i Szkolnictwa Wyższego w sprawie standardów kształcenia przygotowującego do wykonywania zawodu lekarza, lekarza dentysty, farmaceuty, pielęgniarki, położnej, diagnosty laboratoryjnego, fizjoterapeuty i ratownika medycznego"
+address: WDU20210000755
+eli: DU/2021/755
+publisher: DU
+year: 2021
+pos: 755
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+source: "isap-pdf"
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 kwietnia 2021 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 755 |
+| ISAP | WDU20210000755 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2021-04-06 |
+| Data wydania | 2021-04-23 |
+| Ostatnia zmiana | 2025-08-18 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000755) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/755/text.pdf) |
+
+## Załącznik nr 1 — Standard kształcenia przygotowującego do wykonywania zawodu lekarza I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+
+1. WYMAGANIA OGÓLNE
+1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu lekarza prowadzonego na studiach na kierunku lekarskim, zwanych dalej „studiami”.
+1.2. Studia są jednolitymi studiami magisterskimi.
+1.3. Studia trwają 12 semestrów.
+1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5700.
+1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 360.
+1.6. Kierunek lekarski jest przyporządkowany do dyscypliny naukowej nauki medyczne, jako dyscypliny wiodącej.
+1.7. Studia mają profil ogólnoakademicki.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. anatomii, mikrobiologii, chirurgii, okulistyce);
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. choroby wewnętrzne i diagnostykę laboratoryjną, choroby zakaźne i mikrobiologię);
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom (np. mechanizm i leczenie bólu, choroby autoimmunologiczne).
+2.2. Program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Nauki morfologiczne 300 25 B. Naukowe podstawy medycyny 525 43 C. Nauki przedkliniczne 525 43 D. Nauki behawioralne i społeczne z elementami 240 12 profesjonalizmu E. Nauki kliniczne niezabiegowe 1060 65 F. Nauki kliniczne zabiegowe 900 50 G. Prawne i organizacyjne aspekty medycyny 100 6 H. Praktyczne nauczanie kliniczne (30 tygodni) i egzaminy 900 60 I. Praktyki zawodowe (20 tygodni) 600 20 Razem 5150 324
+3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
+3.2. W trakcie kształcenia w zakresie nauk klinicznych (grupy zajęć E i F) studentom zapewnia się bezpośredni dostęp do pacjentów, w tym pacjentów leczonych ambulatoryjnie, z chorobami ostrymi oraz przewlekłymi, które są ujęte w treściach kształcenia przypisanych do zajęć lub grup zajęć.
+3.3. Do dyspozycji uczelni pozostawia się nie mniej niż 550 godzin zajęć (36 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności lub kompetencje społeczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 3% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.4. Nie więcej niż połowa godzin zajęć umożliwiających uzyskanie efektów uczenia się w grupie zajęć D jest przeznaczona na nauczanie języka angielskiego. Dodatkowe godziny zajęć przeznaczone na nauczanie języka angielskiego lub innego języka obcego mogą być realizowane w ramach godzin pozostawionych do dyspozycji uczelni. W przypadku gdy łączna liczba godzin zajęć z języków obcych jest większa niż 200, uczelnia zwiększa o tę nadwyżkę ogólną liczbę godzin zajęć w programie studiów.
+3.5. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.6. Program studiów umożliwia studentom uzyskanie nie mniej niż 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych.
+3.7. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 20% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYCZNE NAUCZANIE KLINICZNE NA VI ROKU STUDIÓW
+4.1. Praktyczne nauczanie kliniczne na VI roku studiów obejmuje zajęcia służące osiągnięciu efektów uczenia się w grupach zajęć E i F, realizowane w formie seminariów i ćwiczeń, w klinikach, oddziałach szpitalnych lub w symulowanych warunkach klinicznych, w wymiarze: Specjalność Liczba godzin Liczba punktów ECTS Choroby wewnętrzne 240 16 Pediatria 120 8 Chirurgia 120 8 Ginekologia i położnictwo 60 4 Psychiatria 60 4 Medycyna ratunkowa 60 4 Medycyna rodzinna 60 4 Specjalność wybrana przez studenta 180 12 Razem 900 60
+4.2. Zajęcia służące osiągnięciu efektów uczenia się w grupach zajęć E i F są prowadzone zgodnie z ramowym programem określonym w przepisach wydanych na podstawie art. 5 ust. 14 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2020 r. poz. 514, z późn. zm.).
+5. PRAKTYKI ZAWODOWE
+5.1. Praktyki zawodowe obejmują doskonalenie umiejętności zawodowych w wymiarze: Zakres praktyk zawodowych Liczba tygodni Opieka nad chorym 4 Podstawowa opieka zdrowotna (medycyna rodzinna) 3 Pomoc doraźna 1 Choroby wewnętrzne 4 Intensywna terapia 2 Pediatria 2 Chirurgia 2 Ginekologia i położnictwo 2 Razem 20
+5.2. Praktyki zawodowe są realizowane w okresie wakacji. Praktyki zawodowe służą osiągnięciu wybranych efektów uczenia się. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+6. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+6.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się, w skład której wchodzą w szczególności prosektorium i pracownia mikroskopowa i która umożliwia prowadzenie zajęć we wszystkich specjalnościach klinicznych. Zajęcia z zakresu nauk klinicznych (grupy zajęć E i F) są prowadzone w podmiotach leczniczych, które ze względu na swoją specyfikę oraz liczbę udzielanych przez nie świadczeń zdrowotnych, zapewniają studentom możliwość osiągnięcia efektów uczenia się z zakresu nauk klinicznych.
+6.2. Praktyczne nauczanie kliniczne i praktyki zawodowe odbywają się w oparciu o infrastrukturę uczelni oraz infrastrukturę podmiotów leczniczych, z którymi uczelnie zawarły umowy lub porozumienia w tym zakresie, w tym z wykorzystaniem symulowanych warunków klinicznych. Praktyczne nauczanie kliniczne i praktyki zawodowe odbywają się w podmiotach leczniczych udzielających świadczeń zdrowotnych z zakresu leczenia szpitalnego, w szczególności w szpitalach, których specyfika pozwala na osiągnięcie efektów uczenia się, podmiotach leczniczych udzielających świadczeń zdrowotnych z zakresu ambulatoryjnej opieki specjalistycznej lub podstawowej opieki zdrowotnej, jednostkach systemu Państwowe Ratownictwo Medyczne i hospicjach.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć E i F jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy, prawo wykonywania zawodu lekarza oraz tytuł specjalisty lub specjalizację w dziedzinie medycyny adekwatnej do prowadzonych zajęć, lub przez osoby posiadające prawo wykonywania zawodu lekarza, które ukończyły w trakcie szkolenia specjalizacyjnego moduł podstawowy albo ukończyły 3 rok szkolenia specjalizacyjnego w specjalizacjach jednolitych w odpowiedniej dziedzinie medycyny, jeżeli uzyskały pozytywną opinię kierownika specjalizacji, a także przy współudziale innych osób posiadających dorobek naukowy lub doświadczenie kliniczne, w zakresie właściwym do prowadzonych zajęć.
+III. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) rozwój, budowę i funkcje organizmu człowieka w warunkach prawidłowych i patologicznych;
+2) objawy i przebieg chorób;
+3) sposoby postępowania diagnostycznego i terapeutycznego właściwe dla określonych stanów chorobowych;
+4) etyczne, społeczne i prawne uwarunkowania wykonywania zawodu lekarza oraz zasady promocji zdrowia, a swoją wiedzę opiera na dowodach naukowych;
+5) metody prowadzenia badań naukowych.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) rozpoznać problemy medyczne i określić priorytety w zakresie postępowania lekarskiego;
+2) rozpoznać stany zagrażające życiu i wymagające natychmiastowej interwencji lekarskiej;
+3) zaplanować postępowanie diagnostyczne i zinterpretować jego wyniki;
+4) wdrożyć właściwe i bezpieczne postępowanie terapeutyczne oraz przewidzieć jego skutki;
+5) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy;
+6) inspirować proces uczenia się innych osób;
+7) komunikować się z pacjentem i jego rodziną w atmosferze zaufania, z uwzględnieniem potrzeb pacjenta oraz przekazać niekorzystne informacje;
+8) komunikować się ze współpracownikami w zespole i dzielić się wiedzą;
+9) krytycznie oceniać wyniki badań naukowych i odpowiednio uzasadniać stanowisko.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) nawiązania i utrzymania głębokiego oraz pełnego szacunku kontaktu z pacjentem, a także okazywania zrozumienia dla różnic światopoglądowych i kulturowych;
+2) kierowania się dobrem pacjenta;
+3) przestrzegania tajemnicy lekarskiej i praw pacjenta;
+4) podejmowania działań wobec pacjenta w oparciu o zasady etyczne, ze świadomością społecznych uwarunkowań i ograniczeń wynikających z choroby;
+5) dostrzegania i rozpoznawania własnych ograniczeń oraz dokonywania samooceny deficytów i potrzeb edukacyjnych;
+6) propagowania zachowań prozdrowotnych;
+7) korzystania z obiektywnych źródeł informacji;
+8) formułowania wniosków z własnych pomiarów lub obserwacji;
+9) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
+10) formułowania opinii dotyczących różnych aspektów działalności zawodowej;
+11) przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI MORFOLOGICZNE (w tym: anatomia, histologia, embriologia) W zakresie wiedzy absolwent zna i rozumie: A.W1. mianownictwo anatomiczne, histologiczne i embriologiczne w językach polskim i angielskim;
+A.W2. budowę ciała ludzkiego w podejściu topograficznym (kończyny górna i dolna, klatka piersiowa, brzuch, miednica, grzbiet, szyja, głowa) i czynnościowym (układ kostno-stawowy, układ mięśniowy, układ krążenia, układ oddechowy, układ pokarmowy, układ moczowy, układy płciowe, układ nerwowy i narządy zmysłów, powłoka wspólna);
+A.W3. stosunki topograficzne między poszczególnymi narządami;
+A.W4. podstawowe struktury komórkowe i ich specjalizacje funkcjonalne;
+A.W5. mikroarchitekturę tkanek, macierzy pozakomórkowej i narządów;
+A.W6. stadia rozwoju zarodka ludzkiego, budowę i czynność błon płodowych i łożyska, etapy rozwoju poszczególnych narządów oraz wpływ czynników szkodliwych na rozwój zarodka i płodu (teratogennych).
+W zakresie umiejętności absolwent potrafi: A.U1. obsługiwać mikroskop optyczny, w tym w zakresie korzystania z immersji;
+A.U2. rozpoznawać w obrazach z mikroskopu optycznego lub elektronowego struktury histologiczne odpowiadające narządom, tkankom, komórkom i strukturom komórkowym, opisywać i interpretować ich budowę oraz relacje między budową i funkcją;
+A.U3. wyjaśniać anatomiczne podstawy badania przedmiotowego;
+A.U4. wnioskować o relacjach między strukturami anatomicznymi na podstawie przyżyciowych badań diagnostycznych, w szczególności z zakresu radiologii (zdjęcia przeglądowe, badania z użyciem środków kontrastowych, tomografia komputerowa i magnetyczny rezonans jądrowy);
+A.U5. posługiwać się w mowie i w piśmie mianownictwem anatomicznym, histologicznym oraz embriologicznym.
+B. NAUKOWE PODSTAWY MEDYCYNY (w tym: biofizyka, biologia molekularna, biochemia z elementami chemii, fizjologia z elementami fizjologii klinicznej, cytofizjologia, informatyka i biostatystyka) W zakresie wiedzy absolwent zna i rozumie: B.W1. gospodarkę wodno-elektrolitową w układach biologicznych;
+B.W2. równowagę kwasowo-zasadową i mechanizm działania buforów oraz ich znaczenie w homeostazie ustrojowej;
+B.W3. pojęcia: rozpuszczalność, ciśnienie osmotyczne, izotonia, roztwory koloidalne i równowaga Gibbsa-Donnana;
+B.W4. podstawowe reakcje związków nieorganicznych i organicznych w roztworach wodnych;
+B.W5. prawa fizyczne opisujące przepływ cieczy i czynniki wpływające na opór naczyniowy przepływu krwi;
+B.W6. naturalne i sztuczne źródła promieniowania jonizującego oraz jego oddziaływanie z materią;
+B.W7. fizykochemiczne i molekularne podstawy działania narządów zmysłów;
+B.W8. fizyczne podstawy nieinwazyjnych metod obrazowania;
+B.W9. fizyczne podstawy wybranych technik terapeutycznych, w tym ultradźwięków i naświetlań;
+B.W10. budowę prostych związków organicznych wchodzących w skład makrocząsteczek obecnych w komórkach, macierzy zewnątrzkomórkowej i płynów ustrojowych;
+B.W11. budowę lipidów i polisacharydów oraz ich funkcje w strukturach komórkowych i pozakomórkowych;
+B.W12. struktury I-, II-, III- i IV-rzędową białek oraz modyfikacje potranslacyjne i funkcjonalne białka oraz ich znaczenie;
+B.W13. funkcje nukleotydów w komórce, struktury I- i II-rzędową DNA i RNA oraz strukturę chromatyny;
+B.W14. funkcje genomu, transkryptomu i proteomu człowieka oraz podstawowe metody stosowane w ich badaniu, procesy replikacji, naprawy i rekombinacji DNA, transkrypcji i translacji oraz degradacji DNA, RNA i białek, a także koncepcje regulacji ekspresji genów;
+B.W15. podstawowe szlaki kataboliczne i anaboliczne, sposoby ich regulacji oraz wpływ na nie czynników genetycznych i środowiskowych;
+B.W16. profile metaboliczne podstawowych narządów i układów;
+B.W17. sposoby komunikacji między komórkami i między komórką a macierzą zewnątrzkomórkową oraz szlaki przekazywania sygnałów w komórce, a także przykłady zaburzeń w tych procesach prowadzące do rozwoju nowotworów i innych chorób;
+B.W18. procesy: cykl komórkowy, proliferacja, różnicowanie i starzenie się komórek, apoptoza i nekroza oraz ich znaczenie dla funkcjonowania organizmu;
+B.W19. w podstawowym zakresie problematykę komórek macierzystych i ich zastosowania w medycynie;
+B.W20. podstawy pobudzenia i przewodzenia w układzie nerwowym oraz wyższe czynności nerwowe, a także fizjologię mięśni prążkowanych i gładkich oraz funkcje krwi;
+B.W21. czynność i mechanizmy regulacji wszystkich narządów i układów organizmu człowieka, w tym układu krążenia, układu oddechowego, układu pokarmowego, układu moczowego i powłok skórnych oraz zależności istniejące między nimi;
+B.W22. przebieg i regulację funkcji rozrodczych u kobiet i mężczyzn;
+B.W23. mechanizm starzenia się organizmu;
+B.W24. podstawowe ilościowe parametry opisujące wydolność poszczególnych układów i narządów, w tym zakresy norm i czynniki demograficzne wpływające na wartość tych parametrów;
+B.W25. związek między czynnikami zaburzającymi stan równowagi procesów biologicznych a zmianami fizjologicznymi i patofizjologicznymi;
+B.W26. podstawowe narzędzia informatyczne i biostatystyczne wykorzystywane w medycynie, w tym medyczne bazy danych, arkusze kalkulacyjne i podstawy grafiki komputerowej;
+B.W27. podstawowe metody analizy statystycznej wykorzystywane w badaniach populacyjnych i diagnostycznych;
+B.W28. możliwości współczesnej telemedycyny jako narzędzia wspomagania pracy lekarza;
+B.W29. zasady prowadzenia badań naukowych, obserwacyjnych i doświadczalnych oraz badań in vitro służących rozwojowi medycyny.
+W zakresie umiejętności absolwent potrafi: B.U1. wykorzystywać znajomość praw fizyki do wyjaśnienia wpływu czynników zewnętrznych, takich jak temperatura, przyspieszenie, ciśnienie, pole elektromagnetyczne i promieniowanie jonizujące, na organizm i jego elementy;
+B.U2. oceniać szkodliwość dawki promieniowania jonizującego i stosować się do zasad ochrony radiologicznej;
+B.U3. obliczać stężenia molowe i procentowe związków oraz stężenia substancji w roztworach izoosmotycznych, jedno- i wieloskładnikowych;
+B.U4. obliczać rozpuszczalność związków nieorganicznych, określać chemiczne podłoże rozpuszczalności związków organicznych lub jej braku oraz jej praktyczne znaczenie dla dietetyki i terapii;
+B.U5. określać pH roztworu i wpływ zmian pH na związki nieorganiczne i organiczne;
+B.U6. przewidywać kierunek procesów biochemicznych w zależności od stanu energetycznego komórek;
+B.U7. wykonywać proste testy czynnościowe oceniające organizm człowieka jako układ regulacji stabilnej (testy obciążeniowe, wysiłkowe) i interpretować dane liczbowe dotyczące podstawowych zmiennych fizjologicznych;
+B.U8. posługiwać się podstawowymi technikami laboratoryjnymi, takimi jak analiza jakościowa, miareczkowanie, kolorymetria, pehametria, chromatografia, elektroforeza białek i kwasów nukleinowych;
+B.U9. obsługiwać proste przyrządy pomiarowe i oceniać dokładność wykonywanych pomiarów;
+B.U10. korzystać z baz danych, w tym internetowych, i wyszukiwać potrzebne informacje za pomocą dostępnych narzędzi;
+B.U11. dobierać odpowiedni test statystyczny, przeprowadzać podstawowe analizy statystyczne, posługiwać się odpowiednimi metodami przedstawiania wyników, interpretować wyniki metaanalizy i przeprowadzać analizę prawdopodobieństwa przeżycia;
+B.U12. wyjaśniać różnice między badaniami prospektywnymi i retrospektywnymi, randomizowanymi i kliniczno-kontrolnymi, opisami przypadków i badaniami eksperymentalnymi oraz szeregować je według wiarygodności i jakości dowodów naukowych;
+B.U13. planować i wykonywać proste badania naukowe oraz interpretować ich wyniki i wyciągać wnioski.
+C. NAUKI PRZEDKLINICZNE (w tym: genetyka, mikrobiologia, immunologia, patologia, farmakologia z toksykologią, elementy patofizjologii) W zakresie wiedzy absolwent zna i rozumie: C.W1. podstawowe pojęcia z zakresu genetyki;
+C.W2. zjawiska sprzężenia i współdziałania genów;
+C.W3. prawidłowy kariotyp człowieka i różne typy determinacji płci;
+C.W4. budowę chromosomów i molekularne podłoże mutagenezy;
+C.W5. zasady dziedziczenia różnej liczby cech, dziedziczenia cech ilościowych, niezależnego dziedziczenia cech i dziedziczenia pozajądrowej informacji genetycznej;
+C.W6. uwarunkowania genetyczne grup krwi człowieka i konfliktu serologicznego w układzie Rh;
+C.W7. aberracje autosomów i heterosomów będące przyczyną chorób, w tym onkogenezy i nowotworów;
+C.W8. czynniki wpływające na pierwotną i wtórną równowagę genetyczną populacji;
+C.W9. podstawy diagnostyki mutacji genowych i chromosomowych odpowiedzialnych za choroby dziedziczne oraz nabyte, w tym nowotworowe;
+C.W10. korzyści i zagrożenia wynikające z obecności w ekosystemie organizmów modyfikowanych genetycznie (GMO);
+C.W11. genetyczne mechanizmy nabywania lekooporności przez drobnoustroje i komórki nowotworowe;
+C.W12. drobnoustroje, z uwzględnieniem chorobotwórczych i obecnych we florze fizjologicznej;
+C.W13. epidemiologię zarażeń wirusami i bakteriami oraz zakażeń grzybami i pasożytami, z uwzględnieniem geograficznego zasięgu ich występowania;
+C.W14. wpływ abiotycznych i biotycznych (wirusy, bakterie) czynników środowiska na organizm człowieka i populację ludzi oraz drogi ich wnikania do organizmu człowieka;
+C.W15. konsekwencje narażenia organizmu człowieka na różne czynniki chemiczne i biologiczne oraz zasady profilaktyki;
+C.W16. inwazyjne dla człowieka formy lub stadia rozwojowe wybranych pasożytniczych grzybów, pierwotniaków, helmintów i stawonogów, z uwzględnieniem geograficznego zasięgu ich występowania;
+C.W17. zasadę funkcjonowania układu pasożyt żywiciel i podstawowe objawy chorobowe wywoływane przez pasożyty;
+C.W18. objawy zakażeń jatrogennych, drogi ich rozprzestrzeniania się i patogeny wywołujące zmiany w poszczególnych narządach;
+C.W19. podstawy diagnostyki mikrobiologicznej i parazytologicznej;
+C.W20. podstawy dezynfekcji, sterylizacji i postępowania aseptycznego;
+C.W21. podstawy rozwoju i mechanizmy działania układu odpornościowego, w tym swoiste i nieswoiste mechanizmy odporności humoralnej i komórkowej;
+C.W22. główny układ zgodności tkankowej;
+C.W23. typy reakcji nadwrażliwości, rodzaje niedoborów odporności i podstawy immunomodulacji;
+C.W24. zagadnienia z zakresu immunologii nowotworów;
+C.W25. genetyczne podstawy doboru dawcy i biorcy oraz podstawy immunologii transplantacyjnej;
+C.W26. nazewnictwo patomorfologiczne;
+C.W27. podstawowe mechanizmy uszkadzania komórek i tkanek;
+C.W28. przebieg kliniczny zapaleń swoistych i nieswoistych oraz procesy regeneracji tkanek i narządów;
+C.W29. definicję i patofizjologię wstrząsu, ze szczególnym uwzględnieniem różnicowania przyczyn wstrząsu oraz niewydolności wielonarządowej;
+C.W30. etiologię zaburzeń hemodynamicznych, zmian wstecznych i zmian postępowych;
+C.W31. zagadnienia z zakresu szczegółowej patologii narządowej, obrazy makroi mikroskopowe oraz przebieg kliniczny zmian patomorfologicznych w poszczególnych narządach;
+C.W32. konsekwencje rozwijających się zmian patologicznych dla sąsiadujących topograficznie narządów;
+C.W33. czynniki chorobotwórcze zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;
+C.W34. postacie kliniczne najczęstszych chorób poszczególnych układów i narządów, chorób metabolicznych oraz zaburzeń gospodarki wodno-elektrolitowej, hormonalnej i kwasowo-zasadowej;
+C.W35. poszczególne grupy środków leczniczych;
+C.W36. główne mechanizmy działania leków i ich przemiany w ustroju zależne od wieku;
+C.W37. wpływ procesów chorobowych na metabolizm i eliminację leków;
+C.W38. podstawowe zasady farmakoterapii;
+C.W39. ważniejsze działania niepożądane leków, w tym wynikające z ich interakcji;
+C.W40. problem lekooporności, w tym lekooporności wielolekowej;
+C.W41. wskazania do badań genetycznych przeprowadzanych w celu indywidualizacji farmakoterapii;
+C.W42. podstawowe kierunki rozwoju terapii, w szczególności możliwości terapii komórkowej, genowej i celowanej w określonych chorobach;
+C.W43. podstawowe pojęcia z zakresu toksykologii ogólnej;
+C.W44. grupy leków, których nadużywanie może prowadzić do zatruć;
+C.W45. objawy najczęściej występujących ostrych zatruć, w tym alkoholami, narkotykami i innymi substancjami psychoaktywnymi, metalami ciężkimi oraz wybranymi grupami leków;
+C.W46. podstawowe zasady postępowania diagnostycznego w zatruciach;
+C.W47. wpływ stresu oksydacyjnego na komórki i jego znaczenie w patogenezie chorób oraz w procesach starzenia się;
+C.W48. konsekwencje niedoboru witamin lub minerałów i ich nadmiaru w organizmie;
+C.W49. enzymy biorące udział w trawieniu, mechanizm wytwarzania kwasu solnego w żołądku, rolę żółci, przebieg wchłaniania produktów trawienia;
+C.W50. konsekwencje niewłaściwego odżywiania, w tym długotrwałego głodowania, przyjmowania zbyt obfitych posiłków i stosowania niezbilansowanej diety oraz zaburzenia trawienia i wchłaniania produktów trawienia;
+C.W51. mechanizm działania hormonów.
+W zakresie umiejętności absolwent potrafi: C.U1. analizować krzyżówki genetyczne i rodowody cech oraz chorób człowieka, a także oceniać ryzyko urodzenia się dziecka z aberracjami chromosomowymi;
+C.U2. identyfikować wskazania do wykonania badań prenatalnych;
+C.U3. podejmować decyzje o potrzebie wykonania badań cytogenetycznych i molekularnych;
+C.U4. wykonywać pomiary morfometryczne, analizować morfogram i zapisywać kariotypy chorób;
+C.U5. szacować ryzyko ujawnienia się danej choroby u potomstwa w oparciu o predyspozycje rodzinne i wpływ czynników środowiskowych;
+C.U6. oceniać zagrożenia środowiskowe i posługiwać się podstawowymi metodami pozwalającymi na wykrycie obecności czynników szkodliwych (biologicznych i chemicznych) w biosferze;
+C.U7. rozpoznawać najczęściej spotykane pasożyty człowieka na podstawie ich budowy, cykli życiowych i objawów chorobowych;
+C.U8. posługiwać się reakcją antygen przeciwciało w aktualnych modyfikacjach i technikach dla diagnostyki chorób zakaźnych, alergicznych, autoimmunizacyjnych i nowotworowych oraz chorób krwi;
+C.U9. przygotowywać preparaty i rozpoznawać patogeny pod mikroskopem;
+C.U10. interpretować wyniki badań mikrobiologicznych;
+C.U11. powiązać obrazy uszkodzeń tkankowych i narządowych z objawami klinicznymi choroby, wywiadem i wynikami oznaczeń laboratoryjnych;
+C.U12. analizować zjawiska odczynowe, obronne i przystosowawcze oraz zaburzenia regulacji wywoływane przez czynnik etiologiczny;
+C.U13. wykonywać proste obliczenia farmakokinetyczne;
+C.U14. dobierać leki w odpowiednich dawkach w celu korygowania zjawisk patologicznych w ustroju i w poszczególnych narządach;
+C.U15. projektować schematy racjonalnej chemioterapii zakażeń, empirycznej i celowanej;
+C.U16. przygotowywać zapisy wszystkich form recepturowych substancji leczniczych;
+C.U17. posługiwać się informatorami farmaceutycznymi i bazami danych o produktach leczniczych;
+C.U18. szacować niebezpieczeństwo toksykologiczne w określonych grupach wiekowych i w stanach niewydolności wątroby i nerek oraz zapobiegać zatruciom lekami;
+C.U19. interpretować wyniki badań toksykologicznych;
+C.U20. opisywać zmiany w funkcjonowaniu organizmu w sytuacji zaburzenia homeostazy, w szczególności określać jego zintegrowaną odpowiedź na wysiłek fizyczny, ekspozycję na wysoką i niską temperaturę, utratę krwi lub wody, nagłą pionizację, przejście od stanu snu do stanu czuwania.
+D. NAUKI BEHAWIORALNE I SPOŁECZNE Z ELEMENTAMI PROFESJONALIZMU (w tym: socjologia medycyny, psychologia lekarska, etyka lekarska, historia medycyny, elementy profesjonalizmu, język angielski) W zakresie wiedzy absolwent zna i rozumie: D.W1. społeczny wymiar zdrowia i choroby, wpływ środowiska społecznego (rodziny, sieci relacji społecznych) i nierówności społecznych oraz społeczno-kulturowych różnic na stan zdrowia, a także rolę stresu społecznego w zachowaniach zdrowotnych i autodestrukcyjnych;
+D.W2. społeczne czynniki wpływające na zachowania w zdrowiu i w chorobie, szczególnie w chorobie przewlekłej;
+D.W3. formy przemocy, modele wyjaśniające przemoc w rodzinie i przemoc w wybranych instytucjach, społeczne uwarunkowania różnych form przemocy oraz rolę lekarza w jej rozpoznawaniu;
+D.W4. postawy społeczne wobec znaczenia zdrowia, choroby, niepełnosprawności i starości, konsekwencje społeczne choroby i niepełnosprawności oraz bariery społeczno-kulturowe, a także koncepcję jakości życia uwarunkowaną stanem zdrowia;
+D.W5. zasady i metody komunikacji z pacjentem i jego rodziną, które służą budowaniu empatycznej, opartej na zaufaniu relacji;
+D.W6. znaczenie komunikacji werbalnej i niewerbalnej w procesie komunikowania się z pacjentem oraz pojęcie zaufania w interakcji z pacjentem;
+D.W7. psychospołeczne konsekwencje hospitalizacji i choroby przewlekłej;
+D.W8. funkcjonowanie podmiotów systemu ochrony zdrowia i społeczną rolę lekarza;
+D.W9. podstawowe psychologiczne mechanizmy funkcjonowania człowieka w zdrowiu i w chorobie;
+D.W10. rolę rodziny pacjenta w procesie leczenia;
+D.W11. problematykę adaptacji pacjenta i jego rodziny do choroby jako sytuacji trudnej oraz do związanych z nią wydarzeń, w tym umierania i procesu żałoby rodziny;
+D.W12. rolę stresu w etiopatogenezie i przebiegu chorób oraz mechanizmy radzenia sobie ze stresem;
+D.W13. mechanizmy, cele i sposoby leczenia uzależnień od substancji psychoaktywnych;
+D.W14. zasady promocji zdrowia, jej zadania i główne kierunki działania, ze szczególnym uwzględnieniem znajomości roli elementów zdrowego stylu życia;
+D.W15. zasady motywowania pacjenta do prozdrowotnych zachowań i informowania o niepomyślnym rokowaniu;
+D.W16. główne pojęcia, teorie, zasady etyczne służące jako ogólne ramy właściwego interpretowania i analizowania zagadnień moralno-medycznych;
+D.W17. prawa pacjenta;
+D.W18. zasady pracy w zespole;
+D.W19. kulturowe, etniczne i narodowe uwarunkowania zachowań ludzkich;
+D.W20. historię medycyny, medycynę ludów pierwotnych i najdawniejszych cywilizacji oraz charakterystyczne cechy medycyny średniowiecznej;
+D.W21. cechy medycyny nowożytnej i jej najważniejsze odkrycia;
+D.W22. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej;
+D.W23. podstawy medycyny opartej na dowodach.
+W zakresie umiejętności absolwent potrafi: D.U1. uwzględniać w procesie postępowania terapeutycznego subiektywne potrzeby i oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
+D.U2. dostrzegać oznaki zachowań antyzdrowotnych i autodestrukcyjnych oraz właściwie na nie reagować;
+D.U3. wybierać takie leczenie, które minimalizuje konsekwencje społeczne dla pacjenta;
+D.U4. budować atmosferę zaufania podczas całego procesu diagnostycznego i leczenia;
+D.U5. przeprowadzać rozmowę z pacjentem dorosłym, dzieckiem i rodziną z zastosowaniem techniki aktywnego słuchania i wyrażania empatii oraz rozmawiać z pacjentem o jego sytuacji życiowej;
+D.U6. informować pacjenta o celu, przebiegu i ewentualnym ryzyku proponowanych działań diagnostycznych lub terapeutycznych oraz uzyskać jego świadomą zgodę na podjęcie tych działań;
+D.U7. angażować pacjenta w proces terapeutyczny;
+D.U8. przekazać pacjentowi i jego rodzinie informacje o niekorzystnym rokowaniu;
+D.U9. udzielać porad w kwestii przestrzegania zaleceń terapeutycznych i prozdrowotnego trybu życia;
+D.U10. identyfikować czynniki ryzyka wystąpienia przemocy, rozpoznawać przemoc i odpowiednio reagować;
+D.U11. stosować w podstawowym zakresie psychologiczne interwencje motywujące i wspierające;
+D.U12. komunikować się ze współpracownikami, udzielając informacji zwrotnej i wsparcia;
+D.U13. przestrzegać wzorców etycznych w działaniach zawodowych;
+D.U14. rozpoznawać etyczny wymiar decyzji medycznych i odróżniać aspekty faktualne od normatywnych;
+D.U15. przestrzegać praw pacjenta;
+D.U16. wykazywać odpowiedzialność za podnoszenie swoich kwalifikacji i przekazywanie wiedzy innym;
+D.U17. krytycznie analizować piśmiennictwo medyczne, w tym w języku angielskim, i wyciągać wnioski;
+D.U18. porozumiewać się z pacjentem w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego.
+E. NAUKI KLINICZNE NIEZABIEGOWE (w tym: pediatria, choroby wewnętrzne, neurologia, geriatria, psychiatria, dermatologia, onkologia, medycyna rodzinna, choroby zakaźne, rehabilitacja, diagnostyka laboratoryjna, farmakologia kliniczna) W zakresie wiedzy absolwent zna i rozumie: E.W1. uwarunkowania środowiskowe i epidemiologiczne najczęstszych chorób;
+E.W2. zasady żywienia dzieci zdrowych i chorych, w tym karmienia naturalnego, szczepień ochronnych i prowadzenia bilansu zdrowia dziecka;
+E.W3. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w przypadku najczęstszych chorób dzieci:
+1) krzywicy, tężyczki, drgawek,
+2) wad serca, zapalenia mięśnia sercowego, wsierdzia i osierdzia, kardiomiopatii, zaburzeń rytmu serca, niewydolności serca, nadciśnienia tętniczego, omdleń,
+3) ostrych i przewlekłych chorób górnych i dolnych dróg oddechowych, wad wrodzonych układu oddechowego, gruźlicy, mukowiscydozy, astmy, alergicznego nieżytu nosa, pokrzywki, wstrząsu anafilaktycznego, obrzęku naczynioworuchowego,
+4) niedokrwistości, skaz krwotocznych, stanów niewydolności szpiku, chorób nowotworowych wieku dziecięcego, w tym guzów litych typowych dla wieku dziecięcego,
+5) ostrych i przewlekłych bólów brzucha, wymiotów, biegunek, zaparć, krwawień z przewodu pokarmowego, choroby wrzodowej, nieswoistych chorób jelit, chorób trzustki, cholestaz i chorób wątroby oraz innych chorób nabytych i wad wrodzonych przewodu pokarmowego,
+6) zakażeń układu moczowego, wad wrodzonych układu moczowego, zespołu nerczycowego, kamicy nerkowej, ostrej i przewlekłej niewydolności nerek, ostrych i przewlekłych zapaleń nerek, chorób układowych nerek, zaburzeń oddawania moczu, choroby refluksowej pęcherzowo-moczowodowej,
+7) zaburzeń wzrastania, chorób tarczycy i przytarczyc, chorób nadnerczy, cukrzycy, otyłości, zaburzeń dojrzewania i funkcji gonad,
+8) mózgowego porażenia dziecięcego, zapaleń mózgu i opon mózgowo-rdzeniowych, padaczki,
+9) najczęstszych chorób zakaźnych wieku dziecięcego,
+10) zespołów genetycznych,
+11) chorób tkanki łącznej, gorączki reumatycznej, młodzieńczego zapalenia stawów, tocznia układowego, zapalenia skórno-mięśniowego;
+E.W4. zagadnienia dziecka maltretowanego i wykorzystywania seksualnego, upośledzenia umysłowego oraz zaburzeń zachowania psychoz, uzależnień, zaburzeń odżywiania i wydalania u dzieci;
+E.W5. podstawowe sposoby diagnostyki i terapii płodu;
+E.W6. najczęściej występujące stany zagrożenia życia u dzieci i zasady postępowania w tych stanach;
+E.W7. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w odniesieniu do najczęstszych chorób wewnętrznych występujących u osób dorosłych oraz ich powikłań:
+1) chorób układu krążenia, w tym choroby niedokrwiennej serca, wad serca, chorób wsierdzia, mięśnia serca, osierdzia, niewydolności serca (ostrej i przewlekłej), chorób naczyń tętniczych i żylnych, nadciśnienia tętniczego pierwotnego i wtórnego, nadciśnienia płucnego,
+2) chorób układu oddechowego, w tym chorób dróg oddechowych, przewlekłej obturacyjnej choroby płuc, astmy oskrzelowej, rozstrzenia oskrzeli, mukowiscydozy, zakażeń układu oddechowego, chorób śródmiąższowych płuc, opłucnej, śródpiersia, obturacyjnego i centralnego bezdechu sennego, niewydolności oddechowej (ostrej i przewlekłej), nowotworów układu oddechowego,
+3) chorób układu pokarmowego, w tym chorób jamy ustnej, przełyku, żołądka i dwunastnicy, jelit, trzustki, wątroby, dróg żółciowych i pęcherzyka żółciowego,
+4) chorób układu wydzielania wewnętrznego, w tym chorób podwzgórza i przysadki, tarczycy, przytarczyc, kory i rdzenia nadnerczy, jajników i jąder oraz guzów neuroendokrynnych, zespołów wielogruczołowych, różnych typów cukrzycy i zespołu metabolicznego hipoglikemii, otyłości, dyslipidemii,
+5) chorób nerek i dróg moczowych, w tym ostrych i przewlekłych niewydolności nerek, chorób kłębuszków nerkowych i śródmiąższowych nerek, torbieli nerek, kamicy nerkowej, zakażeń układu moczowego, nowotworów układu moczowego, w szczególności pęcherza moczowego i nerki,
+6) chorób układu krwiotwórczego, w tym aplazji szpiku, niedokrwistości, granulocytopenii i agranulocytozy, małopłytkowości, białaczek ostrych, nowotworów mieloproliferacyjnych i mielodysplastyczno-mieloproliferacyjnych, zespołów mielodysplastycznych, nowotworów z dojrzałych limfocytów B i T, skaz krwotocznych, trombofilii, stanów bezpośredniego zagrożenia życia w hematologii, zaburzeń krwi w chorobach innych narządów,
+7) chorób reumatycznych, w tym chorób układowych tkanki łącznej, układowych zapaleń naczyń, zapaleń stawów z zajęciem kręgosłupa, chorób metabolicznych kości, w szczególności osteoporozy i choroby zwyrodnieniowej stawów, dny moczanowej,
+8) chorób alergicznych, w tym anafilaksji i wstrząsu anafilaktycznego oraz obrzęku naczynioruchowego,
+9) zaburzeń wodno-elektrolitowych i kwasowo-zasadowych: stanów odwodnienia, stanów przewodnienia, zaburzeń gospodarki elektrolitowej, kwasicy i zasadowicy;
+E.W8. przebieg i objawy procesu starzenia się oraz zasady całościowej oceny geriatrycznej i opieki interdyscyplinarnej w odniesieniu do pacjenta w podeszłym wieku;
+E.W9. przyczyny i podstawowe odrębności w najczęstszych chorobach występujących u osób starszych oraz zasady postępowania w podstawowych zespołach geriatrycznych;
+E.W10. podstawowe zasady farmakoterapii chorób osób w podeszłym wieku;
+E.W11. zagrożenia związane z hospitalizacją osób w podeszłym wieku;
+E.W12. podstawowe zasady organizacji opieki nad osobą starszą i obciążenia opiekuna osoby starszej;
+E.W13. podstawowe zespoły objawów neurologicznych;
+E.W14. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach układu nerwowego, w tym:
+1) bólach głowy: migrenie, napięciowym bólu głowy i zespołach bólów głowy oraz neuralgii nerwu V,
+2) chorobach naczyniowych mózgu, w szczególności udarze mózgu,
+3) padaczce,
+4) zakażeniach układu nerwowego, w szczególności zapaleniu opon mózgowo-rdzeniowych, boreliozie, opryszczkowym zapaleniu mózgu, chorobach neurotransmisyjnych,
+5) otępieniach, w szczególności chorobie Alzheimera, otępieniu czołowym, otępieniu naczyniopochodnym i innych zespołach otępiennych,
+6) chorobach jąder podstawy, w szczególności chorobie Parkinsona,
+7) chorobach demielinizacyjnych, w szczególności stwardnieniu rozsianym,
+8) chorobach układu nerwowo-mięśniowego, w szczególności stwardnieniu bocznym zanikowym i rwie kulszowej,
+9) urazach czaszkowo-mózgowych, w szczególności wstrząśnieniu mózgu;
+E.W15. podstawowe koncepcje patogenezy zaburzeń psychicznych;
+E.W16. symptomatologię ogólną zaburzeń psychicznych i zasady ich klasyfikacji według głównych systemów klasyfikacyjnych;
+E.W17. objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych zaburzeniach psychicznych, w tym:
+1) schizofrenii,
+2) zaburzeniach afektywnych,
+3) zaburzeniach nerwicowych i adaptacyjnych,
+4) zaburzeniach odżywiania,
+5) zaburzeniach związanych z przyjmowaniem substancji psychoaktywnych,
+6) zaburzeniach snu;
+E.W18. zasady diagnostyki i postępowania w stanach nagłych w psychiatrii, z uwzględnieniem problematyki samobójstw;
+E.W19. specyfikę zaburzeń psychicznych i ich leczenia u dzieci, młodzieży oraz w okresie starości;
+E.W20. objawy zaburzeń psychicznych w przebiegu chorób somatycznych, ich wpływ na przebieg choroby podstawowej i rokowanie oraz zasady ich leczenia;
+E.W21. problematykę seksualności człowieka i podstawowych zaburzeń z nią związanych;
+E.W22. przepisy dotyczące ochrony zdrowia psychicznego, ze szczególnym uwzględnieniem zasad przyjęcia do szpitala psychiatrycznego;
+E.W23. uwarunkowania środowiskowe i epidemiologiczne najczęstszych nowotworów;
+E.W24. podstawy wczesnej wykrywalności nowotworów i zasady badań przesiewowych w onkologii;
+E.W25. możliwości współczesnej terapii nowotworów z uwzględnieniem terapii wielomodalnej, perspektywy terapii komórkowych i genowych oraz ich niepożądane skutki;
+E.W26. zasady terapii skojarzonych w onkologii, algorytmy postępowania diagnostyczno-leczniczego w najczęściej występujących nowotworach;
+E.W27. zasady diagnozowania i postępowania terapeutycznego w najczęstszych problemach medycyny paliatywnej, w tym:
+1) leczeniu objawowym najczęstszych objawów somatycznych,
+2) postępowaniu w wyniszczeniu nowotworowym i w profilaktyce oraz leczeniu odleżyn,
+3) najczęstszych stanach nagłych w medycynie paliatywnej;
+E.W28. zasady postępowania paliatywnego z pacjentem w stanie terminalnym;
+E.W29. zasady leczenia bólu, w tym bólu nowotworowego i przewlekłego;
+E.W30. pojęcie niepełnosprawności i inwalidztwa;
+E.W31. rolę rehabilitacji medycznej i metody w niej stosowane;
+E.W32. podstawowe zagadnienia profilaktyki oraz zasady postępowania w przypadku ekspozycji zawodowej na czynniki niebezpieczne i szkodliwe;
+E.W33. zasady postępowania w przypadku wykrycia choroby zakaźnej;
+E.W34. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego oraz profilaktycznego w najczęstszych chorobach bakteryjnych, wirusowych, pasożytniczych i grzybicach, w tym zakażeniach pneumokokowych, wirusowym zapaleniu wątroby, zespole nabytego niedoboru odporności (AIDS), sepsie i zakażeniach szpitalnych;
+E.W35. podstawowe cechy, uwarunkowania środowiskowe i epidemiologiczne najczęstszych chorób skóry;
+E.W36. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach przenoszonych drogą płciową;
+E.W37. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach dziedzicznych;
+E.W38. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach i specyficznych problemach w praktyce lekarza rodzinnego;
+E.W39. rodzaje materiałów biologicznych wykorzystywanych w diagnostyce laboratoryjnej i zasady pobierania materiału do badań;
+E.W40. podstawy teoretyczne i praktyczne diagnostyki laboratoryjnej;
+E.W41. możliwości i ograniczenia badań laboratoryjnych w stanach nagłych;
+E.W42. wskazania do wdrożenia terapii monitorowanej;
+E.W43. podstawowe pojęcia farmakoekonomiczne.
+W zakresie umiejętności absolwent potrafi: E.U1. przeprowadzać wywiad lekarski z pacjentem dorosłym;
+E.U2. przeprowadzać wywiad lekarski z dzieckiem i jego rodziną;
+E.U3. przeprowadzać pełne i ukierunkowane badanie fizykalne pacjenta dorosłego;
+E.U4. przeprowadzać badanie fizykalne dziecka w każdym wieku;
+E.U5. przeprowadzać badanie psychiatryczne;
+E.U6. przeprowadzać orientacyjne badanie słuchu i pola widzenia oraz badanie otoskopowe;
+E.U7. oceniać stan ogólny, stan przytomności i świadomości pacjenta;
+E.U8. oceniać stan noworodka w skali Apgar i jego dojrzałość oraz badać odruchy noworodkowe;
+E.U9. zestawiać pomiary antropometryczne i ciśnienia krwi z danymi na siatkach centylowych;
+E.U10. oceniać stopień zaawansowania dojrzewania płciowego;
+E.U11. przeprowadzać badania bilansowe;
+E.U12. przeprowadzać diagnostykę różnicową najczęstszych chorób osób dorosłych i dzieci;
+E.U13. oceniać i opisywać stan somatyczny oraz psychiczny pacjenta;
+E.U14. rozpoznawać stany bezpośredniego zagrożenia życia;
+E.U15. rozpoznawać stan po spożyciu alkoholu, narkotyków i innych używek;
+E.U16. planować postępowanie diagnostyczne, terapeutyczne i profilaktyczne;
+E.U17. przeprowadzać analizę ewentualnych działań niepożądanych poszczególnych leków i interakcji między nimi;
+E.U18. proponować indywidualizację obowiązujących wytycznych terapeutycznych i inne metody leczenia wobec nieskuteczności albo przeciwwskazań do terapii standardowej;
+E.U19. rozpoznawać objawy lekozależności i proponować postępowanie lecznicze;
+E.U20. kwalifikować pacjenta do leczenia domowego i szpitalnego;
+E.U21. rozpoznawać stany, w których czas dalszego trwania życia, stan funkcjonalny lub preferencje pacjenta ograniczają postępowanie zgodne z wytycznymi określonymi dla danej choroby;
+E.U22. dokonywać oceny funkcjonalnej pacjenta z niepełnosprawnością;
+E.U23. proponować program rehabilitacji w najczęstszych chorobach;
+E.U24. interpretować wyniki badań laboratoryjnych i identyfikować przyczyny odchyleń od normy;
+E.U25. stosować leczenie żywieniowe, z uwzględnieniem żywienia dojelitowego i pozajelitowego;
+E.U26. planować postępowanie w przypadku ekspozycji na zakażenie przenoszone drogą krwi;
+E.U27. kwalifikować pacjenta do szczepień;
+E.U28. pobierać i zabezpieczać materiał do badań wykorzystywanych w diagnostyce laboratoryjnej;
+E.U29. wykonywać podstawowe procedury i zabiegi medyczne w tym:
+1) pomiar temperatury ciała (powierzchownej oraz głębokiej), pomiar tętna, nieinwazyjny pomiar ciśnienia tętniczego,
+2) monitorowanie parametrów życiowych przy pomocy kardiomonitora, pulsoksymetrię,
+3) badanie spirometryczne, leczenie tlenem, wentylację wspomaganą i zastępczą,
+4) wprowadzenie rurki ustno-gardłowej,
+5) wstrzyknięcia dożylne, domięśniowe i podskórne, kaniulację żył obwodowych, pobieranie obwodowej krwi żylnej, pobieranie krwi na posiew, pobieranie krwi tętniczej, pobieranie arterializowanej krwi włośniczkowej,
+6) pobieranie wymazów z nosa, gardła i skóry,
+7) cewnikowanie pęcherza moczowego u kobiet i mężczyzn, zgłębnikowanie żołądka, płukanie żołądka, enemę,
+8) standardowy elektrokardiogram spoczynkowy wraz z interpretacją, kardiowersję elektryczną i defibrylację serca,
+9) proste testy paskowe i pomiar stężenia glukozy we krwi;
+E.U30. asystować przy przeprowadzaniu następujących procedur i zabiegów medycznych:
+1) przetaczaniu preparatów krwi i krwiopochodnych,
+2) drenażu jamy opłucnowej,
+3) nakłuciu worka osierdziowego,
+4) nakłuciu jamy otrzewnowej,
+5) nakłuciu lędźwiowym,
+6) biopsji cienkoigłowej,
+7) testach naskórkowych,
+8) próbach śródskórnych i skaryfikacyjnych oraz interpretować ich wyniki;
+E.U31. interpretować charakterystyki farmaceutyczne produktów leczniczych i krytycznie oceniać materiały reklamowe dotyczące leków;
+E.U32. planować konsultacje specjalistyczne;
+E.U33. wdrażać podstawowe postępowanie lecznicze w ostrych zatruciach;
+E.U34. monitorować stan pacjenta zatrutego substancjami chemicznymi lub lekami;
+E.U35. oceniać odleżyny i stosować odpowiednie opatrunki;
+E.U36. postępować w przypadku urazów (zakładać opatrunek lub unieruchomienie, zaopatrywać i zszywać ranę);
+E.U37. rozpoznać agonię pacjenta i stwierdzić jego zgon;
+E.U38. prowadzić dokumentację medyczną pacjenta.
+F. NAUKI KLINICZNE ZABIEGOWE (w tym: anestezjologia i intensywna terapia, chirurgia ogólna, ortopedia z traumatologią, medycyna ratunkowa, chirurgia onkologiczna, ginekologia i położnictwo, urologia, otorynolaryngologia, okulistyka, neurochirurgia, transplantologia, diagnostyka obrazowa) W zakresie wiedzy absolwent zna i rozumie: F.W1. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w odniesieniu do najczęstszych chorób wymagających interwencji chirurgicznej, z uwzględnieniem odrębności wieku dziecięcego, w tym w szczególności:
+1) ostrych i przewlekłych chorób jamy brzusznej,
+2) chorób klatki piersiowej,
+3) chorób kończyn i głowy,
+4) złamań kości i urazów narządów;
+F.W2. wybrane zagadnienia z zakresu chirurgii dziecięcej, w tym traumatologii i otorynolaryngologii, oraz wady i choroby nabyte będące wskazaniem do leczenia chirurgicznego u dzieci;
+F.W3. zasady kwalifikacji do podstawowych zabiegów operacyjnych i inwazyjnych procedur diagnostyczno-leczniczych, zasady ich wykonywania i najczęstsze powikłania;
+F.W4. zasady bezpieczeństwa okołooperacyjnego, przygotowania pacjenta do operacji, wykonania znieczulenia ogólnego i miejscowego oraz kontrolowanej sedacji;
+F.W5. leczenie pooperacyjne z terapią przeciwbólową i monitorowaniem pooperacyjnym;
+F.W6. wskazania i zasady stosowania intensywnej terapii;
+F.W7. wytyczne w zakresie resuscytacji krążeniowo-oddechowej noworodków, dzieci i dorosłych;
+F.W8. zasady funkcjonowania zintegrowanego systemu Państwowe Ratownictwo Medyczne;
+F.W9. funkcje rozrodcze kobiety, zaburzenia z nimi związane i postępowanie diagnostyczne oraz terapeutyczne dotyczące w szczególności:
+1) cyklu miesiączkowego i jego zaburzeń,
+2) ciąży,
+3) porodu fizjologicznego i patologicznego oraz połogu,
+4) zapaleń i nowotworów w obrębie narządów płciowych,
+5) regulacji urodzeń,
+6) menopauzy,
+7) podstawowych metod diagnostyki i zabiegów ginekologicznych;
+F.W10. problematykę współcześnie wykorzystywanych badań obrazowych, w szczególności:
+1) symptomatologię radiologiczną podstawowych chorób,
+2) metody instrumentalne i techniki obrazowe wykorzystywane do wykonywania zabiegów medycznych,
+3) wskazania, przeciwwskazania i przygotowanie pacjenta do poszczególnych rodzajów badań obrazowych oraz przeciwwskazania do stosowania środków kontrastujących;
+F.W11. zagadnienia z zakresu chorób narządu wzroku, w szczególności:
+1) przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach okulistycznych,
+2) okulistyczne powikłania chorób ogólnoustrojowych wraz z ich okulistyczną symptomatologią oraz prawidłowe metody postępowania w tych przypadkach,
+3) postępowanie chirurgiczne w poszczególnych chorobach oka,
+4) podstawowe grupy leków stosowanych w okulistyce, ich działania niepożądane i interakcje,
+5) grupy leków stosowanych ogólnie, z którymi wiążą się powikłania i przeciwwskazania okulistyczne oraz ich mechanizm;
+F.W12. zagadnienia z zakresu laryngologii, foniatrii i audiologii, w tym:
+1) przyczyny, przebieg kliniczny, metody leczenia, powikłania i rokowanie w chorobach ucha, nosa, zatok przynosowych, jamy ustnej, gardła i krtani,
+2) choroby nerwu twarzowego i wybranych struktur szyi,
+3) zasady postępowania diagnostycznego i terapeutycznego w urazach mechanicznych ucha, nosa, krtani i przełyku,
+4) zasady postępowania w stanach nagłych w otorynolaryngologii, w szczególności w duszności krtaniowej,
+5) zasady postępowania diagnostycznego i terapeutycznego w zaburzeniach słuchu, głosu oraz mowy,
+6) zasady postępowania diagnostycznego i terapeutycznego w nowotworach głowy i szyi;
+F.W13. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w przypadku najczęstszych chorób ośrodkowego układu nerwowego w zakresie:
+1) obrzęku mózgu i jego następstw, ze szczególnym uwzględnieniem stanów nagłych,
+2) innych postaci ciasnoty wewnątrzczaszkowej z ich następstwami,
+3) urazów czaszkowo-mózgowych,
+4) wad naczyniowych centralnego systemu nerwowego,
+5) guzów nowotworowych centralnego systemu nerwowego,
+6) chorób kręgosłupa i rdzenia kręgowego;
+F.W14. w podstawowym zakresie problematykę transplantologii zabiegowej, wskazania do przeszczepienia nieodwracalnie uszkodzonych narządów i tkanek oraz procedury z tym związane;
+F.W15. zasady wysuwania podejrzenia i rozpoznawania śmierci mózgu;
+F.W16. algorytm postępowania dla poszczególnych stadiów hipotermii przypadkowej oraz hipotermii pourazowej.
+W zakresie umiejętności absolwent potrafi: F.U1. asystować przy typowym zabiegu operacyjnym, przygotowywać pole operacyjne i znieczulać miejscowo okolicę operowaną;
+F.U2. posługiwać się podstawowymi narzędziami chirurgicznymi;
+F.U3. stosować się do zasad aseptyki i antyseptyki;
+F.U4. zaopatrywać prostą ranę, zakładać i zmieniać jałowy opatrunek chirurgiczny;
+F.U5. zakładać wkłucie obwodowe;
+F.U6. badać sutki, węzły chłonne, gruczoł tarczowy i jamę brzuszną w aspekcie ostrego brzucha oraz wykonywać badanie palcem przez odbyt;
+F.U7. oceniać wynik badania radiologicznego w zakresie najczęstszych typów złamań, szczególnie złamań kości długich;
+F.U8. wykonywać doraźne unieruchomienie kończyny, wybierać rodzaj unieruchomienia konieczny do zastosowania w typowych sytuacjach klinicznych oraz kontrolować poprawność ukrwienia kończyny po założeniu opatrunku unieruchamiającego;
+F.U9. zaopatrywać krwawienie zewnętrzne;
+F.U10. wykonywać podstawowe zabiegi resuscytacyjne z użyciem automatycznego defibrylatora zewnętrznego i inne czynności ratunkowe oraz udzielać pierwszej pomocy;
+F.U11. działać zgodnie z algorytmem zaawansowanych czynności resuscytacyjnych;
+F.U12. monitorować stan pacjenta w okresie pooperacyjnym w oparciu o podstawowe parametry życiowe;
+F.U13. rozpoznawać objawy podmiotowe i przedmiotowe świadczące o nieprawidłowym przebiegu ciąży (nieprawidłowe krwawienia, czynność skurczową macicy);
+F.U14. interpretować wyniki badania fizykalnego ciężarnej (ciśnienie tętnicze, czynność serca matki i płodu) i wyniki badań laboratoryjnych świadczących o patologiach ciąży;
+F.U15. interpretować zapis kardiotokografii (KTG);
+F.U16. rozpoznawać rozpoczynający się poród i nieprawidłowy czas jego trwania;
+F.U17. interpretować objawy podmiotowe i przedmiotowe w czasie połogu;
+F.U18. ustalać zalecenia, wskazania i przeciwwskazania dotyczące stosowania metod antykoncepcji;
+F.U19. przeprowadzać okulistyczne badania przesiewowe;
+F.U20. rozpoznawać stany okulistyczne wymagające natychmiastowej pomocy specjalistycznej i udzielać wstępnej, kwalifikowanej pomocy w przypadkach urazów fizycznych i chemicznych oka;
+F.U21. oceniać stan pacjenta nieprzytomnego zgodnie z międzynarodowymi skalami punktowymi;
+F.U22. rozpoznawać objawy narastającego ciśnienia śródczaszkowego;
+F.U23. oceniać wskazania do wykonania punkcji nadłonowej i uczestniczyć w jej wykonaniu;
+F.U24. asystować przy typowych procedurach urologicznych (endoskopii diagnostycznej i terapeutycznej układu moczowego, litotrypsji, punkcji prostaty);
+F.U25. wykonywać podstawowe badanie laryngologiczne w zakresie ucha, nosa, gardła i krtani;
+F.U26. przeprowadzać orientacyjne badanie słuchu.
+G. PRAWNE I ORGANIZACYJNE ASPEKTY MEDYCYNY (w tym: higiena, epidemiologia, zdrowie publiczne, prawo medyczne, medycyna sądowa) W zakresie wiedzy absolwent zna i rozumie: G.W1. metody oceny stanu zdrowia jednostki i populacji, różne systemy klasyfikacji chorób i procedur medycznych;
+G.W2. sposoby identyfikacji i badania czynników ryzyka, wady i zalety różnego typu badań epidemiologicznych oraz miary świadczące o obecności zależności przyczynowo-skutkowej;
+G.W3. epidemiologię chorób zakaźnych i przewlekłych, sposoby zapobiegania ich występowaniu na różnych etapach naturalnej historii choroby oraz rolę nadzoru epidemiologicznego;
+G.W4. pojęcie zdrowia publicznego, jego cele, zadania oraz strukturę i organizację systemu ochrony zdrowia na poziomie krajowym i światowym, a także wpływ uwarunkowań ekonomicznych na możliwości ochrony zdrowia;
+G.W5. regulacje prawne dotyczące udzielania świadczeń zdrowotnych, praw pacjenta, prawa pracy, podstaw wykonywania zawodu lekarza i funkcjonowania samorządu lekarskiego;
+G.W6. podstawowe regulacje prawne dotyczące organizacji i finansowania systemu ochrony zdrowia, powszechnego ubezpieczenia zdrowotnego oraz zasady organizacji podmiotów leczniczych;
+G.W7. obowiązki prawne lekarza w zakresie stwierdzenia zgonu;
+G.W8. regulacje prawne i podstawowe metody dotyczące eksperymentu medycznego oraz prowadzenia innych badań medycznych, z uwzględnieniem podstawowych metod analizy danych;
+G.W9. regulacje prawne dotyczące przeszczepów, sztucznej prokreacji, przerywania ciąży, zabiegów estetycznych, leczenia paliatywnego, chorób psychicznych;
+G.W10. podstawowe regulacje z zakresu prawa farmaceutycznego;
+G.W11. regulacje prawne dotyczące tajemnicy lekarskiej, prowadzenia dokumentacji medycznej, odpowiedzialności karnej, cywilnej i zawodowej lekarza;
+G.W12. pojęcie śmierci gwałtownej i nagłego zgonu oraz różnice między urazem a obrażeniem;
+G.W13. podstawy prawne i zasady postępowania lekarza podczas oględzin zwłok na miejscu ich ujawnienia oraz sądowo-lekarskiego badania zwłok;
+G.W14. zasady diagnostyki sądowo-lekarskiej i opiniowania w przypadkach dotyczących dzieciobójstwa i rekonstrukcji okoliczności wypadku drogowego;
+G.W15. zasady sporządzania opinii w charakterze biegłego w sprawach karnych;
+G.W16. zasady opiniowania sądowo-lekarskiego dotyczące zdolności do udziału w czynnościach procesowych, skutku biologicznego oraz uszczerbku na zdrowiu;
+G.W17. pojęcie błędu medycznego, najczęstsze przyczyny błędów medycznych i zasady opiniowania w takich przypadkach;
+G.W18. zasady pobierania materiału do badań toksykologicznych i hemogenetycznych.
+W zakresie umiejętności absolwent potrafi: G.U1. opisywać strukturę demograficzną ludności i na tej podstawie oceniać problemy zdrowotne populacji;
+G.U2. zbierać informacje na temat obecności czynników ryzyka chorób zakaźnych i przewlekłych oraz planować działania profilaktyczne na różnym poziomie zapobiegania;
+G.U3. interpretować miary częstości występowania chorób i niepełnosprawności;
+G.U4. oceniać sytuację epidemiologiczną chorób powszechnie występujących w Rzeczypospolitej Polskiej i na świecie;
+G.U5. wyjaśniać osobom korzystającym ze świadczeń medycznych ich podstawowe uprawnienia oraz podstawy prawne udzielania tych świadczeń;
+G.U6. sporządzać zaświadczenia lekarskie na potrzeby pacjentów, ich rodzin i innych podmiotów;
+G.U7. rozpoznawać podczas badania dziecka zachowania i objawy wskazujące na możliwość wystąpienia przemocy wobec dziecka;
+G.U8. działać w sposób umożliwiający unikanie błędów medycznych;
+G.U9. pobierać krew do badań toksykologicznych i zabezpieczać materiał do badań hemogenetycznych.
+IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie tradycyjnego egzaminu klinicznego lub egzaminu standaryzowanego (Objective Structured Clinical Examination, OSCE) i jego modyfikacji (Mini-Cex). Egzamin OSCE jest wskazany w szczególności jako forma sprawdzania całości umiejętności klinicznych nabytych w trakcie praktycznego nauczania klinicznego na VI roku studiów.
+Standard kształcenia przygotowującego do wykonywania zawodu lekarza dentysty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu lekarza dentysty prowadzonego na studiach na kierunku lekarsko-dentystycznym, zwanych dalej „studiami”.
+1.2. Studia są jednolitymi studiami magisterskimi.
+1.3. Studia trwają 10 semestrów.
+1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5000.
+1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
+1.6. Kierunek lekarsko-dentystyczny jest przyporządkowany do dyscypliny naukowej nauki medyczne, jako dyscypliny wiodącej.
+1.7. Studia mają profil ogólnoakademicki.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów, w szczególności zajęć praktycznych (klinicznych);
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. Program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba szczegółowe efekty uczenia się punktów ECTS A. Nauki morfologiczne 225 18 B. Naukowe podstawy medycyny 330 24 C. Nauki przedkliniczne 255 20 D. Nauki behawioralne 135 8 E. Nauki kliniczne ogólnolekarskie (niezabiegowe) 565 32 F. Nauki kliniczne kierunkowe (zabiegowe) 1520 85 G. Prawno-organizacyjne podstawy medycyny 75 5 H. Praktyczne nauczanie kliniczne 900 60 I. Praktyki zawodowe 480 16 Razem 4485 268
+3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 515 godzin zajęć (32 punkty ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności lub kompetencje społeczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 2% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.2. Zajęcia realizowane w warunkach symulacji stanowią nie więcej niż 30% godzin zajęć umożliwiających osiągnięcie efektów uczenia się w grupach zajęć C, E i F.
+3.3. Nie mniej niż 70% godzin zajęć umożliwiających osiągnięcie efektów uczenia się w grupie zajęć F odbywa się w formie ćwiczeń do IV roku studiów włącznie.
+3.4. Na V roku studiów poza zajęciami praktycznymi mogą być realizowane inne zajęcia uwzględniające treści kształcenia związane z organizacją i zarządzaniem gabinetem stomatologicznym oraz przepisami prawa w zakresie medycyny.
+3.5. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.6. Program studiów umożliwia studentom uzyskanie nie mniej niż 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych.
+3.7. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYCZNE NAUCZANIE KLINICZNE NA V ROKU STUDIÓW
+4.1. Praktyczne nauczanie kliniczne na V roku studiów obejmuje zajęcia realizowane w formie seminariów i ćwiczeń, w jednostkach organizacyjnych uczelni, w których prowadzone jest leczenie pacjentów, w szczególności w klinikach i zakładach, w wymiarze: Zakres praktycznego nauczania klinicznego Liczba godzin Stomatologia zachowawcza z endodoncją 140 Protetyka 140 Chirurgia stomatologiczna 110 Stomatologia dziecięca 100 Choroby przyzębia i błony śluzowej 95 Chirurgia szczękowo-twarzowa 60 Radiologia stomatologiczna 15 Ortodoncja 90 Gerostomatologia 45 Stomatologia zintegrowana wieku rozwojowego 40 Stomatologia zintegrowana wieku dorosłego 65 Razem 900
+4.2. Zajęcia służące osiągnięciu efektów uczenia się w grupach zajęć E i F są prowadzone zgodnie z ramowym programem określonym w przepisach wydanych na podstawie art. 5 ust. 14 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty.
+4.3. Zajęcia w ramach praktycznego nauczania klinicznego są realizowane w grupach liczących nie więcej niż 5 studentów.
+4.4. Z ogólnej liczby godzin zajęć przewidzianych do realizacji w ramach praktycznego nauczania klinicznego na V roku studiów, nie więcej niż 15% liczby godzin można przeznaczyć na zajęcia seminaryjne.
+5. PRAKTYKI ZAWODOWE
+5.1. Praktyki zawodowe obejmują doskonalenie umiejętności zawodowych w wymiarze: Zakres praktyk zawodowych Liczba tygodni Liczba godzin Organizacja ochrony zdrowia 2 60 Chirurgia ogólna, choroby wewnętrzne lub chirurgia 2 60 szczękowo-twarzowa Asysta lekarzowi dentyście 4 120 Praktyka lekarsko-dentystyczna w gabinecie 8 240 stomatologicznym Razem 16 480
+5.2. Praktyki zawodowe są realizowane w okresie wakacji. Praktyki zawodowe służą osiągnięciu wybranych efektów uczenia się. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+6. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+6.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się, w skład której wchodzą w szczególności prosektorium i pracownia mikroskopowa oraz niezbędny sprzęt i urządzenia stomatologiczne, umożliwiające prowadzenie zajęć we wszystkich specjalnościach klinicznych. Zajęcia z zakresu nauk klinicznych (grupy zajęć E i F) są prowadzone w podmiotach leczniczych, które ze względu na swoją specyfikę, liczbę udzielanych świadczeń zdrowotnych oraz posiadaną bazę kadrową i sprzętową, zapewniają studentom możliwość osiągnięcia efektów uczenia się z zakresu nauk klinicznych.
+6.2. Praktyczne nauczanie kliniczne i praktyki zawodowe odbywają się w oparciu o infrastrukturę uczelni oraz infrastrukturę podmiotów leczniczych, z którymi uczelnia zawarła umowy lub porozumienia w tym zakresie, w tym z wykorzystaniem symulowanych warunków klinicznych.
+6.3. Praktyki zawodowe odbywają się w oparciu o kliniczną bazę dydaktyczną uczelni, a także w podmiotach leczniczych, z którymi uczelnia zawarła umowy lub porozumienia w tym zakresie.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć E i F jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy, prawo wykonywania zawodu lekarza lub lekarza dentysty oraz tytuł specjalisty lub specjalizację w dziedzinie medycyny adekwatnej do prowadzonych zajęć, a także przy współudziale innych osób posiadających dorobek naukowy lub doświadczenie kliniczne, w zakresie właściwym do prowadzonych zajęć.
+III. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) zagadnienia z zakresu medycyny i nauk przyrodniczych w podstawowym zakresie;
+2) zagadnienia z zakresu stomatologii w stopniu zaawansowanym;
+3) problematykę edukacji prozdrowotnej;
+4) zasady prowadzenia badań naukowych i upowszechniania ich wyników;
+5) organizację praktyki lekarza dentysty i zasady zarządzania w systemie ochrony zdrowia.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) przeprowadzić diagnostykę najczęstszych chorób, ocenić i opisać stan somatyczny i psychiczny pacjenta;
+2) prowadzić profesjonalną opiekę dentystyczną w zakresie profilaktyki, leczenia, promocji zdrowia i edukacji prozdrowotnej;
+3) zaplanować leczenie w zakresie problemów stomatologicznych;
+4) prowadzić postępowanie kliniczne oparte na wiedzy i respektujące zasady humanitaryzmu;
+5) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy;
+6) inspirować proces uczenia się innych osób;
+7) komunikować się z pacjentem i jego rodziną w atmosferze zaufania, z uwzględnieniem potrzeb pacjenta;
+8) komunikować się ze współpracownikami w zespole i dzielić się wiedzą;
+9) krytycznie oceniać wyniki badań naukowych i odpowiednio uzasadniać stanowisko.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) nawiązania i utrzymania głębokiego oraz pełnego szacunku kontaktu z pacjentem, a także okazywania zrozumienia dla różnic światopoglądowych i kulturowych;
+2) kierowania się dobrem pacjenta;
+3) przestrzegania tajemnicy lekarskiej i praw pacjenta;
+4) podejmowania działań wobec pacjenta w oparciu o zasady etyczne, ze świadomością społecznych uwarunkowań i ograniczeń wynikających z choroby;
+5) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
+6) propagowania zachowań prozdrowotnych;
+7) korzystania z obiektywnych źródeł informacji;
+8) formułowania wniosków z własnych pomiarów lub obserwacji;
+9) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
+10) formułowania opinii dotyczących różnych aspektów działalności zawodowej;
+11) przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI MORFOLOGICZNE W zakresie wiedzy absolwent zna i rozumie: A.W1. struktury organizmu ludzkiego: komórki, tkanki, narządy i układy, ze szczególnym uwzględnieniem układu stomatognatycznego;
+A.W2. rozwój narządów i całego organizmu, ze szczególnym uwzględnieniem narządu żucia;
+A.W3. budowę ciała ludzkiego w podejściu topograficznym i czynnościowym;
+A.W4. rolę układu nerwowego w funkcjonowaniu poszczególnych narządów;
+A.W5. znaczenie czynnościowe poszczególnych narządów i tworzonych przez nie układów;
+A.W6. anatomiczne uzasadnienie badania przedmiotowego.
+W zakresie umiejętności absolwent potrafi: A.U1. interpretować relacje anatomiczne zilustrowane podstawowymi metodami badań diagnostycznych z zakresu radiologii (zdjęcia przeglądowe i z użyciem środków kontrastowych);
+A.U2. obsługiwać mikroskop, w tym w zakresie korzystania z immersji, oraz rozpoznawać pod mikroskopem strukturę histologiczną narządów i tkanek, a także dokonywać opisu i interpretacji budowy mikroskopowej komórek, tkanek i narządów oraz ich funkcji.
+B. NAUKOWE PODSTAWY MEDYCYNY W zakresie wiedzy absolwent zna i rozumie: B.W1. znaczenie pierwiastków głównych i śladowych w procesach zachodzących w organizmie, z uwzględnieniem podaży, wchłaniania i transportu;
+B.W2. znaczenie elektrolitów, układów buforowych i reakcji chemicznych w układach biologicznych;
+B.W3. biochemiczne podstawy integralności organizmu ludzkiego;
+B.W4. budowę i funkcje ważnych związków chemicznych występujących w organizmie ludzkim, w szczególności właściwości, funkcje, metabolizm i energetykę reakcji białek, kwasów nukleinowych, węglowodanów, lipidów, enzymów i hormonów;
+B.W5. zasady gospodarki wapniowej i fosforanowej;
+B.W6. rolę i znaczenie płynów ustrojowych, z uwzględnieniem śliny;
+B.W7. zasady statyki i biomechaniki w odniesieniu do organizmu ludzkiego;
+B.W8. mechanikę narządu żucia;
+B.W9. metody obrazowania tkanek i narządów oraz zasady działania urządzeń diagnostycznych służących do tego celu;
+B.W10. zasady działania urządzeń ultradźwiękowych;
+B.W11. zasady fotometrii i światłowodów oraz wykorzystania źródeł światła w stomatologii;
+B.W12. zasady działania laserów w stomatologii;
+B.W13. zasady działania sprzętu stomatologicznego;
+B.W14. podstawowe pojęcia z zakresu biologii i ekologii;
+B.W15. współzależności między organizmami w ekosystemie;
+B.W16. interakcje w układzie pasożyt żywiciel;
+B.W17. wybrane zagadnienia z zakresu genetyki i biologii molekularnej;
+B.W18. kliniczne zastosowanie zasad genetyki;
+B.W19. funkcje życiowe człowieka;
+B.W20. neurohormonalną regulację procesów fizjologicznych;
+B.W21. zasady równowagi kwasowo-zasadowej oraz transportu tlenu i dwutlenku węgla w organizmie;
+B.W22. zasady metabolizmu i żywienia;
+B.W23. wartość liczbową podstawowych zmiennych fizjologicznych i zmiany wartości liczbowych.
+W zakresie umiejętności absolwent potrafi: B.U1. odnosić zjawiska chemiczne do procesów zachodzących w jamie ustnej;
+B.U2. interpretować zjawiska fizyczne zachodzące w narządzie żucia;
+B.U3. wykorzystywać procesy fizyczne właściwe dla pracy lekarza dentysty;
+B.U4. wykorzystywać pojęcia biologiczne i ekologiczne w kontekście człowiek środowisko życia;
+B.U5. stosować wiedzę z zakresu genetyki i biologii molekularnej w pracy klinicznej.
+C. NAUKI PRZEDKLINICZNE W zakresie wiedzy absolwent zna i rozumie: C.W1. rodzaje i gatunki oraz budowę wirusów, bakterii, grzybów i pasożytów, ich cechy biologiczne i mechanizmy chorobotwórczości;
+C.W2. fizjologiczną florę bakteryjną człowieka;
+C.W3. podstawy epidemiologii zarażeń wirusowych i bakteryjnych, zakażeń grzybiczych i pasożytniczych oraz dróg ich szerzenia się w organizmie człowieka;
+C.W4. gatunki bakterii, wirusów i grzybów będących najczęstszymi czynnikami etiologicznymi zarażeń, zakażeń i infekcji;
+C.W5. podstawy dezynfekcji, sterylizacji i postępowania aseptycznego;
+C.W6. czynniki chorobotwórcze zewnętrzne i wewnętrzne;
+C.W7. budowę układu odpornościowego i jego rolę;
+C.W8. humoralne i komórkowe mechanizmy odporności wrodzonej i nabytej oraz mechanizmy reakcji nadwrażliwości i procesów autoimmunologicznych;
+C.W9. zjawisko powstawania lekooporności;
+C.W10. podstawy immunodiagnostyki i immunomodulacji;
+C.W11. patomechanizm chorób alergicznych, wybranych chorób uwarunkowanych nadwrażliwością, autoimmunizacyjnych i niedoborów odporności;
+C.W12. pojęcia homeostazy, adaptacji, oporności, odporności, skłonności, podatności, mechanizmów kompensacyjnych, sprzężeń zwrotnych i mechanizmu „błędnego koła”;
+C.W13. pojęcie zdrowia i choroby, mechanizmów powstawania oraz rozwoju procesu chorobowego na poziomie molekularnym, komórkowym, tkankowym oraz ogólnoustrojowym, objawów klinicznych choroby, rokowań i powikłań choroby;
+C.W14. mechanizmy odczynu zapalnego i gojenia się ran;
+C.W15. podstawowe zaburzenia regulacji wydzielania hormonów, gospodarki wodnej i elektrolitowej, równowagi kwasowo-zasadowej, pracy nerek i płuc oraz mechanizmy powstawania i skutki zaburzeń w układzie sercowo-naczyniowym, w tym wstrząs;
+C.W16. metody diagnostyczne wykorzystywane w patomorfologii oraz rolę badań laboratoryjnych w profilaktyce i rozpoznawaniu zaburzeń narządowych i układowych;
+C.W17. znamiona śmierci i zmiany pośmiertne oraz zasady techniki i diagnostyki sekcyjnej zwłok;
+C.W18. mechanizmy działania leków oraz farmakokinetykę i biotransformację poszczególnych grup leków;
+C.W19. wskazania oraz przeciwwskazania do stosowania leków, ich dawkowanie, działania niepożądane i toksyczne oraz interakcje między lekami;
+C.W20. zasady terapii zakażeń wirusowych, bakteryjnych, grzybiczych i pasożytniczych;
+C.W21. zasady zapobiegania bólowi i lękowi oraz zwalczania ich, a także farmakologię leków stosowanych w stanach zagrożenia życia;
+C.W22. zasady zapisywania wybranych postaci leków gotowych i recepturowych na recepcie;
+C.W23. wyposażenie gabinetu stomatologicznego i instrumentarium stosowane w zabiegach stomatologicznych;
+C.W24. definicję oraz klasyfikację podstawowych i pomocniczych materiałów stomatologicznych;
+C.W25. skład, budowę, sposób wiązania, właściwości, przeznaczenie i sposób użycia materiałów stomatologicznych;
+C.W26. właściwości powierzchniowe twardych tkanek zęba oraz biomateriałów stomatologicznych;
+C.W27. zjawisko adhezji i mechanizmów wytwarzania adhezyjnego połączenia oraz procedury adhezyjnego przygotowania powierzchni szkliwa, zębiny oraz biomateriałów stomatologicznych;
+C.W28. podstawowe procedury kliniczne rekonstrukcji tkanek twardych zębów i leczenia endodontycznego oraz metody i techniczno-laboratoryjne procedury wykonywania uzupełnień protetycznych;
+C.W29. mechanizmy degradacji (korozji) biomateriałów stomatologicznych w jamie ustnej i ich wpływ na biologiczne właściwości materiałów;
+C.W30. mechanizmy prowadzące do patologii narządowych i ustrojowych, w tym chorób infekcyjnych, inwazyjnych, autoimmunologicznych, z niedoboru odporności, metabolicznych i genetycznych;
+C.W31. wpływ na organizm pacjenta czynników fizycznych, chemicznych i biologicznych oraz awitaminoz i stresu;
+C.W32. podstawowe procedury kliniczne profilaktyki periodontologicznej;
+C.W33. podstawowe procedury kliniczne profilaktyki ortodontycznej.
+W zakresie umiejętności absolwent potrafi: C.U1. pobierać odpowiednio dobrany rodzaj materiału biologicznego do badania mikrobiologicznego w zależności od umiejscowienia i przebiegu zakażenia;
+C.U2. interpretować wyniki badań mikrobiologicznych, serologicznych i antybiogramu;
+C.U3. dobierać i wykonywać testy wskazujące na liczebność bakterii w płynach ustrojowych;
+C.U4. przewidywać i wyjaśniać złożone patomechanizmy zaburzeń prowadzących do powstawania chorób;
+C.U5. analizować przebieg kliniczny chorób w procesach patologicznych;
+C.U6. określać zmiany patologiczne komórek, tkanek i narządów w zakresie zaburzeń w krążeniu, zmian wstecznych, zmian postępowych oraz zapaleń;
+C.U7. określać zmiany patologiczne wywołane zakażeniem wirusem HIV i obserwowane u pacjentów z zespołem nabytego upośledzenia odporności (AIDS);
+C.U8. dobierać leki w odpowiednich dawkach i ordynować leki według wskazań;
+C.U9. przeprowadzać leczenie endodontyczne oraz rekonstruować brakujące zmineralizowane tkanki w zębie fantomowym;
+C.U10. stosować techniki adhezyjne;
+C.U11. dokonywać wyboru biomateriałów odtwórczych, protetycznych oraz łączących, w oparciu o własności materiałów i warunki kliniczne;
+C.U12. odwzorowywać anatomiczne warunki zgryzowe i dokonywać analizy okluzji;
+C.U13. projektować uzupełnienia protetyczne zgodnie z zasadami ich wykonania laboratoryjnego;
+C.U14. określać zmiany patologiczne komórek, tkanek i narządów według podstawowych mechanizmów;
+C.U15. planować podstawowe etapy opieki profilaktycznej u pacjentów z obszaru potrzeb periodontologicznych;
+C.U16. planować podstawowe etapy opieki profilaktycznej u pacjentów z obszaru potrzeb ortodontycznych.
+D. NAUKI BEHAWIORALNE W zakresie wiedzy absolwent zna i rozumie: D.W1. aktualne poglądy na temat społecznego wymiaru zdrowia i choroby, wpływu środowiska społecznego (rodziny, sieci relacji społecznych) i nierówności społecznych oraz społeczno-kulturowych różnic na stan zdrowia, a także rolę stresu społecznego w zachowaniach zdrowotnych i autodestrukcyjnych;
+D.W2. formy przemocy, modele wyjaśniające przemoc w rodzinie i przemoc w wybranych instytucjach, społeczne uwarunkowania różnych form przemocy oraz rolę lekarza i lekarza dentysty w jej rozpoznawaniu;
+D.W3. postawy społeczne wobec znaczenia zdrowia, choroby, niepełnosprawności i starości, konsekwencje społeczne choroby i niepełnosprawności oraz bariery społeczno-kulturowe, a także koncepcję jakości życia uwarunkowaną stanem zdrowia;
+D.W4. znaczenie komunikacji werbalnej i niewerbalnej w procesie komunikowania się z pacjentem i pojęcie zaufania w interakcji z pacjentem;
+D.W5. funkcjonowanie podmiotów systemu ochrony zdrowia oraz społeczną rolę lekarza i lekarza dentysty;
+D.W6. podstawowe psychologiczne mechanizmy funkcjonowania człowieka w zdrowiu i w chorobie;
+D.W7. prawidłowości rozwoju psychicznego człowieka i rolę rodziny pacjenta w procesie leczenia;
+D.W8. problematykę adaptacji pacjenta i jego rodziny do choroby jako sytuacji trudnej oraz do związanych z nią wydarzeń, w tym umierania i procesu żałoby rodziny;
+D.W9. mechanizmy radzenia sobie ze stresem i jego rolę w etiopatogenezie i przebiegu chorób;
+D.W10. mechanizmy uzależnień od substancji psychoaktywnych oraz cele i sposoby leczenia;
+D.W11. zasady motywowania pacjenta do prozdrowotnych zachowań i informowania o niepomyślnym rokowaniu;
+D.W12. zasady altruizmu i odpowiedzialności klinicznej;
+D.W13. zasady funkcjonowania zespołu terapeutycznego;
+D.W14. imperatyw i wzorzec zachowania lekarza i lekarza dentysty ustalony przez samorząd zawodowy lekarzy i lekarzy dentystów;
+D.W15. prawa pacjenta;
+D.W16. historię medycyny, ze szczególnym uwzględnieniem historii stomatologii;
+D.W17. proces kształtowania się nowych specjalności w zakresie dyscypliny naukowej nauki medyczne i osiągnięcia czołowych przedstawicieli medycyny polskiej i światowej.
+W zakresie umiejętności absolwent potrafi: D.U1. uwzględniać w procesie postępowania terapeutycznego subiektywne potrzeby i oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
+D.U2. dostrzegać i reagować na oznaki zachowań antyzdrowotnych i autodestrukcyjnych;
+D.U3. wybierać takie leczenie, które minimalizuje konsekwencje społeczne dla pacjenta;
+D.U4. budować atmosferę zaufania podczas całego procesu diagnostycznego i leczenia;
+D.U5. podejmować działania zmierzające do poprawy jakości życia pacjenta i zapobiegania pogorszeniu się jej w przyszłości;
+D.U6. przeprowadzać rozmowę z pacjentem dorosłym, dzieckiem i rodziną z zastosowaniem techniki aktywnego słuchania i wyrażania empatii;
+D.U7. identyfikować czynniki ryzyka wystąpienia przemocy, rozpoznawać przemoc i odpowiednio reagować;
+D.U8. stosować w podstawowym zakresie psychologiczne interwencje motywujące i wspierające;
+D.U9. rozpoznawać przesłanki podjęcia działań lekarskich bez zgody pacjenta lub z zastosowaniem przymusu wobec pacjenta i stosować środki przewidziane przepisami prawa powszechnie obowiązującego;
+D.U10. pracować w zespole wielospecjalistycznym, w środowisku wielokulturowym i wielonarodowościowym;
+D.U11. przestrzegać wzorców etycznych w działaniach zawodowych;
+D.U12. przestrzegać praw pacjenta;
+D.U13. wykorzystywać i przetwarzać informacje, stosując narzędzia informatyczne i korzystając z nowoczesnych źródeł wiedzy medycznej;
+D.U14. planować pracę zespołu stomatologicznego oraz wyposażenie gabinetu stomatologicznego zgodnie z zasadami ergonomii i bezpieczeństwa pracy;
+D.U15. porozumiewać się z pacjentem w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego;
+D.U16. krytycznie analizować piśmiennictwo medyczne, w tym w języku angielskim, i wyciągać wnioski.
+E. NAUKI KLINICZNE OGÓLNOLEKARSKIE (NIEZABIEGOWE) W zakresie wiedzy absolwent zna i rozumie: E.W1. związek między nieprawidłowościami morfologicznymi a funkcją zmienionych narządów i układów oraz objawami klinicznymi a możliwościami diagnostyki i leczenia;
+E.W2. podstawowe metody badania lekarskiego oraz rolę badań dodatkowych w rozpoznawaniu, monitorowaniu, rokowaniu i profilaktyce zaburzeń narządowych i układowych, ze szczególnym uwzględnieniem ich oddziaływania na tkanki jamy ustnej;
+E.W3. etiopatogenezę i symptomatologię chorób układu oddechowego, krążenia, krwiotwórczego, moczowo-płciowego, immunologicznego, pokarmowego, ruchu oraz gruczołów dokrewnych, ze szczególnym uwzględnieniem chorób, których objawy występują w jamie ustnej;
+E.W4. zasady postępowania z poszkodowanymi w urazach wielonarządowych;
+E.W5. zasady organizacji akcji ratunkowej w katastrofach i awariach, fazy akcji ratunkowej i zakres udzielania pomocy poszkodowanym;
+E.W6. neurologiczne skutki przewlekłego zażywania leków;
+E.W7. objawy ostrych chorób jamy brzusznej, zatrucia, zakażenia i posocznicy;
+E.W8. objawy wirusowego zapalenia wątroby, zakażenia wirusem HIV i zespołu nabytego upośledzenia odporności (AIDS) w chorobach zakaźnych i pasożytniczych;
+E.W9. zasady uodparniania przeciw chorobom zakaźnym u dzieci i dorosłych;
+E.W10. uwarunkowania hormonalne organizmu kobiety w poszczególnych okresach życia;
+E.W11. wpływ odżywiania i uzależnień kobiety w ciąży na rozwój płodu;
+E.W12. zasady opieki stomatologicznej nad kobietą w ciąży;
+E.W13. zasady diagnostyki chorób oczu, w tym urazów oka;
+E.W14. rolę zakażeń odogniskowych w chorobach narządu wzroku;
+E.W15. metody diagnostyki cytologicznej oraz cytodiagnostyczne kryteria rozpoznawania i różnicowania chorób nowotworowych i nienowotworowych;
+E.W16. immunologiczne aspekty transplantacji i krwiolecznictwa;
+E.W17. przyczyny i mechanizmy zatrzymania krążenia i oddychania oraz zasady prowadzenia reanimacji i postępowania po reanimacji;
+E.W18. stany zagrożenia życia;
+E.W19. metody stosowane w rehabilitacji medycznej, jej cele i metodykę planowania;
+E.W20. przypadki, w których pacjenta należy skierować do szpitala.
+W zakresie umiejętności absolwent potrafi: E.U1. przeprowadzać diagnostykę różnicową najczęstszych chorób;
+E.U2. oceniać i opisywać stan somatyczny i psychiczny pacjenta;
+E.U3. planować postępowanie diagnostyczne i terapeutyczne w przypadku najczęstszych chorób;
+E.U4. interpretować wyniki badań laboratoryjnych;
+E.U5. identyfikować prawidłowe i patologiczne struktury i narządy w dodatkowych badaniach obrazowych (RTG, USG, tomografia komputerowa CT);
+E.U6. planować postępowanie w przypadku ekspozycji na zakażenie przenoszone drogą krwi;
+E.U7. dokonywać kwalifikacji pacjenta do szczepień;
+E.U8. rozpoznawać ryzyko zagrożenia życia;
+E.U9. opisywać i rozpoznawać objawy wstrząsu i ostrej niewydolności krążenia;
+E.U10. rozpoznawać objawy urazów mózgu i chorób naczyniowych mózgu, zespołów otępiennych i zaburzeń świadomości;
+E.U11. diagnozować bóle głowy i twarzy oraz choroby neurologiczne dorosłych i dzieci stwarzające problemy w praktyce stomatologicznej;
+E.U12. rozpoznawać choroby jamy nosowo-gardłowej, ich etiologię i patomechanizm;
+E.U13. wstępnie diagnozować zmiany nowotworowe w obrębie nosa, gardła i krtani;
+E.U14. diagnozować i leczyć choroby skóry: infekcyjne, alergiczne i przenoszone drogą płciową;
+E.U15. rozpoznawać nowotwory skóry i stany przednowotworowe;
+E.U16. rozpoznawać dermatozy i kolagenozy przebiegające z objawami w obrębie błony śluzowej jamy ustnej;
+E.U17. rozpoznawać choroby związane z nałogiem palenia tytoniu, alkoholizmem i innymi uzależnieniami;
+E.U18. diagnozować choroby przebiegające z powiększeniem węzłów chłonnych szyi i okolicy podżuchwowej oraz choroby zakaźne, ze szczególnym uwzględnieniem zmian w obrębie jamy ustnej;
+E.U19. omawiać i diagnozować wybrane choroby układu optycznego i ochronnego oka;
+E.U20. wykonywać podstawowe procedury i zabiegi medyczne: pomiar temperatury, pomiar tętna, nieinwazyjny pomiar ciśnienia tętniczego, leczenie tlenem, wentylację wspomaganą i zastępczą, wprowadzenie rurki ustno-gardłowej, przygotowanie pola operacyjnego, higieniczne i chirurgiczne odkażanie rąk, wstrzyknięcie dożylne, domięśniowe i podskórne, pobieranie obwodowej krwi żylnej, pobieranie wymazów z nosa, gardła i skóry, proste testy paskowe, pomiar stężenia glukozy we krwi.
+F. NAUKI KLINICZNE KIERUNKOWE (ZABIEGOWE) W zakresie wiedzy absolwent zna i rozumie: F.W1. normy zgryzowe na różnych etapach rozwoju osobniczego i odchylenia od norm;
+F.W2. zasady postępowania profilaktyczno-leczniczego w chorobach narządu żucia w różnym okresie rozwoju;
+F.W3. florę wirusową, bakteryjną i grzybiczą jamy ustnej i jej znaczenie;
+F.W4. objawy, przebieg i sposoby postępowania w określonych chorobach jamy ustnej, głowy i szyi, z uwzględnieniem grup wiekowych;
+F.W5. zasady postępowania w przypadku chorób miazgi i zmineralizowanych tkanek zębów oraz urazów zębów i kości twarzy;
+F.W6. zasady postępowania w przypadku chorób tkanek okołowierzchołkowych;
+F.W7. morfologię jam zębowych i zasady leczenia endodontycznego oraz instrumentarium stosowane w tym leczeniu;
+F.W8. zasady postępowania w przypadku torbieli, stanów przednowotworowych oraz nowotworów głowy i szyi;
+F.W9. diagnostykę i sposoby leczenia przyzębia oraz chorób błony śluzowej jamy ustnej;
+F.W10. wskazania i przeciwwskazania do leczenia z wykorzystaniem wszczepów stomatologicznych;
+F.W11. wskazania i przeciwwskazania do wykonania zabiegów w zakresie stomatologii estetycznej;
+F.W12. przyczyny powikłań chorób układu stomatognatycznego i zasady postępowania w przypadku takich powikłań;
+F.W13. podstawy antybiotykoterapii i oporności przeciwantybiotykowej;
+F.W14. metody rehabilitacji narządu żucia;
+F.W15. metody terapeutyczne ograniczania i znoszenia bólu oraz ograniczania lęku i stresu;
+F.W16. zasady znieczulenia w zabiegach stomatologicznych i podstawowe środki farmakologiczne;
+F.W17. zasady budowy i działania aparatów ortodontycznych ruchomych i stałych;
+F.W18. zasady diagnostyki radiologicznej;
+F.W19. patomechanizm oddziaływania chorób jamy ustnej na ogólny stan zdrowia;
+F.W20. patomechanizm oddziaływania chorób ogólnych lub stosowanych terapii na jamę ustną;
+F.W21. profilaktykę chorób jamy ustnej;
+F.W22. zasady postępowania w przypadku chorób tkanek narządu żucia, urazów zębów i kości szczęk;
+F.W23. specyfikę opieki stomatologicznej nad pacjentem obciążonym chorobą ogólną i zasady współpracy z lekarzem prowadzącym chorobę podstawową.
+W zakresie umiejętności absolwent potrafi: F.U1. przeprowadzać wywiad lekarski z pacjentem lub jego rodziną;
+F.U2. przeprowadzać stomatologiczne badanie fizykalne pacjenta;
+F.U3. wyjaśniać pacjentowi istotę jego dolegliwości, ustalać sposób leczenia potwierdzony świadomą zgodą pacjenta oraz rokowanie;
+F.U4. przekazać pacjentowi lub jego rodzinie informacje o niekorzystnym rokowaniu;
+F.U5. pobierać i zabezpieczać materiał do badań diagnostycznych, w tym cytologicznych;
+F.U6. interpretować wyniki badań dodatkowych i konsultacji;
+F.U7. ustalać wskazania i przeciwwskazania do wykonania określonego zabiegu stomatologicznego;
+F.U8. prowadzić leczenie ostrych i przewlekłych, zębopochodnych i niezębopochodnych procesów zapalnych tkanek miękkich jamy ustnej, przyzębia oraz kości szczęk;
+F.U9. postępować w przypadku wystąpienia powikłań ogólnych i miejscowych podczas zabiegów stomatologicznych i po zabiegach stomatologicznych;
+F.U10. przepisywać leki z uwzględnieniem ich interakcji i działań ubocznych;
+F.U11. prowadzić bieżącą dokumentację pacjenta, wypisywać skierowania na badania lub leczenie specjalistyczne stomatologiczne i ogólnomedyczne;
+F.U12. formułować problemy badawcze w zakresie stomatologii;
+F.U13. przedstawiać wybrane problemy medyczne w formie ustnej lub pisemnej, w sposób adekwatny do poziomu odbiorców;
+F.U14. ocenić ryzyko próchnicy z zastosowaniem testów bakteriologicznych i badań śliny;
+F.U15. ustalać leczenie w chorobach tkanek układu stomatognatycznego;
+F.U16. stosować odpowiednie leki w czasie i po zabiegu stomatologicznym w celu zniesienia bólu i lęku;
+F.U17. diagnozować i leczyć w podstawowym zakresie choroby przyzębia;
+F.U18. diagnozować, różnicować i klasyfikować wady zgryzu;
+F.U19. udzielać pomocy w przypadku uszkodzenia aparatu ortodontycznego;
+F.U20. wykonywać proste aparaty ortodontyczne;
+F.U21. przeprowadzać leczenie zapobiegające wadom zgryzu w okresie uzębienia mlecznego i wczesnej wymiany uzębienia;
+F.U22. przeprowadzać rehabilitację protetyczną w prostych przypadkach w zakresie postępowania klinicznego i laboratoryjnego;
+F.U23. opisywać zdjęcia zębowe i pantomograficzne.
+G. PRAWNO-ORGANIZACYJNE PODSTAWY MEDYCYNY W zakresie wiedzy absolwent zna i rozumie: G.W1. pojęcie zdrowia publicznego oraz cele, zadania i strukturę publicznego systemu opieki zdrowotnej;
+G.W2. koncepcje i modele promocji zdrowia;
+G.W3. podstawowe pojęcia z zakresu profilaktyki, promocji zdrowia oraz higieny środowiskowej;
+G.W4. podstawowe pojęcia związane ze zdrowiem, stylem życia i stanem zdrowia populacji;
+G.W5. metody określania potrzeb zdrowotnych społeczeństwa;
+G.W6. sytuację zdrowotną w Rzeczypospolitej Polskiej i na świecie;
+G.W7. strategię polityki zdrowotnej i społecznej Rzeczypospolitej Polskiej oraz Unii Europejskiej;
+G.W8. aspekty organizacyjne i prawne funkcjonowania polskiego systemu opieki zdrowotnej;
+G.W9. zasady zarządzania podmiotami leczniczymi;
+G.W10. zasady funkcjonowania, zarządzania i informatyzacji podmiotów leczniczych i innych instytucji zdrowia publicznego;
+G.W11. zasady funkcjonowania podstawowej opieki zdrowotnej;
+G.W12. zasady negocjacji i zawierania umów o udzielanie świadczeń zdrowotnych w sektorze publicznym i niepublicznym;
+G.W13. etiologię chorób zawodowych określonych w przepisach prawa, w tym związanych z wykonywaniem zawodu lekarza dentysty;
+G.W14. wskaźniki stanu zdrowia ludności i zasady ich oceny;
+G.W15. zasady zapobiegania chorobom i poprawy stanu zdrowia;
+G.W16. zasady epidemiologicznego opracowania ogniska choroby zakaźnej;
+G.W17. zasady planowania i ewaluacji działań profilaktycznych;
+G.W18. zasady ergonomicznej organizacji pracy w gabinecie stomatologicznym i przeprowadzania zabiegów stomatologicznych;
+G.W19. zasady bezpieczeństwa i higieny pracy w stomatologii;
+G.W20. zasady postępowania w sytuacji zagrożenia epidemiologicznego;
+G.W21. źródła stresu i możliwości ich eliminacji;
+G.W22. zasady odpowiedzialności zawodowej lekarza dentysty (moralnej, etycznej, prawnej, materialnej i służbowej), a także obowiązki lekarza dentysty wobec pacjenta;
+G.W23. problematykę błędu lekarskiego: diagnostycznego, technicznego, terapeutycznego i organizacyjnego;
+G.W24. zasady odpowiedzialności za naruszenie zasad wykonywania zawodu lekarza dentysty;
+G.W25. podstawy prawne komunikowania się w medycynie;
+G.W26. prawa pacjenta;
+G.W27. zasady etyki i deontologii lekarskiej, problemy etyczne współczesnej medycyny wynikające z dynamicznego rozwoju nauki i technologii biomedycznych, a także zasady etycznego postępowania lekarza dentysty;
+G.W28. podstawy prawne funkcjonowania zawodów medycznych oraz samorządu zawodowego lekarzy i lekarzy dentystów w Rzeczypospolitej Polskiej;
+G.W29. przepisy prawa dotyczące prowadzenia działalności w zakresie opieki zdrowotnej;
+G.W30. podstawowe obowiązki pracownika i pracodawcy;
+G.W31. zasady udzielania świadczeń w razie choroby, macierzyństwa, wypadków przy pracy i chorób zawodowych;
+G.W32. zasady orzekania o czasowej niezdolności do pracy, niezdolności do pracy dla celów rentowych, a także o niepełnosprawności;
+G.W33. zasady postępowania ze zwłokami;
+G.W34. zasady prowadzenia, przechowywania i udostępniania dokumentacji medycznej oraz ochrony danych osobowych;
+G.W35. zagadnienia dotyczące serologii i genetyki sądowo-lekarskiej;
+G.W36. podstawy toksykologii sądowo-lekarskiej;
+G.W37. zasady sporządzania opinii w charakterze biegłego w sprawach karnych;
+G.W38. sądowe aspekty etologii człowieka.
+W zakresie umiejętności absolwent potrafi: G.U1. analizować dane o stanie zdrowia populacji, dane epidemiologiczne i określać na ich podstawie stan zdrowia populacji;
+G.U2. opisywać wybrane zjawiska zdrowotne w skali populacyjnej oraz prognozować ich wpływ na funkcjonowanie systemu ochrony zdrowia;
+G.U3. oceniać skalę problemów zdrowotnych oraz wskazywać priorytety zdrowotne i określać ich znaczenie w polityce zdrowotnej;
+G.U4. analizować uwarunkowania sytuacji epidemiologicznej w aspekcie procesów społecznych i demograficznych;
+G.U5. tworzyć proste programy badawcze z zakresu profilaktyki i leczenia;
+G.U6. identyfikować czynniki wpływające na politykę zdrowotną państwa;
+G.U7. planować działania z zakresu profilaktyki i promocji zdrowia oraz wdrażać działania promocyjne dotyczące zdrowia populacji;
+G.U8. analizować różne systemy finansowania świadczeń zdrowotnych w Rzeczypospolitej Polskiej i innych państwach;
+G.U9. przygotowywać oferty konkursowe związane z udzielaniem świadczeń zdrowotnych;
+G.U10. zorganizować i prowadzić gabinet stomatologiczny;
+G.U11. pracować w zespole i kierować zespołem w gabinecie stomatologicznym;
+G.U12. rozpoznawać czynniki szkodliwe i uciążliwe w miejscu pracy, zamieszkania lub nauki;
+G.U13. oceniać poziom zagrożeń dla zdrowia wynikających ze stanu powietrza, wody, gleby i jakości żywności;
+G.U14. potwierdzać lub wykluczać związek czynników środowiskowych z etiologią choroby, w tym choroby zawodowej;
+G.U15. dostarczać pacjentowi potrzebnych informacji w zakresie promocji zdrowia jamy ustnej;
+G.U16. przekazywać pacjentowi informacje na temat czynników ryzyka i sposobów zapobiegania najczęstszym chorobom społecznym w Rzeczypospolitej Polskiej;
+G.U17. interpretować podstawowe wskaźniki epidemiologiczne, definiować i oceniać rzetelność i trafność testów stosowanych w badaniach przesiewowych;
+G.U18. projektować badania epidemiologiczne;
+G.U19. przeprowadzać dochodzenie epidemiologiczne;
+G.U20. pracować z zachowaniem zasad ergonomicznej organizacji pracy;
+G.U21. stosować przepisy sanitarno-epidemiologiczne oraz dotyczące bezpieczeństwa i higieny pracy;
+G.U22. działać w warunkach niepewności i stresu;
+G.U23. wskazywać podobieństwa i różnice między normami etycznymi i prawnymi;
+G.U24. stosować przepisy prawa dotyczące wykonywania zawodu lekarza dentysty;
+G.U25. wyjaśniać i stosować normy zawarte w Kodeksie Etyki Lekarskiej oraz międzynarodowe normy etyki lekarskiej;
+G.U26. prowadzić dokumentację medyczną;
+G.U27. wystawiać orzeczenia lekarskie;
+G.U28. oceniać zmiany pośmiertne;
+G.U29. dokonywać identyfikacji zwłok na podstawie badania stomatologicznego;
+G.U30. oceniać skutki urazów twarzy i czaszki oraz dokonywać ich kwalifikacji w postępowaniu karnym i cywilnym.
+IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie tradycyjnego egzaminu klinicznego lub egzaminu standaryzowanego (Objective Structured Clinical Examination, OSCE) i jego modyfikacji (Mini-Cex). Egzamin OSCE jest wskazany w szczególności jako forma sprawdzania całości umiejętności klinicznych nabytych w trakcie praktycznego nauczania klinicznego na V roku studiów.
+Standard kształcenia przygotowującego do wykonywania zawodufarmaceuty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu farmaceuty prowadzonego na studiach na kierunku farmacja, zwanych dalej „studiami”.
+1.2. Studia są jednolitymi studiami magisterskimi.
+1.3. Studia trwają nie krócej niż 10 semestrów.
+1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5300.
+1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
+1.6. Kierunek farmacja jest przyporządkowany do dyscypliny naukowej nauki farmaceutyczne, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej nauki farmaceutyczne (np. synteza i technologia środków leczniczych, chemia leków, technologia postaci leku, farmakologia, farmakodynamika, farmakokinetyka);
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej nauki farmaceutyczne (np. opieka farmaceutyczna i farmacja społeczna, metody biologii molekularnej i biotechnologia farmaceutyczna);
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom (np. projektowanie leków, farmacja kliniczna, farmacja przemysłowa).
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów, i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba szczegółowe efekty uczenia się punktów ECTS A. Biomedyczne i humanistyczne podstawy farmacji 630 78 B. Fizykochemiczne podstawy farmacji 520 C. Analiza, synteza i technologia leków 840 145 D. Biofarmacja i skutki działania leków 530 (w tym 20 E. Praktyka farmaceutyczna 635 w grupie zajęć F) F. Metodologia badań naukowych 375 G. Praktyki zawodowe 1280 45 Razem 4810 268
+3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 490 godzin zajęć (32 punkty ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategoriach wiedzy, umiejętności lub kompetencji społecznych, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.2. Zajęcia z języka obcego są realizowane w grupie zajęć E. Na nauczanie języka obcego mogą być przeznaczone również godziny zajęć w ramach godzin pozostawionych do dyspozycji uczelni. W przypadku gdy łączna liczba godzin zajęć z języków obcych jest większa niż 180, uczelnia zwiększa o tę nadwyżkę ogólną liczbę godzin zajęć w programie studiów.
+3.3. Program studiów umożliwia studentom uzyskanie nie mniej niż:
+1) 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych;
+2) 20 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.4. Program studiów obejmuje zajęcia z zakresu ochrony własności intelektualnej, bezpieczeństwa i higieny pracy oraz ergonomii.
+3.5. Nie mniej niż 60% godzin zajęć w grupach zajęć A–F stanowią seminaria, ćwiczenia audytoryjne lub laboratoryjne.
+3.6. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.7. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYKI ZAWODOWE Rodzaj Zakres praktyk zawodowych Liczba Liczba praktyk godzin punktów zawodowych ECTS Praktyki miesięczna praktyka w aptece ogólnodostępnej (po III 160 6 wakacyjne roku studiów) miesięczna praktyka w aptece szpitalnej, z 160 6 możliwością odbycia jej części w wymiarze nieprzekraczającym 80 godzin w przedsiębiorstwach z sektora przemysłu farmaceutycznego, laboratoriach kontroli leków, stacjach sanitarno-epidemiologicznych lub oddziałach szpitalnych (po IV roku studiów) Praktyka sześciomiesięczna praktyka w aptece 960 33 w aptece ogólnodostępnej, z możliwością odbycia jej części w wymiarze nieprzekraczającym 3 miesięcy w aptece szpitalnej (po przygotowaniu pracy dyplomowej i egzaminie dyplomowym) Razem 1280 45
+4.1. Sześciomiesięczna praktyka w aptece stanowi integralną część procesu kształcenia i jest odbywana zgodnie z art. 2b ust. 1 pkt 1 i art. 2c ust. 1–5 ustawy z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. z 2019 r. poz. 1419, z późn. zm.) oraz przepisami wydanymi na podstawie art. 2c ust. 6 tej ustawy. Praktyka umożliwia nabycie umiejętności w zakresie:
+1) organizacji pracy w aptece;
+2) sporządzania, przechowywania i wydawania leków recepturowych i aptecznych oraz produktów leczniczych;
+3) udzielania informacji o lekach;
+4) prowadzenia opieki farmaceutycznej;
+5) stosowania zasad etyki zawodowej i obowiązującego prawa.
+4.2. Praktyki zawodowe służą osiągnięciu wybranych efektów uczenia się.
+Szczegółowy program praktyk, formę ich odbywania i sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się. Zajęcia kształtujące umiejętności praktyczne przewidziane programem studiów są realizowane w odpowiednio wyposażonych pracowniach, laboratoriach, aptekach oraz oddziałach szpitalnych.
+5.2. Nauczanie praktyczne może odbywać się w oparciu o infrastrukturę uczelni lub podmiotów wykonujących działalność leczniczą, z którymi uczelnie zawarły umowy lub porozumienia.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć A–E jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie dyscyplin naukowych nauki farmaceutyczne lub nauki medyczne, właściwym dla prowadzonych zajęć.
+III. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) problematykę z zakresu dyscypliny naukowej nauki farmaceutyczne w stopniu zaawansowanym;
+2) problematykę z zakresu dyscyplin naukowych nauki medyczne (w tym etiologię najczęstszych jednostek chorobowych), nauki biologiczne, nauki chemiczne, a także z dziedziny nauk społecznych w stopniu ogólnym;
+3) produkty lecznicze, substancje lecznicze i substancje wykorzystywane do wytwarzania leków, technologię farmaceutyczną, skutki działania substancji i produktów leczniczych na organizm człowieka;
+4) metody i techniki badania substancji i produktów leczniczych pod względem fizykochemicznym, farmaceutycznym, farmakokinetycznym, farmakologicznym, toksykologicznym i klinicznym;
+5) zasady praktycznej farmakoterapii specjalistycznej w zakresie medycyny rodzinnej, chorób wewnętrznych, pediatrii i geriatrii;
+6) zasady postępowania farmakoterapeutycznego i stosowania leków, wyrobów medycznych oraz środków spożywczych specjalnego przeznaczenia żywieniowego w procesie terapeutycznym;
+7) zasady sprawowania opieki farmaceutycznej;
+8) etyczne, prawne i społeczne uwarunkowania wykonywania zawodu farmaceuty.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) sporządzać leki i oceniać ich jakość oraz prowadzić obrót produktami leczniczymi i wyrobami medycznymi;
+2) sprawować nadzór na obrotem, przechowywaniem i stosowaniem substancji i produktów leczniczych, wyrobów medycznych oraz środków spożywczych specjalnego przeznaczenia żywieniowego;
+3) prowadzić badania chemiczne, farmaceutyczne, farmakologiczne, toksykologiczne oraz badania skuteczności i bezpieczeństwa substancji i produktów leczniczych;
+4) wyszukiwać, analizować i interpretować informacje dotyczące substancji i produktów leczniczych;
+5) wykorzystywać swoją wiedzę i umiejętności na rzecz pacjenta, w celu wspomagania i nadzorowania procesów związanych ze stosowaniem leków w terapii, diagnostyce i profilaktyce chorób;
+6) udzielać porad farmaceutycznych i prowadzić opiekę farmaceutyczną;
+7) wykorzystywać wiedzę w zakresie racjonalizacji i optymalizacji terapii, współpracując w zespole terapeutycznym;
+8) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy;
+9) inspirować proces uczenia się innych osób;
+10) komunikować się z pacjentem i jego rodziną w atmosferze zaufania, z uwzględnieniem potrzeb pacjenta i jego praw;
+11) komunikować się ze współpracownikami w zespole i dzielić się wiedzą;
+12) krytycznie oceniać wyniki badań naukowych i odpowiednio uzasadniać stanowisko.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) nawiązywania relacji z pacjentem i współpracownikami opartej na wzajemnym zaufaniu i poszanowaniu;
+2) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
+3) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
+4) przestrzegania tajemnicy dotyczącej stanu zdrowia, praw pacjenta oraz zasad etyki zawodowej;
+5) prezentowania postawy etyczno-moralnej zgodnej z zasadami etycznymi i podejmowania działań w oparciu o kodeks etyki w praktyce zawodowej;
+6) propagowania zachowań prozdrowotnych;
+7) korzystania z obiektywnych źródeł informacji;
+8) formułowania wniosków z własnych pomiarów lub obserwacji;
+9) formułowania opinii dotyczących różnych aspektów działalności zawodowej;
+10) przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. BIOMEDYCZNE I HUMANISTYCZNE PODSTAWY FARMACJI (biologia i genetyka, anatomia, fizjologia, patofizjologia, biochemia, immunologia, biologia molekularna, mikrobiologia, botanika, kwalifikowana pierwsza pomoc, historia filozofii, psychologia i socjologia) W zakresie wiedzy absolwent zna i rozumie: A.W1. organizację żywej materii i cytofizjologię komórki;
+A.W2. podstawy genetyki klasycznej, populacyjnej i molekularnej oraz genetyczne aspekty różnicowania komórek;
+A.W3. dziedziczenie monogenowe i poligenowe cech człowieka oraz genetyczny polimorfizm populacji ludzkiej;
+A.W4. budowę anatomiczną organizmu ludzkiego i podstawowe zależności między budową i funkcją organizmu w warunkach zdrowia i choroby;
+A.W5. mechanizmy funkcjonowania organizmu człowieka na poziomie molekularnym, komórkowym, tkankowym i systemowym;
+A.W6. podstawy patofizjologii komórki i układów organizmu ludzkiego;
+A.W7. zaburzenia funkcji adaptacyjnych i regulacyjnych organizmu ludzkiego;
+A.W8. budowę, właściwości i funkcje biologiczne aminokwasów, białek, nukleotydów, kwasów nukleinowych, węglowodanów, lipidów i witamin;
+A.W9. strukturę i funkcje błon biologicznych oraz mechanizmy transportu przez błony;
+A.W10. molekularne aspekty transdukcji sygnałów;
+A.W11. główne szlaki metaboliczne i ich współzależności, mechanizmy regulacji metabolizmu i wpływ leków na te procesy;
+A.W12. funkcjonowanie układu odpornościowego organizmu i mechanizmy odpowiedzi immunologicznej;
+A.W13. zasady prowadzenia diagnostyki immunologicznej oraz zasady i metody immunoprofilaktyki i immunoterapii;
+A.W14. molekularne podstawy regulacji cyklu komórkowego, proliferacji, apoptozy i transformacji nowotworowej;
+A.W15. problematykę rekombinacji i klonowania DNA;
+A.W16. funkcje oraz metody badania genomu i transkryptomu człowieka;
+A.W17. mechanizmy regulacji ekspresji genów oraz rolę epigenetyki w tym procesie;
+A.W18. charakterystykę bakterii, wirusów, grzybów i pasożytów oraz zasady diagnostyki mikrobiologicznej;
+A.W19. podstawy etiopatologii chorób zakaźnych;
+A.W20. zasady dezynfekcji i antyseptyki oraz wpływ środków przeciwdrobnoustrojowych na mikroorganizmy i zdrowie człowieka;
+A.W21. problemy zakażenia szpitalnego i zagrożenia ze strony patogenów alarmowych;
+A.W22. farmakopealne wymogi oraz metody badania czystości mikrobiologicznej i jałowości leków;
+A.W23. mikrobiologiczne metody badania mutagennego działania leków;
+A.W24. charakterystykę morfologiczną i anatomiczną organizmów prokariotycznych, grzybów i roślin dostarczających surowców leczniczych i materiałów stosowanych w farmacji;
+A.W25. metody badawcze stosowane w systematyce oraz poszukiwaniu nowych gatunków i odmian roślin leczniczych i grzybów leczniczych;
+A.W26. zasady prowadzenia zielnika, a także jego znaczenie i użyteczność w naukach farmaceutycznych;
+A.W27. metody oceny podstawowych funkcji życiowych człowieka w stanie zagrożenia oraz zasady udzielania kwalifikowanej pierwszej pomocy;
+A.W28. podstawowe problemy filozofii (metafizyka, epistemologia, aksjologia i etyka);
+A.W29. narzędzia psychologiczne i zasady komunikacji interpersonalnej z pacjentami, ich opiekunami, lekarzami oraz pozostałymi pracownikami systemu ochrony zdrowia;
+A.W30. społeczne uwarunkowania i ograniczenia wynikające z choroby i niepełnosprawności człowieka;
+A.W31. psychologiczne i społeczne aspekty postaw i działań pomocowych;
+A.W32. techniki biologii molekularnej w biotechnologii farmaceutycznej i terapii genowej.
+W zakresie umiejętności absolwent potrafi: A.U1. wykorzystywać wiedzę o genetycznym podłożu różnicowania organizmów oraz o mechanizmach dziedziczenia do scharakteryzowania polimorfizmu genetycznego;
+A.U2. oceniać uwarunkowania genetyczne rozwoju chorób w populacji ludzkiej;
+A.U3. stosować mianownictwo anatomiczne do opisu stanu zdrowia;
+A.U4. opisywać mechanizmy funkcjonowania organizmu ludzkiego na poziomie molekularnym, komórkowym, tkankowym i systemowym;
+A.U5. opisywać mechanizmy rozwoju zaburzeń czynnościowych oraz interpretować patofizjologiczne podłoże rozwoju chorób;
+A.U6. stosować wiedzę biochemiczną do oceny procesów fizjologicznych i patologicznych;
+A.U7. wykrywać i oznaczać białka, kwasy nukleinowe, węglowodany, lipidy, hormony i witaminy;
+A.U8. wykonywać badania kinetyki reakcji enzymatycznych;
+A.U9. opisywać i tłumaczyć mechanizmy i procesy immunologiczne w warunkach zdrowia i choroby;
+A.U10. izolować, oznaczać, amplifikować kwasy nukleinowe i przeprowadzać ich analizę;
+A.U11. stosować podstawowe techniki pracy związanej z drobnoustrojami oraz zasady pracy aseptycznej;
+A.U12. identyfikować drobnoustroje na podstawie cech morfologicznych oraz właściwości fizjologicznych i hodowlanych;
+A.U13. wykorzystywać metody immunologiczne oraz techniki biologii molekularnej w diagnostyce mikrobiologicznej;
+A.U14. badać i oceniać aktywność środków przeciwdrobnoustrojowych;
+A.U15. przeprowadzać kontrolę mikrobiologiczną leków metodami farmakopealnymi;
+A.U16. identyfikować i opisywać składniki strukturalne komórek, tkanek i organów roślin metodami mikroskopowymi i histochemicznymi;
+A.U17. rozpoznawać gatunki roślin leczniczych na podstawie cech morfologicznych i anatomicznych;
+A.U18. rozpoznawać sytuacje zagrażające zdrowiu lub życiu człowieka i udzielać kwalifikowanej pierwszej pomocy w sytuacjach zagrożenia zdrowia i życia;
+A.U19. inicjować i wspierać działania grupowe, pomocowe i zaradcze, wpływać na kształtowanie postaw oraz kierować zespołami ludzkimi;
+A.U20. oceniać działania oraz dylematy moralne w oparciu o zasady etyczne;
+A.U21. wykorzystywać narzędzia psychologiczne w komunikacji interpersonalnej z pacjentami, ich opiekunami, lekarzami oraz pozostałymi pracownikami systemu ochrony zdrowia.
+B. FIZYKOCHEMICZNE PODSTAWY FARMACJI (biofizyka, chemia ogólna i nieorganiczna, chemia analityczna, chemia fizyczna, chemia organiczna, matematyka, statystyka, technologia informacyjna) W zakresie wiedzy absolwent zna i rozumie: B.W1. fizyczne podstawy procesów fizjologicznych (krążenia, przewodnictwa nerwowego, wymiany gazowej, ruchu, wymiany substancji);
+B.W2. wpływ czynników fizycznych i chemicznych środowiska na organizm człowieka;
+B.W3. metodykę pomiarów wielkości biofizycznych;
+B.W4. biofizyczne podstawy technik diagnostycznych i terapeutycznych;
+B.W5. budowę atomu i cząsteczki, układ okresowy pierwiastków chemicznych i właściwości pierwiastków, w tym izotopów promieniotwórczych w aspekcie ich wykorzystania w diagnostyce i terapii;
+B.W6. mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań międzycząsteczkowych;
+B.W7. rodzaje i właściwości roztworów oraz metody ich sporządzania;
+B.W8. podstawowe typy reakcji chemicznych;
+B.W9. charakterystykę metali i niemetali oraz nomenklaturę i właściwości związków nieorganicznych stosowanych w diagnostyce i terapii chorób;
+B.W10. metody identyfikacji substancji nieorganicznych, w tym metody farmakopealne;
+B.W11. klasyczne metody analizy ilościowej;
+B.W12. podstawy teoretyczne i metodyczne technik spektroskopowych, elektrochemicznych, chromatograficznych i spektrometrii mas oraz zasady funkcjonowania urządzeń stosowanych w tych technikach;
+B.W13. kryteria wyboru metody analitycznej;
+B.W14. zasady walidacji metody analitycznej;
+B.W15. podstawy termodynamiki i kinetyki chemicznej oraz kwantowe podstawy budowy materii;
+B.W16. fizykochemię układów wielofazowych i zjawisk powierzchniowych oraz mechanizmy katalizy;
+i B.W17. podział związków węgla i nomenklaturę związków organicznych;
+B.W18. strukturę związków organicznych w ujęciu teorii orbitali atomowych molekularnych oraz efekt rezonansowy i indukcyjny;
+B.W19. typy i mechanizmy reakcji chemicznych związków organicznych (substytucja, addycja, eliminacja);
+B.W20. systematykę związków organicznych według grup funkcyjnych i ich właściwości;
+B.W21. budowę i właściwości związków heterocyklicznych oraz wybranych związków naturalnych: węglowodanów, steroidów, terpenów, lipidów, peptydów i białek;
+B.W22. budowę, właściwości i sposoby otrzymywania polimerów stosowanych w technologii farmaceutycznej;
+B.W23. preparatykę oraz metody spektroskopowe i chromatograficzne analizy związków organicznych;
+B.W24. funkcje elementarne, podstawy rachunku różniczkowego i całkowego;
+B.W25. elementy rachunku prawdopodobieństwa i statystyki matematycznej (zdarzenia i prawdopodobieństwo, zmienne losowe, dystrybuanta zmiennej losowej, wartość przeciętna i wariancja), podstawowych rozkładów zmiennych losowych, estymacji punktowej i przedziałowej parametrów;
+B.W26. metody testowania hipotez statystycznych oraz znaczenie korelacji i regresji;
+B.W27. metody teoretyczne stosowane w farmacji oraz podstawy bioinformatyki i modelowania cząsteczkowego w zakresie projektowania leków.
+W zakresie umiejętności absolwent potrafi: B.U1. mierzyć lub wyznaczać wielkości fizyczne, biofizyczne i fizykochemiczne z zastosowaniem odpowiedniej aparatury laboratoryjnej oraz wykonywać obliczenia fizyczne i chemiczne;
+B.U2. interpretować właściwości i zjawiska biofizyczne oraz oceniać wpływ czynników fizycznych środowiska na organizmy żywe;
+B.U3. analizować zjawiska oraz procesy fizyczne wykorzystywane w diagnostyce i terapii chorób;
+B.U4. identyfikować substancje nieorganiczne, w tym metodami farmakopealnymi;
+B.U5. przeprowadzać analizę wody do celów farmaceutycznych;
+B.U6. przeprowadzać walidację metody analitycznej;
+B.U7. wykonywać analizy jakościowe i ilościowe pierwiastków oraz związków chemicznych oraz oceniać wiarygodność wyniku analizy;
+B.U8. przeprowadzać badania kinetyki reakcji chemicznych;
+B.U9. analizować właściwości i procesy fizykochemiczne stanowiące podstawę działania biologicznego leków i farmakokinetyki;
+B.U10. oceniać i przewidywać właściwości związków organicznych na podstawie ich struktury, planować i wykonywać syntezę związków organicznych w skali laboratoryjnej oraz dokonywać ich identyfikacji;
+B.U11. wykorzystywać narzędzia matematyczne, statystyczne i informatyczne do opracowywania, interpretacji i przedstawiania wyników doświadczeń, analiz i pomiarów;
+B.U12. stosować narzędzia informatyczne do opracowywania i przedstawiania danych oraz twórczego rozwiązywania problemów.
+C. ANALIZA, SYNTEZA I TECHNOLOGIA LEKÓW (chemia leków, synteza i technologia środków leczniczych, biotechnologia farmaceutyczna, technologia postaci leku, farmakognozja) W zakresie wiedzy absolwent zna i rozumie: C.W1. podział substancji leczniczych według klasyfikacji anatomiczno-terapeutyczno-chemicznej (ATC);
+C.W2. strukturę chemiczną podstawowych substancji leczniczych;
+C.W3. zależności pomiędzy strukturą chemiczną, właściwościami fizykochemicznymi i mechanizmami działania substancji leczniczych;
+C.W4. pierwiastki i związki znakowane izotopami stosowane w diagnostyce i terapii chorób;
+C.W5. strukturę farmakopei oraz jej znaczenie dla jakości substancji i produktów leczniczych;
+C.W6. metody stosowane w ocenie jakości substancji do celów farmaceutycznych i w analizie produktów leczniczych oraz sposoby walidacji tych metod;
+C.W7. metody kontroli jakości leków znakowanych izotopami;
+C.W8. trwałość podstawowych substancji leczniczych i możliwe reakcje ich rozkładu oraz czynniki wpływające na ich trwałość;
+C.W9. problematykę leków sfałszowanych;
+C.W10. metody wytwarzania przykładowych substancji leczniczych, stosowane operacje fizyczne oraz jednostkowe procesy chemiczne;
+i C.W11. wymagania dotyczące opisu sposobu wytwarzania i oceny jakości substancji leczniczej w dokumentacji rejestracyjnej;
+C.W12. metody otrzymywania i rozdzielania optycznie czynnych substancji leczniczych oraz metody otrzymywania różnych form polimorficznych;
+C.W13. metody poszukiwania nowych substancji leczniczych;
+C.W14. problematykę ochrony patentowej substancji do celów farmaceutycznych produktów leczniczych;
+C.W15. właściwości fizykochemiczne i funkcjonalne podstawowych substancji pomocniczych stosowanych w technologii postaci leku;
+C.W16. potencjał produkcyjny żywych komórek i organizmów oraz możliwości jego regulacji metodami biotechnologicznymi;
+C.W17. warunki hodowli żywych komórek i organizmów oraz procesy wykorzystywane w biotechnologii farmaceutycznej wraz z oczyszczaniem otrzymywanych substancji leczniczych;
+C.W18. metody i techniki zmiany skali oraz optymalizacji parametrów procesu w biotechnologii farmaceutycznej;
+C.W19. podstawowe grupy, właściwości biologiczne i zastosowania biologicznych substancji leczniczych;
+C.W20. postacie biofarmaceutyków i problemy związane z ich trwałością;
+C.W21. podstawowe szczepionki, zasady ich stosowania i przechowywania;
+C.W22. podstawowe produkty krwiopochodne i krwiozastępcze oraz sposób ich otrzymywania;
+C.W23. wymagania farmakopealne, jakie powinny spełniać leki biologiczne i zasady wprowadzania ich do obrotu;
+C.W24. nowe osiągnięcia w obszarze badań nad lekiem biologicznym i syntetycznym;
+C.W25. nazewnictwo, skład, strukturę i właściwości poszczególnych postaci leku;
+C.W26. wymagania stawiane różnym postaciom leku oraz zasady doboru postaci leku w zależności od właściwości substancji leczniczej i przeznaczenia produktu leczniczego;
+C.W27. zasady sporządzania i kontroli leków recepturowych oraz warunki ich przechowywania;
+C.W28. rodzaje niezgodności fizykochemicznych pomiędzy składnikami preparatów farmaceutycznych;
+C.W29. podstawowe procesy technologiczne oraz urządzenia stosowane w technologii postaci leku;
+C.W30. metody sporządzania płynnych, półstałych i stałych postaci leku w skali laboratoryjnej i przemysłowej oraz wpływ parametrów procesu technologicznego na właściwości postaci leku;
+C.W31. metody postępowania aseptycznego oraz uzyskiwania jałowości produktów leczniczych, substancji i materiałów;
+C.W32. rodzaje opakowań i systemów dozujących;
+C.W33. zasady Dobrej Praktyki Wytwarzania określonej w przepisach wydanych na podstawie art. 39 ust. 5 pkt 1 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2020 r. poz. 944, z późn. zm.), w tym zasady dokumentowania procesów technologicznych;
+C.W34. metody badań jakości postaci leku oraz sposób analizy serii produkcyjnej;
+C.W35. czynniki wpływające na trwałość postaci leku oraz metody badania ich trwałości;
+C.W36. zakres badań chemiczno-farmaceutycznych wymaganych do dokumentacji rejestracyjnej produktu leczniczego;
+C.W37. zakres wykorzystania w produkcji farmaceutycznej analizy ryzyka, projektowania jakości i technologii opartej o analizę procesu;
+C.W38. zasady sporządzania preparatów homeopatycznych;
+C.W39. metody sporządzania ex tempore produktów radiofarmaceutycznych;
+C.W40. możliwości zastosowania nanotechnologii w farmacji;
+C.W41. rodzaje i metody wytwarzania oraz oceny jakości przetworów roślinnych;
+C.W42. surowce pochodzenia roślinnego stosowane w lecznictwie oraz wykorzystywane do produkcji leków, suplementów diety i kosmetyków;
+C.W43. grupy związków chemicznych decydujących o właściwościach leczniczych substancji i przetworów roślinnych;
+C.W44. struktury chemiczne związków występujących w roślinach leczniczych, ich działanie i zastosowanie;
+C.W45. metody badań substancji i przetworów roślinnych oraz metody izolacji składników z materiału roślinnego;
+C.W46. nanocząstki i ich wykorzystanie w diagnostyce i terapii;
+C.W47. polimery biomedyczne oraz wielkocząsteczkowe koniugaty substancji leczniczych i ich zastosowanie w medycynie i farmacji.
+W zakresie umiejętności absolwent potrafi: C.U1. dokonywać podziału substancji czynnych według klasyfikacji anatomiczno-terapeutyczno-chemicznej (ATC) z uwzględnieniem mianownictwa międzynarodowego oraz nazw handlowych;
+C.U2. wyjaśniać zastosowanie radiofarmaceutyków w diagnostyce i terapii chorób;
+C.U3. oceniać, na podstawie budowy chemicznej, właściwości substancji do użytku farmaceutycznego;
+C.U4. korzystać z farmakopei, wytycznych oraz literatury dotyczącej oceny jakości substancji do użytku farmaceutycznego oraz produktu leczniczego;
+C.U5. planować kontrolę jakości substancji do użytku farmaceutycznego oraz produktu leczniczego zgodnie z wymaganiami farmakopealnymi;
+C.U6. przeprowadzać badania tożsamości i jakości substancji leczniczej oraz dokonywać analizy jej zawartości w produkcie leczniczym metodami farmakopealnymi, w tym metodami spektroskopowymi i chromatograficznymi;
+C.U7. interpretować wyniki uzyskane w zakresie oceny jakości substancji do użytku farmaceutycznego i produktu leczniczego oraz potwierdzać zgodność uzyskanych wyników ze specyfikacją;
+C.U8. wykrywać na podstawie obserwacji produktu leczniczego jego wady kwalifikujące się do zgłoszenia do organu właściwego w sprawach nadzoru nad bezpieczeństwem stosowania produktów leczniczych;
+C.U9. wytypować etapy i parametry krytyczne w procesie syntezy substancji leczniczej oraz przygotować schemat blokowy przykładowego procesu syntezy;
+C.U10. przeprowadzać syntezę substancji leczniczej oraz zaproponować metodę jej oczyszczania;
+C.U11. wyjaśniać obecność pozostałości rozpuszczalników i innych zanieczyszczeń w substancji leczniczej;
+C.U12. analizować etapy i parametry procesu biotechnologicznego;
+C.U13. dokonywać oceny jakości i trwałości substancji leczniczej otrzymanej biotechnologicznie i proponować jej specyfikację;
+C.U14. korzystać z farmakopei, receptariuszy i przepisów technologicznych, wytycznych oraz literatury dotyczącej technologii postaci leku, w szczególności w odniesieniu do leków recepturowych;
+C.U15. proponować odpowiednią postać leku w zależności od właściwości substancji leczniczej i jej przeznaczenia;
+C.U16. wykonywać leki recepturowe, dobierać opakowania oraz określać okres przydatności leku do użycia i sposób jego przechowywania;
+C.U17. rozpoznawać i rozwiązywać problemy wynikające ze składu leku recepturowego, dokonywać kontroli dawek tego leku i weryfikować jego skład;
+C.U18. sporządzać przetwory roślinne w warunkach laboratoryjnych i dokonywać oceny ich jakości metodami farmakopealnymi;
+C.U19. oceniać właściwości funkcjonalne substancji pomocniczych do użytku farmaceutycznego;
+C.U20. wykonywać preparaty w warunkach aseptycznych i wybierać metodę wyjaławiania;
+C.U21. wykonywać mieszaniny do żywienia pozajelitowego;
+C.U22. przygotowywać leki cytostatyczne w postaci gotowej do podania pacjentom;
+C.U23. przygotowywać procedury operacyjne i sporządzać protokoły czynności prowadzonych w czasie sporządzania leku recepturowego i aptecznego;
+C.U24. planować etapy wytwarzania postaci leku w warunkach przemysłowych, dobierać aparaturę oraz wytypować metody kontroli międzyprocesowej;
+C.U25. wykonywać badania w zakresie oceny jakości postaci leku, obsługiwać odpowiednią aparaturę kontrolno-pomiarową oraz interpretować wyniki badań;
+C.U26. oceniać ryzyko wystąpienia złej jakości produktu leczniczego i wyrobu medycznego oraz konsekwencji klinicznych;
+C.U27. proponować specyfikację dla produktu leczniczego oraz planować badania trwałości substancji leczniczej i produktu leczniczego;
+C.U28. określać czynniki wpływające na trwałość produktu leczniczego i dobierać warunki przechowywania;
+C.U29. rozpoznawać leczniczy surowiec roślinny i kwalifikować go do właściwej grupy botanicznej na podstawie jego cech morfologicznych i anatomicznych;
+C.U30. określać metodami makro- i mikroskopowymi tożsamość roślinnej substancji leczniczej;
+C.U31. oceniać jakość leczniczego surowca roślinnego w oparciu o monografię farmakopealną oraz przeprowadzać jego analizę farmakognostycznymi metodami badań;
+C.U32. przeprowadzać analizę prostego i złożonego leku roślinnego oraz identyfikować zawarte w nim substancje czynne metodami chromatograficznymi lub spektroskopowymi;
+C.U33. udzielać informacji o składzie chemicznym oraz właściwościach leczniczych substancji i przetworów roślinnych;
+C.U34. wyszukiwać informacje naukowe dotyczące substancji i produktów leczniczych.
+D. BIOFARMACJA I SKUTKI DZIAŁANIA LEKÓW (biofarmacja, farmakokinetyka, farmakologia i farmakodynamika, toksykologia, bromatologia, leki pochodzenia naturalnego) W zakresie wiedzy absolwent zna i rozumie: D.W1. procesy, jakim podlega lek w organizmie w zależności od drogi i sposobu podania;
+D.W2. budowę i funkcję barier biologicznych w organizmie, które wpływają na wchłanianie i dystrybucję leku;
+D.W3. wpływ postaci leku i sposobu podania na wchłanianie i czas działania leku;
+D.W4. procesy farmakokinetyczne (LADME) oraz ich znaczenie w badaniach rozwojowych leku oraz w optymalizacji farmakoterapii;
+D.W5. parametry opisujące procesy farmakokinetyczne i sposoby ich wyznaczania;
+D.W6. uwarunkowania fizjologiczne, patofizjologiczne i środowiskowe wpływające na przebieg procesów farmakokinetycznych;
+D.W7. interakcje leków w fazie farmakokinetycznej, farmakodynamicznej i farmaceutycznej;
+D.W8. podstawy terapii monitorowanej stężeniem substancji czynnej i zasady zmian dawkowania leku u pacjenta;
+D.W9. sposoby oceny dostępności farmaceutycznej i biologicznej oraz zagadnienia związane z korelacją wyników badań in vitro in vivo (IVIVC);
+D.W10. znaczenie czynników wpływających na poprawę dostępności farmaceutycznej i biologicznej produktu leczniczego;
+D.W11. zagadnienia związane z oceną biofarmaceutyczną leków oryginalnych i generycznych, w tym sposoby oceny biorównoważności;
+D.W12. punkty uchwytu i mechanizmy działania leków oraz osiągnięcia biologii strukturalnej w tym zakresie;
+D.W13. właściwości farmakologiczne poszczególnych grup leków;
+D.W14. czynniki wpływające na działanie leków w fazie farmakodynamicznej, w tym czynniki dziedziczne oraz założenia terapii personalizowanej;
+D.W15. podstawy strategii terapii molekularnie ukierunkowanej i mechanizmy lekooporności;
+D.W16. drogi podania i sposoby dawkowania leków;
+DW.17. wskazania, przeciwwskazania i działania niepożądane swoiste dla leku oraz zależne od dawki;
+D.W18. klasyfikację działań niepożądanych;
+D.W19. zasady prawidłowego kojarzenia leków oraz rodzaje interakcji leków, czynniki wpływające na ich występowanie i możliwości ich unikania;
+D.W20. podstawowe pojęcia farmakogenetyki i farmakogenomiki oraz nowe osiągnięcia w obszarze farmakologii;
+D.W21. podstawowe pojęcia dotyczące toksykokinetyki, toksykometrii i toksykogenetyki;
+D.W22. procesy, jakim podlega ksenobiotyk w ustroju, ze szczególnym uwzględnieniem procesów biotransformacji, w zależności od drogi podania lub narażenia;
+D.W23. zagadnienia związane z rodzajem narażenia na trucizny (toksyczność ostra, toksyczność przewlekła, efekty odległe);
+D.W24. czynniki endogenne i egzogenne modyfikujące aktywność enzymów metabolizujących ksenobiotyki;
+D.W25. toksyczne działanie wybranych leków, substancji uzależniających, psychoaktywnych i innych substancji chemicznych oraz zasady postępowania w zatruciach;
+D.W26. zasady oraz metody monitoringu powietrza i monitoringu biologicznego w ocenie narażenia na wybrane ksenobiotyki;
+D.W27. metody in vitro oraz in vivo stosowane w badaniach toksyczności ksenobiotyków;
+D.W28. zasady planowania i metodykę badań toksykologicznych wymaganych w procesie poszukiwania i rejestracji nowych leków;
+D.W29. zagrożenia i konsekwencje zdrowotne związane z zanieczyszczeniem środowiska przyrodniczego;
+D.W30. podstawowe składniki odżywcze, zapotrzebowanie na nie organizmu, ich znaczenie, fizjologiczną dostępność i metabolizm oraz źródła żywieniowe;
+D.W31. metody stosowane do oceny wartości odżywczej żywności;
+D.W32. problematykę substancji dodawanych do żywności, zanieczyszczeń żywności oraz niewłaściwej jakości wyrobów przeznaczonych do kontaktu z żywnością;
+D.W33. problematykę żywności wzbogaconej, suplementów diety i środków specjalnego przeznaczenia żywieniowego;
+D.W34. metody oceny sposobu żywienia człowieka zdrowego i chorego;
+D.W35. podstawy interakcji lek żywność;
+D.W36. wymagania i metody oceny jakości suplementów diety, w szczególności zawierających witaminy i składniki mineralne;
+D.W37. metody żywienia pacjentów dojelitowo;
+D.W38. zasady projektowania złożonych leków roślinnych;
+D.W39. kryteria oceny jakości roślinnych produktów leczniczych i suplementów diety;
+D.W40. molekularne mechanizmy działania substancji pochodzenia roślinnego, ich metabolizm i dostępność biologiczną;
+D.W41. produkty lecznicze pochodzenia roślinnego oraz wskazania terapeutyczne ich stosowania;
+D.W42. problematykę badań klinicznych leków roślinnych oraz pozycję i znaczenie fitoterapii w systemie medycyny konwencjonalnej;
+D.W43. procedurę standaryzacji leku roślinnego i jej wykorzystanie w procesie rejestracji;
+D.W44. nowe osiągnięcia dotyczące leków roślinnych.
+W zakresie umiejętności absolwent potrafi: D.U1. oceniać różnice we wchłanianiu substancji leczniczej w zależności od składu leku, jego formy oraz warunków fizjologicznych i patologicznych;
+D.U2. wyjaśniać znaczenie transportu błonowego w procesach farmakokinetycznych (LADME);
+D.U3. obliczać i interpretować parametry farmakokinetyczne leku wyznaczone z zastosowaniem modeli farmakokinetycznych lub innymi metodami;
+D.U4. przedstawiać znaczenie, proponować metodykę oraz interpretować wyniki badań dostępności farmaceutycznej, biologicznej i badań biorównoważności;
+D.U5. korzystać z przepisów prawa, wytycznych i publikacji naukowych na temat badań dostępności biologicznej i biorównoważności leków;
+D.U6. przedstawiać i wyjaśniać profile stężeń substancji czynnej we krwi w zależności od drogi podania i postaci leku;
+D.U7. przeprowadzać badanie uwalniania z doustnych postaci leku, w celu wykazania podobieństwa różnych produktów leczniczych z wykorzystaniem farmakopealnych metod i aparatów;
+D.U8. uzasadniać możliwość zwolnienia produktu leczniczego z badań biorównoważności in vivo w oparciu o system klasyfikacji biofarmaceutycznej (BCS);
+D.U9. przewidywać skutki zmiany dostępności farmaceutycznej i biologicznej substancji leczniczej w wyniku modyfikacji postaci leku;
+i D.U10. wyjaśniać przyczyny i skutki interakcji w fazie farmakokinetycznej oraz określać sposoby zapobiegania tym interakcjom;
+D.U11. wyjaśniać właściwości farmakologiczne leku w oparciu o punkt uchwytu mechanizm działania;
+D.U12. uzasadniać konieczność zmian dawkowania leku w zależności od stanów fizjologicznych i patologicznych oraz czynników genetycznych;
+D.U13. przewidywać działania niepożądane poszczególnych grup leków w zależności od dawki i mechanizmu działania;
+D.U14. wyjaśniać przyczyny i skutki interakcji w fazie farmakodynamicznej oraz określać sposoby zapobiegania tym interakcjom;
+D.U15. udzielać informacji o wskazaniach i przeciwwskazaniach do stosowania leków oraz w zakresie właściwego ich dawkowania i przyjmowania;
+D.U16. przekazywać informacje z zakresu farmakologii w sposób zrozumiały dla pacjenta;
+D.U17. współdziałać z przedstawicielami innych zawodów medycznych w zakresie zapewnienia bezpieczeństwa i skuteczności farmakoterapii;
+D.U18. oceniać zagrożenia związane z zanieczyszczeniem środowiska przez trucizny środowiskowe oraz substancje lecznicze i ich metabolity;
+D.U19. charakteryzować biotransformację ksenobiotyków oraz oceniać jej znaczenie w aktywacji metabolicznej i detoksykacji;
+D.U20. przewidywać kierunek i siłę działania toksycznego ksenobiotyku w zależności od jego budowy chemicznej i rodzaju narażenia;
+D.U21. przeprowadzać izolację trucizn z materiału biologicznego i dobierać odpowiednią metodę wykrywania;
+D.U22. przeprowadzać ocenę narażenia (monitoring biologiczny) na podstawie analizy toksykologicznej w materiale biologicznym;
+D.U23. charakteryzować produkty spożywcze pod kątem ich składu i wartości odżywczej;
+D.U24. przeprowadzać ocenę wartości odżywczej żywności metodami obliczeniowymi i analitycznymi (w tym metodami chromatografii gazowej i cieczowej oraz spektrometrii absorpcji atomowej);
+D.U25. oceniać sposób żywienia w zakresie pokrycia zapotrzebowania na energię oraz podstawowe składniki odżywcze w stanie zdrowia i choroby;
+D.U26. wyjaśniać zasady i rolę prawidłowego żywienia w profilaktyce i przebiegu chorób;
+D.U27. oceniać narażenia organizmu ludzkiego na zanieczyszczenia obecne w żywności;
+D.U28. przewidywać skutki zmian stężenia substancji czynnej we krwi w wyniku spożywania określonych produktów spożywczych;
+D.U29. wyjaśniać przyczyny i skutki interakcji między lekami oraz lekami a pożywieniem;
+D.U30. udzielać porad pacjentom w zakresie interakcji leków z żywnością;
+D.U31. udzielać informacji o stosowaniu preparatów żywieniowych i suplementów diety;
+D.U32. oceniać jakość produktów zawierających roślinne surowce lecznicze;
+D.U33. projektować lek roślinny o określonym działaniu;
+D.U34. oceniać profil działania roślinnego produktu leczniczego na podstawie jego składu;
+D.U35. udzielać pacjentowi porad w zakresie stosowania, przeciwwskazań, interakcji i działań niepożądanych leków pochodzenia naturalnego.
+E. PRAKTYKA FARMACEUTYCZNA (farmacja praktyczna, opieka farmaceutyczna, farmakoterapia i informacja o lekach, prawo farmaceutyczne, farmakoekonomika, farmakoepidemiologia, historia farmacji, etyka zawodowa, język obcy, farmacja kliniczna) W zakresie wiedzy absolwent zna i rozumie: E.W1. podstawy prawne oraz zasady organizacji rynku farmaceutycznego w zakresie obrotu detalicznego w Rzeczypospolitej Polskiej oraz funkcjonowania aptek ogólnodostępnych i szpitalnych;
+E.W2. zasady organizacji rynku farmaceutycznego w zakresie obrotu hurtowego w Rzeczypospolitej Polskiej oraz funkcjonowania hurtowni farmaceutycznych;
+E.W3. zasady wystawiania, ewidencjonowania i realizacji recept oraz zasady wydawania leków z apteki;
+E.W4. podstawy prawne i zasady wykonywania zawodu farmaceuty, regulacje dotyczące uzyskania prawa wykonywania zawodu farmaceuty oraz funkcjonowania samorządu aptekarskiego;
+E.W5. podstawy prawne oraz organizację procesu wytwarzania produktów leczniczych;
+E.W6. zasady organizacji i finansowania systemu ochrony zdrowia w Rzeczypospolitej Polskiej oraz rolę farmaceuty w tym systemie;
+E.W7. znaczenie prawidłowej gospodarki lekami w systemie ochrony zdrowia;
+E.W8. ideę opieki farmaceutycznej oraz pojęcia związane z opieką farmaceutyczną, w szczególności odnoszące się do problemów i potrzeb związanych ze stosowaniem leków;
+E.W9. zasady monitorowania skuteczności i bezpieczeństwa farmakoterapii pacjenta w procesie opieki farmaceutycznej;
+E.W10. zasady indywidualizacji farmakoterapii uwzględniające różnice w działaniu leków spowodowane czynnikami fizjologicznymi w stanach chorobowych w warunkach klinicznych;
+E.W11. podstawowe źródła naukowe informacji o lekach;
+E.W12. zasady postępowania terapeutycznego oparte na dowodach naukowych (evidence based);
+E.W13. standardy terapeutyczne oraz wytyczne postępowania terapeutycznego;
+E.W14. rolę farmaceuty i przedstawicieli innych zawodów medycznych w zespole terapeutycznym;
+E.W15. zagrożenia związane z samodzielnym stosowaniem leków przez pacjentów;
+E.W16. problematykę uzależnienia od leków i innych substancji oraz rolę farmaceuty w zwalczaniu uzależnień;
+E.W17. zasady użycia leku w zależności od postaci leku, a także rodzaju opakowania i systemu dozującego;
+E.W18. zasady wprowadzania do obrotu produktów leczniczych, wyrobów medycznych, suplementów diety, środków spożywczych specjalnego przeznaczenia żywieniowego oraz kosmetyków;
+E.W19. podstawy ekonomiki zdrowia i farmakoekonomiki;
+E.W20. metody i narzędzia oceny kosztów i efektów na potrzeby analiz ekonomicznych;
+E.W21. wytyczne w zakresie przeprowadzania oceny technologii medycznych, w szczególności w obszarze oceny efektywności kosztowej, a także metodykę oceny skuteczności i bezpieczeństwa leków;
+E.W22. podstawy prawne oraz zasady przeprowadzania i organizacji badań nad lekiem, w tym badań eksperymentalnych oraz z udziałem ludzi;
+E.W23. prawne, etyczne i metodyczne aspekty prowadzenia badań klinicznych oraz rolę farmaceuty w ich prowadzeniu;
+E.W24. znaczenie wskaźników zdrowotności populacji;
+E.W25. zasady prowadzenia różnych rodzajów badań o charakterze epidemiologicznym;
+E.W26. zasady monitorowania bezpieczeństwa produktów leczniczych po wprowadzeniu ich do obrotu;
+E.W27. historię aptekarstwa i zawodu farmaceuty oraz kierunki rozwoju kształcenia przygotowującego do wykonywania zawodu farmaceuty, a także światowe organizacje farmaceutyczne i inne organizacje zrzeszające farmaceutów;
+E.W28. podstawowe pojęcia z zakresu etyki, deontologii i bioetyki oraz zagadnienia z zakresu deontologii zawodu farmaceuty;
+E.W29. zasady etyczne współczesnego marketingu farmaceutycznego;
+E.W30. zasady promocji zdrowia, jej zadania oraz rolę farmaceuty w propagowaniu zdrowego stylu życia.
+W zakresie umiejętności absolwent potrafi: E.U1. określać zasady gospodarki lekiem w szpitalu i aptece;
+E.U2. realizować recepty, wykorzystując dostępne narzędzia informatyczne oraz udzielać informacji dotyczących wydawanego leku;
+E.U3. ustalać zakres obowiązków, nadzorować i organizować pracę personelu w aptece;
+E.U4. określać warunki przechowywania produktów leczniczych, wyrobów medycznych i suplementów diety, wskazywać produkty wymagające specjalnych warunków przechowywania oraz prowadzić kontrolę warunków przechowywania;
+E.U5. planować, organizować i prowadzić opiekę farmaceutyczną;
+E.U6. przeprowadzać konsultacje farmaceutyczne w procesie opieki farmaceutycznej i doradztwa farmaceutycznego;
+E.U7. współpracować z lekarzem w zakresie optymalizacji i racjonalizacji terapii w lecznictwie zamkniętym i otwartym;
+E.U8. dobierać leki bez recepty w stanach chorobowych niewymagających konsultacji lekarskiej;
+E.U9. przygotowywać plan monitorowania farmakoterapii, określając metody i zasady oceny skuteczności i bezpieczeństwa terapii;
+E.U10. wykonywać i objaśniać indywidualizację dawkowania leku u pacjenta w warunkach klinicznych;
+E.U11. dobierać postać leku dla pacjenta, uwzględniając zalecenia kliniczne, potrzeby pacjenta i dostępność produktów;
+E.U12. wskazywać właściwy sposób postępowania z lekiem w czasie jego stosowania przez pacjenta i udzielać informacji o leku;
+E.U13. wskazywać właściwy sposób postępowania z lekiem przez pracowników systemu ochrony zdrowia;
+E.U14. przeprowadzać edukację pacjenta związaną ze stosowanymi przez niego lekami oraz innymi problemami dotyczącymi jego zdrowia i choroby oraz przygotowywać dla pacjenta zindywidualizowane materiały edukacyjne;
+E.U15. wykorzystywać narzędzia informatyczne w pracy zawodowej;
+E.U16. przewidywać wpływ różnych czynników na właściwości farmakokinetyczne i farmakodynamiczne leków oraz rozwiązywać problemy dotyczące indywidualizacji i optymalizacji farmakoterapii;
+E.U17. monitorować i raportować niepożądane działania leków, wdrażać działania prewencyjne, udzielać informacji związanych z powikłaniami farmakoterapii pracownikom systemu ochrony zdrowia, pacjentom lub ich rodzinom;
+E.U18. określać zagrożenia związane ze stosowaną farmakoterapią w różnych grupach pacjentów oraz planować działania prewencyjne;
+E.U19. identyfikować rolę oraz zadania poszczególnych organów samorządu aptekarskiego oraz prawa i obowiązki jego członków;
+E.U20. oceniać i interpretować wyniki badań epidemiologicznych i wyciągać z nich wnioski oraz wskazywać podstawowe błędy pojawiające się w tych badaniach;
+E.U21. wskazywać właściwą organizację farmaceutyczną lub urząd zajmujący się danym problemem zawodowym;
+E.U22. identyfikować podstawowe problemy etyczne dotyczące współczesnej medycyny, ochrony życia i zdrowia oraz prowadzenia badań naukowych;
+E.U23. aktywnie uczestniczyć w pracach zespołu terapeutycznego, współpracując z pracownikami systemu ochrony zdrowia;
+E.U24. aktywnie uczestniczyć w prowadzeniu badań klinicznych, w szczególności w zakresie nadzorowania jakości badanego produktu leczniczego, i monitorowaniu badania klinicznego oraz zarządzać gospodarką produktów leczniczych i wyrobów medycznych przeznaczonych do badań klinicznych;
+E.U25. korzystać z różnych źródeł informacji o leku i krytycznie interpretować te informacje;
+E.U26. brać udział w działaniach na rzecz promocji zdrowia i profilaktyki;
+E.U27. szacować koszty i efekty farmakoterapii, wyliczać i interpretować współczynniki kosztów i efektywności, wskazywać procedurę efektywniejszą kosztowo oraz określać wpływ nowej technologii medycznej na finansowanie systemu ochrony zdrowia;
+E.U28. przeprowadzać krytyczną analizę publikacji dotyczących skuteczności, bezpieczeństwa i aspektów ekonomicznych farmakoterapii oraz publikacji dotyczących praktyki zawodowej i rynku farmaceutycznego;
+E.U29. porównywać częstotliwość występowania zjawisk zdrowotnych oraz wyliczać i interpretować wskaźniki zdrowotności populacji;
+E.U30. stosować się do zasad deontologii zawodowej, w tym do Kodeksu Etyki Aptekarza Rzeczypospolitej Polskiej;
+E.U31. przestrzegać praw pacjenta;
+E.U32. porozumiewać się z pacjentami i personelem systemu ochrony zdrowia w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego.
+F. METODOLOGIA BADAŃ NAUKOWYCH (ćwiczenia specjalistyczne, metodologia badań) W zakresie wiedzy absolwent zna i rozumie: F.W1. metody i techniki badawcze stosowane w ramach realizowanego badania naukowego.
+W zakresie umiejętności absolwent potrafi: F.U1. zaplanować badanie naukowe i omówić jego cel oraz spodziewane wyniki;
+F.U2. zinterpretować badanie naukowe i odnieść je do aktualnego stanu wiedzy: F.U3. korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej;
+F.U4. przeprowadzić badanie naukowe, zinterpretować i udokumentować jego wyniki;
+F.U5. zaprezentować wyniki badania naukowego.
+IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple choice questions, MCQ), testy wielokrotnej odpowiedzi (Multiple response questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w warunkach zapewniających przejrzystość i obiektywizm formułowania ocen.
+6. Egzamin dyplomowy powinien być przeprowadzony w formie umożliwiającej sprawdzenie wiedzy i umiejętności zdobytych w okresie studiów.
+Standard kształcenia przygotowującego do wykonywania zawodu pielęgniarki Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu pielęgniarki, prowadzonego na studiach pierwszego i studiach drugiego stopnia na kierunku pielęgniarstwo.
+A. STUDIA PIERWSZEGO STOPNIA I.A. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Studia pierwszego stopnia trwają nie krócej niż 6 semestrów.
+1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 4720.
+1.3. Liczba punktów ECTS konieczna do ukończenia studiów pierwszego stopnia nie może być mniejsza niż 180.
+1.4. Kierunek pielęgniarstwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+1)
+2)
+2.1. Proces kształcenia jest realizowany w postaci: zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Nauki podstawowe 500 20 B. Nauki społeczne i humanistyczne 420 17 C. Nauki w zakresie podstaw opieki pielęgniarskiej 600 22 D. Nauki w zakresie opieki specjalistycznej 900 34 E. Zajęcia praktyczne 1100 41 F. Praktyki zawodowe 1200 46 Razem 4720 180
+3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
+3.2. W ramach kształcenia w grupie zajęć B są prowadzone zajęcia z języka angielskiego w wymiarze nie mniejszym niż 120 godzin. Zajęcia te obejmują język specjalistyczny z zakresu pielęgniarstwa. Zajęciom tym przypisuje się nie mniej niż 5 punktów ECTS.
+3.3. W ramach kształcenia w grupie zajęć D przypisuje się nie mniej niż 5 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.4. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.5. W ramach realizacji programu studiów w grupach zajęć:
+1) A i B po 25% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 230 godzin) oraz
+2) C i D po 35% wymiaru godzin w każdej z tych grup (łącznie nie więcej niż 525 godzin) może być realizowane jako praca własna studenta pod kierunkiem nauczycieli akademickich.
+3.6. Kształcenie w zakresie grup zajęć A, B, C i D może być prowadzone z wykorzystaniem metod i technik kształcenia na odległość. Liczba punktów ECTS, jaka może być uzyskana w ramach tego kształcenia, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. ZAJĘCIA PRAKTYCZNE I PRAKTYKI ZAWODOWE
+4.1. Zajęcia praktyczne i praktyki zawodowe mają na celu umożliwienie osiągnięcia efektów uczenia się ujętych w grupach zajęć C i D.
+Zakres zajęć praktycznych Zajęcia praktyczne Praktyki zawodowe i praktyk zawodowych Liczba Liczba Liczba Liczba punktów punktów godzin/tygodni godzin/tygodni ECTS ECTS Podstawy pielęgniarstwa 80 godzin/ 3 120 godzin/ 4 2 tygodnie 3 tygodnie Promocja zdrowia 20 godzin/ 1 0,5 tygodnia Podstawowa opieka zdrowotna 120 godzin/ 4 160 godzin/ 6 3 tygodnie 4 tygodnie Położnictwo, ginekologia 80 godzin/ i pielęgniarstwo położniczo- 2 tygodnie ginekologiczne 3 40 godzin/ 1 tydzień 2 Pediatria i pielęgniarstwo 160 godzin/ 6 160 godzin/ 6 pediatryczne 4 tygodnie 4 tygodnie Choroby wewnętrzne i pielęgniarstwo internistyczne 120 godzin/ 3 tygodnie 4 160 godzin/ 4 tygodnie 6 Chirurgia i pielęgniarstwo 120 godzin/ 4 160 godzin/ 6 chirurgiczne 3 tygodnie 4 tygodnie, w tym 0,5 tygodnia na bloku operacyjnym Pielęgniarstwo w opiece 40 godzin/ 2 40 godzin/ 2 długoterminowej 1 tydzień 1 tydzień Geriatria i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 geriatryczne 2 tygodnie 2 tygodnie Neurologia i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 neurologiczne 2 tygodnie 2 tygodnie Psychiatria i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 psychiatryczne 2 tygodnie 2 tygodnie Anestezjologia i pielęgniarstwo 80 godzin/ 3 80 godzin/ 3 w zagrożeniu życia 2 tygodnie 2 tygodnie Opieka paliatywna 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Razem 1100 godzin/ 41 1200 godzin/ 46 27,5 tygodnia 30 tygodni
+4.2. Zajęcia praktyczne i praktyki zawodowe organizuje się tak, aby zdobywanie umiejętności praktycznych w warunkach naturalnych było poprzedzone zdobywaniem tych umiejętności w warunkach symulowanych niskiej wierności (w pracowniach umiejętności pielęgniarskich).
+4.3. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się, w skład której wchodzi w szczególności pracownia umiejętności pielęgniarskich.
+5.2. Zajęcia praktyczne odbywają się warunkach symulowanych i w oparciu o infrastrukturę podmiotów wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia. Praktyki zawodowe odbywają się w podmiotach wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia. Zajęcia praktyczne i praktyki zawodowe w podmiotach wykonujących działalność leczniczą są prowadzone w szczególności w:
+1) oddziałach internistycznych, geriatrycznych, chirurgicznych, pediatrycznych, neurologicznych, psychiatrycznych, intensywnej terapii, opieki długoterminowej, położniczych, ginekologicznych i noworodkowych;
+2) gabinetach podstawowej opieki zdrowotnej (pielęgniarki podstawowej opieki zdrowotnej, pielęgniarki środowiska nauczania i wychowania oraz lekarza podstawowej opieki zdrowotnej);
+3) hospicjach.
+5.3. Zajęcia praktyczne i praktyki zawodowe odbywają się również w żłobkach, z którymi uczelnia zawarła umowy lub porozumienia.
+II.A. OSOBY PROWADZĄCE KSZTAŁCENIE
+1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć A, B, C i D jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+2. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć C i D, w ramach zajęć obejmujących treści kształcenia z zakresu opieki pielęgniarskiej i położniczej, jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających prawo wykonywania zawodu pielęgniarki lub zawodu położnej oraz co najmniej roczną praktykę zawodową w zakresie właściwym dla prowadzonych zajęć.
+3. Zajęcia praktyczne są prowadzone przez nauczycieli akademickich lub inne osoby, posiadających prawo wykonywania zawodu pielęgniarki lub zawodu położnej oraz co najmniej roczną praktykę zawodową w zakresie właściwym dla prowadzonych zajęć.
+4. Praktyki zawodowe są prowadzone pod kierunkiem osoby posiadającej prawo wykonywania zawodu pielęgniarki lub zawodu położnej, będącej pracownikiem danego podmiotu wykonującego działalność leczniczą, w którym odbywa się praktyka, a nadzór nad realizacją praktyk sprawuje opiekun praktyk z uczelni.
+5. Promotorem pracy dyplomowej jest nauczyciel akademicki posiadający co najmniej tytuł zawodowy magistra lub równorzędny oraz prawo wykonywania zawodu pielęgniarki.
+III.A. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) rozwój, budowę i funkcje organizmu człowieka w warunkach prawidłowych i patologicznych;
+2) etiologię, patomechanizm, objawy kliniczne, przebieg i sposoby postępowania diagnostycznego i terapeutycznego w wybranych jednostkach chorobowych;
+3) uwarunkowania i mechanizmy funkcjonowania człowieka zdrowego i chorego;
+4) system opieki zdrowotnej w Rzeczypospolitej Polskiej i wybranych państwach członkowskich Unii Europejskiej;
+5) zasady promocji zdrowia i profilaktyki chorób;
+6) modele opieki pielęgniarskiej nad osobą zdrową, chorą, z niepełnosprawnością i umierającą;
+7) etyczne, społeczne i prawne uwarunkowania wykonywania zawodu pielęgniarki.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) udzielać świadczeń w zakresie promocji zdrowia i profilaktyki chorób;
+2) udzielać pierwszej pomocy i podejmować działania ratownicze w ramach resuscytacji krążeniowo-oddechowej;
+3) rozpoznawać problemy zdrowotne i określać priorytety w opiece pielęgniarskiej;
+4) samodzielnie organizować, planować i sprawować całościową i zindywidualizowaną opiekę pielęgniarską nad osobą chorą, z niepełnosprawnością i umierającą, wykorzystując wskazania aktualnej wiedzy medycznej;
+5) samodzielnie udzielać świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych (w zakresie określonym w przepisach);
+6) decydować o rodzaju i zakresie świadczeń opiekuńczo-pielęgnacyjnych;
+7) współpracować z rodziną lub opiekunem pacjenta w realizacji ustalonych celów opieki pielęgniarskiej oraz prowadzonych działań edukacyjnych;
+8) przeprowadzać badanie podmiotowe i przedmiotowe w celu postawienia diagnozy pielęgniarskiej;
+9) wystawiać recepty na leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich;
+10) dokonywać analizy jakości opieki pielęgniarskiej;
+11) organizować pracę własną i podległego personelu oraz współpracować w zespołach opieki zdrowotnej.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) kierowania się dobrem pacjenta, poszanowania godności i autonomii osób powierzonych opiece, okazywania zrozumienia dla różnic światopoglądowych i kulturowych oraz empatii w relacji z pacjentem i jego rodziną;
+2) przestrzegania praw pacjenta;
+3) samodzielnego i rzetelnego wykonywania zawodu zgodnie z zasadami etyki, w tym przestrzegania wartości i powinności moralnych w opiece nad pacjentem;
+4) ponoszenia odpowiedzialności za wykonywane czynności zawodowe;
+5) zasięgania opinii ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemu;
+6) przewidywania i uwzględniania czynników wpływających na reakcje własne i pacjenta;
+7) dostrzegania i rozpoznawania własnych ograniczeń w zakresie wiedzy, umiejętności i kompetencji społecznych oraz dokonywania samooceny deficytów i potrzeb edukacyjnych.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI PODSTAWOWE (anatomia, fizjologia, patologia, genetyka, biochemia i biofizyka, mikrobiologia i parazytologia, farmakologia, radiologia) W zakresie wiedzy absolwent zna i rozumie: A.W1. budowę ciała ludzkiego w podejściu topograficznym (kończyny górna i dolna, klatka piersiowa, brzuch, miednica, grzbiet, szyja, głowa) i czynnościowym (układ kostno-stawowy, układ mięśniowy, układ krążenia, układ oddechowy, układ pokarmowy, układ moczowy, układy płciowe, układ nerwowy, narządy zmysłów, powłoka wspólna);
+A.W2. neurohormonalną regulację procesów fizjologicznych i elektrofizjologicznych zachodzących w organizmie;
+A.W3. udział układów i narządów organizmu w utrzymaniu jego homeostazy;
+A.W4. fizjologię poszczególnych układów i narządów organizmu;
+A.W5. podstawy działania układów regulacji (homeostaza) oraz rolę sprzężenia zwrotnego dodatniego i ujemnego;
+A.W6. podstawowe pojęcia z zakresu patologii ogólnej i patologii poszczególnych układów organizmu;
+A.W7. wybrane zagadnienia z zakresu patologii narządowej układu krążenia, układu oddechowego, układu trawiennego, układu hormonalnego, układu metabolicznego, układu moczowo-płciowego i układu nerwowego;
+A.W8. czynniki chorobotwórcze zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;
+A.W9. uwarunkowania genetyczne grup krwi człowieka oraz konfliktu serologicznego w układzie Rh;
+A.W10. problematykę chorób uwarunkowanych genetycznie;
+A.W11. budowę chromosomów i molekularne podłoże mutagenezy;
+A.W12. zasady dziedziczenia różnej liczby cech, dziedziczenia cech ilościowych, niezależnego dziedziczenia cech i dziedziczenia pozajądrowej informacji genetycznej;
+A.W13. podstawy fizykochemiczne działania zmysłów wykorzystujących fizyczne nośniki informacji (fale dźwiękowe i elektromagnetyczne);
+A.W14. witaminy, aminokwasy, nukleozydy, monosacharydy, kwasy karboksylowe i ich pochodne, wchodzące w skład makrocząsteczek obecnych w komórkach, macierzy zewnątrzkomórkowej i płynach ustrojowych;
+A.W15. mechanizmy regulacji i biofizyczne podstawy funkcjonowania metabolizmu w organizmie;
+A.W16. wpływ na organizm czynników zewnętrznych, takich jak temperatura, grawitacja, ciśnienie, pole elektromagnetyczne oraz promieniowanie jonizujące;
+A.W17. klasyfikację drobnoustrojów z uwzględnieniem mikroorganizmów chorobotwórczych i obecnych w mikrobiocie fizjologicznej człowieka;
+A.W18. podstawowe pojęcia z zakresu mikrobiologii i parazytologii oraz metody stosowane w diagnostyce mikrobiologicznej;
+A.W19. poszczególne grupy środków leczniczych, główne mechanizmy ich działania i powodowane przez nie przemiany w ustroju i działania uboczne;
+A.W20. podstawowe zasady farmakoterapii;
+A.W21. poszczególne grupy leków, substancje czynne zawarte w lekach, zastosowanie leków oraz postacie i drogi ich podawania;
+A.W22. wpływ procesów chorobowych na metabolizm i eliminację leków;
+A.W23. ważniejsze działania niepożądane leków, w tym wynikające z ich interakcji, i procedurę zgłaszania działań niepożądanych leków;
+A.W24. zasady wystawiania recept w ramach realizacji zleceń lekarskich;
+A.W25. zasady leczenia krwią i środkami krwiozastępczymi;
+A.W26. metody obrazowania i zasady przeprowadzania obrazowania tymi metodami oraz zasady ochrony radiologicznej.
+W zakresie umiejętności absolwent potrafi: A.U1. posługiwać się w praktyce mianownictwem anatomicznym oraz wykorzystywać znajomość topografii narządów ciała ludzkiego;
+A.U2. łączyć obrazy uszkodzeń tkankowych i narządowych z objawami klinicznymi choroby, wywiadem i wynikami badań diagnostycznych;
+A.U3. szacować ryzyko ujawnienia się danej choroby w oparciu o zasady dziedziczenia i wpływ czynników środowiskowych;
+A.U4. wykorzystywać uwarunkowania chorób genetycznych w profilaktyce chorób;
+A.U5. współuczestniczyć w doborze metod diagnostycznych w poszczególnych stanach klinicznych z wykorzystaniem wiedzy z zakresu biochemii i biofizyki;
+A.U6. rozpoznawać najczęściej spotykane pasożyty człowieka na podstawie ich budowy, cykli życiowych oraz wywoływanych przez nie objawów chorobowych;
+A.U7. szacować niebezpieczeństwo toksykologiczne w określonych grupach wiekowych oraz w różnych stanach klinicznych;
+A.U8. posługiwać się informatorami farmaceutycznymi i bazami danych o produktach leczniczych;
+A.U9. wystawiać recepty na leki niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich;
+A.U10. przygotowywać zapis form recepturowych substancji leczniczych i środków spożywczych specjalnego przeznaczenia żywieniowego zleconych przez lekarza;
+A.U11. stosować zasady ochrony radiologicznej.
+B. NAUKI SPOŁECZNE I HUMANISTYCZNE (psychologia, socjologia, pedagogika, prawo medyczne, zdrowie publiczne, język angielski) W zakresie wiedzy absolwent zna i rozumie: B.W1. psychologiczne podstawy rozwoju człowieka, jego zachowania prawidłowe i zaburzone;
+B.W2. problematykę relacji człowiek środowisko społeczne i mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
+B.W3. etapy rozwoju psychicznego człowieka i występujące na tych etapach prawidłowości;
+B.W4. pojęcie emocji i motywacji oraz zaburzenia osobowościowe;
+B.W5. istotę, strukturę i zjawiska zachodzące w procesie przekazywania i wymiany informacji oraz modele i style komunikacji interpersonalnej;
+B.W6. techniki redukowania lęku, metody relaksacji oraz mechanizmy powstawania i zapobiegania zespołowi wypalenia zawodowego;
+B.W7. pojęcia oraz zasady funkcjonowania grupy, organizacji, instytucji, populacji, społeczności i ekosystemu;
+B.W8. wybrane obszary odrębności kulturowych i religijnych;
+B.W9. zakres interakcji społecznej i proces socjalizacji oraz działanie lokalnych społeczności i ekosystemu;
+B.W10. pojęcia dewiacji i zaburzenia, ze szczególnym uwzględnieniem patologii dziecięcej;
+B.W11. zjawisko dyskryminacji społecznej, kulturowej, etnicznej oraz ze względu na płeć;
+B.W12. podstawowe pojęcia i zagadnienia z zakresu pedagogiki jako nauki stosowanej i procesu wychowania w aspekcie zjawiska społecznego (chorowania, zdrowienia, hospitalizacji, umierania);
+B.W13. problematykę procesu kształcenia w ujęciu edukacji zdrowotnej;
+B.W14. metodykę edukacji zdrowotnej dzieci, młodzieży i dorosłych;
+B.W15. podstawowe pojęcia z zakresu prawa i rolę prawa w życiu społeczeństwa, ze szczególnym uwzględnieniem praw człowieka i prawa pracy;
+B.W16. podstawowe regulacje prawne z zakresu ubezpieczeń zdrowotnych obowiązujące w Rzeczypospolitej Polskiej i innych państwach członkowskich Unii Europejskiej oraz wybrane trendy w polityce ochrony zdrowia w Rzeczypospolitej Polskiej i innych państwach członkowskich Unii Europejskiej;
+B.W17. podstawy prawne wykonywania zawodu pielęgniarki, w tym prawa i obowiązki pielęgniarki, organizację i zadania samorządu zawodowego pielęgniarek i położnych oraz prawa i obowiązki jego członków;
+B.W18. zasady odpowiedzialności karnej, cywilnej, pracowniczej i zawodowej związanej z wykonywaniem zawodu pielęgniarki;
+B.W19. prawa człowieka, prawa dziecka i prawa pacjenta;
+B.W20. zadania z zakresu zdrowia publicznego;
+B.W21. kulturowe, społeczne i ekonomiczne uwarunkowania zdrowia publicznego;
+B.W22. podstawowe pojęcia dotyczące zdrowia i choroby;
+B.W23. istotę profilaktyki i prewencji chorób;
+B.W24. zasady funkcjonowania rynku usług medycznych w Rzeczypospolitej Polskiej i wybranych państwach członkowskich Unii Europejskiej;
+B.W25. swoiste zagrożenia zdrowotne występujące w środowisku zamieszkania, edukacji i pracy;
+B.W26. międzynarodowe klasyfikacje statystyczne, w tym chorób i problemów zdrowotnych (ICD-10), procedur medycznych (ICD-9) oraz funkcjonowania, niepełnosprawności i zdrowia (ICF).
+W zakresie umiejętności absolwent potrafi: B.U1. rozpoznawać zachowania prawidłowe, zaburzone i patologiczne;
+B.U2. oceniać wpływ choroby i hospitalizacji na stan fizyczny i psychiczny człowieka;
+B.U3. oceniać funkcjonowanie człowieka w sytuacjach trudnych (stres, frustracja, konflikt, trauma, żałoba) oraz przedstawiać elementarne formy pomocy psychologicznej;
+B.U4. identyfikować błędy i bariery w procesie komunikowania się;
+B.U5. wykorzystywać techniki komunikacji werbalnej i pozawerbalnej w opiece pielęgniarskiej;
+B.U6. tworzyć warunki do prawidłowej komunikacji z pacjentem i członkami zespołu opieki;
+B.U7. wskazywać i stosować właściwe techniki redukowania lęku i metody relaksacyjne;
+B.U8. stosować mechanizmy zapobiegania zespołowi wypalenia zawodowego;
+B.U9. proponować działania zapobiegające dyskryminacji i rasizmowi oraz dewiacjom i patologiom wśród dzieci i młodzieży;
+B.U10. rozpoznawać potrzeby edukacyjne w grupach odbiorców usług pielęgniarskich;
+B.U11. opracowywać programy edukacyjne w zakresie działań prozdrowotnych dla różnych grup odbiorców;
+B.U12. stosować przepisy prawa dotyczące praktyki zawodowej pielęgniarki;
+B.U13. oceniać światowe trendy dotyczące ochrony zdrowia w aspekcie najnowszych danych epidemiologicznych i demograficznych;
+B.U14. analizować i oceniać funkcjonowanie różnych systemów opieki medycznej oraz identyfikować źródła ich finansowania;
+B.U15. stosować międzynarodowe klasyfikacje statystyczne, w tym chorób i problemów zdrowotnych (ICD-10), procedur medycznych (ICD-9) oraz funkcjonowania niepełnosprawności i zdrowia (ICF);
+B.U16. analizować piśmiennictwo medyczne w języku angielskim;
+B.U17. porozumiewać się w języku angielskim na poziomie B2 Europejskiego Systemu Opisu Kształcenia Językowego.
+C. NAUKI W ZAKRESIE PODSTAW OPIEKI PIELĘGNIARSKIEJ (podstawy pielęgniarstwa, etyka zawodu pielęgniarki, promocja zdrowia, podstawowa opieka zdrowotna, dietetyka, organizacja pracy pielęgniarskiej, badanie fizykalne, zakażenia szpitalne, system informacji w ochronie zdrowia, zajęcia fakultatywne do wyboru: język migowy lub współpraca w zespołach opieki zdrowotnej) W zakresie wiedzy absolwent zna i rozumie: C.W1. uwarunkowania rozwoju pielęgniarstwa na tle transformacji opieki pielęgniarskiej i profesjonalizacji współczesnego pielęgniarstwa;
+C.W2. pojęcie pielęgnowania, w tym wspierania, pomagania i towarzyszenia;
+C.W3. funkcje i zadania zawodowe pielęgniarki oraz rolę pacjenta w procesie realizacji opieki pielęgniarskiej;
+C.W4. proces pielęgnowania (istota, etapy, zasady) i primary nursing (istota, odrębności) oraz wpływ pielęgnowania tradycyjnego na funkcjonowanie praktyki pielęgniarskiej;
+C.W5. klasyfikacje diagnoz i praktyk pielęgniarskich;
+C.W6. istotę opieki pielęgniarskiej opartej o wybrane założenia teoretyczne (Florence Nightingale, Virginia Henderson, Dorothea Orem, Callista Roy, Betty Neuman);
+C.W7. istotę, cel, wskazania, przeciwwskazania, powikłania, obowiązujące zasady i technikę wykonywania podstawowych czynności pielęgniarskich, diagnostycznych, leczniczych i rehabilitacyjnych;
+C.W8. zadania pielęgniarki w opiece nad pacjentem zdrowym, zagrożonym chorobą, chorym i o niepomyślnym rokowaniu;
+C.W9. zakres i charakter opieki pielęgniarskiej w wybranych stanach pacjenta, sytuacjach klinicznych, w deficycie samoopieki, zaburzonym komforcie, zaburzonej sferze psychoruchowej;
+C.W10. zakres opieki pielęgniarskiej i interwencji pielęgniarskich w wybranych diagnozach pielęgniarskich;
+C.W11. udział pielęgniarki w zespole interdyscyplinarnym w procesie promowania zdrowia, profilaktyki, diagnozowania, leczenia i rehabilitacji;
+C.W12. przedmiot etyki ogólnej i zawodowej;
+C.W13. istotę podejmowania decyzji etycznych i rozwiązywania dylematów moralnych w pracy pielęgniarki;
+C.W14. problematykę etyki normatywnej, w tym aksjologii wartości, powinności i sprawności moralnych istotnych w pracy pielęgniarki;
+C.W15. kodeks etyki zawodowej pielęgniarki i położnej;
+C.W16. zasady promocji zdrowia i profilaktyki zdrowotnej;
+C.W17. zasady konstruowania programów promocji zdrowia;
+C.W18. strategie promocji zdrowia o zasięgu lokalnym, krajowym i światowym;
+C.W19. organizację i funkcjonowanie podstawowej opieki zdrowotnej w Rzeczypospolitej Polskiej i innych państwach, z uwzględnieniem zadań pielęgniarki i innych pracowników systemu ochrony zdrowia;
+C.W20. warunki realizacji i zasady finansowania świadczeń pielęgniarskich w podstawowej opiece zdrowotnej;
+C.W21. metody oceny środowiska nauczania i wychowania w zakresie rozpoznawania problemów zdrowotnych dzieci i młodzieży;
+C.W22. zapotrzebowanie organizmu na składniki pokarmowe;
+C.W23. zasady żywienia osób zdrowych i chorych w różnym wieku oraz żywienia dojelitowego i pozajelitowego;
+C.W24. zasady leczenia dietetycznego i powikłania dietoterapii;
+C.W25. rodzaje i zastosowanie środków spożywczych specjalnego przeznaczenia żywieniowego;
+C.W26. pojęcie stanowiska pracy, zakres obowiązków, uprawnień i odpowiedzialności;
+C.W27. przepisy prawa dotyczące czasu pracy, pracy zmianowej, rozkładu czasu pracy i obciążenia na stanowiskach pielęgniarskich;
+C.W28. podstawowe metody organizacji opieki pielęgniarskiej i ich znaczenie dla jakości tej opieki;
+C.W29. etapy planowania pracy własnej i podległego personelu;
+C.W30. możliwości planowania kariery zawodowej i uwarunkowania własnego rozwoju zawodowego;
+C.W31. problematykę jakości w opiece zdrowotnej;
+C.W32. pojęcie i zasady prowadzenia badania podmiotowego i jego dokumentowania;
+C.W33. metody i techniki kompleksowego badania przedmiotowego;
+C.W34. znaczenie wyników badania podmiotowego i przedmiotowego w formułowaniu oceny stanu zdrowia pacjenta dla potrzeb opieki pielęgniarskiej;
+C.W35. sposoby przeprowadzania badania fizykalnego z wykorzystaniem systemów teleinformatycznych lub systemów łączności;
+C.W36. pojęcie zakażeń związanych z udzielaniem świadczeń zdrowotnych, w tym zakażeń szpitalnych, z uwzględnieniem źródeł i rezerwuaru drobnoustrojów w środowisku pozaszpitalnym i szpitalnym, w tym dróg ich szerzenia;
+C.W37. sposoby kontroli szerzenia się, zapobiegania i zwalczania zakażeń szpitalnych;
+C.W38. mechanizm i sposoby postępowania w zakażeniu krwi, zakażeniu ogólnoustrojowym, szpitalnym zapaleniu płuc, zakażeniu dróg moczowych i zakażeniu miejsca operowanego;
+C.W39. zasady budowy i funkcjonowania Systemu Informacji Medycznej (SIM), dziedzinowych systemów teleinformatycznych oraz rejestrów medycznych, a także zasady ich współdziałania;
+C.W40. metody, narzędzia i techniki pozyskiwania danych;
+C.W41. podstawy języka migowego, znaki daktylograficzne i ideograficzne, w zakresie niezbędnym do gromadzenia informacji o sytuacji zdrowotnej pacjenta;
+C.W42. zasady komunikowania się z pacjentem niesłyszącym;
+C.W43. priorytety pracy zespołowej i czynniki wpływające na efektywność pracy zespołu;
+C.W44. znaczenie motywacji członków zespołu dla jakości i efektywności pracy;
+C.W45. rolę przywództwa i style zarządzania w pracy zespołowej oraz ich wady i zalety;
+C.W46. proces podejmowania decyzji w zespole;
+C.W47. metody samooceny pracy zespołu;
+C.W48. czynniki zakłócające pracę zespołową i metody rozwiązywania konfliktów w zespole.
+W zakresie umiejętności absolwent potrafi: C.U1. stosować wybraną metodę pielęgnowania w opiece nad pacjentem;
+C.U2. gromadzić informacje metodą wywiadu, obserwacji, pomiarów, badania przedmiotowego, analizy dokumentacji w celu rozpoznawania stanu zdrowia pacjenta i sformułowania diagnozy pielęgniarskiej;
+C.U3. ustalać cele i plan opieki pielęgniarskiej oraz realizować ją wspólnie z pacjentem i jego rodziną;
+C.U4. monitorować stan zdrowia pacjenta podczas pobytu w szpitalu lub innych jednostkach organizacyjnych systemu ochrony zdrowia;
+C.U5. dokonywać bieżącej i końcowej oceny stanu zdrowia pacjenta i podejmowanych działań pielęgniarskich;
+C.U6. wykonywać testy diagnostyczne dla oznaczenia ciał ketonowych i glukozy we krwi i w moczu oraz cholesterolu we krwi oraz inne testy paskowe;
+C.U7. prowadzić, dokumentować i oceniać bilans płynów pacjenta;
+C.U8. wykonywać pomiar temperatury ciała, tętna, oddechu, ciśnienia tętniczego krwi, ośrodkowego ciśnienia żylnego, obwodów, saturacji, szczytowego przepływu wydechowego oraz pomiary antropometryczne (pomiar masy ciała, wzrostu, wskaźnika BMI, wskaźników dystrybucji tkanki tłuszczowej: WHR, WHtR, grubości fałdów skórno-tłuszczowych);
+C.U9. pobierać materiał do badań laboratoryjnych i mikrobiologicznych oraz asystować lekarzowi przy badaniach diagnostycznych;
+C.U10. stosować zabiegi przeciwzapalne;
+C.U11. przechowywać i przygotowywać leki zgodnie z obowiązującymi standardami;
+C.U12. podawać pacjentowi leki różnymi drogami, zgodnie z pisemnym zleceniem lekarza lub zgodnie z posiadanymi kompetencjami oraz obliczać dawki leków;
+C.U13. wykonywać szczepienia przeciw grypie, WZW i tężcowi;
+C.U14. wykonywać płukanie jamy ustnej, gardła, oka, ucha, żołądka, pęcherza moczowego, przetoki jelitowej i rany;
+C.U15. zakładać i usuwać cewnik z żył obwodowych, wykonywać kroplowe wlewy dożylne oraz monitorować i pielęgnować miejsce wkłucia obwodowego, wkłucia centralnego i portu naczyniowego;
+C.U16. wykorzystywać dostępne metody karmienia pacjenta (doustnie, przez zgłębnik, przetoki odżywcze);
+C.U17. przemieszczać i pozycjonować pacjenta z wykorzystaniem różnych technik i metod;
+C.U18. wykonywać gimnastykę oddechową i drenaż ułożeniowy, odśluzowywanie dróg oddechowych i inhalację;
+C.U19. wykonywać nacieranie, oklepywanie, ćwiczenia czynne i bierne;
+C.U20. wykonywać zabiegi higieniczne;
+C.U21. pielęgnować skórę i jej wytwory oraz błony śluzowe z zastosowaniem środków farmakologicznych i materiałów medycznych, w tym stosować kąpiele lecznicze;
+C.U22. oceniać ryzyko rozwoju odleżyn i stosować działania profilaktyczne;
+C.U23. wykonywać zabiegi doodbytnicze;
+C.U24. zakładać cewnik do pęcherza moczowego, monitorować diurezę i usuwać cewnik;
+C.U25. zakładać zgłębnik do żołądka oraz monitorować i usuwać zgłębnik;
+C.U26. prowadzić dokumentację medyczną oraz posługiwać się nią;
+C.U27. rozwiązywać dylematy etyczne i moralne w praktyce pielęgniarskiej;
+C.U28. oceniać potencjał zdrowotny pacjenta i jego rodziny z wykorzystaniem skal, siatek i pomiarów;
+C.U29. rozpoznawać uwarunkowania zachowań zdrowotnych pacjenta i czynniki ryzyka chorób wynikających ze stylu życia;
+C.U30. dobierać metody i formy profilaktyki i prewencji chorób oraz kształtować zachowania zdrowotne różnych grup społecznych;
+C.U31. uczyć pacjenta samokontroli stanu zdrowia;
+C.U32. opracowywać i wdrażać indywidualne programy promocji zdrowia pacjentów, rodzin i grup społecznych;
+C.U33. realizować świadczenia zdrowotne w zakresie podstawowej opieki zdrowotnej;
+C.U34. oceniać środowisko zamieszkania, nauczania i wychowania oraz pracy w zakresie rozpoznawania problemów zdrowotnych;
+C.U35. oceniać stan odżywienia organizmu z wykorzystaniem metod antropometrycznych, biochemicznych i badania podmiotowego oraz prowadzić poradnictwo w zakresie żywienia;
+C.U36. stosować diety terapeutyczne w wybranych schorzeniach;
+C.U37. dobierać środki spożywcze specjalnego przeznaczenia żywieniowego i wystawiać na nie recepty w ramach realizacji zleceń lekarskich oraz udzielać informacji na temat ich stosowania;
+C.U38. podejmować decyzje dotyczące doboru metod pracy oraz współpracy w zespole;
+C.U39. monitorować zagrożenia w pracy pielęgniarki i czynniki sprzyjające występowaniu chorób zawodowych oraz wypadków przy pracy;
+C.U40. współuczestniczyć w opracowaniu standardów i procedur praktyki pielęgniarskiej oraz monitorować jakość opieki pielęgniarskiej;
+C.U41. nadzorować i oceniać pracę podległego personelu;
+C.U42. planować własny rozwój zawodowy i rozwijać umiejętności aktywnego poszukiwania pracy;
+C.U43. przeprowadzać badanie podmiotowe pacjenta, analizować i interpretować jego wyniki;
+C.U44. rozpoznawać i interpretować podstawowe odrębności w badaniu dziecka i osoby dorosłej, w tym osoby w podeszłym wieku;
+C.U45. wykorzystywać techniki badania fizykalnego do oceny fizjologicznych i patologicznych funkcji skóry, zmysłów, głowy, klatki piersiowej, gruczołów piersiowych, jamy brzusznej, narządów płciowych, układu sercowo-naczyniowego, układu oddechowego, obwodowego układu krążenia, układu mięśniowoszkieletowego i układu nerwowego oraz dokumentować wyniki badania fizykalnego i wykorzystywać je do oceny stanu zdrowia pacjenta;
+C.U46. przeprowadzać kompleksowe badanie podmiotowe i przedmiotowe pacjenta, dokumentować wyniki badania oraz dokonywać ich analizy dla potrzeb opieki pielęgniarskiej;
+C.U47. przeprowadzać badanie fizykalne z wykorzystaniem systemów teleinformatycznych lub systemów łączności;
+C.U48. wdrażać standardy postępowania zapobiegającego zakażeniom szpitalnym;
+C.U49. stosować środki ochrony własnej, pacjentów i współpracowników przed zakażeniami;
+C.U50. interpretować i stosować założenia funkcjonalne systemu informacyjnego z wykorzystaniem zaawansowanych metod i technologii informatycznych w wykonywaniu i kontraktowaniu świadczeń zdrowotnych;
+C.U51. posługiwać się w praktyce dokumentacją medyczną oraz przestrzegać zasad bezpieczeństwa i poufności informacji medycznej oraz prawa ochrony własności intelektualnej;
+C.U52. posługiwać się znakami języka migowego i innymi sposobami oraz środkami komunikowania się w opiece nad pacjentem z uszkodzeniem słuchu;
+C.U53. analizować korzyści wynikające z pracy zespołowej;
+C.U54. korzystać z wybranych modeli organizowania pracy własnej i zespołu;
+C.U55. wskazywać sposoby rozwiązywania problemów członków zespołu;
+C.U56. planować pracę zespołu i motywować członków zespołu do pracy;
+C.U57. identyfikować czynniki zakłócające pracę zespołu i wskazywać sposoby zwiększenia efektywności w pracy zespołowej.
+D. NAUKI W ZAKRESIE OPIEKI SPECJALISTYCZNEJ (choroby wewnętrzne i pielęgniarstwo internistyczne, pediatria i pielęgniarstwo pediatryczne, chirurgia i pielęgniarstwo chirurgiczne, położnictwo, ginekologia i pielęgniarstwo położniczoginekologiczne, psychiatria i pielęgniarstwo psychiatryczne, anestezjologia i pielęgniarstwo w zagrożeniu życia, pielęgniarstwo opieki długoterminowej, neurologia i pielęgniarstwo neurologiczne, geriatria i pielęgniarstwo geriatryczne, opieka paliatywna, podstawy rehabilitacji, podstawy ratownictwa medycznego, badania naukowe w pielęgniarstwie, seminarium dyplomowe) W zakresie wiedzy absolwent zna i rozumie: D.W1. czynniki ryzyka i zagrożenia zdrowotne u pacjentów w różnym wieku;
+D.W2. etiopatogenezę, objawy kliniczne, przebieg, leczenie, rokowanie i zasady opieki pielęgniarskiej nad pacjentami w wybranych chorobach;
+D.W3. zasady diagnozowania i planowania opieki nad pacjentem w pielęgniarstwie internistycznym, chirurgicznym, położniczo-ginekologicznym, pediatrycznym, geriatrycznym, neurologicznym, psychiatrycznym, w intensywnej opiece medycznej, opiece paliatywnej, opiece długoterminowej;
+D.W4. rodzaje badań diagnostycznych i zasady ich zlecania;
+D.W5. zasady przygotowania pacjenta w różnym wieku i stanie zdrowia do badań oraz zabiegów diagnostycznych, a także zasady opieki w trakcie oraz po tych badaniach i zabiegach;
+D.W6. właściwości grup leków i ich działanie na układy i narządy pacjenta w różnych chorobach w zależności od wieku i stanu zdrowia, z uwzględnieniem działań niepożądanych, interakcji z innymi lekami i dróg podania;
+D.W7. standardy i procedury pielęgniarskie stosowane w opiece nad pacjentem w różnym wieku i stanie zdrowia;
+D.W8. reakcje pacjenta na chorobę, przyjęcie do szpitala i hospitalizację;
+D.W9. proces starzenia się w aspekcie biologicznym, psychologicznym, społecznym i ekonomicznym;
+D.W10. zasady organizacji opieki specjalistycznej (geriatrycznej, intensywnej opieki medycznej, neurologicznej, psychiatrycznej, pediatrycznej, internistycznej, chirurgicznej, paliatywnej, długoterminowej oraz na bloku operacyjnym);
+D.W11. etiopatogenezę najczęstszych schorzeń wieku podeszłego;
+D.W12. narzędzia i skale oceny wsparcia osób starszych i ich rodzin oraz zasady ich aktywizacji;
+D.W13. patofizjologię, objawy kliniczne, przebieg, leczenie i rokowanie chorób wieku rozwojowego: układu oddechowego, układu krążenia, układu nerwowego, dróg moczowych, układu pokarmowego oraz chorób endokrynologicznych, metabolicznych, alergicznych i krwi;
+D.W14. patofizjologię, objawy kliniczne chorób i stanów zagrożenia życia noworodka, w tym wcześniaka oraz podstawy opieki pielęgniarskiej w tym zakresie;
+D.W15. cel i zasady opieki prekoncepcyjnej oraz zasady planowania opieki nad kobietą w ciąży fizjologicznej;
+D.W16. okresy porodu fizjologicznego i zasady opieki nad kobietą w okresie połogu;
+D.W17. etiopatogenezę schorzeń ginekologicznych;
+D.W18. metody, techniki i narzędzia oceny stanu świadomości i przytomności;
+D.W19. etiopatogenezę i objawy kliniczne podstawowych zaburzeń psychicznych;
+D.W20. zasady obowiązujące przy zastosowaniu przymusu bezpośredniego;
+D.W21. możliwości stosowania psychoterapii u pacjentów z zaburzeniami psychicznymi;
+D.W22. zasady żywienia pacjentów, z uwzględnieniem leczenia dietetycznego, wskazań przed- i pooperacyjnych według protokołu kompleksowej opieki okołooperacyjnej dla poprawy wyników leczenia (Enhanced Recovery After Surgery, ERAS);
+D.W23. czynniki zwiększające ryzyko okołooperacyjne;
+D.W24. zasady przygotowania pacjenta do zabiegu operacyjnego w trybie pilnym i planowym, w chirurgii jednego dnia oraz zasady opieki nad pacjentem po zabiegu operacyjnym w celu zapobiegania wczesnym i późnym powikłaniom;
+D.W25. zasady opieki nad pacjentem z przetoką jelitową i moczową;
+D.W26. podstawowe kierunki rehabilitacji leczniczej i zawodowej;
+D.W27. przebieg i sposoby postępowania rehabilitacyjnego w różnych chorobach;
+D.W28. standardy i procedury postępowania w stanach nagłych i zabiegach ratujących życie;
+D.W29. zasady obserwacji pacjenta po zabiegu operacyjnym, obejmującej monitorowanie w zakresie podstawowym i rozszerzonym;
+D.W30. metody znieczulenia i zasady opieki nad pacjentem po znieczuleniu;
+D.W31. patofizjologię i objawy kliniczne chorób stanowiących zagrożenie dla życia (niewydolność oddechowa, niewydolność krążenia, niewydolność układu nerwowego, wstrząs, sepsa);
+D.W32. metody i skale oceny bólu, poziomu sedacji oraz zaburzeń snu oraz stanów delirycznych u pacjentów w stanach zagrożenia życia;
+D.W33. metody i techniki komunikowania się z pacjentem niezdolnym do nawiązania i podtrzymania efektywnej komunikacji ze względu na stan zdrowia lub stosowane leczenie;
+D.W34. zasady profilaktyki powikłań związanych ze stosowaniem inwazyjnych technik diagnostycznych i terapeutycznych u pacjentów w stanie krytycznym;
+D.W35. zasady udzielania pierwszej pomocy i algorytmy postępowania resuscytacyjnego w zakresie podstawowych zabiegów resuscytacyjnych (Basic Life Support, BLS) i zaawansowanego podtrzymywania życia (Advanced Life Support, ALS);
+D.W36. zasady organizacji i funkcjonowania systemu Państwowe Ratownictwo Medyczne;
+D.W37. procedury zabezpieczenia medycznego w zdarzeniach masowych, katastrofach i innych sytuacjach szczególnych;
+D.W38. przedmiot, cel, obszar badań naukowych i paradygmaty pielęgniarstwa;
+D.W39. metody i techniki prowadzenia badań naukowych;
+D.W40. zasady etyki w prowadzeniu badań naukowych i podstawowe regulacje prawne z zakresu prawa autorskiego i prawa ochrony własności intelektualnej.
+W zakresie umiejętności absolwent potrafi: D.U1. gromadzić informacje, formułować diagnozę pielęgniarską, ustalać cele i plan opieki pielęgniarskiej, wdrażać interwencje pielęgniarskie oraz dokonywać ewaluacji opieki pielęgniarskiej;
+D.U2. prowadzić poradnictwo w zakresie samoopieki pacjentów w różnym wieku i stanie zdrowia dotyczące wad rozwojowych, chorób i uzależnień;
+D.U3. prowadzić profilaktykę powikłań występujących w przebiegu chorób;
+D.U4. organizować izolację pacjentów z chorobą zakaźną w miejscach publicznych i w warunkach domowych;
+D.U5. oceniać rozwój psychofizyczny dziecka, wykonywać testy przesiewowe i wykrywać zaburzenia w rozwoju;
+D.U6. dobierać technikę i sposoby pielęgnowania rany, w tym zakładania opatrunków;
+D.U7. dobierać metody i środki pielęgnacji ran na podstawie ich klasyfikacji;
+D.U8. rozpoznawać powikłania po specjalistycznych badaniach diagnostycznych i zabiegach operacyjnych;
+D.U9. doraźnie podawać pacjentowi tlen i monitorować jego stan podczas tlenoterapii;
+D.U10. wykonywać badanie elektrokardiograficzne i rozpoznawać zaburzenia zagrażające życiu;
+D.U11. modyfikować dawkę stałą insuliny szybko- i krótkodziałającej;
+D.U12. przygotowywać pacjenta fizycznie i psychicznie do badań diagnostycznych;
+D.U13. wystawiać skierowania na wykonanie określonych badań diagnostycznych;
+D.U14. przygotowywać zapisy form recepturowych substancji leczniczych w ramach kontynuacji leczenia;
+D.U15. dokumentować sytuację zdrowotną pacjenta, dynamikę jej zmian i realizowaną opiekę pielęgniarską, z uwzględnieniem narzędzi informatycznych do gromadzenia danych;
+D.U16. uczyć pacjenta i jego opiekuna doboru oraz użytkowania sprzętu pielęgnacyjnorehabilitacyjnego i wyrobów medycznych;
+D.U17. prowadzić u osób dorosłych i dzieci żywienie dojelitowe (przez zgłębnik i przetokę odżywczą) oraz żywienie pozajelitowe;
+D.U18. rozpoznawać powikłania leczenia farmakologicznego, dietetycznego, rehabilitacyjnego i leczniczo-pielęgnacyjnego;
+D.U19. pielęgnować pacjenta z przetoką jelitową oraz rurką intubacyjną i tracheotomijną;
+D.U20. prowadzić rozmowę terapeutyczną;
+D.U21. prowadzić rehabilitację przyłóżkową i aktywizację z wykorzystaniem elementów terapii zajęciowej;
+D.U22. przekazywać informacje członkom zespołu terapeutycznego o stanie zdrowia pacjenta;
+D.U23. asystować lekarzowi w trakcie badań diagnostycznych;
+D.U24. oceniać poziom bólu, reakcję pacjenta na ból i jego nasilenie oraz stosować farmakologiczne i niefarmakologiczne postępowanie przeciwbólowe;
+D.U25. postępować zgodnie z procedurą z ciałem zmarłego pacjenta;
+D.U26. przygotowywać i podawać pacjentom leki różnymi drogami, samodzielnie lub na zlecenie lekarza;
+D.U27. udzielać pierwszej pomocy w stanach bezpośredniego zagrożenia życia;
+D.U28. doraźnie unieruchamiać złamania kości, zwichnięcia i skręcenia oraz przygotowywać pacjenta do transportu;
+D.U29. doraźnie tamować krwawienia i krwotoki;
+D.U30. wykonywać podstawowe zabiegi resuscytacyjne u osób dorosłych i dzieci oraz stosować automatyczny defibrylator zewnętrzny (Automated External Defibrillator, AED) i bezprzyrządowe udrożnienie dróg oddechowych oraz przyrządowe udrażnianie dróg oddechowych z zastosowaniem dostępnych urządzeń nadgłośniowych;
+D.U31. krytycznie analizować publikowane wyniki badań naukowych;
+D.U32. przeprowadzać badanie jakościowe, posługując się narzędziami badawczymi.
+IV.A. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w zakresie wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie obiektywnego standaryzowanego egzaminu klinicznego (Objective Structured Clinical Examination, OSCE), który może stanowić formę egzaminu dyplomowego.
+6. Studia pierwszego stopnia kończą się egzaminem dyplomowym, składającym się z części teoretycznej i praktycznej. Egzamin dyplomowy obejmuje weryfikację osiągniętych efektów uczenia się objętych programem studiów.
+7. Pracę dyplomową student przygotowuje w oparciu o analizę indywidualnego przypadku.
+B. STUDIA DRUGIEGO STOPNIA I.B. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Studia drugiego stopnia trwają nie krócej niż 4 semestry.
+1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 1300.
+1.3. Liczba punktów ECTS konieczna do ukończenia studiów drugiego stopnia nie może być mniejsza niż 120.
+1.4. Kierunek pielęgniarstwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2) grup zajęć zintegrowanych łączących dwa albo więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+2.3. Proces kształcenia na studiach drugiego stopnia jest zorganizowany w sposób umożliwiający studentom będącym absolwentami studiów pierwszego stopnia, którzy rozpoczęli kształcenie przed rokiem akademickim 2016/2017 i nie ukończyli kursu specjalistycznego, o którym mowa w art. 15a ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2021 r. poz. 479), osiągnięcie szczegółowych efektów uczenia się określonych dla studiów pierwszego stopnia w zakresie wystawiania recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba punktów szczegółowe efekty uczenia się ECTS A. Nauki społeczne i humanistyczne 270 23 B. Zaawansowana praktyka pielęgniarska 510 40 C. Badania naukowe i rozwój pielęgniarstwa 170 15 D. Praktyki zawodowe 200 10 Razem 1150 88
+3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 150 godzin zajęć dydaktycznych (12 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w grupach zajęć A, B i C, z tym, że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.2. W ramach kształcenia w zakresie grupy zajęć A są prowadzone zajęcia z języka angielskiego w wymiarze nie mniejszym niż 90 godzin. Zajęcia te obejmują język specjalistyczny z zakresu pielęgniarstwa. Zajęciom tym przypisuje się nie mniej niż 6 punktów ECTS.
+3.3. Program studiów umożliwia studentom uzyskanie nie mniej niż 20 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.4. Kształcenie w zakresie grup zajęć A, B i C może być prowadzone z wykorzystaniem metod i technik kształcenia na odległość. Liczba punktów ECTS, jaka może być uzyskana w ramach tego kształcenia, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYKI ZAWODOWE
+4.1. Praktyki zawodowe mają na celu osiągnięcie efektów uczenia się ujętych w grupach zajęć A i B.
+Zakres praktyk zawodowych Liczba godzin Zarządzanie w pielęgniarstwie 20 Edukacja terapeutyczna w wybranych chorobach przewlekłych 40 Opieka onkologiczna 40 Wentylacja mechaniczna długoterminowa w opiece stacjonarnej i domowej 40 (oddział intensywnej terapii, oddział chorób płuc i poradnia leczenia domowego tlenem) Pracownia endoskopowa 40 Podstawowa opieka zdrowotna (gabinet pielęgniarki podstawowej opieki 20 zdrowotnej i gabinet lekarza podstawowej opieki zdrowotnej) Razem 200
+4.2. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się.
+5.2. Praktyki zawodowe odbywają się w podmiotach wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia, w szczególności w oddziałach szpitalnych oraz gabinetach podstawowej opieki zdrowotnej (pielęgniarki podstawowej opieki zdrowotnej i lekarza podstawowej opieki zdrowotnej).
+II.B. OSOBY PROWADZĄCE KSZTAŁCENIE
+1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć A, B i C jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+2. Kształcenie służące osiągnięciu efektów uczenia się w grupie zajęć A, B i C, w ramach zajęć obejmujących treści kształcenia z zakresu opieki pielęgniarskiej, jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających prawo wykonywania zawodu pielęgniarki oraz co najmniej roczną praktykę zawodową w zakresie właściwym dla prowadzonych zajęć.
+3. Praktyki zawodowe są prowadzone pod kierunkiem osoby posiadającej prawo wykonywania zawodu pielęgniarki będącej pracownikiem danego podmiotu wykonującego działalność leczniczą, w którym odbywa się praktyka, a nadzór nad realizacją praktyk sprawuje opiekun praktyk z uczelni.
+III.B. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) zasady i metody monitorowania stanu zdrowia pacjenta oraz realizacji działań promocyjno-profilaktycznych w populacji osób zdrowych;
+2) standardy realizacji zaawansowanych i samodzielnych świadczeń pielęgniarskich;
+3) mechanizmy działania produktów leczniczych i zasady ich ordynowania;
+4) wytyczne terapeutyczne i standardy opieki pielęgniarskiej w chorobach przewlekłych;
+5) zasady i metody edukacji osób zdrowych i chorych w chorobach przewlekłych;
+6) rolę pielęgniarki w koordynowanej opiece zdrowotnej;
+7) problematykę zarządzania zespołami pielęgniarskimi i organizacjami opieki zdrowotnej;
+8) uwarunkowania rozwoju jakości usług zdrowotnych;
+9) regulacje prawne dotyczące wykonywania zawodu pielęgniarki i udzielania świadczeń zdrowotnych;
+10) metodologię badań naukowych i zasady ich prowadzenia;
+11) wymagania dotyczące przygotowywania publikacji naukowych;
+12) kierunki rozwoju pielęgniarstwa w Europie i na świecie;
+13) zasady udzielania świadczeń zdrowotnych w opiece długoterminowej;
+14) uwarunkowania kulturowe i religijne sprawowania opieki pielęgniarskiej nad pacjentami różnych narodowości i wyznań;
+15) metodykę kształcenia zawodowego przeddyplomowego i podyplomowego.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) monitorować stan zdrowia dzieci i osób dorosłych, w tym osób starszych, oraz wdrażać działania edukacyjne i promocyjno-profilaktyczne;
+2) rozwiązywać problemy zawodowe, szczególnie związane z podejmowaniem decyzji w sytuacjach trudnych, wynikających ze specyfiki zadań zawodowych i warunków ich realizacji;
+3) dobierać, zlecać i interpretować badania diagnostyczne w ramach posiadanych uprawnień;
+4) opracowywać program edukacji terapeutycznej pacjenta z chorobą przewlekłą, prowadzić tę edukację i dokonywać ewaluacji tego programu;
+5) samodzielnie pielęgnować pacjenta z raną przewlekłą i przetoką;
+6) koordynować opiekę zdrowotną nad pacjentem w systemie ochrony zdrowia;
+7) ordynować leki, środki specjalnego przeznaczenia żywieniowego i wyroby medyczne, w tym wystawiać na nie recepty lub zlecenia;
+8) udzielać samodzielnych porad zdrowotnych w zakresie posiadanych kompetencji zawodowych;
+9) tworzyć standardy opieki pielęgniarskiej oraz wdrażać je do praktyki pielęgniarskiej;
+10) stosować odpowiednie przepisy prawa w działalności zawodowej;
+11) określać zapotrzebowanie pacjentów na opiekę pielęgniarską oraz opracowywać założenia pielęgniarskiej polityki kadrowej;
+12) komunikować się z pacjentem, uwzględniając uwarunkowania kulturowe i wyznaniowe;
+13) organizować i nadzorować pracę zespołu pielęgniarskiego i personelu pomocniczego;
+14) prowadzić badania naukowe i upowszechniać ich wyniki;
+15) wykorzystywać wyniki badań naukowych i światowy dorobek pielęgniarstwa dla rozwoju praktyki pielęgniarskiej;
+16) zapewniać opiekę pacjentowi wentylowanemu mechanicznie w warunkach opieki długoterminowej stacjonarnej i domowej;
+17) stosować metodykę nauczania oraz ewaluacji w realizacji zadań z zakresu kształcenia zawodowego.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) dokonywania krytycznej oceny działań własnych i działań współpracowników z poszanowaniem różnic światopoglądowych i kulturowych;
+2) formułowania opinii dotyczących różnych aspektów działalności zawodowej zasięgania porad ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemu;
+3) okazywania dbałości o prestiż związany z wykonywaniem zawodu pielęgniarki i solidarność zawodową;
+4) rozwiązywania złożonych problemów etycznych związanych z wykonywaniem zawodu pielęgniarki i wskazywania priorytetów w realizacji określonych zadań;
+5) ponoszenia odpowiedzialności za realizowane świadczenia zdrowotne;
+6) wykazywania profesjonalnego podejścia do strategii marketingowych przemysłu farmaceutycznego i reklamy jego produktów.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI SPOŁECZNE I HUMANISTYCZNE (psychologia zdrowia, prawo w praktyce pielęgniarskiej, zarządzanie w pielęgniarstwie, dydaktyka medyczna, pielęgniarstwo wielokulturowe, język angielski) W zakresie wiedzy absolwent zna i rozumie: A.W1. modele i podejścia stosowane w psychologii zdrowia;
+A.W2. znaczenie wsparcia społecznego i psychologicznego w zdrowiu i chorobie;
+A.W3. teorie stresu psychologicznego, zależności między stresem a stanem zdrowia oraz inne psychologiczne determinanty zdrowia;
+A.W4. podejście salutogenetyczne podmiotowych uwarunkowań optymalnego stanu zdrowia i podejście patogenetyczne uwarunkowane chorobą;
+A.W5.
+i procesy adaptacji człowieka do życia z przewlekłą chorobą i uwarunkowania tych procesów;
+A.W6. skutki prawne zdarzeń medycznych;
+A.W7. istotę błędów medycznych w pielęgniarstwie w kontekście niepowodzenia w działaniach terapeutyczno-pielęgnacyjnych;
+A.W8. system ubezpieczeń w zakresie odpowiedzialności cywilnej;
+A.W9. uwarunkowania prawne przetwarzania danych wrażliwych w systemie ochrony zdrowia;
+A.W10. poziomy uprawnień do udzielania świadczeń zdrowotnych przez pielęgniarkę w odniesieniu do poziomów kwalifikacji pielęgniarskich;
+A.W11. metody zarządzania w systemie ochrony zdrowia;
+A.W12. zasady funkcjonowania organizacji i budowania struktur;
+A.W13. pojęcie kultury organizacyjnej i czynników ją determinujących;
+A.W14. mechanizmy podejmowania decyzji w zarządzaniu;
+A.W15. style zarządzania i znaczenie przywództwa w rozwoju pielęgniarstwa;
+A.W16. zasady świadczenia usług pielęgniarskich i sposób ich finansowania;
+A.W17. specyfikę funkcji kierowniczych, w tym istotę delegowania zadań;
+A.W18. metody diagnozy organizacyjnej, koncepcję i teorię zarządzania zmianą oraz zasady zarządzania strategicznego;
+A.W19. problematykę zarządzania zasobami ludzkimi;
+A.W20. uwarunkowania rozwoju zawodowego pielęgniarek;
+A.W21. naukowe podstawy ergonomii w środowisku pracy;
+A.W22. modele i strategie zarządzania jakością;
+A.W23. podstawowe pojęcia z zakresu dydaktyki medycznej;
+A.W24. zasady przygotowania do działalności dydaktycznej;
+A.W25. metody nauczania i środki dydaktyczne stosowane w kształceniu przeddyplomowym i podyplomowym;
+A.W26. Europejską Konwencję o Ochronie Praw Człowieka i Podstawowych Wolności;
+A.W27. teorię pielęgniarstwa wielokulturowego Madeleine Leininger;
+A.W28. kulturowe uwarunkowania zapewnienia opieki z uwzględnieniem zachowań zdrowotnych i podejścia do leczenia;
+A.W29. różnice kulturowe i religijne w postrzeganiu człowieka i w komunikacji międzykulturowej.
+W zakresie umiejętności absolwent potrafi: A.U1. wskazywać rolę wsparcia społecznego i psychologicznego w opiece nad osobą zdrową i chorą;
+A.U2. wskazywać metody radzenia sobie ze stresem;
+A.U3. oceniać zdarzenia w praktyce zawodowej pielęgniarki w kontekście zgodności z przepisami prawa oraz możliwości i sposobów dochodzenia roszczeń, a także wskazywać możliwości rozwiązania danego problemu;
+A.U4. kwalifikować daną sytuację zawodową w odniesieniu do prawa cywilnego, karnego i zawodowego;
+A.U5. analizować przyczyny błędów medycznych i proponować działania zapobiegawcze;
+A.U6. analizować strukturę zadań zawodowych pielęgniarek w kontekście posiadanych kwalifikacji;
+A.U7. stosować metody analizy strategicznej niezbędne dla funkcjonowania podmiotów wykonujących działalność leczniczą;
+A.U8. organizować i nadzorować prace zespołów pielęgniarskich;
+A.U9. stosować różne metody podejmowania decyzji zawodowych i zarządczych;
+A.U10. planować zasoby ludzkie, wykorzystując różne metody, organizować rekrutację pracowników i realizować proces adaptacji zawodowej;
+A.U11. opracowywać plan rozwoju zawodowego własnego i podległego personelu pielęgniarskiego;
+A.U12. przygotowywać opisy stanowisk pracy dla pielęgniarek oraz zakresy obowiązków, uprawnień i odpowiedzialności;
+A.W13. opracowywać harmonogramy pracy personelu w oparciu o ocenę zapotrzebowania na opiekę pielęgniarską;
+A.U14. nadzorować jakość opieki pielęgniarskiej w podmiotach wykonujących działalność leczniczą, w tym przygotować ten podmiot do zewnętrznej oceny jakości;
+A.U15. dobierać odpowiednie środki i metody nauczania w działalności dydaktycznej;
+A.U16. dokonywać weryfikacji osiągniętych efektów uczenia się i organizacji procesu kształcenia zawodowego;
+A.U17. wykorzystywać w pracy zróżnicowanie w zakresie komunikacji interpersonalnej wynikające z uwarunkowań kulturowych, etnicznych, religijnych i społecznych;
+A.U18. stosować w praktyce założenia teorii pielęgniarstwa wielokulturowego Madeleine Leininger;
+A.U19. rozpoznawać kulturowe uwarunkowania żywieniowe i transfuzjologiczne;
+A.U20. uwzględniać uwarunkowania religijne i kulturowe potrzeb pacjentów w opiece zdrowotnej;
+A.U21. porozumiewać się w języku angielskim na poziomie B2+ Europejskiego Systemu Kształcenia Językowego.
+(farmakologia i ordynowanie produktów leczniczych; pielęgniarstwo epidemiologiczne; endoskopia; poradnictwo w pielęgniarstwie; koordynowana opieka zdrowotna; promocja zdrowia i świadczenia profilaktyczne; opieka i edukacja terapeutyczna w chorobach przewlekłych, w tym: niewydolność krążenia i zaburzenia rytmu, nadciśnienie tętnicze, niewydolność oddechowa, leczenie nerkozastępcze, cukrzyca, choroba nowotworowa, rany przewlekłe i przetoki, ból, leczenie żywieniowe, tlenoterapia ciągła i wentylacja mechaniczna, zaburzenia układu nerwowego, zaburzenia zdrowia psychicznego) W zakresie wiedzy absolwent zna i rozumie: B.W1. mechanizmy działania produktów leczniczych oraz ich przemiany w ustroju zależne od wieku i problemów zdrowotnych;
+B.W2. regulacje prawne związane z refundacją leków, wyrobów medycznych i środków spożywczych specjalnego przeznaczenia żywieniowego;
+B.W3. zasady ordynowania produktów leczniczych zawierających określone substancje czynne, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe, oraz określonych wyrobów medycznych, w tym wystawiania na nie recept lub zleceń;
+B.W4. objawy i skutki uboczne działania leków zawierających określone substancje czynne;
+B.W5. założenia organizacji i nadzoru epidemiologicznego w zakładach opieki zdrowotnej;
+B.W6. uwarunkowania występowania, kontroli i profilaktyki zakażeń szpitalnych w różnych oddziałach szpitalnych, z uwzględnieniem czynników etologicznych, w tym patogenów alarmowych;
+B.W7. zasady planowania, opracowania, wdrażania i nadzorowania działań zapobiegawczych oraz przeciwepidemicznych;
+B.W8. organizację i funkcjonowanie pracowni endoskopowej oraz zasady wykonywania procedur endoskopowych;
+B.W9. diagnostyczne i terapeutyczne możliwości endoskopii w zakresie przewodu pokarmowego, dróg oddechowych, urologii, ginekologii, laryngologii, anestezjologii i ortopedii;
+B.W10. zasady prowadzenia dokumentacji medycznej obowiązujące w pracowni endoskopowej;
+B.W11. założenia teoretyczne poradnictwa w pracy pielęgniarki bazujące na regulacjach prawnych i transteoretycznym modelu zmiany (Prochaska i DiClemente);
+B.W12. predyktory funkcjonowania człowieka zdrowego i chorego, z uwzględnieniem choroby przewlekłej;
+B.W13. metody oceny stanu zdrowia pacjenta w poradnictwie pielęgniarskim;
+B.W14. zasady postępowania terapeutycznego w przypadku najczęstszych problemów zdrowotnych;
+B.W15. zasady doboru badań diagnostycznych i interpretacji ich wyników w zakresie posiadanych uprawnień zawodowych;
+B.W16. modele opieki koordynowanej funkcjonujące w Rzeczypospolitej Polskiej i wybranych państwach;
+B.W17. regulacje prawne w zakresie koordynacji opieki zdrowotnej nad świadczeniobiorcą w systemie ochrony zdrowia;
+B.W18. zasady koordynowania programów zdrowotnych oraz procesu organizacji i udzielania świadczeń zdrowotnych w różnych obszarach systemu ochrony zdrowia;
+B.W19. zasady funkcjonowania zespołów interdyscyplinarnych w opiece zdrowotnej;
+B.W20. założenia i zasady opracowywania standardów postępowania pielęgniarskiego z uwzględnieniem praktyki opartej na dowodach naukowych w medycynie (evidence based medicine) i w pielęgniarstwie (evidence based nursing practice);
+B.W21. założenia i zasady tworzenia oraz ewaluacji programów zdrowotnych oraz metody edukacji terapeutycznej;
+B.W22. zakres profilaktyki i prewencji chorób zakaźnych, chorób społecznych i chorób cywilizacyjnych;
+B.W23. procedurę i zakres bilansu zdrowia dziecka i osoby dorosłej;
+B.W24. badania profilaktyczne oraz programy profilaktyczne finansowane ze środków publicznych przez Narodowy Fundusz Zdrowia;
+B.W25. zasady postępowania diagnostyczno-terapeutycznego i opieki nad pacjentami z nadciśnieniem tętniczym, zaburzeniami rytmu serca, przewlekłą niewydolnością krążenia oraz nowoczesne technologie wykorzystywane w terapii i monitorowaniu pacjentów z chorobami układu krążenia;
+B.W26. patomechanizm, objawy, diagnostykę i postępowanie pielęgniarskie w przewlekłej niewydolności oddechowej;
+B.W27. technikę badania spirometrycznego;
+B.W28. standardy specjalistycznej opieki pielęgniarskiej nad pacjentem w przebiegu leczenia nerkozastępczego w technikach przerywanych i technikach ciągłych (Continuous Renal Replacement Therapy, CRRT);
+B.W29. zasady funkcjonowania stacji dializ i leczenia nerkozastępczego (ciągła ambulatoryjna dializa otrzewnowa CADO, ambulatoryjna dializa otrzewnowa ADO, hemodializa, hiperalimentacja);
+B.W30. przyczyny i zasady postępowania diagnostyczno-terapeutycznego oraz opieki nad pacjentami z niewydolnością narządową;
+B.W31. zasady opieki nad pacjentem przed i po przeszczepieniu narządów;
+B.W32. zasady i metody prowadzenia edukacji terapeutycznej pacjenta, jego rodziny i opiekuna w zakresie samoobserwacji i samopielęgnacji w cukrzycy, astmie i przewlekłej obturacyjnej chorobie płuc;
+B.W33. patomechanizm cukrzycy, astmy i przewlekłej obturacyjnej choroby płuc oraz powikłania i zasady koordynacji działań związanych z prowadzeniem edukacji terapeutycznej;
+B.W34. etiopatogenezę nowotworzenia, epidemiologię i profilaktykę chorób nowotworowych;
+B.W35. zasady leczenia i opieki nad pacjentem z chorobą nowotworową, w tym terapii spersonalizowanej;
+B.W36. zasady i sposoby pielęgnowania pacjenta po radioterapii i chemioterapii;
+B.W37. metody rozpoznawania reakcji pacjenta na chorobę i leczenie onkologiczne;
+B.W38. metody oceny ran przewlekłych i ich klasyfikację;
+B.W39. nowoczesne metody terapii i rolę hiperbarii tlenowej oraz terapii podciśnieniowej w procesie leczenia najczęściej występujących ran przewlekłych, w szczególności owrzodzeń żylnych, owrzodzeń niedokrwiennych, odleżyn, odmrożeń, zespołu stopy cukrzycowej;
+B.W40. zasady doboru opatrunków w leczeniu ran przewlekłych;
+B.W41. zasady przygotowania pacjenta i jego rodziny w zakresie profilaktyki występowania ran oraz ich powikłań;
+B.W42. zasady oceny funkcjonowania przetoki jelitowej i moczowej oraz ich powikłań;
+B.W43. zasady przygotowania pacjenta z przetoką jelitową i moczową oraz jego rodziny do samoobserwacji i samoopieki oraz zasady doboru sprzętu stomijnego i jego refundacji;
+B.W44. metody oceny bólu w różnych sytuacjach klinicznych i farmakologiczne oraz niefarmakologiczne metody jego leczenia;
+B.W45. zasady współpracy z zespołem żywieniowym w planowaniu i realizacji metod, technik oraz rodzajów żywienia dojelitowego i pozajelitowego w ramach profilaktyki powikłań;
+B.W46. zasady stosowania nowoczesnych metod tlenoterapii, monitorowania stanu pacjenta leczonego tlenem i toksyczności tlenu;
+B.W47. wskazania i zasady stosowania wentylacji mechanicznej inwazyjnej i nieinwazyjnej oraz możliwe powikłania jej zastosowania;
+B.W48. wpływ choroby przewlekłej na funkcjonowanie psychofizyczne człowieka i kształtowanie więzi międzyludzkich;
+B.W49. przyczyny, objawy i przebieg depresji, zaburzeń lękowych oraz uzależnień;
+B.W50. zasady opieki pielęgniarskiej nad pacjentem z zaburzeniami psychicznymi, w tym depresją i zaburzeniami lękowymi, oraz pacjentem uzależnionym;
+B.W51. zakres pomocy i wsparcia w ramach świadczeń oferowanych osobom z problemami zdrowia psychicznego i ich rodzinom lub opiekunom;
+B.W52. zasady opieki pielęgniarskiej nad pacjentem z zaburzeniami układu nerwowego, w tym chorobami degeneracyjnymi.
+W zakresie umiejętności absolwent potrafi: B.U1. dobierać i przygotowywać zapis form recepturowych leków zawierających określone substancje czynne, na podstawie ukierunkowanej oceny stanu pacjenta;
+B.U2. interpretować charakterystyki farmaceutyczne produktów leczniczych;
+B.U3. ordynować leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne oraz wystawiać na nie recepty lub zlecenia;
+B.U4. dobierać i zlecać środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne w zależności od potrzeb pacjenta;
+B.U5. stosować zasady zapobiegania i zwalczania zakażeń szpitalnych oraz nadzoru epidemiologicznego w różnych zakładach opieki zdrowotnej;
+B.U6. planować i przeprowadzać edukację personelu w zakresie profilaktyki i zwalczania zakażeń i chorób zakaźnych;
+B.U7. wykorzystywać wskaźniki jakości zarządzania opieką pielęgniarską w nadzorze epidemiologicznym;
+B.U8. uczyć pacjenta i jego rodzinę postępowania przed planowanym i po wykonanym procesie diagnostyki i terapii endoskopowej;
+B.U9. współuczestniczyć w procesie diagnostyki i terapii endoskopowej;
+B.U10. prowadzić dokumentację medyczną w pracowni endoskopowej;
+B.U11. diagnozować zagrożenia zdrowotne pacjenta z chorobą przewlekłą;
+B.U12. oceniać adaptację pacjenta do choroby przewlekłej;
+B.U13. udzielać porad osobom zagrożonym uzależnieniami i uzależnionym, wykorzystując transteoretyczny model zmian (Prochaska i DiClemente);
+B.U14. przygotowywać materiały edukacyjne dla pacjenta i jego rodziny w ramach poradnictwa zdrowotnego;
+B.U15. wykorzystywać zasoby technologiczne dla potrzeb poradnictwa zdrowotnego;
+B.U16. dobierać i stosować metody oceny stanu zdrowia pacjenta w ramach udzielania porad pielęgniarskich;
+B.U17. dokonywać wyboru i zlecać badania diagnostyczne w ramach posiadanych uprawnień zawodowych;
+B.U18. wdrażać działanie terapeutyczne w zależności od oceny stanu pacjenta w ramach posiadanych uprawnień zawodowych;
+B.U19. koordynować realizację świadczeń zdrowotnych dla pacjentów ze schorzeniami przewlekłymi;
+B.U20. opracowywać diagnozę potrzeb zdrowotnych i plan organizacji opieki oraz leczenia na poziomie organizacji i międzyinstytucjonalnym;
+B.U21. planować i koordynować proces udzielania świadczeń zdrowotnych, z uwzględnieniem kryterium jakości i efektywności;
+B.U22. dostosowywać do rozpoznanych potrzeb zdrowotnych dostępne programy promocji zdrowia i edukacji zdrowotnej;
+B.U23. wdrażać programy promocji zdrowia dla pacjentów i ich rodzin;
+B.U24. stosować wybrane metody edukacji zdrowotnej;
+B.U25. prowadzić działania w zakresie profilaktyki i prewencji chorób zakaźnych, chorób społecznych i chorób cywilizacyjnych;
+B.U26. reagować na swoiste zagrożenia zdrowotne występujące w środowisku zamieszkania, edukacji i pracy;
+B.U27. przygotowywać pacjenta z nadciśnieniem tętniczym, przewlekłą niewydolnością krążenia i zaburzeniami rytmu serca do samoopieki i samopielęgnacji;
+B.U28. planować i przeprowadzać edukację terapeutyczną pacjenta, jego rodziny i opiekuna w zakresie samoobserwacji i samopielęgnacji przy nadciśnieniu tętniczym, w przewlekłej niewydolności krążenia i przy zaburzeniach rytmu serca;
+B.U29 wykorzystywać nowoczesne technologie informacyjne do monitorowania pacjentów z chorobami układu krążenia;
+B.U30. wykonywać badania spirometryczne i interpretować ich wyniki;
+B.U31. sprawować specjalistyczną opiekę pielęgniarską nad pacjentem w przebiegu leczenia nerkozastępczego w technikach przerywanych oraz technikach ciągłych (Continuous Renal Replacement Therapy, CRRT);
+B.U32. planować i przeprowadzać edukację terapeutyczną pacjenta, jego rodziny i opiekuna w zakresie samoobserwacji i samopielęgnacji podczas dializy i hemodializy;
+B.U33. planować i sprawować opiekę pielęgniarską nad pacjentem z niewydolnością narządową, przed i po przeszczepieniu narządów;
+B.U34. wykorzystywać aktualną wiedzę w celu zapewnienia wysokiego poziomu edukacji terapeutycznej pacjentów chorych na cukrzycę, ich rodzin i opiekunów;
+B.U35. planować i koordynować opiekę nad pacjentem chorym na cukrzycę;
+B.U36. motywować pacjenta chorego na cukrzycę do radzenia sobie z chorobą i do współpracy w procesie leczenia;
+B.U37. planować opiekę nad pacjentami z wybranymi chorobami nowotworowymi leczonymi systemowo;
+B.U38. stosować metody i środki łagodzące skutki uboczne chemioterapii i radioterapii;
+B.U39. rozpoznawać sytuację psychologiczną pacjenta i jego reakcje na chorobę oraz proces leczenia, a także udzielać mu wsparcia motywacyjno-edukacyjnego;
+B.U40. oceniać i klasyfikować rany przewlekłe;
+B.U41. dobierać opatrunki z uwzględnieniem rodzaju i stanu rany;
+B.U42. przygotowywać pacjenta i jego rodzinę do profilaktyki, samokontroli i pielęgnacji rany;
+B.U43. stosować nowoczesne techniki pielęgnacji przetok jelitowych i moczowych;
+B.U44. przygotowywać pacjenta ze stomią do samoopieki i zapewniać doradztwo w doborze sprzętu stomijnego;
+B.U45. oceniać natężenie bólu według skal z uwzględnieniem wieku pacjenta i jego stanu klinicznego;
+B.U46. dobierać i stosować metody leczenia farmakologicznego bólu oraz stosować metody niefarmakologicznego leczenia bólu w zależności od stanu klinicznego pacjenta;
+B.U47. monitorować skuteczność leczenia przeciwbólowego;
+B.U48. prowadzić edukację pacjenta w zakresie samokontroli i samopielęgnacji w terapii bólu;
+B.U49. wykorzystywać standaryzowane narzędzia w przeprowadzaniu oceny stanu odżywienia pacjenta;
+B.U50. monitorować stan ogólny pacjenta w czasie leczenia żywieniowego;
+B.U51. prowadzić żywienie dojelitowe z wykorzystaniem różnych technik, w tym pompy perystaltycznej i żywienia pozajelitowego drogą żył centralnych i obwodowych;
+B.U52. przygotowywać sprzęt i urządzenia do wdrożenia wentylacji mechanicznej inwazyjnej, w tym wykonywać test aparatu;
+B.U53. obsługiwać respirator w trybie wentylacji nieinwazyjnej;
+B.U54. przygotowywać i stosować sprzęt do prowadzenia wentylacji nieinwazyjnej;
+B.U55. zapewniać pacjentowi wentylowanemu mechanicznie w sposób inwazyjny kompleksową opiekę pielęgniarską;
+B.U56. komunikować się z pacjentem wentylowanym mechanicznie z wykorzystaniem alternatywnych metod komunikacji;
+B.U57. oceniać potrzeby zdrowotne pacjenta z zaburzeniami psychicznymi, w tym depresją i zaburzeniami lękowymi, oraz pacjenta uzależnionego, a także planować interwencje zdrowotne;
+B.U58. analizować i dostosowywać do potrzeb pacjenta dostępne programy promocji zdrowia psychicznego;
+B.U59. rozpoznawać sytuację życiową pacjenta w celu zapobiegania jego izolacji społecznej;
+B.U60. prowadzić psychoedukację pacjenta z zaburzeniami psychicznymi, w tym depresją i zaburzeniami lękowymi, oraz pacjenta uzależnionego i jego rodziny (opiekuna), a także stosować treningi umiejętności społecznych jako formę rehabilitacji psychiatrycznej;
+B.U61. sprawować zaawansowaną opiekę pielęgniarką nad pacjentem z zaburzeniami układu nerwowego, w tym z chorobami degeneracyjnymi.
+BADANIA NAUKOWE I ROZWÓJ PIELĘGNIARSTWA (badania naukowe w pielęgniarstwie, statystyka medyczna, informacja naukowa, praktyka pielęgniarska oparta na dowodach naukowych, pielęgniarstwo w perspektywie międzynarodowej, seminarium dyplomowe) W zakresie wiedzy absolwent zna i rozumie: C.W1. kierunki, zakres i rodzaj badań naukowych w pielęgniarstwie;
+C.W2. reguły dobrych praktyk w badaniach naukowych;
+C.W3. metody i techniki badawcze stosowane w badaniach naukowych w pielęgniarstwie;
+C.W4. zasady przygotowywania baz danych do analiz statystycznych;
+C.W5. narzędzia informatyczne, testy statystyczne i zasady opracowywania wyników badań naukowych;
+C.W6. źródła naukowej informacji medycznej;
+C.W7. sposoby wyszukiwania informacji naukowej w bazach danych;
+C.W8. zasady praktyki opartej na dowodach naukowych w medycynie (evidence based medicine) i w pielęgniarstwie (evidence based nursing practice);
+C.W9. systemy kształcenia przeddyplomowego i podyplomowego pielęgniarek w wybranych państwach członkowskich Unii Europejskiej;
+C.W10. procedurę uznawania kwalifikacji zawodowych pielęgniarek w Rzeczypospolitej Polskiej i innych państwach członkowskich Unii Europejskiej;
+C.W11. systemy opieki pielęgniarskiej i współczesne kierunki rozwoju opieki pielęgniarskiej;
+C.W12. zasady dostępu obywateli państw członkowskich Unii Europejskiej do świadczeń zdrowotnych w świetle prawa Unii Europejskiej;
+C.W13. rolę i priorytety polityki zdrowotnej Światowej Organizacji Zdrowia oraz Komisji Europejskiej.
+W zakresie umiejętności absolwent potrafi: C.U1. wskazywać kierunki i zakres badań naukowych w pielęgniarstwie;
+C.U2. zaplanować badanie naukowe i omówić jego cel oraz spodziewane wyniki;
+C.U3. przeprowadzić badanie naukowe, zaprezentować i zinterpretować jego wyniki oraz odnieść je do aktualnego stanu wiedzy;
+C.U4. przygotowywać bazy danych do obliczeń statystycznych;
+C.U5. stosować testy parametryczne i nieparametryczne dla zmiennych zależnych i niezależnych;
+C.U6. korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej, naukowych baz danych oraz informacji i danych przekazywanych przez międzynarodowe organizacje i stowarzyszenia pielęgniarskie;
+C.U7. przygotowywać rekomendacje w zakresie opieki pielęgniarskiej w oparciu o dowody naukowe.
+IV.B. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+Możliwe jest wykorzystanie opisów przypadków klinicznych, na podstawie których student ustala i prezentuje plan specjalistycznej opieki pielęgniarskiej.
+5. Studia drugiego stopnia kończą się egzaminem dyplomowym obejmującym weryfikację osiągniętych efektów uczenia się objętych programem studiów.
+Standard kształcenia przygotowującego do wykonywania zawodu położnej Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu położnej, prowadzonego na studiach pierwszego stopnia i studiach drugiego stopnia na kierunku położnictwo.
+A. STUDIA PIERWSZEGO STOPNIA I.A. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Studia pierwszego stopnia trwają nie krócej niż 6 semestrów.
+1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 4720.
+1.3. Liczba punktów ECTS konieczna do ukończenia studiów pierwszego stopnia nie może być mniejsza niż 180.
+1.4. Kierunek położnictwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2)
+3) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba punktów efekty uczenia się godzin ECTS A. Nauki podstawowe 500 19 B. Nauki społeczne i humanistyczne 420 15 C. Nauki w zakresie podstaw opieki położniczej 600 22 D. Nauki w zakresie opieki specjalistycznej 900 35 E. Zajęcia praktyczne 1100 43 F. Praktyki zawodowe 1200 46 Razem 4720 180
+3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
+3.2. W ramach kształcenia w zakresie grupy zajęć B są prowadzone zajęcia z języka angielskiego w wymiarze nie mniejszym niż 120 godzin. Zajęcia te obejmują język specjalistyczny z zakresu położnictwa. Zajęciom tym przypisuje się nie mniej niż 5 punktów ECTS.
+3.3. W ramach kształcenia w zakresie grupy zajęć D przypisuje się nie mniej niż 5 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.4. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.5. W ramach realizacji programu studiów w zakresie grup zajęć:
+1) A i B po 25% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 230 godzin) oraz
+2) C i D po 35% wymiaru godzin w każdej z tych grup zajęć (łącznie nie więcej niż 525 godzin) może być realizowane jako praca własna studenta pod kierunkiem nauczycieli akademickich.
+3.6. Kształcenie z wykorzystaniem metod i technik kształcenia na odległość może być prowadzone w grupach zajęć A, B, C i D. Liczba punktów ECTS, jaka może być uzyskana w ramach tego kształcenia, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. ZAJĘCIA PRAKTYCZNE I PRAKTYKI ZAWODOWE
+4.1. Zajęcia praktyczne i praktyki zawodowe mają na celu osiągnięcie efektów uczenia się ujętych w grupach zajęć C i D.
+Zajęcia praktyczne Praktyki zawodowe Zakres zajęć praktycznych Liczba Liczba Liczba Liczba i praktyk zawodowych punktów punktów godzin/tygodni godzin/tygodni ECTS ECTS Podstawy opieki położniczej 160 godzin/ 6 80 godzin/ 3 4 tygodnie 2 tygodnie Techniki położnicze i 320 godzin/ 11 360 godzin/ 13 przyjmowanie porodu 8 tygodni 9 tygodni Promocja zdrowia 20 godzin/ 0,5 tygodnia 1 Podstawowa opieka zdrowotna 40 godzin/ 2 80 godzin/ 3 1 tydzień 2 tygodnie Położnictwo i opieka położnicza 120 godzin/ 4 200 godzin/ 7 3 tygodnie 5 tygodni Ginekologia i opieka 120 godzin/ 4 200 godzin/ 7 ginekologiczna 3 tygodnie 5 tygodni Neonatologia i opieka 80 godzin/ 3 80 godzin/ 3 neonatologiczna 2 tygodnie 2 tygodnie Pediatria i pielęgniarstwo 40 godzin/ 2 40 godzin/ 2 pediatryczne 1 tydzień 1 tydzień Choroby wewnętrzne 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Chirurgia 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Psychiatria 40 godzin/ 2 40 godzin/ 2 1 tydzień 1 tydzień Anestezjologia i stany 40 godzin/ 2 40 godzin/ 2 zagrożenia życia 1 tydzień 1 tydzień Rehabilitacja w położnictwie, 40 godzin/ 2 neonatologii i ginekologii 1 tydzień Razem 1100 godzin/ 43 1200 godzin/ 46 27,5 tygodnia 30 tygodni
+4.2. W trakcie zajęć praktycznych i praktyk zawodowych w zakresie podstaw opieki położniczej i opieki specjalistycznej student:
+1) udziela porad kobietom ciężarnym, w tym przeprowadza co najmniej 100 badań prenatalnych;
+2) sprawuje opiekę nad co najmniej 40 kobietami ciężarnymi;
+3) przyjmuje co najmniej 40 porodów albo przyjmuje co najmniej 30 porodów i bierze aktywny udział w przyjmowaniu co najmniej 20 porodów;
+4) bierze aktywny udział w przyjmowaniu porodu z położenia miednicowego, a w przypadku gdy jest to niemożliwe w warunkach symulowanych;
+5) wykonuje nacięcia krocza i zakładanie szwów, a w przypadku gdy jest to niemożliwe w warunkach symulowanych;
+6) sprawuje opiekę nad co najmniej 40 kobietami, u których mogą wystąpić powikłania w trakcie ciąży, porodu i połogu;
+7) sprawuje opiekę nad co najmniej 100 kobietami w okresie połogu i zdrowymi noworodkami, w tym przeprowadza ich badania;
+8) prowadzi obserwację noworodków niedonoszonych, przenoszonych, z niską masą urodzeniową i chorych oraz sprawuje nad nimi opiekę;
+9) sprawuje opiekę nad kobietami z objawami patologicznymi ginekologicznymi i położniczymi.
+4.3. Zajęcia praktyczne i praktyki zawodowe organizuje się tak, aby zdobywanie umiejętności praktycznych w warunkach naturalnych było poprzedzone zdobywaniem tych umiejętności w warunkach symulowanych niskiej wierności (w pracowniach umiejętności położniczych). Uczelnia realizuje co najmniej 5% liczby godzin zajęć praktycznych w warunkach symulowanych.
+4.4. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się, w skład której wchodzi w szczególności pracownia umiejętności położniczych.
+5.2. Zajęcia praktyczne odbywają się w warunkach symulowanych i w oparciu o infrastrukturę podmiotów wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia. Praktyki zawodowe odbywają się w podmiotach wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia. Zajęcia praktyczne i praktyki zawodowe w podmiotach wykonujących działalność leczniczą są prowadzone w szczególności w:
+1) salach porodowych, oddziałach położniczych, noworodkowych (położniczonoworodkowych), patologii ciąży, ginekologicznych, onkologii ginekologicznej lub ginekologii onkologicznej, pediatrycznych (niemowlęcych, patologii noworodka), internistycznych, chirurgicznych oraz intensywnej terapii;
+2) gabinetach podstawowej opieki zdrowotnej (położnej podstawowej opieki zdrowotnej i lekarza podstawowej opieki zdrowotnej);
+3) specjalistycznych ambulatoriach (poradniach ginekologicznych i ginekologiczno-położniczych);
+4) szkołach rodzenia;
+5) poradniach laktacyjnych.
+II.A. OSOBY PROWADZĄCE KSZTAŁCENIE
+1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć A, B, C i D jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+2. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć C i D, w ramach zajęć obejmujących treści kształcenia z zakresu opieki położniczej i pielęgniarskiej, jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających prawo wykonywania zawodu położnej lub zawodu pielęgniarki oraz co najmniej roczną praktykę zawodową w zakresie właściwym dla prowadzonych zajęć.
+3. Zajęcia praktyczne są prowadzone przez nauczycieli akademickich lub inne osoby, posiadających prawo wykonywania zawodu położnej lub zawodu pielęgniarki oraz co najmniej roczną praktykę zawodową w zakresie właściwym dla prowadzonych zajęć.
+4. Praktyki zawodowe są prowadzone pod kierunkiem osoby posiadającej prawo wykonywania zawodu położnej lub zawodu pielęgniarki, będącej pracownikiem danego podmiotu wykonującego działalność leczniczą, w którym odbywa się praktyka, a nadzór nad prowadzeniem praktyk sprawuje opiekun praktyk z uczelni.
+5. Promotorem pracy dyplomowej jest nauczyciel akademicki posiadający co najmniej tytuł zawodowy magistra lub równorzędny i prawo wykonywania zawodu położnej.
+III.A. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) specjalistyczną problematykę z zakresu położnictwa, neonatologii i ginekologii;
+2) rozwój, budowę i funkcje organizmu człowieka w warunkach prawidłowych i patologicznych;
+3) etiologię, patomechanizm, objawy, przebieg i sposoby postępowania diagnostycznego i terapeutyczno-opiekuńczego w wybranych jednostkach chorobowych w chorobach wewnętrznych, chirurgii, pediatrii i psychiatrii;
+4) uwarunkowania i mechanizmy funkcjonowania człowieka zdrowego i chorego;
+5) system opieki zdrowotnej w Rzeczypospolitej Polskiej i wybranych państwach członkowskich Unii Europejskiej;
+6) zasady promocji zdrowia i profilaktyki chorób;
+7) modele opieki położniczej nad kobietą w każdym okresie życia i stanie zdrowia;
+8) etyczne, społeczne i prawne uwarunkowania wykonywania zawodu położnej.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) udzielać świadczeń zdrowotnych w przypadku: kobiety ciężarnej, kobiety rodzącej, kobiety w okresie połogu i noworodka oraz kobiety chorej ginekologicznie, w zakresie promocji zdrowia, profilaktyki i profesjonalnej opieki położniczo-ginekologicznej, prekoncepcyjnej, prenatalnej, perinatalnej, a także w przypadku kobiety w okresie przekwitania i senium;
+2) rozpoznawać ciążę, sprawować opiekę nad kobietą w ciąży fizjologicznej i wykonywać badania niezbędne do monitorowania jej przebiegu;
+3) samodzielnie prowadzić i przyjmować poród fizjologiczny (w warunkach szpitalnych i pozaszpitalnych) i poród z położenia miednicowego, także z nacięciem i szyciem krocza;
+4) monitorować płód z wykorzystaniem aparatury medycznej oraz wykrywać stany odbiegające od normy u matki i dziecka w okresie ciąży, porodu i połogu;
+5) podejmować do czasu przybycia lekarza konieczne działania w sytuacjach nagłych, w tym ręcznie wydobyć łożysko i ręcznie zbadać macicę;
+6) sprawować opiekę nad matką i noworodkiem, promując karmienie naturalne, monitorując przebieg okresu poporodowego oraz badając noworodka, a także podejmując w sytuacjach nagłych wszelkie niezbędne działania, w tym natychmiastową reanimację;
+7) sprawować opiekę ginekologiczno-położniczą nad kobietą;
+8) prowadzić działalność edukacyjno-zdrowotną w zakresie przygotowania do życia w rodzinie, metod planowania rodziny, ochrony macierzyństwa i ojcostwa, przygotowania do rodzicielstwa i urodzenia dziecka, łącznie z poradnictwem na temat higieny i żywienia, w tym poradnictwem laktacyjnym, oraz prowadzić profilaktykę chorób kobiecych i patologii położniczych;
+9) udzielać pierwszej pomocy i podejmować działania ratownicze w ramach resuscytacji krążeniowo-oddechowej;
+10) przeprowadzać badanie podmiotowe i przedmiotowe w celu postawienia diagnozy pielęgniarskiej lub położniczej;
+11) wystawiać recepty na leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich;
+12) decydować o rodzaju i zakresie świadczeń opiekuńczo-pielęgnacyjnych;
+13) samodzielnie udzielać świadczeń zapobiegawczych, diagnostycznych, leczniczych i rehabilitacyjnych w zakresie określonym w przepisach;
+14) dokonywać analizy jakości opieki położniczo-neonatologicznej i ginekologicznej;
+15) organizować pracę własną i podległego personelu oraz współpracować w zespołach opieki zdrowotnej.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) kierowania się dobrem pacjenta, poszanowania godności i autonomii osób powierzonych opiece, okazywania zrozumienia dla różnic światopoglądowych i kulturowych oraz empatii w relacji z pacjentem i jego rodziną;
+2) przestrzegania praw pacjenta;
+3) samodzielnego i rzetelnego wykonywania zawodu zgodnie z zasadami etyki, w tym przestrzegania wartości i powinności moralnych w opiece nad pacjentem;
+4) ponoszenia odpowiedzialności za wykonywane czynności zawodowe;
+5) zasięgania opinii ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemu;
+6) przewidywania i uwzględniania czynników wpływających na reakcje własne i pacjenta;
+7) dostrzegania i rozpoznawania własnych ograniczeń w zakresie wiedzy, umiejętności i kompetencji społecznych oraz dokonywania samooceny deficytów i potrzeb edukacyjnych.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI PODSTAWOWE (anatomia, fizjologia, patologia, embriologia i genetyka, biochemia i biofizyka, mikrobiologia i parazytologia, farmakologia, radiologia) W zakresie wiedzy absolwent zna i rozumie: A.W1. budowę ciała ludzkiego w podejściu topograficznym (kończyny górna i dolna, klatka piersiowa, brzuch, grzbiet, szyja, głowa) oraz czynnościowym (układ kostno-stawowy, układ mięśniowy, układ krążenia, układ oddechowy, układ pokarmowy, układ moczowy, układy płciowe, układ nerwowy i narządy zmysłów, powłoka wspólna, krążenie matczyno-płodowe), w tym różnice w budowie ciała człowieka dorosłego, niemowlęcia i noworodka;
+A.W2. budowę i funkcjonowanie miednicy kostnej i mięśni dna miednicy jako kanału rodnego;
+A.W3. neurohormonalną regulację procesów fizjologicznych i elektrofizjologicznych zachodzących w organizmie;
+A.W4. udział układów i narządów organizmu w utrzymaniu jego homeostazy oraz zmiany w funkcjonowaniu organizmu jako całości w przypadku zaburzenia jego homeostazy;
+A.W5. podstawy działania układów regulacji (homeostaza) oraz rolę sprzężenia zwrotnego dodatniego i ujemnego;
+A.W6. fizjologię poszczególnych układów i narządów organizmu;
+A.W7. fizjologię rozrodu i laktacji;
+A.W8. podstawowe pojęcia z zakresu patologii ogólnej i patologii poszczególnych układów organizmu;
+A.W9. wybrane zagadnienia z zakresu patologii narządowej układu krążenia, układu oddechowego, układu trawiennego, układu hormonalnego, układu metabolicznego, układu moczowo-płciowego i układu nerwowego;
+A.W10. czynniki chorobotwórcze zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;
+A.W11. procesy spermatogenezy, spermiogenezy i owogenezy, zaplemnienia i zapłodnienia;
+A.W12. stadia rozwoju zarodka ludzkiego, budowę i czynność błon płodowych i łożyska oraz etapy rozwoju poszczególnych narządów;
+A.W13. uwarunkowania genetyczne grup krwi człowieka oraz konfliktu serologicznego w układzie Rh;
+A.W14. budowę chromosomów oraz molekularne podłoże mutagenezy;
+A.W15. zasady dziedziczenia różnej liczby cech, dziedziczenia cech ilościowych, niezależnego dziedziczenia cech oraz dziedziczenia pozajądrowej informacji genetycznej;
+A.W16. problematykę chorób uwarunkowanych genetycznie i jej znaczenie w diagnostyce prenatalnej;
+A.W17. podstawy fizykochemiczne działania zmysłów wykorzystujących fizyczne nośniki informacji (fale dźwiękowe i elektromagnetyczne);
+A.W18. rolę witamin, aminokwasów, nukleozydów, monosacharydów, kwasów karboksylowych i ich pochodnych, wchodzących w skład makrocząsteczek obecnych w komórkach, macierzy zewnątrzkomórkowej i w płynach ustrojowych;
+A.W19. mechanizmy regulacji i biofizyczne podstawy funkcjonowania metabolizmu w organizmie;
+A.W20. wpływ na organizm czynników zewnętrznych takich jak: temperatura, grawitacja, ciśnienie, pole elektromagnetyczne i promieniowanie jonizujące;
+A.W21. podstawowe pojęcia z zakresu mikrobiologii i parazytologii oraz metody stosowane w diagnostyce mikrobiologicznej;
+A.W22. klasyfikację drobnoustrojów, z uwzględnieniem mikroorganizmów chorobotwórczych i obecnych w mikrobiocie fizjologicznej człowieka;
+A.W23. poszczególne grupy środków leczniczych, główne mechanizmy ich działania oraz powodowane przez nie przemiany w ustroju zależne od wieku, a także ich działania uboczne;
+A.W24. poszczególne grupy leków, substancje czynne zawarte w lekach, zastosowanie leków oraz postacie i drogi ich podawania;
+A.W25. wpływ procesów chorobowych na metabolizm i eliminację leków;
+A.W26. ważniejsze działania niepożądane leków, w tym wynikające z ich interakcji, oraz procedurę zgłaszania działań niepożądanych leków;
+A.W27. podstawowe zasady farmakoterapii;
+A.W28. zasady farmakoterapii i fitoterapii w położnictwie, neonatologii i ginekologii oraz wpływ leków na płód i noworodka karmionego piersią, w tym teratogenne i embriotoksyczne działanie leków;
+A.W29. zasady wystawiania recept w ramach realizacji zleceń lekarskich;
+A.W30. zasady leczenia krwią i środkami krwiozastępczymi;
+A.W31. metody obrazowania i zasady przeprowadzania obrazowania tymi metodami oraz zasady ochrony radiologicznej.
+W zakresie umiejętności absolwent potrafi: A.U1. posługiwać się w praktyce mianownictwem anatomicznym i wykorzystywać znajomość topografii narządów oraz wykazywać różnice w budowie noworodka, niemowlęcia i człowieka dorosłego;
+A.U2. opisywać zmiany w funkcjonowaniu organizmu jako całości w sytuacji zaburzenia jego homeostazy oraz interpretować fizjologiczne procesy, ze szczególnym uwzględnieniem neurohormonalnej regulacji procesów fizjologicznych;
+A.U3. łączyć obrazy uszkodzeń tkankowych i narządowych z objawami klinicznymi choroby, wywiadem i wynikami badań diagnostycznych oraz wskazywać konsekwencje rozwijających się zmian patologicznych dla sąsiadujących topograficznie narządów;
+A.U4. szacować ryzyko ujawnienia się danej choroby w oparciu o zasady dziedziczenia i wpływ czynników środowiskowych;
+A.U5. wykorzystywać uwarunkowania chorób genetycznych w profilaktyce chorób oraz diagnostyce prenatalnej;
+A.U6. współuczestniczyć w doborze metod diagnostycznych w poszczególnych stanach klinicznych z wykorzystaniem wiedzy z zakresu biochemii i biofizyki;
+A.U7. rozpoznawać najczęściej spotykane pasożyty człowieka na podstawie ich budowy i cykli życiowych oraz wywoływanych przez nie objawów chorobowych;
+A.U8. szacować niebezpieczeństwo toksykologiczne w określonych grupach wiekowych oraz w różnych stanach klinicznych, ze szczególnym uwzględnieniem okresu ciąży i karmienia piersią;
+A.U9. posługiwać się informatorami farmaceutycznymi i bazami danych o produktach leczniczych;
+A.U10. wystawiać recepty na leki niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich;
+A.U11. przygotowywać zapisy form recepturowych substancji leczniczych i środków spożywczych specjalnego przeznaczenia żywieniowego zleconych przez lekarza;
+A.U12. stosować się do zasad ochrony radiologicznej.
+B. NAUKI SPOŁECZNE I HUMANISTYCZNE (psychologia, socjologia, pedagogika, prawo medyczne, zdrowie publiczne, język angielski) W zakresie wiedzy absolwent zna i rozumie: B.W1. psychologiczne podstawy rozwoju człowieka, jego zachowania prawidłowe i zaburzone;
+B.W2. problematykę relacji człowiek środowisko społeczne i mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
+B.W3. etapy rozwoju psychicznego człowieka i występujące na tych etapach prawidłowości;
+B.W4. pojęcie emocji i motywacji oraz zaburzenia osobowościowe;
+B.W5. podstawowe zagadnienia z zakresu psychologii prenatalnej i prokreacyjnej;
+B.W6. etapy rozwoju dziecka od poczęcia do narodzin, czynniki psychospołeczne warunkujące jego rozwój w okresie prenatalnym i czynniki sprzyjające tworzeniu się więzi rodziców z dzieckiem poczętym;
+B.W7. psychospołeczne aspekty kolejnych okresów w życiu kobiety od pokwitania do senium;
+B.W8. istotę, strukturę i zjawiska zachodzące w procesie przekazywania i wymiany informacji oraz modele i style komunikacji interpersonalnej;
+B.W9. specyficzne problemy występujące w poszczególnych okresach życia kobiety (okres dojrzewania, okołoporodowy, klimakterium), szczególnie wynikające z barier w komunikowaniu się;
+B.W10. techniki redukowania lęku, metody relaksacji i mechanizmy powstawania, działania i zapobiegania zespołowi wypalenia zawodowego;
+B.W11. pojęcia i zasady funkcjonowania: rodziny, grupy, organizacji, instytucji, populacji, społeczności i ekosystemu;
+B.W12. wybrane obszary odrębności kulturowych i religijnych;
+B.W13. zakres interakcji społecznej i proces socjalizacji oraz działanie lokalnych społeczności i ekosystemu;
+B.W14. pojęcia dewiacji i zaburzenia, ze szczególnym uwzględnieniem patologii dziecięcej;
+B.W15. zjawisko dyskryminacji społecznej, kulturowej, etnicznej oraz ze względu na płeć;
+B.W16. społeczne konsekwencje choroby, bezdzietności i ciąży niepożądanej oraz problemy małoletnich i samotnych matek;
+B.W17. podstawowe pojęcia i zagadnienia z zakresu pedagogiki jako nauki stosowanej i procesu wychowania jako zjawiska społecznego (chorowania, zdrowienia, hospitalizacji i umierania);
+B.W18. metodykę edukacji zdrowotnej dzieci, młodzieży i osób dorosłych;
+B.W19. podstawowe pojęcia z zakresu prawa i rolę prawa w życiu społeczeństwa, ze szczególnym uwzględnieniem praw człowieka i prawa pracy;
+B.W20. podstawowe regulacje prawne z zakresu ubezpieczeń zdrowotnych obowiązujące w Rzeczypospolitej Polskiej i innych państwach członkowskich Unii Europejskiej oraz wybrane trendy w polityce ochrony zdrowia w Rzeczypospolitej Polskiej i innych państwach członkowskich Unii Europejskiej;
+B.W21. podstawy prawne wykonywania zawodu położnej, w tym prawa i obowiązki położnej, organizację i zadania samorządu zawodowego pielęgniarek i położnych oraz prawa i obowiązki jego członków;
+B.W22. zasady odpowiedzialności karnej, cywilnej, pracowniczej i zawodowej związanej z wykonywaniem zawodu położnej;
+B.W23. prawa człowieka, prawa dziecka, prawa pacjenta i prawa kobiety rodzącej;
+B.W24. zadania z zakresu zdrowia publicznego;
+B.W25. kulturowe, społeczne i ekonomiczne uwarunkowania zdrowia publicznego;
+B.W26. podstawowe pojęcia dotyczące zdrowia i choroby;
+B.W27. istotę profilaktyki i prewencji chorób;
+B.W28. zasady funkcjonowania rynku usług medycznych w Rzeczypospolitej Polskiej i wybranych państwach członkowskich Unii Europejskiej;
+B.W29. swoiste zagrożenia zdrowotne występujące w środowisku zamieszkania, edukacji i pracy;
+B.W30. międzynarodowe klasyfikacje statystyczne: chorób i problemów zdrowotnych (ICD-10), procedur medycznych (ICD-9) oraz funkcjonowania niepełnosprawności i zdrowia (ICF).
+W zakresie umiejętności absolwent potrafi: B.U1. rozpoznawać zachowania prawidłowe, zaburzone i patologiczne;
+B.U2. oceniać wpływ choroby i hospitalizacji na stan fizyczny i psychiczny człowieka;
+B.U3. oceniać funkcjonowanie człowieka w sytuacjach trudnych (stres, frustracja, konflikt, trauma, żałoba) oraz informować o elementarnych formach pomocy psychologicznej;
+B.U4. rozpoznawać problemy psychospołeczne macierzyństwa małoletnich i kobiet w późnym wieku oraz wskazywać rolę wychowania seksualnego w życiu człowieka;
+B.U5. rozpoznawać problemy psychologiczne związane z prokreacją (zaburzenia płodności, aborcja, poronienie, utrata dziecka w okresie okołoporodowym) i udzielać wsparcia psychicznego;
+B.U6. rozpoznawać problemy psychologiczne i zaburzenia psychiczne występujące u kobiet w okresie ciąży, porodu i połogu oraz w okresie klimakterium;
+B.U7. identyfikować błędy i bariery w procesie komunikowania się oraz wykazywać umiejętność aktywnego słuchania;
+B.U8. wykorzystywać techniki komunikacji werbalnej i pozawerbalnej w opiece położniczej;
+B.U9. wskazywać i stosować właściwe techniki redukowania lęku i metody relaksacyjne;
+B.U10. stosować mechanizmy zapobiegania zespołowi wypalenia zawodowego;
+B.U11. proponować działania zapobiegające dyskryminacji i rasizmowi oraz dewiacjom i patologiom wśród dzieci i młodzieży;
+B.U12. rozpoznawać potrzeby edukacyjne w grupach odbiorców usług położnej;
+B.U13. opracowywać programy edukacyjne dotyczące działań prozdrowotnych dla różnych grup odbiorców;
+B.U14. stosować przepisy prawa dotyczące praktyki zawodowej położnej;
+B.U15. oceniać światowe trendy dotyczące ochrony zdrowia w aspekcie najnowszych danych epidemiologicznych i demograficznych;
+B.U16. analizować i oceniać funkcjonowanie różnych systemów opieki medycznej oraz identyfikować źródła ich finansowania;
+B.U17. stosować międzynarodowe klasyfikacje: statystyczne chorób i problemów zdrowotnych (ICD-10), procedur medycznych (ICD-9) oraz funkcjonowania niepełnosprawności i zdrowia (ICF);
+B.U18. analizować piśmiennictwo medyczne w języku angielskim;
+B.U19. porozumiewać się w języku angielskim na poziomie B2 Europejskiego Systemu Opisu Kształcenia Językowego.
+C. NAUKI W ZAKRESIE PODSTAW OPIEKI POŁOŻNICZEJ (podstawy opieki położniczej, etyka zawodu położnej, promocja zdrowia, podstawowa opieka zdrowotna, dietetyka, organizacja pracy położnej, badanie fizykalne, zakażenia szpitalne, system informacji w ochronie zdrowia, zajęcia fakultatywne do wyboru: język migowy lub współpraca w zespołach opieki zdrowotnej) W zakresie wiedzy absolwent zna i rozumie: C.W1. status i istotę zawodu położnej, rolę zawodową położnej w ujęciu historycznym i współczesnym oraz uwarunkowania rozwoju zawodu położnej;
+C.W2. rolę, funkcje zawodowe i zadania położnej w opiece nad kobietą w różnych okresach jej życia i różnym stanie zdrowia oraz nad jej dzieckiem i rodziną;
+C.W3. rolę położnej w zespole interdyscyplinarnym w procesie promowania zdrowia, profilaktyki, diagnozowania, leczenia i rehabilitacji kobiety w różnych okresach jej życia i różnym stanie zdrowia;
+C.W4. istotę opieki pielęgniarskiej i położniczej opartej o wybrane założenia teoretyczne (Florence Nightingale, Dorothea Orem, Betty Neuman, Callista Roy, Madeleine Leininger, Ramona Mercer, Aaron Beck);
+C.W5. istotę, cel, wskazania, przeciwwskazania, powikłania, niebezpieczeństwa, obowiązujące zasady i technikę wykonywania przez położną podstawowych czynności pielęgniarskich, diagnostycznych, leczniczych i rehabilitacyjnych;
+C.W6. metody, sposoby, zasady, techniki i procedury stosowane w pracy położnej, w specjalistycznej opiece nad kobietą ciężarną, kobietą rodzącą, kobietą w okresie połogu i jej dzieckiem oraz nad kobietą zagrożoną chorobą i chorą ginekologicznie;
+C.W7. zasady postępowania aseptycznego i antyseptycznego w celu zapobiegania zakażeniom szpitalnym;
+C.W8. zasady dokumentowania stanu zdrowia i prowadzenia dokumentacji medycznej;
+C.W9. przedmiot etyki ogólnej i zawodowej;
+C.W10. problematykę etyki normatywnej, w tym aksjologii wartości, powinności i sprawności moralnych istotnych w pracy położnej;
+C.W11. istotę podejmowania decyzji etycznych i rozwiązywania dylematów moralnych w pracy położnej;
+C.W12. treść kodeksu etyki zawodowej pielęgniarki i położnej;
+C.W13. problemy bioetyczne w aspekcie: sztucznej prokreacji, transplantacji, eksperymentów medycznych (np. klonowanie embrionów ludzkich) i eutanazji;
+C.W14. zasady promocji zdrowia i profilaktyki zdrowotnej;
+C.W15. zadania położnej w promocji zdrowia i zasady konstruowania programów promocji zdrowia;
+C.W16. strategie promocji zdrowia o zasięgu lokalnym, krajowym i światowym;
+C.W17. organizację i funkcjonowanie podstawowej opieki zdrowotnej w Rzeczypospolitej Polskiej i innych państwach, z uwzględnieniem zadań położnej i innych pracowników ochrony zdrowia;
+C.W18. kompetencje położnej podstawowej opieki zdrowotnej oraz warunki realizacji i zasady finansowania świadczeń położniczych w podstawowej opiece zdrowotnej;
+C.W19. zasady żywienia osób zdrowych i chorych w różnym wieku oraz żywienia dojelitowego i pozajelitowego;
+C.W20. zasady żywienia kobiety w różnych okresach jej życia i różnym stanie zdrowia, ze szczególnym uwzględnieniem okresu ciąży oraz zasady żywienia noworodków i niemowląt;
+C.W21. zasady leczenia dietetycznego i powikłania dietoterapii;
+C.W22. środki spożywcze specjalnego przeznaczenia żywieniowego;
+C.W23. pojęcie stanowiska pracy, zakresu obowiązków, uprawnień i odpowiedzialności;
+C.W24. regulacje prawne dotyczące czasu pracy, pracy zmianowej, rozkładu czasu pracy i obciążenia na stanowiskach pielęgniarki i położnej;
+C.W25. podstawowe metody organizacji opieki położniczej i ich znaczenie dla jakości tej opieki;
+C.W26. etapy planowania pracy własnej i podległego personelu;
+C.W27. możliwości planowania kariery zawodowej i uwarunkowania własnego rozwoju zawodowego;
+C.W28. problematykę jakości w opiece zdrowotnej;
+C.W29. zasady prowadzenia i dokumentowania badania podmiotowego i przedmiotowego;
+C.W30. metody i techniki kompleksowego badania przedmiotowego, ze szczególnym uwzględnieniem kobiety i noworodka, dla potrzeb opieki położniczej;
+C.W31. sposoby przeprowadzania badania fizykalnego z wykorzystaniem systemów teleinformatycznych lub systemów łączności;
+C.W32. znaczenie wyników badania podmiotowego i przedmiotowego w formułowaniu oceny stanu zdrowia pacjenta dla potrzeb opieki położniczej;
+C.W33. pojęcie zakażeń związanych z opieką zdrowotną, w tym zakażeń szpitalnych, z uwzględnieniem źródeł i rezerwuaru drobnoustrojów w środowisku pozaszpitalnym i szpitalnym, w tym dróg ich szerzenia;
+C.W34. sposoby kontroli szerzenia się i zwalczania zakażeń szpitalnych;
+C.W35. mechanizm i sposoby postępowania w zakażeniu krwi, zakażeniu ogólnoustrojowym, szpitalnym zapaleniu płuc, zakażeniu dróg moczowych i zakażeniu miejsca operowanego;
+C.W36. zasady budowy i funkcjonowania Systemu Informacji Medycznej (SIM), dziedzinowych systemów teleinformatycznych oraz rejestrów medycznych, a także zasady ich współdziałania;
+C.W37. metody, narzędzia i techniki pozyskiwania danych;
+C.W38. podstawy języka migowego, znaki daktylograficzne i ideograficzne w zakresie niezbędnym do gromadzenia informacji o sytuacji zdrowotnej pacjenta;
+C.W39. zasady komunikacji z pacjentem niesłyszącym;
+C.W40. priorytety pracy zespołowej i czynniki wpływające na efektywność pracy zespołu;
+C.W41. znaczenie motywacji członków zespołu dla jakości i efektywności pracy zespołu;
+C.W42. rolę przywództwa i style zarządzania w pracy zespołowej oraz ich wady i zalety;
+C.W43. proces podejmowania decyzji w zespole;
+C.W44. metody samooceny pracy zespołu;
+C.W45. czynniki zakłócające pracę zespołową i metody rozwiązywania konfliktów w zespole.
+W zakresie umiejętności absolwent potrafi: C.U1. posługiwać się właściwym nazewnictwem z zakresu opieki położniczej, neonatologicznej i ginekologicznej oraz interpretować podstawowe pojęcia z zakresu praktyki zawodowej położnej;
+C.U2. gromadzić informacje metodą wywiadu, obserwacji, pomiarów, badania przedmiotowego i analizy dokumentacji w celu rozpoznania stanu zdrowia kobiety chorej ginekologicznie, kobiety ciężarnej, kobiety rodzącej, kobiety w okresie połogu oraz noworodka, a także interpretować i dokumentować uzyskane wyniki na potrzeby diagnozy położniczej;
+C.U3. prowadzić dokumentację medyczną i posługiwać się nią;
+C.U4. przygotowywać kobietę, jej dziecko, siebie i stanowisko pracy do przeprowadzenia badań i zabiegów diagnostycznych, pielęgnacyjnych oraz leczniczych stosowanych w położnictwie, neonatologii i ginekologii, a także uczestniczyć w ich przeprowadzaniu;
+C.U5. prowadzić, dokumentować i oceniać bilans płynów pacjenta;
+C.U6. wykonywać pulsoksymetrię, pomiary podstawowych parametrów życiowych, pomiary antropometryczne, w tym noworodka po porodzie, i gazometrię, w tym z krwi pępowinowej;
+C.U7. pobierać materiał do badań laboratoryjnych i bakteriologicznych oraz asystować lekarzowi przy badaniach diagnostycznych stosowanych w położnictwie, neonatologii i ginekologii;
+C.U8. pobierać wymaz do oceny biocenozy z pochwy i szyjki macicy oraz wymaz cytoonkologiczny, a także zabezpieczać pobrany materiał;
+C.U9. wykonywać testy diagnostyczne dla oznaczenia ciał ketonowych i glukozy we krwi i w moczu oraz cholesterolu we krwi, a także inne testy paskowe;
+i C.U10. wykonywać badania przesiewowe noworodka;
+C.U11. wykonywać badanie piersi i oceniać gruczoł piersiowy;
+C.U12. przechowywać i przygotowywać leki zgodnie z obowiązującymi standardami, podawać pacjentom leki różnymi drogami oraz obliczać dawki leków modyfikować dawki insuliny;
+C.U13. wykonywać szczepienia przeciwko grypie, WZW i HPV;
+C.U14. zakładać i usuwać cewnik z żył obwodowych, wykonywać kroplowe wlewy dożylne oraz monitorować i pielęgnować miejsce wkłucia obwodowego;
+C.U15. zakładać cewnik do pęcherza moczowego i usuwać go oraz monitorować diurezę;
+C.U16. wykonywać zabiegi doodbytnicze;
+C.U17. zakładać zgłębnik do żołądka, monitorować i usuwać ten zgłębnik, w tym u noworodka i niemowlęcia;
+C.U18. wykorzystywać dostępne metody karmienia pacjenta, w tym noworodka i niemowlęcia;
+C.U19. wykonywać zabiegi higieniczne, pielęgnować skórę i jej wytwory oraz błony śluzowe z zastosowaniem środków farmakologicznych i materiałów medycznych, w tym stosować kąpiele lecznicze;
+C.U20. dobierać metody, techniki i środki pielęgnacji ran na podstawie ich klasyfikacji oraz oceniać ryzyko rozwoju odleżyn, a także stosować działania profilaktyczne;
+C.U21. przemieszczać i pozycjonować pacjenta z wykorzystaniem różnych technik i metod, wykonywać ćwiczenia czynne i bierne oraz gimnastykę oddechową, drenaż ułożeniowy, inhalację i odśluzowywanie dróg oddechowych;
+C.U22. stosować zabiegi przeciwzapalne;
+C.U23. stosować zasady aseptyki i antyseptyki oraz planować i wdrażać postępowanie w przypadku ekspozycji na zakażenie;
+C.U24. rozwiązywać dylematy etyczne i moralne w praktyce zawodowej położnej;
+C.U25. oceniać potencjał zdrowotny kobiety i jej rodziny z rozpoznaniem czynników ryzyka chorób wynikających ze stylu życia oraz uczyć kobietę samokontroli stanu zdrowia;
+C.U26. opracowywać i wdrażać indywidualne programy promocji zdrowia jednostek, rodzin i grup społecznych;
+C.U27. realizować świadczenia zdrowotne w zakresie podstawowej opieki zdrowotnej zgodnie z kompetencjami położnej;
+C.U28. diagnozować sytuację kobiety i jej rodziny w środowisku zamieszkania w zakresie rozpoznawania problemów zdrowotnych i podejmować działania na rzecz ochrony zdrowia kobiety i jej rodziny;
+C.U29. współpracować z zespołem podstawowej opieki zdrowotnej sprawującym opiekę nad kobietą i jej rodziną (z pielęgniarką i lekarzem podstawowej opieki zdrowotnej oraz asystentem rodziny);
+C.U30. rozpoznawać przemoc domową i inne patologie społeczne oraz dokonywać interwencji w sytuacji kryzysu w rodzinie;
+C.U31. oceniać stan odżywienia i sposób żywienia, prowadzić poradnictwo w zakresie żywienia zdrowych i chorych dzieci i dorosłych, w szczególności kobiet w różnych okresach ich życia i różnym stanie zdrowia;
+C.U32. stosować diety terapeutyczne w wybranych chorobach, nadzorować odrębności żywienia zbiorowego i rozpoznawać powikłania dietoterapii;
+C.U33. planować podstawowe diety pod względem ilościowym i jakościowym, w tym zalecenia żywieniowe dla kobiety w okresie ciąży i karmienia piersią;
+C.U34. dobierać środki spożywcze specjalnego przeznaczenia żywieniowego i wystawiać na nie recepty w ramach realizacji zleceń lekarskich oraz udzielać informacji na temat ich stosowania;
+C.U35. monitorować zagrożenia w pracy położnej oraz czynniki sprzyjające występowaniu chorób zawodowych i wypadków przy pracy;
+C.U36. planować własny rozwój zawodowy i rozwijać umiejętności aktywnego poszukiwania pracy;
+C.U37. współuczestniczyć w opracowywaniu standardów i procedur praktyki położniczej oraz monitorować jakość opieki położniczej;
+C.U38. podejmować decyzje dotyczące doboru metod pracy i współpracy w zespole;
+C.U39. nadzorować i oceniać pracę podległego zespołu;
+C.U40. przeprowadzać badanie podmiotowe pacjenta oraz analizować i interpretować jego wyniki;
+C.U41. rozpoznawać i interpretować podstawowe odrębności w badaniu noworodka i osoby dorosłej, w tym kobiety w różnych okresach jej życia;
+C.U42. wykorzystywać techniki badania fizykalnego do oceny fizjologicznych i patologicznych funkcji skóry, zmysłów, głowy, klatki piersiowej, gruczołów piersiowych, jamy brzusznej, narządów płciowych, układu sercowo-naczyniowego, układu oddechowego, obwodowego układu krążenia, układu mięśniowo-szkieletowego i układu nerwowego oraz dokumentować wyniki badania fizykalnego i wykorzystywać je do oceny stanu zdrowia pacjenta;
+C.U43. przeprowadzać badanie fizykalne z wykorzystaniem systemów teleinformatycznych lub systemów łączności;
+C.U44. wdrażać standardy postępowania zapobiegającego zakażeniom szpitalnym;
+C.U45. stosować środki ochrony własnej, pacjentów i współpracowników przed zakażeniami;
+C.U46. posługiwać się znakami języka migowego oraz innymi sposobami i środkami komunikowania się w opiece nad pacjentem z uszkodzeniem słuchu;
+C.U47. interpretować i stosować założenia funkcjonalne systemu informacji w ochronie zdrowia z wykorzystaniem zaawansowanych metod i technologii informatycznych w wykonywaniu i kontraktowaniu świadczeń zdrowotnych;
+C.U48. posługiwać się dokumentacją medyczną oraz przestrzegać zasad bezpieczeństwa i poufności informacji medycznej, a także prawa ochrony własności intelektualnej;
+C.U49. analizować korzyści wynikające z pracy zespołowej;
+C.U50. korzystać z wybranych modeli organizowania pracy własnej i zespołu;
+C.U51. wskazywać sposoby rozwiązywania problemów członków zespołu;
+C.U52. planować pracę zespołu i motywować członków zespołu do pracy;
+C.U53. identyfikować czynniki zakłócające pracę zespołu i wskazywać sposoby zwiększenia efektywności pracy zespołowej.
+D. NAUKI W ZAKRESIE OPIEKI SPECJALISTYCZNEJ (techniki położnicze i prowadzenie porodu, położnictwo i opieka położnicza, ginekologia i opieka ginekologiczna, neonatologia i opieka neonatologiczna, pediatria i pielęgniarstwo pediatryczne, choroby wewnętrzne, chirurgia, psychiatria, anestezjologia i stany zagrożenia życia, rehabilitacja w położnictwie, neonatologii i ginekologii, podstawy ratownictwa medycznego, badania naukowe w położnictwie, seminarium dyplomowe) W zakresie wiedzy absolwent zna i rozumie: D.W1. zasady opieki położniczej podczas porodu fizjologicznego, porodu przedwczesnego i porodu patologicznego oraz zasady prowadzenia i przyjmowania porodu w warunkach pozaszpitalnych;
+D.W2. mechanizmy porodów w położeniu podłużnym główkowym, w ułożeniach odgięciowych, przy nieprawidłowym ułożeniu główki (asynklityzm przedni i tylny), w położeniach miednicowych, przy nieprawidłowej budowie miednicy kostnej i porodów bliźniaczych;
+D.W3. niefarmakologiczne i farmakologiczne metody indukcji i stymulacji czynności skurczowej;
+D.W4. zadania położnej podczas porodu o nieprawidłowym przebiegu i porodu zabiegowego;
+D.W5. zasady postępowania w sytuacjach nagłych w opiece okołoporodowej (krwotoki położnicze, dystocja barkowa, wypadnięcie pępowiny i części drobnych płodu);
+D.W6. zasady psychoprofilaktyki porodu, ze szczególnym uwzględnieniem metod łagodzenia bólu porodowego;
+D.W7. standardy prowadzenia porodu przez położną zgodnie z obowiązującymi regulacjami prawnymi;
+D.W8. zasady opieki nad noworodkiem po porodzie;
+D.W9. zadania położnej w monitorowaniu ciąży fizjologicznej i ocenie ryzyka położniczego;
+D.W10. etiologię, patogenezę, metody diagnostyczne, leczenie i postępowanie pielęgnacyjno-położnicze w patologicznym przebiegu ciąży i połogu;
+D.W11. zasady monitorowania i metody oceny dobrostanu płodu w ciąży o przebiegu fizjologicznym, o nieprawidłowym czasie trwania oraz w wybranych stanach klinicznych matki i płodu, a także wydolności łożyska, oraz udział położnej w procesie diagnostyki w okresie okołoporodowym;
+D.W12. rekomendacje, wytyczne i algorytm postępowania diagnostycznego i profilaktyczno-leczniczego oraz standardy sprawowania opieki położniczej nad kobietą ciężarną, kobietą rodzącą, kobietą w okresie połogu oraz patomechanizm, diagnostykę i sposoby terapii w przebiegu ciąży, porodu i połogu w przypadku współistnienia chorób niepołożniczych, chorób wynikających z reakcji organizmu kobiety na ciążę oraz zaburzeń psychicznych;
+D.W13. udział położnej w profilaktyce i czynnościach diagnostyczno-leczniczych w przypadku powikłanego przebiegu ciąży, porodu i połogu oraz występowania chorób wynikających z reakcji organizmu kobiety na ciążę i chorób niepołożniczych;
+D.W14. definicję połogu prawidłowego i nieprawidłowego oraz zakres opieki sprawowanej przez położną nad kobietą w okresie połogu, noworodkiem i ich rodziną;
+D.W15. proces laktacji i czynniki ryzyka niepowodzeń w karmieniu piersią;
+D.W16. działania edukacyjne dotyczące promocji karmienia piersią i rozwiązywania problemów laktacyjnych;
+D.W17. zasady postępowania w sytuacjach nagłych występujących podczas ciąży, porodu i połogu oraz udział położnej w prowadzeniu intensywnego nadzoru położniczego;
+D.W18. metody diagnostyczne w położnictwie oraz zadania położnej w przygotowaniu pacjentki i sprzętu do ich stosowania;
+D.W19. wpływ chorób zakaźnych i infekcyjnych na płodność kobiety, zasady profilaktyki nieswoistej i swoistej chorób zakaźnych, stosowanej u kobiet w okresie ciąży i połogu, mechanizmy zakażenia płodu w przebiegu chorób bakteryjnych, pasożytniczych i wirusowych oraz wytyczne dotyczące postępowania z kobietą ciężarną, kobietą rodzącą i noworodkiem w przypadku wystąpienia takich chorób;
+D.W20. wskazania do poradnictwa genetycznego i zakres diagnostyki wewnątrzmacicznej płodu;
+D.W21. techniki wspomaganego rozrodu i zasady monitorowania ciąży po zapłodnieniu pozaustrojowym;
+D.W22. przyczyny krwawienia w pierwszej i drugiej połowie ciąży oraz zasady postępowania we wstrząsie i koagulopatii w położnictwie;
+D.W23. zmiany zachodzące w organizmie kobiety w różnych okresach jej życia i nieprawidłowości w budowie narządów płciowych;
+D.W24. prawidłowy przebieg cyklu miesiączkowego i jego zaburzenia;
+D.W25. naturalne metody regulacji poczęć i rodzaje antykoncepcji;
+D.W26. granice norm i patologii seksualnych oraz zaburzenia seksualne występujące u kobiet w okresie rozrodczym;
+D.W27. cele i zasady opieki prekoncepcyjnej oraz rolę położnej w opiece prekoncepcyjnej;
+D.W28. czynniki wpływające na płodność kobiety i mężczyzny oraz metody diagnozowania i leczenia niepłodności;
+D.W29. etiologię dysfunkcji mięśni dna miednicy oraz zasady profilaktyki zaburzeń statyki narządu rodnego i nietrzymania moczu;
+D.W30. postępowanie diagnostyczne, lecznicze i pielęgnacyjne u pacjentek ze stanami zapalnymi narządów rodnych, chorobami przenoszonymi drogą płciową, zaburzeniami statyki narządu rodnego i wysiłkowym nietrzymaniem moczu;
+D.W31. zasady postępowania z pacjentką przed przeprowadzeniem zabiegów ginekologicznych i po ich przeprowadzeniu oraz w trakcie radioterapii i chemioterapii, a także rolę i zadania położnej w tym zakresie;
+D.W32. zmiany zachodzące w organizmie kobiety w okresie menopauzy;
+D.W33. udział położnej w badaniach diagnostycznych pacjentek z chorobami ginekologicznymi i ze zmianami w gruczole piersiowym;
+D.W34. etiologię i patogenezę chorób nowotworowych narządów płciowych żeńskich i gruczołu piersiowego oraz postępowanie leczniczo-pielęgnacyjne i rehabilitacyjne w tych chorobach;
+D.W35. charakterystykę poszczególnych nowotworów narządu rodnego pod względem etiologii, rozpoznania histopatologicznego, objawów klinicznych, podziału na stopnie kliniczne według Międzynarodowej Federacji Ginekologów i Położników (International Federation of Gynecology and Obsterics, FIGO) oraz zaawansowania nowotworu według klasyfikacji TNM (tumor modus metastases);
+D.W36. zasady i programy profilaktyki chorób nowotworowych narządu rodnego i piersi;
+D.W37. czynniki warunkujące prawidłowy rozwój prenatalny i postnatalny;
+D.W38. patofizjologię i objawy kliniczne chorób i stanów zagrożenia życia noworodka i wcześniaka oraz żywienie i specyfikę opieki nad noworodkiem w zależności od jego dojrzałości i stanu klinicznego;
+D.W39. zasady pielęgnowania noworodka zdrowego, chorego oraz z wadami i urazami okołoporodowymi, w tym noworodka pacjentki chorej na AIDS lub zakażonej wirusem HIV;
+D.W40. zasady prowadzenia fototerapii i tlenoterapii noworodka;
+D.W41. zasady organizacji opieki neonatologicznej i intensywnego nadzoru nad noworodkiem;
+D.W42. działania profilaktyczne podejmowane wobec osób w wieku rozwojowym, z uwzględnieniem noworodków i niemowląt;
+D.W43. metody diagnostyczne i terapeutyczne chorób wieku rozwojowego;
+D.W44. zasady racjonalnego żywienia dziecka i zaburzenia w odżywianiu;
+D.W45. metody oceny rozwoju fizycznego i psychoruchowego dziecka;
+D.W46. zasady opieki pielęgniarskiej nad dzieckiem w najczęściej występujących chorobach układowych, alergicznych, zakaźnych i metabolicznych oraz stanach niedoborowych;
+D.W47. zasady udzielania pierwszej pomocy w oparzeniach i sposoby pielęgnowania rany oparzeniowej;
+D.W48. etiopatogenezę, objawy kliniczne, przebieg, leczenie, rokowania oraz zasady opieki pielęgniarskiej w najczęstszych chorobach układów i narządów organizmu;
+D.W49. rodzaje badań diagnostycznych i zasady ich zlecania oraz zasady wykonywania badania elektrokardiograficznego;
+D.W50. właściwości grup leków oraz ich działanie na układy i narządy organizmu pacjenta z różnymi chorobami, a także w zależności od jego wieku i stanu zdrowia, z uwzględnieniem działań niepożądanych, interakcji z innymi lekami i dróg podania;
+D.W51. czynniki zwiększające ryzyko okołooperacyjne i profilaktykę zakażeń chirurgicznych;
+D.W52. zasady przygotowania pacjenta do zabiegu operacyjnego w trybie pilnym i planowym, w chirurgii jednego dnia oraz specyfikę pracy na bloku operacyjnym, a także zasady opieki nad pacjentem po zabiegu operacyjnym w celu zapobiegania wczesnym i późnym powikłaniom;
+D.W53. zasady opieki nad pacjentem z przetoką jelitową i moczową oraz pacjentem objętym terapią żywieniową;
+D.W54. zasady postępowania z kobietą ciężarną z urazem, zakażeniem tkanek miękkich i chorobami chirurgicznymi;
+D.W55. etiopatogenezę, objawy kliniczne i zasady postępowania w podstawowych zaburzeniach psychicznych, w tym depresji poporodowej i psychozach okołoporodowych oraz zaburzeniach psychicznych w okresie klimakterium i senium;
+D.W56. zasady postępowania psychoterapeutycznego w sytuacji poronienia, urodzenia dziecka martwego, z niepełnosprawnością lub nieuleczalnie chorego;
+D.W57. psychologiczne konsekwencje porodu matki małoletniej, w późnym wieku i samotnej oraz rodzaje i formy jej wsparcia;
+D.W58. zasady resuscytacji krążeniowo-oddechowej;
+D.W59. zasady prowadzenia intensywnej opieki medycznej bezprzyrządowej przyrządowej;
+D.W60.
+i farmakologiczne sposoby łagodzenia bólu porodowego;
+D.W61. metody rehabilitacji i fizjoterapii stosowane w ginekologii, położnictwie i neonatologii;
+D.W62. rolę i zadania położnej oraz instytucji rządowych i pozarządowych w podejmowaniu działań na rzecz osób z niepełnosprawnościami;
+D.W63. zasady usprawniania pacjentek po operacjach ginekologicznych;
+D.W64. zasady organizacji i funkcjonowania systemu Państwowe Ratownictwo Medyczne;
+D.W65. procedury zabezpieczenia medycznego w zdarzeniach masowych, katastrofach i innych sytuacjach szczególnych;
+D.W66. zasady udzielania pierwszej pomocy i algorytmy postępowania resuscytacyjnego w zakresie podstawowych zabiegów resuscytacyjnych (Basic Life Support, BLS) i zaawansowanego podtrzymywania życia (Advanced Life Support, ALS);
+D.W67. przedmiot, cel, obszar badań naukowych i paradygmaty położnictwa;
+D.W68. metody i techniki prowadzenia badań naukowych;
+D.W69. zasady etyki w prowadzeniu badań naukowych i podstawowe regulacje prawne z zakresu prawa autorskiego i prawa ochrony własności intelektualnej.
+W zakresie umiejętności absolwent potrafi: D.U1. dokonywać oceny stanu zdrowia kobiety ciężarnej, kobiety rodzącej, płodu, kobiety w okresie połogu i noworodka oraz sytuacji położniczej przy pomocy dostępnych metod i środków, interpretować wyniki badań, wdrażać interwencje położnicze oraz dokonywać ewaluacji opieki położniczej;
+D.U2. rozpoznawać i eliminować czynniki ryzyka w przebiegu porodu, a w razie konieczności zapewniać pacjentce i jej dziecku opiekę specjalistów;
+D.U3. podejmować działania profilaktyczne i w zakresie promocji zdrowia w stosunku do kobiet w okresie okołoporodowym oraz stosować w opiece okołoporodowej zasady wynikające z regulacji prawnych;
+D.U4. wykorzystywać założenia psychoprofilaktyki położniczej oraz dokonywać wyboru niefarmakologicznych metod łagodzenia bólu porodowego i stosować te metody;
+D.U5. ustalać indywidualny plan porodu, a w razie konieczności dokonywać jego modyfikacji;
+D.U6. rozpoznawać początek porodu i oceniać jego postęp na podstawie badania położniczego zewnętrznego, wewnętrznego i obserwacji zachowania kobiety rodzącej oraz prognozować prawdopodobny przebieg porodu i oceniać możliwości odbycia porodu siłami natury;
+D.U7. monitorować i oceniać różnymi metodami dobrostan płodu podczas porodu oraz interpretować wyniki tej oceny, w tym wykonywać badanie KTG i interpretować jego wynik oraz rozpoznawać zagrożenia dla płodu wynikające z nieprawidłowego wyniku badania KTG;
+D.U8. sprawować opiekę położniczą nad kobietą rodzącą w poszczególnych okresach porodu i stosować konieczne procedury zgodne ze standardem opieki okołoporodowej;
+D.U9. nacinać krocze, rozpoznawać pęknięcie krocza różnego stopnia i szyć krocze nacięte lub pęknięte I stopnia;
+D.U10. przyjmować poród fizjologiczny i miednicowy;
+D.U11. wdrażać standardy opieki położniczej w przypadku porodu pacjentki zarażonej wirusem HIV i w innych sytuacjach trudnych wskazanych w standardzie opieki okołoporodowej;
+D.U12. rozpoznawać stany naglące w przebiegu porodu, w tym łożysko przodujące, łożysko przedwcześnie odklejone, krwotok położniczy, dystocję barkową oraz wypadnięcie pępowiny i części drobnych płodu, a także postępować zgodnie z rekomendacjami w tym zakresie;
+D.U13. udzielać pierwszej pomocy położniczej (zabezpieczać dostęp do żyły obwodowej, podawać wlew kroplowy, stosować tlenoterapię, utrzymywać drożność dróg oddechowych, wykonywać czynności resuscytacyjne u pacjentki i noworodka, zabezpieczać ranę krocza lub szyjki macicy, wykonywać ręczne wydobycie łożyska, udzielać pomocy ręcznej w porodzie miednicowym);
+D.U14. wykonywać zabiegi okołoporodowe u noworodka i oceniać jego stan według obowiązujących skal oceny;
+D.U15. rozpoznawać i eliminować czynniki ryzyka w przebiegu ciąży i połogu, a w razie konieczności zapewniać pacjentce i jej dziecku opiekę specjalistów;
+D.U16. ustalać indywidualny plan opieki prenatalnej w odniesieniu do kobiety ciężarnej, a w razie konieczności dokonywać jego modyfikacji;
+D.U17. planować postępowanie położnicze i obejmować opieką położniczą kobietę ciężarną i kobietę w okresie połogu, w zależności od rozpoznanej sytuacji położniczej;
+D.U18. wdrażać standardy dotyczące opieki nad kobietą ciężarną z zagrożeniem porodu przedwczesnego i w przebiegu porodu przedwczesnego;
+D.U19. promować karmienie naturalne, prowadzić poradnictwo laktacyjne w okresie przygotowania do laktacji i jej przebiegu, rozpoznawać problemy laktacyjne i podejmować działania prewencyjne w tym zakresie;
+D.U20. realizować zadania położnej w opiece profilaktycznej, diagnostycznej, terapeutycznej i rehabilitacyjnej nad kobietami w ciąży i w okresie połogu;
+D.U21. rozpoznawać ciążę na podstawie objawów domyślnych, prawdopodobnych i pewnych;
+D.U22. stosować profilaktykę ogólną i swoistą chorób zakaźnych wobec kobiet przygotowujących się do macierzyństwa i kobiet ciężarnych;
+D.U23. planować i sprawować opiekę położniczą nad kobietą ciężarną, kobietą rodzącą i kobietą w okresie okołoporodowym, powikłanym współistniejącymi chorobami położniczymi i niepołożniczymi;
+D.U24. monitorować stan matki i dziecka oraz zapewniać wsparcie w sytuacji ciężkiej choroby lub wady noworodka, poronienia, urodzenia dziecka martwego, niezdolnego do życia lub z urazem okołoporodowym;
+D.U25. sprawować opiekę psychologiczną nad pacjentką po stracie ciąży, matką małoletnią i w innych sytuacjach szczególnych w położnictwie;
+D.U26. przygotowywać kobietę i jej partnera do funkcji prokreacyjnej i do rodzicielstwa oraz prowadzić edukację w zakresie właściwych zachowań prekoncepcyjnych;
+D.U27. prowadzić działania edukacyjne w zakresie naturalnych metod regulacji poczęć oraz w zakresie środków antykoncepcyjnych;
+D.U28. sprawować opiekę ginekologiczną nad kobietą w różnych okresach jej życia i różnym stanie zdrowia;
+D.U29. planować i sprawować opiekę nad kobietą i jej partnerem w okresie prekoncepcyjnym i w przypadku wystąpienia problemu niepłodności;
+D.U30. planować i sprawować opiekę nad pacjentami doświadczającymi niepowodzeń w prokreacji i nad rodziną obciążoną chorobami genetycznymi;
+D.U31. rozpoznawać choroby gruczołu piersiowego oraz edukować pacjentkę w zakresie samobadania i samoobserwacji;
+D.U32. rozpoznawać wczesne objawy chorób nowotworowych i stany przednowotworowe narządów płciowych;
+D.U33. rozpoznawać zaburzenia statyki narządu rodnego oraz uczestniczyć w leczeniu i profilaktyce nietrzymania moczu;
+D.U34. rozpoznawać zaburzenia i patologie seksualne;
+D.U35. przygotowywać pacjentkę do zabiegów operacyjnych ginekologicznych przeprowadzanych z zastosowaniem różnych technik oraz planować opiekę po takich zabiegach, przygotowując do samoopieki i samopielęgnacji w warunkach domowych, we współpracy z rodziną pacjentki;
+D.U36. planować i sprawować specjalistyczną opiekę nad noworodkiem w zależności od jego dojrzałości, masy urodzeniowej ciała i stanu klinicznego w warunkach szpitalnych i pozaszpitalnych;
+D.U37. dokonywać oceny stanu noworodka i uczestniczyć w badaniach diagnostycznych noworodka;
+D.U38. oceniać wydolność opiekuńczą rodziców noworodka zdrowego, chorego i z wadami rozwojowymi oraz podejmować wobec rodziców noworodka działania edukacyjne promujące zdrowie, przygotowując ich do opieki nad dzieckiem w domu;
+D.U39. rozpoznawać problemy zdrowotne dziecka i planować opiekę w najczęściej występujących chorobach układowych, alergicznych, zakaźnych i metabolicznych oraz stanach niedoborowych;
+D.U40. rozpoznawać problemy zdrowotne i planować opiekę nad pacjentem w przebiegu najczęściej występujących chorób wewnętrznych;
+D.U41. rozpoznawać wskazania do wykonania badań diagnostycznych i wystawiać skierowanie na wykonanie określonych badań diagnostycznych oraz wykonywać badanie elektrokardiograficzne i rozpoznawać zaburzenia zagrażające życiu;
+D.U42. przygotowywać zapisy form recepturowych substancji leczniczych w porozumieniu z lekarzem albo na jego zlecenie;
+D.U43. planować opiekę nad pacjentem w przebiegu chorób chirurgicznych, rozpoznawać wczesne i późne powikłania po zabiegach operacyjnych i zapobiegać im oraz pielęgnować pacjenta z przetoką jelitową;
+D.U44. prowadzić intensywną opiekę pooperacyjną;
+D.U45. rozpoznawać problemy pacjenta z najczęściej występującymi zaburzeniami psychicznymi, określać cel działania medycznego i planować interwencje terapeutyczne;
+D.U46. prowadzić rozmowę terapeutyczną;
+D.U47. wykonywać resuscytację krążeniowo-oddechową;
+D.U48. wdrażać konieczne postępowanie w sytuacji zagrożenia zdrowia lub życia;
+D.U49. przygotowywać pacjentkę do znieczulenia i monitorować jej stan w trakcie znieczulenia;
+D.U50. uczestniczyć w farmakoterapii i leczeniu bólu;
+D.U51. prowadzić rehabilitację przyłóżkową w usprawnianiu po operacjach ginekologicznych, po porodzie drogami natury i po cięciu cesarskim;
+D.U52. stosować różne formy aktywności ruchowej w opiece nad kobietą w różnych okresach jej życia i różnym stanie zdrowia, w szczególności nad kobietą ciężarną, kobietą rodzącą i pacjentką chorą ginekologicznie;
+D.U53. przeprowadzać ćwiczenia usprawniające w chorobach ginekologicznych oraz prowadzić rehabilitację późną kobiet po mastektomii i operacjach w onkologii ginekologicznej;
+D.U54. udzielać pierwszej pomocy w stanach bezpośredniego zagrożenia życia;
+D.U55. doraźnie unieruchamiać złamania kości, zwichnięcia i skręcenia oraz przygotowywać pacjenta do transportu w takich przypadkach;
+D.U56. doraźnie tamować krwawienia i krwotoki;
+D.U57. wykonywać podstawowe zabiegi resuscytacyjne u osób dorosłych i dzieci oraz stosować automatyczny defibrylator zewnętrzny (Automated External Defibrillator, AED) i bezprzyrządowe udrażnianie dróg oddechowych;
+D.U58. krytycznie analizować publikowane wyniki badań naukowych w zakresie położnictwa;
+D.U59. przeprowadzać badanie jakościowe, posługując się narzędziem badawczym.
+IV.A. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania oraz testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy ustne powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie obiektywnego standaryzowanego egzaminu klinicznego (Objective Structured Clinical Examination, OSCE), który może stanowić formę egzaminu dyplomowego.
+6. Studia pierwszego stopnia kończą się egzaminem dyplomowym składającym się z części teoretycznej i praktycznej, obejmującym weryfikację osiągniętych efektów uczenia się objętych programem studiów.
+7. Pracę dyplomową student przygotowuje w oparciu o analizę indywidualnego przypadku.
+B. STUDIA DRUGIEGO STOPNIA I.B. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Studia drugiego stopnia trwają nie krócej niż 4 semestry.
+1.2. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 1300.
+1.3. Liczba punktów ECTS konieczna do ukończenia studiów drugiego stopnia nie może być mniejsza niż 120.
+1.4. Kierunek położnictwo jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2) grup zajęć zintegrowanych łączących dwa albo więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+2.3. Proces kształcenia na studiach drugiego stopnia jest zorganizowany w taki sposób, aby umożliwiał studentom będącym absolwentami studiów pierwszego stopnia, którzy rozpoczęli kształcenie przed rokiem akademickim 2016/2017 i nie ukończyli kursu specjalistycznego, o którym mowa w art. 15a ust. 2 ustawy z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej, osiągnięcie szczegółowych efektów uczenia się określonych dla studiów pierwszego stopnia w zakresie wystawiania recept na leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, niezbędne do kontynuacji leczenia w ramach realizacji zleceń lekarskich.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba punktów Liczba godzin efekty uczenia się ECTS A. Nauki społeczne i humanistyczne 270 23 B. Zaawansowana praktyka położnicza 510 40 C. Badania naukowe i rozwój praktyki położniczej 170 15 D. Praktyki zawodowe 200 10 Razem 1150 88
+3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 150 godzin zajęć (12 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające wiedzę, umiejętności i kompetencje społeczne w grupach zajęć A, B i C, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.2. W trakcie kształcenia w grupie zajęć A są prowadzone zajęcia z języka angielskiego w wymiarze nie mniejszym niż 90 godzin. Zajęcia te obejmują język specjalistyczny z zakresu położnictwa. Zajęciom tym przypisuje się nie mniej niż 6 punktów ECTS.
+3.3. Program studiów umożliwia studentom uzyskanie nie mniej niż 20 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.4. Kształcenie z wykorzystaniem metod i technik kształcenia na odległość może być prowadzone w grupach zajęć A, B i C. Liczba punktów ECTS, jaka może być uzyskana w ramach tego kształcenia, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYKI ZAWODOWE
+4.1. Praktyki zawodowe mają na celu umożliwienie osiągnięcia efektów uczenia się ujętych w grupach zajęć A i B.
+Zakres praktyk zawodowych Liczba godzin Zarządzanie w położnictwie 20 Diagnostyka ultrasonograficzna w położnictwie 60 i ginekologii Opieka specjalistyczna nad pacjentką i jej rodziną 60 w ujęciu interdyscyplinarnym Edukacja w praktyce zawodowej położnej 60 Razem 200
+4.2. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się.
+5.2. Praktyki zawodowe odbywają się w podmiotach wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia, w szczególności w:
+1) oddziałach ginekologii onkologicznej, onkologii ginekologicznej lub chirurgii onkologicznej;
+2) poradniach leczenia bólu;
+3) poradniach laktacyjnych;
+4) poradniach diabetologicznych;
+5) pracowniach ultrasonograficznych.
+II.B. OSOBY PROWADZĄCE KSZTAŁCENIE
+1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć A, B i C jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+2. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć A, B i C, w ramach zajęć obejmujących treści z zakresu opieki położniczej i pielęgniarskiej, jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających prawo wykonywania zawodu położnej lub zawodu pielęgniarki oraz co najmniej roczną praktykę zawodową w zakresie właściwym dla prowadzonych zajęć.
+3. Praktyki zawodowe są prowadzone pod kierunkiem osoby posiadającej prawo wykonywania zawodu położnej, będącej pracownikiem danego podmiotu wykonującego działalność leczniczą, a nadzór nad prowadzeniem praktyk sprawuje opiekun praktyk z uczelni. Praktyki zawodowe w zakresie diagnostyki ultrasonograficznej w położnictwie i ginekologii są prowadzone pod kierunkiem osoby posiadającej kompetencje zawodowe oraz doświadczenie w tym zakresie.
+III.B. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie specjalistyczną problematykę z zakresu położnictwa, neonatologii, ginekologii, onkologii ginekologicznej, diagnostyki ultrasonograficznej w położnictwie i ginekologii oraz metodologię badań naukowych.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) rozwiązywać problemy zawodowe, szczególnie związane z podejmowaniem decyzji w sytuacjach trudnych wynikających ze specyfiki podejmowanych czynności zawodowych i warunków ich realizacji;
+2) prowadzić badania naukowe i upowszechniać ich wyniki;
+3) stosować odpowiednie przepisy prawa w działalności zawodowej;
+4) opracowywać założenia polityki kadrowej odpowiednie do zapotrzebowania pacjentów na opiekę położniczą, położniczo-neonatologiczną i ginekologiczną;
+5) stosować metody i techniki organizacji i zarządzania w badaniu i rozwiązywaniu problemów organizacyjnych oraz usprawnianiu praktyki zawodowej położnej;
+6) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy;
+7) określać standardy profesjonalnej opieki położniczej w okresie prekoncepcyjnym i okołoporodowym, opieki położniczej nad kobietą zagrożoną chorobą i chorą ginekologicznie oraz kobietą w różnych okresach jej życia i różnym stanie zdrowia, a także wdrażać je do praktyki zawodowej położnej;
+8) wykonywać podstawowe badanie ultrasonograficzne narządów jamy brzusznej i miednicy mniejszej oraz ciąży niskiego ryzyka, a także wstępnie oceniać i opisywać wynik tego badania;
+9) opracowywać i wdrażać programy edukacji zdrowotnej, w tym prowadzić poradnictwo laktacyjne;
+10) prowadzić edukację terapeutyczną kobiety w różnych okresach jej życia i różnym stanie zdrowia;
+11) samodzielnie udzielać określonych świadczeń specjalistycznych z zakresu opieki nad kobietą ciężarną, kobietą rodzącą i kobietą w okresie połogu, pacjentkami chorymi na cukrzycę i choroby nowotworowe narządów rodnych oraz piersi w różnych etapach tych chorób, a także świadczeń specjalistycznych z zakresu terapii bólu ostrego i przewlekłego;
+12) samodzielnie ordynować wybrane produkty lecznicze, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne, w tym wystawiać na nie recepty albo zlecenia.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) krytycznej oceny działań własnych i współpracowników przy zachowaniu szacunku dla różnic światopoglądowych i kulturowych;
+2) formułowania opinii dotyczących różnych aspektów działalności zawodowej i zasięgania porad ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemów;
+3) okazywania dbałości o prestiż związany z wykonywaniem zawodu położnej i solidarność zawodową;
+4) okazywania troski o bezpieczeństwo własne, otoczenia i współpracowników;
+5) rozwiązywania złożonych problemów etycznych związanych z wykonywaniem zawodu położnej i wskazywania priorytetów w realizacji czynności zawodowych;
+6) ponoszenia odpowiedzialności za realizowanie świadczeń zdrowotnych;
+7) wykazywania profesjonalnego podejścia do strategii marketingowych przemysłu farmaceutycznego i reklamy jego produktów.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI SPOŁECZNE I HUMANISTYCZNE (psychologia zdrowia, prawo w praktyce położniczej, zarządzanie w położnictwie, dydaktyka medyczna, wielokulturowość w opiece nad kobietą, język angielski) W zakresie wiedzy absolwent zna i rozumie: A.W1. modele i podejścia stosowane w psychologii zdrowia;
+A.W2. znaczenie wsparcia społecznego i psychologicznego w zdrowiu i chorobie oraz sytuacjach szczególnych w położnictwie i ginekologii;
+A.W3. teorie stresu psychologicznego, zależności między stresem a stanem zdrowia i innych psychologicznych determinantów zdrowia;
+A.W4. podejście salutogenetyczne podmiotowych uwarunkowań optymalnego stanu zdrowia i podejście patogenetyczne uwarunkowane chorobą;
+A.W5. procesy adaptacji człowieka do życia z przewlekłą chorobą i uwarunkowania tych procesów;
+A.W6. skutki prawne zdarzeń medycznych;
+A.W7. istotę błędów medycznych w położnictwie w kontekście niepowodzenia w działaniach terapeutyczno-pielęgnacyjnych;
+A.W8. systemy ubezpieczeń w zakresie odpowiedzialności cywilnej;
+A.W9. uwarunkowania prawne przetwarzania danych wrażliwych w systemie informacji w ochronie zdrowia;
+A.W10. poziomy uprawnień do realizowania świadczeń zdrowotnych przez położną w odniesieniu do poziomów kwalifikacji;
+A.W11. metody zarządzania w systemie ochrony zdrowia;
+A.W12. zasady funkcjonowania organizacji i budowania struktur;
+A.W13. pojęcie kultury organizacyjnej i czynniki ją determinujące;
+A.W14. zasady świadczenia usług położniczych i sposób ich finansowania;
+A.W15. style zarządzania i cechy współczesnego przywództwa;
+A.W16. specyfikę funkcji kierowniczych, istotę delegowania zadań oraz proces i mechanizmy podejmowania decyzji;
+A.W17. zasady zarządzania strategicznego, marketing usług zdrowotnych oraz segmentację rynku usług położniczych i zasady ich finansowania;
+A.W18. zasady zarządzania zasobami ludzkimi i sposoby planowania rekrutacji kandydatów do pracy;
+A.W19. zakres obowiązków, odpowiedzialności i uprawnień zawodowych w zależności od zakresu kompetencji oraz uwarunkowania rozwoju zawodowego położnych;
+A.W20. naukowe podstawy ergonomii w środowisku pracy;
+A.W21. istotę procesu zmian w organizacji oraz techniki organizatorskie i zarządzania;
+A.W22. modele i strategie zarządzania jakością;
+A.W23. modele opieki koordynowanej funkcjonujące w Rzeczypospolitej Polskiej i wybranych państwach, w szczególności opieki koordynowanej nad kobietą ciężarną;
+A.W24. podstawowe pojęcia z zakresu dydaktyki medycznej;
+A.W25. zasady przygotowania do działalności dydaktycznej;
+A.W26. metody nauczania i środki dydaktyczne stosowane w kształceniu przeddyplomowym i podyplomowym;
+A.W27. teorie i modele opieki w odniesieniu do wielokulturowości podopiecznych w opiece położniczo-neonatologicznej i ginekologicznej;
+A.W28. religijne, kulturowe, etniczne i narodowe uwarunkowania zachowań zdrowotnych oraz komunikację międzykulturową w aspekcie zdrowia prokreacyjnego, macierzyństwa i ojcostwa;
+A.W29. uwarunkowania społeczno-kulturowe i religijne w odniesieniu do opieki nad kobietą i jej rodziną.
+W zakresie umiejętności absolwent potrafi: A.U1. rozpoznawać zaburzenia w funkcjonowaniu społecznym człowieka oraz oceniać proces adaptacji człowieka w różnych kontekstach zdrowia i choroby;
+A.U2. wskazywać rolę wsparcia społecznego i psychologicznego w opiece nad człowiekiem zdrowym i chorym;
+A.U3. wskazywać metody radzenia sobie ze stresem;
+A.U4. oceniać zdarzenia w praktyce zawodowej położnej w kontekście zgodności z przepisami prawa oraz możliwości i sposobów dochodzenia roszczeń, a także wskazywać możliwości rozwiązania danego problemu;
+A.U5. kwalifikować zdarzenia w praktyce zawodowej położnej zgodnie z przepisami prawa cywilnego, karnego i prawa pracy;
+A.U6. analizować przyczyny błędów medycznych i proponować działania naprawcze;
+A.U7. analizować strukturę zadań zawodowych położnych w kontekście posiadanych kwalifikacji;
+A.U8. stosować metody analizy strategicznej niezbędne do funkcjonowania podmiotów wykonujących działalność leczniczą;
+A.U9. organizować i nadzorować pracę zespołów pielęgniarskich i położniczych;
+A.U10. stosować różne metody podejmowania decyzji zawodowych i zarządczych;
+A.U11. planować zasoby ludzkie, wykorzystując różne metody, organizować rekrutację pracowników i planować proces adaptacji zawodowej;
+A.U12. opracowywać harmonogramy pracy personelu w oparciu o ocenę zapotrzebowania na opiekę położniczą;
+A.U13. opracowywać plany rozwoju zawodowego własnego i podległego personelu położniczego;
+A.U14. przygotowywać opisy stanowisk pracy dla położnych oraz zakresy obowiązków, uprawnień i odpowiedzialności;
+A.U15. nadzorować jakość opieki położniczej w podmiocie wykonującym działalność leczniczą, w tym przygotowywać ten podmiot do zewnętrznej oceny jakości;
+A.U16. koordynować realizację świadczeń zdrowotnych dla kobiet w zakresie opieki okołoporodowej;
+A.U17. organizować proces dydaktyczny z wykorzystaniem nowoczesnych technologii stosowanych w kształceniu przeddyplomowym i podyplomowym;
+A.U18. dobierać odpowiednie środki i metody nauczania w działalności dydaktycznej;
+A.U19. dokonywać weryfikacji osiągniętych efektów uczenia się i organizacji procesu kształcenia zawodowego;
+A.U20. stosować różne metody komunikacji z kobietą i jej rodziną, uwzględniając różnice kulturowe, konsekwencje uchodźctwa, imigracji i repatriacji;
+A.U21. analizować religijno-kulturowe aspekty opieki nad kobietą i jej rodziną w okresie okołoporodowym i opieki neonatologicznej;
+A.U22. stosować uwarunkowania religijne i kulturowe w odniesieniu do potrzeb kobiet w różnych okresach ich życia i różnym stanie zdrowia oraz ich rodzin;
+A.U23. analizować relację położna-pacjentka i wskazywać na bariery w komunikacji międzykulturowej;
+A.U24. identyfikować problemy pacjentek oraz ich rodzin (niepowodzenia prokreacyjne, transplantologia, transfuzja, żywienie) wynikające z uwarunkowań kulturowych, religijnych i etnicznych kobiet w różnych okresach ich życia i różnym stanie zdrowia;
+A.U25. porozumiewać się w języku angielskim na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego.
+B. ZAAWANSOWANA PRAKTYKA POŁOŻNICZA (farmakologia i ordynowanie produktów leczniczych, terapia bólu ostrego i przewlekłego, diagnostyka ultrasonograficzna w położnictwie i ginekologii, opieka specjalistyczna nad kobietą i jej rodziną w ujęciu interdyscyplinarnym, edukacja w praktyce zawodowej położnej) W zakresie wiedzy absolwent zna i rozumie: B.W1. mechanizmy działania leków i ich przemiany w ustroju zależne od wieku i problemów zdrowotnych;
+B.W2. regulacje prawne związane z odpłatnością za leki oraz refundacją środków spożywczych specjalnego przeznaczenia żywieniowego i wyrobów medycznych;
+B.W3. zasady ordynowania leków zawierających określone substancje czynne, z wyłączeniem leków zawierających substancje bardzo silnie działające, środki odurzające i substancje psychotropowe;
+B.W4. zasady ordynowania określonych wyrobów medycznych, w tym wystawiania na nie recept albo zleceń;
+B.W5. skutki i objawy uboczne działania leków zawierających określone substancje czynne;
+B.W6. definicję bólu ostrego i przewlekłego, jego rodzaje, mechanizm i drogi przewodzenia oraz czynniki wpływające na jego odczuwanie;
+B.W7. kategorie bólu, metody diagnostyki i monitorowania bólu nowotworowego oraz metody i narzędzia kontroli i oceny odczuwania bólu przez pacjenta;
+B.W8. zasady postępowania i leczenia przeciwbólowego zgodnego z najnowszymi rekomendacjami i zaleceniami Polskiego Towarzystwa Badania Bólu;
+B.W9. mechanizmy działania leków przeciwbólowych z różnych grup i ich działania uboczne w czasie terapii bólu przewlekłego;
+B.W10. niefarmakologiczne metody w terapii bólu;
+B.W11. zasady i odrębności w postępowaniu przy terapii przeciwbólowej pacjentów w wieku podeszłym oraz w terminalnej fazie choroby nowotworowej;
+B.W12. źródła i metody łagodzenia bólu u noworodka;
+B.W13. możliwości obrazowania przy różnych drogach dostępu z zastosowaniem nowoczesnej aparatury do diagnostyki ultrasonograficznej;
+B.W14. zasady wykonywania badania ultrasonograficznego narządów jamy brzusznej i miednicy mniejszej oraz narządu rodnego kobiety, w tym kobiety ciężarnej, kobiety rodzącej i kobiety w okresie połogu;
+B.W15. techniki wykonywania i zasady asystowania przy zabiegach wykonywanych przy użyciu ultrasonografu;
+B.W16. zastosowanie badania ultrasonograficznego w diagnostyce niepłodności;
+B.W17. zasady opisu i interpretacji diagnostyki ultrasonograficznej ciąży pojedynczej i wielopłodowej;
+B.W18. zasady wykonywania, oceny i dokumentowania badania serca płodu za pomocą różnych technik ultrasonograficznych;
+B.W19. regulacje prawne i zasady etyczne dotyczące udzielania specjalistycznych świadczeń zdrowotnych w zakresie diagnostyki ultrasonograficznej w położnictwie i ginekologii;
+B.W20. aktualne standardy postępowania w opiece okołoporodowej nad pacjentką z chorobami układowymi, metabolicznymi, endokrynologicznymi i onkologicznymi, z zaburzeniami psychicznymi oraz nad pacjentką z niepełnosprawnością;
+B.W21. psychologiczne aspekty niepełnosprawności i ich znaczenie dla funkcjonowania kobiety z niepełnosprawnością w różnych okresach jej życia oraz dla funkcjonowania jej rodziny;
+B.W22. psychologiczne aspekty komplikacji ciążowo-położniczych i problemy psychoseksualne kobiet po porodzie;
+B.W23. zalecenia dietetyczne dla kobiet z patologicznym przebiegiem ciąży oraz z różnymi nawykami żywieniowymi i zaburzeniami odżywiania;
+B.W24. formy wsparcia kobiet w sytuacjach trudnych w okresie okołoporodowym oraz rodziców po urodzeniu dziecka z niepełnosprawnością, chorobą o złym rokowaniu lub po śmierci dziecka;
+B.W25. najczęstsze problemy neurologiczne w okresie prokreacji, okołoporodowym i okołoklimakterycznym;
+B.W26. zasady diagnostyki, profilaktyki i leczenia chorób uwarunkowanych genetycznie oraz organizację opieki w tym zakresie;
+B.W27. rodzaje działań medycznych i prawnych w przypadku przemocy wobec dziewczynek i kobiet;
+B.W28. schorzenia układu moczowo-płciowego w okresie okołomenopauzalnym i problemy kobiet w okresie senium;
+B.W29. zasady opieki nad kobietą i noworodkiem uzależnionymi od środków odurzających i psychotropowych;
+B.W30. międzynarodowe procedury mające na celu minimalizowanie ryzyka transmisji wertykalnej wirusa HIV od matki do płodu;
+B.W31. programy wczesnej rehabilitacji i wspierania rozwoju noworodka oraz zasady profilaktyki, pielęgnacji, rehabilitacji i wczesnego leczenia u noworodków wad związanych z funkcjonowaniem narządu ruchu, z zespołem przykurczów i tym podobnych;
+B.W32. specyfikę ginekologii wieku dziecięcego i rozwojowego;
+B.W33. problemy kobiet wynikające z zaburzeń układu wewnątrzwydzielniczego, w szczególności dotyczące ginekologii endokrynologicznej;
+B.W34. zasady przygotowania pacjentki chorej na cukrzycę do zajścia w ciążę, metody edukacji w zakresie samokontroli i monitorowania glikemii, glikozurii i acetonurii, zasady postępowania w przypadku hipoglikemii i hiperglikemii oraz pojawienia się stanów zagrożenia życia występujących w cukrzycy;
+B.W35. wytyczne i programy organizacji promujących karmienie piersią w Rzeczypospolitej Polskiej i innych państwach oraz przepisy prawa w tym zakresie;
+B.W36. czynniki sprzyjające laktacji i zaburzające laktację;
+B.W37. zasady postępowania w przypadku sytuacji trudnych w laktacji, relaktacji i laktacji indukowanej;
+B.W38. wpływ leków, używek i chorób zakaźnych na laktację oraz możliwość karmienia piersią;
+B.W39. metody oceny siły mięśni dna miednicy oraz zasady treningu i profilaktyki dysfunkcji mięśni dna miednicy w wysiłkowym nietrzymaniu moczu, zespole pęcherza nadreaktywnego i obniżeniu pęcherza nadreaktywnego oraz dysfunkcji występujących po operacjach w obrębie podbrzusza, po ciąży i po porodzie;
+B.W40. zasady kompleksowej opieki nad pacjentką z chorobą nowotworową narządu rodnego i piersi w różnym stopniu zaawansowania oraz prowadzenia edukacji terapeutycznej;
+B.W41. zasady edukacji pacjentki i jej rodziny w zakresie podawania i świadomego dozowania leków przeciwbólowych oraz monitorowania bólu nowotworowego;
+B.W42. specyfikę opieki nad pacjentką w terminalnej fazie choroby nowotworowej.
+W zakresie umiejętności absolwent potrafi: B.U1. dobierać i przygotowywać zapisy form recepturowych leków zawierających określone substancje czynne, na podstawie ukierunkowanej oceny stanu pacjenta;
+B.U2. interpretować charakterystyki farmaceutyczne produktów leczniczych;
+B.U3. ordynować leki, środki spożywcze specjalnego przeznaczenia żywieniowego i wyroby medyczne oraz wystawić na nie recepty albo zlecenia;
+B.U4. prowadzić edukację pacjenta w zakresie stosowanej farmakoterapii;
+B.U5. oceniać ból ostry przy zastosowaniu skali jego natężenia dobranej do danej grupy pacjentów;
+B.U6. oceniać kliniczne przyczyny zmian w wartościach parametrów życiowych wynikające z odczuwanego bólu i podejmować w tym zakresie działania adekwatne do stanu pacjenta;
+B.U7. podawać odpowiednimi drogami leki przeciwbólowe, modyfikując dawkę leku w zależności od stanu pacjenta;
+B.U8. stosować odpowiednie metody niefarmakologiczne łagodzenia bólu w zależności od stanu pacjenta;
+B.U9. dokumentować procedury realizowane w ramach terapii bólu ostrego przewlekłego oraz prowadzić kartę leczenia bólu;
+B.U10. oceniać poziom sprawności poznawczej pacjenta i natężenia bólu według odpowiedniej skali;
+B.U11.
+i oceniać skuteczność terapii bólu ostrego i przewlekłego;
+B.U12. prowadzić edukację pacjenta w zakresie samoobserwacji i samopielęgnacji w terapii bólu przewlekłego;
+B.U13. oceniać nasilenie bólu u noworodka oraz stosować zasady postępowania przeciwbólowego i sedacyjnego na Oddziale Intensywnej Terapii Noworodka;
+B.U14. wykonywać badanie ultrasonograficzne narządów jamy brzusznej i miednicy mniejszej oraz wstępnie oceniać i opisywać wynik badania;
+B.U15. różnicować anatomię ultrasonograficzną narządu rodnego w różnych okresach życia kobiety i wstępnie interpretować podstawowe wyniki badań ultrasonograficznych;
+B.U16. rozpoznawać wczesną ciążę i jej umiejscowienie oraz oceniać prawidłowość rozwoju pęcherzyka ciążowego, a także wiek ciążowy, masę, dojrzałość płodu i jego położenie;
+B.U17. wykonywać badanie ultrasonograficzne ciąży niskiego ryzyka, oceniać prawidłowość jej rozwoju, wielkość płodu, wykluczać duże wady anatomiczne płodu, oceniać stan płodu i popłodu (łożyska i płynu owodniowego) oraz opisywać wynik tego badania;
+B.U18. dokonywać wstępnej oceny płodu i struktur w otoczeniu płodu oraz pogłębionej oceny serca, układu krążenia i innych struktur płodu za pomocą różnych technik ultrasonograficznych;
+B.U19. wykonywać badanie ultrasonograficzne w ginekologii w ocenie nieprawidłowych zmian w obrębie narządu rodnego;
+B.U20. interpretować podstawowe wyniki badań ultrasonograficznych z wykorzystaniem techniki przezpochwowej, przezodbytniczej i przezbrzusznej w położnictwie i ginekologii;
+B.U21. określać, w jakich stanach klinicznych, przy jakich podejrzeniach i przy uzyskaniu jakich obrazów powinno być wykonane konsultacyjne badanie ultrasonograficzne;
+B.U22. oceniać stan zdrowia pacjentki w okresie okołoporodowym z chorobami układowymi, metabolicznymi, endokrynologicznymi i onkologicznymi oraz z zaburzeniami psychicznymi, a także pacjentki z niepełnosprawnością, na podstawie badania fizykalnego, oraz określać standard opieki położniczej nad nią;
+B.U23. wskazywać różne formy wsparcia dla kobiet w sytuacjach trudnych w ciąży i w okresie połogu;
+B.U24. organizować i podejmować współpracę z członkami zespołu interdyscyplinarnego w zakresie opieki nad kobietą i jej rodziną w przypadku choroby przewlekłej, niepełnosprawności i choroby o złym rokowaniu;
+B.U25. wdrażać międzynarodowe procedury mające na celu zminimalizowanie ryzyka transmisji wertykalnej wirusa HIV od matki do płodu;
+B.U26. rozpoznawać objawy współuzależnienia i pomagać osobom współuzależnionym, wdrażając adekwatne postępowanie oraz sprawować opiekę w środowisku domowym nad kobietą i noworodkiem uzależnionymi od alkoholu, środków odurzających i psychotropowych;
+B.U27. rozpoznawać środowiska zagrożone problemem przemocy w rodzinie i udzielać ofiarom profesjonalnej pomocy;
+B.U28. rozpoznawać objawy zaburzeń odżywiania w ciąży, w tym pregoreksji, i niedobory mineralno-witaminowe wynikające z restrykcyjnych diet oraz planować działania przeciwdziałające ich możliwym niekorzystnym skutkom dla kobiety w ciąży i dla płodu;
+B.U29. realizować programy wczesnej stymulacji i opieki rozwojowej noworodka oraz monitorować zmiany zachowania noworodka przy użyciu Skali Oceny Zachowania Noworodka NBAS Thomasa Brazeltona;
+B.U30. proponować metody pracy z pacjentką i jej rodzicami w ginekologii wieku dziecięcego i rozwojowego;
+B.U31. analizować i interpretować konsekwencje endokrynologiczne zaburzeń czynności hormonalnej gonad;
+B.U32. prowadzić poradnictwo w zakresie opieki prekoncepcyjnej nad pacjentką chorą na cukrzycę i w zakresie opieki okołoporodowej nad kobietą ciężarną, kobietą rodzącą i kobietą w okresie połogu chorą na cukrzycę oraz jej dzieckiem;
+B.U33. opracowywać indywidualny program edukacji przedporodowej dla rodziców w przypadku ciąży fizjologicznej i powikłanej;
+B.U34. prowadzić ewaluację działań edukacyjnych wobec kobiety ciężarnej, kobiety rodzącej, kobiety w okresie połogu i jej rodziny oraz kobiety zdrowej w każdym okresie jej życia, a także kobiety chorej ginekologicznie;
+B.U35. prowadzić działania edukacyjne w zakresie laktacji, obejmując specjalistyczną opieką kobietę i jej dziecko, niezależnie od stanu klinicznego i stopnia dojrzałości, w okresie przygotowania do karmienia piersią i w czasie jego trwania oraz w przypadku relaktacji i laktacji indukowanej;
+B.U36. planować działania edukacyjne w opiece nad kobietą ciężarną z zaburzeniami odżywiania;
+B.U37. projektować rozwiązania usprawniające wdrażanie profilaktyki chorób narządu rodnego w okresie senium;
+B.U38. prowadzić edukację terapeutyczną pacjentki i jej rodziny dotyczącą objawów ubocznych leczenia onkologicznego, zapobiegania powikłaniom wynikającym z choroby lub procesu leczenia oraz w zakresie rehabilitacji wczesnej po leczeniu onkologicznym narządu rodnego i piersi;
+B.U39. planować i realizować działania mające na celu zapobieganie powikłaniom wynikającym z terminalnej fazy choroby.
+C. BADANIA NAUKOWE I ROZWÓJ PRAKTYKI POŁOŻNICZEJ (badania naukowe, seminarium dyplomowe, statystyka medyczna, informacja naukowa, praktyka położnicza oparta na dowodach naukowych, praktyka położnicza w perspektywie międzynarodowej) W zakresie wiedzy absolwent zna i rozumie: C.W1. kierunki, zakres i rodzaje badań naukowych w pielęgniarstwie i opiece położniczej;
+C.W2. reguły dobrych praktyk w badaniach naukowych;
+C.W3. metody i techniki badawcze stosowane w ramach prowadzonego badania naukowego;
+C.W4. zasady przygotowywania baz danych do analiz statystycznych;
+C.W5. narzędzia informatyczne, testy statystyczne i zasady opracowania wyników badań naukowych;
+C.W6. źródła naukowej informacji medycznej;
+C.W7. sposoby wyszukiwania informacji naukowej w bazach danych;
+C.W8. zasady praktyki opartej na dowodach naukowych w medycynie (evidence based medicine) i w pielęgniarstwie (evidence based nursing practice);
+C.W9. procedurę uznawania kwalifikacji zawodowych położnych w Rzeczypospolitej Polskiej i innych państwach członkowskich Unii Europejskiej;
+C.W10. systemy kształcenia przeddyplomowego i podyplomowego położnych w wybranych państwach członkowskich Unii Europejskiej;
+C.W11. systemy i współczesne kierunki organizowania opieki położniczej;
+C.W12. inicjatywy i strategie międzynarodowe dotyczące ochrony i promocji zdrowia kobiet;
+C.W13. zasady dostępu obywateli państw członkowskich Unii Europejskiej do świadczeń zdrowotnych w świetle prawa Unii Europejskiej.
+W zakresie umiejętności absolwent potrafi: C.U1. wskazywać kierunki i zakres badań naukowych w pielęgniarstwie i opiece położniczej;
+C.U2. zaplanować badanie naukowe, omówić jego cel i spodziewane wyniki;
+C.U3. przeprowadzić badanie naukowe, zaprezentować i zinterpretować jego wyniki oraz odnieść je do aktualnego stanu wiedzy;
+C.U4. przygotowywać bazy danych do obliczeń statystycznych;
+C.U5. stosować testy parametryczne i nieparametryczne dla zmiennych zależnych i niezależnych;
+C.U6. korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej, naukowych baz danych oraz informacji i danych przekazywanych przez międzynarodowe organizacje i stowarzyszenia położnicze;
+C.U7. wykorzystywać wyniki badań naukowych w zakresie opieki położniczej, ginekologicznej i neonatologicznej niezbędne do podjęcia właściwej decyzji w praktyce zawodowej;
+C.U8. przygotowywać rekomendacje w zakresie opieki położniczej w oparciu o wyniki badań naukowych;
+C.U9. stosować zróżnicowane modele opieki położniczej w kontekście nowoczesnego położnictwa, ginekologii i neonatologii;
+C.U10. analizować inicjatywy i strategie międzynarodowe dotyczące ochrony i promocji zdrowia kobiet w celu organizowania opieki nad kobietą w różnych okresach jej życia i różnym stanie zdrowia.
+IV.B. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania oraz testy wielokrotnego wyboru (Multiple Choice Questions, MCQ), testy wielokrotnej odpowiedzi (Multiple Response Questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy ustne powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+Możliwe jest wykorzystanie opisów przypadków klinicznych, na podstawie których student ustala i prezentuje plan specjalistycznej opieki położniczej.
+5. Studia drugiego stopnia kończą się egzaminem dyplomowym obejmującym weryfikację osiągniętych efektów uczenia się objętych programem studiów.
+Standard kształcenia przygotowującego do wykonywania zawodu diagnosty laboratoryjnego I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu diagnosty laboratoryjnego prowadzonego na studiach na kierunku analityka medyczna, zwanych dalej „studiami”.
+1.2. Studia są jednolitymi studiami magisterskimi.
+1.3. Studia trwają nie krócej niż 10 semestrów.
+1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 4800.
+1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
+1.6. Kierunek analityka medyczna jest przyporządkowany do dyscypliny naukowej nauki medyczne albo nauki farmaceutyczne, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Nauki biologiczno-medyczne 600 45 B. Nauki chemiczne i elementy statystyki 450 30 C. Nauki behawioralne i społeczne 250 15, w tym 5 język obcy D. Nauki kliniczne oraz prawne i organizacyjne aspekty 240 15 medycyny laboratoryjnej E. Naukowe aspekty medycyny laboratoryjnej 700 50 F. Praktyczne aspekty medycyny laboratoryjnej 1000 70 G. Metodologia badań naukowych 450 25 H. Praktyki zawodowe 600 20 Razem 4290 270
+3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 510 godzin zajęć (30 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategoriach wiedzy, umiejętności lub kompetencji społecznych, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.2. Program studiów umożliwia studentom uzyskanie nie mniej niż:
+1) 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych;
+2) 25 punktów ECTS za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.3. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.4. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYKI ZAWODOWE
+4.1. Praktyki zawodowe są realizowane w wymiarze co najmniej 600 godzin i przypisuje się im co najmniej 20 punktów ECTS.
+4.2. Program praktyk zawodowych, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury uczelni lub podmiotów wykonujących działalność leczniczą, pozwalającej na osiągnięcie efektów uczenia się, w tym w zakładach diagnostycznych lub klinikach szpitali uniwersyteckich.
+5.2. Praktyki zawodowe mogą odbywać się w oparciu o infrastrukturę uczelni lub podmiotów wykonujących działalność leczniczą, z czego co najmniej 480 godzin praktyk zawodowych powinno odbywać się w medycznych laboratoriach diagnostycznych.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupach zajęć E i F jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy w dyscyplinie naukowej nauki medyczne lub nauki farmaceutyczne, lub kompetencje zawodowe i tytuł specjalisty lub specjalizację w dziedzinie adekwatnej do prowadzonych zajęć oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+III. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) rozwój, budowę i funkcje komórek, tkanek, narządów i układów organizmu ludzkiego oraz współzależność ich budowy i funkcji w warunkach zdrowia i choroby;
+2) procesy metaboliczne na poziomie molekularnym, komórkowym, narządowym i ustrojowym, w tym zjawiska homeostazy, regulacji hormonalnej, reprodukcji oraz starzenia się organizmu;
+3) podstawy biologii molekularnej, mechanizmy dziedziczenia i zaburzeń genetycznych oraz podstawy inżynierii genetycznej;
+4) podstawy teoretyczne i metodyczne zastosowania instrumentalnych metod analitycznych w diagnostyce laboratoryjnej;
+5) zasady wykonywania badań laboratoryjnych przy użyciu metod manualnych i technik zautomatyzowanych oraz autoryzacji wyników;
+6) wpływ substancji egzogennych, w tym składników odżywczych, leków i używek na wyniki laboratoryjnych badań diagnostycznych oraz techniki monitorowania stężenia tych związków w materiale biologicznym;
+7) etyczne, społeczne i prawne uwarunkowania wykonywania zawodu diagnosty laboratoryjnego.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) pobierać materiał biologiczny do badań laboratoryjnych z zachowaniem zasad aseptyki oraz oceniać jego przydatność;
+2) planować i przeprowadzać laboratoryjną strategię diagnostyczną z wykorzystaniem współczesnych źródeł informacji;
+3) wykonywać badania laboratoryjne oraz uzyskiwać wiarygodne wyniki;
+4) wykorzystywać wyniki badań laboratoryjnych do opisu stanu zdrowia;
+5) rozwiązywać problemy diagnostyczne mieszczące się w zakresie dziedziny nauk medycznych i nauk o zdrowiu;
+6) doradzać w procesie diagnostycznym;
+7) zarządzać i kierować medycznym laboratorium diagnostycznym, w tym jego personelem;
+8) określać priorytety w procesie diagnostycznym oraz konstruktywnie i na zasadzie partnerstwa współpracować w jego trakcie z lekarzem i innymi osobami związanymi z procesem diagnostyczno-terapeutycznym;
+9) wyszukiwać i selekcjonować informacje z różnych źródeł, dokonywać ich krytycznej oceny oraz formułować opinie;
+10) korzystać z wiedzy i umiejętności praktycznych zgodnie z zasadami etyki i deontologii oraz przepisami prawa;
+11) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy;
+12) inspirować inne osoby do uczenia się;
+13) komunikować się ze współpracownikami w zespole i dzielić się wiedzą;
+14) komunikować się z odbiorcami wyników badań laboratoryjnych.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
+2) pracy w zespole, przyjmując w nim różne role, ustalając priorytety, dbając o bezpieczeństwo własne, współpracowników i otoczenia;
+3) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
+4) identyfikacji i rozstrzygania dylematów związanych z wykonywaniem zawodu diagnosty laboratoryjnego w oparciu o zasady etyczne oraz formułowania opinii dotyczących różnych aspektów działalności zawodowej;
+5) przestrzegania tajemnicy zawodowej i praw pacjenta;
+6) korzystania z obiektywnych źródeł informacji;
+7) formułowania wniosków z własnych pomiarów lub obserwacji;
+8) podejmowania działań zawodowych z szacunkiem do pracy własnej i innych ludzi oraz dbania o powierzony sprzęt;
+9) przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI BIOLOGICZNO-MEDYCZNE (anatomia, biochemia, biofizyka medyczna, biologia medyczna, farmakologia, fizjologia, histologia, immunologia, patofizjologia) W zakresie wiedzy absolwent zna i rozumie: A.W1. mianownictwo anatomiczne, histologiczne i embriologiczne;
+A.W2. budowę ciała ludzkiego w podejściu topograficznym oraz czynnościowym (układ kostno-stawowy, układ mięśniowy, układ krążenia, układ oddechowy, układ pokarmowy, układ moczowy, układy płciowe, układ nerwowy, narządy zmysłów, powłoka wspólna);
+A.W3. prawidłową budowę i funkcje komórek, tkanek, narządów i układów organizmu ludzkiego oraz współzależności ich budowy i funkcji w warunkach zdrowia i choroby;
+A.W4. etapy cyklu komórkowego, w tym molekularne aspekty jego regulacji;
+A.W5. mechanizmy regulacji funkcji narządów i układów organizmu człowieka;
+A.W6. mechanizmy działania hormonów oraz konsekwencje zaburzeń regulacji hormonalnej;
+A.W7. budowę, właściwości fizykochemiczne i funkcje węglowodanów, lipidów, aminokwasów, białek, kwasów nukleinowych, hormonów i witamin;
+A.W8. procesy metaboliczne, mechanizmy ich regulacji oraz ich wzajemne powiązania na poziomie molekularnym, komórkowym, narządowym i ustrojowym;
+A.W9. sposoby komunikacji między komórkami, a także między komórką a macierzą pozakomórkową oraz szlaki przekazywania sygnałów w komórce i przykłady zaburzeń w tych procesach;
+A.W10. metody diagnostyki cytologicznej (techniki przygotowania i barwienia preparatów) oraz automatyczne techniki fenotypowania, cytodiagnostyczne kryteria rozpoznania i różnicowania chorób nowotworowych i nienowotworowych;
+A.W11. mechanizmy działania poszczególnych grup leków;
+A.W12. wskazania, przeciwwskazania i działania niepożądane leków;
+A.W13. zasady monitorowania w płynach ustrojowych stężenia leków niezbędnego do uzyskania właściwego efektu terapeutycznego i minimalizowania działań niepożądanych;
+A.W14. wpływ leków na wyniki badań laboratoryjnych;
+A.W15. budowę i funkcje układu odpornościowego, w tym mechanizmy odporności nieswoistej i swoistej organizmu;
+A.W16. główny układ zgodności tkankowej (Major histocompatibility complex, MHC);
+A.W17. zasady oceny serologicznej i molekularnego typowania ludzkich antygenów leukocytarnych (Human leukocyte antigen, HLA);
+A.W18. mechanizmy immunologii rozrodu;
+A.W19. rodzaje i charakterystykę materiału biologicznego, zasady i metodykę jego pobierania, transportu, przechowywania i przygotowania do badań immunologicznych;
+A.W20. testy służące do jakościowego i ilościowego oznaczania antygenów, przeciwciał i kompleksów immunologicznych;
+A.W21. zjawiska biofizyczne zachodzące na poziomie komórek, tkanek i narządów;
+A.W22. pozytywne i negatywne efekty oddziaływań zewnętrznych czynników fizycznych na organizm.
+W zakresie umiejętności absolwent potrafi: A.U1. przedstawiać topografię narządów ciała ludzkiego, posługując się nazewnictwem anatomicznym;
+A.U2. stosować nazewnictwo anatomiczne do opisu stanu zdrowia i choroby;
+A.U3. wskazywać różnice w budowie i funkcjonowaniu organizmu na poszczególnych etapach rozwoju osobniczego;
+A.U4. wykorzystywać wiedzę biochemiczną do analizy i oceny procesów fizjologicznych i patologicznych, w tym do oceny wpływu leków i substancji toksycznych na te procesy;
+A.U5. wykrywać i oznaczać aminokwasy, białka, węglowodany, lipidy, hormony i witaminy w materiale biologicznym oraz izolować i oceniać jakość i stężenie kwasów nukleinowych;
+A.U6. wykonywać badania kinetyki reakcji enzymatycznych;
+A.U7. dobierać i wykonywać testy diagnostyczne do oznaczania antygenów i przeciwciał w celu uzyskania wiarygodnych wyników;
+A.U8. wyizolować komórki układu odpornościowego z materiału biologicznego;
+A.U9. różnicować komórki układu odpornościowego w warunkach in vitro;
+A.U10. wybierać i przeprowadzać badania laboratoryjne oceniające funkcjonowanie układu odpornościowego oraz interpretować wyniki tych badań;
+A.U11. wykonywać testy immunologiczne oceniające mechanizmy odporności nieswoistej i swoistej;
+A.U12. stosować wiedzę biochemiczną do analizy procesów fizjologicznych i patologicznych, w tym do oceny wpływu leków na te procesy;
+A.U13. identyfikować i opisywać składniki strukturalne komórek, tkanek i narządów metodami mikroskopowymi oraz histochemicznymi;
+A.U14. stosować techniki histologiczne w celu opisu cech morfologicznych komórek i tkanek patologicznie zmienionych;
+A.U15. identyfikować i opisywać biofizyczne podstawy funkcjonowania organizmu ludzkiego;
+A.U16. wyjaśniać wpływ czynników środowiskowych, w tym temperatury, przyspieszenia ziemskiego, ciśnienia atmosferycznego, pola elektromagnetycznego oraz promieniowania jonizującego na organizm;
+A.U17. przypisywać leki do poszczególnych grup leków oraz określać główne mechanizmy ich działania, przemiany w ustroju i działania uboczne;
+A.U18. wyjaśniać wpływ leków na wyniki laboratoryjnych badań diagnostycznych.
+B. NAUKI CHEMICZNE I ELEMENTY STATYSTYKI (analiza instrumentalna, chemia analityczna, chemia fizyczna, chemia ogólna i nieorganiczna, chemia organiczna, statystyka z elementami matematyki, statystyka medyczna, technologie informacyjne) W zakresie wiedzy absolwent zna i rozumie: B.W1. zagadnienia z zakresu chemii ogólnej i nieorganicznej w stopniu niezbędnym do głębszego zrozumienia zagadnień z dyscypliny naukowej nauki chemiczne oraz dyscypliny naukowej nauki biologiczne, a także zasady oznaczania związków nieorganicznych i metody postępowania analitycznego stosowane w laboratoriach medycznych;
+B.W2. właściwości chemiczne pierwiastków i ich związków;
+B.W3. podstawy budowy jądra atomowego i reakcji jądrowej, zwłaszcza rozpadu promieniotwórczego oraz zasady obliczeń szybkości rozpadu radionuklidów;
+B.W4. mechanizmy tworzenia i rodzaje wiązań chemicznych oraz mechanizmy oddziaływań międzycząsteczkowych w różnych stanach skupienia materii;
+B.W5. analityczne metody jakościowej i ilościowej oceny związków nieorganicznych i organicznych oraz celowość stosowania tych metod w analizie medycznej;
+B.W6. zasady obliczeń chemicznych niezbędnych w medycynie laboratoryjnej, w szczególności obliczeń związanych ze sporządzaniem, rozcieńczaniem i przeliczaniem stężeń wyrażonych w standardowych i niestandardowych jednostkach;
+B.W7. podstawy kinetyki reakcji chemicznych oraz podstawowe prawa termochemii, elektrochemii i zjawisk powierzchniowych;
+B.W8. rolę zjawisk fizykochemicznych w przebiegu procesów zachodzących w warunkach in vivo oraz in vitro z punktu widzenia kierunku ich przebiegu, wydajności, szybkości i mechanizmu;
+B.W9. nomenklaturę, właściwości oraz metody identyfikacji związków nieorganicznych oraz kompleksowych;
+B.W10. klasyczne metody analizy ilościowej analizę wagową, analizę objętościową i analizę gazową;
+B.W11. klasyfikację instrumentalnych technik analitycznych oraz podstawy teoretyczne i metodyczne technik spektroskopowych, elektroanalitycznych, chromatograficznych i spektrometrii mas oraz ich zastosowanie w medycznej diagnostyce laboratoryjnej;
+B.W12. zasady funkcjonowania aparatów stosowanych w spektrofotometrii w zakresie nadfioletu i promieniowania widzialnego, spektrofluorymetrii, absorpcyjnej i emisyjnej spektrometrii atomowej, potencjometrii, konduktometrii, chromatografii gazowej, wysokosprawnej chromatografii cieczowej i spektrometrii mas;
+B.W13. kryteria wyboru metody analitycznej oraz statystyczne podstawy jej walidacji;
+B.W14. podział związków węgla i zasady nomenklatury związków organicznych;
+B.W15. strukturę związków organicznych w ujęciu teorii orbitali atomowych molekularnych oraz efekt mezomeryczny i indukcyjny;
+B.W16. rodzaje i mechanizmy reakcji chemicznych związków organicznych (substytucja, addycja, eliminacja);
+B.W17. właściwości węglowodorów, fluorowcowęglowodorów, związków metaloorganicznych, amin, nitrozwiązków, alkoholi, fenoli, eterów, aldehydów, ketonów, kwasów karboksylowych, funkcyjnych i szkieletowych pochodnych kwasów karboksylowych oraz pochodnych kwasu węglowego;
+B.W18. budowę i właściwości związków heterocyklicznych pięcio- i sześcioczłonowych z atomami azotu, tlenu i siarki oraz budowę i właściwości związków pochodzenia i naturalnego: alkaloidów, węglowodanów, peptydów, białek oraz lipidów, w tym steroidów i terpenów;
+B.W19. podstawowe narzędzia informatyczne wykorzystywane w medycynie laboratoryjnej, w tym medyczne bazy danych, arkusze kalkulacyjne i podstawy grafiki komputerowej;
+B.W20. podstawowe metody analizy statystycznej wykorzystywane w badaniach populacyjnych i diagnostycznych;
+B.W21. zasady prowadzenia badań obserwacyjnych, doświadczalnych oraz in vitro, służących rozwojowi medycyny laboratoryjnej.
+W zakresie umiejętności absolwent potrafi: B.U1. stosować podstawowe techniki laboratoryjne, w tym chemiczną analizę jakościową;
+B.U2. dokonywać doboru metody analitycznej oraz oceniać jej przydatność w kontekście celu analizy, kalibracji metody, precyzji wykonania i obliczania wyników, z uwzględnieniem ich wiarygodności i analizy statystycznej;
+B.U3. wykonywać obliczenia chemiczne;
+B.U4. sporządzać roztwory o określonych stężeniach, a także roztwory o określonym pH, zwłaszcza roztwory buforowe;
+B.U5. opisywać właściwości chemiczne pierwiastków i związków nieorganicznych oraz oceniać trwałość wiązań i reaktywność związków nieorganicznych na podstawie ich budowy;
+B.U6. identyfikować substancje nieorganiczne;
+B.U7. mierzyć lub wyznaczać wielkości fizykochemiczne oraz opisywać i analizować właściwości i procesy fizykochemiczne, stanowiące podstawę farmakokinetyki;
+B.U8. dobierać metodę analityczną służącą do rozwiązania konkretnego zadania analitycznego oraz przeprowadzać jej walidację;
+B.U9. określać budowę i właściwości związków organicznych oraz relacje pomiędzy strukturą tych związków a ich reaktywnością;
+B.U10. wykonywać wszystkie czynności laboratoryjne z dbałością pozwalającą na zachowanie pełnego bezpieczeństwa swojego i osób współpracujących;
+B.U11. oceniać rozkład zmiennych losowych, wyznaczać średnią, medianę, przedział ufności, wariancje i odchylenia standardowe oraz formułować i testować hipotezy statystyczne;
+B.U12. dobierać metody statystyczne w opracowywaniu wyników obserwacji i pomiarów;
+B.U13. wyjaśniać różnice między badaniami prospektywnymi i retrospektywnymi, randomizowanymi i kliniczno-kontrolnymi, opisami przypadków i badaniami eksperymentalnymi oraz szeregować je według wiarygodności i jakości dowodów naukowych;
+B.U14. planować i wykonywać analizy chemiczne oraz interpretować ich wyniki, a także wyciągać wnioski;
+B.U15. posługiwać się programami komputerowymi w zakresie edycji tekstu, grafiki, analizy statystycznej, przygotowania prezentacji oraz gromadzenia i wyszukiwania potrzebnych informacji, pozwalających na konstruktywne rozwiązywanie problemów.
+C. NAUKI BEHAWIORALNE I SPOŁECZNE (higiena i epidemiologia, historia medycyny i diagnostyki laboratoryjnej, język obcy, kwalifikowana pierwsza pomoc, psychologia, socjologia) W zakresie wiedzy absolwent zna i rozumie: C.W1. historyczny postęp myśli lekarskiej oparty na doskonaleniu technik diagnostycznych;
+C.W2. istotne odkrycia naukowe dotyczące diagnostyki, leczenia oraz profilaktyki chorób w różnych okresach historycznych;
+C.W3. nowe osiągnięcia medyczne i procesy je kształtujące oraz czołowych przedstawicieli medycyny polskiej i światowej;
+C.W4. podstawy medycyny opartej na dowodach;
+C.W5. kierunki rozwoju diagnostyki laboratoryjnej, a także rozwoju historycznej myśli filozoficznej oraz etycznych podstaw rozstrzygania dylematów moralnych, związanych z wykonywaniem zawodu diagnosty laboratoryjnego i innych zawodów medycznych;
+C.W6. fizyczne, biologiczne i psychologiczne uwarunkowania stanu zdrowia oraz metody oceny stanu zdrowia jednostki i populacji;
+C.W7. zależności pomiędzy stylem życia a zdrowiem i chorobą oraz społeczne uwarunkowania i ograniczenia wynikające z choroby;
+C.W8. rolę stresu w etiopatogenezie i przebiegu chorób oraz sposoby radzenia sobie ze stresem;
+C.W9. psychologiczne i socjologiczne uwarunkowania funkcjonowania jednostki w społeczeństwie;
+C.W10. sposoby identyfikacji czynników ryzyka rozwoju chorób oraz działań profilaktycznych;
+C.W11. metody badań epidemiologicznych oraz zadania systemu nadzoru sanitarno-epidemiologicznego;
+C.W12. zasady, zadania oraz główne kierunki działań w zakresie promocji zdrowia, ze szczególnym uwzględnieniem znajomości roli elementów zdrowego stylu życia;
+C.W13. zasady interpretowania częstości występowania chorób i niepełnosprawności oraz zasady oceny epidemiologicznej chorób cywilizacyjnych;
+C.W14. metody oceny podstawowych funkcji życiowych człowieka w stanie zagrożenia oraz zasady udzielania kwalifikowanej pierwszej pomocy w chorobach układu sercowo-naczyniowego, oddechowego, nerwowego i w zatruciach;
+C.W15. zasady dotyczące bezpieczeństwa poszkodowanego oraz osoby ratującej w trakcie udzielania pierwszej pomocy, możliwe zagrożenia biologiczne i środowiskowe.
+W zakresie umiejętności absolwent potrafi: C.U1. stosować wiedzę z zakresu medycyny laboratoryjnej opartej na dowodach naukowych;
+C.U2. opisywać strukturę demograficzną ludności i na tej podstawie oceniać problemy zdrowotne populacji;
+C.U3. stosować metody epidemiologiczne w rozwiązywaniu wieloczynnikowej etiologii zjawisk zdrowotnych, problemów prawdopodobieństwa i zmienności mierzonych cech zdrowotnych;
+C.U4. zebrać informacje na temat obecności czynników ryzyka chorób zakaźnych i przewlekłych oraz zaplanować działania profilaktyczne na różnych poziomach zapobiegania tym chorobom;
+C.U5. dobierać, organizować i wykonywać badania przesiewowe w profilaktyce chorób cywilizacyjnych;
+C.U6. wpływać na kształtowanie właściwych postaw oraz działań pomocowych i zaradczych, a także stosować metody kierowania zespołem i motywować innych do osiągania celu;
+C.U7. motywować innych do zachowań prozdrowotnych;
+C.U8. rozpoznawać stany zagrożenia życia z zastosowaniem praktycznych sposobów oceny układu oddechowego;
+C.U9. rozpoznawać nagłe zatrzymanie krążenia i stosować uniwersalny algorytm postępowania w zakresie podstawowych czynności reanimacyjnych u dorosłych i dzieci, w tym z użyciem automatycznego defibrylatora zewnętrznego;
+C.U10. udzielać pomocy poszkodowanemu w przypadku urazu, krwotoku lub zatrucia;
+C.U11. rozpoznawać własne ograniczenia, dokonywać samooceny deficytów i potrzeb rozwojowych oraz planować aktywność edukacyjną;
+C.U12. analizować piśmiennictwo medyczne, w tym w języku obcym, oraz wyciągać wnioski w oparciu o dostępną literaturę;
+C.U13. porozumiewać się z pacjentem w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego.
+D. NAUKI KLINICZNE ORAZ PRAWNE I ORGANIZACYJNE ASPEKTY MEDYCYNY LABORATORYJNEJ (propedeutyka medycyny, etyka zawodowa, organizacja medycznych laboratoriów diagnostycznych, prawo medyczne, systemy jakości i akredytacja laboratoriów) W zakresie wiedzy absolwent zna i rozumie: D.W1. pojęcie choroby, jako następstwa zmiany struktury i funkcji komórek, tkanek i narządów;
+D.W2. wybrane choroby, ich symptomatologię i etiopatogenezę;
+D.W3. rolę laboratoryjnych badań diagnostycznych w rozpoznawaniu schorzeń i rokowaniu oraz monitorowaniu terapii;
+D.W4. strukturę organizacyjną oraz zasady działania medycznych laboratoriów diagnostycznych i innych podmiotów systemu ochrony zdrowia w Rzeczypospolitej Polskiej;
+D.W5. przepisy prawa dotyczące wykonywania zawodu diagnosty laboratoryjnego, a także obowiązki i prawa diagnosty laboratoryjnego;
+D.W6. prawa pacjenta i konsekwencje prawne ich naruszenia;
+D.W7. zasady doboru badań laboratoryjnych w medycynie sądowej;
+D.W8. podstawowe pojęcia z zakresu prawa oraz miejsce prawa w życiu społeczeństwa, ze szczególnym uwzględnieniem praw człowieka i prawa pracy;
+D.W9. wpływ czynników przedlaboratoryjnych, laboratoryjnych i pozalaboratoryjnych na jakość wyników badań;
+D.W10. zasady kontroli jakości badań laboratoryjnych oraz sposoby jej dokumentacji;
+D.W11. zasady organizacji i zarządzania laboratorium, z uwzględnieniem organizacji pracy, obiegu informacji, rejestracji i archiwizacji wyników, wyliczania kosztów badań, zasady ergonomii oraz bezpieczeństwa i higieny pracy;
+D.W12. zasady organizacji i wdrażania systemu jakości w medycznych laboratoriach diagnostycznych zgodnie z normami ISO (International Organization for Standardization) oraz obowiązującymi procedurami akredytacji i certyfikacji;
+D.W13. zasady komunikowania interpersonalnego w relacjach diagnosta laboratoryjny odbiorca wyniku oraz diagnosta laboratoryjny pracownicy systemu ochrony zdrowia;
+D.W14. zasady ochrony własności intelektualnej;
+D.W15. zasady badań biomedycznych prowadzonych z udziałem ludzi oraz badań z udziałem zwierząt.
+W zakresie umiejętności absolwent potrafi: D.U1. wyjaśniać związki pomiędzy nieprawidłowymi funkcjami tkanek, narządów i układów a objawami klinicznymi;
+D.U2. opisywać symptomatologię chorób oraz proponować model postępowania diagnostyczno-farmakologicznego;
+D.U3. stosować zasady kontroli jakości, bezpieczeństwa i higieny pracy oraz Dobrej Praktyki Laboratoryjnej określonej w przepisach wydanych na podstawie art. 16 ust.
+15 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. z 2020 r. poz. 2289), zwanej dalej „Dobrą Praktyką Laboratoryjną”;
+D.U4. organizować stanowisko pracy zgodnie z obowiązującymi wymaganiami ergonomii, przepisami w zakresie bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej i ochrony środowiska;
+D.U5. stosować podstawowe regulacje prawne dotyczące organizacji medycznych laboratoriów diagnostycznych;
+D.U6. przestrzegać praw pacjenta, w tym w szczególności prawa do informacji o stanie zdrowia, prawa do zachowania w tajemnicy informacji związanych z pacjentem, prawa do poszanowania intymności i godności oraz prawa do dokumentacji medycznej;
+D.U7. przeprowadzać walidację metod analitycznych zgodną z zasadami kontroli jakości w medycznych laboratoriach diagnostycznych oraz zasadami Dobrej Praktyki Laboratoryjnej;
+D.U8. prowadzić dokumentację zarządzania jakością w medycznym laboratorium diagnostycznym;
+D.U9. określić kwalifikacje personelu laboratoryjnego;
+D.U10. rozwiązywać problemy związane z kierowaniem oraz zarządzaniem medycznym laboratorium diagnostycznym zgodnie z zasadami etyki, przepisami prawa oraz zasadami Dobrej Praktyki Laboratoryjnej.
+E. NAUKOWE ASPEKTY MEDYCYNY LABORATORYJNEJ (biochemia kliniczna, biologia molekularna, cytologia kliniczna, diagnostyka laboratoryjna, genetyka medyczna, diagnostyka molekularna, immunopatologia z immunodiagnostyką, patomorfologia, toksykologia) W zakresie wiedzy absolwent zna i rozumie: E.W1. zaburzenia ustrojowych przemian metabolicznych, charakteryzujących przebieg różnych chorób;
+E.W2. czynniki chorobotwórcze zewnętrzne i wewnętrzne, modyfikowalne i niemodyfikowalne;
+E.W3. patogenezę i symptomatologię chorób układów: sercowo-naczyniowego, moczowego, pokarmowego i ruchu, a także chorób metabolicznych, endokrynnych, nowotworowych i neurodegeneracyjnych oraz zaburzeń gospodarki wodno-elektrolitowej i kwasowo-zasadowej;
+E.W4. procesy regeneracji oraz naprawy tkanek i narządów;
+E.W5. metody oceny procesów biochemicznych w warunkach fizjologicznych i patologicznych;
+E.W6. funkcje genomu, transkryptomu i proteomu człowieka oraz procesy replikacji, naprawy i rekombinacji kwasu deoksyrybonukleinowego (DNA), transkrypcji i translacji oraz degradacji DNA, kwasu rybonukleinowego (RNA) i białek;
+E.W7. mechanizmy regulacji ekspresji genów, aspekty transdukcji sygnału, aspekty regulacji procesów wewnątrzkomórkowych oraz problematykę rekombinacji klonowania DNA;
+E.W8.
+i zasady i zastosowanie technik biologii molekularnej oraz technik cytogenetyki klasycznej i cytogenetyki molekularnej;
+E.W9. tradycyjne metody diagnostyki cytologicznej, w tym techniki przygotowania i barwienia preparatów, a także automatyczne techniki fenotypowania oraz cytodiagnostyczne kryteria rozpoznawania i różnicowania chorób;
+E.W10. podstawy genetyki klasycznej, populacyjnej i molekularnej;
+E.W11. mechanizmy zaburzeń genetycznych u człowieka;
+E.W12. wskazania oraz metody laboratoryjne używane do genetycznej diagnostyki niepełnosprawności intelektualnej, dysmorfii, zaburzeń rozwoju, zaburzeń cielesno-płciowych, niepowodzeń rozrodu, predyspozycji do nowotworów oraz genetycznej diagnostyki prenatalnej;
+E.W13. podstawy genetyczne różnych chorób oraz genetyczne mechanizmy nabywania lekooporności;
+E.W14. nazewnictwo patomorfologiczne;
+E.W15. metody diagnostyczne wykorzystywane w patomorfologii;
+E.W16. mechanizmy rozwoju procesu zapalnego oraz techniki immunologiczne pozwalające na ocenę przebiegu tego procesu;
+E.W17. metody otrzymywania i stosowania przeciwciał monoklonalnych i poliklonalnych w diagnostyce, leczeniu i monitorowaniu terapii;
+E.W18. rolę badań immunologicznych w rozpoznawaniu i monitorowaniu zaburzeń odporności oraz kryteria doboru tych badań;
+E.W19. mechanizmy powstawania oraz możliwości diagnostyczne i terapeutyczne chorób autoimmunizacyjnych, reakcji nadwrażliwości, wrodzonych i nabytych niedoborów odporności;
+E.W20. problematykę z zakresu immunologii nowotworów;
+E.W21. problematykę z zakresu immunologii transplantacyjnej, zasady doboru dawcy i biorcy przeszczepów narządów oraz komórek macierzystych;
+E.W22. rodzaje przeszczepów i mechanizmy immunologiczne odrzucania przeszczepu allogenicznego;
+E.W23. rolę badań laboratoryjnych w rozpoznaniu, monitorowaniu, przewidywaniu i profilaktyce zaburzeń narządowych i układowych;
+E.W24. zasady doboru, wykonywania i organizowania badań przesiewowych w diagnostyce chorób;
+E.W25. profile badań laboratoryjnych oraz schematy i algorytmy diagnostyczne w różnych stanach klinicznych, w tym w chorobach układów: krążenia, moczowo-płciowego, oddechowego, pokarmowego i ruchu, a także w chorobach metabolicznych, endokrynologicznych i neurologicznych;
+E.W26. wskazania do poszerzenia diagnostyki laboratoryjnej w wybranych stanach chorobowych oraz zalecane testy specjalistyczne;
+E.W27. zasady interpretacji wyników badań laboratoryjnych w celu zróżnicowania stanów fizjologicznych i patologicznych;
+E.W28. zagadnienia z zakresu toksykologii ogólnej i szczegółowej;
+E.W29. właściwości fizyczne i chemiczne ksenobiotyków oraz zależności między strukturą związków chemicznych a reakcjami zachodzącymi w organizmach żywych i działaniem szkodliwym lub toksycznym ksenobiotyków;
+E.W30. zasady pobierania materiału biologicznego do badań toksykologicznych, jego transportu, przechowywania i przygotowania do analizy;
+E.W31. podstawy metody zapłodnienia pozaustrojowego (in vitro) i genetycznej diagnostyki preimplantacyjnej;
+E.W32. nowe osiągnięcia medycyny laboratoryjnej.
+W zakresie umiejętności absolwent potrafi: E.U1. wskazywać zależności pomiędzy nieprawidłowościami morfologicznymi a funkcjami tkanek, narządów i układów, objawami klinicznymi oraz strategią diagnostyczną;
+E.U2. posługiwać się laboratoryjnymi technikami mikroskopowania oraz technikami patomorfologicznymi, pozwalającymi na ocenę wykładników morfologicznych zjawisk chorobowych w preparatach komórek i tkanek pobranych za życia pacjenta albo pośmiertnie;
+E.U3. rozpoznawać zmiany morfologiczne charakterystyczne dla określonej jednostki chorobowej;
+E.U4. zinterpretować wyniki badań patomorfologicznych;
+E.U5. oceniać aktywność komórek układu odpornościowego zaangażowanych w odpowiedź przeciwnowotworową;
+E.U6. dobierać i przeprowadzać badania laboratoryjne oparte na technikach immunochemicznych oraz zinterpretować uzyskane wyniki;
+E.U7. wskazywać zależności pomiędzy zaburzeniami przemian metabolicznych, jednostką chorobową, stylem życia, płcią i wiekiem pacjenta a wynikami laboratoryjnych badań diagnostycznych;
+E.U8. dobierać testy biochemiczne odpowiednie do rozpoznania, diagnostyki różnicowej i monitorowania przebiegu wybranych chorób;
+E.U9. wykonywać jakościowe i ilościowe badania biochemiczne niezbędne do oceny zaburzeń szlaków metabolicznych w różnych stanach klinicznych;
+E.U10. wykonywać oznaczenia parametrów równowagi kwasowo-zasadowej i wodno-elektrolitowej;
+E.U11. przewidywać wpływ przebiegu choroby i postępowania terapeutycznego na wyniki badań laboratoryjnych;
+E.U12. posługiwać się technikami biologii molekularnej oraz technikami cytogenetyki klasycznej i molekularnej w badaniach laboratoryjnych, a także zinterpretować uzyskane wyniki;
+E.U13. korzystać z genetycznych baz danych, w tym internetowych, i wyszukiwać potrzebne informacje za pomocą dostępnych narzędzi;
+E.U14. uzyskiwać wiarygodne wyniki laboratoryjnych badań cytologicznych oraz zinterpretować uzyskane wyniki;
+E.U15. oszacować ryzyko ujawnienia się chorób o podłożu genetycznym u potomstwa w oparciu o predyspozycje rodzinne i wpływ czynników środowiskowych oraz ocenić ryzyko urodzenia się dziecka z aberracjami chromosomowymi;
+E.U16. zinterpretować wyniki badań genetycznych molekularnych i cytogenetycznych oraz zapisać je, używając obowiązującej międzynarodowej nomenklatury;
+E.U17. ustalić algorytm diagnostyczny i zaproponować badania genetyczne dla pacjentów poradni genetycznej;
+E.U18. tworzyć, weryfikować i interpretować przedziały referencyjne oraz oceniać dynamikę zmian parametrów laboratoryjnych;
+E.U19. oceniać wartość diagnostyczną badań i ich przydatność w procesie diagnostycznym;
+E.U20. zaproponować optymalny, ułatwiający postawienie właściwej diagnozy, dobór badań w oparciu o elementy diagnostycznej charakterystyki testów oraz zgodnie z zasadami medycyny laboratoryjnej opartej na dowodach naukowych;
+E.U21. zinterpretować wyniki badań laboratoryjnych celem wykluczenia bądź rozpoznania schorzenia, diagnostyki różnicowej chorób, monitorowania przebiegu schorzenia i oceny efektów leczenia w różnych stanach klinicznych;
+E.U22. oceniać spójność zbiorczych wyników badań, w tym badań biochemicznych i hematologicznych;
+E.U23. oceniać skutki działania substancji toksycznych w organizmie oraz opisywać zaburzenia metaboliczne i morfologiczne wywołane przez ksenobiotyki;
+E.U24. dobierać materiał biologiczny do badań toksykologicznych oraz stosować odpowiednie analizy toksykologiczne;
+E.U25. wykonywać jakościowe i ilościowe badania parametrów toksykologicznych;
+E.U26. zinterpretować wyniki badań toksykologicznych w aspekcie rozpoznania zatrucia określonym ksenobiotykiem;
+E.U27. przeprowadzać krytyczną analizę informacji zawartych w publikacjach naukowych dotyczących zagadnień medycyny laboratoryjnej.
+F. PRAKTYCZNE ASPEKTY MEDYCYNY LABORATORYJNEJ (analityka ogólna, techniki pobierania materiału biologicznego, chemia kliniczna, diagnostyka izotopowa, diagnostyka mikrobiologiczna, diagnostyka parazytologiczna, hematologia laboratoryjna, praktyczna nauka zawodu, serologia grup krwi i transfuzjologia) W zakresie wiedzy absolwent zna i rozumie: F.W1. podstawowe problemy przedanalitycznej, analitycznej i poanalitycznej fazy wykonywania badań;
+F.W2. czynniki wpływające na wiarygodność wyników badań laboratoryjnych;
+F.W3. elementy diagnostycznej charakterystyki badań;
+F.W4. zasady zlecania badań laboratoryjnych, przyjmowania zleceń na wykonanie badań oraz zasady dokumentacji zleceń;
+F.W5. zasady kontroli jakości badań laboratoryjnych i sposoby jej dokumentowania;
+F.W6. rodzaje i charakterystykę materiału biologicznego wykorzystywanego do badań hematologicznych, serologicznych, koagulologicznych, immunologicznych, biochemicznych, wirusologicznych, mikrobiologicznych, parazytologicznych, toksykologicznych, genetycznych oraz medycyny nuklearnej i sądowej;
+F.W7. zasady i techniki pobierania materiału biologicznego, w tym krwi, moczu, kału, płynu mózgowo-rdzeniowego i stawowego, płynów z jam ciała, treści żołądkowej i dwunastniczej oraz wymazów, popłuczyn i zeskrobin;
+F.W8. wytyczne dotyczące transportu, przechowywania i przygotowywania do analizy materiału biologicznego;
+F.W9. teoretyczne i praktyczne aspekty metodyki jakościowego i ilościowego oznaczania stężeń węglowodanów, lipidów, białek i metabolitów tych związków w płynach ustrojowych;
+F.W10. teoretyczne i praktyczne aspekty metodyki oznaczania parametrów równowagi kwasowo-zasadowej i wodno-elektrolitowej;
+F.W11. teoretyczne i praktyczne aspekty wykonywania prób czynnościowych;
+F.W12. działanie promieniowania jonizującego na organizmy żywe oraz wybrane zagadnienia z zakresu ochrony radiologicznej;
+F.W13. bezpieczne parametry fal mechanicznych, promieniowania jonizującego oraz pól elektrycznych i magnetycznych, stosowanych w diagnostyce i terapii medycznej;
+F.W14. problematykę badań radioizotopowych wykorzystywanych w diagnostyce laboratoryjnej;
+F.W15. morfologię, fizjologię, metabolizm, genetykę, mechanizmy chorobotwórczości oraz ogólne zasady taksonomii wirusów, bakterii, grzybów i pasożytów;
+F.W16. zasady diagnostyki poszczególnych rodzajów drobnoustrojów, w tym zasady doboru odpowiednich podłóż i metod diagnostycznych do identyfikacji gatunkowej drobnoustrojów i pasożytów;
+F.W17. budowę i funkcje komórek układu krwiotwórczego oraz współzależność ich budowy i funkcji w warunkach fizjologicznych i patologicznych;
+F.W18. metody laboratoryjnej oceny zaburzeń hematopoezy w aspekcie zmian morfologicznych i czynnościowych oraz mechanizmów rozwoju choroby;
+F.W19. istotne klinicznie układy grupowe składników komórkowych krwi i białek osocza oraz ich znaczenie w transfuzjologii;
+F.W20. zasady doboru krwi do przetoczeń oraz patomechanizm i diagnostykę odczynów poprzetoczeniowych;
+F.W21. wytyczne dotyczące organizacji i zarządzania badaniami laboratoryjnymi w miejscu opieki nad pacjentem (Point of care testing, POCT).
+W zakresie umiejętności absolwent potrafi: F.U1. wyjaśniać pacjentowi lub zleceniodawcy wpływ czynników przedlaboratoryjnych na jakość wyniku badania laboratoryjnego, w tym konieczność powtórzenia badania laboratoryjnego;
+F.U2. poinstruować pacjenta przed pobraniem materiału biologicznego do badań laboratoryjnych;
+F.U3. pobierać materiał biologiczny do badań laboratoryjnych z zachowaniem zasad bezpieczeństwa i higieny pracy oraz, w razie potrzeby, udzielić pierwszej pomocy przedmedycznej;
+F.U4. oceniać przydatność materiału biologicznego do badań, przechowywać go i przygotowywać do analizy, kierując się zasadami Dobrej Praktyki Laboratoryjnej;
+F.U5. dobierać metodę analityczną odpowiednią do celu analizy, mając na uwadze sposób kalibracji, obliczania wyników, wymaganą dokładność wykonania oznaczenia i analizę statystyczną, z uwzględnieniem wiarygodności analitycznej wyników i ich przydatności diagnostycznej;
+F.U6. posługiwać się prostym i zaawansowanym technicznie sprzętem i aparaturą medyczną, stosując się do zasad ich użytkowania i konserwacji;
+F.U7. stosować procedury walidacji aparatury pomiarowej i metod badawczych;
+F.U8. prowadzić i dokumentować wewnątrzlaboratoryjną i zewnątrzlaboratoryjną kontrolę jakości badań laboratoryjnych;
+F.U9. wykonywać badania jakościowe i ilościowe parametrów gospodarki węglowodanowej, lipidowej, białkowej, elektrolitowej i kwasowo-zasadowej;
+F.U10. uzyskiwać wiarygodne wyniki jakościowych i ilościowych badań płynów ustrojowych, wydalin i wydzielin, w tym płynu mózgowo-rdzeniowego i stawowego, płynów z jam ciała, treści żołądkowej i dwunastniczej oraz wymazów, popłuczyn i zeskrobin;
+F.U11. dobierać i stosować właściwe izotopy promieniotwórcze w celach diagnostycznych;
+F.U12. zaplanować i wykonywać badania laboratoryjne z zakresu diagnostyki wirusologicznej, bakteriologicznej, mykologicznej i parazytologicznej, z uwzględnieniem metod mikroskopowych, hodowlanych, biochemicznych, serologicznych, biologicznych i molekularnych;
+F.U13. stosować metody oznaczania wrażliwości drobnoustrojów na antybiotyki i chemioterapeutyki;
+F.U14. stosować metody wykrywania oporności drobnoustrojów na antybiotyki i chemioterapeutyki;
+F.U15. wykonywać z zastosowaniem metod manualnych i automatycznych badania hematologiczne i koagulologiczne;
+F.U16. dokonywać oceny cytomorfologicznej preparatów mikroskopowych krwi obwodowej i szpiku kostnego;
+F.U17. oznaczać grupę krwi w układach grupowych;
+F.U18. wykonywać pośrednie i bezpośrednie testy antyglobulinowe oraz próby zgodności serologicznej;
+F.U19. uzyskiwać wiarygodne wyniki badań cytomorfologicznych, cytochemicznych, cytoenzymatycznych i cytofluorymetrycznych;
+F.U20. oceniać poprawność i zinterpretować poszczególne oraz zbiorcze wyniki badań w aspekcie rozpoznawania określonej patologii;
+F.U21. proponować algorytmy, profile i schematy postępowania diagnostycznego w różnych stanach klinicznych, zgodne z zasadami etyki zawodowej, wymogami Dobrej Praktyki Laboratoryjnej i medycyny laboratoryjnej opartej na dowodach naukowych;
+F.U22. dokonywać krytycznej analizy, syntezy i oceny problemów diagnostycznych, formułując na ich podstawie wnioski przydatne lekarzowi w stawianiu właściwej diagnozy, zgodnej z postępem wiedzy i rachunkiem ekonomicznym;
+F.U23. stosować przepisy prawa, wytyczne oraz rekomendacje w zakresie wykonywania badań laboratoryjnych i badań w miejscu opieki nad pacjentem (Point of care testing, POCT).
+G. METODOLOGIA BADAŃ NAUKOWYCH (ćwiczenia specjalistyczne metodologia badań) W zakresie wiedzy absolwent zna i rozumie: G.W1. metody i techniki badawcze stosowane w ramach realizowanego badania naukowego.
+W zakresie umiejętności absolwent potrafi: G.U1. zaplanować badanie naukowe i omówić jego cel oraz spodziewane wyniki;
+G.U2. zinterpretować badanie naukowe i odnieść je do aktualnego stanu wiedzy;
+G.U3. korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej;
+G.U4. przeprowadzić badanie naukowe, zinterpretować i udokumentować jego wyniki;
+G.U5. zaprezentować wyniki badania naukowego.
+i H. PRAKTYKI ZAWODOWE W zakresie wiedzy absolwent zna i rozumie: H.W1. zasady bezpieczeństwa i higieny pracy oraz ochrony przeciwpożarowej, a także regulamin pracy obowiązujący w podmiocie, w którym odbył praktykę zawodową;
+H.W2. strukturę organizacyjną laboratorium, w którym odbył praktykę zawodową oraz zasady współpracy laboratorium z oddziałami szpitala, poradniami przyszpitalnymi i pozaszpitalnymi jednostkami, dla których laboratorium wykonuje badania;
+H.W3. zasady pobierania materiału biologicznego, jego transportu oraz przygotowania do badań;
+H.W4. zasady obiegu informacji, w tym rejestrację i archiwizację wyników badań oraz koszty badań;
+H.W5. laboratoryjne systemy informatyczne w laboratorium, w którym odbył praktykę zawodową;
+H.W6. zasady mechanizacji i automatyzacji badań laboratoryjnych;
+H.W7. zasady prowadzenia wewnątrz- i zewnątrzlaboratoryjnej kontroli jakości badań;
+H.W8. metody oznaczania laboratoryjnych parametrów diagnostycznych.
+W zakresie umiejętności absolwent potrafi: H.U1. organizować pracę w poszczególnych pracowniach laboratorium diagnostycznego;
+H.U2. pobierać, przyjmować, dokumentować i wstępnie przygotowywać materiał biologiczny do badań diagnostycznych;
+H.U3. przeprowadzać badania diagnostyczne z zakresu analityki ogólnej, chemii klinicznej, biochemii klinicznej, hematologii i koagulologii, serologii grup krwi i transfuzjologii, immunologii, diagnostyki mikrobiologicznej i parazytologicznej;
+H.U4. prowadzić kontrolę jakości badań i dokumentację laboratoryjną zgodnie z obowiązującymi przepisami oraz zasadami Dobrej Praktyki Laboratoryjnej i etyki zawodowej.
+IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów ustnych lub pisemnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple choice questions, MCQ), testy wielokrotnej odpowiedzi (Multiple response questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w warunkach zapewniających przejrzystość i obiektywizm formułowania ocen.
+Standard kształcenia przygotowującego do wykonywaniazawodufizjoterapeuty I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu fizjoterapeuty prowadzonego na studiach na kierunku fizjoterapia, zwanych dalej „studiami”.
+1.2. Studia są jednolitymi studiami magisterskimi.
+1.3. Studia trwają nie krócej niż 10 semestrów.
+1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 5260.
+1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 300.
+1.6. Kierunek fizjoterapia jest przyporządkowany do dyscypliny naukowej nauki medyczne albo nauki o zdrowiu, albo nauki o kulturze fizycznej, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów;
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom.
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH ORAZ PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się szczegółowe Liczba Liczba efekty uczenia się godzin punktów ECTS A. Biomedyczne podstawy fizjoterapii 400 25 B. Nauki ogólne 300 18 C. Podstawy fizjoterapii 780 45 D. Fizjoterapia kliniczna 1670 99 E. Metodologia badań naukowych 50 25 F. Praktyki fizjoterapeutyczne 1560 58 Razem 4760 270
+3.1. Do dyspozycji uczelni pozostawia się nie mniej niż 500 godzin (30 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategorii wiedzy, umiejętności lub kompetencji społecznych, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.2. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.3. Program studiów umożliwia studentom uzyskanie nie mniej niż:
+1) 5 punktów ECTS w ramach zajęć z dziedziny nauk humanistycznych lub nauk społecznych;
+2) 22 punktów ECTS (przypisanych do grupy zajęć E) za przygotowanie pracy dyplomowej i przygotowanie do egzaminu dyplomowego.
+3.4. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 25% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYKI FIZJOTERAPEUTYCZNE Zakres praktyk Termin praktyk Liczba Liczba fizjoterapeutycznych godzin punktów ECTS Praktyka asystencka nie wcześniej niż po 150 5 drugim semestrze studiów Wakacyjna praktyka z kinezyterapii nie wcześniej niż po 300 11 czwartym semestrze studiów Praktyka z fizjoterapii klinicznej, nie wcześniej niż w trakcie 100 4 fizykoterapii i masażu piątego semestru studiów Wakacyjna praktyka profilowana nie wcześniej niż po 200 7 wybieralna szóstym semestrze studiów Praktyka z fizjoterapii klinicznej, nie wcześniej niż w trakcie 100 4 fizykoterapii i masażu siódmego semestru studiów Wakacyjna praktyka profilowana nie wcześniej niż po 200 7 wybieralna ósmym semestrze studiów Praktyka z fizjoterapii klinicznej, w trakcie dziesiątego 510 20 fizykoterapii i masażu praktyka semestru studiów semestralna
+4.1. Praktyka z zakresu kinezyterapii, fizykoterapii i masażu odbywa się po zrealizowaniu zajęć umożliwiających osiągnięcie efektów uczenia się z zakresu kinezyterapii, fizykoterapii i masażu. W ramach tej praktyki student wykonuje określone czynności z udziałem pacjenta pod nadzorem opiekuna praktyk.
+4.2. Praktyka w zakresie fizjoterapii klinicznej dzieci i osób dorosłych, w tym osób starszych, odbywa się po zrealizowaniu zajęć umożliwiających osiągnięcie efektów uczenia się w kategorii umiejętności wykonywania określonych czynności fizjoterapeutycznych z dziećmi i osobami dorosłymi, w tym osobami starszymi, posiadającymi różne dysfunkcje.
+4.3. Program praktyk, formę i terminy ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się.
+5.2. Zajęcia kształtujące umiejętności praktyczne przewidziane programem studiów są realizowane w odpowiednio wyposażonych do realizowanych zajęć pracowniach uczelni lub podmiotów, z którymi uczelnia zawarła umowy lub porozumienia w tym zakresie.
+5.3. Zajęcia w grupie zajęć A są realizowane w pracowniach: anatomii, fizjologii, biomechaniki, pierwszej pomocy, wyposażonych w sprzęt zapewniający prawidłową realizację efektów uczenia się.
+5.4. Zajęcia w grupie zajęć C mogą być realizowane w szczególności w:
+1) pracowniach kinezyterapii, fizykoterapii i masażu;
+2) podmiotach wykonujących działalność leczniczą posiadających odpowiednią infrastrukturę do realizacji zajęć z zakresu medycyny fizykalnej, w tym w sanatoriach;
+3) podmiotach wykonujących działalność leczniczą lub pracowniach protetycznych, prowadzących działalność w zakresie zaopatrzenia ortopedycznego oraz protetyki i ortotyki;
+4) salach gimnastycznych, klubach sportowych, szkołach lub ośrodkach specjalnych, posiadających odpowiednią infrastrukturę do realizacji zagadnień z zakresu adaptowanej aktywności fizycznej i sportu osób z niepełnosprawnościami.
+5.5. Do realizacji zajęć z zakresu kształcenia ruchowego i metodyki nauczania ruchu wymagana jest infrastruktura sportowa, w szczególności pływalnia i sala gimnastyczna lub hala sportowa.
+5.6. Zajęcia kształtujące umiejętności praktyczne z zakresu fizjoterapii klinicznej w dysfunkcjach układu ruchu oraz fizjoterapii w chorobach wewnętrznych są realizowane w podmiotach wykonujących działalność leczniczą, w warunkach właściwych dla danego zakresu działalności, w sposób umożliwiający wykonywanie czynności praktycznych przez studentów.
+5.7. Zajęcia kształtujące umiejętności praktyczne z zakresu diagnostyki funkcjonalnej i planowania fizjoterapii są realizowane w podmiotach wykonujących działalność leczniczą z udziałem pacjentów (co najmniej połowa wymiaru zajęć) i w uczelni.
+5.8. Praktyki fizjoterapeutyczne odbywają się w oparciu o bazę dydaktyczną uczelni oraz w podmiotach wykonujących działalność leczniczą, z którymi uczelnie zawarły umowy lub porozumienia w tym zakresie.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE
+1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje zawodowe lub naukowe adekwatne do prowadzonych zajęć oraz doświadczenie zawodowe w zakresie właściwym dla prowadzonych zajęć, z tym że w grupie zajęć:
+1) C zajęcia kształtujące umiejętności praktyczne są prowadzone przez fizjoterapeutów posiadających doświadczenie zawodowe adekwatne do prowadzonych zajęć;
+2) D:
+a) zajęcia kształtujące umiejętności praktyczne z zakresu klinicznych podstaw fizjoterapii są prowadzone przez fizjoterapeutów lub lekarzy posiadających tytuł specjalisty lub specjalizację oraz doświadczenie zawodowe w zakresie właściwym dla prowadzonych zajęć,
+b) zajęcia kształtujące umiejętności praktyczne z zakresu: fizjoterapii klinicznej w dysfunkcjach układu ruchu, fizjoterapii w chorobach wewnętrznych oraz diagnostyki funkcjonalnej i planowania fizjoterapii są prowadzone przez fizjoterapeutów posiadających doświadczenie zawodowe w zakresie właściwym dla prowadzonych zajęć.
+2. Zajęcia kształtujące umiejętności praktyczne z udziałem pacjentów w różnym wieku i z różnymi dysfunkcjami są realizowane pod nadzorem nauczyciela akademickiego lub innej osoby prowadzącej zajęcia.
+3. Praktyki fizjoterapeutyczne są realizowane pod kierunkiem fizjoterapeuty, z tym że praktyka asystencka może być realizowana pod kierunkiem lekarza rehabilitacji, a nadzór nad prowadzeniem praktyk sprawuje opiekun praktyk z uczelni.
+III. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) problematykę z zakresu dyscypliny naukowej nauki biologiczne w tym rozwój, budowę i funkcje organizmu człowieka w warunkach prawidłowych i patologicznych;
+2) problematykę z zakresu dyscypliny naukowej nauki medyczne w tym etiologię, patomechanizm, objawy i przebieg najczęstszych chorób;
+3) problematykę z zakresu dyscyplin naukowych psychologia, pedagogika, nauki socjologiczne, filozofia i bioetyka;
+4) zasady oddziaływania sił mechanicznych na organizm człowieka zdrowego i chorego, w tym osoby starszej, z różnymi dysfunkcjami i różnymi chorobami, w różnych warunkach;
+5) mechanizm działania czynników fizykalnych na organizm człowieka oraz oddziaływanie zabiegów fizykalnych w leczeniu osób z różnymi chorobami i dysfunkcjami, w tym osób starszych, w różnych warunkach;
+6) wskazania i przeciwskazania do wykonywania zabiegów z zakresu fizykoterapii i masażu, kinezyterapii i terapii manualnej oraz specjalnych metod fizjoterapii;
+7) zalecenia do stosowania fizjoterapii w określonych stanach chorobowych;
+8) zasady działania wyrobów medycznych i zasady ich stosowania w leczeniu osób z różnymi chorobami i dysfunkcjami, w tym osób starszych, w różnych warunkach;
+9) specjalistyczne zagadnienia z zakresu teorii, metodyki i praktyki fizjoterapii;
+10) zagadnienia z zakresu diagnostyki funkcjonalnej na potrzeby fizjoterapii, planowania postępowania fizjoterapeutycznego oraz kontrolowania jego efektów w stopniu zaawansowanym;
+11) zagadnienia związane z kształtowaniem, podtrzymywaniem i przywracaniem sprawności oraz wydolności osobom w różnym wieku, w tym osobom starszym, utraconej lub obniżonej wskutek różnych chorób lub urazów, a także zasady promocji zdrowia w stopniu zaawansowanym;
+12) prawne i ekonomiczne aspekty funkcjonowania podmiotów zajmujących się rehabilitacją osób z niepełnosprawnościami;
+13) etyczne, prawne i społeczne uwarunkowania wykonywania zawodu fizjoterapeuty.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) wykonywać zabiegi z zakresu fizykoterapii, kinezyterapii, masażu i terapii manualnej oraz specjalnych metod fizjoterapii;
+2) interpretować wyniki badań czynnościowych oraz przeprowadzać testy funkcjonalne niezbędne do doboru środków fizjoterapii i interpretować ich wyniki;
+3) tworzyć, weryfikować i modyfikować programy fizjoterapii osób z różnymi dysfunkcjami, w tym osób starszych, stosownie do ich stanu klinicznego i funkcjonalnego, a także w ramach procesu kompleksowej rehabilitacji;
+4) kontrolować efekty postępowania fizjoterapeutycznego;
+5) dobierać wyroby medyczne stosownie do rodzaju dysfunkcji i potrzeb pacjenta na każdym etapie rehabilitacji oraz poinstruować pacjenta, jak z nich korzystać;
+6) zastosować działania z zakresu adaptowanej aktywności fizycznej i sportu osób z niepełnosprawnościami dla planowania, doboru, modyfikowania oraz tworzenia różnych form zajęć rekreacyjnych i sportowych dla osób ze specjalnymi potrzebami, w tym osób starszych;
+7) zastosować działania ukierunkowane na edukację zdrowotną, promocję zdrowia, profilaktykę niepełnosprawności, a także pierwotną i wtórną profilaktykę chorób;
+8) wykazać wysoką sprawność fizyczną niezbędną do poprawnego demonstrowania i wykonywania zabiegów z zakresu kinezyterapii, masażu i terapii manualnej oraz stosowania metod specjalnych u osób z różnymi chorobami, dysfunkcjami oraz z różnym rodzajem i stopniem niepełnosprawności;
+9) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy;
+10) inspirować inne osoby do uczenia się oraz podejmowania aktywności fizycznej;
+11) komunikować się z pacjentem i jego rodziną w atmosferze zaufania, z uwzględnieniem potrzeb pacjenta i jego praw;
+12) komunikować się ze współpracownikami w zespole i dzielić się wiedzą;
+13) wykorzystywać wiedzę w zakresie racjonalizacji i optymalizacji fizjoterapii, także współpracując w zespole terapeutycznym;
+14) postępować zgodnie z zasadami etycznymi i bioetycznymi w wykonywaniu czynności właściwych dla zawodu fizjoterapeuty.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) nawiązania i utrzymania pełnego szacunku kontaktu z pacjentem, a także okazywania zrozumienia dla różnic światopoglądowych i kulturowych;
+2) wykonywania zawodu, będąc świadomym roli, jaką fizjoterapeuta pełni na rzecz społeczeństwa, w tym społeczności lokalnej;
+3) prezentowania postawy promującej zdrowy styl życia, propagowania i aktywnego kreowania zdrowego stylu życia i promocji zdrowia w trakcie działań związanych z wykonywaniem zawodu i określania poziomu sprawności niezbędnego do wykonywania zawodu fizjoterapeuty;
+4) przestrzegania praw pacjenta i zasad etyki zawodowej;
+5) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
+6) korzystania z obiektywnych źródeł informacji;
+7) wdrażania zasad koleżeństwa zawodowego i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
+8) formułowania opinii dotyczących różnych aspektów działalności zawodowej;
+9) przyjęcia odpowiedzialności związanej z decyzjami podejmowanymi w ramach działalności zawodowej, w tym w kategoriach bezpieczeństwa własnego i innych osób.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. BIOMEDYCZNE PODSTAWY FIZJOTERAPII (anatomia anatomia prawidłowa, anatomia funkcjonalna, anatomia rentgenowska, anatomia palpacyjna; biologia medyczna;
+genetyka; biochemia; fizjologia fizjologia ogólna, fizjologia wysiłku fizycznego, fizjologia bólu, diagnostyka fizjologiczna; farmakologia w fizjoterapii; biofizyka; biomechanika biomechanika stosowana i ergonomia, biomechanika kliniczna; patologia ogólna; pierwsza pomoc) W zakresie wiedzy absolwent zna i rozumie: A.W1. budowę anatomiczną poszczególnych układów organizmu ludzkiego i podstawowe zależności pomiędzy ich budową i funkcją w warunkach zdrowia i choroby, a w szczególności układu narządów ruchu;
+A.W2. rodzaje metod obrazowania, zasady ich przeprowadzania i ich wartość diagnostyczną (zdjęcie RTG, ultrasonografia, tomografia komputerowa, rezonans magnetyczny);
+A.W3. mianownictwo anatomiczne niezbędne do opisu stanu zdrowia;
+A.W4. podstawowe właściwości fizyczne, budowę i funkcje komórek i tkanek organizmu człowieka;
+A.W5. rozwój embrionalny, organogenezę oraz etapy rozwoju zarodkowego i płciowego człowieka;
+A.W6. podstawowe mechanizmy procesów zachodzących w organizmie człowieka w okresie od dzieciństwa przez dojrzałość do starości;
+A.W7. podstawowe procesy metaboliczne zachodzące na poziomie komórkowym, narządowym i ustrojowym, w tym zjawiska regulacji hormonalnej, reprodukcji i procesów starzenia się oraz ich zmian pod wpływem wysiłku fizycznego lub w efekcie niektórych chorób;
+A.W8. podstawy funkcjonowania poszczególnych układów organizmu człowieka oraz narządów ruchu i narządów zmysłu;
+A.W9. kinezjologiczne mechanizmy kontroli ruchu i regulacji procesów metabolicznych zachodzących w organizmie człowieka oraz fizjologię wysiłku fizycznego;
+A.W10. metody oceny czynności poszczególnych narządów i układów oraz możliwości ich wykorzystania do oceny stanu funkcjonalnego pacjenta w różnych obszarach klinicznych;
+A.W11. mechanizm działania środków farmakologicznych stosowanych w ramach różnych chorób i układów człowieka, zasady ich podawania oraz ograniczenia i działania uboczne, a także wpływ tych środków na sprawność pacjenta ze względu na konieczność jego uwzględnienia w planowaniu fizjoterapii;
+A.W12. zewnętrzne czynniki fizyczne i ich wpływ na organizm człowieka;
+A.W13. biomechaniczne zasady statyki ciała oraz czynności ruchowych człowieka zdrowego i chorego;
+A.W14. zasady ergonomii codziennych czynności człowieka oraz czynności związanych z wykonywaniem zawodu, ze szczególnym uwzględnieniem ergonomii pracy fizjoterapeuty;
+A.W15. zasady kontroli motorycznej oraz teorie i koncepcje procesu sterowania i regulacji czynności ruchowej;
+A.W16. podstawy uczenia się kontroli postawy i ruchu oraz nauczania czynności ruchowych;
+A.W17. mechanizmy rozwoju zaburzeń czynnościowych oraz patofizjologiczne podłoże rozwoju chorób;
+A.W18. metody ogólnej oceny stanu zdrowia oraz objawy podstawowych zaburzeń i zmian chorobowych;
+A.W19. metody oceny podstawowych funkcji życiowych człowieka w stanie zagrożenia zdrowia lub życia;
+A.W20. uwarunkowania genetyczne rozwoju chorób w populacji ludzkiej;
+A.W21. genetyczne i związane z fenotypem uwarunkowania umiejętności ruchowych.
+W zakresie umiejętności absolwent potrafi: A.U1. rozpoznawać i lokalizować na fantomach i modelach anatomicznych zasadnicze struktury ludzkiego ciała, w tym elementy układu ruchu, takie jak elementy układu kostno-stawowego, grupy mięśniowe i poszczególne mięśnie;
+A.U2. palpacyjnie lokalizować wybrane elementy budowy anatomicznej i ich powiązania ze strukturami sąsiednimi, w tym kostne elementy będące miejscami przyczepów mięśni i więzadeł oraz punkty pomiarów antropometrycznych, mięśnie powierzchowne oraz ścięgna i wybrane wiązki naczyniowo-nerwowe;
+A.U3. określić wskaźniki biochemiczne i ich zmiany w przebiegu niektórych chorób oraz pod wpływem wysiłku fizycznego, w zakresie bezpiecznego stosowania metod fizjoterapii;
+A.U4. dokonać pomiaru i zinterpretować wyniki analiz podstawowych wskaźników czynności układu krążenia (tętno, ciśnienie tętnicze krwi), składu krwi oraz statycznych i dynamicznych wskaźników układu oddechowego, a także ocenić odruchy z wszystkich poziomów układu nerwowego w zakresie bezpiecznego stosowania metod fizjoterapii;
+A.U5. przeprowadzić podstawowe badanie narządów zmysłów i ocenić równowagę;
+A.U6. przeprowadzić ocenę zdolności wysiłkowej, tolerancji wysiłkowej, poziomu zmęczenia i przetrenowania;
+A.U7. wykorzystywać właściwości określonej grupy środków farmakologicznych w zabiegach fizykoterapeutycznych w różnych chorobach;
+A.U8. oceniać wpływ czynników fizycznych na organizm człowieka, odróżniając reakcje prawidłowe i zaburzone;
+A.U9. oceniać stan układu ruchu człowieka w warunkach statyki i dynamiki (badanie ogólne, odcinkowe, miejscowe) w celu wykrycia zaburzeń jego struktury i funkcji;
+A.U10. przeprowadzić szczegółową analizę biomechaniczną prostych i złożonych ruchów człowieka w warunkach prawidłowych i w przypadku różnych zaburzeń układu ruchu;
+A.U11. przewidzieć skutki stosowania różnych obciążeń mechanicznych na zmienione patologicznie struktury ciała człowieka;
+A.U12. ocenić poszczególne cechy motoryczne;
+A.U13. oceniać sprawność fizyczną i funkcjonalną w oparciu o aktualne testy dla wszystkich grup wiekowych;
+A.U14. przeprowadzić wywiad i analizować zebrane informacje w zakresie potrzebnym dla prowadzenia fizjoterapii;
+A.U15. rozpoznawać sytuacje zagrażające zdrowiu lub życiu człowieka oraz udzielać kwalifikowanej pierwszej pomocy w sytuacjach zagrożenia zdrowia i życia oraz przeprowadzić resuscytację krążeniowo-oddechową u osób dorosłych i dzieci.
+B. NAUKI OGÓLNE (język obcy; psychologia psychologia ogólna, psychologia kliniczna, psychoterapia, komunikacja kliniczna; socjologia socjologia ogólna, socjologia niepełnosprawności; pedagogika pedagogika ogólna, pedagogika specjalna; dydaktyka fizjoterapii; podstawy prawa prawa własności intelektualnej, prawa medycznego, prawa cywilnego, prawa pracy; zdrowie publiczne; demografia i epidemiologia; ekonomia i system ochrony zdrowia; zarządzanie i marketing; filozofia; bioetyka; historia fizjoterapii;
+technologie informacyjne; wychowanie fizyczne) W zakresie wiedzy absolwent zna i rozumie: B.W1. psychologiczne i socjologiczne uwarunkowania funkcjonowania jednostki w społeczeństwie;
+B.W2. psychologiczne i społeczne aspekty postaw i działań pomocowych;
+B.W3. modele komunikowania się w opiece zdrowotnej, podstawowe umiejętności komunikowania się z pacjentem oraz członkami interdyscyplinarnego zespołu terapeutycznego;
+B.W4. zasady motywowania pacjentów do prozdrowotnych zachowań i informowania o niepomyślnym rokowaniu, znaczenie komunikacji werbalnej i niewerbalnej w procesie komunikowania się z pacjentami oraz pojęcie zaufania w interakcji z pacjentem;
+B.W5. podstawowe metody psychoterapii;
+B.W6. podstawowe zagadnienia z zakresu pedagogiki i pedagogiki specjalnej;
+B.W7. ograniczenia i uwarunkowania kształcenia osób z niepełnosprawnościami, zasady radzenia sobie z problemami pedagogicznymi u tych osób oraz współczesne tendencje w rewalidacji osób z niepełnosprawnościami;
+B.W8. podstawowe formy i sposoby przekazywania informacji z wykorzystaniem środków dydaktycznych w zakresie nauczania fizjoterapii, prowadzenia szkoleń i doskonalenia zawodowego;
+B.W9. zasady wykonywania zawodu fizjoterapeuty oraz funkcjonowania samorządu zawodowego fizjoterapeutów;
+B.W10. regulacje prawne związane z wykonywaniem zawodu fizjoterapeuty, w tym prawa pacjenta, obowiązki pracodawcy i pracownika, w szczególności wynikające z prawa cywilnego, prawa pracy, ochrony własności przemysłowej i prawa autorskiego, a także zasady odpowiedzialności cywilnej w praktyce fizjoterapeutycznej;
+B.W11. czynniki decydujące o zdrowiu oraz o zagrożeniu zdrowia;
+B.W12. zasady edukacji zdrowotnej i promocji zdrowia oraz elementy polityki społecznej dotyczącej ochrony zdrowia;
+B.W13. uwarunkowania zdrowia i jego zagrożenia oraz skalę problemów związanych z niepełnosprawnością w ujęciu demograficznym i epidemiologicznym;
+B.W14. zasady analizy demograficznej oraz podstawowe pojęcia statystyki epidemiologicznej;
+B.W15. zasady organizacji i finansowania systemu ochrony zdrowia w Rzeczypospolitej Polskiej oraz ekonomiczne uwarunkowania udzielania świadczeń z zakresu fizjoterapii;
+B.W16. zasady kierowania zespołem terapeutycznym oraz organizacji i zarządzania podmiotami prowadzącymi działalność rehabilitacyjną;
+B.W17. zasady zatrudniania osób z różnym stopniem niepełnosprawności;
+B.W18. zasady etyczne współczesnego marketingu medycznego;
+B.W19. zasady przeprowadzania uproszczonej analizy rynku dla potrzeb planowania działań z zakresu fizjoterapii;
+B.W20. historię fizjoterapii oraz kierunki rozwoju nauczania zawodowego, a także międzynarodowe organizacje fizjoterapeutyczne i inne organizacje zrzeszające fizjoterapeutów;
+B.W21. narzędzia informatyczne i statystyczne służące do opracowywania i przedstawiania danych oraz rozwiązywania problemów.
+W zakresie umiejętności absolwent potrafi: B.U1. porozumiewać się w jednym z języków obcych na poziomie B2+ Europejskiego Systemu Opisu Kształcenia Językowego;
+B.U2. dostrzegać i rozpoznawać, w zakresie bezpiecznego stosowania metod fizjoterapii, problemy psychologiczne u osób, w tym osób starszych, z różnymi dysfunkcjami i w różnym wieku oraz oceniać ich wpływ na przebieg i skuteczność fizjoterapii;
+B.U3. zastosować odpowiednie formy postępowania terapeutyczno-wychowawczego wspomagające proces rewalidacji osoby z niepełnosprawnością;
+B.U4 organizować działania ukierunkowane na edukację zdrowotną, promocję zdrowia i profilaktykę niepełnosprawności;
+B.U5. przeprowadzić badanie przesiewowe w profilaktyce dysfunkcji i niepełnosprawności;
+B.U6. oszacować koszt postępowania fizjoterapeutycznego;
+B.U7. przeprowadzić uproszczoną analizę rynku dla potrzeb planowania działań z zakresu fizjoterapii;
+B.U8. identyfikować podstawowe problemy etyczne dotyczące współczesnej medycyny, ochrony życia i zdrowia oraz uwzględnić w planowaniu i przebiegu fizjoterapii uwarunkowania kulturowe, religijne i etniczne pacjentów;
+B.U9. wykazać umiejętności ruchowe z zakresu wybranych form aktywności fizycznej (rekreacyjnych i zdrowotnych);
+B.U10. przeprowadzić rozmowę z pacjentem dorosłym, dzieckiem i rodziną pacjenta z zastosowaniem techniki aktywnego słuchania i wyrażania empatii, a także rozmawiać z pacjentem o jego sytuacji zdrowotnej w atmosferze zaufania podczas całego postępowania fizjoterapeutycznego;
+B.U11. udzielać pacjentowi informacji o celu, przebiegu i ewentualnym ryzyku proponowanych działań diagnostycznych lub fizjoterapeutycznych i uzyskiwać jego świadomą zgodę na te działania;
+B.U12. komunikować się ze współpracownikami w ramach zespołu, udzielając im informacji zwrotnej i wsparcia.
+C. PODSTAWY FIZJOTERAPII (fizjoterapia ogólna; kształcenie ruchowe i metodyka nauczania ruchu; kinezyterapia; terapia manualna; medycyna fizykalna fizykoterapia;
+balneoklimatologia, odnowa biologiczna; masaż; metody specjalne fizjoterapii metody reedukacji posturalnej, reedukacji nerwowo-mięśniowej, neurorehabilitacji, terapii neurorozwojowej oraz terapii manualnej; adaptowana aktywność fizyczna, sport osób z niepełnosprawnościami; wyroby medyczne; fizjoprofilaktyka i promocja zdrowia) W zakresie wiedzy absolwent zna i rozumie: C.W1. pojęcia z zakresu rehabilitacji medycznej, fizjoterapii oraz niepełnosprawności;
+C.W2. mechanizmy zaburzeń strukturalnych i funkcjonalnych wywołanych chorobą lub urazem;
+C.W3. mechanizmy oddziaływania oraz możliwe skutki uboczne środków i zabiegów z zakresu fizjoterapii;
+C.W4. metody oceny zaburzeń strukturalnych i funkcjonalnych wywołanych chorobą lub urazem, narzędzia diagnostyczne i metody oceny stanu pacjenta dla potrzeb fizjoterapii, metody oceny budowy i funkcji ciała pacjenta oraz jego aktywności w różnych stanach chorobowych;
+C.W5. zasady doboru środków, form i metod terapeutycznych w zależności od rodzaju dysfunkcji, stanu i wieku pacjenta;
+C.W6. teoretyczne i metodyczne podstawy procesu uczenia się i nauczania czynności ruchowych;
+C.W7. teoretyczne, metodyczne i praktyczne podstawy kinezyterapii, terapii manualnej i masażu oraz specjalnych metod fizjoterapii;
+C.W8. wskazania i przeciwwskazania do ćwiczeń stosowanych w kinezyterapii, terapii manualnej i masażu oraz specjalnych metod fizjoterapii;
+C.W9. teoretyczne, metodyczne i praktyczne podstawy fizykoterapii, balneoklimatologii oraz odnowy biologicznej;
+C.W10. wskazania i przeciwwskazania do stosowania zabiegów z zakresu fizykoterapii, balneoklimatologii oraz odnowy biologicznej;
+C.W11. zasady doboru różnych form adaptowanej aktywności fizycznej, sportu, turystyki oraz rekreacji terapeutycznej w procesie leczenia i podtrzymywania sprawności osób ze specjalnymi potrzebami, w tym osób z niepełnosprawnościami;
+C.W12. regulacje prawne dotyczące udziału osób z niepełnosprawnościami w sporcie osób z niepełnosprawnościami, w tym paraolimpiadach i olimpiadach specjalnych, oraz organizacji działających w sferze aktywności fizycznej osób z niepełnosprawnościami;
+C.W13. zagrożenia i ograniczenia treningowe związane z niepełnosprawnością;
+C.W14. zasady działania wyrobów medycznych i zasady ich stosowania w leczeniu osób z różnymi chorobami i dysfunkcjami narządowymi;
+C.W15. regulacje dotyczące wykazu wyrobów medycznych określone w przepisach wydanych na podstawie art. 38 ust. 4 ustawy z dnia 12 maja 2011 r. o refundacji leków, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych (Dz. U. z 2021 r. poz. 523);
+C.W16. wskazania i przeciwwskazania do zastosowania wyrobów medycznych;
+C.W17. zagadnienia związane z promocją zdrowia i fizjoprofilaktyką.
+W zakresie umiejętności absolwent potrafi: C.U1. przeprowadzić badanie podmiotowe, badanie przedmiotowe oraz wykonywać podstawowe badania czynnościowe i testy funkcjonalne właściwe dla fizjoterapii, w tym pomiary długości i obwodu kończyn, zakresu ruchomości w stawach oraz siły mięśniowej;
+C.U2. wypełniać dokumentację stanu zdrowia pacjenta i programu zabiegów fizjoterapeutycznych;
+C.U3. dobierać i prowadzić kinezyterapię ukierunkowaną na kształtowanie poszczególnych zdolności motorycznych u osób zdrowych oraz osób z różnymi dysfunkcjami, przeprowadzić zajęcia ruchowe o określonym celu, prowadzić reedukację chodu i ćwiczenia z zakresu edukacji i reedukacji posturalnej oraz reedukacji funkcji kończyn górnych;
+C.U4. instruować pacjenta w zakresie wykonywania ćwiczeń ruchowych w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych, instruować opiekuna w zakresie sprawowania opieki nad osobą ze specjalnymi potrzebami oraz nad dzieckiem w celu stymulowania prawidłowego rozwoju;
+C.U5. konstruować trening medyczny, w tym różnorodne ćwiczenia, dostosowywać poszczególne ćwiczenia do potrzeb ćwiczących, dobrać odpowiednie przyrządy i przybory do ćwiczeń ruchowych oraz stopniować trudność wykonywanych ćwiczeń;
+C.U6. dobrać poszczególne ćwiczenia dla osób z różnymi zaburzeniami i możliwościami funkcjonalnymi oraz metodycznie uczyć ich wykonywania, stopniując natężenie trudności oraz wysiłku fizycznego;
+C.U7. wykazać umiejętności ruchowe konieczne do demonstracji i zapewnienia bezpieczeństwa podczas wykonywania poszczególnych ćwiczeń;
+C.U8. zaplanować, dobrać i wykonać zabiegi z zakresu kinezyterapii, terapii manualnej i masażu oraz specjalnych metod fizjoterapii;
+C.U9. obsługiwać i stosować urządzenia z zakresu kinezyterapii, fizykoterapii, masażu i terapii manualnej oraz specjalnych metod fizjoterapii;
+C.U10. wykazać zaawansowane umiejętności manualne pozwalające na zastosowanie właściwej techniki z zakresu kinezyterapii, masażu i terapii manualnej oraz specjalnych metod fizjoterapii;
+C.U11. zaplanować, dobrać i wykonać zabiegi z zakresu fizykoterapii, balneoklimatologii oraz odnowy biologicznej;
+C.U12. obsługiwać aparaturę do wykonywania zabiegów z zakresu fizykoterapii, balneoklimatologii oraz odnowy biologicznej;
+C.U13. poinstruować osoby ze specjalnymi potrzebami, w tym osoby z niepełnosprawnościami, w zakresie różnych form adaptowanej aktywności fizycznej, sportu, turystyki oraz rekreacji terapeutycznej;
+C.U14. poinstruować osoby z niepełnosprawnościami w zakresie samoobsługi i lokomocji, w tym w zakresie samodzielnego przemieszczania się i pokonywania przeszkód terenowych na wózku aktywnym;
+C.U15. prowadzić zajęcia z wybranych dyscyplin sportowych dla osób z niepełnosprawnościami, w tym zademonstrować elementy techniki i taktyki w wybranych dyscyplinach sportowych dla osób z niepełnosprawnościami;
+C.U16. dobrać wyroby medyczne stosownie do rodzaju dysfunkcji i potrzeb pacjenta na każdym etapie fizjoterapii oraz poinstruować pacjenta w zakresie posługiwania się nimi;
+C.U17. podejmować działania promujące zdrowy styl życia na różnych poziomach oraz zaprojektować program profilaktyczny w zależności od wieku, płci, stanu zdrowia oraz warunków życia pacjenta, ze szczególnym uwzględnieniem aktywności fizycznej.
+D. FIZJOTERAPIA KLINICZNA kliniczne podstawy fizjoterapii w: ortopedii i traumatologii, medycynie sportowej, reumatologii, neurologii i neurochirurgii, pediatrii, neurologii dziecięcej, kardiologii i kardiochirurgii, pulmonologii, chirurgii, ginekologii i położnictwie, geriatrii, psychiatrii, intensywnej terapii, onkologii i medycynie paliatywnej;
+fizjoterapia kliniczna w dysfunkcjach układu ruchu w: ortopedii i traumatologii, medycynie sportowej, reumatologii, neurologii i neurochirurgii, wieku rozwojowym; fizjoterapia w chorobach wewnętrznych w: kardiologii i kardiochirurgii, pulmonologii, chirurgii, ginekologii i położnictwie, pediatrii, geriatrii, psychiatrii, onkologii i medycynie paliatywnej;
+diagnostyka funkcjonalna w: dysfunkcjach układu ruchu, chorobach wewnętrznych, wieku rozwojowym; planowanie fizjoterapii w: dysfunkcjach układu ruchu, wieku rozwojowym, chorobach wewnętrznych) W zakresie wiedzy absolwent zna i rozumie: D.W1. etiologię, patomechanizm, objawy i przebieg dysfunkcji narządu ruchu w zakresie: ortopedii i traumatologii, medycyny sportowej, reumatologii, neurologii i neurochirurgii oraz pediatrii, neurologii dziecięcej, w stopniu umożliwiającym racjonalne stosowanie środków fizjoterapii;
+D.W2. zasady diagnozowania oraz ogólne zasady i sposoby leczenia najczęstszych dysfunkcji narządu ruchu w zakresie: ortopedii i traumatologii, medycyny sportowej, reumatologii, neurologii, neurochirurgii oraz pediatrii, neurologii dziecięcej, w stopniu umożliwiającym racjonalne stosowanie środków fizjoterapii;
+D.W3. etiologię, patomechanizm, objawy i przebieg najczęstszych chorób w zakresie: kardiologii i kardiochirurgii, pulmonologii, chirurgii, ginekologii i położnictwa, geriatrii, psychiatrii, intensywnej terapii, onkologii i medycyny paliatywnej, w stopniu umożliwiającym racjonalne stosowanie środków fizjoterapii;
+D.W4. zasady diagnozowania oraz ogólne zasady i sposoby leczenia w najczęstszych chorobach w zakresie: kardiologii i kardiochirurgii, pulmonologii, chirurgii, ginekologii i położnictwa, geriatrii, psychiatrii, intensywnej terapii, onkologii i medycyny paliatywnej, w stopniu umożliwiającym racjonalne stosowanie środków fizjoterapii;
+D.W5. zasady postępowania z pacjentem: nieprzytomnym, po urazie wielomiejscowym i wielonarządowym, z uszkodzeniem kręgosłupa i rdzenia kręgowego, kończyny górnej i kończyny dolnej, w zakresie bezpiecznego stosowania metod fizjoterapii;
+D.W6. ogólne zasady podmiotowego i przedmiotowego badania kardiologicznego, neurologicznego, ortopedycznego i geriatrycznego;
+D.W7. zasady interpretacji wyników badań dodatkowych w diagnostyce chorób układu krążenia i w fizjoterapii kardiologicznej, w tym: badania elektrokardiograficznego (EKG) i ultrasonograficznego, prób czynnościowych EKG, klinicznej oceny stanu zdrowia pacjenta z chorobą kardiologiczną według różnych skal, w zakresie bezpiecznego stosowania metod fizjoterapii;
+D.W8. wyniki testów wysiłkowych w fizjoterapii kardiologicznej i pulmonologicznej (test na ergometrze rowerowym, bieżni ruchomej, testy marszowe, test spiroergometryczny), skalę niewydolności serca NYHA (New York Heart Association) oraz wartości równoważnika metabolicznego MET;
+D.W9. ogólne zasady podmiotowego i przedmiotowego badania pulmonologicznego dla potrzeb fizjoterapii, ważniejsze badania dodatkowe i pomocnicze oraz testy funkcjonalne, przydatne w kwalifikacji i monitorowaniu fizjoterapii oddechowej;
+D.W10. zasady kwalifikacji do zabiegów operacyjnych oraz podstawowe zabiegi operacyjne, w tym amputacje z przyczyn naczyniowych, i zabiegi z zakresu chirurgii małoinwazyjnej;
+D.W11. metody badania klinicznego i diagnostyki dodatkowej w zakresie badań stosowanych w ginekologii i położnictwie;
+D.W12. fizjologię procesu starzenia się oraz zasady opieki i fizjoterapii geriatrycznej;
+D.W13. zagrożenia związane z hospitalizacją osób starszych;
+D.W14. specyfikę postępowania z pacjentem z chorobą psychiczną i zasady właściwego podejścia do niego;
+D.W15. zasady postępowania z pacjentem: nieprzytomnym, w okresie ostrej niewydolności krążenia, w okresie ostrej niewydolności oddechowej, we wstrząsie, ze zdiagnozowaną sepsą, wentylowanym mechanicznie, po urazie czaszkowo-mózgowym oraz po urazie mnogim ciała;
+D.W16. założenia i zasady Międzynarodowej Klasyfikacji Funkcjonowania, Niepełnosprawności i Zdrowia (International Classification of Functioning Disability and Health, ICF).
+W zakresie umiejętności absolwent potrafi: D.U1. przeprowadzić szczegółowe badanie dla potrzeb fizjoterapii i testy funkcjonalne układu ruchu oraz zapisać i zinterpretować jego wyniki;
+D.U2. przeprowadzić analizę biomechaniczną z zakresu prostych i złożonych ruchów człowieka w warunkach prawidłowych i w dysfunkcjach układu ruchu;
+D.U3. dokonać oceny stanu układu ruchu człowieka w warunkach statyki i dynamiki (badanie ogólne, odcinkowe, miejscowe), przeprowadzić analizę chodu oraz zinterpretować uzyskane wyniki;
+D.U4. dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u osób po urazach w obrębie tkanek miękkich układu ruchu leczonych zachowawczo i operacyjnie, po urazach w obrębie kończyn (stłuczeniach, skręceniach, zwichnięciach i złamaniach) leczonych zachowawczo i operacyjnie, po urazach kręgosłupa bez porażeń oraz w przypadku stabilnych i niestabilnych złamań kręgosłupa;
+D.U5. dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii osób po amputacjach planowanych (postępowanie przed- i pooperacyjne) oraz urazowych, prowadzić naukę chodzenia w protezie oraz postępowanie po amputacjach kończyn górnych, w tym instruktaż w zakresie posługiwania się protezą;
+D.U6. dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie fizjoterapeutyczne przed- i pooperacyjne u osób po rekonstrukcyjnych zabiegach ortopedycznych, w tym po zabiegach artroskopowych i po endoprotezoplastyce;
+D.U7. instruować pacjentów lub ich opiekunów w zakresie wykonywania ćwiczeń i treningu medycznego w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych;
+D.U8. przeprowadzić testy funkcjonalne przydatne w reumatologii, takie jak ocena stopnia uszkodzenia stawów i ich deformacji, funkcji ręki oraz lokomocji u pacjentów z chorobami reumatologicznymi;
+D.U9. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u pacjentów z chorobami reumatologicznymi, chorobami przyczepów mięśni, zmianami zwyrodnieniowowytwórczymi stawów oraz ograniczeniami zakresu ruchu lub pozastawowymi zespołami bólowymi o podłożu reumatycznym;
+D.U10. wykonywać pionizację i naukę chodzenia pacjentów z chorobami reumatologicznymi, a także usprawnianie funkcjonalne ręki w chorobie reumatoidalnej;
+D.U11. instruować pacjentów z chorobami reumatologicznymi w zakresie wykonywania ćwiczeń w domu, sposobu posługiwania się wyrobami medycznymi, w tym poprawiającymi funkcję chwytną;
+D.U12. przeprowadzić badanie neurologiczne dla potrzeb fizjoterapii i testy funkcjonalne przydatne w fizjoterapii neurologicznej, w tym ocenę napięcia mięśniowego, kliniczną ocenę spastyczności oraz ocenę na poziomie funkcji ciała i aktywności, w szczególności za pomocą skal klinicznych, a także zinterpretować ważniejsze badania dodatkowe (obrazowe i elektrofizjologiczne);
+D.U13. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u osób z objawami uszkodzenia pnia mózgu, móżdżku i kresomózgowia, ze szczególnym uwzględnieniem udaru mózgu, parkinsonizmu, chorób demielinizacyjnych oraz zabiegi z zakresu fizjoterapii u osób po złamaniach kręgosłupa z porażeniami, a także prowadzić postępowanie ukierunkowane na łagodzenie zaburzeń troficznych i wydalniczych, pionizację i naukę chodzenia lub poruszania się na wózku osób po urazach kręgosłupa;
+D.U14. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u osób po uszkodzeniach nerwów obwodowych, w polineuropatiach, w chorobach o podłożu nerwowo-mięśniowym, w chorobach pierwotnie mięśniowych oraz w różnych zespołach bólowych;
+D.U15. układać pacjenta w łóżku oraz wykonywać kinezyterapię w łóżku u pacjentów z uszkodzeniem układu nerwowego, wykonywać pionizację i naukę chodzenia, a także prowadzić reedukację ruchową kończyny górnej u osób po udarach mózgu;
+D.U16. instruować pacjentów z chorobami neurologicznymi w zakresie wykonywania ćwiczeń w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych;
+D.U17. przeprowadzić wywiad oraz zebrać podstawowe informacje na temat rozwoju i stanu zdrowia dziecka;
+D.U18. ocenić rozwój psychomotoryczny dziecka;
+D.U19. przeprowadzić ocenę aktywności spontanicznej noworodka i niemowlęcia;
+D.U20. dokonać oceny poziomu umiejętności funkcjonalnych dziecka w zakresie motoryki i porozumiewania się w oparciu o odpowiednie skale;
+D.U21. przeprowadzić kliniczną ocenę podwyższonego lub obniżonego napięcia mięśniowego u dziecka w tym spastyczności i sztywności;
+D.U22. przeprowadzić kliniczną ocenę postawy ciała, w tym badanie skoliometrem Bunnella, oraz punktową i biostereometryczną ocenę postawy ciała, a także zinterpretować wyniki tych ocen;
+D.U23. na podstawie zdjęcia RTG kręgosłupa wyznaczyć kąt Cobba, kąt rotacji według jednego z przyjętych sposobów oceny, dokonać oceny wieku kostnego na podstawie testu Rissera oraz zinterpretować ich wyniki i na tej podstawie zakwalifikować skoliozę do odpowiedniego postępowania fizjoterapeutycznego;
+D.U24. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie fizjoterpeutyczne u dzieci i młodzieży z chorobami układu ruchu, takimi jak: wady wrodzone, wady postawy ciała, jałowe martwice kości;
+D.U25. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie przed- i pooperacyjne u dzieci leczonych operacyjnie;
+D.U26. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i prowadzić postępowanie fizjoterapeutyczne u dzieci i młodzieży z zaburzeniami ruchowymi pochodzenia ośrodkowego, mózgowym porażeniem dziecięcym, z dysrafizmem rdzeniowym, z chorobami nerwowo-mięśniowymi, z okołoporodowymi uszkodzeniami splotów i nerwów obwodowych, z neuroi miogennymi zanikami mięśni (atrofiami i dystrofiami mięśniowymi);
+D.U27. instruować opiekunów dzieci w zakresie tzw. pielęgnacji ruchowej, oraz dzieci i ich opiekunów w zakresie wykonywania ćwiczeń w domu, sposobu posługiwania się wyrobami medycznymi oraz wykorzystywania przedmiotów użytku codziennego w celach terapeutycznych;
+D.U28. przeprowadzić podstawowe pomiary i próby czynnościowe, z zachowaniem zasad bezpieczeństwa, w tym pomiar tętna, pomiar ciśnienia tętniczego, test marszowy, test wstań i idź (get up and go), próbę czynnościową na bieżni ruchomej według protokołu Bruce’a oraz według zmodyfikowanego protokołu Naughtona oraz próbę wysiłkową na cykloergometrze;
+D.U29. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u pacjentów z niewydolnością serca, nadciśnieniem, chorobą niedokrwienną serca, po zawale serca, zaburzeniami rytmu serca i nabytymi wadami serca;
+D.U30. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii u pacjentów zakwalifikowanych do operacji serca, po zabiegach kardiochirurgicznych, z wszczepionym stymulatorem serca oraz po leczeniu metodami kardiologii interwencyjnej;
+D.U31. instruować pacjenta w zakresie wykonywania ćwiczeń oddechowych i technik relaksacyjnych w fizjoterapii kardiologicznej;
+D.U32. instruować pacjenta z chorobami układu krążenia w zakresie wykonywania ćwiczeń ruchowych w domu oraz aktywności fizycznej, jako prewencji wtórnej;
+D.U33. przeprowadzić badania czynnościowe układu oddechowego, w tym spirometrię oraz zinterpretować wyniki badania spirometrycznego, badania wysiłkowego i badania gazometrycznego;
+D.U34. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać ćwiczenia w różnych chorobach układu oddechowego (ostrych i przewlekłych), w chorobach z przewagą zaburzeń restrykcyjnych oraz w chorobach z przewagą zaburzeń obturacyjnych;
+D.U35. wykonywać zabiegi z zakresu fizjoterapii oddechowej w różnych chorobach pulmonologicznych, stanach po urazie klatki piersiowej, stanach po zabiegach operacyjnych na klatce piersiowej oraz po przeszczepach płuc;
+D.U36. instruować pacjenta z chorobą układu oddechowego w zakresie wykonywania ćwiczeń w domu oraz stosowania środków prewencji wtórnej;
+D.U37. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi fizjoterapeutyczne u pacjentów z czynnościowymi i organicznymi chorobami naczyń obwodowych oraz pacjentów po amputacji z przyczyn naczyniowych;
+D.U38. wdrażać strategię wczesnego uruchamiania pacjenta po zabiegu na jamie brzusznej lub klatce piersiowej, wykonywać zabiegi fizjoterapeutyczne rozprężające płuca i ułatwiające oczyszczanie oskrzeli, instruować w zakresie profilaktyki wczesnych i późnych powikłań pooperacyjnych oraz udzielać zaleceń dotyczących pooperacyjnej fizjoterapii ambulatoryjnej;
+D.U39. stosować Międzynarodową Klasyfikację Funkcjonowania, Niepełnosprawności i Zdrowia (International Classification of Functioning, Disability and Health, ICF);
+D.U40. planować, dobierać i wykonywać zabiegi fizjoterapeutyczne po porodzie mające na celu likwidowanie niekorzystnych objawów, w szczególności ze strony układu krążenia, kostno-stawowego i mięśniowego;
+D.U41. instruować kobiety ciężarne w zakresie wykonywania ćwiczeń przygotowujących do porodu i w okresie połogu;
+D.U42. wykonywać zabiegi fizjoterapeutyczne u osób z nietrzymaniem moczu oraz instruować je w zakresie wykonywania ćwiczeń w domu;
+D.U43. planować i dobierać ćwiczenia krążeniowo-oddechowe dla dzieci i młodzieży w zależności od stanu klinicznego i funkcjonalnego pacjenta oraz instruować opiekunów dzieci i młodzież w zakresie wykonywania tych ćwiczeń;
+D.U44. przeprowadzić całościową ocenę geriatryczną i interpretować jej wyniki;
+D.U45. dobierać i wykonywać zabiegi z zakresu fizjoterapii geriatrycznej oraz instruować osoby starsze w zakresie wykonywania ćwiczeń w domu oraz stosowania różnych form rekreacji;
+D.U46. planować, dobierać w zależności od stanu klinicznego i funkcjonalnego pacjenta i wykonywać zabiegi z zakresu fizjoterapii kobiet po mastektomii, w tym postępowanie w przypadku obrzęku limfatycznego i upośledzenia funkcji kończyny górnej;
+D.U47. stosować zasady prawidłowej komunikacji z pacjentem oraz komunikować się z innymi członkami zespołu terapeutycznego;
+D.U48. podejmować działania mające na celu poprawę jakości życia pacjenta, w tym pacjenta w okresie terminalnym, z zastosowaniem sprzętu rehabilitacyjnego;
+D.U49. planować, dobierać i modyfikować programy rehabilitacji pacjentów z różnymi dysfunkcjami narządu ruchu oraz chorobami wewnętrznymi w zależności od stanu klinicznego, funkcjonalnego i psychicznego (poznawczo-emocjonalnego) chorego, jego potrzeb oraz potrzeb opiekunów faktycznych.
+E. METODOLOGIA BADAŃ NAUKOWYCH W zakresie wiedzy absolwent zna i rozumie: E.W1. metody i techniki badawcze stosowane w ramach realizowanego badania naukowego.
+W zakresie umiejętności absolwent potrafi: E.U1. zaplanować badanie naukowe i omówić jego cel oraz spodziewane wyniki;
+E.U2. zinterpretować badanie naukowe i odnieść je do aktualnego stanu wiedzy;
+E.U3. korzystać ze specjalistycznej literatury naukowej krajowej i zagranicznej;
+E.U4. przeprowadzić badanie naukowe, zinterpretować i udokumentować jego wyniki;
+E.U5. zaprezentować wyniki badania naukowego.
+F. PRAKTYKI FIZJOTERAPEUTYCZNE (praktyka asystencka; praktyka w zakresie kinezyterapii, fizykoterapii i masażu; praktyka w zakresie fizjoterapii klinicznej dzieci i osób dorosłych, w tym osób starszych; praktyka zawodowa) W zakresie wiedzy absolwent zna i rozumie: F.W1. zjawiska fizyczne zachodzące w organizmie człowieka pod wpływem czynników zewnętrznych;
+F.W2. teoretyczne, metodyczne i praktyczne podstawy kinezyterapii i terapii manualnej, specjalnych metod fizjoterapii, ergonomii oraz fizykoterapii i masażu leczniczego;
+F.W3. metody oceny stanu układu ruchu człowieka służące do wyjaśnienia zaburzeń struktury i funkcji tego układu oraz do potrzeb fizjoterapii w dysfunkcjach układu ruchu i w chorobach wewnętrznych;
+F.W4. metody oceny zaburzeń strukturalnych i funkcjonalnych wywołanych chorobą lub urazem oraz podstawowe reakcje człowieka na chorobę i ból w zakresie niezbędnym dla fizjoterapii;
+F.W5. metody opisu i interpretacji podstawowych jednostek i zespołów chorobowych w stopniu umożliwiającym racjonalne stosowanie środków fizjoterapii i planowanie fizjoterapii;
+F.W6. podstawy edukacji zdrowotnej, promocji zdrowia oraz profilaktyki z uwzględnieniem zjawiska niepełnosprawności;
+F.W7. zasady doboru różnych form adaptowanej aktywności fizycznej oraz dyscyplin sportowych osób z niepełnosprawnościami w rehabilitacji kompleksowej i podtrzymywaniu sprawności osób ze specjalnymi potrzebami;
+F.W8. zasady działania wyrobów medycznych stosowanych w rehabilitacji;
+F.W9. zasady etyczne obowiązujące w pracy z pacjentem;
+F.W10. zasady postępowania fizjoterapeutycznego oparte na dowodach naukowych (evidence based medicine/physiotherapy);
+F.W11. standardy fizjoterapeutyczne;
+F.W12. rolę fizjoterapeuty w procesie kompleksowej rehabilitacji i innych specjalistów w zespole terapeutycznym;
+F.W13. prawne, etyczne i metodyczne aspekty prowadzenia badań klinicznych oraz rolę fizjoterapeuty w ich prowadzeniu;
+F.W14. zasady promocji zdrowia, jej zadania oraz rolę fizjoterapeuty w propagowaniu zdrowego stylu życia;
+F.W15. podstawowe zagadnienia dotyczące zależności psychosomatycznych i metod z zakresu budowania świadomości ciała;
+F.W16. zadania poszczególnych organów samorządu zawodowego fizjoterapeutów oraz prawa i obowiązki jego członków;
+F.W17. zasady etyki zawodowej fizjoterapeuty;
+F.W18. zasady odpowiedzialności zawodowej fizjoterapeuty.
+W zakresie umiejętności absolwent potrafi: F.U1. przeprowadzić badania i zinterpretować ich wyniki oraz przeprowadzić testy funkcjonalne niezbędne do doboru środków fizjoterapii, wykonywania zabiegów i stosowania podstawowych metod terapeutycznych;
+F.U2. samodzielnie wykonywać zabiegi z zakresu kinezyterapii, terapii manualnej, fizykoterapii i masażu leczniczego;
+F.U3. tworzyć, weryfikować i modyfikować programy usprawniania osób z różnymi dysfunkcjami układu ruchu i innych narządów oraz układów, stosownie do ich stanu klinicznego i funkcjonalnego, oraz celów kompleksowej rehabilitacji;
+F.U4. wykazać specjalistyczne umiejętności ruchowe z zakresu wybranych form aktywności fizycznej;
+F.U5. dobierać wyroby medyczne stosownie do rodzaju dysfunkcji i potrzeb pacjenta na każdym etapie rehabilitacji;
+F.U6. zastosować wyroby medyczne oraz poinstruować pacjenta, jak z nich korzystać;
+F.U7. wykorzystywać i obsługiwać aparaturę, sprzęt do fizjoterapii i sprzęt do badań funkcjonalnych oraz przygotować stanowisko pracy;
+F.U8. pracować w zespole interdyscyplinarnym zapewniającym ciągłość opieki nad pacjentem oraz komunikować się z innymi członkami zespołu, z pacjentem i jego rodziną;
+F.U9. wprowadzić dane i uzyskane informacje oraz opis efektów zabiegów i działań terapeutycznych do dokumentacji pacjenta;
+F.U10. inicjować, organizować i realizować działania ukierunkowane na edukację zdrowotną, promocję zdrowia i profilaktykę niepełnosprawności;
+F.U11. określić zakres swoich kompetencji zawodowych i współpracować z przedstawicielami innych zawodów medycznych;
+F.U12. samodzielnie wykonywać powierzone zadania i właściwie organizować własną pracę oraz brać za nią odpowiedzialność;
+F.U13. pracować w zespole i przyjmować odpowiedzialność za udział w podejmowaniu decyzji;
+F.U14. aktywnie uczestniczyć w pracach zespołu terapeutycznego;
+F.U15. aktywnie uczestniczyć w dyskusjach na temat problemów zawodowych, z uwzględnieniem zasad etycznych;
+F.U16. stosować się do zasad deontologii zawodowej, w tym do zasad etyki zawodowej fizjoterapeuty;
+F.U17. przestrzegać praw pacjenta;
+F.U18. nawiązać relację z pacjentem i współpracownikami opartą na wzajemnym zaufaniu i szacunku.
+IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięcie efektów uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy wielokrotnego wyboru (Multiple choice questions, MCQ), testy wielokrotnej odpowiedzi (Multiple response questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz proceduralnych (manualnych), wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w standaryzowanych warunkach.
+6. Egzamin dyplomowy powinien być przeprowadzony w formie umożliwiającej sprawdzenie wiedzy i umiejętności zdobytych w okresie studiów.
+Standard kształcenia przygotowującego do wykonywania zawodu ratownika medycznego I. SPOSÓB ORGANIZACJI KSZTAŁCENIA
+1. WYMAGANIA OGÓLNE
+1.1. Standard ma zastosowanie do kształcenia przygotowującego do wykonywania zawodu ratownika medycznego, prowadzonego na studiach na kierunku ratownictwo medyczne, zwanych dalej „studiami”.
+1.2. Studia są prowadzone na poziomie studiów pierwszego stopnia.
+1.3. Studia trwają nie krócej niż 6 semestrów.
+1.4. Liczba godzin zajęć, w tym praktyk zawodowych, nie może być mniejsza niż 3675.
+1.5. Liczba punktów ECTS konieczna do ukończenia studiów nie może być mniejsza niż 180.
+1.6. Kierunek ratownictwo medyczne jest przyporządkowany do dyscypliny naukowej nauki medyczne albo dyscypliny naukowej nauki o zdrowiu, jako dyscypliny wiodącej.
+2. ZAJĘCIA I GRUPY ZAJĘĆ
+2.1. Proces kształcenia jest realizowany w postaci:
+1) zajęć lub grup zajęć odpowiadających poszczególnym zagadnieniom z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. anatomii, farmakologii, chirurgii);
+2) grup zajęć zintegrowanych łączących dwa lub więcej zagadnień z dyscypliny naukowej, do której jest przyporządkowany kierunek studiów (np. choroby wewnętrzne, diagnostyka laboratoryjna i obrazowa);
+3) wielodyscyplinarnych grup zajęć poświęconych określonym zagadnieniom (np. klasyfikacje i mechanizmy bólu, ocena i pomiar nasilenia bólu, leczenie bólu).
+2.2. W przypadku studiów o profilu:
+1) ogólnoakademickim program studiów obejmuje zajęcia lub grupy zajęć, związane z prowadzoną w uczelni działalnością naukową w dyscyplinie naukowej, do której jest przyporządkowany kierunek studiów, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów i uwzględnia udział studentów w zajęciach przygotowujących do prowadzenia działalności naukowej lub udział w tej działalności;
+2) praktycznym program studiów obejmuje zajęcia lub grupy zajęć kształtujące umiejętności praktyczne, którym przypisano punkty ECTS w wymiarze większym niż 50% liczby punktów ECTS koniecznej do ukończenia studiów.
+3. MINIMALNA LICZBA GODZIN ZAJĘĆ ZORGANIZOWANYCH I PUNKTÓW ECTS Grupy zajęć, w ramach których osiąga się Liczba godzin Liczba punktów ECTS szczegółowe efekty uczenia się A. Nauki podstawowe 250 16 B. Nauki behawioralne i społeczne 475 32 C. Nauki kliniczne 1690 81 D. Praktyki zawodowe 960 36 Razem 3375 165
+3.1. Program studiów konstruuje się tak, aby możliwe było przypisanie grupom zajęć powtarzalnej wartości punktowej wyrażonej w ECTS.
+3.2. Do dyspozycji uczelni pozostawia się nie mniej niż 300 godzin zajęć (15 punktów ECTS), które mogą być realizowane jako zajęcia uzupełniające efekty uczenia się w kategoriach wiedzy, umiejętności lub kompetencji społecznych, z czego 200 godzin (10 punktów ECTS) stanowią zajęcia kształtujące umiejętności praktyczne, z tym że program studiów umożliwia studentowi wybór zajęć, którym przypisano punkty ECTS w wymiarze nie mniejszym niż 5% liczby punktów ECTS koniecznej do ukończenia studiów.
+3.3. Kształtowanie umiejętności praktycznych jest realizowane w ramach zajęć w grupie zajęć C.
+3.4. Program studiów umożliwia studentom uzyskanie 5 punktów ECTS za przygotowanie się do egzaminu dyplomowego.
+3.5. W ramach kształcenia w grupie zajęć B są prowadzone zajęcia z języka obcego w wymiarze nie mniejszym niż 120 godzin. Zajęcia te obejmują język specjalistyczny z zakresu ratownictwa medycznego. Zajęciom tym przypisuje się nie mniej niż 5 punktów ECTS.
+3.6. Zajęcia z wychowania fizycznego są zajęciami obowiązkowymi na studiach stacjonarnych, prowadzonymi w wymiarze nie mniejszym niż 60 godzin. Zajęciom tym nie przypisuje się punktów ECTS.
+3.7. Program studiów przewiduje nie wcześniej niż na II roku studiów zajęcia sprawnościowe z elementami ratownictwa specjalistycznego. Szczegółowy program tych zajęć, termin i formę ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się określa uczelnia. Zajęciom tym przypisuje się nie mniej niż 4 punkty ECTS.
+3.8. Liczba punktów ECTS, jaka może być uzyskana w ramach kształcenia z wykorzystaniem metod i technik kształcenia na odległość, nie może być większa niż 10% liczby punktów ECTS koniecznej do ukończenia studiów.
+4. PRAKTYKI ZAWODOWE Rodzaj praktyk Zakres praktyk zawodowych Liczba Liczba zawodowych godzin punktów ECTS Praktyki Zespół ratownictwa medycznego 168 6 wakacyjne Szpitalny oddział ratunkowy (SOR) 168 6
+Oddział anestezjologii i intensywnej terapii 164 6 Praktyki śródroczne
+Oddział chirurgii 60 2
+Oddział ortopedyczno-urazowy 50 2
+Oddział chorób wewnętrznych 50 2 SOR 100 4
+Oddział neurologii 50 2
+Oddział kardiologii 50 2
+Oddział pediatrii 50 2 Zespół ratownictwa medycznego 50 2 Razem 960 36 Praktyki zawodowe służą osiągnięciu wybranych efektów uczenia się. Szczegółowy program praktyk, termin i formę ich odbywania oraz sposób weryfikacji osiągniętych efektów uczenia się ustala uczelnia.
+5. INFRASTRUKTURA NIEZBĘDNA DO PROWADZENIA KSZTAŁCENIA
+5.1. Proces kształcenia odbywa się z wykorzystaniem infrastruktury pozwalającej na osiągnięcie efektów uczenia się.
+5.2. Kształtowanie umiejętności praktycznych w warunkach naturalnych jest poprzedzone kształtowaniem tych umiejętności w warunkach symulowanych w pracowniach symulacji.
+5.3. Zajęcia kształtujące umiejętności praktyczne w grupie zajęć C i praktyki zawodowe odbywają się w oparciu o infrastrukturę uczelni lub podmiotów wykonujących działalność leczniczą, z którymi uczelnia zawarła umowy lub porozumienia w tym zakresie, w szczególności w SOR, zespołach ratownictwa medycznego oraz w innych wybranych oddziałach szpitalnych zgodnie z zakresem określonym w ust. 4.
+II. OSOBY PROWADZĄCE KSZTAŁCENIE
+1. Kształcenie służące osiągnięciu efektów uczenia się w grupach zajęć jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających kompetencje naukowe lub zawodowe oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć, z tym że w grupie zajęć C jest prowadzone przez nauczycieli akademickich lub inne osoby, posiadających dorobek naukowy lub kompetencje zawodowe i prawo wykonywania zawodu lekarza, pielęgniarki lub położnej, lub wykonujących zawód ratownika medycznego oraz doświadczenie w zakresie właściwym dla prowadzonych zajęć.
+2. Praktyki zawodowe są prowadzone pod kierunkiem osoby wykonującej zawód ratownika medycznego lub posiadającej prawo wykonywania zawodu lekarza, ratownika medycznego lub pielęgniarki systemu Państwowe Ratownictwo Medyczne, będących pracownikami podmiotu wykonującego działalność leczniczą, w którym odbywa się praktyka, a nadzór nad prowadzeniem praktyk sprawuje opiekun praktyk z uczelni.
+III. EFEKTY UCZENIA SIĘ
+1. OGÓLNE EFEKTY UCZENIA SIĘ
+1.1. W zakresie wiedzy absolwent zna i rozumie:
+1) medyczne czynności ratunkowe i świadczenia zdrowotne inne niż medyczne czynności ratunkowe podejmowane przez ratownika medycznego;
+2) problematykę z zakresu dyscyplin naukowych nauki medyczne i nauki o zdrowiu w stopniu podstawowym;
+3) systemy ratownictwa medycznego w Rzeczypospolitej Polskiej i innych państwach;
+4) regulacje prawne, zasady etyczne i deontologię, odnoszące się do wykonywania zawodu ratownika medycznego.
+1.2. W zakresie umiejętności absolwent potrafi:
+1) rozpoznawać stany nagłego zagrożenia zdrowotnego;
+2) prowadzić medyczne czynności ratunkowe i udzielać świadczeń zdrowotnych innych niż medyczne czynności ratunkowe podejmowane przez ratownika medycznego;
+3) podejmować działania w zakresie promocji zdrowia i profilaktyki chorób;
+4) współdziałać z pracownikami jednostek systemu ratownictwa medycznego i innych podmiotów w zdarzeniach jednostkowych, mnogich, masowych i katastrofach;
+5) inicjować, wspierać i organizować działania społeczności lokalnej na rzecz upowszechniania zasad udzielania pierwszej pomocy;
+6) promować znajomość zasad udzielania pierwszej pomocy, kwalifikowanej pierwszej pomocy i medycznych czynności ratunkowych;
+7) planować własną aktywność edukacyjną i stale dokształcać się w celu aktualizacji wiedzy.
+1.3. W zakresie kompetencji społecznych absolwent jest gotów do:
+1) aktywnego słuchania, nawiązywania kontaktów interpersonalnych, skutecznego i empatycznego porozumiewania się z pacjentem;
+2) dostrzegania czynników wpływających na reakcje własne i pacjenta;
+3) samodzielnego wykonywania zawodu zgodnie z zasadami etyki ogólnej i zawodowej oraz holistycznego i zindywidualizowanego podejścia do pacjenta, uwzględniającego poszanowanie jego praw;
+4) organizowania pracy własnej i współpracy w zespole specjalistów, w tym z przedstawicielami innych zawodów medycznych, także w środowisku wielokulturowym i wielonarodowościowym;
+5) dostrzegania i rozpoznawania własnych ograniczeń, dokonywania samooceny deficytów i potrzeb edukacyjnych;
+6) kierowania się dobrem pacjenta.
+2. SZCZEGÓŁOWE EFEKTY UCZENIA SIĘ A. NAUKI PODSTAWOWE (anatomia, fizjologia z elementami fizjologii klinicznej, biologia i mikrobiologia, biofizyka, biochemia z elementami chemii, farmakologia z toksykologią, informatyka i biostatystyka, patologia) W zakresie wiedzy absolwent zna i rozumie: A.W1. mianownictwo anatomiczne;
+A.W2. budowę ciała ludzkiego w ujęciu topograficznym oraz czynnościowym;
+A.W3. anatomiczne podstawy badania przedmiotowego;
+A.W4. podstawowe struktury komórkowe i ich specjalizacje funkcjonalne;
+A.W5. fizjologię narządów i układów organizmu;
+A.W6. mechanizmy regulacji narządów i układów organizmu oraz zależności istniejące między nimi;
+A.W7. funkcje życiowe osoby dorosłej i dziecka;
+A.W8. proces oddychania i krążenia oraz procesy neurofizjologiczne;
+A.W9. neurohormonalną regulację procesów fizjologicznych i elektrofizjologicznych;
+A.W10. mechanizm działania hormonów i konsekwencje zaburzeń regulacji hormonalnej;
+A.W11. zmiany w funkcjonowaniu organizmu jako całości w sytuacji zaburzenia jego homeostazy, a także specyfikację i znaczenie gospodarki wodno-elektrolitowej i kwasowo-zasadowej w utrzymaniu homeostazy ustroju;
+A.W12. rolę nerek w utrzymaniu homeostazy organizmu;
+A.W13. budowę i funkcje układu pokarmowego, enzymy biorące udział w trawieniu i podstawowe zaburzenia enzymów trawiennych oraz skutki tych zaburzeń;
+A.W14. fizykochemiczne podstawy działania narządów zmysłów;
+A.W15. składniki krwi, preparaty krwi i krwiozastępcze oraz produkty krwiopochodne;
+A.W16. uwarunkowania genetyczne grup krwi oraz konfliktu serologicznego w układzie Rh;
+A.W17. podstawowe pojęcia z zakresu mikrobiologii i parazytologii;
+A.W18. budowę materiału genetycznego;
+A.W19. epidemiologię zarażeń wirusami i bakteriami oraz zakażeń grzybami i pasożytami;
+A.W20. zasady postępowania przeciwepidemicznego;
+A.W21. genetyczne mechanizmy nabywania lekooporności przez drobnoustroje i komórki nowotworowe;
+A.W22. inwazyjne formy lub stadia rozwojowe wybranych pasożytniczych grzybów, pierwotniaków, helmintów i stawonogów;
+A.W23. zasady funkcjonowania układu pasożyt żywiciel i podstawowe objawy chorobowe wywoływane przez pasożyty;
+A.W24. objawy zakażeń jatrogennych, drogi ich rozprzestrzeniania się i patogeny wywołujące zmiany w poszczególnych narządach;
+A.W25. zasady dezynfekcji, sterylizacji i postępowania antyseptycznego;
+A.W26. podstawy diagnostyki mikrobiologicznej i parazytologicznej;
+A.W27. podstawy rozwoju oraz mechanizmy działania układu odpornościowego, w tym swoiste i nieswoiste mechanizmy odporności humoralnej i komórkowej;
+A.W28. naturalne i sztuczne źródła promieniowania jonizującego oraz jego oddziaływanie z materią;
+A.W29. prawa fizyki wpływające na przepływ cieczy, a także czynniki oddziałujące na opór naczyniowy przepływu krwi;
+A.W30. budowę organizmu pod względem biochemicznym i podstawowe przemiany w nim zachodzące w stanie zdrowia i choroby;
+A.W31. budowę i mechanizmy syntezy oraz funkcje białek, lipidów i polisacharydów oraz interakcje makrocząsteczek w strukturach komórkowych i pozakomórkowych;
+A.W32. równowagę kwasowo-zasadową oraz mechanizm działania buforów i ich znaczenie w homeostazie ustrojowej;
+A.W33. podstawowe szlaki kataboliczne i anaboliczne oraz sposoby ich regulacji;
+A.W34. podstawowe zasady farmakoterapii;
+A.W35. pochodzenie, rodzaje i drogi podawania leków, mechanizm i efekty ich działania oraz procesy, jakim podlegają leki w organizmie, a także ich interakcje;
+A.W36. problematykę z zakresu farmakokinetyki i farmakodynamiki wybranych leków stosowanych w stanach nagłego zagrożenia zdrowotnego;
+A.W37. poszczególne grupy środków leczniczych, główne mechanizmy ich działania w organizmie i działania niepożądane;
+A.W38. wpływ leczenia farmakologicznego na fizjologiczne i biochemiczne procesy zachodzące w poszczególnych narządach;
+A.W39. rodzaje leków, które mogą być samodzielnie podawane przez ratownika medycznego, i ich szczegółową charakterystykę farmakologiczną;
+A.W40. podstawy farmakoterapii u kobiet w ciąży i osób starszych w stanie zagrożenia życia;
+A.W41. różnice w farmakoterapii osób dorosłych i dzieci w zakresie dotyczącym działań ratownika medycznego;
+A.W42. wpływ procesów chorobowych na metabolizm i eliminację leków;
+A.W43. problematykę z zakresu toksykologii, działań niepożądanych leków, zatruć lekami w podstawowym zakresie;
+A.W44. objawy najczęściej występujących ostrych zatruć, w tym alkoholami, narkotykami i innymi substancjami psychoaktywnymi, metalami ciężkimi oraz wybranymi grupami leków;
+A.W45. podstawowe zasady postępowania diagnostycznego w zatruciach;
+A.W46. patofizjologię narządów i układów organizmu;
+A.W47. szczegółowe zasady rozpoznawania i leczenia wstrząsu oraz jego rodzaje;
+A.W48. podstawowe pojęcia z zakresu patologii ogólnej dotyczące zmian wstecznych, zmian postępowych i zapaleń;
+A.W49. wybrane zagadnienia z zakresu patologii narządowej układu nerwowego, pokarmowego i moczowo-płciowego;
+A.W50. zasady ergonomii i higieny pracy z komputerem;
+A.W51. podstawowe narzędzia informatyczne i metody biostatyczne wykorzystywane w medycynie, w tym medyczne bazy danych i arkusze kalkulacyjne;
+A.W52. podstawowe metody analizy statystycznej wykorzystywane w badaniach populacyjnych i diagnostycznych;
+A.W53. możliwości współczesnej telemedycyny jako narzędzia wspomagania pracy ratownika medycznego.
+W zakresie umiejętności absolwent potrafi: A.U1. lokalizować poszczególne okolice ciała i znajdujące się w nich narządy oraz ustalać położenie narządów względem siebie;
+A.U2. wykazywać różnice w budowie ciała oraz w czynnościach narządów u osoby dorosłej i dziecka;
+A.U3. oceniać czynności narządów i układów organizmu;
+A.U4. rozpoznawać patofizjologiczne podstawy niewydolności układu krążenia;
+A.U5. rozpoznawać zaburzenia trawienia, z uwzględnieniem roli enzymów, w tym podstawowe zaburzenia enzymów trawiennych, oraz określać skutki tych zaburzeń;
+A.U6. rozpoznawać zaburzenia czynności nerek i ich wpływ na homeostazę organizmu;
+A.U7. rozpoznawać zarażenia wirusami i bakteriami oraz zakażenia grzybami i pasożytami, z uwzględnieniem geograficznego zasięgu ich występowania;
+A.U8. wykorzystywać znajomość praw fizyki do określenia wpływu na organizm czynników zewnętrznych, takich jak temperatura, przyspieszenie, ciśnienie, pole elektromagnetyczne oraz promieniowanie jonizujące;
+A.U9. stosować zasady ochrony radiologicznej;
+A.U10. obliczać stężenia molowe i procentowe związków oraz stężenia substancji w roztworach izoosmotycznych jedno- i wieloskładnikowych;
+A.U11. przewidywać kierunek procesów biochemicznych w zależności od stanu energetycznego komórek;
+A.U12. posługiwać się wybranymi podstawowymi technikami laboratoryjnymi;
+A.U13. wykonywać podstawowe obliczenia farmakokinetyczne;
+A.U14. stosować właściwe do sytuacji postępowanie epidemiologiczne;
+A.U15. dobierać leki w odpowiednich dawkach w celu korygowania zjawisk patologicznych w organizmie i poszczególnych narządach;
+A.U16. posługiwać się informatorami farmaceutycznymi i bazami danych o produktach leczniczych;
+A.U17. wiązać zmiany patologiczne stwierdzane w badaniu przedmiotowym ze zmianami zachodzącymi na poziomie komórkowym;
+A.U18. rozpoznawać zaburzenia oddychania, krążenia oraz czynności innych układów organizmu i narządów;
+A.U19. dobierać odpowiedni test statystyczny, przeprowadzać podstawowe analizy statystyczne i posługiwać się odpowiednimi metodami przedstawiania wyników.
+B. NAUKI BEHAWIORALNE I SPOŁECZNE (socjologia medycyny, psychologia, dydaktyka medyczna, etyka zawodowa ratownika medycznego, prawo medyczne, zdrowie publiczne, ekonomia i zarządzanie w ochronie zdrowia, badania naukowe w ratownictwie medycznym, język obcy, zajęcia sprawnościowe z elementami ratownictwa specjalistycznego) W zakresie wiedzy absolwent zna i rozumie: B.W1. wybrane teorie i metody modelowania rzeczywistości z perspektywy socjologii mające zastosowanie w ratownictwie medycznym;
+B.W2. zagadnienia związane z funkcjonowaniem podmiotów systemu ochrony zdrowia oraz z problemami ewaluacji i kontroli w ochronie zdrowia;
+B.W3. społeczny wymiar zdrowia i choroby, wpływ środowiska społecznego (rodziny, sieci relacji społecznych) oraz różnic społeczno-kulturowych na stan zdrowia;
+B.W4. rolę stresu społecznego w zachowaniach zdrowotnych i autodestrukcyjnych;
+B.W5. formy przemocy, modele wyjaśniające przemoc w rodzinie i w wybranych instytucjach oraz społeczne uwarunkowania różnych form przemocy;
+B.W6. postawy społeczne wobec znaczenia zdrowia, choroby, niepełnosprawności i starości, konsekwencje społeczne choroby i niepełnosprawności oraz bariery społeczno-kulturowe, a także koncepcję jakości życia uwarunkowaną stanem zdrowia;
+B.W7. znaczenie komunikacji werbalnej i niewerbalnej w procesie komunikowania się z pacjentami oraz pojęcie zaufania w interakcji z pacjentem;
+B.W8. psychospołeczne konsekwencje hospitalizacji i choroby przewlekłej;
+B.W9. społeczną rolę ratownika medycznego;
+B.W10. podstawowe psychologiczne mechanizmy funkcjonowania człowieka w zdrowiu i w chorobie;
+B.W11. rolę rodziny w procesie leczenia;
+B.W12. rolę stresu w etiopatogenezie i przebiegu chorób oraz mechanizmy radzenia sobie ze stresem;
+B.W13. zasady motywowania pacjentów do prozdrowotnych zachowań i informowania o niepomyślnym rokowaniu;
+B.W14. główne pojęcia, teorie, zasady etyczne służące jako ogólne ramy właściwego interpretowania i analizowania zagadnień moralno-medycznych;
+B.W15. podstawowe zagadnienia dotyczące światowych problemów zdrowotnych;
+B.W16. zasady zarządzania podmiotami systemu ochrony zdrowia;
+B.W17. prawne, organizacyjne i etyczne uwarunkowania wykonywania zawodu ratownika medycznego, z uwzględnieniem miejsca zatrudnienia i pełnionej funkcji;
+B.W18. podstawowe pojęcia z zakresu teorii poznania i logiki;
+B.W19. zasady komunikacji w sytuacjach typowych dla wykonywania zawodu ratownika medycznego;
+B.W20. pojęcia emocji, motywacji i osobowości, zaburzenia osobowości, istotę i strukturę zjawisk zachodzących w procesie przekazywania i wymiany informacji oraz modele i style komunikacji interpersonalnej;
+B.W21. zagadnienia dotyczące zespołu stresu pourazowego, reakcji fizjologicznych i emocjonalnych, poznawczych oraz interpersonalnych, a także mechanizmy funkcjonowania człowieka w sytuacjach trudnych;
+B.W22. techniki redukowania lęku i sposoby relaksacji oraz mechanizmy powstawania i objawy zespołu wypalenia zawodowego, a także metody zapobiegania powstaniu tego zespołu;
+B.W23. aspekty prawne, organizacyjne, etyczne i społeczne związane z przeszczepianiem tkanek, komórek i narządów;
+B.W24. przepisy prawa dotyczące ratownictwa medycznego, w tym zasady odpowiedzialności cywilnej, karnej oraz zawodowej ratownika medycznego;
+B.W25. strukturę i organizację systemu Państwowe Ratownictwo Medyczne;
+B.W26. pojęcie zdrowia i jego determinanty oraz choroby cywilizacyjne i zawodowe;
+B.W27. skutki zdrowotne wywołane działaniem szkodliwych czynników fizycznych, chemicznych i biologicznych na organizm, w tym zasady bezpieczeństwa własnego ratownika medycznego;
+B.W28. podstawowe zagadnienia dotyczące ekonomiki zdrowia i zarządzania finansami w systemie ochrony zdrowia;
+B.W29. zasady promocji zdrowia i profilaktyki chorób;
+B.W30. problematykę żywności i żywienia, higieny środowiska, higieny pracy, higieny dzieci i młodzieży oraz regulacje prawne w tym zakresie;
+B.W31. epidemiologię chorób zakaźnych i regulacje prawne w tym zakresie;
+B.W32. podstawowe pojęcia epidemiologiczne i podstawowe metody badań epidemiologicznych;
+B.W33. podstawowe zagadnienia z zakresu ergonomii, w tym zasady ergonomicznej organizacji pracy;
+B.W34. podstawy ekologii i ochrony środowiska, rodzaje zanieczyszczeń i sposoby ochrony środowiska;
+B.W35. problematykę postępowania w sytuacjach interwencji kryzysowych oraz zasady i metody radzenia sobie ze stresem przy wykonywaniu zawodu ratownika medycznego;
+B.W36. profilaktykę zachowań antyzdrowotnych przejawiających się w postaci używania środków odurzających lub substancji psychoaktywnych, spożywania alkoholu i palenia tytoniu oraz profilaktykę chorób cywilizacyjnych i psychicznych;
+B.W37. wpływ czynników środowiskowych na zdrowie człowieka i społeczeństwa, politykę zdrowotną państwa, programy zdrowotne oraz zagrożenia zdrowia, przy uwzględnieniu zmiennych takich jak wiek, miejsce zamieszkania, nauki lub pracy;
+B.W38. zadania nadzoru sanitarno-epidemiologicznego i Państwowej Inspekcji Sanitarnej;
+B.W39. podstawowe regulacje dotyczące organizacji i finansowania systemu ochrony zdrowia oraz powszechnego ubezpieczenia zdrowotnego;
+B.W40. metody promocji zdrowia, ze szczególnym uwzględnieniem edukacji zdrowotnej;
+B.W41. zasady zarządzania jakością oraz metody zapewnienia jakości;
+B.W42. sposoby zwiększania sprawności fizycznej;
+B.W43. rodzaje zagrożeń terrorystycznych oraz zasady przeciwstawiania się atakom terrorystycznym i bioterrorystycznym, a także prawne uwarunkowania zarządzania kryzysowego.
+W zakresie umiejętności absolwent potrafi: B.U1. wdrażać właściwe do sytuacji procedury postępowania epidemiologicznego;
+B.U2. rozpoznawać sytuacje, które wymagają konsultacji z przedstawicielem innego zawodu medycznego lub koordynatorem medycznym;
+B.U3. dbać o bezpieczeństwo własne, pacjentów, otoczenia i środowiska, przestrzegając zasad bezpieczeństwa i higieny pracy oraz przepisów i zasad regulujących postępowanie w przypadku różnych rodzajów zagrożeń;
+B.U4. udzielać informacji o podstawowych zabiegach i czynnościach dotyczących pacjenta oraz informacji na temat jego stanu zdrowia;
+B.U5. przestrzegać zasad etycznych podczas wykonywania działań zawodowych;
+B.U6. przestrzegać praw pacjenta;
+B.U7. uwzględniać podczas medycznych czynności ratunkowych oczekiwania pacjenta wynikające z uwarunkowań społeczno-kulturowych;
+B.U8. stosować się do zasad bezpieczeństwa sanitarno-epidemiologicznego oraz profilaktyki chorób zakaźnych i niezakaźnych;
+B.U9. identyfikować czynniki ryzyka wystąpienia przemocy, rozpoznawać przemoc i odpowiednio na nią reagować;
+B.U10. stosować w podstawowym zakresie psychologiczne interwencje motywujące i wspierające;
+B.U11. komunikować się ze współpracownikami w ramach zespołu, udzielając im informacji zwrotnej i wsparcia;
+B.U12. podnosić swoje kwalifikacje i przekazywać wiedzę innym;
+B.U13. zapobiegać zespołowi stresu pourazowego po traumatycznych wydarzeniach, w tym przeprowadzać podsumowanie zdarzenia traumatycznego (debriefing) w zespole;
+B.U14. radzić sobie ze stresem przy wykonywaniu zawodu ratownika medycznego;
+B.U15. oceniać funkcjonowanie człowieka w sytuacjach trudnych (stres, konflikt, frustracja);
+B.U16. porozumiewać się z pacjentem w jednym z języków obcych na poziomie B2 Europejskiego Systemu Opisu Kształcenia Językowego;
+B.U17. oceniać narażenie na substancje szkodliwe w środowisku człowieka i stosować zasady monitoringu ergonomicznego;
+B.U18. stosować działania na rzecz ochrony środowiska;
+B.U19. określać wzajemne relacje między człowiekiem a środowiskiem;
+B.U20. wykonywać czynności z zakresu ratownictwa medycznego i udzielać świadczeń zdrowotnych z zachowaniem regulacji prawnych dotyczących wykonywania zawodu ratownika medycznego.
+C. NAUKI KLINICZNE (pediatria, choroby wewnętrzne z elementami onkologii, neurologia, psychiatria, choroby zakaźne, kardiologia, medycyna katastrof, farmakologia i toksykologia kliniczna, podstawowe zabiegi medyczne, techniki zabiegów medycznych, medycyna ratunkowa, medyczne czynności ratunkowe, procedury ratunkowe przedszpitalne, procedury ratunkowe wewnątrzszpitalne, ginekologia i położnictwo, chirurgia, ortopedia i traumatologia narządu ruchu, intensywna terapia, neurochirurgia, okulistyka, laryngologia, urologia, medycyna sądowa, choroby tropikalne, medycyna taktyczna) W zakresie wiedzy absolwent zna i rozumie: C.W1. zasady postępowania w najczęstszych chorobach dzieci, z uwzględnieniem odrębności uzależnionych od wieku;
+C.W2. podstawowe normy rozwojowe badania przedmiotowego dziecka;
+C.W3. wybrane choroby układu oddechowego, układu krążenia i przewodu pokarmowego oraz choroby neurologiczne u dzieci;
+C.W4. najczęstsze choroby zakaźne wieku dziecięcego;
+C.W5. odrębności morfologiczno-fizjologiczne poszczególnych narządów i układów organizmu w wieku rozwojowym;
+C.W6. fizjologię i patofizjologię okresu noworodkowego;
+C.W7. wybrane wady wrodzone i choroby uwarunkowane genetycznie;
+C.W8. problemy wynikające z niepełnosprawności i chorób przewlekłych;
+C.W9. symptomatologię ogólną zaburzeń psychicznych i zasady ich klasyfikacji według głównych systemów klasyfikacyjnych;
+C.W10. objawy najczęstszych chorób psychicznych, zasady ich diagnozowania postępowania terapeutycznego;
+C.W11. specyfikę zaburzeń psychicznych u dzieci, młodzieży i osób starszych;
+C.W12. regulacje prawne dotyczące ochrony zdrowia psychicznego, ze szczególnym uwzględnieniem zasad przyjęcia do szpitala psychiatrycznego;
+C.W13. rodzaje środków przymusu bezpośredniego i zasady ich stosowania w systemie ochrony zdrowia;
+C.W14. uwarunkowania środowiskowe i epidemiologiczne najczęstszych nowotworów;
+C.W15. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych problemach medycyny paliatywnej;
+C.W16. zasady postępowania ratunkowego w przypadku pacjenta w stanie terminalnym;
+C.W17. mechanizmy prowadzące do nagłych zagrożeń zdrowia i życia;
+C.W18. mechanizmy działania podstawowych grup leków i leków podawanych samodzielnie przez ratownika medycznego;
+C.W19. metody ograniczania bólu, ze szczególnym uwzględnieniem farmakoterapii dzieci;
+C.W20. skale oceny bólu i możliwości wdrożenia leczenia przeciwbólowego przez ratownika medycznego;
+i C.W21. zasady dekontaminacji;
+C.W22. techniki symulacji medycznej w niezabiegowych dziedzinach medycyny;
+C.W23. stany zagrożenia w chorobach nowotworowych i hematologicznych, zaburzeniach układu krzepnięcia, zespole wykrzepiania wewnątrznaczyniowego i ostrej białaczce oraz zasady postępowania przedszpitalnego w tych stanach;
+C.W24. zasady badania podmiotowego w zakresie niezbędnym do prowadzenia medycznych czynności ratunkowych;
+C.W25. zasady badania przedmiotowego w zakresie niezbędnym do prowadzenia medycznych czynności ratunkowych i udzielania świadczeń zdrowotnych innych niż medyczne czynności ratunkowe;
+C.W26. przyczyny i rodzaje bólu w klatce piersiowej oraz jego diagnostykę;
+C.W27. problematykę ostrego zespołu wieńcowego, zawału serca, nadciśnienia tętniczego, rozwarstwienia aorty, niewydolności krążenia, ostrego niedokrwienia kończyny, obrzęku płuc i zatorowości płucnej;
+C.W28. problematykę ostrej niewydolności oddechowej;
+C.W29. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w zespole ostrej niewydolności oddechowej, zaostrzeniu przewlekłej obturacyjnej choroby płuc, astmie, ostrych stanach zapalnych dróg oddechowych i odmie opłucnowej;
+C.W30. przyczyny, objawy i postępowanie w ostrej niewydolności nerek;
+C.W31. wybrane choroby przewodu pokarmowego;
+C.W32. zagadnienia śpiączki metabolicznej i stanów nagłego zagrożenia w endokrynologii;
+C.W33. metody oceny stanu odżywienia;
+C.W34. przyczyny, objawy, zasady diagnozowania i postępowania profilaktycznego w najczęstszych chorobach bakteryjnych, wirusowych, pasożytniczych i grzybicach, w tym zakażeniach pneumokokowych i meningokokowych, wirusowym zapaleniu wątroby, nabytym niedoborze odporności AIDS, sepsie i zakażeniach szpitalnych;
+C.W35. leki stosowane w nagłych chorobach internistycznych, neurologicznych i psychiatrycznych;
+C.W36. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach układu nerwowego;
+C.W37. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w bólach głowy i chorobach naczyniowych mózgu, w szczególności w udarze mózgu oraz padaczce;
+C.W38. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w zakażeniach układu nerwowego, w szczególności w zapaleniu opon mózgowo-rdzeniowych;
+C.W39. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w chorobach otępiennych;
+C.W40. rodzaje badań obrazowych oraz obraz radiologiczny podstawowych chorób;
+C.W41. zasady łańcucha przeżycia;
+C.W42. zasady udzielania pierwszej pomocy pacjentom nieurazowym;
+C.W43. zasady ewakuacji poszkodowanych z pojazdu;
+C.W44. zasady udzielania pierwszej pomocy ofiarom wypadków;
+C.W45. zasady i technikę wykonywania opatrunków;
+C.W46. zasady przygotowania do zabiegów medycznych w stanach zagrożenia życia;
+C.W47. zasady postępowania z pacjentem z założonym cewnikiem zewnętrznym;
+C.W48. zasady wykonywania toalety drzewa oskrzelowego u pacjenta zaintubowanego;
+C.W49. zasady wykonywania toalety u pacjenta z założoną rurką tracheostomijną i pielęgnacji tracheostomii;
+C.W50. techniki zabiegów medycznych wykonywanych samodzielnie przez ratownika medycznego;
+C.W51. zasady aseptyki i antyseptyki;
+C.W52. zasady zabezpieczania materiału biologicznego do badań;
+C.W53. zasady oceny stanu pacjenta w celu ustalenia sposobu postępowania i podjęcia albo odstąpienia od medycznych czynności ratunkowych, w tym w przypadku rozpoznania zgonu;
+C.W54. wskazania do układania pacjenta w pozycji właściwej dla jego stanu lub odniesionych obrażeń;
+C.W55. przyczyny i objawy nagłego zatrzymania krążenia;
+C.W56. zasady prowadzenia podstawowej i zaawansowanej resuscytacji krążeniowo-oddechowej u osób dorosłych i dzieci;
+C.W57. wskazania do odsysania dróg oddechowych i techniki jego wykonywania;
+C.W58. wskazania do przyrządowego i bezprzyrządowego przywracania drożności dróg oddechowych i techniki ich wykonywania;
+C.W59. wskazania do podjęcia tlenoterapii biernej lub wentylacji zastępczej powietrzem lub tlenem, ręcznie lub mechanicznie z użyciem respiratora i techniki ich wykonywania;
+C.W60. wskazania do intubacji dotchawiczej w laryngoskopii bezpośredniej przez usta bez użycia środków zwiotczających i do prowadzenia wentylacji zastępczej oraz techniki ich wykonywania;
+C.W61. wskazania do wykonania defibrylacji manualnej, zautomatyzowanej i półautomatycznej oraz techniki ich wykonania;
+C.W62. wskazania do wykonania kaniulacji żył obwodowych kończyn górnych i dolnych oraz żyły szyjnej zewnętrznej, a także technikę jej wykonania;
+i C.W63. zasady monitorowania czynności układu oddechowego i układu krążenia metodami nieinwazyjnymi;
+C.W64. zasady wykonywania dostępu doszpikowego przy użyciu gotowego zestawu;
+C.W65. wskazania do podawania leków drogą dożylną, w tym przez porty naczyniowe, domięśniową, podskórną, dotchawiczą, doustną, doodbytniczą, wziewną doszpikową oraz techniki tego podawania;
+C.W66. wybrane skale oceny śpiączki oraz skale urazowe i rokownicze;
+C.W67. przyczyny, objawy, zasady diagnozowania i postępowania terapeutycznego w najczęstszych chorobach wymagających interwencji chirurgicznej, z uwzględnieniem odrębności chorób wieku dziecięcego;
+C.W68. wybrane zagadnienia z zakresu traumatologii dziecięcej;
+C.W69. wskazania do stosowania intensywnej terapii i zasady jej stosowania;
+C.W70. objawy i rodzaje odmy opłucnowej;
+C.W71. objawy krwiaka opłucnej, wiotkiej klatki piersiowej i złamania żeber;
+C.W72. technikę oznaczania stężeń parametrów krytycznych;
+C.W73. procedury medyczne stosowane przez ratownika medycznego, w szczególności zaopatrywanie ran i oparzeń, tamowanie krwotoków, unieruchamianie złamań, zwichnięć i skręceń oraz unieruchamianie kręgosłupa, ze szczególnym uwzględnieniem odcinka szyjnego, a także podawanie leków;
+C.W74. zasady podejmowania działań zabezpieczających w celu ograniczenia skutków zdrowotnych zdarzenia;
+C.W75. zasady segregacji medycznej przedszpitalnej pierwotnej i wtórnej oraz segregacji szpitalnej;
+C.W76. techniki przygotowania pacjenta do transportu i opieki medycznej podczas transportu;
+C.W77. techniki przyjęcia porodu nagłego w warunkach pozaszpitalnych;
+C.W78. postępowanie przedszpitalne w stanach nagłego zagrożenia zdrowotnego u osób dorosłych i dzieci;
+C.W79. rodzaje terapii inwazyjnej stosowane w ramach postępowania przedszpitalnego;
+C.W80. rodzaje terapii inwazyjnej stosowane w SOR;
+C.W81. stany zagrożenia w chorobach nowotworowych oraz postępowanie przedszpitalne i w SOR w przypadku takich zagrożeń;
+C.W82. zasady transportu pacjentów z obrażeniami ciała;
+C.W83. procedury specjalistyczne w stanach nagłych pochodzenia wewnętrznego, w szczególności takie jak: elektrostymulacja, kardiowersja, pierwotna przezskórna interwencja wieńcowa (Percutaneous coronary intervention, PCI), kontrapulsacja wewnątrzaortalna (Intra-aortic balloon pump, IABP), dializa, sztuczna wentylacja i formy krążenia pozaustrojowego;
+C.W84. wskazania do leczenia hiperbarycznego;
+C.W85. zagrożenia środowiskowe;
+C.W86. rodzaje katastrof, procedury medyczne i działania ratunkowe podejmowane w zdarzeniach mnogich i masowych oraz katastrofach, a także w zdarzeniach z wystąpieniem zagrożeń chemicznych, biologicznych, radiacyjnych lub nuklearnych;
+C.W87. etyczne aspekty postępowania ratowniczego w zdarzeniach mnogich i masowych oraz katastrofach;
+C.W88. zastosowanie symulacji medycznej w nauczaniu procedur zabiegowych;
+C.W89. zaburzenia równowagi kwasowo-zasadowej i wodno-elektrolitowej oraz zasady postępowania przedszpitalnego i w SOR w takich zaburzeniach;
+C.W90. zasady postępowania profilaktycznego zakażeń w SOR;
+C.W91. zasady monitorowania stanu pacjenta w SOR;
+C.W92. procedury specjalistyczne w stanach nagłych pochodzenia urazowego stosowane w ramach postępowania przedszpitalnego i w SOR;
+C.W93. rodzaje obrażeń ciała, ich definicje oraz zasady kwalifikacji do centrum urazowego i centrum urazowego dla dzieci;
+C.W94. zasady funkcjonowania centrum urazowego i centrum urazowego dla dzieci;
+C.W95. zasady postępowania przedszpitalnego i w SOR w obrażeniach: czaszkowo-mózgowych, kręgosłupa i rdzenia kręgowego, kończyn, jamy brzusznej i klatki piersiowej oraz w przypadku wstrząsu;
+C.W96. procedurę kardiowersji elektrycznej i elektrostymulacji zewnętrznej;
+C.W97. zasady cewnikowania pęcherza moczowego;
+C.W98. procedurę zakładania sondy żołądkowej i płukania żołądka;
+C.W99. wybrane stany nagłe okulistyczne i zasady postępowania przedszpitalnego w tym zakresie;
+C.W100. wybrane stany nagłe laryngologiczne i zasady postępowania przedszpitalnego w tym zakresie;
+C.W101. stany zagrożenia zdrowotnego w ginekologii i położnictwie;
+C.W102. zasady funkcjonowania systemu Państwowe Ratownictwo Medyczne;
+C.W103. rolę i znaczenie Lotniczego Pogotowia Ratunkowego w systemie Państwowe Ratownictwo Medyczne;
+C.W104. zasady wysuwania podejrzenia i rozpoznawania śmierci mózgu;
+C.W105. podstawowe techniki obrazowe;
+C.W106. wskazania, przeciwwskazania i przygotowanie pacjentów do poszczególnych rodzajów badań obrazowych oraz przeciwwskazania do stosowania środków kontrastujących;
+C.W107. mechanizmy, cele i zasady leczenia uzależnień od substancji psychoaktywnych;
+C.W108. podstawowe zagadnienia z zakresu medycyny sądowej.
+W zakresie umiejętności absolwent potrafi: C.U1. oceniać stan pacjenta w celu ustalenia sposobu postępowania ratunkowego;
+C.U2. układać pacjenta do badania obrazowego;
+C.U3. postępować z dzieckiem w oparciu o znajomość symptomatologii najczęstszych chorób dziecięcych;
+C.U4. przeprowadzać badanie przedmiotowe pacjenta;
+C.U5. dostosowywać sposób postępowania do wieku dziecka;
+C.U6. oceniać stan noworodka w skali APGAR;
+C.U7. przeprowadzać wywiad medyczny z pacjentem dorosłym w zakresie niezbędnym do podjęcia medycznych czynności ratunkowych;
+C.U8. oceniać stan świadomości pacjenta;
+C.U9. układać pacjenta w pozycji właściwej dla rodzaju choroby lub odniesionych obrażeń ciała;
+C.U10. przeprowadzać badanie fizykalne pacjenta dorosłego w zakresie niezbędnym do ustalenia jego stanu;
+C.U11. monitorować czynność układu oddechowego, z uwzględnieniem pulsoksymetrii, kapnometrii i kapnografii;
+C.U12. interpretować wyniki badań pacjenta z przewlekłą niewydolnością oddechową;
+C.U13. wykonywać elektrokardiogram i interpretować go w podstawowym zakresie;
+C.U14. monitorować czynność układu krążenia metodami nieinwazyjnymi;
+C.U15. oceniać i opisywać stan somatyczny i psychiczny pacjenta;
+C.U16. przeprowadzać analizę ewentualnych działań niepożądanych poszczególnych leków oraz interakcji między nimi;
+C.U17. oceniać stan neurologiczny pacjenta;
+C.U18. monitorować stan pacjenta metodami nieinwazyjnymi;
+C.U19. prowadzić dokumentację medyczną w zakresie wykonywanych czynności, w tym w przypadku zgonu pacjenta, urodzenia dziecka martwego i odstąpienia od medycznych czynności ratunkowych;
+C.U20. podawać pacjentowi leki i płyny;
+C.U21. oznaczać stężenie glukozy z użyciem glukometru;
+C.U22. zakładać zgłębnik dożołądkowy;
+C.U23. zakładać cewnik do pęcherza moczowego;
+C.U24. asystować przy czynnościach przygotowawczych do transplantacji narządów;
+C.U25. identyfikować na miejscu zdarzenia sytuację narażenia na czynniki szkodliwe i niebezpieczne;
+C.U26. przygotowywać pacjenta do transportu;
+C.U27. identyfikować błędy i zaniedbania w praktyce ratownika medycznego;
+C.U28. monitorować stan pacjenta podczas czynności medycznych i transportowych;
+C.U29. stosować leczenie przeciwbólowe;
+C.U30. oceniać stopień nasilenia bólu według znanych skal;
+C.U31. rozpoznawać stan zagrożenia życia u pacjenta po przeszczepie narządu;
+C.U32. monitorować czynności życiowe pacjenta podczas badania diagnostycznego;
+C.U33. interpretować wyniki podstawowych badań toksykologicznych;
+C.U34. rozpoznawać toksydromy;
+C.U35. oceniać wskazania do transportu pacjenta do ośrodka toksykologicznego, hiperbarycznego, replantacyjnego i kardiologii inwazyjnej oraz centrum leczenia oparzeń, centrum urazowego lub centrum urazowego dla dzieci;
+C.U36. szacować niebezpieczeństwo toksykologiczne w określonych grupach wiekowych i w różnych stanach klinicznych;
+C.U37. wiązać obrazy uszkodzeń tkankowych i narządowych z objawami klinicznymi choroby;
+C.U38. prowadzić podstawowe i zaawansowane czynności resuscytacyjne u osób dorosłych, dzieci, niemowląt i noworodków, z uwzględnieniem prawidłowego zastosowania urządzeń wspomagających resuscytację (urządzenia do kompresji klatki piersiowej, respiratora);
+C.U39. przywracać drożność dróg oddechowych metodami bezprzyrządowymi;
+C.U40. przyrządowo udrażniać drogi oddechowe metodami nadgłośniowymi;
+C.U41. wykonywać intubację dotchawiczą w laryngoskopii bezpośredniej i pośredniej;
+C.U42. wykonywać konikopunkcję;
+C.U43. wdrażać tlenoterapię zależnie od potrzeb pacjenta i wspomagać oddech;
+C.U44. stosować się do zasad aseptyki i antyseptyki, zaopatrywać prostą ranę, zakładać i zmieniać jałowy opatrunek chirurgiczny;
+C.U45. prowadzić wentylację zastępczą z użyciem worka samorozprężalnego i respiratora transportowego;
+C.U46. wykonywać defibrylację elektryczną z użyciem defibrylatora manualnego i zautomatyzowanego;
+C.U47. wykonywać kardiowersję i elektrostymulację zewnętrzną serca;
+C.U48. oceniać nagłe zagrożenia neurologiczne u pacjenta;
+C.U49. wykonywać dostęp doszpikowy przy użyciu gotowego zestawu;
+C.U50. pobierać krew oraz zabezpieczać materiał do badań laboratoryjnych, mikrobiologicznych i toksykologicznych;
+C.U51. tamować krwotoki zewnętrzne i unieruchamiać kończyny po urazie;
+C.U52. stabilizować i unieruchamiać kręgosłup;
+C.U53. wdrażać odpowiednie postępowanie w odmie opłucnowej zagrażającej życiu;
+C.U54. stosować skale ciężkości obrażeń;
+C.U55. przyjmować poród nagły w warunkach pozaszpitalnych;
+C.U56. decydować o niepodejmowaniu resuscytacji krążeniowo-oddechowej lub o odstąpieniu od jej przeprowadzenia;
+C.U57. rozpoznawać pewne znamiona śmierci;
+C.U58. dokonywać segregacji medycznej przedszpitalnej pierwotnej i wtórnej oraz segregacji szpitalnej;
+C.U59. działać zespołowo, udzielając pomocy w trudnych warunkach terenowych w dzień i w nocy oraz w warunkach znacznego obciążenia fizycznego i psychicznego;
+C.U60. zaopatrywać krwawienie zewnętrzne;
+C.U61. transportować pacjenta w warunkach przedszpitalnych, wewnątrzszpitalnych i międzyszpitalnych;
+C.U62. identyfikować błędy i zaniedbania w praktyce ratownika medycznego;
+C.U63. identyfikować zagrożenia obrażeń: czaszkowo-mózgowych, klatki piersiowej, jamy brzusznej, kończyn, kręgosłupa i rdzenia kręgowego oraz miednicy, a także wdrażać postępowanie ratunkowe w przypadku tych obrażeń;
+C.U64. identyfikować wskazania do transportu do centrum urazowego lub centrum urazowego dla dzieci i zgłaszać obecność kryteriów kwalifikacji kierownikowi zespołu urazowego lub kierownikowi zespołu urazowego dziecięcego;
+C.U65. wykonywać procedury medyczne pod nadzorem lub na zlecenie lekarza;
+C.U66. dostosowywać postępowanie ratunkowe do stanu pacjenta;
+C.U67. monitorować stan pacjenta podczas badania obrazowego.
+IV. SPOSÓB WERYFIKACJI OSIĄGNIĘTYCH EFEKTÓW UCZENIA SIĘ
+1. Weryfikacja osiągniętych efektów uczenia się wymaga zastosowania zróżnicowanych form sprawdzania, adekwatnych do kategorii wiedzy, umiejętności i kompetencji społecznych, których dotyczą te efekty.
+2. Osiągnięte efekty uczenia się w kategorii wiedzy można weryfikować za pomocą egzaminów pisemnych lub ustnych.
+3. Jako formy egzaminów pisemnych można stosować eseje, raporty, krótkie ustrukturyzowane pytania, testy jednokrotnego wyboru, testy wielokrotnego wyboru (Multiple choice questions, MCQ), testy wielokrotnej odpowiedzi (Multiple response questions, MRQ), testy wyboru Tak/Nie lub dopasowania odpowiedzi.
+4. Egzaminy powinny być standaryzowane i są ukierunkowane na sprawdzenie wiedzy na poziomie wyższym niż sama znajomość zagadnień (poziom zrozumienia zagadnień, umiejętność analizy i syntezy informacji oraz rozwiązywania problemów).
+5. Weryfikacja osiągniętych efektów uczenia się w kategorii umiejętności w zakresie komunikowania się oraz umiejętności proceduralnych (manualnych) wymaga bezpośredniej obserwacji studenta demonstrującego umiejętność w czasie tradycyjnego egzaminu klinicznego lub egzaminu standaryzowanego w warunkach zapewniających przejrzystość i obiektywizm formułowania ocen.
+6. Zajęcia sprawnościowe kończą się zaliczeniem umożliwiającym weryfikację osiągniętych efektów uczenia się.
+7. Egzamin dyplomowy obejmuje część teoretyczną i praktyczną. Egzamin powinien być przeprowadzony w formie umożliwiającej sprawdzenie osiągniętych efektów uczenia się w kategorii wiedzy i umiejętności objętych programem studiów.
+

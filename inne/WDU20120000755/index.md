@@ -8,10 +8,12 @@ pos: 755
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 11 maja 2012 r. o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.
+# o zmianie zakresu obowiązywania Umowy o utworzeniu Europejskiego Banku Odbudowy i Rozwoju, sporządzonej w Paryżu dnia 29 maja 1990 r.
+
+*USTAWA z dnia 11 maja 2012 r.*
 
 | Pole | Wartość |
 |---|---|

@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-02-16 |
 | Data wydania | 2007-03-23 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/343/text.pdf) |
 
 Art. 68-70. (pominięte)

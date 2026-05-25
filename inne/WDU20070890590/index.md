@@ -62,8 +62,9 @@ source: "isap-pdf"
     - **a)** charakterystykę zagrożeń oraz ocenę ryzyka ich wystąpienia, w tym dotyczących infrastruktury krytycznej, oraz mapy ryzyka i mapy zagrożeń,
     - **b)** zadania i obowiązki uczestników zarządzania kryzysowego w formie siatki bezpieczeństwa,
     - **c)** zestawienie sił i środków planowanych do wykorzystania w sytuacjach kryzysowych,
-    - **d)** zadania określone planami działań krótkoterminowych, o których mowa w art. 92 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2021 r. poz. 1973, z późn. zm. );
+    - **d)** zadania określone planami działań krótkoterminowych, o których mowa w art. 92 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863 oraz z 2026 r. poz. 176 i
 
+- **426)** ;
 - **2)** zespół przedsięwzięć na wypadek sytuacji kryzysowych, a w tym:
     - **a)** zadania w zakresie monitorowania zagrożeń,
     - **b)** tryb uruchamiania niezbędnych sił i środków, uczestniczących w realizacji planowanych przedsięwzięć na wypadek sytuacji kryzysowej,
@@ -130,7 +131,7 @@ source: "isap-pdf"
 
 4. Programem obejmuje się infrastrukturę krytyczną w podziale na systemy, o których mowa w art. 3 pkt 2.
 
-5. Program podlega aktualizacji nie rzadziej niż raz na dwa lata.
+5. Program podlega aktualizacji nierzadziej niż raz na dwa lata.
 
 6. Do programu stosuje się przepisy o ochronie informacji niejawnych.
 
@@ -165,7 +166,7 @@ source: "isap-pdf"
 
 5a. Właściciele, posiadacze samoistni i zależni, o których mowa w ust. 5, mają obowiązek wyznaczyć, w terminie 30 dni od dnia otrzymania informacji, o której mowa w art. 5b ust. 7 pkt 4, osobę odpowiedzialną za utrzymywanie kontaktów z podmiotami właściwymi w zakresie ochrony infrastruktury krytycznej.
 
-5b. Właściciele, posiadacze samoistni i zależni, o których mowa w ust. 5, będący jednocześnie operatorami usług kluczowych w rozumieniu ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2022 r. poz. 1863), uwzględniają w planach ochrony infrastruktury krytycznej dokumentację dotyczącą cyberbezpieczeństwa systemów informacyjnych wykorzystywanych do świadczenia usług kluczowych zgodnie z zakresem informacji określonym w przepisach wydanych na podstawie art. 10 ust. 5 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
+5b. Właściciele, posiadacze samoistni i zależni, o których mowa w ust. 5, będący jednocześnie operatorami usług kluczowych w rozumieniu ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252), uwzględniają w planach ochrony infrastruktury krytycznej dokumentację dotyczącą cyberbezpieczeństwa systemów informacyjnych wykorzystywanych do świadczenia usług kluczowych zgodnie z zakresem informacji określonym w przepisach wydanych na podstawie art. 10 ust. 5 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa.
 
 6. Jeżeli dla obiektów, instalacji, urządzeń i usług infrastruktury krytycznej istnieją, tworzone na podstawie innych przepisów, plany odpowiadające wymogom planu ochrony infrastruktury krytycznej, uznaje się, iż wymóg posiadania takiego planu jest spełniony.
 
@@ -186,9 +187,7 @@ source: "isap-pdf"
     - **b)** kryterium skutków ekonomicznych – oceniane w odniesieniu do znaczenia strat ekonomicznych lub pogorszenia jakości towarów lub usług, w tym potencjalnych skutków ekologicznych,
     - **c)** kryterium skutków społecznych – oceniane w odniesieniu do wpływu na zaufanie opinii publicznej, cierpień fizycznych osób i zakłócenia codziennego życia, w tym utraty podstawowych usług.
 
-2. Infrastruktura krytyczna jest uznawana za potencjalną europejską infrastrukturę krytyczną po spełnieniu łącznie kolejnych wymogów, o których mowa w ust. 1 pkt 1–3 oraz co najmniej jednego z wymogów, o których mowa w ust. 1 pkt
-
-4.
+2. Infrastruktura krytyczna jest uznawana za potencjalną europejską infrastrukturę krytyczną po spełnieniu łącznie kolejnych wymogów, o których mowa w ust. 1 pkt 1–3 oraz co najmniej jednego z wymogów, o których mowa w ust. 1 pkt 4.
 
 **Art. 6b.**
 
@@ -248,7 +247,7 @@ source: "isap-pdf"
 - **3)** organy samorządu terytorialnego, samorządowe osoby prawne oraz samorządowe jednostki organizacyjne nieposiadające osobowości prawnej;
 - **4)** osoby prawne, inne niż określone w pkt 2, i jednostki organizacyjne nieposiadające osobowości prawnej oraz przedsiębiorców.
 
-2. W sytuacji kryzysowej minister kierujący działem administracji rządowej, zwany dalej „ministrem wydającym polecenie”, może wydawać w zakresie swojego działania, określonego zgodnie z przepisami ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370), polecenia obowiązujące:
+2. W sytuacji kryzysowej minister kierujący działem administracji rządowej, zwany dalej „ministrem wydającym polecenie”, może wydawać w zakresie swojego działania, określonego zgodnie z przepisami ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2025 r. poz. 1275 i 1846 oraz z 2026 r. poz. 160 i 187), polecenia obowiązujące:
 
 - **1)** podległe mu lub przez niego nadzorowane organy administracji rządowej;
 - **2)** podległe mu lub przez niego nadzorowane państwowe osoby prawne oraz państwowe jednostki organizacyjne posiadające osobowość prawną;
@@ -267,7 +266,7 @@ source: "isap-pdf"
 
 5. Wykonywanie poleceń, o których mowa w ust. 1, może być finansowane z budżetu państwa lub innych źródeł określonych na podstawie odrębnych przepisów. Polecenia, o których mowa w ust. 2, są finansowane z części budżetowej, której dysponentem jest minister wydający polecenie.
 
-6. W przypadku wydania polecenia, o którym mowa w ust. 1, minister właściwy do spraw finansów publicznych może utworzyć w celu finansowania nową rezerwę celową i przenieść do tej rezerwy kwoty wydatków zablokowanych na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ).
+6. W przypadku wydania polecenia, o którym mowa w ust. 1, minister właściwy do spraw finansów publicznych może utworzyć w celu finansowania nową rezerwę celową i przenieść do tej rezerwy kwoty wydatków zablokowanych na podstawie art. 177 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426).
 
 7. Wniosek, o którym mowa w ust. 1, zawiera co najmniej:
 
@@ -283,11 +282,11 @@ source: "isap-pdf"
 
 9. Polecenia, o których mowa w ust. 1 i 2, są wydawane po uzyskaniu opinii Prezesa Prokuratorii Generalnej Rzeczypospolitej Polskiej i podlegają natychmiastowemu wykonaniu z chwilą ich doręczenia.
 
-10. Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej wydaje opinię o projekcie polecenia niezwłocznie, nie później jednak niż po upływie 3 dni od dnia przekazania projektu polecenia.
+10. Prezes Prokuratorii Generalnej Rzeczypospolitej Polskiej wydaje opinię o projekcie polecenia niezwłocznie, niepóźniej jednak niż po upływie 3 dni od dnia przekazania projektu polecenia.
 
 11. W uzasadnionych przypadkach polecenia, o których mowa w ust. 1, mogą być wydane bez wystąpienia o opinię, o której mowa w ust. 9, lub przed jej uzyskaniem.
 
-12. Do wydawania poleceń, o których mowa w ust. 1 i 2, ich zmiany oraz uchylenia, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572), z wyjątkiem przepisów dotyczących doręczeń oraz sprostowań.
+12. Do wydawania poleceń, o których mowa w ust. 1 i 2, ich zmiany oraz uchylenia, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691), z wyjątkiem przepisów dotyczących doręczeń oraz sprostowań.
 
 13. Polecenia, o których mowa w ust. 1 i 2, zawierają w szczególności:
 
@@ -307,7 +306,7 @@ source: "isap-pdf"
 
 17. Prezes Rady Ministrów może wystąpić o opinię w sprawie wniosku o uchylenie lub zmianę polecenia do ministra, o którym mowa w ust. 1 oraz w ust. 13 pkt 7.
 
-18. Od poleceń, o których mowa w ust. 1 i 2, oraz od ich uchylenia lub zmiany przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2024 r. poz. 935). Stronami postępowania mogą być skarżący, podmiot objęty poleceniem lub minister, który złożył wniosek o wydanie, zmianę lub uchylenie polecenia.
+18. Od poleceń, o których mowa w ust. 1 i 2, oraz od ich uchylenia lub zmiany przysługuje prawo wniesienia do sądu administracyjnego skargi na zasadach i w trybie określonych dla aktów lub czynności, o których mowa w art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2026 r. poz. 143). Stronami postępowania mogą być skarżący, podmiot objęty poleceniem lub minister, który złożył wniosek o wydanie, zmianę lub uchylenie polecenia.
 
 19. Do ministra, który złożył wniosek o wydanie polecenia, stosuje się przepisy ustawy z dnia 30 sierpnia 2002 r. – Prawo o postępowaniu przed sądami administracyjnymi dotyczące organu, którego działanie jest przedmiotem skargi.
 
@@ -332,7 +331,7 @@ source: "isap-pdf"
 
 **Art. 7c.**
 
-1. Do zamówień na usługi lub dostawy niezbędne do realizacji poleceń, o których mowa w art. 7a ust. 1 oraz 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320).
+1. Do zamówień na usługi lub dostawy niezbędne do realizacji poleceń, o których mowa w art. 7a ust. 1 oraz 2, nie stosuje się przepisów ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ).
 
 2. Zamawiający, w terminie 7 dni od dnia udzielenia zamówienia, o którym mowa w ust. 1, zamieszcza w Biuletynie Zamówień Publicznych informację o udzieleniu tego zamówienia, w której podaje:
 
@@ -722,9 +721,9 @@ source: "isap-pdf"
 
 2. Właściciele oraz posiadacze samoistni i zależni obiektów, instalacji, urządzeń i usług infrastruktury krytycznej niezwłocznie informują dyrektora Centrum oraz właściwe terytorialnie wojewódzkie centrum zarządzania kryzysowego o zakłóceniu funkcjonowania tej infrastruktury, które może skutkować wystąpieniem na wskazanym obszarze sytuacji kryzysowej.
 
-3. Operator ruchomej publicznej sieci telekomunikacyjnej w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221), zwany dalej „operatorem”, jest obowiązany, na żądanie dyrektora Centrum, do niezwłocznego, nieodpłatnego wysłania lub wysyłania, komunikatów do wszystkich lub określonych przez dyrektora Centrum grup użytkowników końcowych, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez dyrektora Centrum okres.
+3. Operator ruchomej publicznej sieci telekomunikacyjnej w rozumieniu przepisów ustawy z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221, z 2025 r. poz. 637 i 820 oraz z 2026 r. poz. 252), zwany dalej „operatorem”, jest obowiązany, na żądanie dyrektora Centrum, do niezwłocznego, nieodpłatnego wysłania lub wysyłania, komunikatów do wszystkich lub określonych przez dyrektora Centrum grup użytkowników końcowych, w szczególności przebywających na określonym przez niego obszarze, jednorazowo lub przez wskazany przez dyrektora Centrum okres.
 
-3a. Obowiązek, o którym mowa w ust. 3, nie obejmuje wysyłania komunikatu użytkownikom końcowym, których karty SIM są zainstalowane i wykorzystywane w urządzeniach używanych wyłącznie do świadczenia usług komunikacji maszyna-maszyna.
+3a. Obowiązek, o którym mowa w ust. 3, nie obejmuje wysyłania komunikatu użytkownikom końcowym, których karty SIM są zainstalowane i wykorzystywane w urządzeniach używanych wyłącznie do świadczenia usług komunikacji maszynamaszyna.
 
 4. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb współpracy dyrektora Centrum z operatorem w celu realizacji obowiązku, o którym mowa w ust. 3, niezbędne elementy komunikatu oraz sposób jego przekazywania użytkownikom końcowym, mając na uwadze konieczność:
 
@@ -784,7 +783,9 @@ source: "isap-pdf"
 
 **Art. 25a.**
 
-1. W przypadku nakazu wykonania odstrzału, o którym mowa w art. 28 ust. 4 pkt 12 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz. 1795), jeżeli jest to niezbędne ze względu na rodzaj i skalę zagrożenia, minister właściwy do spraw wewnętrznych, na wniosek wojewody, może przekazać do dyspozycji wojewody doraźne zgrupowanie zadaniowe sformowane z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej, którzy posiadają uprawnienia do wykonywania polowania, celem ich użycia do wykonania tego odstrzału w odniesieniu do zwierząt dzikich na określonych obszarach.
+1. W przypadku nakazu wykonania odstrzału, o którym mowa w art. 28 ust. 4 pkt 12 ustawy z dnia 21 listopada 2025 r. o zdrowiu zwierząt (Dz. U. poz.
+
+- **1795)** , jeżeli jest to niezbędne ze względu na rodzaj i skalę zagrożenia, minister właściwy do spraw wewnętrznych, na wniosek wojewody, może przekazać do dyspozycji wojewody doraźne zgrupowanie zadaniowe sformowane z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej, którzy posiadają uprawnienia do wykonywania polowania, celem ich użycia do wykonania tego odstrzału w odniesieniu do zwierząt dzikich na określonych obszarach.
 
 2. Dowodzenie doraźnymi zgrupowaniami zadaniowymi, o których mowa w ust. 1, powierzane jest odpowiednio policjantowi, funkcjonariuszowi Straży Granicznej lub funkcjonariuszowi Państwowej Straży Pożarnej wskazanemu przez właściwego miejscowo komendanta odpowiednio Policji, Straży Granicznej lub Państwowej Straży Pożarnej, a w przypadku stworzenia doraźnego zgrupowania zadaniowego złożonego z policjantów, funkcjonariuszy Straży Granicznej lub funkcjonariuszy Państwowej Straży Pożarnej – policjantowi wskazanemu przez właściwego miejscowo komendanta Policji.
 
@@ -798,7 +799,7 @@ source: "isap-pdf"
 
 **Art. 25c.**
 
-1. W przypadkach, o których mowa w art. 25a i art. 25b, odpowiednio policjanci, funkcjonariusze Straży Granicznej, funkcjonariusze Państwowej Straży Pożarnej i żołnierze używają broni myśliwskiej prywatnej lub użyczonej zgodnie z przepisami ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2020 r. poz. 955 oraz z 2022 r. poz. 275).
+1. W przypadkach, o których mowa w art. 25a i art. 25b, odpowiednio policjanci, funkcjonariusze Straży Granicznej, funkcjonariusze Państwowej Straży Pożarnej i żołnierze używają broni myśliwskiej prywatnej lub użyczonej zgodnie z przepisami ustawy z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2024 r. poz. 485, z 2025 r. poz. 1795 oraz z 2026 r. poz. 187).
 
 2. Odpowiedzialność za szkody wyrządzone przez policjantów, funkcjonariuszy Straży Granicznej, funkcjonariuszy Państwowej Straży Pożarnej i żołnierzy realizujących zadania, o których mowa w ust. 1, ponosi wojewoda.
 
@@ -817,11 +818,11 @@ source: "isap-pdf"
 
 3. Na finansowanie zadań zleconych z zakresu administracji rządowej, o których mowa w ust. 2, jednostki samorządu terytorialnego otrzymują z budżetu państwa dotacje celowe w wysokości zapewniającej realizację tych zadań.
 
-4. W budżecie jednostki samorządu terytorialnego tworzy się rezerwę celową na realizację zadań własnych z zakresu zarządzania kryzysowego w wysokości nie mniejszej niż 0,5% wydatków budżetu jednostki samorządu terytorialnego, pomniejszonych o wydatki inwestycyjne, wydatki na wynagrodzenia i pochodne oraz wydatki na obsługę długu.
+4. W budżecie jednostki samorządu terytorialnego tworzy się rezerwę celową na realizację zadań własnych z zakresu zarządzania kryzysowego w wysokości niemniejszej niż 0,5 % wydatków budżetu jednostki samorządu terytorialnego, pomniejszonych o wydatki inwestycyjne, wydatki na wynagrodzenia i pochodne oraz wydatki na obsługę długu.
 
 5. Na dofinansowanie zadań własnych z zakresu zarządzania kryzysowego jednostki samorządu terytorialnego mogą otrzymywać dotacje celowe z budżetu państwa.
 
-6. Zasady otrzymywania i rozliczania dotacji, o których mowa w ust. 3 i 5, określają przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2022 r. poz. 1634, z późn. zm. ) i ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572).
+6. Zasady otrzymywania i rozliczania dotacji, o których mowa w ust. 3 i 5, określają przepisy ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426) i ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i 1717 oraz z 2025 r. poz. 1659).
 
 **Art. 27.** (pominięty)
 

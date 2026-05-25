@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-11 |
 | Data wydania | 2017-06-06 |
-| Ostatnia zmiana | 2026-05-14 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001089) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1089/text.pdf) |
 
 Art. 216–263. (pominięte) Przepisy przejściowe, dostosowujące i końcowe

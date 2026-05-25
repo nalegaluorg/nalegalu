@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo cywilne**.
 
-Łącznie: **97** aktów
+Łącznie: **104** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -83,25 +83,32 @@ Akty prawne z dziedziny: **Prawo cywilne**.
 | [WDU20041621691](WDU20041621691/index.md) | Ustawa z dnia 17 czerwca 2004 r. o zmianie ustawy - Kodeks rodzinny i opiek | Ustawa | obowiązujący | [tak](WDU20041621691/orzecznictwo.md) |
 | [WDU20030490408](WDU20030490408/index.md) | Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy - Kodeks cywilny oraz niek | Ustawa | obowiązujący | [tak](WDU20030490408/orzecznictwo.md) |
 | [WDU20021291102](WDU20021291102/index.md) | Ustawa z dnia 5 lipca 2002 r. o zmianie ustawy o ochronie konkurencji i kon | Ustawa | obowiązujący | [tak](WDU20021291102/orzecznictwo.md) |
+| [WDU20010630635](WDU20010630635/index.md) | Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o księgach wieczystych i hip | Ustawa | obowiązujący | [tak](WDU20010630635/orzecznictwo.md) |
 | [WDU20010490508](WDU20010490508/index.md) | Ustawa z dnia 30 czerwca 2000 r. Prawo własności przemysłowej. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010490508/orzecznictwo.md) |
+| [WDU20010981069](WDU20010981069/index.md) | Ustawa z dnia 19 lipca 2001 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący |  |
 | [WDU20000480554](WDU20000480554/index.md) | Ustawa z dnia 24 maja 2000 r. o zmianie ustawy - Kodeks postępowania cywiln | Ustawa | obowiązujący | [tak](WDU20000480554/orzecznictwo.md) |
 | [WDU20000480552](WDU20000480552/index.md) | Ustawa z dnia 12 maja 2000 r. o zmianie ustawy o Rzeczniku Praw Obywatelski | Ustawa | obowiązujący |  |
 | [WDU20000220269](WDU20000220269/index.md) | Ustawa z dnia 2 marca 2000 r. o zmianie ustawy - Kodeks celny oraz ustawy - | Ustawa | obowiązujący |  |
 | [WDU20001221322](WDU20001221322/index.md) | Ustawa z dnia 21 grudnia 2000 r. o zmianie ustawy - Kodeks rodzinny i opiek | Ustawa | obowiązujący |  |
 | [WDU20001221314](WDU20001221314/index.md) | Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o szkolnictwie wyższym, us | Ustawa | obowiązujący |  |
 | [WDU19990520532](WDU19990520532/index.md) | Ustawa z dnia 21 maja 1999 r. o zmianie ustaw Kodeks rodzinny i opiekuńczy, | Ustawa | obowiązujący | [tak](WDU19990520532/orzecznictwo.md) |
+| [WDU19981170758](WDU19981170758/index.md) | Ustawa z dnia 24 lipca 1998 r. o zmianie ustawy - Kodeks cywilny oraz ustaw | Ustawa | obowiązujący | [tak](WDU19981170758/orzecznictwo.md) |
+| [WDU19981170757](WDU19981170757/index.md) | Ustawa z dnia 24 lipca 1998 r. o zmianie ustaw - Kodeks rodzinny i opiekuńc | Ustawa | obowiązujący | [tak](WDU19981170757/orzecznictwo.md) |
 | [WDU19971170752](WDU19971170752/index.md) | Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustaw - Prawo o ustroju sądów p | Ustawa | obowiązujący | [tak](WDU19971170752/orzecznictwo.md) |
 | [WDU19961140542](WDU19961140542/index.md) | Ustawa z dnia 23 sierpnia 1996 r. o zmianie ustawy - Kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19961140542/orzecznictwo.md) |
 | [WDU19950830417](WDU19950830417/index.md) | Ustawa z dnia 26 maja 1995 r. o zmianie ustawy - Kodeks rodzinny i opiekuńc | Ustawa | obowiązujący | [tak](WDU19950830417/orzecznictwo.md) |
 | [WDU19930120053](WDU19930120053/index.md) | Ustawa z dnia 16 grudnia 1992 r. o zmianie ustawy - Kodeks postępowania cyw | Ustawa | obowiązujący |  |
 | [WDU19911150496](WDU19911150496/index.md) | Ustawa z dnia 25 października 1991 r. o zmianie ustawy - Kodeks cywilny ora | Ustawa | obowiązujący | [tak](WDU19911150496/orzecznictwo.md) |
 | [WDU19900550318](WDU19900550318/index.md) | Ustawa z dnia 13 lipca 1990 r. o zmianie ustawy - Kodeks postępowania cywil | Ustawa | obowiązujący | [tak](WDU19900550318/orzecznictwo.md) |
+| [WDU19900530306](WDU19900530306/index.md) | Ustawa z dnia 13 lipca 1990 r. o powołaniu sądów apelacyjnych oraz o zmiani | Ustawa | obowiązujący | [tak](WDU19900530306/orzecznictwo.md) |
 | [WDU19850200086](WDU19850200086/index.md) | Ustawa z dnia 18 kwietnia 1985 r. o zmianie ustawy - Kodeks postępowania cy | Ustawa | obowiązujący |  |
 | [WDU19820110081](WDU19820110081/index.md) | Ustawa z dnia 26 marca 1982 r. o zmianie ustawy - Kodeks cywilny oraz o uch | Ustawa | obowiązujący |  |
 | [WDU19750450234](WDU19750450234/index.md) | Ustawa z dnia 19 grudnia 1975 r. o zmianie ustawy Kodeks rodzinny i opiekuń | Ustawa | obowiązujący |  |
 | [WDU19640160094](WDU19640160094/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Przepisy wprowadzające kodeks cywilny. | Ustawa | obowiązujący | [tak](WDU19640160094/orzecznictwo.md) |
 | [WDU19640160093](WDU19640160093/index.md) | Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640160093/orzecznictwo.md) |
+| [WDU19640090060](WDU19640090060/index.md) | Ustawa z dnia 25 lutego 1964 r. - Przepisy wprowadzające kodeks rodzinny i  | Ustawa | obowiązujący | [tak](WDU19640090060/orzecznictwo.md) |
 | [WDU19640090059](WDU19640090059/index.md) | Ustawa z dnia 25 lutego 1964 r. - Kodeks rodzinny i opiekuńczy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640090059/orzecznictwo.md) |
+| [WDU19640430297](WDU19640430297/index.md) | Ustawa z dnia 17 listopada 1964 r. - Przepisy wprowadzające Kodeks postępow | Ustawa | obowiązujący | [tak](WDU19640430297/orzecznictwo.md) |
 | [WDU19640430296](WDU19640430296/index.md) | Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego. | Ustawa | akt posiada tekst jednolity | [tak](WDU19640430296/orzecznictwo.md) |
 
-*97 aktów • [← Powrót do spisu głównego](../README.md)*
+*104 aktów • [← Powrót do spisu głównego](../README.md)*

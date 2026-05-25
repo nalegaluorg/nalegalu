@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-10-13 |
 | Data wydania | 1998-11-10 |
-| Ostatnia zmiana | 2026-05-06 |
+| Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981370887) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/887/text.pdf) |
 
 Art. 99–106. (pominięte)

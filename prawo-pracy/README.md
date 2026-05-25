@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo pracy**.
 
-Łącznie: **48** aktów
+Łącznie: **51** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -15,6 +15,7 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU20240000908](WDU20240000908/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001871](WDU20240001871/index.md) | Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20230000641](WDU20230000641/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący |  |
+| [WDU20230000240](WDU20230000240/index.md) | Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20190001043](WDU20190001043/index.md) | Ustawa z dnia 16 maja 2019 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący |  |
 | [WDU20180001608](WDU20180001608/index.md) | Ustawa z dnia 5 lipca 2018 r. o zmianie ustawy o związkach zawodowych oraz  | Ustawa | obowiązujący |  |
 | [WDU20170001027](WDU20170001027/index.md) | Ustawa z dnia 11 maja 2017 r. o zmianie ustawy o systemie ubezpieczeń społe | Ustawa | obowiązujący |  |
@@ -48,6 +49,8 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU19981621113](WDU19981621113/index.md) | Ustawa z dnia 3 grudnia 1998 r. o zmianie ustawy o zwrocie majątku utracone | Ustawa | obowiązujący | [tak](WDU19981621113/orzecznictwo.md) |
 | [WDU19970960589](WDU19970960589/index.md) | Ustawa z dnia 21 maja 1997 r. o zmianie ustawy o Najwyższej Izbie Kontroli  | Ustawa | obowiązujący |  |
 | [WDU19970820518](WDU19970820518/index.md) | Ustawa z dnia 9 maja 1997 r. o zmianie ustawy o związkach zawodowych oraz o | Ustawa | obowiązujący | [tak](WDU19970820518/orzecznictwo.md) |
+| [WDU19960240110](WDU19960240110/index.md) | Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmian | Ustawa | obowiązujący | [tak](WDU19960240110/orzecznictwo.md) |
+| [WDU19950160077](WDU19950160077/index.md) | Ustawa z dnia 3 lutego 1995 r. o zmianie ustawy o świadczeniach pieniężnych | Ustawa | obowiązujący | [tak](WDU19950160077/orzecznictwo.md) |
 | [WDU19941130547](WDU19941130547/index.md) | Ustawa z dnia 29 września 1994 r. o zmianie ustawy - Kodeks pracy oraz o zm | Ustawa | obowiązujący | [tak](WDU19941130547/orzecznictwo.md) |
 | [WDU19910550234](WDU19910550234/index.md) | Ustawa z dnia 23 maja 1991 r. o związkach zawodowych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910550234/orzecznictwo.md) |
 | [WDU19890200107](WDU19890200107/index.md) | Ustawa z dnia 7 kwietnia 1989 r. o zmianie ustawy - Kodeks pracy oraz o zmi | Ustawa | obowiązujący |  |
@@ -55,4 +58,4 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU19740240142](WDU19740240142/index.md) | Ustawa z dnia 26 czerwca 1974 r. - Przepisy wprowadzające Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU19740240142/orzecznictwo.md) |
 | [WDU19740240141](WDU19740240141/index.md) | Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy. | Ustawa | akt posiada tekst jednolity | [tak](WDU19740240141/orzecznictwo.md) |
 
-*48 aktów • [← Powrót do spisu głównego](../README.md)*
+*51 aktów • [← Powrót do spisu głównego](../README.md)*

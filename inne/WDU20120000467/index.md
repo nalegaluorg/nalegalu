@@ -8,10 +8,10 @@ pos: 467
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiejz dnia 25 kwietnia 2012 r. w sprawie stawek opłat za przejazd autostradą
+# § 4. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
 | Pole | Wartość |
 |---|---|
@@ -25,19 +25,5 @@ source: "eli-html"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000467) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/467/text.pdf) |
 
-Treść rozporządzenia
-Na podstawie art. 37e ust. 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2004 r. Nr 256, poz. 2571, z późn. zm.) zarządza się, co następuje:
-§ 1.
-Rozporządzenie określa stawki opłat za przejazd kilometra autostrady, o których mowa w art. 37a ust. 1a pkt 1 i 2 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
-§ 2.
-Ilekroć w rozporządzeniu jest mowa o kategorii pojazdu, należy przez to rozumieć kategorię pojazdu, o której mowa w art. 37a ust. 6 ustawy z dnia 27 października 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym.
-§ 3.
-1.
-Stawka opłaty za przejazd 1 km autostrady dla pojazdów kategorii 1 wynosi 0,05 zł.
-2.
-Stawka opłaty za przejazd 1 km autostrady dla pojazdów kategorii 2 wynosi 0,10 zł.
-3.
-Stawka opłaty za przejazd autostradą dla pojazdów kategorii 3, 4 i 5 wynosi: Kategoria pojazdu Stawka opłaty za przejazd 1 km autostrady (w zł) Klasy pojazdów w EURO w zależności od limitów emisji spalin max. EURO 2 EURO 3 EURO 4 min. EURO 5 1 2 3 4 5 Kategoria 3 0,40 0,35 0,28 0,20 Kategoria 4 0,53 0,46 0,37 0,27 Kategoria 5 0,40 0,35 0,28 0,20
-§ 4.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+Minister Transportu, Budownictwa i Gospodarki Morskiej: S. Nowak Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Infrastruktury z dnia 14 czerwca 2011 r. w sprawie stawek opłat za przejazd autostradą (Dz. U. Nr 124, poz. 706), które zgodnie z art. 4 ustawy z dnia 16 września 2011 r. o zmianie ustawy o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. Nr 234, poz. 1387) traci moc z dniem wejścia w życie niniejszego roz-
 
