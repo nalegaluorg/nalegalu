@@ -119,8 +119,8 @@ WZÓR Dane o przedsiębiorcy telekomunikacyjnym Firma przedsiębiorcy lub nazwa 
 01.02.3.4 liczba łączy w technologii xDSL 63 64 65
 01.02.3.5 liczba łączy światłowodowych FTTH 66 67 68
 01.02.3.6 liczba łączy światłowodowych FTTB/FTTC 69 70 71
-01.02.37 lei rodzaju łączy (rodzaje łączy należy wymienić w polu 72 73 74 biznes do sieci (ang. WLR) Liczba abonentów 75 o g ó ł e m ogółem konsumenci biznes
-01.04.1 Liczba abonentów 78 79 80 01 . 04 . 2 w t y m w w o j e w ó d z t w i e :
+01.02.37 lei rodzaju łączy (rodzaje łączy należy wymienić w polu 72 73 74 biznes do sieci (ang. WLR) Liczba abonentów 75 ogółem ogółem konsumenci biznes
+01.04.1 Liczba abonentów 78 79 80 01 . 04 . 2 wtymwwojewództwie :
 01.04.2.1 dolnośląskim 81 82 83
 01.04.2.2 kujawsko-pomorskim 84 85 86
 01.04.2.3 lubelskim 87 88 89
@@ -191,7 +191,7 @@ WZÓR FORMULARZ 02 Współpraca międzyoperatorska w stacjonarnej publicznej sie
 02.03.2 Przychód przedsiębiorcy telekomunikacyjnego z usługi zakańczania połączeń głosowych 6
 02.04 q Dolą e O1OSO
 02.04.1 Czas trwania połączeń głosowych tranzytowanych w stacjonarnej publicznej sieci telekomunikacyjnej przedsiębiorcy 7 naa telekomunikacyjnego
-02.04.2 Przychód przedsiębiorcy telekomunikacyjnego z usług tranzytu połączeń głosowych 8 02 . 05 U w a g i Objaśnienia do Formularza 02 | Nr Wskaźnik Opis Usługę rozpoczynania połączeń głosowych w stacjonarnej publicznej sieci telekomunikacyjnej przedsiębiorcy telekomunikacyjni posiadający stacjonarną publiczną sieć telekomunikacyjną, przyłączeni są użytkownicy końcowi.
+02.04.2 Przychód przedsiębiorcy telekomunikacyjnego z usług tranzytu połączeń głosowych 8 02 . 05 Uwagi Objaśnienia do Formularza 02 | Nr Wskaźnik Opis Usługę rozpoczynania połączeń głosowych w stacjonarnej publicznej sieci telekomunikacyjnej przedsiębiorcy telekomunikacyjni posiadający stacjonarną publiczną sieć telekomunikacyjną, przyłączeni są użytkownicy końcowi.
 Usługi realizowane są poprzez wybór odpowiedniego numeru dostępu dostawcy usług pośrednictwem stałego zlecenia (preselekcji). Inną możliwością jest wybór usług dostępu
 02.02 Rozpoczynanie połączeń głosowych za pośrednictwem numeru DSI oraz do numeracji usług w sieciach inteligentnych - poprzez Odbiorcą usługi rozpoczynania połączeń głosowych w stacjonarnej publicznej sieci telekomunikacyjnej dostawca usług, który chce świadczyć usługi użytkownikom końcowym, przyłączonym przedsiębiorcy telekomunikacyjnego. Usługę tę odbiorcy, tj. przedsiębiorcy telekomunikacyjni, poprzez zakup u przedsiębiorcy telekomunikacyjnego, dostarczającego stacjonarną publiczną telekomunikacyjną, określonej ilości minut lub pojemności.
 Czas trwania połączeń głosowych rozpoczynanych Czas trwania wszystkich połączeń głosowych rozpoczynanych w stacjonarnej publicznej
@@ -215,10 +215,10 @@ WZÓR FORMULARZ 03 Współpraca międzyoperatorska w ruchomej publicznej sieci t
 03.03.2 Przychód przedsiębiorcy telekomunikacyjnego z usługi zakańczania połączeń głosowych 6
 03.04
 03.04.1 Tranzyt połączeń głosowych Czas trwania połączeń głosowych tranzytowanych w ruchomej publicznej sieci telekomunikacyjnej przedsiębiorcy telekomunikacyjnego
-03.04.2 Przychód przedsiębiorcy telekomunikacyjnego z usług tranzytu połączeń głosowych 03 . 05 U w a g i Objaśnienia do Formularza 03 Wskaźnik Opis Usługę rozpoczynania połączeń głosowych w ruchomej publicznej sieci telekomunikacyjnej świadczą przedsiębiorcy telekomunikacyjni posiadający własną infrastrukturę publiczną sieć telekomunikacyjną, za pomocą której inni przedsiębiorcy telekomunikacyjni dostawcy usług chcą świadczyć użytkownikom końcowym usługę inicjowania
+03.04.2 Przychód przedsiębiorcy telekomunikacyjnego z usług tranzytu połączeń głosowych 03 . 05 Uwagi Objaśnienia do Formularza 03 Wskaźnik Opis Usługę rozpoczynania połączeń głosowych w ruchomej publicznej sieci telekomunikacyjnej świadczą przedsiębiorcy telekomunikacyjni posiadający własną infrastrukturę publiczną sieć telekomunikacyjną, za pomocą której inni przedsiębiorcy telekomunikacyjni dostawcy usług chcą świadczyć użytkownikom końcowym usługę inicjowania
 03.02 Rozpoczynanie połączeń głosowych Czas trwania wszystkich połączeń rozpoczynanych w ruchomej publicznej Czas trwania połączeń głosowych rozpoczynanych w ruchomej telekomunikacyjnej przedsiębiorcy telekomunikacyjnego na rzecz innego przedsiębiorcy telekomunikacyjnego, obliczony zgodnie z zasadami określonymi w umowach międzyoperatorskich.
 03.02.1 publicznej sieci telekomunikacyjnej przedsiębiorcy telekomunikacyjnego Przychód osiągnięty przez przedsiębiorcę telekomunikacyjnego z usługi rozpoczynania głosowych w sieci tego przedsiębiorcy na rzecz innego przedsiębiorcy telekomunikacyjnego, obliczony według zasad określonych w umowach międzyoperatorskich.
-Przychód osiągnięty przez przedsiębiorcę telekomunikacyjnego z BB U Ż Ź r o z p o c z y n a n i a p o ł ą c z e ń g ł o s o w y c h Zakańczanie połączeń głosowych w ruchomych publicznych sieciach telekomunikacyjnych
+Przychód osiągnięty przez przedsiębiorcę telekomunikacyjnego z BB UŻŹrozpoczynaniapołączeńgłosowych Zakańczanie połączeń głosowych w ruchomych publicznych sieciach telekomunikacyjnych
 03.03 Zakańczanie połączeń głosowych usługą oferowaną przez przedsiębiorców telekomunikacyjnych posiadających sieć telekomunikacyjną z przydzieloną pulą numerów geograficznych i niegeograficznych.
 Czas trwania wszystkich połączeń głosowych zakańczanych we własnej ruchomej Czas trwania połączeń głosowych zakańczanych w ruchomej sieci telekomunikacyjnej przedsiębiorcy telekomunikacyjnego, a zaininicjowanych
 03.03.1 publicznej sieci telekomunikacyjnej przedsiębiorcy stacjonarnych lub ruchomych publicznych sieciach telekomunikacyjnych innych telekomunikacyjnego telekomunikacyjnych, obliczony zgodnie z zasadami określonymi w umowach międzyoperatorskich.
@@ -245,7 +245,7 @@ WZÓR Dane o przedsiębiorcy telekomunikacyjnym
 04.06.1 Przychody z połączeń głosowych wychodzących | 32 | 33 | 34 | w tym:
 04.06.1.1 połączenia do krajowych ruchomych publicznych sieci 35 36 37 telekomunikacyjnych
 04.06.1.2 połączenia do krajowych stacjonarnych publicznych sieci " 3 40 telekomunikacyjnych
-04.06.1.3 połączenia międzynarodowe 41 42 43 Wiadomości tekstowe, wiadomości multimedialne, o g ó ł e m
+04.06.1.3 połączenia międzynarodowe 41 42 43 Wiadomości tekstowe, wiadomości multimedialne, ogółem
 04.07.1 Liczba wiadomości SMS wysłanych w kraju 44
 04.07.1.1 w tym na numery usług o podwyższonej opłacie 45
 04.07.2 Liczba wiadomości MMS wysłanych w kraju 46
@@ -255,12 +255,12 @@ WZÓR Dane o przedsiębiorcy telekomunikacyjnym
 04.07.5 Przychody z wysłanych wiadomości SMS 50
 04.07.5.1 w tym na numery usług o podwyższonej opłacie 51
 04.07.6 Przychody z wysłanych wiadomości MMS 52
-04.07.7 Przychody z transmisji danych wysłanych i odebranych w kraju 53 o g ó ł e m
+04.07.7 Przychody z transmisji danych wysłanych i odebranych w kraju 53 ogółem
 04.08.1 Czas trwania połączeń głosowych wykonanych (inicjowanych) w sieci w są ramach roamingu
 04.08.2 Liczba wiadomości SMS wysłanych w ramach roamingu 55
 04.08.3 Transmisja danych zrealizowana w ramach roamingu, w TB 56
 04.08.4 Przychody z usług wykonanych w ramach roamingu 57
-04.09 Roaming międzynarodowy aktywny o g ó ł e m
+04.09 Roaming międzynarodowy aktywny ogółem
 04.09.1 Czas trwania połączeń głosowych wykonanych (inicjowanych) przez 58 nos własnych użytkowników poza granicami kraju w ramach roamingu
 04.09.1.1 w tym na obszarze Europejskiego Obszaru Gospodarczego 59
 04.09.2 Czas trwania połączeń głosowych przychodzących do własnych 60 nos użytkowników poza granicami kraju w ramach roamingu
@@ -396,7 +396,7 @@ WZÓR Dane o przedsiębiorcy telekomunikacyjnym
 05.06.2 Przychody z usługi realizowanej za pomocą LLU 159 160 161
 05.0 Dostep do © © © a pO Ocą © poto ogółem
 05.07.1 Liczba hotspotów WiFi 162
-05.07.2 Przychody z usługi realizowanej za pomocą hotspotów WiFi 163 05 . 08 U w a g i Objaśnienia do Formularza 05 W formularzu powinny być wykazane wszystkie usługi dostępu do Internetu, zarówno świadczone pojedynczo, jak również w w i ą z a n y c h Nr Wskaźnik Opis Ogółem Wielkość w tym polu powinna być sumą pól „Konsumenci” i „Biznes”. Jeżeli tak nie jest, należy wskazać przyczynę Osoby fizyczne wnioskujące o świadczenie publicznie dostępnych usług telekomunikacyjnych lub korzystające Konsumenci celów niezwiązanych bezpośrednio z ich działalnością gospodarczą lub wykonywaniem zawodu.
+05.07.2 Przychody z usługi realizowanej za pomocą hotspotów WiFi 163 05 . 08 Uwagi Objaśnienia do Formularza 05 W formularzu powinny być wykazane wszystkie usługi dostępu do Internetu, zarówno świadczone pojedynczo, jak również w wiązanych Nr Wskaźnik Opis Ogółem Wielkość w tym polu powinna być sumą pól „Konsumenci” i „Biznes”. Jeżeli tak nie jest, należy wskazać przyczynę Osoby fizyczne wnioskujące o świadczenie publicznie dostępnych usług telekomunikacyjnych lub korzystające Konsumenci celów niezwiązanych bezpośrednio z ich działalnością gospodarczą lub wykonywaniem zawodu.
 Biznes Użytkownicy końcowi niebędący konsumentami.
 Usługa złożona z dwóch lub więcej usług telekomunikacyjnych, które są prezentowane na rynku jako jedna wspólna po jednej cenie i zazwyczaj rozliczana w ramach jednego rachunku. Jeśli jednak pierwsze dwa warunki są spełnione, powodów technicznych na poszczególne składniki usługi wystawiane są osobne rachunki, taką usługę również Usługa wiązana usługę wiązaną. Istotą usługi wiązanej są:
 1) niższa cena tej usługi niż sumaryczny koszt poszczególnych usług wchodzących wj ej skład w przypadku, indywidualnie, lub
@@ -431,7 +431,7 @@ udostępniany na istniejącym okablowaniu używanym do usługi telefonii analogo
 05.03.1.3.2
 05.02.1.3.2.1
 05.03.1.3.2.1
-05.04 ( E u r o ) D O C S I S (Euro)DOCSIS 3.x Ethernet (LAN) FTTH F TT B / F TT C WLAN (WiFi) FWA WiMax CDMA - dostęp stacjonarny Łącza satelitarne Technologia ruchoma Dedykowane pakiety transmisji danych Dedykowane urządzenia do dostępu ruchomego 2G/3G/4G (modemy/klucze/karty) 4G/LTE Ilość danych (w TB) przesłanych przez użytkowników końcowych usługi dostępu do sieci Internet Dostęp do sieci Internet za pomocą technologii umożliwiającej transmisję danych poprzez istniejącą instalację Standard (Euro)DOCSIS umożliwia świadczenie w sieciach telewizji kablowych interaktywnych usług multimedialnych.
+05.04 ( Euro ) DOCSIS (Euro)DOCSIS 3.x Ethernet (LAN) FTTH F TT B / F TT C WLAN (WiFi) FWA WiMax CDMA - dostęp stacjonarny Łącza satelitarne Technologia ruchoma Dedykowane pakiety transmisji danych Dedykowane urządzenia do dostępu ruchomego 2G/3G/4G (modemy/klucze/karty) 4G/LTE Ilość danych (w TB) przesłanych przez użytkowników końcowych usługi dostępu do sieci Internet Dostęp do sieci Internet za pomocą technologii umożliwiającej transmisję danych poprzez istniejącą instalację Standard (Euro)DOCSIS umożliwia świadczenie w sieciach telewizji kablowych interaktywnych usług multimedialnych.
 Dostęp (Euro)DOCSIS z prędkością pobierania 30Mb/s i powyżej.
 Dostęp do sieci Internet świadczony za pomocą lokalnych sieci przewodowych LAN - Ethernet (LAN - ang. Local Ethernet - standard wykorzystywany w budowie lokalnych sieci komputerowych).
 Dostęp do sieci Internet przez sieci, w których końcowy odcinek do lokalu abonenta to światłowód (światłowód od przełącznicy ODF do zakończenia w lokalu abonenta). Aby zostać uznanym za łącze typu FTTH, światłowód wkraczać w granice lokalu abonenta i kończyć się: w lokalu lub w ścianie zewnętrznej lokalu abonenta lub nie ściany zewnętrznej lokalu abonenta. Usługi FTTH zazwyczaj dostarczają kilka aplikacji, np. transfer danych, wliczać do kategorii FTTH sieci, gdzie światłowód kończy się w miejscu publicznym lub prywatnym, przed dotarciem na ścieżce dostępowej.
@@ -448,11 +448,11 @@ Należy wziąć pod uwagę pakiety/łącza do świadczenia usług dostępu do si
 Należy uwzględnić: - abonamenty ze stałą opłatą (tj. umowa), - abonamenty przedpłacone (lub inny rodzaj abonamentu bez stałej opłaty), które były aktywnie wykorzystane miesiącach.
 Należy wykluczyć: - abonamenty, które oferują dostęp tylko do ograniczonej liczby aplikacji i treści, kontrolowanych przez operatora, nie mają dostępu do Internetu jako całości (ang. „walled garden”), - abonamenty oferujące tylko usługi e-mail (lub tylko SMS/MMS).
 Dostęp do sieci Internet świadczony z wykorzystaniem dedykowanych urządzeń do dostępu ruchomego 2G/3G/4G Usługa dostępu do sieci Internet nabywana jest jako osobna usługa niezależnie od usług telefonicznych.
-Należy uwzględnić: - abonamenty ze stałą opłatą (tj. umowa) niezależnie od wykorzystania, - abonamenty przedpłacone (lub inny rodzaj abonamentu bez stałej opłaty), które były aktywnie wykorzystane m i e s i ą c a c h .
+Należy uwzględnić: - abonamenty ze stałą opłatą (tj. umowa) niezależnie od wykorzystania, - abonamenty przedpłacone (lub inny rodzaj abonamentu bez stałej opłaty), które były aktywnie wykorzystane miesiącach .
 Należy wykluczyć: - standardowe abonamenty telefoniczne, - abonamenty, które oferują dostęp tylko do ograniczonej liczby aplikacji i treści, kontrolowanych przez operatora, mają dostępu do Internetu jako całości (ang. „„walled garden"), - abonamenty oferujące tylko usługi e-mail (lub tylko SMS/MMS).
 Przez sieć 4G/LTE rozumie się sieć nowej generacji wg standardu organizacji 3rd Generation Partnership Project, osobnych częstotliwości niż sieć 3G i która umożliwia przesył danych z prędkością co najmniej 100Mb/s. Należy liczbę kart SIM, które umożliwiają korzystanie z dostępu do sieci Internet w technologii LTE.
 Ilość danych przesłanych (zarówno pobranych, jak i wysłanych) przez użytkowników usługi dostępu do Internetu, pozycji 05.02, przy wykorzystaniu usług dostępu szerokopasmowego do sieci Internet z przepływnością w stronę 144 kbit/s poprzez telekomunikacyjne urządzenie końcowe. Należy uwzględnić zarówno dane przesłane przez przyłączonych do sieci przedsiębiorcy telekomunikacyjnego wypełniającego formularz, jak również użytkowników, przedsiębiorca ten świadczy usługi w ramach BSA lub LLU.
-WZÓR FORMULARZ 06 U s ł u g i w i ą z a n e Rok sprawozdawczy: .......2.--:2:-n-:1:1111111112 prezentowane na rynku jako jedna wspólna oferta oferowana po jednej cenie i zazwyczaj rozliczana w ramach jednego rachunku (tzw. pakiet)
+WZÓR FORMULARZ 06 Usługiwiązane Rok sprawozdawczy: .......2.--:2:-n-:1:1111111112 prezentowane na rynku jako jedna wspólna oferta oferowana po jednej cenie i zazwyczaj rozliczana w ramach jednego rachunku (tzw. pakiet)
 1. Wszelkie ii ji proszę i w polu „Uwagi”, jduj: się w j części ze iem numeru pola, którego dotyczy komentarz.
 3. Dane dotyczące przy ów należy wp w PLN bez VAT. Nie należy wliczać przychodów ze ikacyj urządzeń y
 4. W usług świ w ramach jednego pakietu należy zaznaczać rodzaj usług świ łącznie, iast obok wpisać liczbę abonentów oraz przychody uzyskane w ramach takiej usługi wiązanej.
@@ -487,9 +487,9 @@ WZÓR FORMULARZ 06 U s ł u g i w i ą z a n e Rok sprawozdawczy: .......2.--:2:
 07.03.2.1 Czas trwania połączeń krajowych 24 25 26
 07.03.2.2 Czas trwania połączeń międzynarodowych 27 28 29
 07.03.3 Przychody z tytułu świadczenia usługi 30 31 32
-07.04 _ Uwagi bjaśnienia do Formularza 0 Nr Wskaźnik O g ó ł e m Konsumenci B i z n e s U s ł u g a w i ą z a n a T e l e f o n i a V o l P Usługi telefoniczne VoIP z
+07.04 _ Uwagi bjaśnienia do Formularza 0 Nr Wskaźnik Ogółem Konsumenci Biznes Usługawiązana TelefoniaVolP Usługi telefoniczne VoIP z
 07.02 wyłączeniem usług świadczonych 5 z wykorzystaniem kart zdrapek prepaid Usługi telefoniczne VolP świadczone
-07.03 z wykorzystaniem kart zdrapek p r e p a i d Opis Wielkość w tym polu powinna być sumą pól „Konsumenci” i „Biznes”. Jeżeli tak nie jest, należy wskazać przyczynę w polu „Uwagi”.
+07.03 z wykorzystaniem kart zdrapek prepaid Opis Wielkość w tym polu powinna być sumą pól „Konsumenci” i „Biznes”. Jeżeli tak nie jest, należy wskazać przyczynę w polu „Uwagi”.
 Osoby fizyczne wnioskujące o świadczenie publicznie dostępnych usług telekomunikacyjnych lub korzystające z takich usług dla celów bezpośrednio z ich działalnością gospodarczą lub wykonywaniem zawodu.
 Użytkownicy końcowi z wyłączeniem konsumentów.
 Usługa złożona z dwóch lub więcej usług telekomunikacyjnych, które są prezentowane na rynku jako jedna wspólna oferta oferowana zazwyczaj rozliczana w ramach jednego rachunku. Jeśli jednak pierwsze dwa warunki są spełnione, a z pewnych powodów technicznych składniki usługi wystawiane są osobne rachunki, taką usługę również traktuje się jako usługę wiązaną. Istotą usługi wiązanej są:
@@ -527,7 +527,7 @@ Dane o przedsiębiorcy telekomunikacyjnym
 08.03.14 warmińsko-mazurskie 67 68 69 70
 08.03.15 wielkopolskie 71 72 73 74
 08.03.16 zachodniopomorskie 75 76 TT 78
-08.03.17 RAZEM 79 80 81 82 Objaśnienia do Formularza 08 08 . 04 U w a g i W formularzu powinny być wykazane wszystkie usługi telewizyjne, zarówno świadczone pojedynczo, jak również w ramach usług wiązanych Przez telewizję należy rozumieć, w szczególności płatne usługi:
+08.03.17 RAZEM 79 80 81 82 Objaśnienia do Formularza 08 08 . 04 Uwagi W formularzu powinny być wykazane wszystkie usługi telewizyjne, zarówno świadczone pojedynczo, jak również w ramach usług wiązanych Przez telewizję należy rozumieć, w szczególności płatne usługi:
 1) naziemnej telewizji cyfrowej;
 2) telewizji kablowej;
 3) telewizji satelitarnej;

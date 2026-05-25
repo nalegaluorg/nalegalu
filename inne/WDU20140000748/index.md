@@ -25,7 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000748) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/748/text.pdf) |
 
-Poz. 748 MINISTRA SPRAW WEWNĘTRZNYCH” dnia 30 maja 2014 r.
+Poz.
+MINISTRA SPRAW WEWNĘTRZNYCH” dnia 30 maja 2014 r.
 sprawie warunków przydziału, przechowywania ewidencjonowania przez straże gminne (miejskie) Na podstawie art. 18 ust. 4 ustawy dnia 29 sierpnia 1997 r. o strażach gminnych (Dz. U. 2013 r. poz. 1383 oraz 2014 r. poz. 486) zarządza się, co następuje: $ 1. Wójt, burmistrz (prezydent miasta) występuje do właściwego terytorialnie komendanta wojewódzkiego Policji, zwanego dalej „komendantem wojewódzkim Policji”, wnioskiem o wydanie świadectwa na broń palną do wykonywania przez strażników straży gminnej (miejskiej), zwanych dalej „strażnikami”, zadań określonych art. 11 ust. pkt5i9 ustawy dnia 29 sierpnia 1997 r. o strażach gminnych, na zasadach określonych przepisach art. 29 oraz art. 31 ust. 1 ustawy dnia 21 maja 1999 r. o (Dz. U. 2012r. poz. 576, 2013 r. poz. 829 oraz 2014 r. poz. 295).
 $ 2. Strażnik, któremu wydano broń palną związku wykonywanymi zadaniami, jest obowiązany, po zakończeniu tych zadań, do bezzwłocznego jej zdania miejscu, gdzie się ją przechowuje.
 $3. 1. Komendant straży wyznacza strażnika odpowiedzialnego za prowadzenie gospodarki straży spośród strażników dopuszczonych do pracy bronią palną.
@@ -45,7 +46,7 @@ b) okna osłonięte siatką stalową o wymiarach oczek maksymalnie 10 mm x 10 mm
 c) sygnalizację alarmową przeciwwłamaniową podłączoną do stanowiska osoby pełniącej całodobowy dyżur lub stanowiska objętego całodobową uzbrojoną ochroną.
 2. Drzwi do magazynu na czas nieobecności osoby odpowiedzialnej za prowadzenie gospodarki są zamknięte zaplombowane lub zaopatrzone inny wskaźnik nieuprawnionego wejścia.
 $ 6. 1. Broń palną amunicję przechowuje się magazynie szafach stalowych lub sejfach, wyposażonych zamki atestowane, warunkach uwzględniających wymagania ich producentów.
-2. Broń palną przechowuje się wyjętą futerału, rozładowaną, zabezpieczoną, odłączonym magazynkiem, kompletną c y s t ą
+2. Broń palną przechowuje się wyjętą futerału, rozładowaną, zabezpieczoną, odłączonym magazynkiem, kompletną cstą
 3. Amunicję przechowuje się opakowaniach fabrycznych lub pojemnikach przystosowanych do tego celu oraz układa się ją sposób uniemożliwiający uderzenie spłonkę naboju. Amunicji nie przechowuje się magazynkach nabojowych.
 $ 7. 1. Broń palna amunicja podlegają rejestracji książce stanu uzbrojenia.
 2. Książkę stanu przechowuje się magazynie broni.
@@ -54,5 +55,5 @@ $ 8. 1. Wydawanie zdawanie podlegają rejestracji książce wydania-przyjęcia a
 2. Wzór wydania-przyjęcia stanowi załącznik nr 2 do rozporządzenia.
 $ 9. 1. Amunicję wykorzystaną do celów szkolenia strzeleckiego rozlicza się karcie rozchodu amunicji.
 2. Wzór karty rozchodu stanowi załącznik nr 3 do rozporządzenia.
-$ 10. Rozporządzenie wchodzi życie dniem 6 czerwca 2014 r.” Minister Spraw Wewnętrznych: wz. P. Stachańczyk 9 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych Administracji dnia 20 sierpnia W Ó R K S Ą Ż K S T N B R O J E N N R o L c b S t .. D o t o b o n o g n c y j n j , , l n j p o c ji m g y n ó ij j y p o s ż n p l n j o t ó j P o j l b j j p n o l 2 3 - 5 6 7 8 9 10 11 6 8 9 6 v € c 1 6 8 9 v
+$ 10. Rozporządzenie wchodzi życie dniem 6 czerwca 2014 r.” Minister Spraw Wewnętrznych: wz. P. Stachańczyk 9 Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Spraw Wewnętrznych Administracji dnia 20 sierpnia WZÓR KSĄŻKSTNUUZBROJEN NRokLcbStuk .. | Dotko | b o | ogcjj , , ljoukc ji | mgkó ij josż | ljoktój Pojlubjjko l 2 3 - 5 6 7 8 9 10 11 6 8 9 6 v € c | | | | | | | 1 | | | | 6 8 9 v | | | | | | | | | | |
 

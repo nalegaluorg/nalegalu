@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# d n a 3 li s t o p a d a 1998 r .
+# d n a 3 li stopada 1998 r .
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981380898) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/898/text.pdf) |
 
-S y g n . K . 12 / 98 L e c h G a r li c k — s p r a o d a c a W e s ł a J o h a nn J a d g a S k ó r e s k a - Ł o s a k B ł a ż e j W e r b o s k S t a r y m C a r n o e , u d a ł e m u m o c o a n y c h p r e d s t a c e li u c e s t n k ó p o s t ę p o a n a n o s k o d a c y , S e j m u R e c y p o s p o li t e j Po l s k e j P r o k u r a t o r a G e n e r a l n e g o s t e r d e n e : n e g o d n o ś c a r t . 18 u s t . | u s t a y d n a 25 li p c a 1985 r . o j e d n o s t k a c h b a d a c o - r o o j o y c h ( t e k s t j e d n o li t y 1991 r . D . U .
-104 , p o . 661 , N r 121 , p o . 769 770 , N r 141 , p o . 943 ; 1998 r . N r 117 , p o . 756 ) a r t . 167 u s t . | o r a a r t . 2 K o n s t y t u c ji Zdaniem wnioskodawcy zaskarżony przepis, mocą którego jednostki badawczorozwojowe zwolnione zostały ze wszystkich podatków funkcjonujących obowiązującym systemie prawnym, narusza 167 ust. 1 konstytucji, który gwarantuje udział gminom dochodach publicznych odpowiednio do przypadających im zadań. Ten przepis konstytucji wprowadza ponadto do porządku prawnego zasadę, iż zagwarantowane ten sposób dochody, gminy mają prawo przeznaczać na realizację przypisanych im zadań. Zasada ta znajduje potwierdzenie również 167 ust. 4 konstytucji.
+Sygn . K . 12 / 98 LechGar li c k — spraodaca WesłaJoha nn JadgaSkóreska - Łosak BłażejWerbosk StarymCarnoe , udałemumocoanychpredstace li ucestnkópostępoana noskodacy , SejmuRecypospo li t e j Po lskejProkuratoraGeneralnego sterdene : negodnoścart . 18 u s t . | ustaydna 25 li p c a 1985 r . o jednostkachbadaco - roojoych ( tekstjedno li t y 1991 r . D . U .
+104 , p o . 661 , N r 121 , p o . 769 770 , N r 141 , p o . 943 ; 1998 r . N r 117 , p o . 756 ) a r t . 167 u s t . | oraart . 2 Konstytuc ji Zdaniem wnioskodawcy zaskarżony przepis, mocą którego jednostki badawczorozwojowe zwolnione zostały ze wszystkich podatków funkcjonujących obowiązującym systemie prawnym, narusza 167 ust. 1 konstytucji, który gwarantuje udział gminom dochodach publicznych odpowiednio do przypadających im zadań. Ten przepis konstytucji wprowadza ponadto do porządku prawnego zasadę, iż zagwarantowane ten sposób dochody, gminy mają prawo przeznaczać na realizację przypisanych im zadań. Zasada ta znajduje potwierdzenie również 167 ust. 4 konstytucji.
 Pojęcie dochodów publicznych gwarantowanych przez państwo mocą 167 ust.
 konstytucji obejmuje głównie podatki, co wynika zestawienia 167 ust.
 gwarantującego zapewnienie odpowiedniego poziomu tylko stosunku do dochodów publicznych oraz 167 ust. 2 określającego właściwe proporcje między różnymi kategoriami dochodów.

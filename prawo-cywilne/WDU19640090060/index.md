@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# P nn uń R I P $2 W c e g ó ś c c ą m c : I ) k e k nn 27 c e c 1950 1953 N 31 124 D U N 34 308 $ 3 Po ą m c e 20 U N 69 434 A III J e ż e li b ą j ą c e e ł j ą ę e c h e e b ą g ó e e j ą ą ó k ó e c ą e m ó un m c h k e k e nn m e k uń c m , j e ę dp e e e g k e k R II Z m e c h b ą ą c c h A I V W e k c h nu c "Art. 38. 1. Jeżeli rodzice zawierają małżeństwo po urodzeniu się dziecka, wpisuje się na marginesie aktu urodzenia wzmiankę dodatkową zawarciu małżeństwa oraz wynikającej stąd według przepisów opiekuńczego zmianie nazwiska dziecka.
+# P nn uń R I P $2 Wscegónśc cąmc : I ) keks nn s n 27 c e c 1950 1953 N 31 124 D U N 34 308 $ 3 Po sąmc e s 20 s U N 69 434 A III Jeże li bąjące esłjąsęn eschnenne bsągóneejsąsą sókóecą e m ó un m kekse nn m e k uń c m , ssnch jesę dp e n esegkeks R II Zmnesc hbąącch A I V Wekchs nu c "Art. 38. 1. Jeżeli rodzice zawierają małżeństwo po urodzeniu się dziecka, wpisuje się na marginesie aktu urodzenia wzmiankę dodatkową zawarciu małżeństwa oraz wynikającej stąd według przepisów opiekuńczego zmianie nazwiska dziecka.
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +27,7 @@ source: "isap-pdf"
 
 2. Wpisania wzmianki określonej ust. 1 dokonywa się na wniosek osoby zainteresowanej po wykazaniu dokumentem publicznym, że dziecko pochodzi od małżonków. Jeżeli chwili zgłoszenia wniosku ojcostwo męża matki nie jest jeszcze ustalone, wniosek wpisanie wzmianki może być zgłoszony jednocześnie uznaniem dziecka przez męża matk
 3. Wniosek wpisanie wzmianki określonej ust. I mogą rodzice dziecka zgłosić przy sporządzaniu aktu małżeństwa lub później każdym urzędzie stanu cywilnego. Inne osoby zainteresowane mogą zgłosić wniosek tylko urzędzie stanu cywilnego, którym sporządzony został akt urodzenia dziecka.";
-3) art. 39 ust. 1 otrzymuje brzmienie: "|. W razie zgłoszenia kierownikowi urzędu stanu cywilnego oświadczenia uznaniu dziecka lub nadaniu dziecku żony, które nie nosi nazwiska ojca albo któremu nazwisko ojca zostało nadane na podstawie sądowego ustalenia ojcostwa, nazwiska jej męża, wpisuje się akcie stanu cywilnego wzmiankę dodatkową uznaniu dziecka wynikającej stąd według przepisów opiekuńczego zmianie nazwiska dziecka albo nadaniu nazwik " ;
+3) art. 39 ust. 1 otrzymuje brzmienie: "|. W razie zgłoszenia kierownikowi urzędu stanu cywilnego oświadczenia uznaniu dziecka lub nadaniu dziecku żony, które nie nosi nazwiska ojca albo któremu nazwisko ojca zostało nadane na podstawie sądowego ustalenia ojcostwa, nazwiska jej męża, wpisuje się akcie stanu cywilnego wzmiankę dodatkową uznaniu dziecka wynikającej stąd według przepisów opiekuńczego zmianie nazwiska dziecka albo nadaniu nazwis k " ;
 4) art. 40 na końcu ust. 1 kropkę zastępuje się przecinkiem dodaje się wyrazy "a skutki przysposobienia podlegają przepisom art. 124 opiekuńczego.";
 5) przed art. 42 dodaje się nowy art. 41! brzmieniu: "Art. 41'. Sposób zawierania małżeństwa określają przepisy
 8) art. 50 ust. I pkt 6 otrzymuje brzmienie: "6) oświadczenie żony nazwisku, które nosić będzie po zawarciu małżeństwa, wypadku gdy żona zachowuje swoje dotychczasowe nazwisko albo dodaje do niego nazwisko męża oświadczenie małżonków nazwisku dzieci zrodzonych tego małżeństwa".;
@@ -39,5 +39,5 @@ Nie dotyczy to jednak skutków prawnych ustania lub unieważnienia, które powst
 Jeżeli chwili wejścia życie opiekuńczego stosunki majątkowe między małżonkami podlegały wspólności ustawowej rozumieniu 1950 r., składniki majątku małżonków istniejące chwili wejścia życie opiekuńczego zalicza się od tej chwili do majątku wspólnego albo do majątku odrębnego stosownie do przepisów opiekuńczego.
 $ 1. Jeżeli chwili wejścia życie opiekuńczego stosunki majątkowe między małżonkami były oparte na umowie majątkowej małżeńskiej, do stosunków tych stosuje się nadal przepisy obowiązujące chwili zawarcia umowy. Jednakże strony mogą przez umowę zmienić dotychczasowy ustrój majątkowy stosownie do przepisów opiek uń c e g $ 2. Jeżeli chwili wejścia życie opiekuńczego stosunki majątkowe między małżonkami nie podlegały wspólności ustawowej ani nie były określone przez umowę majątkową małżeńską, istnieje między małżonkami rozdzielność majątkowa rozumieniu opiekuńczego.
 Do wszczętych przed dniem wejścia życie opiekuńczego stosunku przysposobienia stosuje się przepisy dotychczasowe.
-Jeżeli przed dniem wejścia życie opiekuńczego zmiana nazwiska dziecka nie mogła nastąpić tego tylko powodu, że okoliczności, od których g ż k e k , c e ę e ł g e ó b ą j ą c c h c h ili c h k e k uń c e g ł j e k k e e 124 e g k e k $ 2 W c ą g ę c e j ś c ż c e k e k nn e g e k uń c e $ 3 Po j ą j e k m c e k b e c ą c e k b e g
+Jeżeli przed dniem wejścia życie opiekuńczego zmiana nazwiska dziecka nie mogła nastąpić tego tylko powodu, że okoliczności, od których gżkeks , censęełgesóbąjącchch ili chknn e k uń cegłjeskkene 124 egkeks $ 2 Wcągęcnejścżcekeks nn egek uń c e $ 3 Po sjąjenkmcsnenkssbencącen skssbneg
 

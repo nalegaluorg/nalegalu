@@ -33,7 +33,7 @@ Minister Sprawiedliwości: ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 17 g
 w sprawie określenia wzorów formularzy wniosku o ogłoszenie upadłości osoby fizycznej nieprowadzącej działalności gospodarczej Na podstawie art. 491? ust. 6 ustawy z dnia 28 lutego 2003 r. — Prawo upadłościowe (Dz. U. z 2020 r. poz. 1228 zarządza się, co następuje: $ 1. Wzór formularza:
 1) wniosku dłużnika o ogłoszenie upadłości osoby nieprowadzącej działalności gospodarczej jest określony ku nr 1 do rozporządzenia;
 2) wniosku wierzyciela o ogłoszenie upadłości osoby nieprowadzącej działalności gospodarczej jest określony niku nr 2 do rozporządzenia.
-$ 2. Rozporządzenie wchodzi w życie z dniem I stycznia 2016 r W Z Ó R Załącznik WNIOSEK DŁUŻNIKA O OGŁOSZENIE UPADŁOŚCI OSOBY FIZYCZNEJ NIEPROWADZĄCEJ DZIAŁALNOŚCI GOSPODARCZEJ Pouczenie Data wpływu: Formularz należy wypełnić czytelnie, bez skreśleń i poprawek.
+$ 2. Rozporządzenie wchodzi w życie z dniem I stycznia 2016 r WZÓR Załącznik WNIOSEK DŁUŻNIKA O OGŁOSZENIE UPADŁOŚCI OSOBY FIZYCZNEJ NIEPROWADZĄCEJ DZIAŁALNOŚCI GOSPODARCZEJ Pouczenie Data wpływu: Formularz należy wypełnić czytelnie, bez skreśleń i poprawek.
 Każdą rubrykę niezacieniowaną należy wypełnić albo przekreślić. Jeśli po wpisaniu treści w rubryce pozostało wolne miejsce, należy je przekreślić w sposób uniemożliwiający dopisywanie.
 Do wniosku należy dołączyć jego odpis i odpisy załączników.
 W przypadku gdy informacje nie mieszczą się w odpowiednich rubrykach, należy je umieścić na kolejnych ponumerowanych kartach formatu A4 ze wskazaniem uzupełnianej rubryki. Pod treścią dodaną do formularza należy złożyć podpis.
@@ -94,7 +94,7 @@ Adres do doręczeń pełnomocnika dłużnika
 3.2. Czy dłużnik wyraża zgodę na udział w postępowaniu o U TAK zawarcie układu na zgromadzeniu wierzycieli** Ż NIE * Należy zakreślić kwadrat.
 ** Jeżeli dłużnik wyrazi zgodę na udział w postępowaniu o zawarcie układu na zgromadzeniu wierzycieli, sąd może skierować dłużnika do tego postępowania, nie ogłaszając jego upadłości. Skierowanie dłużnika do postępowania o zawarcie układu zgromadzeniu wierzycieli wiąże się z koniecznością uiszczenia zaliczki na wydatki w postępowaniu w wysokości przeciętnego miesięcznego wynagrodzenia (art. 4917" ust. 1 Prawa upadłościowego).
 4. Aktualny i zupełny wykaz majątku z szacunkową wyceną
-4.1. Składniki majątku Lp. Opis składnika Informacja, czy Data Szacunkowa Miejsce, w którym majątku na danym ustanowienia | wycena składnika znajduje się składniku zabezpieczenia majątku składnik majątku majątku dłużnika ustanowiono z a b e z p i e c z e n i e
+4.1. Składniki majątku Lp. Opis składnika Informacja, czy Data Szacunkowa Miejsce, w którym majątku na danym ustanowienia | wycena składnika znajduje się składniku zabezpieczenia majątku składnik majątku majątku dłużnika ustanowiono zabezpieczenie
 1.
 2.
 3.
@@ -105,7 +105,7 @@ Adres do doręczeń pełnomocnika dłużnika
 2.
 3 .
 5 .
-4.3. Należności (wierzytelności) dłużnika względem innych podmiotów Lp. Imię i nazwisko/ Adres miejsca Waluta Wysokość Termin* nazwa podmiotu zamieszkania/ wierzytelności | wierzytelności zapłaty s i e d z i b a p o d m i o t u
+4.3. Należności (wierzytelności) dłużnika względem innych podmiotów Lp. Imię i nazwisko/ Adres miejsca Waluta Wysokość Termin* nazwa podmiotu zamieszkania/ wierzytelności | wierzytelności zapłaty siedzibapodmiotu
 1.
 2.
 3 .
@@ -117,7 +117,7 @@ Adres do doręczeń pełnomocnika dłużnika
 2.
 3.
 5 .
-6. Spis wierzytelności spornych Lp. Imię i nazwisko/nazwa | Adres wierzyciela Wysokość Termin Zaznaczenie wierzyciela wierzytelności zapłaty” zakresu, w jakim d ł u ż n kwestionuje istnienie wierzytelności
+6. Spis wierzytelności spornych Lp. Imię i nazwisko/nazwa | Adres wierzyciela Wysokość Termin Zaznaczenie wierzyciela wierzytelności zapłaty” zakresu, w jakim dłużn kwestionuje istnienie wierzytelności
 1.
 2.
 3 .
@@ -134,7 +134,7 @@ Adres do doręczeń pełnomocnika dłużnika
 10. Informacje o czynnościach prawnych dokonanych przez dłużnika w ostatnich dwunastu miesiącach dniem złożenia wniosku, których przedmiotem były ruchomości, wierzytelności lub inne prawa, których wartość przekracza 10 000 zł” Lp. Przedmiot czynności prawnej Rodzaj czynności prawnej Uwagi
 1.
 "Wartość wskazaną w pkt 10 ustala się dla wszystkich czynności dotyczących tego samego prawa lub wierzytelności, dokonanych przez dłużnika w ostatnich dwunastu miesiącach przed złożeniem wniosku.
-11 . U z a s a d n i e n i e w n i o s k u
+11 . Uzasadnieniewniosku
 12. Dowody potwierdzające okoliczności wskazane w uzasadnieniu wniosku Lp. Opis dowodu Fakt podlegający stwierdzeniu
 13. Załączniki (należy wymienić wszystkie dołączone do wniosku dokumenty) Lp. Nazwa dokumentu (załącznika)
 14. Oświadczenie dłużnika Oświadczam, że dane zawarte we wniosku są prawdziwe”.
@@ -146,7 +146,7 @@ Adres do doręczeń pełnomocnika dłużnika
 4. Zgodnie z art. 19 ust. 1 ustawy z dnia 28 lutego 2003 r. — Prawo upadłościowe wniosek o ogłoszenie upadłości rozpoznaje sąd właściwy dla głównego ośrodka podstawowej działalności dłużnika. Przez główny podstawowej działalności dłużnika należy rozumieć miejsce, w którym dłużnik regularnie zarządza swoją działalnością o charakterze ekonomicznym i które jako takie jest rozpoznawalne dla osób trzecich (art. 19 ust. 1a ustawy 28 lutego 2003 r. — Prawo upadłościowe). W przypadku osoby fizycznej nieprowadzącej działalności gospodarczej zawodowej domniemywa się, że głównym ośrodkiem podstawowej działalności dłużnika jest miejsce jego zwykłego pobytu (art. 19 ust. 1c ustawy z dnia 28 lutego 2003 r. — Prawo upadłościowe).
 "Za podanie przez dłużnika nieprawdziwych danych we wniosku o ogłoszenie upadłości grozi kara pozbawienia wolności miesięcy do 5 lat. Tej samej karze podlega, kto będąc dłużnikiem podaje sądowi nieprawdziwe informacje co do stanu dłużnika w postępowaniu w przedmiocie ogłoszenia upadłości (art. 522 ust. 1 i 2 Prawa upadłościowego).
 Jeżeli oświadczenie o prawdziwości danych nie jest zgodne z prawdą, dłużnik ponosi odpowiedzialność za szkodę wyrządzoną na skutek podania nieprawdziwych danych we wniosku o ogłoszenie upadłości (art. 491” ust. 5b Prawa upadłościowego).
-W Z Ó R Załącznik WNIOSEK WIERZYCIELA O OGŁOSZENIE UPADŁOŚCI OSOBY FIZYCZNEJ NIEPROWADZĄCEJ DZIAŁALNOŚCI GOSPODARCZEJ Pouczenie Formularz należy wypełnić czytelnie, bez skreśleń i poprawek.
+WZÓR Załącznik WNIOSEK WIERZYCIELA O OGŁOSZENIE UPADŁOŚCI OSOBY FIZYCZNEJ NIEPROWADZĄCEJ DZIAŁALNOŚCI GOSPODARCZEJ Pouczenie Formularz należy wypełnić czytelnie, bez skreśleń i poprawek.
 Każdą rubrykę niezacieniowaną należy wypełnić albo przekreślić. Jeśli po wpisaniu treści w rubryce pozostało wolne miejsce, należy je przekreślić w sposób uniemożliwiający dopisywanie.
 Do wniosku należy dołączyć jego dwa odpisy, w tym odpisy wszystkich załączników.
 W przypadku gdy informacje nie mieszczą się w odpowiednich rubrykach, należy je umieścić na kolejnych, ponumerowanych kartach formatu A4 ze wskazaniem uzupełnianej rubryki. Pod treścią dodaną do formularza należy złożyć podpis.
@@ -190,22 +190,22 @@ Adres do doręczeń wierzyciela
 Wierzyciel niebędący osobą fizyczną podaje numeru w Krajowym Rejestrze Sądowym, a w przypadku jego braku - numer innym właściwym rejestrze, ewidencji lub NIP tego wierzyciela, który nie ma obowiązku wpisu we właściwym rejestrze ewidencji, jeżeli jest on obowiązany do jego posiadania.
 Przedstawiciel ustawowy wierzyciela
 3.19. Czy wierzyciel działa CI TAK (należy wypełnić rubryki od 3.20. do 3.34.) przez przedstawiciela ustawowego? (NIE (należy przekreślić rubryki od 3.20. do 3.34.)
-3.20. Imię przedstawiciela u s t a w o w e g o :
-3.21. Nazwisko p r z e d s t a w i c i e l a u s t a w o w e g o : Miejsce zamieszkania i adres przedstawiciela ustawowego wierzyciela
-3.22. Kraj: 3 . 23 . M i e j s c o w o ś ć :
-3.24. Ulica: 3 . 25 . N u m e r d o m u : 3 . 26 . N u m e r l o k a l u :
+3.20. Imię przedstawiciela ustawowego :
+3.21. Nazwisko przedstawiciela ustawowego : Miejsce zamieszkania i adres przedstawiciela ustawowego wierzyciela
+3.22. Kraj: 3 . 23 . Miejscowość :
+3.24. Ulica: 3 . 25 . Numerdomu : 3 . 26 . Numerlokalu :
 3.27. Kod pocztowy:
-3.28. Czy adres do (I TAK (należy wypełnić rubryki od 3.29. do 3.34.) doręczeń jest inny niż adres miejsca (NIE (należy przekreślić rubryki od 3.29. do 3.34.) zamieszkania przedstawiciela u s t a w o w e g o ?
-Adres do doręczeń przedstawiciela ustawowego wierzyciela 3 . 2 9 . K r a j :
-3.30. Miejscowość: 3 . 31 . U li c a : 3 . 3 2 . N u m e r d o m u : 3 . 33 . N u m e r l o k a l u : 3 . 3 4 . K o d p o c z t o w y : Pełnomocnik wierzyciela
+3.28. Czy adres do (I TAK (należy wypełnić rubryki od 3.29. do 3.34.) doręczeń jest inny niż adres miejsca (NIE (należy przekreślić rubryki od 3.29. do 3.34.) zamieszkania przedstawiciela ustawowego ?
+Adres do doręczeń przedstawiciela ustawowego wierzyciela 3 . 2 9 . Kraj :
+3.30. Miejscowość: 3 . 31 . U li c a : 3 . 3 2 . Numerdomu : 3 . 33 . Numerlokalu : 3 . 3 4 . Kodpocztowy : Pełnomocnik wierzyciela
 3.35. Czy wierzyciel ma CI TAK (należy wypełnić rubryki od 3.36. do 3.50.) pełnomocnika?
-W NIE (należy przekreślić rubryki od 3.36. do 3.50.) 3 . 36 . I m i ę p e ł n o m o c n i k a : 3 . 37 . N a z w i s k o pełnomocnika: Miejsce zamieszkania lub siedziba i adres pełnomocnika wierzyciela 3 . 3 8 . K r a j : 3 . 39 . M i e j s c o w o ś ć : 3 . 40 . U li c a : 3 . 41 . N u m e r d o m u : 3 . 42 . N u m e r l o k a l u : 3 . 43 . K o d p o c z t o w y :
-3.44. Czy adres do d o r ę c z e ń j e s t i nn y n i ż L T A K ( n a l e ż y w y p e ł n i ć r u b r y k i o d 3 . 45 . d o 3 . 50 . ) a d r e s m i e j s c a W N I E ( n a l e ż y p r z e k r e ś li ć r u b r y k i o d 3 . 45 . d o 3 . 50 . ) zamieszkania lub s i e d z i b y p e ł n o m o c n i k a wierzyciela?
-Adres do doręczeń pełnomocnika wierzyciela 3 . 45 . K r a j :
+W NIE (należy przekreślić rubryki od 3.36. do 3.50.) 3 . 36 . Imiępełnomocnika : 3 . 37 . Nazwisko pełnomocnika: Miejsce zamieszkania lub siedziba i adres pełnomocnika wierzyciela 3 . 3 8 . Kraj : 3 . 39 . Miejscowość : 3 . 40 . U li c a : 3 . 41 . Numerdomu : 3 . 42 . Numerlokalu : 3 . 43 . Kodpocztowy :
+3.44. Czy adres do doręczeńjesti nn yniż LTAK ( należywypełnićrubrykiod 3 . 45 . d o 3 . 50 . ) adresmiejscaWNIE ( należyprzekreś li ćrubrykiod 3 . 45 . d o 3 . 50 . ) zamieszkania lub siedzibypełnomocnika wierzyciela?
+Adres do doręczeń pełnomocnika wierzyciela 3 . 45 . Kraj :
 3.46. Miejscowość:
-3.47. Ulica: 3 . 48 . N u m e r d o m u : 3 . 49 . N u m e r l o k a l u : 3 . 5 0 . K o d p o c z t o w y :
+3.47. Ulica: 3 . 48 . Numerdomu : 3 . 49 . Numerlokalu : 3 . 5 0 . Kodpocztowy :
 4. Żądanie wniosku
-4.1. Wierzyciel wnosi o ogłoszenie upadłości LG TAK d ł u ż n i k a * .
+4.1. Wierzyciel wnosi o ogłoszenie upadłości LG TAK dłużnika * .
 5. Okoliczności wskazujące na możliwość złożenia wniosku o ogłoszenie upadłości dłużnika przez wierzyciela
 5.1. Dłużnik był przedsiębiorcą, a od wykreślenia z CO TAK właściwego rejestru nie upłynął rok? Q NIE
 5.2. Dłużnik był przedsiębiorcą, który faktycznie LG TAK prowadził działalność gospodarczą, ale nie dopełnił ŻONIE obowiązku jej zgłoszenia we właściwym rejestrze i od zaprzestania prowadzenia działalności nie upłynął rok?
@@ -216,11 +216,11 @@ Adres do doręczeń pełnomocnika wierzyciela 3 . 45 . K r a j :
 4.
 5.
 * Należy zakreślić kwadrat.
-7 . U z a s a d n i e n i e w n i o s k u ” 8 . D o w o d y p o t w i e r d z a j ą c e o k o l i c z n o ś c i w s k a z a n e w u z a s a d n i e n i u w n i o s k u Lp. Opis dowodu F a k t p o d l e g a j ą c y s t w i e r d z e n i u
-3) Załączniki (należy wymienić wszystkie dokumenty dołączone do wniosku) Lp. N a z w a d o k u m e n t u ( z a ł ą c z n i k a ) * W uzasadnieniu należy także wskazać okoliczności będące podstawą zakreślenia odpowiedniego kwadratu w rubryce 5 . 2 .
-10 . I m i ę i n a z w i s k o ( c z y t e l n i e ) o r a z p o dp i s o s o b y w n o s z ą c e j w n i o s e k
-11. D a t a POUCZENIA: 1 . _ W n i o s e k n a l e ż y z ł o ż y ć w b i u r z e p o d a w c z y m s ą d u l u b p r z e s ł a ć p o c z t ą n a a d r e s s ą d u .
-2 . W n i o s e k p o w i n i e n b y ć n a l e ż y c i e o p ł a c o n y — o p ł a t a w y n o s i 30 z ł .
-3 . _ N i e z a c h o w a n i e w a r un k ó w f o r m a l n y c h w n i o s k u l u b j e g o n i e o p ł a c e n i e p o w o d u j e w e z w a n i e d o u z u p e ł n i e n i a b t e r m i n i e t y g o d n i o w y m . J e ż e li b r a k i n i e z o s t a n ą u z u p e ł n i o n e w t e r m i n i e , w n i o s e k p o d l e g a z w r o t o w i .
-p o d s t a w o w e j d z i a ł a l n o ś c i d ł u ż n i k a n a l e ż y r o z u m i e ć m i e j s c e , w k t ó r y m d ł u ż n i k r e g u l a r n i e z a r z ą d z a d z i a ł a l n o ś c i ą o c h a r a k t e r z e e k o n o m i c z n y m i k t ó r e j a k o t a k i e j e s t r o z p o z n a w a l n e d l a o s ó b t r z e c i c h ( a r t . 19 u s t a w y z d n i a 28 l u t e g o 2003 r . — P r a w o u p a d ł o ś c i o w e ) . W p r z y p a d k u o s o b y fi z y c z n e j n i e p r o w a d z ą c e j d z i g o s p o d a r c z e j l u b z a w o d o w e j d o m n i e m y w a s i ę , ż e g ł ó w n y m o ś r o d k i e m p o d s t a w o w e j d z i a ł a l n o ś c i d ł u ż n m i e j s c e j e g o z w y k ł e g o p o b y t u ( a r t . 19 u s t . 1 c u s t a w y z d n i a 28 l u t e g o 2003 r . — P r a w o u p a d ł o ś c i o w e ) .
+7 . Uzasadnieniewniosku ” 8 . Dowodypotwierdzająceokolicznościwskazanewuzasadnieniuwniosku Lp. Opis dowodu Faktpodlegającystwierdzeniu
+3) Załączniki (należy wymienić wszystkie dokumenty dołączone do wniosku) Lp. Nazwadokumentu ( załącznika ) * W uzasadnieniu należy także wskazać okoliczności będące podstawą zakreślenia odpowiedniego kwadratu w rubryce 5 . 2 .
+10 . Imięinazwisko ( czytelnie ) orazpo dp isosoby wnoszącejwniosek
+11. Data POUCZENIA: 1 . _ Wnioseknależyzłożyćwbiurzepodawczymsądulubprzesłaćpocztąnaadressądu .
+2 . Wniosekpowinienbyćnależycieopłacony — opłatawynosi 30 z ł .
+3 . _ Niezachowaniewar un kówformalnychwnioskulubjegonieopłaceniepowodujewezwaniedouzupełnieniab terminietygodniowym . Jeże li brakiniezostanąuzupełnionewterminie , wniosekpodlegazwrotowi .
+podstawowejdziałalnościdłużnikanależyrozumiećmiejsce , wktórymdłużnikregularniezarządza działalnościąocharakterzeekonomicznymiktórejakotakiejestrozpoznawalnedlaosóbtrzecich ( a r t . 19 ustawyzdnia 28 lutego 2003 r . — Prawoupadłościowe ) . Wprzypadkuosoby fi zycznejnieprowadzącejdzi gospodarczejlubzawodowejdomniemywasię , żegłównymośrodkiempodstawowejdziałalnościdłużn miejscejegozwykłegopobytu ( a r t . 19 u s t . 1 custawyzdnia 28 lutego 2003 r . — Prawoupadłościowe ) .
 

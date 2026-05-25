@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001988) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1988/text.pdf) |
 
-U M O W A między Rzecząpospolitą Polską a Federacyjną Republiką Brazylii o przekazywaniu osób skazanych Rzeczpospolita Polska i Federacyjna Republika Brazylii, zwane dalej "Stronami", kierując się pragnieniem rozwoju stosunków prawnych między obydwiema Stronami i dążąc do umożliwienia osobom skazanym skuteczniejszej resocjalizacji,
-d) *państwo wykonania” oznacza państwo, do którego osoba skazana może być przekazana lub została przekazana w celu odbycia kary, e ) „ o s o b a s k a z a n a ” o z n a c z a o s o b ę , w o b e c k t ó r e j w y d a n o n a t e r y t o r i u m j e d n e j ze Stron prawomocne orzeczenie o skazaniu, f ) „ o b y w a t e l ”” o z n a c z a , w o d n i e s i e n i u d o R z e c z y p o s p o li t e j Po l s k i e j - k a ż d ą o s o b ę , k t ó r a z g o d n i e z p o l s k i m p r a w e m p o s i a d a p o l s k i e o b y w a t e l s t w o , a w odniesieniu do Federacyjnej Republiki Brazylii — obywatela zgodnie z Konstytucją Brazylii.
-Z a s a d y o g ó l n e Strony zobowiązują się do udzielania sobie, na zasadach określonych w niniejszej Umowie, możliwie najszerszej pomocy w zakresie przekazywania osób Osoba skazana na terytorium jednej Strony może być przekazana na terytorium drugiej Strony w celu odbycia orzeczonej kary. W tym celu osoba skazana może wyrazić wobec państwa skazania lub państwa wykonania swoje życzenie przekazania.
+UMOWA między Rzecząpospolitą Polską a Federacyjną Republiką Brazylii o przekazywaniu osób skazanych Rzeczpospolita Polska i Federacyjna Republika Brazylii, zwane dalej "Stronami", kierując się pragnieniem rozwoju stosunków prawnych między obydwiema Stronami i dążąc do umożliwienia osobom skazanym skuteczniejszej resocjalizacji,
+d) *państwo wykonania” oznacza państwo, do którego osoba skazana może być przekazana lub została przekazana w celu odbycia kary, e ) „ osobaskazana ” oznaczaosobę , wobecktórejwydanonaterytoriumjednej ze Stron prawomocne orzeczenie o skazaniu, f ) „ obywatel ”” oznacza , wodniesieniudoRzeczypospo li t e j Po lskiej - każdą osobę , którazgodniezpolskimprawemposiadapolskieobywatelstwo , a w odniesieniu do Federacyjnej Republiki Brazylii — obywatela zgodnie z Konstytucją Brazylii.
+Zasadyogólne Strony zobowiązują się do udzielania sobie, na zasadach określonych w niniejszej Umowie, możliwie najszerszej pomocy w zakresie przekazywania osób Osoba skazana na terytorium jednej Strony może być przekazana na terytorium drugiej Strony w celu odbycia orzeczonej kary. W tym celu osoba skazana może wyrazić wobec państwa skazania lub państwa wykonania swoje życzenie przekazania.
 O przekazanie osoby skazanej może wnosić każda ze Stron.
 Prawa osób skazanych Państwo skazania powinno udzielić osobie skazanej, do której może mieć zastosowanie niniejsza Umowa informacji o jej treści. Informacja powinna zostać udzielona w języku zrozumiałym dla osoby skazanej. Nie wyłącza to uprawnienia państwa wykonania do udzielenia osobie skazanej takich informacji.
 Osoba skazana lub jej przedstawiciel ustawowy może wystąpić do każdej ze Stron z inicjatywą podjęcia czynności mających na celu przekazanie. Strona ta poinformuje osobę skazaną lub jej przedstawiciela ustawowego o podjętych czynnościach.
@@ -75,22 +75,22 @@ b) przestępstwo, za które nastąpiło skazanie, nie stanowi przestępstwa w ro
 4. Wniosek o tranzyt nie jest wymagany, jeżeli korzysta się z drogi lotniczej nad terytorium Strony, z wyjątkiem wypadków gdy transport odbywa się przy pomocy
 1. W sprawach objętych niniejszą Umową Strony porozumiewają się za pośrednictwem ich organów centralnych.
 Organem centralnym w Rzeczypospolitej Polskiej jest Minister Sprawiedliwości, a w Federacyjnej Republice Brazylii - Ministerstwo Sprawiedliwości.
-3. Nie wyklucza to możliwości porozumiewania się drogą dyplomatyczną, jeżeli A r t y k u ł 14 l. Do wniosku o przekazanie oraz innych dokumentów przekazywanych na podstawie niniejszej Umowy dołącza się ich tłumaczenie na język urzędowy
+3. Nie wyklucza to możliwości porozumiewania się drogą dyplomatyczną, jeżeli Artykuł 14 l. Do wniosku o przekazanie oraz innych dokumentów przekazywanych na podstawie niniejszej Umowy dołącza się ich tłumaczenie na język urzędowy
 2. Wniosek o przekazanie oraz inne dokumenty przekazywane na podstawie niniejszej Umowy nie wymagają uwierzytelnienia, o ile Umowa niniejsza nie terytorium państwa skazania, Stosunek do umów międzynarodowych międzynarodowych.
 Ratyfikacja, wejście w życie i wypowiedzenie
 1. Umowa niniejsza podlega ratyfikacji.
 2. Umowa niniejsza wejdzie w życie po upływie sześćdziesięciu dni od dnia otrzymania drugiej noty dyplomatycznej potwierdzającej jej ratyfikację.
 3. Umowa niniejsza zawarta jest na czas nieokreślony. Może być wypowiedziana w drodze notyfikacji przez każdą ze Stron. W takim wypadku utraci ona moc po upływie sześciu miesięcy od dnia otrzymania notyfikacji. Wypowiedzenie nie wywołuje skutków wobec postępowań będących w toku.
 Na dowód czego pełnomocnicy Stron należycie do tego upoważnieni podpisali niniejszą Umowę i opatrzyli ją pieczęciami.
-S p o r z ą d z o n o w p r a c u d n i a 26 L i s t o p c d a , J O w k u , czym wszystkie teksty są jednakowo autentyczne.
+Sporządzonowpracudnia 26 Listopcda , JOwku , czym wszystkie teksty są jednakowo autentyczne.
 JNSPSESM A Da Rzeczypospolitej Polskiej Federacyjnej Republiki Brazylii ACORDO ENTRE A REPUBLICA DA POLONIA E A REPUBLICA FEDERATIVA DO BRASIL SOBRE TRANSFERENCIA DE PESSOAS CONDENADAS A Republica da Polónia e a Republica Federativa do Brasil, doravante desejosas de desenvolverem cooperagao legal entre as Partes e objetivando uma reabilitacdo social mais efetiva de pessoas condenadas, Definicóes Para os propósitos deste Acordo:
 a) "pena” significa qualquer punigao ou medida privativa de liberdade ordenada por
 b) *"sentenca” significa uma decisio ou ordem de uma autoridade judicial competente que impóe uma pena;
 c) "Estado de condenagado” significa o Estado no qual a pena foi imposta a pessoa que pode ser, ou foi, transferida para cumprir sua pena;
 d) "Estado de execugao” significa o Estado para o qual a pessoa condenada pode ser ou foi, transferida para cumprir sua pena;
 e) "pessoa condenada” significa uma pessoa que foi condenada por uma sentenca definitiva no território de uma das Partes;
-acordo com a legislagdo polonesa, possua a nacionalidade polonesa e, em relagdo a Republica Federativa do Brasil, um nacional tal como definido na Constituigao b r a s il e i r a .
-1. As Partes comprometem-se a fornecer cooperagdo uma 4 outra, na medida mais ampla, em relagio 4 transferćncia de pessoas condenadas, conforme as disposicóes deste A c o r d o .
+acordo com a legislagdo polonesa, possua a nacionalidade polonesa e, em relagdo a Republica Federativa do Brasil, um nacional tal como definido na Constituigao bras il eira .
+1. As Partes comprometem-se a fornecer cooperagdo uma 4 outra, na medida mais ampla, em relagio 4 transferćncia de pessoas condenadas, conforme as disposicóes deste Acordo .
 2. Uma pessoa condenada no território de uma Parte pode ser transferida para o território da outra Parte para cumprir a pena que lhe foi imposta. Para esse fim, essa pessoa podera expressar ao Estado de condenacdo ou ao Estado de execucAdo seu interesse em ser transferida.
 3. A transferóncia de uma pessoa condenada pode ser requerida por qualquer uma das Partes.
 1. O Estado de condenacdo fomecera a pessoa condenada a quem este Acordo podera ser aplicado informacóes sobre seu conteido. Tais informacóes devem ser fornecidas em idioma compreensivel para a pessoa condenada. Isso nado exclui a possibilidade de o Estado de execugao fornecer tais informacóes 4 pessoa condenada.
@@ -113,9 +113,9 @@ d) outras informacóes que possam ser relevantes para a transferEncia da pessoa 
 Comunicacio entre as Partes JE A comunicacado entre as Partes a respeito de assuntos relativos a este Acordo sera feita por escrito.
 2. Em casos urgentes, poderdo ser utilizados meios de comunicacgao rapida, incluido fax ou correspondencia eletrónica. Caso solicitado por qualquer das Partes, sera fornecida confirmagao por escrito das informacóes transmitidas por esses meios.
 3. As Partes notificar-se-io prontamente de sua decisao de anuir 4 transferćncia ou
-4. A transferćncia da pessoa condenada ocorrera em local e momento acordados D o c u m e n t o s d e i n s t r u c a o 1 . O E s t a d o d e e x e c u g a o , s e s o li c i t a d o p e l o E s t a d o d e c o n d e n a g a o , f o r n e c e r a :
+4. A transferćncia da pessoa condenada ocorrera em local e momento acordados Documentosdeinstrucao 1 . OEstadodeexecugao , seso li citadopeloEstadodecondenagao , fornecera :
 a) um documento que indique que a pessoa condenada ć nacional do Estado de
-b) uma cópia da legislacgio relevante que comprove que os atos ou omissóes pelos quais a pena tenha sido imposta constituem crime de acordo com a lei do Estado d e e x e c u q a o o u c o n s t i t u i r i a m c r i m e s e c o m e t i d o s e m s e u t e rr i t ó r i o .
+b) uma cópia da legislacgio relevante que comprove que os atos ou omissóes pelos quais a pena tenha sido imposta constituem crime de acordo com a lei do Estado deexecuqaoouconstituiriamcrimesecometidosemseute rr itório .
 2. Se uma transferćncia for solicitada, o Estado de condenacdo fomnecera os seguintes documentos ao Estado de execugAo:
 a) uma cópia certificada da sentenga de condenacao confirmada como definitiva e
 b) texto da łei na qual a pena ć baseada, incluindo regras relativas A sua prescrięa0;
@@ -125,15 +125,15 @@ e) se for o caso, quaisquer relatórios módicos da pessoa condenada, informacó
 f) outros documentos que possam ser relevantes para a consideracAo da solicitagao.
 3. Se uma Parte considerar que as informacóes e os documentos fornecidos sao insuficientes para a andlise da solicitacdo, podera solicitar que esses sejam complementados, em um limite de tempo especificado. Tal limite de tempo poderą ser forem recebidos, o pedido sera considerado com base nas informacóes e nos documentos que ja estiverem em posse daquela Parte.
 4. Qualquer das Partes podera solicitar o fornecimento de quaisquer documentos ou declaracóes referidos nos paragrafos | ou 2 antes de fazer um pedido de transferencia ou de tomar uma decisńo quanto a aceitagdo ou 4 recusa da transferćncia.
-Artigo 8 C o n s e n t i m e n t o d a p e ss o a c o n d e n a d a e s u a v e r i fi c a c i o l . O E s t a d o d e c o n d e n a c a o g a r a n t i r a q u e a p e ss o a c o n d e n a d a d ć s e u c o n s e n t i m e n t o p a r a a t r a n s f e r e n c i a d e a c o r d o c o m o A r t i g o 4 , p a r a g r a f o I , a li n e a d ) e o f a g a voluntariamente e com total conhecimento das consequćncias legais do ato.
-2 . O E s t a d o d e c o n d e n a c i o c o n c e d e r a a o E s t a d o d e e x e c u c d o a o p o r t un i d a d e d e v e r i fi c a r s e o c o n s e n t i m e n t o f o i d a d o d e a c o r d o c o m a s c o n d i c ó e s e s t a b e l e c i d a s n o p a r a g r a f o 1 . A v e r i fi c a g i o s e r r e a li z a d a p o r u m c ó n s u l o u p o r f un c i o n a r i o d e s i g n a d o Cumprimento da Sentenca
+Artigo 8 Consentimentodape ss oacondenadaesuaveri fi cacio l . OEstadodecondenacaogarantiraqueape ss oacondenadadćseuconsentimento paraatransferenciadeacordocomoArtigo 4 , paragrafoI , a li nead ) eofaga voluntariamente e com total conhecimento das consequćncias legais do ato.
+2 . OEstadodecondenacioconcederaaoEstadodeexecucdoaoport un idadede veri fi carseoconsentimentofoidadodeacordocomascondicóesestabelecidasno paragrafo 1 . Averi fi cagioserrea li zadaporumcónsulouporf un cionariodesignado Cumprimento da Sentenca
 1. A continuacio do cumprimento da sentenca depois da transferćncia sera regida pelas leis e pelos procedimentos do Estado de execugdo, inclusive as condicóes relativas A prisńo, confinamento ou outra privacAdo de liberdade e aquelas relativas a reducśo do termo de aprisionamento, confinamento ou outra privagado de liberdade por liberdade condicional, remissao ou outros.
 2. O Estado de execugao estara vinculado pela natureza legal e pela duracdo da pena, tal como determinadas pelo Estado de condenacao.
 imposta no Estado de condenacao. Nenhuma pena de privacdo de liberdade sera ser notificado da decisado, dar efeito A medida, nos termos deste Artigo.
 Efeitos da Transferencia
 2. O Estado de condenacao estara autorizado a aplicar a parte remanescente da pena se a pessoa condenada, tentando eximir-se do cumprimento da pena, deixar o território do Estado de execucado e retornar ao território do Estado de condenacdo. Em tais considerar que a aplicacgdo da pena foi finalizada.
-I n f o r m a c a o s o b r e a a p li c a c a o d a p e n a 1 . A s P a r t e s n o t i fi c a r - s e - i o d e q u a i s q u e r c i r c un s t a n c i a s q u e a f e t e m a a p li c a c gd o d a 2 . O E s t a d o d e e x e c u g i o f o r n e c e r a i n f o r m a c ó e s r e l a t i v a s a a p li c a gd o d a p e n a a o E s t a d o d e c o n d e n a g a o : a ) q u a n d o s o li c i t a d o p e l o E s t a d o d e c o n d e n a q a o ;
-b ) q u a n d o a p e n a t i v e r s i d o a p li c a d a o u q u a n d o a a p li c a gd o d a p e n a f o r c o n s i d e r a d a c ) s e a p e ss o a c o n d e n a d a f u g i r d a c u s t ó d i a a n t e s d o t ć r m i n o d a a p li c a gd o d a p e n a .
+Informacaosobreaap li cacaodapena 1 . AsPartesnoti fi c a r - s e - iodequaisquercirc un stanciasqueafetemaap li c a c gd o d a 2 . OEstadodeexecugiofornecerainformacóesrelativasaap li c a gd odapenaao Estadodecondenagao : a ) quandoso li citadopeloEstadodecondenaqao ;
+b ) quandoapenativersidoap li cadaouquandoaap li c a gd odapenaforconsiderada c ) seape ss oacondenadafugirdacustódiaantesdotćrminodaap li c a gd odapena .
 3. O Estado de condenagao informara ao Estado de execugao sobre:
 b) anulacao ou substituigdo da pena;
 c) adogido de decisao cuja consequencia seja que a pena deixa de ser aplicavel.
@@ -141,8 +141,8 @@ c) adogido de decisao cuja consequencia seja que a pena deixa de ser aplicavel.
 2. UmaParte pode recusar o transito:
 a) se a pessoa condenada for um de seus nacionais; ou
 b) se o crime pelo qual a pena foi imposta ndo constituir um crime segundo sua própria lei.
-3. _ Os pedidos de transito e as respectivas respostas serio comunicados pelos canais r e f e r i d o s n o s A r t i g o s 6 , 13 e 14 .
-4 . _ N e nhu m p e d i d o d e t r A n s i t o s e r a s o li c i t a d o s e o t r a n s p o r t e f o r p e l a v i a a ć r e a s o b r e o território de qualquer das Partes e se nenhuma aterrissagem estiver prevista, exceto se a t r a n s f e r E n c i a o c o rr e r e m a e r o n a v e m ili t a r .
+3. _ Os pedidos de transito e as respectivas respostas serio comunicados pelos canais referidosnosArtigos 6 , 13 e 14 .
+4 . _ N e nhu mpedidodetrAnsitoseraso li citadoseotransporteforpelaviaaćreasobre o território de qualquer das Partes e se nenhuma aterrissagem estiver prevista, exceto se atransferEnciaoco rr eremaeronavem ili t a r .
 |. As Partes comunicar-se-Ao por meio de suas autoridades centrais, em todos os assuntos abrangidos por este Acordo.
 2. A autoridade central da Republica da Polónia sera o Ministro da Justica, e da Republica Federativa do Brasi] sera o Ministćrio da Justiga.
 3. - Poderao ser utilizados os canais diplomaticos, caso necessśrio.
@@ -156,7 +156,7 @@ Os termos deste Acordo aplicar-se-io A transferćncia de pessoas que foram conde
 Artigo 18 Consultas Por solicitacdo de quałquer das Partes, consultas poderdo ser realizadas acerca da interpretacdo ou aplicacdo deste Acordo.
 segunda nota diplomatica confirmando sua ratificagao.
 3. Este Acordo vigorara por tempo indeterminado e podera ser denunciado por notificagao de qualquer uma das Partes. Nesse caso, o Acordo cessara seus efeitos após seis meses da data do recebimento da notificacao, ressalvados os processos em tramite.
-Em fe do que, os Representantes devidamente autorizados das Partes assinaram e s e l a r a m e s t e A c o r d o .
+Em fe do que, os Representantes devidamente autorizados das Partes assinaram e selaramesteAcordo .
 Feito em Brasilia, em 26 de novembro de 2012, em dois originais, cada um nos Modul Sted. KO AGREEMENT between the Republic of Poland and the Federative Republic of Brazil on the transfer of sentenced persons The Republic of Poland and the Federative Republic of Brazil, hereinafter referred to as "the Parties”, desirous of developing legal co-operation between the Parties and aiming at a more effective social rehabilitation of sentenced persons,
 a) *'sentence” means any punishment or measure involving deprivation of
 c) *sentencing State” means the State in which the sentence was imposed on be, or has been, transferred in order to serve his sentence,
@@ -205,10 +205,10 @@ Language and certification
 a) the transfer of the sentenced person, except the expenses incurred in the
 b) the continued enforcement of the sentence after transfer of the sentenced
 2. The administering State may seek to recover all or part of the cost of transfer from the sentenced person.
-This Agreement shall not affect any obligations of the Parties under any other A r t i c l e 17 either before or after its entry into force.
+This Agreement shall not affect any obligations of the Parties under any other Article 17 either before or after its entry into force.
 Consultations At the request of either Party, consultations shall be held on the interpretation or application of this Agreement.
 Ratification, entry into force and termination This Agreement shall be subject to ratification.
 of the second diplomatic note confirming its ratification.
 terminated by means of a notification by either Party. In such case, the Agreement shall cease to be effective after the lapse of six months from the date of receipt of the notification. This termination shall not affect ongoing signed and sealed this Agreement.
-D o n e a t B V A S I Ś g n t h i s 26 d a y o k N o v e m b u o t l o ń ż in two copies, each in the Polish, Portuguese and English language, all texts being k d . S a l e D E C
+DoneatBVASIŚgnthis 26 dayokNovemb uotlońż in two copies, each in the Polish, Portuguese and English language, all texts being k d . SaleDEC
 

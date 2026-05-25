@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo budowlane**.
 
-Łącznie: **31** aktów
+Łącznie: **30** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -34,8 +34,7 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU20051631364](WDU20051631364/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Prawo budowlane oraz o zm | Ustawa | obowiązujący | [tak](WDU20051631364/orzecznictwo.md) |
 | [WDU20030800718](WDU20030800718/index.md) | Ustawa z dnia 27 marca 2003 r. o zmianie ustawy - Prawo budowlane oraz o zm | Ustawa | obowiązujący | [tak](WDU20030800718/orzecznictwo.md) |
 | [WDU20030800717](WDU20030800717/index.md) | Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzenny | Ustawa | akt posiada tekst jednolity | [tak](WDU20030800717/orzecznictwo.md) |
-| [WDU19971110726](WDU19971110726/index.md) | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo budowlane, ustaw | Ustawa | obowiązujący |  |
 | [WDU19961460680](WDU19961460680/index.md) | Ustawa z dnia 11 października 1996 r. o zmianie ustawy o postępowaniu egzek | Ustawa | obowiązujący |  |
 | [WDU19940890414](WDU19940890414/index.md) | Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane. | Ustawa | akt posiada tekst jednolity | [tak](WDU19940890414/orzecznictwo.md) |
 
-*31 aktów • [← Powrót do spisu głównego](../README.md)*
+*30 aktów • [← Powrót do spisu głównego](../README.md)*

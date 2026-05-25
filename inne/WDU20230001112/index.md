@@ -57,5 +57,5 @@ sprawie przeniesienia planowanych dochodów wydatków budżetowych, tym wynagrod
 § 4. 1. Przenosi się planowane dochody budżetowe, części 85 Budżety wojewodów ogółem, kwocie 3.709.821 zł, do części 22 Gospodarka wodna, działu 900 Gospodarka komunalna ochrona środowiska, rozdziału 90095 Pozostała działalność.
 2. Szczegółowy podział planowanych dochodów, których mowa ust. 1, określa załącznik nr 4 do rozporządzenia.
 § 5. Rozporządzenie wchodzi życie dniem ogłoszenia , mocą od dnia 1 stycznia 2018 r.
-M W W W W W M M M W W M W W W m M W m W W M W W W W M W W W M W W W m M W m W m M W m W W W M W W W M W W W M W W W m M W m W W M W W W M W W W m m M W m m W W M W W W W W W m M W m W m W W W W W M M M W W W W W W W W W W W M M M W W W W m m W m m W W m W W W M M W m W M W m M W M W M W M W m M W m M W M W M W M W m M W W M W m m M W M W m M W m
+M W W W W W M M M W W M W W W M W W W M W W W W M W W W M W W W M W W M W W W W M W W W M W W W M W W W M W W W M W W W M W W W M W W W M W W W W W W M W W W W W W W M M M W W W W W W W W W W W M M M W W W W W W W W W W M M W W M W M W M W M W M W M W M W M W M W M W M W W M W M W M W M W
 

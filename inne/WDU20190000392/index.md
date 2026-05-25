@@ -57,7 +57,7 @@ l) jest dokonywana przez ekspertów powoływanych przez ministra na wniosek Prze
 2) obejmuje poziom merytoryczny monografii naukowych zgłoszonych do oceny.
 $ 4. 1. Kierownik ewaluowanego podmiotu prowadzącego badania naukowe lub prace rozwojowe na rzecz obronności i bezpieczeństwa państwa objęte ochroną informacji niejawnych może złożyć wniosek o przeprowadzenie ewaluacji trybie i na warunkach określonych $ 29—32.
 2. We wniosku, o którym mowa ust. I, określa się: I) udział badań naukowych lub prac rozwojowych na rzecz obronności i bezpieczeństwa państwa objętych ochroną informacji niejawnych działalności naukowej ewaluowanego podmiotu ramach poszczególnych dyscyplin ukowych, zwany dalej „liczbą B”, przy czym ewaluacji uwzględnia się liczbę B wynoszącą nie więcej niż 0,5;
-2) najwyższą klauzulę tajności osiągnięć naukowych uwzględnianych ewaluacji, objętych ochroną informacji niejawn y c h .
+2) najwyższą klauzulę tajności osiągnięć naukowych uwzględnianych ewaluacji, objętych ochroną informacji niejawnych .
 $ 5. Wnioski, o których mowa $3 i$4, oraz wniosek, o którym mowa wart. 265 ust. 3 ustawy z dnia 20 2018 r. — Prawo o szkolnictwie wyższym i nauce, zwanej dalej „ustawą”, składa się:
 l) za pomocą elektronicznej skrzynki podawczej ministra, formie dokumentu elektronicznego opatrzonego kwalifikowanym podpisem elektronicznym albo podpisem zaufanym;
 2) wterminie do dnia 30 września ostatniego roku objętego ewaluacją.
@@ -129,7 +129,7 @@ l) monografii naukowej, o której mowa $ 8 pkt 4, która uzyskała pozytywny wyn
 2) 100% całkowitej wartości punktowej artykułu naukowego, jeżeli wartość ta zgodnie z przepisem $ 12 ust. 1 wynosi 100, 140 albo 200 pkt;
 iloczyn wartości:
 a) „/k/m i całkowitej wartości punktowej artykułu naukowego, jeżeli wartość ta zgodnie z przepisem $ 12 pkt I wynosi 40 albo 70 pkt, ale nie mniej niż 10% tej wartości,
-b) k/m icałkowitej wartości punktowej artykułu naukowego, jeżeli wartość ta zgodnie z przepisem $ 12 pkt I wynosi 20 pkt albo jeżeli wartość ta zgodnie z przepisem $ 12 ust. 1 pkt 2 wynosi 5 pkt, ale nie mniej 10% tej wartości — gdzie: k— oznacza liczbę autorów artykułu naukowego będących osobami, o których mowa $ 11 ust. 1, którzy upoważnili ewaluowany podmiot do wykazania artykułu naukowego jako osiągnięcia naukowego danej dyscyplinie k o e j , m — oznacza liczbę autorów artykułu naukowego ogółem.
+b) k/m icałkowitej wartości punktowej artykułu naukowego, jeżeli wartość ta zgodnie z przepisem $ 12 pkt I wynosi 20 pkt albo jeżeli wartość ta zgodnie z przepisem $ 12 ust. 1 pkt 2 wynosi 5 pkt, ale nie mniej 10% tej wartości — gdzie: k— oznacza liczbę autorów artykułu naukowego będących osobami, o których mowa $ 11 ust. 1, którzy upoważnili ewaluowany podmiot do wykazania artykułu naukowego jako osiągnięcia naukowego danej dyscyplinie koej , m — oznacza liczbę autorów artykułu naukowego ogółem.
 2. W przypadku: wieloautorskiej monografii naukowej, której całkowita wartość punktowa zgodnie z przepisem:
 a) $ l2ust. 2 pkt I wynosi 200 pkt,
 b) $ l2ust. 5pkt1 lit. a wynosi 300 pkt, wieloautorskiego rozdziału monografii naukowej, którego całkowita wartość punktowa zgodnie z przepisem:
@@ -241,7 +241,7 @@ projektów finansowanych ramach Narodowego Programu Rozwoju Humanistyki;
 komercjalizacji wyników badań naukowych lub prac rozwojowych lub know-how związanego z tymi wynikami;
 usług badawczych świadczonych na zlecenie podmiotów nienależących do systemu szkolnictwa wyższego 1 nauki.
 2. Przy ocenie efektów finansowych badań naukowych i prac rozwojowych uwzględnia się: środki finansowe przyznane ewaluowanemu podmiotowi na realizację projektów, o których mowa ust. 1 pkt których:
-a) osoba, o której mowa $ 11 ust. 1 pkt I albo 2, albo osoba, która okresie objętym ewaluacją była zatrudniona tym podmiocie na jednym ze stanowisk, o których mowa $ Il ust. I pkt 3, i wskazała daną dyscyplinę ukową oświadczeniu, o którym mowa art. 343 ust. 7 ustawy, jest albo była kierownikiem: — projektu — przypadku gdy ewaluowany podmiot jest albo był liderem grupy realizującej projekt, — zespołu badawczego — przypadku gdy ewaluowany podmiot jest albo był jednym ze współwykonawców p r o j e k t u ,
+a) osoba, o której mowa $ 11 ust. 1 pkt I albo 2, albo osoba, która okresie objętym ewaluacją była zatrudniona tym podmiocie na jednym ze stanowisk, o których mowa $ Il ust. I pkt 3, i wskazała daną dyscyplinę ukową oświadczeniu, o którym mowa art. 343 ust. 7 ustawy, jest albo była kierownikiem: — projektu — przypadku gdy ewaluowany podmiot jest albo był liderem grupy realizującej projekt, — zespołu badawczego — przypadku gdy ewaluowany podmiot jest albo był jednym ze współwykonawców projektu ,
 b) tematyka jest merytorycznie związana z badaniami naukowymi lub pracami rozwojowymi prowadzonymi ramach danej dyscypliny naukowej;
 przychody z tytułów, o których mowa ust. I pkt 3 14, osiągnięte przez ewaluowany podmiot albo inny podmiot utworzony przez niego celu komercjalizacji wyników badań naukowych lub prac rozwojowych prowadzonych ewaluowanym podmiocie ramach danej dyscypliny naukowej lub kaow-how związanego z tymi wynikami.
 3. Przy ocenie efektów finansowych badań naukowych i prac rozwojowych osiągnięcia, o których mowa uwzględnia się ramach dyscyplin naukowych wskazanych przez ewaluowany podmiot systemie POL-on. W przypadku osiągnięć interdyscyplinarnych ewaluowany podmiot określa procentowy udział środków finansowych przyznanych realizację projektu, o którym mowa ust. 1 pkt 1 albo 2, przypadających na daną dyscyplinę naukową albo procentowy udział badań naukowych lub prac rozwojowych prowadzonych ramach danej dyscypliny naukowej przychodach z tytułu, o którym mowa ust. I pkt 3 albo 4.
@@ -319,7 +319,7 @@ dyscypliny przez wiodące europejskie ośrodki naukowe o zbliżonym potencjale n
 2) liczbę i doniosłość cytowań artykułów naukowych uwzględnionych ewaluacji autorstwa albo współautorstwa o których mowa $ 11 ust. 1, odniesieniu do poziomu europejskiego określonego na podstawie wskaźników bibliometrycznych międzynarodowych bazach o największym zasięgu;
 3) liczbę monografii naukowych uwzględnionych ewaluacji, których całkowita wartość punktowa wynosi 200 300 pkt, autorstwa albo współautorstwa osób, o których mowa $ Il ust. 1;
 4) znaczenie wyników tej działalności dla:
-a) rozwoju gospodarczego kraju, szczególności dla zwiększenia konkurencyjności i innowacyjności polskiej p o d a r k i ,
+a) rozwoju gospodarczego kraju, szczególności dla zwiększenia konkurencyjności i innowacyjności polskiej podarki ,
 b) rozwoju społecznego kraju, ochrony dziedzictwa narodowego lub rozwoju kultury i sztuki;
 5) liczbę projektów, o których mowa $ 22 ust. 1 pkt 1 lit. a, ze szczególnym uwzględnieniem projektów finansowanych przez Europejską Radę do Spraw Badań Naukowych (European Research Council);
 6) liczbę wybitnych osiągnięć artystycznych.
@@ -377,7 +377,7 @@ Minister Nauki i Szkolnictwa Wyższego: J. Gowin
 maturgia, kierownictwo produkcji lub pierwszoplanowa rola — | 100 — przypadku przypadku filmu fabularnego, dokumentalnego lub animowanego, | nięcia o dużym znaczeniu realizacji telewizyjnej lub serialu telewizyjnego; dla sztuk teatralnych
 2) reżyseria lub reżyseria światła; autorstwo: scenariusza, adaptacji, tek- | filmowych;
 stu sztuki, scenografii, kostiumów, choreografii; dramaturgia lub | 50 — pozostałych pierwszoplanowa rola — przypadku spektaklu teatralnego, muzycz- | padkach nego lub telewizyjnego;
-3) autorstwo muzyki do spektaklu teatralnego, muzycznego lub telewiz y j n e g o ;
+3) autorstwo muzyki do spektaklu teatralnego, muzycznego lub telewizyjnego ;
 4) retrospektywa dorobku artystycznego”? na prestiżowych festiwalach teatralnych lub filmowych, telewizji lub podczas wydarzeń dedykowanych twórcy, organizowanych przez prestiżowe instytucje kultury 2 1) autorstwo realizacji multimedialnej lub fotograficznej, rozpowszech- 200 — przypadku nionej prestiżowej galerii lub innej przestrzeni podczas znaczące- | nięcia wybitnego”;
 go wydarzenia artystycznego; 100 — przypadku
 2) indywidualna wystawa dzieł multimedialnych lub fotograficznych nięcia o dużym znaczeniu zorganizowana przez instytucję artystyczną dla sztuk teatralnych filmowych;
@@ -394,9 +394,9 @@ nomowaną instytucję artystyczną o zasięgu co najmniej ogólnopolskim; | 25 �
 5) aranżacja muzyki do spektaklu teatralnego, muzycznego lub telewizyj6) opracowanie językowe, gwarowe lub wokalne dzieła teatralnego lub filmowego;
 7) inne dzieło teatralne rozpowszechnione przestrzeni publicznej 5 autorstwo publikacji z zakresu sztuk teatralnych lub filmowych o objętości | 200 — przypadku minimum 6 arkuszy wydawniczych nięcia wybitnego”;
 100 — przypadku publikacji o dużym znaczeniu dla sztuk teatralnych lub filmowych;
-20 — pozostałych p a d k a c h 6 redakcja publikacji z zakresu sztuk teatralnych lub filmowych 100 — przypadku nięcia wybitnego”;
-20 — pozostałych p a d k a c h 7 autorstwo rozdziału o objętości minimum 0,5 arkusza wydawniczego 50 — przypadku osiągpublikacji wieloautorskiej z zakresu sztuk teatralnych lub filmowych nięcia wybitnego”;
-20 — pozostałych p a d k a c h
+20 — pozostałych padkach 6 redakcja publikacji z zakresu sztuk teatralnych lub filmowych 100 — przypadku nięcia wybitnego”;
+20 — pozostałych padkach 7 autorstwo rozdziału o objętości minimum 0,5 arkusza wydawniczego 50 — przypadku osiągpublikacji wieloautorskiej z zakresu sztuk teatralnych lub filmowych nięcia wybitnego”;
+20 — pozostałych padkach
 2. Dyscyplina artystyczna sztuki muzyczne GRUPA , OSIĄGNIĘĆ RODZAJ OSIĄGNIĘCIA LICZBA PUNKTÓW | l) autorstwo, wydanie, nagranie lub emisja utworu muzycznego lub choreo- | 200 — przypadku grafii na dużą obsadę wykonawczą (powyżej 15 wykonawców); nięcia wybitnego”;
 2) prawykonanie utworu muzycznego (dyrygent, solista, kameralista, | 100 — przypadku choreograf); nięcia o dużym znaczeniu
 3) wprowadzenie nagrania do obiegu publicznego (kompozytor, dyry- dla sztuk muzycznych;
@@ -405,7 +405,7 @@ gent, solista, kameralista, choreograf); 50 — pozostałych
 5) retrospektywa dorobku artystycznego na festiwalu muzycznym, telewizji, radio oraz podczas wydarzeń dedykowanych twórcy;
 6) autorstwo zrealizowanego projektu instrumentu muzycznego lub rekonstrukcja zabytkowego instrumentu muzycznego 2 l) występ charakterze dyrygenta, solisty (z wyłączeniem partii orkie- | 200 — przypadku strowych i chóralnych) lub kameralisty; nięcia wybitnego”;
 2) recital muzyczny 100 — przypadku nięcia o dużym znaczeniu dla sztuk muzycznych;
-50 — pozostałych p a d k a c h elektronicznego i multimedialnego, lub choreografii na mniejszą obsa- | nięcia wybitnego”;
+50 — pozostałych padkach elektronicznego i multimedialnego, lub choreografii na mniejszą obsa- | nięcia wybitnego”;
 dę wykonawczą (soliści lub zespoły kameralne do 15 wykonawców); 75 — przypadku osiąg2) drugoplanowa rola spektaklu muzycznym; nięcia o dużym znaczeniu
 3) przygotowanie przez chórmistrza chóru do koncertu wokalno- | dla sztuk muzycznych;
 -instrumentalnego lub spektaklu muzycznego; 40 — pozostałych
@@ -413,14 +413,14 @@ dę wykonawczą (soliści lub zespoły kameralne do 15 wykonawców); 75 — przy
 5) autorstwo libretta/scenariusza spektaklu lub opracowanie ruchu scenicznego;
 6) kierownictwo muzyczne lub reżyseria spektaklu muzycznego 4 l) udział jury konkursu lub festiwalu muzycznego, zorganizowanych | 50 — przypadku osiągpoza ewaluowanym podmiotem przez renomowaną instytucję arty- | nięcia o dużym znaczeniu styczną o zasięgu co najmniej ogólnopolskim; dla sztuk muzycznych;
 2) pełnienie funkcji dyrektora albo kierownika artystycznego festiwalu | 25 — pozostałych lub konkursu muzycznego lub koncertów cyklicznych; padkach
-3) prowadzenie kursu mistrzowskiego o zasięgu co najmniej ogólnopols k i m ;
+3) prowadzenie kursu mistrzowskiego o zasięgu co najmniej ogólnopolskim ;
 4) inne rodzaje dzieł muzycznych rozpowszechniane obiegu publicz5 autorstwo publikacji z zakresu sztuk muzycznych o objętości minimum 200 — przypadku 6 arkuszy wydawniczych nięcia wybitnego”;
 100 — przypadku publikacji o dużym znaczeniu dla sztuk muzycznych;
 20 — pozostałych padkach 6 redakcja publikacji z zakresu sztuk muzycznych 100 — przypadku nięcia wybitnego”;
 20 — pozostałych padkach 7 autorstwo rozdziału o objętości minimum 0,5 arkusza wydawniczego 50 — przypadku osiągpublikacji wieloautorskiej z zakresu sztuk muzycznych nięcia wybitnego”;
 20 — pozostałych padkach
 3. Dyscyplina sztuki plastyczne i konserwacja dzieł sztuki nego”, prezentująca dzieła plastyczne, zorganizowana renomowanym GRUPA ;
-ośrodku artystycznym albo renomowanej instytucji kultury O S I Ą G N I Ę Ć R O D Z A J O S I Ą G N I Ę C I A L I C Z B A P U N K T Ó W | indywidualna autorska wystawa, tym retrospektywa dorobku artystycz- 200 — przypadku osiągnięcia wybitnego”;
+ośrodku artystycznym albo renomowanej instytucji kultury OSIĄGNIĘĆRODZAJOSIĄGNIĘCIA LICZBAPUNKTÓW | indywidualna autorska wystawa, tym retrospektywa dorobku artystycz- 200 — przypadku osiągnięcia wybitnego”;
 100 — przypadku osiągnięcia o dużym znaczeniu dla sztuk plastycznych;
 50 — pozostałych przypadkach zacji multimedialnej, performatywnej, audiowizualnej, rzeźbiarskiej, | nięcia wybitnego”;
 konserwatorskiej lub interdyscyplinarnej, cyklu prac plastycznych lub | 100 — przypadku osiągfotograficznych lub kolekcji projektowej, rozpowszechnionych cza- | nięcia o dużym znaczesie znaczącego wydarzenia artystycznego; niu dla sztuk plastycz2) autorstwo dzieła plastycznego z zakresu fotografii, malarstwa, rzeźby, | nych lub konserwacji grafiki, scenografii, opracowania plastycznego filmu lub postprodukcji | dzieł sztuki;
@@ -449,10 +449,10 @@ P, (X,R) — wynik porównania oceny działalności naukowej ewaluowanego podmio
 3. Całkowity wynik punktowy V(X,R) porównania oceny działalności naukowej ewaluowanego podmiotu ramach danej dyscypliny naukowej albo artystycznej (X) z wartościami referencyjnymi (R) jest ważoną sumą wyników porównań zakresie poszczególnych podstawowych kryteriów, z uwzględnieniem wag dla tych kryteriów zdefiniowanych odrębnie dla każdej dyscypliny naukowej albo artystycznej, i ustala się go, z dokładnością do dwóch miejsc po przecinku, według następującego wzoru: V(X,R) = W1 x PI (X,R) + W2 x P2 (X,R) + W3 x P3 (X,R) V(X,R) — oznacza całkowity wynik punktowy porównania oceny działalności naukowej ewaluowanego podmiotu ramach danej dyscypliny naukowej albo artystycznej (X) z wartościami referencyjnymi (R);
 PI(X,R) = P3(X,R) — oznaczają wyniki punktowe porównania oceny działalności naukowej ewaluowanego miotu ramach danej dyscypliny naukowej albo artystycznej (X) z wartościami referencyjnymi zakresie poszczególnych podstawowych kryteriów, zgodnie z ust. 2;
 W1 + W3 — oznaczają wagi przypisane poszczególnym podstawowym kryteriom, zgodnie z tabelą nr 2.
-Tabela nr 2 W a g a Podstawowe kryterium ewaluacji B koper e a l u a Dyscypliny naukowe należące do dziedziny nauk humanistycznych, dziedziny nauk społecznych i dziedziny nauk teologicznych
+Tabela nr 2 Waga Podstawowe kryterium ewaluacji B koper ealua Dyscypliny naukowe należące do dziedziny nauk humanistycznych, dziedziny nauk społecznych i dziedziny nauk teologicznych
 1. Poziom naukowy prowadzonej działalności 70
 2. Efekty finansowe badań naukowych lub prac rozwojowych 10
-3. Wpływ działalności naukowej na funkcjonowanie społeczeństwa i gospodarki 20 Dyscypliny naukowe należące do dziedziny nauk ścisłych i przyrodniczych oraz dziedziny nauk medycznych i nauk o z d r o i u
+3. Wpływ działalności naukowej na funkcjonowanie społeczeństwa i gospodarki 20 Dyscypliny naukowe należące do dziedziny nauk ścisłych i przyrodniczych oraz dziedziny nauk medycznych i nauk ozdroiu
 1. Poziom naukowy prowadzonej działalności 60
 2. Efekty finansowe badań naukowych lub prac rozwojowych 20
 3. Wpływ działalności naukowej na funkcjonowanie społeczeństwa i gospodarki 20 Dyscypliny naukowe należące do dziedziny nauk inżynieryjnych i technicznych oraz dziedziny nauk rolniczych

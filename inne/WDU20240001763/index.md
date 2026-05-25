@@ -26,9 +26,9 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001763) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1763/text.pdf) |
 
 Po z .
-WZÓR LEGITYMACJI SŁUŻBOWEJ SŁUŻBY KONTRWYWIADU WOJSKOWEGO I. Okładka legitymacji W W W W Opis: Okładka legitymacji jest wykonana z materiału skóropodobnego w kolorze czarnym,
+WZÓR LEGITYMACJI SŁUŻBOWEJ SŁUŻBY KONTRWYWIADU WOJSKOWEGO I. Okładka legitymacji WWWW Opis: Okładka legitymacji jest wykonana z materiału skóropodobnego w kolorze czarnym,
 3. „SŁUŻBA KONTRWYWIADU WOJSKOWEGO”.
-Il. Część wewnętrzna legitymacji ZECZPOSPOLITA POLSKA S ŁL ż B A K O N T R W Y W I A D U W O J S K O W E G 0 O E Z - N a z w i s k o > N l e g i t y m a c ji , = SZEF SŁUŻBY > : KONTRWYWIADU|W OJSKOWEGO O p i s :
+Il. Część wewnętrzna legitymacji ZECZPOSPOLITA POLSKA S ŁL żBAKONTRWYWIADUWOJSKOWEG 0 O E Z - Nazwisko > Nlegitymac ji , = SZEF SŁUŻBY > : KONTRWYWIADU|W OJSKOWEGO Opis :
 2. Napis „RZECZPOSPOLITA POLSKA” w kolorze czarnym.
 3. Napis „SŁUŻBA KONTRWYWIADU WOJSKOWEGO” wykonany farbą optycznie
 5. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym.
@@ -38,7 +38,7 @@ Il. Część wewnętrzna legitymacji ZECZPOSPOLITA POLSKA S ŁL ż B A K O N T R
 4) indywidualny numer blankietu nanoszony w czasie produkcji;
 5) „Ważna do 31.12.2027 r.';
 6) „SZEF SŁUŻBY KONTRWYWIADU WOJSKOWEGO”.
-9 . Z l e w e j s t r o n y m i e j s c e n a f o t o g r a fi ę , k t ó r a b ę d z i e n a n o s z o n a w p r o c e s i e Instytucje państwowe, organy administracji rządowej i samorządu Ź terytorialnego oraz przedsiębiorcy prowadzący działalność © _w zakresie użyteczności publicznej są obowiązani, Ww zakresie | | swojegod ziałania, do.u dzielenia nieodpłatnie niezbędnejp omocy. o | ż o ł n i e r z o w i i i f un k c j o n a r i u s z o w i : S ł u ż b Ó V | > . m a r ó w n i e ż P r e w o Z ” A O p i s :
+9 . Zlewejstronymiejscenafotogra fi ę , którabędzienanoszonawprocesie Instytucje państwowe, organy administracji rządowej i samorządu Ź terytorialnego oraz przedsiębiorcy prowadzący działalność © _w zakresie użyteczności publicznej są obowiązani, Ww zakresie | | swojegod ziałania, do.u dzielenia nieodpłatnie niezbędnejp omocy. o | żołnierzowiiif un kcjonariuszowi : SłużbÓV | > . marównieżPrewoZ ” A Opis :
 1. Dwukolorowe tło giloszowe wykonane techniką druku irysowego.
 2. Mikrodruk pozytywowy i negatywowy w linii o treści „RZECZPOSPOLITA POLSKA”.
 3. Elementy graficzne wykonane farbami aktywnymi w promieniowaniu ultrafioletowym w postaci linii wykonanych z liter „,SKW” o zmiennej wielkości oraz umiejscowionej centralnie tarczy herbowej zawierającej emblemat Batalionu

@@ -35,7 +35,7 @@ Wyrażając swoją wolę współpracy przy wdrażaniu inicjatywy SES, w taki spo
 Uznając, że zawarcie Umowy dotyczącej ustanowienia i wdrożenia Funkcjonalnego Bloku Przestrzeni Powietrznej nie narusza zasady posiadania przez każde Państwo pełnej i wyłącznej suwerenności nad przestrzenią powietrzną ponad terytorium swojego państwa, oraz kompetencji każdego Państwa do egzekwowania własnych prerogatyw w zakresie bezpieczeństwa i obrony w swojej krajowej przestrzeni powietrznej;
 Respektując postanowienia wynikające z umów regionalnych zawartych z Organizacją Międzynarodowego Lotnictwa Cywilnego („ICAO”) oraz respektując umowy regionalne obowiązujące w dniu wejścia w życie Rozporządzenia w Sprawie Zapewniania Służb;
 Uznając, że Państwowe Władze Nadzorujące każdej Umawiającej się Strony będą zawierały odpowiednie porozumienia celem nawiązania bliskiej współpracy, zapewnienia odpowiedniego nadzoru nad Instytucjami Zapewniającymi Służby Żeglugi Powietrznej;
-Mając na celu stworzenie prawnych i instytucjonalnych podstaw dla Bałtyckiego FAB, R e s p e k t u j ą c , ż e u s t a n o w i e n i e B a ł t y c k i e g o F A B n i e n a r u s z a R e j o n ó w I n f o r m a c ji p o w i e r z o n y c h i m p r z e z I C A O , POSTANOWIENIA OGÓLNE Definicje i skróty O ile nie postanowiono inaczej, terminy stosowane w niniejszej Umowie będą miały takie samo znaczenie jakie przypisano im w Rozporządzeniach w sprawie SES obowiązujących w Umawiających się Stronach. Na potrzeby niniejszej Umowy zastosowanie mają następujące definicje i skróty:
+Mając na celu stworzenie prawnych i instytucjonalnych podstaw dla Bałtyckiego FAB, Respektując , żeustanowienieBałtyckiegoFABnienaruszaRejonówInformac ji powierzonychimprzezICAO , POSTANOWIENIA OGÓLNE Definicje i skróty O ile nie postanowiono inaczej, terminy stosowane w niniejszej Umowie będą miały takie samo znaczenie jakie przypisano im w Rozporządzeniach w sprawie SES obowiązujących w Umawiających się Stronach. Na potrzeby niniejszej Umowy zastosowanie mają następujące definicje i skróty:
 1) „Umowa” oznacza niniejszą Umowę i wszelkie zmiany do niej, o ile nie wskazano
 2) „odnośna przestrzeń powietrzna” oznacza przestrzeń powietrzną ponad terytoriami Umawiających się Stron oraz przestrzeń powietrzną pozostającą w ich zakresie odpowiedzialności zgodnie z przepisami Organizacji Międzynarodowego Lotnictwa Cywilnego (ICAO), zgodnie z Artykułem 4 niniejszej Umowy;
 3) „AIP” oznacza Zbiór Informacji Lotniczych;
@@ -58,7 +58,7 @@ lotniczym oraz zapewniania służb ANS w odnośnej przestrzeni powietrznej.
 5. Niniejsza Umowa określa ramy, w obrębie których powinny zostać zawarte określone umowy i/lub porozumienia obejmujące obszary ANSP, NSA, Władz Wojskowych, współpracy cywilno-wojskowej i inne niezbędne porozumienia wymagane do realizacji niniejszej Umowyi rozwoju Bałtyckiego FAB.
 Zakres Bałtyckiego FAB o odpowiednie dokumenty ICAO.
 2. Bałtycki FAB zostaje utworzony na czas nieokreślony.
-A r t y k u ł 5 S u w e r e nn o ś ć
+Artykuł 5 Suwere nn o ś ć
 1. Niniejsza Umowa nie narusza pełnej i wyłącznej suwerenności Umawiających się Stron nad przestrzenią powietrzną ponad ich terytorium. W przypadku, gdy FIR albo UTR rozciąga się w przestrzeni powietrznej ponad terytorium drugiej Umawiającej się Strony, suwerenność danej Umawiającej się Strony do tej części przestrzeni powietrznej ponad jego terytorium nie zostaje naruszona.
 2. Żaden zapis niniejszej Umowy nie narusza ani nie wpływa na prawa i obowiązki Umawiających się Stron wynikające z Konwencji chicagowskiej lub z innych umów międzynarodowych, których jedno z nich jest stroną.
 Artykuł 6 Bezpieczeństwo i Obrona
@@ -80,7 +80,6 @@ Cel Bałtyckiego FAB Umawiające się Strony zgadzają się, że podstawowym i z
 1) wdrażają decyzje podejmowane przez Radę i Zarząd Bałtyckiego FAB, zmiany niezbędnych przepisów prawa krajowego i regulacji, zasad i procedur przy uwzględnieniu ogólnych ram określonych niniejszą Umową;
 celem zidentyfikowania różnic pomiędzy poszczególnymi systemami prawa, przepisami, procedurami oraz regulacjami mającymi wpływ na Bałtycki FAB, albo efektywność zapewnienia służb w Bałtyckim FAB.
 żadnego negatywnego wpływu na bezpieczne i efektywne przeprowadzanie operacji, ćwiczeń oraz szkolenia wojskowego.
-R O Z D Z I A Ł 2 P R Z E S T R Z E Ń P O W I ET R Z N A A r t y k u ł 10 P r z e s t r z e ń Po w i e t r z n a B a ł t y c k i e g o F A B 1 . A b y o s i ą g n ą ć c e l B a ł t y c k i e g o F A B o k r e ś l o n y w A r t y k u l e 8 U m a w i a j ą c e s i ę S t r o n y w s p ó l n i e p r o j e k t u j ą s t r u k t u r y p r z e s t r z e n i p o w i e t r z n e j i z a p e w n i a j ą z a r z ą d z a n i e w j e d n o li t e j p r z e s t r z e n i p o w i e t r z n e j o r a z s k oo r d y n o w a n y p r z e p ł y w r u c hu l o t n i c z e g o i z a r z ą d z a n i e p o j e m n o ś c i ą , u w z g l ę d n i a j ą c p r o c e s w s p ó ł p r a c y U m a w i a j ą c y c h s i ę S t r o n n a s z c z e b l u międzynarodowym.
 2. Umawiające się Strony są obowiązane do współpracy, celem, w szczególności:
 1) zaprojektowania struktury odnośnej przestrzeni powietrznej, aby umożliwić defragmentację i dynamiczną sektoryzację, celem ustanowienia obszarów w których wykonywane będą operacje w przestrzeni powietrznej rozciągającej się ponad granicami Umawiających się Stron (cross border area),
 2) badania modyfikacji przestrzeni powietrznej mających wpływ na skuteczność działania na poziomie Bałtyckiego FAB oraz
@@ -90,7 +89,6 @@ powietrznej, jeżeli zaistnieje taka konieczność.
 Artykuł 11 Elastyczne zarządzanie przestrzenią powietrzną
 1. Zgodnie z Artykułem 9 i Artykułem 10 oraz, aby osiągnąć cel Bałtyckiego FAB określony w Artykule 8 niniejszej Umowy, Umawiające się Strony współpracują na poziomie prawnym, operacyjnym i technicznym, aby w sposób wydajny i spójny stosować elastyczne zarządzanie odnośną przestrzenią powietrzną przy uwzględnieniu zarówno wymogów cywilnych jak i wojskowych.
 2. Umawiające się Strony zapewniają, że pomiędzy właściwymi instytucjami zapewniającymi służby ATS zostają zawarte wspólne umowy i ustanowione procedury oraz, że organy władzy cywilnej i wojskowej koordynują działania nad swoim terytorium oraz w przestrzeni powietrznej rozciągającej się ponad granicami Umawiających się Stron zarządzane odpowiednio na szczeblu instytucji zapewniających służby ATS poprzez koordynowanie działań pomiędzy właściwymi jednostkami służb ATS.
-R O Z D Z I A Ł 3 ZAPEWNIANIE SŁUŻB ŻEGLUGI POWIETRZNEJ A r t y k u ł 12 Służby żeglugi powietrznej
 1. Umawiające się Strony zapewniają następujące służby ANS:
 1) służby ruchu lotniczego (ATS);
 2) służby łączności, nawigacji i dozorowania (CNS);
@@ -105,11 +103,11 @@ Informacja o takim wyznaczeniu, jego uchyleniu lub zmianie jest notyfikowana dru
 3. Umawiające się Strony, których odnośna przestrzeń powietrzna dotyczy umów między instytucjami zapewniającymi służby ATS, wyznaczonymi lub nie wyznaczonymi na mocy niniejszej Umowy w zakresie zapewniania służb ATS ponoszą wyłączną odpowiedzialność za zatwierdzenie takich umów. Umawiające się Strony będą mieć prawo do zawierania odpowiednich porozumień lub umów, w odniesieniu do udzielenia takiego zatwierdzenia.
 4. Każda z Umawiających się Stron, które zamierzają powierzyć odpowiedzialność za zapewnienie służb ATS w przestrzeni powietrznej Bałtyckiego FAB stronie trzeciej, zapewnia, że w dalszym ciągu spełnia wszystkie postanowienia niniejszej Umowy.
 5. Ustępy 1 i 2 niniejszego artykułu stosuje się bez uszczerbku dla zawartych przed dniem wejścia w życie niniejszej umowy porozumień lub umów związanych z zapewnianiem służb ATS.
-6. Umawiające się Strony: A T S n a p o z i o m i e k r a j o w y m ;
+6. Umawiające się Strony: ATSnapoziomiekrajowym ;
 2) bezzwłocznie wzajemnie informują się o każdej zmianie dotyczącej warunków certyfikacji albo statusu prawnego wyznaczonych instytucji zapewniających służby
-3) przekazują sobie wzajemnie informacje o prawach i obowiązkach wyznaczonych A r t y k u ł u d o t y c z ą c e j w y z n a c z e n i a i n s t y t u c ji z a p e w n i a j ą c e j / - c y c h s ł u ż b y A T S z a p r o j e k t o w a n i e , n a b y c i e , r o z m i e s z c z e n i e , o b s ł u g ę i u t r z y m a n i e i n f r a s t r u k t u r y , s y s t e m ó w i s p r z ę t u C N S .
-3 . W ł a ś c i w e o r g a n y w ł a d z y i i n s t y t u c j e z a p e w n i a j ą c e s ł u ż b ę A I S z a w i e r a j ą o dp o w i e d n i e p o r o z u m i e n i a .
-Artykuł 16 S ł u ż b y m e t e o r o l o g i c z n e 1 . K a ż d a U m a w i a j ą c a s i ę S t r o n a m o ż e w y z n a c z y ć i n s t y t u c j ę z a p e w n i a j ą c ą l o t n i c z e s ł u ż b y M ET n a z a s a d a c h w y ł ą c z n o ś c i n o t y fi k u j ą c Z a r z ą d o w i B a ł t y c k i e g o F A B a l b o , m o g ą wspólnie wyznaczyć według uzgodnionych procedur instytucję/-e zapewniającą/-e służby MET dla Bałtyckiego FAB.
+3) przekazują sobie wzajemnie informacje o prawach i obowiązkach wyznaczonych Artykułudotyczącejwyznaczeniainstytuc ji zapewniającej / - cychsłużbyATS zaprojektowanie , nabycie , rozmieszczenie , obsługęiutrzymanieinfrastruktury , systemów isprzętuCNS .
+3 . WłaściweorganywładzyiinstytucjezapewniającesłużbęAISzawierająo dp owiednie porozumienia .
+Artykuł 16 Służbymeteorologiczne 1 . KażdaUmawiającasięStronamożewyznaczyćinstytucjęzapewniającąlotniczesłużby M ET nazasadachwyłącznościnoty fi kującZarządowiBałtyckiegoFABalbo , mogą wspólnie wyznaczyć według uzgodnionych procedur instytucję/-e zapewniającą/-e służby MET dla Bałtyckiego FAB.
 2.Jeżeli Umawiające się Strony wyznaczają instytucję zapewniającą służbę MET dla lotnictwa na zasadach wyłączności, każde z nich zapewnia współpracę pomiędzy instytucjami zapewniającymi służby MET dla lotnictwa.
 3. W celu zapewniania służb MET właściwe organy władzy oraz ANSPs zapewniające służby MET zawierają odpowiednie porozumienia.
 4. Umawiające się Strony informują Komisją Europejskąi pozostałe państwa członkowskie Unii Europejskiej o każdej decyzji podejmowanej na mocy niniejszego Artykułu dotyczącej wyznaczenia instytucji zapewniających służby MET w odnośnej przestrzeni powietrznej.
@@ -118,7 +116,7 @@ Poszukiwanie i Ratownictwo
 2. Umawiające się Strony zapewniają, że zostaną zawarte wspólne umowy dotyczące systemów ASAR/SAR umożliwiające współpracę w najwyższym możliwym zakresie.
 Takie umowy będą uwzględniały porozumienia Bałtyckiego FAB dotyczące ewentualnej delegacji służb ATS.
 1. Dla realizacji postanowień Artykułu 3 ustępu 4 niniejszej Umowy ANSP Umawiających się Stron są upoważnione do sformalizowania relacji w zakresie niezbędnym dla potrzeb Bałtyckiego FAB.
-2. Sformalizowanie relacji między ANSP określone w ustępie 1 niniejszego artykułu jest dokonywane w drodze sporządzonych na piśmie porozumień albo równoważnych ustaleń p r z e s t r z e n i p o w i e t r z n e j .
+2. Sformalizowanie relacji między ANSP określone w ustępie 1 niniejszego artykułu jest dokonywane w drodze sporządzonych na piśmie porozumień albo równoważnych ustaleń przestrzenipowietrznej .
 3. Każde takie porozumienie albo równoważne ustalenia prawne między ANSP są konsultowane z Zarządem Bałtyckiego FAB a następnie notyfikowane Radzie Bałtyckiego FAB i odpowiednim organom władzy Umawiających się Stron.
 Artykuł 19 Relacje między ANSP i stronami trzecimi
 1. W przypadku, gdy ANSP Umawiającej się Strony zamierza zawrzeć porozumienia albo dokonać równoważnych ustaleń prawnych dotyczących zapewniania służb ATS przez wyznaczoną ANSP innego państwa niebędącego drugą Umawiającą się Stroną, takie porozumienia lub równoważne ustalenia prawne są notyfikowane Zarządowi Bałtyckiego FAB, a odpowiednie Umawiające się Strony zapewniają, że takie porozumienia lub równoważne ustalenia prawne nie mają wpływu na niniejszą Umowę.
@@ -132,7 +130,7 @@ Artykuł 19 Relacje między ANSP i stronami trzecimi
 1. Umawiające się Strony, dążą do zastosowania jednej stawki jednostkowej opłaty trasowej w odnośnej przestrzeni powietrznej i dołożą starań, aby ustanowić wspólną strefę opłat w odnośnej przestrzeni powietrznej.
 2. Na potrzeby określone w ustępie | niniejszego artykułu oraz przed wprowadzeniem izastosowaniem jednej stawki jednostkowej opłaty trasowej w odnośnej przestrzeni powietrznej, Zarząd Bałtyckiego FAB:
 1) opracowuje i wprowadza wspólne zasady regulujące politykę opłat w odnośnej przestrzeni powietrznej, przy uwzględnieniu możliwości zastosowania krajowych zwolnień z opłat;
-2) koordynuje swoje stawki jednostkowe opłaty trasowej w odnośnej przestrzeni p o w i e t r z n e j ;
+2) koordynuje swoje stawki jednostkowe opłaty trasowej w odnośnej przestrzeni powietrznej ;
 3) podejmuje decyzję w sprawie wprowadzenia, warunków i stosowania jednej stawki jednostkowej opłaty trasowej w odnośnej przestrzeni powietrznej oraz ustanowienia wspólnej strefy pobierania opłat w odnośnej przestrzeni powietrznej;
 4) proponuje wspólną jedną stawkę jednostkową opłaty trasowej w odnośnej przestrzeni powietrznej właściwemu organowi Europejskiej Organizacji ds.
 Bezpieczeństwa Żeglugi Powietrznej (EUROCONTROL) do zatwierdzenia.
@@ -153,11 +151,11 @@ dla kluczowych obszarów działalności na określony okres referencyjny;
 l) ustala cele w zakresie skuteczności działania na poziomie Bałtyckiego FAB oraz koordynuje przygotowanie i realizację krajowych planów skuteczności działania;
 2) podejmuje decyzję o wdrożeniu i elementach planu skuteczności działania Bałtyckiego FAB.
 4. Zarząd Bałtyckiego FAB, w imieniu Umawiających się Stron przeprowadza regularne przeglądy wdrażania celów skuteczności działania Bałtyckiego FAB, dokonuje okresowej oceny projektu i funkcjonowania systemu skuteczności działania Bałtyckiego FAB oraz w razie potrzeby przekazuje NSA Umawiających się Stron wnioski dotyczące podjęcia ROZDZIAŁ 8 SPRAWOWANIE ZARZĄDU
-1. Rada Bałtyckiego FAB składa się z następujących wyznaczonych przedstawicieli każdej U m a w i a j ą c e j s i ę S t r o n y : upoważnionej przez ministra właściwego do spraw lotnictwa cywilnego do działania w imieniu tego ministra;
+1. Rada Bałtyckiego FAB składa się z następujących wyznaczonych przedstawicieli każdej UmawiającejsięStrony : upoważnionej przez ministra właściwego do spraw lotnictwa cywilnego do działania w imieniu tego ministra;
 2) ministra odpowiedzialnego za obronę narodową lub osoby należycie upoważnionej przez ministra odpowiedzialnego za obronę narodową do działania w imieniu tego ministra;
 3) osoby kierującej NSA albo osoby należycie przez nią upoważnionej do działania w jej imieniu;
-przestrzeni powietrznej albo osoby należycie przez nią upoważnionej do działania w j e j i m i e n i u .
-2. Inni uczestnicy mogą również brać udział w charakterze obserwatorów na zaproszenie R a d y B a ł t y c k i e g o F A B .
+przestrzeni powietrznej albo osoby należycie przez nią upoważnionej do działania wjejimieniu .
+2. Inni uczestnicy mogą również brać udział w charakterze obserwatorów na zaproszenie RadyBałtyckiegoFAB .
 3. Radzie Bałtyckiego FAB przewodniczy naprzemiennie jedna z Umawiających się Stron.
 Litwy, zgodnie z postanowieniem ustępu 1 pkt 1 niniejszego artykułu.
 Każde z Umawiających się Stron ma jeden głos. Ze wszystkich posiedzeń Rady Bałtyckiego FAB powinny być zachowywane protokoły.
@@ -187,7 +185,7 @@ l) osoba należycie upoważniona przez ministra właściwego do spraw lotnictwa 
 6. Zarząd Bałtyckiego FAB odbywa posiedzenia w zależności od potrzeb, co najmniej dwa razy w roku na zaproszenie Przewodniczącego. Każdy przedstawiciel Umawiającej się Strony wyznaczony do Zarządu jest upoważniony do wnioskowania o zwołanie posiedzenia.
 7. Zadaniem Zarządu Bałtyckiego FAB jest podejmowanie decyzji, o których mowa w niniejszej Umowie i dla realizacji celów:
 1) zarządzania wdrożeniem niniejszej Umowy i wypełnienia celów Bałtyckiego FAB w ujęciu ogólnym;
-p o w i e t r z n e j ;
+powietrznej ;
 powietrznej;
 5) zatwierdzenia porozumień o zapewnianiu służb ruchu lotniczego w odnośnej
 6) przyjęcia polityki opłat znajdującej zastosowanie w odnośnej przestrzeni powietrznej oraz zmierzania do ustalenia jednej stawki jednostkowej dla trasowego ruchu lotniczego w odnośnej przestrzeni powietrznej po pierwszym okresie referencyjnym systemu skuteczności działania;
@@ -267,9 +265,9 @@ zawarte między ANSP obowiązujące w dniu podpisania niniejszej Umowy pozostaj�
 1. Niniejsza Umowa zostaje zawarta na czas nieokreślony.
 2. Niniejsza Umowa podlega przyjęciu zgodnie z przepisami krajowymi Umawiających się Stron, co zostanie potwierdzone wymianą not dyplomatycznych.
 3. Niniejsza Umowa wchodzi w życie pierwszego dnia trzeciego miesiąca od otrzymania późniejszej noty dyplomatycznej.
-Na dowód powyższego, niżej podpisani, należycie upoważnieni podpisali niniejszą Umowę i p r z y ł o ż y li s w o j e p i e c z ę c i e .
+Na dowód powyższego, niżej podpisani, należycie upoważnieni podpisali niniejszą Umowę iprzyłoży li swojepieczęcie .
 Sporządzono w Milne w dniu AT lpea roku „ZEŃ w dwóch oryginalnych egzemplarzach, każdy w językach polskim, litewskim i angielskim, przy czym wszystkie teksty są jednakowo autentyczne. W razie rozbieżności przy interpretacji, tekst sporządzony w języku angielskim jest rozstrzygający.
-W IMIENIU IMIENIU eko 0» POLSKIEJ REPUBLIKI LITEWSKIEJ JĘZgo" - m f LENKIJOS RESPUBLIKOS IR LIETUVOS RESPUBLIKOS S U T A R T I S DEL BALTIJOS FUNKCINIO ORO ERDVES BLOKO SUKURIMO Lenkijos Respublika ir Lietuvos Respublika, toliau Susitarianćiosios Śalys, atsiżvelgdamos |t ai, kad Bendro Europos dangaus iniciatyvos tikslas patobulinti esamus skrydźiy saugos standartus, prisideti prie darnios oro transporto sistemos pletros ir pagerinti visą oro eismo valdymo veiklą ir oro navigacijos paslaugas, skirtas bendrajam oro eismui Europoje, kad bity laikomasi visy oro erdvćs naudotojy reikalavimu;
+W IMIENIU IMIENIU eko 0» POLSKIEJ REPUBLIKI LITEWSKIEJ JĘZgo" - m f LENKIJOS RESPUBLIKOS IR LIETUVOS RESPUBLIKOS SUTARTIS DEL BALTIJOS FUNKCINIO ORO ERDVES BLOKO SUKURIMO Lenkijos Respublika ir Lietuvos Respublika, toliau Susitarianćiosios Śalys, atsiżvelgdamos |t ai, kad Bendro Europos dangaus iniciatyvos tikslas patobulinti esamus skrydźiy saugos standartus, prisideti prie darnios oro transporto sistemos pletros ir pagerinti visą oro eismo valdymo veiklą ir oro navigacijos paslaugas, skirtas bendrajam oro eismui Europoje, kad bity laikomasi visy oro erdvćs naudotojy reikalavimu;
 atsiżvelgdamos | Bendro Europos dangaus teisćs aktuose nustatytus valstybiy nariy jsipareigojimus, taip pat i 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 550/2004 del oro navigacijos paslaugy teikimo bendrame Europos danguje (pasłaugu teikimo reglamentas), papildytą 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009, ypać jo 9 straipsnio a dalies reikalavimus;
 atsiżvelgdamos | Baltijos funkcinio oro erdvćs bloko (toliau vadinama Baltijos FOEB) galimybiy studijos rezultatus;
 atsiżvelgdamos i 2010 m. liepos 29 d. Vilniuje pasirasytą bendradarbiavimo ketinimy protokolą pletoti Baltijos funkcinio oro erdvćs bloko iniciatyvą;
@@ -298,15 +296,15 @@ atsiżvelgdamos i tai, kad Baltijos FOEB sukiirimas nepażeidżia TCAO pripaźin
 14. NSA (National Supervisory Authority) nacionaline prieżiiiros institucija;
 15. operatyvusis oro eismas skrydźiai, kurie atliekami nesilaikant bendrojo oro eismo nuostaty ir kuriy taisykles ir procediiras nustato atitinkamos nacionalinćs institucijos.
 I operatyvujj oro eismą gali bdti jtraukti bandomieji skrydżiai, kai reikalaujama tam tikru laipsniu nukrypti nuo TCAO taisykliy, kad biity laikomasi ty skrydźiy reikalavimy;
-16. valstybes orlaivis krasto apsaugos, muitines ir policijos tarmyby naudojamas o r l a i v i s ;
+16. valstybes orlaivis krasto apsaugos, muitines ir policijos tarmyby naudojamas orlaivis ;
 17. taktinio skrydźiy valdymo paslauga karines paramos teikimas operatyviajam oro eismui uźtikrinant paskirtos uźduoties vykdymą ir pakankamą atstumą tarp orlaiviy bet kuriuo metu;
 18. trecioji Salis bet koks subjektas ar organizacija, susijusi su oro navigacijos paslaugy teikimu Susitarianciujy Saliy ar Baltijos FOEB oro erdvćse;
-19. UIR (Upper Flight Information Region) virSutinis skrydźiy informacijos Śios Sutarties tikslas yra sukurti Baltijos FOEB ir apibreżti Susitarianciujy Śaliu teises ir pareigas, atsiźvelgiant i biitinybę koordinuoti Baltijos FOEB veiklą ir tolesnę p l e t r ą .
+19. UIR (Upper Flight Information Region) virSutinis skrydźiy informacijos Śios Sutarties tikslas yra sukurti Baltijos FOEB ir apibreżti Susitarianciujy Śaliu teises ir pareigas, atsiźvelgiant i biitinybę koordinuoti Baltijos FOEB veiklą ir tolesnę pletrą .
 3 straipsnis FOEB sukiirimas
 1. Sia Sutartimi yra sukuriamas Baltijos FOEB.
 2. Śi Sutartis yra taikoma Śios Sutarties 4 straipsnio 1 dalyje nurodytai Baltijos
-3. Sia Sutartimi nesukuriama tarptautinć organizacija, turinti tarptautinćs teisćs s u b j e k t o s t a t u s ą .
-4. Śioje Sutartyje yra apibreżtos bendrosios sąłygos ir valdymas, pagal kuriuos Susitarianćiosios Salys turi użtikrinti oro eismo valdymą ir oro navigacijos paslaugy t e i k i m ą a t i t i n k a m o j e o r o e r d v e j e .
+3. Sia Sutartimi nesukuriama tarptautinć organizacija, turinti tarptautinćs teisćs subjektostatusą .
+4. Śioje Sutartyje yra apibreżtos bendrosios sąłygos ir valdymas, pagal kuriuos Susitarianćiosios Salys turi użtikrinti oro eismo valdymą ir oro navigacijos paslaugy teikimąatitinkamojeoroerdveje .
 5. Śioje Sutartyje yra nustatoma sistema, pagal kurią turi biiti sudaromos tam tikros sutartys ir (arba) susitarimai oro navigacijos paslaugy teikćjy, nacionaliniy prieżiiiros institucijy, kariniy institucijy, civilinio ir karinio bendradarbiavimo srityse bei kiti reikiami susitarimai, butini Siai SutarCiai jgyvendinti ir Baltijos FOEB kurti.
 Baltijos FOEB ribos
 1. Remiantis Sia Sutartimi, Baltijos FOEB yra sudarytas iś Śiy skrydźiy informacijos regiony (FIR):
@@ -316,13 +314,13 @@ Baltijos FOEB ribos
 1. Śia Sutartimi neturi biti pażeistas visiśkas ir iSimtinis Susitarianćiujy Śaliy suverenitetas | vir jy teritorijos esanćią oro erdvę. Jeigu FIR arba UIR tęsiasi oro erdvćje virś kitos Susitarianćiosios Śalies teritorijos, tai neturi paveikti atitinkamos Susitarianćiosios Śalies suvereniteto j tą oro erdvćs dalj, esanćią virś jos teritorijos.
 2. Niekas Sioje Sutartyje neturi pażeisti arba paveikti Susitarianciujy Śaliy teisiy ir isipareigojimy, numatyty Cikagos konvencijoje ar kitose tarptautinese sutartyse, kuriy Śalys Saugumas ir gynyba
 1. Śios Sutarties sąlygomis neturi biti apribojama Susitarianciujy Śaliy kompetencija, susijusi su saugumu ir gynyba, veiksmingu NATO sprendimy igyvendinimu ir (arba) kitais galimais susitarimais del oro erdvćs stebejimo, kontroles ir gynybos.
-2. Jei vienos iś Susitariandiujyu Śaliy kompetentingos institucijos laiko tai bitina, jos gali sudaryti su kitos Susitarianćiosios Śalies kompetentingomis institucijomis raśytinius susitarimus del veiksmingo civilinio ir karinio bei karinio bendradarbiavimo Baltijos F O E B .
+2. Jei vienos iś Susitariandiujyu Śaliy kompetentingos institucijos laiko tai bitina, jos gali sudaryti su kitos Susitarianćiosios Śalies kompetentingomis institucijomis raśytinius susitarimus del veiksmingo civilinio ir karinio bei karinio bendradarbiavimo Baltijos FOEB .
 7 straipsnis
 1. Jeigu nćra kito susitarimo ar nereguliuojama kitaip, valstybćs orłaiviams taikomos visos Ćikagos konvencijos 3 straipsnio c punkto nuostatos.
 2. Susitarianćiosios Śalys nustato viena kitos valstybćs orlaiviams supaprastintas leidimy atlikti skrydźius | savo teritoriją, i$ jos arba per ją ir leidimy vykdyti karines operacijas, dalyvauti mokymuose ir pratybose iśdavimo procediiras, nepażeidźiant Susitarianćiujy Śaliy nacionalinio saugumo ir gynybos interesy ir jy konstituciniy nuostaty.
 ir taisykles, taikomos valstybes orlaiviy skrydżiams zonose, nurodytose Śios sutarties 9 straipsnio 1 dalyje, atitiktą gretimuose funkciniuose oro erdves blokuose nustatytas proceduras ir taisykles.
-8 s t r a i p s n i s Baltijos FOEB tikslas Susitariandiosios Śalys susitaria, kad pagrindinis Baltijos FOEB tikslas yra siekti o p t i m a l a u s v e i k i m o s a u g o s , s k r y d ź i y e f e k t y v u m o , p a j e g u m o , n e i g i a m o p o v e i k i o a p li n k a i m a ż i n i m o , r e n t a b il u m o s r i t y s e , i r g e r i n t i k a r i n i ą u ź d u o ć i y v y k d y m o e f e k t y v u m ą , projektuojant atitinkamą oro erdvę ir organizuojant oro eismo valdymą atitinkamoje oro erdvćje neatsiżvelgiant j esamas Susitarianćiujy Śaliy valstybines sienas.
-9 s t r a i p s n i s SusitarianCiujy Śaliy jsipareigojimai
+8 straipsnis Baltijos FOEB tikslas Susitariandiosios Śalys susitaria, kad pagrindinis Baltijos FOEB tikslas yra siekti optimalausveikimosaugos , skrydźiyefektyvumo , pajegumo , neigiamopoveikioap li nkai mażinimo , rentab il umosrityse , irgerintikariniąuźduoćiyvykdymoefektyvumą , projektuojant atitinkamą oro erdvę ir organizuojant oro eismo valdymą atitinkamoje oro erdvćje neatsiżvelgiant j esamas Susitarianćiujy Śaliy valstybines sienas.
+9 straipsnis SusitarianCiujy Śaliy jsipareigojimai
 1. Baltijos FOEB tikslui pasiekti Susitariandiosios Śałys jisipareigoja bendradarbiauti ir imtis reikiamy priemoniy pagal nacionalinius jstatymus ir teisćs aktus visy pirma Śiose srityse:
 1) oro erdvćs projektavimas ir naudojimas;
 2) taisykliy ir procediiry suderinimas;
@@ -339,7 +337,7 @@ ir taisykles, taikomos valstybes orlaiviy skrydżiams zonose, nurodytose Śios s
 3) bendradarbiauja derindamos esmines nacionalines taisykles ir procediras, susijusias su Baltijos FOEB, ir reguliariai konsultuojasi viena su kita, siekdamos nustatyti atitinkamuy jistatymy, teises akty, taisykliy ir procedury, turinćiy jtakos Baltijos FOEB, neatitikimus, kad teises aktai bity kuo labiau suderinti.
 4. Susitarianćiosios Śalys użtikrina, kad bet kokie iślikę ar atsiradę neatitikimai jokiomis aplinkybćmis nepakenkty ar neturćty neigiamo poveikio skrydźiy saugai ar paslaugy teikimo Baltijos FOEB veiksmingumui.
 5. Susitarianciosios Śalys użtikrina, kad jgyvendinant śią Sutartj biity iśvengta neigiamo poveikio kariniy operacijy, mokymy ir pratyby saugiam ir veiksmingam vykdymui.
-2 SKYRIUS O R O E R D V E 10 straipsnis Baltijos FOEB oro erdvć
+2 SKYRIUS OROERDVE 10 straipsnis Baltijos FOEB oro erdvć
 1. Śios Sutarties 8 straipsnyje apibreżtam Baltijos FOEB tikslui pasiekti, Susitarianćiosios Śalys kartu projektuoja oro erdvćs struktiras ir użtikrina vientisos oro erdvćs valdymą ir suderintą oro eismo srauty ir pajegumo valdymą, deramai atsiźvelgdamos i Susitarianciujy Saliy bendradarbiavimo procesus tarptautiniu lygiu.
 2. SusitarianGiosios Śalys privało bendradarbiauti, visy pirma siekdamos:
 1) kurti atitinkamos oro erdvćs strukturą, kad buty galima panaikinti oro erdves suskaidymą ir ją dinamiśkai padalyti i sektorius sukuriant pasienio operacijy zonas,
@@ -361,7 +359,7 @@ Oro eismo paslaugos
 1. Susitarianćiosios Śalys bendru dokumentu arba remdamosi sutartomis procediiromis użtikrina ATS teikejo (-4) paskyrimą atitinkamoje oro erdvćje. Ankstesnio sakinio taisyklós taip pat apima aerodromo skrydźiy informacijos paslaugas, ATS aerodromy skrydźiy valdymo zonoje ir karines prieżiliros zonoje, teikiamas ATS teikejo (vu) atitinkamoje oro erdveje.
 2. Kiekviena iś Susitarianciujy Saliy turi teisę paskirti vieną ar kelis ATS teikćjus visoms ar daliai Siy paslaugy teikti savo atitinkamoje oro erdveje ir ji (juos) atSaukti ar pakeisti. Apie toki paskyrimą, atdaukimą ar pakeitimą kitai Susitarianciajai Śaliai praneśama raśtu. Bet koks pagal Śią dali paskirtas ATS teikćejas yra laikomas Susitariandiujy Śaliy bendrai paskirtu teikćju nuo tos dienos, kai kita SusitarianGioji Śalis dalies nuostatas.
 3. Susitarianćiosios Salys, kuriy oro erdvć yra susijusi su paskirty ar nepaskirty pagal śią Sutartj ATS teikejy sutartimis del ATS teikimo, yra iSimtinai atsakingos uż tokiy sutarliy patvirtinimą. Susitarianćiosios Śalys gali sudaryti atitinkamus susitarimus ar sutartis del tokio patvirtinimo suteikimo.
-4. Kiekviena iś Susitarianćiujy Śaliy, ketinanti perduoti atsakomybę uż ATS teikimą Baltijos FOEB oro erdvćje trediajai Saliai, użtikrina, kad ji ir toliau vykdys Sios Sutarties s ą l y g a s .
+4. Kiekviena iś Susitarianćiujy Śaliy, ketinanti perduoti atsakomybę uż ATS teikimą Baltijos FOEB oro erdvćje trediajai Saliai, użtikrina, kad ji ir toliau vykdys Sios Sutarties sąlygas .
 5. Śios sutarties 13 straipsnio 1 ir 2 dalys taikomos nepażeidźiant ATS teikimo susitarimy ar sutarćiy, galiojusiy prieś isigaliojant Siai Sutarciai.
 6. SusitarianGiosios Salys:
 1) skatina ATS teikejy glaudy bendradarbiavimą nacionaliniu lygiu;
@@ -379,10 +377,10 @@ teikćjai sudaro atitinkamus susitarimus.
 Paieśka ir gelbejimas
 1. Kiekviena iś Susitarianciujy Sali organizuoja ir palaiko savo ASAR/SAR sistemą pagal nacionalinius jstatymus ir teisćs aktus.
 2. Susitarianćiosios Śalys użtikrina, kad biity sudarytos bendros sutartys del ASAR/SAR sistemy siekiant kuo glaudesnio bendradarbiavimo. Jose atsiżvelgiama ij FOEB susitarimus del galimo ATS teikimo perdavimo.
-18 s t r a i p s n i s O r o n a v i g a c ij o s p a s l a u g y t e i k e j y s a n t y k i a i 1 . S i e k d a m o s j g y v e n d i n t i Ś i o s s u t a r t i e s 3 s t r a i p s n i o 4 d a li e s nu o s t a t a s , S u s i t a r i a n ć i o s i o s Ś a ł y s j g a li o j a A N S P j f o r m i n t i B a l t ij o s F O E B t i k s l a m s j g y v e n d i n t i b ii t i nu s s a n t y k i u s .
-2. Śios Sutarties 18 straipsnio 1 dałyje nurodyti ANSP santykiai iforminami s u d a r a n t s u s i t a r i m u s a r k i t u s l y g i a v e r ć i u s t e i s i n i u s d o k u m e n t u s d e l f un k c ij y , u ż d u o ć l y i r paslaugy, kurias reikia atlikti / teikti atitinkamoje oro erdvćje.
+18 straipsnis Oronavigac ij ospaslaugyteikejysantykiai 1 . SiekdamosjgyvendintiŚiossutarties 3 straipsnio 4 d a li e s nu ostatas , SusitarianćiosiosŚałysjga li ojaANSPjformintiBalt ij osFOEBtikslamsjgyvendintib ii t i nu s santykius .
+2. Śios Sutarties 18 straipsnio 1 dałyje nurodyti ANSP santykiai iforminami sudarantsusitarimusarkituslygiaverćiusteisiniusdokumentusdelf un k c ij y , użduoćlyir paslaugy, kurias reikia atlikti / teikti atitinkamoje oro erdvćje.
 3. Del ANSP susitarimy ar lygiaverćiy teisiniy susitarimy konsultuojamasi su Baltijos FOEB valdyba, veliau apie juos praneśama Baltijos FOEB tarybai ir Susitarianćiosios Salies kompetentingoms institucijoms.
-19 s t r a i p s n i s ANSP ir tretiujy Śaliy santykiai
+19 straipsnis ANSP ir tretiujy Śaliy santykiai
 1. Jeigu SusitarianGiujy Śaliy ANSP pageidauja sudaryti susitarimą ar kitą lygiavertj teisini dokumentą, susijusj su valstybes, kuri nóćra Susitarianćioji Śalis, paskirto oro navigacijos paslaugy teikćjo ATS teikimu, apie toki susitarimą ar kitą lygiaverti teisini dokumentą praneżama Baltijos FOEB valdybai, ir Susitarianciosios Salys użtikrina, kad toks susitarimas ar kitas lygiavertis teisinis dokumentas neturety jtakos Śiai Sutarciai.
 2. Savo użduotims vykdyti Susitarianćiosios Śalys kartu arba atskirai gali sudaryti susitarimą su trećiąqja Salimi ar Salimis.
 4 SKYRIUS CIVILINIS IR KARINIS BEI KARINIS BENDRADARBIAVIMAS 20 straipsnis Karine veikla l. Śios Sutarties nuostatomis neturi biti paźeidźiami Susitarianciujy Śaliy nacionaliniai reikalavimai del vieśosios tvarkos, saugumo ir gynybos interesy, ir kiekviena i$ Susitarianciujy Saliy turi teisę taikyti bet kokias priemones, siekdamos użtikrinti saugumo ir gynybos interesus.
@@ -394,19 +392,19 @@ Paieśka ir gelbejimas
 5 SKYRIUS l. Susitarianćiosios Śalys siekia taikyti bendrą vienetini tarifą uż skrydżius nustatydama ir imdama taikyti bendrą vienetini tarifą uż skrydźius atitinkamos oro erdvćs marśrutais, Baltijos FOEB valdyba: atitinkamoje oro erdveje, atsiźvelgdama j nacionaliniy iSimóiy galimybę;
 2) koordinuoja vienetinius tarifus uż skrydźius atitinkamos oro erdvćs marŚrutais;
 3) sprendźia del bendro vienetinio tarifo uż skrydźius atitinkamos oro erdves marśrutais nustatymo, sąlygy ir taikymo, taip pat bendros rinkliavy zonos atitinkamoje oro erdvćje nustatymo;
-e r d v ć s m a r ś r u t a i s .
+erdvćsmarśrutais .
 3. Susitariandiosios Salys visy pirma:
 1) kartu vykdo reikiamus jisipareigojimus, susijusius su bendra _ skrydźiy atitinkamos oro erdvćs mar$rutais rinkliavy zona;
 2) sudaro atitinkamus susitarimus użtikrindamos nuosekly ir vienodą rinkliavy ir reglamentavimo taikymą;
 3) użtikrina bendrą reikiamą bendradarbiavimą su Eurokontrole.
 PRIEŻIURA 22 straipsnis l. Susitarianćiosios Śalys użtikrina, kad NSA głaudżiai bendradarbiauty, vykdydamos Baltijos FOEB oro navigacijos paslaugy teikejy prieżiiirą, ir suderinty savo veiksmus. NSA sudaro Sio bendradarbiavimo susitarimą, erdvćje, yra atsakinga uż to ANSP prieźiirą glaudźiai bendradarbiaujant su kitos Susitarianćiosios Salies NSA.
 3. Jeigu Susitarianćioji Śalis, virś kurios teritorijos yra teikiamos Sios Sutarties 22 straipsnio 2 dalyje minimos ANS, reikalauja, kad prieżiirą vykdyty jos NSA, Susitarianciujy Salią NSA susitaria del prieżiliros nuostaty ir sąlygu.
-4. Susitarianćiosios Śałys użtikrina, kad ją NSA sukurty bendrą keitimosi pasienio zonos paslaugy teikimo informacija, konsultavimo ir koordinavimo mechanizmą, siekdamos użtikrinti, kad reikiami iśtaisymo veiksmai bity atliekami nedelsiant ir kad bity 23 straipsnis 1 . S u s i t a r i a n t i o s i o s Ś a l y s i g y v e n d i n a B a l t ij o s F O E B v e i k l o s r e z u l t a t u p l a n ą i r t a i k o B a l t ij o s F O E B v e i k l o s p l a n ą , a t i t i n k a n t j E u r o p o s S a j un g o s v e i k l o s t i k s l u s , a t s i ż v e l gd a m o s i karinius poreikius. Del Baltijos FOEB veiklos płano turi biti konsultuojamasi su atitinkamomis suinteresuotosiomis Śalimis.
-2 . S u s i t a r i a n c i u j y Ś a l i y N S A k a r t u s u d a r o B a l t ij o s F O E B v e i k l o s p l a n ą , k u r i p a t v i r t i n a B a l t ij o s F O E B v a l d y b a . S i a m e p l a n e : p a j e g u m o , s ą n a u d y v e i k s m i n g u m o i r s k r y d ź i y e f e k t y v u m o t i k s l a i ;
-3 ) p a t e i k i a m a B a l t ij o s F O E B s k a t i n i m o s i s t e m a .
-3. Baltijos FOEB valdyba: r e n g i m ą i r i g y v e n d i n i m ą ;
+4. Susitarianćiosios Śałys użtikrina, kad ją NSA sukurty bendrą keitimosi pasienio zonos paslaugy teikimo informacija, konsultavimo ir koordinavimo mechanizmą, siekdamos użtikrinti, kad reikiami iśtaisymo veiksmai bity atliekami nedelsiant ir kad bity 23 straipsnis 1 . SusitariantiosiosŚalysigyvendinaBalt ij osFOEBveiklosrezultatuplanąirtaiko Balt ij osFOEBveiklosplaną , atitinkantjEuroposSaj un gosveiklostikslus , atsiżvel gd amosi karinius poreikius. Del Baltijos FOEB veiklos płano turi biti konsultuojamasi su atitinkamomis suinteresuotosiomis Śalimis.
+2 . SusitarianciujyŚaliyNSAkartusudaroBalt ij osFOEBveiklosplaną , kuri patvirtinaBalt ij osFOEBvaldyba . Siameplane : pajegumo , sąnaudyveiksmingumoirskrydźiyefektyvumotikslai ;
+3 ) pateikiamaBalt ij osFOEBskatinimosistema .
+3. Baltijos FOEB valdyba: rengimąirigyvendinimą ;
 4. Baltijos FOEB valdyba Susitarianćiujy Śaliy vardu atlieka Baltijos FOEB veiklos tiksly igyvendinimo nuolatinę perźiurą, Baltijos FOEB veiklos rezultaty plano projektoi r veikimo periodini vertinimą ir prireikus perduoda Susitarianćiujy Śalią NSA iśvadas, susijusias su priemonćmis trikumams Śalinti.
-8 SKYRIUS V A L D Y M A S B a l t ij o s F O E B t a r y b a
+8 SKYRIUS VALDYMAS Balt ij osFOEBtaryba
 1. Baltijos FOEB tarybą sudaro Sie Susitarianciujy Saliy paskirti atstovai:
 1) uź civilinę aviaciją atsakingas ministras arba uż civilinę aviaciją atsakingo ministro tinkamai jgaliotas asmuo, veikiantis ministro vardu,
 2) uź kraśto apsaugą atsakingas ministras, arba uż kraśto apsaugą atsakingo ministro tinkamai igaliotas asmuo, veikiantis ministro vardu,
@@ -421,10 +419,10 @@ su posćdźiy Saukimu, finansiniais klausimais, iśankstiniu darbotvarkes ir kit
 7. Baltijos FOEB taryba priima sprendimus siekdama:
 2) palaikyti esminiy nacionaliniy taisykliy ir procedury derinimą;
 4) pritarti Susitarianćciujy Śaliy pozicijoms del tarptautiniy sutaróiy, ypać susijusiy su TCAO, Eurokontrolćs, Europos Komisijos, Europos aviacijos saugos agentiiros, bendry imoniy darbu oro eismo valdymo ir ANS srityje, taikymo;
-5) teikti siilymus Susitarianciujy Śaliy atitinkamoms institucijoms del valstybćs p r i s ij un g i m o p r i e Ś i o s S u t a r t i e s i r a t li k t i r e i k i a m u s v e i k s m u s ;
+5) teikti siilymus Susitarianciujy Śaliy atitinkamoms institucijoms del valstybćs pris ij un gimoprieŚiosSutartiesirat li ktireikiamusveiksmus ;
 6) nustatyti Baltijos FOEB pletros strateginius tikslus;
 7) vykdyti kitus su Bendro Europos dangaus teisćs aktais susijusius jsipareigojimus.
-8. Baltijos FOEB taryba isteigia Baltijos FOEB valdymo biurą (toliau Baltijos F O E B V B ) .
+8. Baltijos FOEB taryba isteigia Baltijos FOEB valdymo biurą (toliau Baltijos FOEBVB ) .
 9. Baltijos FOEB VB remia Baltijos FOEB valdybą ir su FOEB susijusią veiklą.
 Baltijos FOEB VB veikla yra finansuojama iś ANS rinkliavy, tarptautiniy organizacijy tiksliniy imoky, finansiniy institucijy, taip pat kity juridinią asmeny. Baltijos FOEB VB darbo tvarką nustato Baltijos FOEB vałdyba. Susitarianćiosios Śalys użtikrina, kad Baltijos FOEB VB turóty pakankamai iśtekliy paskirtoms użduotims atlikti ir prireikus Baltijos FOEB valdybai paremti.
 25 straipsnis Baltijos FOEB valdyba
@@ -436,7 +434,7 @@ Baltijos FOEB VB veikla yra finansuojama iś ANS rinkliavy, tarptautiniy organiz
 2. Kiti asmenys gali dalyvauti kaip stebetojai Baltijos FOEB valdybos kvietimu.
 3. Baltijos FOEB valdybai pakaitomis pirmininkauja viena iś Susitarianciujy Saliy.
 Pirmininkavimo kadencija trunka 12 menesiy, pirmoji kadencija prasideda śios Sutarties isigaliojimo dieną. Pirmasis pirmininkauja Lenkijos atstovas pagal Śio straipsnio 1 dalies 1 dali.
-4. Baltijos FOEB valdybos sprendimai yra priimami vienbalsiai. Kiekviena Susitarianćioji Śalis turi vieną balsą. Visi Baltijos FOEB valdybos posćdźiai p r o t o k o l u o j a m i .
+4. Baltijos FOEB valdybos sprendimai yra priimami vienbalsiai. Kiekviena Susitarianćioji Śalis turi vieną balsą. Visi Baltijos FOEB valdybos posćdźiai protokoluojami .
 5. Baltijos FOEB valdybos patvirtintame Darbo reglamente nustatoma tvarka, susijusi su posedźiy Saukimu, finansiniais klausimais, iśankstiniu darbotvarkćs ir kity susijusiy dokumenty siuntimu, jei tikslinga, balsavimo ir posćdźiy rengimo tvarka, iskaitant galimybę priimti sprendimus paśtu ar kitomis elektroninemis priemonemis.
 6. Baltijos FOEB valdyba jos pirmininko kvietimu posćdżiauja prireikus, bet ne rećiau kaip du kartus per metus. Kiekvienas Susitarianćiosios Salies paskirtas valdybos narys turi teisę praśyti susaukti posćdi.
 7. Baltijos FOEB valdybai pavedama priimti Śioje Sutartyje iśdćstytus sprendimus, siekiant igyvendinti Siuos tikslus:
@@ -471,7 +469,7 @@ Komiitetai ir darbo grupćs
 1) Oro erdves komitetą, kurio jsteigimo tikslas padeti Baltijos FOEB valdybai igyvendinti Baltijos FOEB ir vykdyti Baltijos FOEB valdybos jam patiketas użduotis;
 2) Strategini, ekonomikos ir veiklos rezultaty komitetą padeti Baltijos FOEB valdybai igyvendinti śios Sutarties 21 ir 23 straipsniy nuostatas ir vykdyti kitas Baltijos FOEB valdybos jam pavestas użduotis;
 3) Saugos komitetą padeti Baltijos FOEB valdybai igyvendinti Baltijos FOEB ir vykdyti kitas Baltijos FOEB valdybos jam pavestas użduotis;
-4) Operacini ir technini komitetą Baltijos FOEB valdybai igyvendinti Śios A T S A K O M Y B E
+4) Operacini ir technini komitetą Baltijos FOEB valdybai igyvendinti Śios ATSAKOMYBE
 1. Susitariandioji Śalis atlygina Sio straipsnio 3 dalyje nustatytą Żalą, kilusią del tvykio atitinkamoje oro erdveje, kuris:
 1) jvyko oro erdvćje virś jos teritorijos arba jos atsakomybćs sriCiai priklausancioje oro erdvćje pagal TCAO taisykles ir
 2) kilo dćl ATS teikejo, paskirto pagal Sios Sutarties 12 straipsni, kaltes arba del jo vardu veikianćiy agenty ar kity asmeny kaltćs, iśskyrus teikeją (-us), kurio (-iy) pagrindinć veiklos vieta yra Śios Susitarianćiosios Śalies teritorijoje (toliau vadinama jgaliotu ATS teikćju). Nepażeidźiant Sio straipsnio 5 dalies, ieśkinys negali biiti tiesiogiai iśkeltas igaliotam ATS teikćjui arba jo agentams ar kitam asmeniui, veikianCiam jo vardu.
@@ -486,7 +484,7 @@ ieśkinys neiśkeltas per dvejus metus nuo galutiniy sprendimy, numatyty Sio str
 10. Śis skyrius yra talkomas nepaźeidźiant tarptautiniy sutarciy del źalos, padarytos vienos Susitarianćiosios Śalies ginkluotujy pajegy kitos Susitariandiosios Śalies teritorijoje.
 28 straipsnis
 1. Jeigu avarija arba pavojingas incidentas pagal Cikagos konvencijos apibróżtis Baltijos FOEB oro erdvćje ivyksta virś Susitarianćiosios Śalies teritorijos arba jos atsakomybćs srićiai priklausanćioje oro erdvćje pagal TCAO taisykles (toliau vadinama jvykio Susitarianiqja Śalimi), valdomoje ANSP, iskyrus telkeją (-us), kurio (-i4) pagrindinć veiklos vieta yra jvykio Susitarianćiosios Śalies teritorijoje (toliau vadinama igaliotu ANSP), igalioto ANSP Susitarianćioji Śalis nedelsdama apie tai praneśa jvykio Susitarianćiosios Śalies kompetentingoms institucijoms. Praneśimo turinys turi atitikti Ćikagos konvencijos 13 priede nurodyto praneśimo turini.
-2. [vykio Susitarianciajai Saliai arba Susitarianćiajai Śaliai, atliekanćiai tyrimą pagal Cikagos konvencijos 13 priedą, Susitarianciujy Śaliy atitinkami ANSP ir kompetentingos institucijos suteikia galimybę naudotis visa reikalinga medźiaga avarijos arba pavojingo 3 . I g a li o t o A N S P S u s i t a r i a n ć i o ji Ś a li s s a v o n a c i o n a li n ć s t e i s ć s a k t y nu s t a t y t a t v a r k a s u t e i k i a S u s i t a r i a n ć i a j a i Ś a li a i , a t li e k a n ć i a i t y r i m ą , g a li m y b ę p a t e k t i i j g a li o t y A N S P i r kompetentingy institucijy patalpas, prieiti prie jrangos ir susipaźinti su medźiaga. Gauta informacija gali biiti naudojama tik tam tikslui, kuriam ji buvo suteikta, ir privalo biiti neskelbiama vieśai be tą informaciją suteikusios Susitarianćiosios Salies sutikimo.
+2. [vykio Susitarianciajai Saliai arba Susitarianćiajai Śaliai, atliekanćiai tyrimą pagal Cikagos konvencijos 13 priedą, Susitarianciujy Śaliy atitinkami ANSP ir kompetentingos institucijos suteikia galimybę naudotis visa reikalinga medźiaga avarijos arba pavojingo 3 . I g a li otoANSPSusitarianćio ji Ś a li ssavonaciona li nćsteisćsakty nu statytatvarka suteikiaSusitarianćiajaiŚa li a i , a t li ekanćiaityrimą , g a li mybępatektiijga li otyANSPir kompetentingy institucijy patalpas, prieiti prie jrangos ir susipaźinti su medźiaga. Gauta informacija gali biiti naudojama tik tam tikslui, kuriam ji buvo suteikta, ir privalo biiti neskelbiama vieśai be tą informaciją suteikusios Susitarianćiosios Salies sutikimo.
 4. Susitarianćiosios Śalys uźtikrina, kad institucijos, minimos Sio straipsnio 1 ir 2 dalyse, biity susipaźinusios su atitinkamais ryśiy kanalais.
 5. Igalioto ANSP Susitarianćiajai Śaliai suteikiama galimybe paskirti stebetoją dalyvauti tyrime.
 6. Susitariandioji Śalis, kuri atliekanóios tyrimą Susitarianćios Śalies prasymu suteikć informaciją arba suteikć galimybę pasinaudoti kompetentingy institucijy ar ANSP teikiama informacija, turi teisę paskirti igaliotą atstovą dalyvauti tyrime.
@@ -498,7 +496,7 @@ ieśkinys neiśkeltas per dvejus metus nuo galutiniy sprendimy, numatyty Sio str
 Susitarianćiosios Salys gali paskirti arba sudaryti Baltijos FOEB tyrimy komitetą, sudarytą iś civiliniy ir kariniy eksperty, kartu tirti orlaiviy avarijas ir incidentus, jskaitant oro eismo
 3) susiję su daugiau negu vienos Susitarianćiosios Śalies ANSP ir (arba)
 4) ivyksta paslaugu teikimo perdavimo laikotarpiu, Susitarianćiosios Śałys użtikrina, kad atliekant tyrimą, kurj Susitariandiosios Sałys pageidauja atlikti kartu, biity taikoma ivykiy klasifikacija, nurodyta atitinkamuose TCAO standartuose ir rekomenduojamoje praktikoje (SARP), Eurokontrolćs saugos prieżiiros reikalavimuose (ESSAR) ir kituose Europos Sajungos teisćs aktuose.
-11 S K Y R I U S INSTITUCINES NUOSTATOS 29 straipsnis Ginćy sprendimas
+11 SKYRIUS INSTITUCINES NUOSTATOS 29 straipsnis Ginćy sprendimas
 1. Visus ginćus, kylanćius tarp Susitarianćciujy Śaliy del Sios Sutarties aiśkinimo ir jos reikalavimy vykdymo, jiskaitant jos sudarymą, galiojimą ir nutraukimą, Susitarianćiosios Salys sprendżia tiesioginemis derybomis.
 2. Jeigu Susitarianćiosios Śalys negali iŚspręsti ginóo per tris menesius tiesioginemis derybomis, ginćas pavedamas spręsti Baltijos FOEB tarybai, kuri skiria vieną ar daugiau asmeny tarpininkauti ir vesti tiesiogines derybas tarp Susitarianciujy Śaliy arba taikyti kitas ginćo sprendimo priemones.
 3. Jeigu Baltijos FOEB taryba negali iśspręsti ginćo per tris menesius nuo jo pateikimo Baltijos FOEB tarybai, bet kuri iś atitinkamy Susitarianćiujy Śaliy turi teisę perduoti ginćą arbitrażui pagal neprivalomas Nuolatinio arbitrażo teismo taisykles ginćams tarp dviejy valstybiu spręsti. Arbitrażo teismo iślaidas, iskaitant mokesćius ir kitas sąnaudas, po lygiai dalijasi Susitarianćiosios Śałys, kurios yra arbitrażo proceso dałyvćs.
@@ -511,7 +509,7 @@ Susitarianciosios valstybes iŚstojimas iS Baltijos FOEB
 1. Nusprendusi iśstoti 18 Baltijos FOEB Susitariancioji Śalis praneśa visoms kitoms Susitarianćiosioms Salims ir Baltijos FOEB tarybai apie savo sprendimą.
 2. IŚstojimas iś Baltijos FOEB isigalioja per $eśis menesius nuo praneśimo Baltijos
 3. Baltijos FOEB taryba atlieka visus reikiamus veiksmus, biitinus tokiam iśstojimui.
-4. IB Baltijos FOEB iśstojanti Susitarianćioji Śalis padengia visas su iśstojimu susijusias iślaidas. Tokioms iślaidoms nustatyti Susitarianćiosios Salys sudaro specialy s u s i t a r i m ą .
+4. IB Baltijos FOEB iśstojanti Susitarianćioji Śalis padengia visas su iśstojimu susijusias iślaidas. Tokioms iślaidoms nustatyti Susitarianćiosios Salys sudaro specialy susitarimą .
 5. Jeigu yra tik dvi Sios Sutarties Susitarianćiosios Salys, vienos iś jy iśstojimas yra traktuojamas kaip Śios Sutarties nutraukimas. Nutraukimas isigalioja per śeśis menesius nuo praneśimo Baltijos FOEB tarybai. Tokiomis aplinkybćmis taikomos taisykles, nurodytos Śios Sutarties 33 straipsnio 1 dalyje.
 Sutarties keitimas
 1. Jeigu Susitariancioji Salis pageidauja keisti ią Sutartj, pavyzdżiui, del Baltijos FOEB pertvarkymo, ji pateikia toki siiilymą svarstyti Baltijos FOEB tarybai. Apie visus pakeitimus ir pertvarkymus praneśama atitinkamoms institucijoms ir organizacijoms.
@@ -526,8 +524,8 @@ Sutarties keitimas
 36 straipsnis Isigaliojimas
 1. Si Sutartis sudaroma neribotam laikui.
 2. Śi Sutartis jsigalioja ją patvirtinus pagal Susitarianciujy Śaliy nacionalinćs teisćs proceduras, pasikeićiant diplomatinemis notomis.
-3. Si Sutartis jsigalioja pirmą menesio dieną praćjus trims menesiams nuo to, kai g a un a m a p a s k u t i n ć n o t a .
-Tai patvirtindami, toliau nurodyti tinkamai igalioti asmenys savo vyriausybiy vardu p a s i r a ś ć ś i ą S u t a r t j i r u ż d ć j o a n t s p a u d u s .
+3. Si Sutartis jsigalioja pirmą menesio dieną praćjus trims menesiams nuo to, kai g a un amapaskutinćnota .
+Tai patvirtindami, toliau nurodyti tinkamai igalioti asmenys savo vyriausybiy vardu pasiraśćśiąSutartjirużdćjoantspaudus .
 Pasiraśyta o4 OAŃ m. lrepos Yra. Ulay e dviem originaliais egzemplioriais lenky, lietuviyi r angły kalbomis, visi tekstai yra autentiski. Kilus ginóy del aiśkinimo, remiamasi tekstu angly kalba. | The Republic of Poland The Republic of Lithuania, hereinafter called *the Contracting Parties”, Having regard to the fact that the Single European Sky (SES) initiative was launched in order to enhance current air safety standards, to contribute to the sustainable development of the air transport system and to improve the overall performance of air traffic management and air navigation services for general air traffic in Europe, with a view to meeting the requirements of all airspace users;
 Having regard to the Member States obligations stemming from the SES legislation, in particular compliance with the requirements of Article 9a of the Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the single European sky (the service provision Regulation) amended by the Regulation (EC) No 1070/2009 of the European Parliament and of the Council of 21 October 2009;
 Taking into account results of the Feasibility Studies for the establishment of the Baltic Functional Airspace Block (Baltic FAB);
@@ -542,7 +540,7 @@ Recognizing that the National Supervisory Authority of each Contracting Party sh
 Aiming at the creation of the legal and institutional basis for the Baltic FAB to be established by the Contracting Parties;
 Respecting that the Baltic FAB establishment is without prejudice to the Flight Information Regions (FIRs) as recognized by the ICAO and that the Contracting Parties CHAPTER 1: GENERAL PRINCIPLES Unless otherwise stated, terms used in this Agreement shall have the same meaning attributed to them as in the Regulations on the SES in force in the Contracting Parties.
 For the purpose of this Agreement, the following definitions and abbreviations shall a pp l y : indicated;
-2) *Airspace concerned” means the airspace over the territories of the Contracting Parties and the airspace under their responsibility in accordance with the Internationa] Civil Aviation Organization (ICAO) rules, as defined in Article 4 of t h i s A g r ee m e n t ;
+2) *Airspace concerned” means the airspace over the territories of the Contracting Parties and the airspace under their responsibility in accordance with the Internationa] Civil Aviation Organization (ICAO) rules, as defined in Article 4 of thisAgr ee ment ;
 6) "ANSP” means Air Navigation Service Provider;
 8) "ASAR/SAR” means Aeronauticał Search and Rescue/Search and Rescue,
 9) "Baltic FAB” means the Functional Airspace Block established by the
@@ -558,53 +556,53 @@ For the purpose of this Agreement, the following definitions and abbreviations s
 Article 2 Subject of this Agreement The aim of this Agreement is to establish the Baltic FAB and to define rights and obligations of the Contracting Parties, taking into consideration need for coordination of activities and future development of the Baltic FAB.
 Baltic FAB establishment
 1. This Agreement establishes the Baltic FAB.
-2. This agreement shall apply to the Baltic FAB airspace said in paragraph 1 of the A r t i c l e 4 ,
+2. This agreement shall apply to the Baltic FAB airspace said in paragraph 1 of the Article 4 ,
 3. This Agreement does not create an international organization with international legal personality.
 under which the Contracting Parties have to ensure air traffic management and the provision of ANS in the airspace concerned.
 5. This Agreement defines the framework within which the specific agreements and/or military cooperation and other necessary arrangements required to realize this
-1. Under this Agreement Baltic FAB airspace is composed of the following FIR: 1 . V il n i u s F I R ;
-a s d e s c r i b e d i n r e s p e c t i v e A I P b a s e d u p o n a pp r o p r i a t e I C A O d o c u m e n t s .
+1. Under this Agreement Baltic FAB airspace is composed of the following FIR: 1 . V il niusFIR ;
+asdescribedinrespectiveAIPbasedupona pp ropriateICAOdocuments .
 2. Baltic FAB is established for an indefinite period.
-Article 5 S o v e r e i g n t y 1 . T h i s A g r ee m e n t s h a ll b e w i t h o u t p r e j u d i c e t o t h e c o m p l e t e a n d e x c l u s i v e s o v e r e i g n t y of the Contracting Parties over the airspace above their territory. In case a FIR or UIR extends into the airspace over the territory of the other Contracting Party, the sovereignty of the Contracting Party concerned to that portion of the airspace over international agreements to which either of them is a party.
+Article 5 Sovereignty 1 . ThisAgr ee mentsha ll bewithoutprejudicetothecompleteandexclusivesovereignty of the Contracting Parties over the airspace above their territory. In case a FIR or UIR extends into the airspace over the territory of the other Contracting Party, the sovereignty of the Contracting Party concerned to that portion of the airspace over international agreements to which either of them is a party.
 Security and Defence
 1. The provisions of this Agreement shall be without prejudice to the competencies of the Contracting Parties relating to security and defence, and to the effective implementation of NATO decisions and/or other possible arrangements on air surveillance, control and defence.
 2. If the competent authorities of one Contracting Party deem necessary, they can enter arrangements in writing with the competent authorities of another Contracting Party for the effective civil-military or military-military cooperation within the Baltic FAB.
 State aircraft
 1. Unless otherwise agreed or regulated, Article 3 c) of the Chicago Convention remains
-2. Each Contracting Party shall establish simplified procedures for issuing permissions for the flights of the state aircrafts of the other Contracting Party to/from or over its territory and permissions to conduct military operations, participate in training and exercises without prejudice to the national security and defence interests, and the specified in paragraph 1 of Article 9 of this Agreement with those determined in the n e i g h b o u r i n g f un c t i o n a l a i r s p a c e b l o c k s .
+2. Each Contracting Party shall establish simplified procedures for issuing permissions for the flights of the state aircrafts of the other Contracting Party to/from or over its territory and permissions to conduct military operations, participate in training and exercises without prejudice to the national security and defence interests, and the specified in paragraph 1 of Article 9 of this Agreement with those determined in the neighbouringf un ctionalairspaceblocks .
 Objective of the Baltic FAB The Contracting Parties agree that the fundamental objective of the Baltic FAB is to achieve optimal performance in the areas relating to safety, flight efficiency, capacity, reduction of the negative impact on environment, cost-efficiency and to contribute to military mission effectiveness by the design of airspace and the organization of air traffic Commitments of the Contracting Parties
 1. To achieve the objective of the Baltic FAB the Contracting Parties commit to cooperate and to take the appropriate measures, in accordance with their national laws and regulations, in particular in the following areas:
 2) harmonization of rules and procedures;
-3 ) p r o v i s i o n o f A N S ;
+3 ) provisionofANS ;
 4) civil-military cooperation;
 5) charging;
-7 ) p e r f o r m a n c e ;
+7 ) performance ;
 8) governance of the Baltic FAB.
 3. To achieve the objective of Baltic FAB the Contracting Parties shall:
 1) implement the decisions taken by the Baltic FAB Council and the Baltic FAB consideration general framework defined by this Agreement;
-B a l t i c F A B a n d c o n s u l t o n e a n o t h e r o n a r e g u l a r b a s i s w i t h a v i e w t o i d e n t i f y i n g d i ff e r e n c e s b e t w ee n t h e i r r e s p e c t i v e l a w s a n d r e g u l a t i o n s , r u l e s a n d p r o c e d u r e s h a v i n g a n i m p a c t o n B a l t i c F A B t o s ee k t h e m a x i m u m a c h i e v a b l e c o m p a t i b ili t y .
-h a v e a n y n e g a t i v e i m p a c t o n t h e s a f e a n d e ff e c t i v e c o n d u c t o f m ili t a r y o p e r a t i o n s , t r a i n i n g a n d e x e r c i s e s .
-CHAPTER 2: AIRSPACE Baltic FAB Airspace s h a ll j o i n t ł y d e s i g n a i r s p a c e s t r u c t u r e s a n d e n s u r e t h e m a n a g e m e n t o f a s e a m l e ss a i r s p a c e a n d a c oo r d i n a t e d a i r t r a ffi c fl o w a n d c a p a c i t y m a n a g e m e n t , t a k i n g d u e l ) d e s i g n t h e s t r u c t u r e o f t h e a i r s p a c e c o n c e r n e d t o a ll o w d e f r a g m e n t a t i o n a n d
+BalticFABandconsultoneanotheronaregularbasiswithaviewtoidentifying d i ff erencesbetw ee ntheirrespectivelawsandregulations , rulesandprocedures havinganimpactonBalticFABtos ee kthemaximumachievablecompatib ili t y .
+haveanynegativeimpactonthesafeande ff ectiveconductofm ili taryoperations , trainingandexercises .
+CHAPTER 2: AIRSPACE Baltic FAB Airspace s h a ll jointłydesignairspacestructuresandensurethemanagementofaseamle ss airspaceandac oo rdinatedairtra ffi c fl owandcapacitymanagement , takingdue l ) designthestructureoftheairspaceconcernedtoa ll owdefragmentationand
 3) develop a common policy on the use of airspace, in close cooperation between civil and military authorities.
 3. The Contracting Parties shall coordinate their works with appropriate international authorities and bodies and consult the airspace users, if necessary.
 Flexible use of airspace
 1. According to the Article 9 and Article 10 and to achieve the objective of the Baltic FAB set out in Article 8 of this Agreement, the Contracting Parties shall cooperate at legal, operational and technical level for the efficient and consistent application of the Flexible Use of Airspace concerned taking into account both civil and
 2. The Contracting Parties shall ensure that common agreements and procedures are set up between appropriate ATS providers and that civil and military authorities coordinate activities over their territory and cross border areas as necessary at the strategic level of the airspace management.
-a pp r o p r i a t e A T S un i t s .
+a pp ropriateATS un i t s .
 Air navigation services
-1. The Contracting Parties shall ensure the provision of the following ANS: 1 ) a i r t r a ffi c s e r v i c e s ( A T S ) ;
+1. The Contracting Parties shall ensure the provision of the following ANS: 1 ) airtra ffi cservices ( A T S ) ;
 3) aeronautical information services (AIS) ;
-a n d p r o v i s i o n o f : airspace under their responsibility, appropriate competent authorities of each Contracting Party involved in the Baltic.
+andprovisionof : airspace under their responsibility, appropriate competent authorities of each Contracting Party involved in the Baltic.
 3. Where ANSPs wish to avail themselves of the services of other certificated service providers their written arrangements formalizing their working relationships shall be notified to the NSAs functioning within the Baltic FAB. With respect to the provision of designated ATS or MET services, those arrangements shall be subject to the approval of the Contracting Parties.
 1. The Contracting Parties ensure by a common instrument or based on the agreed procedures the designation of the ATS provider(s) of the airspace concerned. The rules set out in the previous sentence also include the aerodrome flight information service, ATS limited to a control zone of aerodromes and ATS under military supervision provided by the ATS provider(s) of the airspace concerned
 2. Each Contracting Party shall be entitled to designate, and repeal or amend such designation of, one or more ATS provider(s) to provide ATS in its applicable airspace, wholly or partially. Such designation, repeal or amendment shall be notified to the other Contracting Party in writing. Any ATS provider designated under this paragraph shall be deemed jointly designated by Contracting Parties as from the date of the receipt of notification of the designation by the other
 3. The Contracting Parties whose airspace is concerned by agreements between ATS provision of ATS shall remain solely responsible for approval of such agreements.
-Contracting Parties shall be free to enter into appropriate arrangements or p r o v i s i o n o f A T S .
-6 . T h e C o n t r a c t i n g P a r t i e s s h a ll :
+Contracting Parties shall be free to enter into appropriate arrangements or provisionofATS .
+6 . TheContractingPartiessha ll :
 2) inform immediately one another of any change in the terms of certification or in the legal status of the designated ATS providers;
 3) exchange the information conceming the rights and obligations of the designated ATS providers at national level.
-A r t i c l e 14 C o mm un i c a t i o n , n a v i g a t i o n a n d s u r v e ill a n c e s e r v i c e s The Contracting Parties shall work towards common technical systems and the cost efficient deployment of infrastructure for the provision of CNS services by ANSP of the Contracting Parties by joint designing, purchasing, deployment, operation and maintenance of CNS infrastructure, systems and equipment.
-A r t i c l e 15 Aeronautical information service
+Article 14 C o mm un ication , navigationandsurve ill ance services The Contracting Parties shall work towards common technical systems and the cost efficient deployment of infrastructure for the provision of CNS services by ANSP of the Contracting Parties by joint designing, purchasing, deployment, operation and maintenance of CNS infrastructure, systems and equipment.
+Article 15 Aeronautical information service
 1. The Contracting Parties shall coordinate the provision of AIS.
 2. AIS may be provided by the Contracting Party on behalf of another Contracting Party for the purpose of contingency.
 3. Competent authorities and AIS providers shall make appropriate arrangements.
@@ -624,11 +622,11 @@ equivalent legal arrangements concerning the provision of ATS by designated ANSP
 for the purpose of realization of its/theirs tasks.
 1. The provisions of this Agreement shall be without prejudice to the Contracting Parties” national requirements relating to public order, security and defence interests and each Contracting Party shall be entitled to apply any measure to safeguard its
 2. With due regard to the Flexible Use of Airspace principles and in accordance with existing national arrangements related to civil-military and military-military conduct military operations, training and exercises in the respective airspace regardless of the existing common boundary between the Contracting Parties.
-3. The Contracting Parties shall allow the provision of cross-border ATS to state aircraft operating as general air traffic as well as operational air traffic by the appropriate A T S p r o v i d e r o f t h e o t h e r C o n t r a c t i n g P a r t y p u r s u a n t t o a pp r o p r i a t e w r i tt e n a rr a n g e m e n t s n o t i fi e d t o t h e B a l t i c F A B B o a r d .
-4 . T h e C o n t r a c t i n g P a r t i e s c o n c e r n e d m a y a ll o w t h e p r o v i s i o n o f t a c t i c a l a i r c o n t r o l s e r v i c e s t o o p e r a t i o n a l a i r t r a ffi c b y t h e a i r d e f e n c e un i t s a n d t a c t i c a l a i r c o mm a n d a n d c o n t r o l s e r v i c e un i t s o f t h e o t h e r C o n t r a c t i n g P a r t y c o n c e r n e d ( i n c l u d i n g other air command and control units of the NATO Integrated Air Defence System, responsible for providing tactical air command and control over the territory of the other Contracting Party concerned) pursuant to appropriate written arrangements notified to the Baltic FAB Board.
+3. The Contracting Parties shall allow the provision of cross-border ATS to state aircraft operating as general air traffic as well as operational air traffic by the appropriate ATSprovideroftheotherContractingPartypursuanttoa pp ropriatewri tt e n a rr angementsnoti fi edtotheBalticFABBoard .
+4 . TheContractingPartiesconcernedmaya ll owtheprovisionoftacticalaircontrol servicestooperationalairtra ffi cbytheairdefence un itsandtacticalairco mm a n d andcontrolservice un itsoftheotherContractingPartyconcerned ( including other air command and control units of the NATO Integrated Air Defence System, responsible for providing tactical air command and control over the territory of the other Contracting Party concerned) pursuant to appropriate written arrangements notified to the Baltic FAB Board.
 5. For the provision of cross-border services in the airspace concerned, the Contracting Parties shall encourage close cooperation between the appropriate ANSPs and the respective air defence and tactical air command and control service units.
 6. The Contracting Parties shall strive to harmonize the relevant civil and military arrangements to facilitate civil-military cooperation, including safety, national security and defence.
-CHAPTER 5: CHARGING Charging traffic in the airspace concerned and strive to establish a common charging zone in t h e a i r s p a c e c o n c e r n e d .
+CHAPTER 5: CHARGING Charging traffic in the airspace concerned and strive to establish a common charging zone in theairspaceconcerned .
 2. For the purpose set out in paragraph 1 of this Article and prior to the introduction and the application of a single unit rate for en-route traffic in the airspace
 1) develop and apply common principles governing charging policy within the airspace concerned, taking into account the possibility of national exemptions;
 2) coordinate their unit rates for en-route traffic in the airspace concerned;
@@ -643,19 +641,19 @@ CHAPTER 6: SUPERVISION
 exchange of information, consultation and coordination for cross border service provision to ensure that necessary corrective measures will be taken without delay and that the decisions taken in accordance with this Article will be enforced.
 1. The Contracting Parties shall implement the Baltic FAB performance scheme and apply the Baltic FAB performance plan consistent with the EU-wide performance
 2. The Baltic FAB performance plan shall be jointly developed by NSAs of the Contracting Parties, and approved by the Baltic FAB Board. This performance plan s h a ll :
-1) include Baltic FAB performance targets for at least the following key performance areas: safety, environment, capacity, cost-efficiency, flight e ffi c i e n c y ;
+1) include Baltic FAB performance targets for at least the following key performance areas: safety, environment, capacity, cost-efficiency, flight e ffi ciency ;
 2) define a set of clear and measurable key performance indicators for the key performance areas for a defined reference period;
 3) include a Baltic FAB incentive scheme.
 3. The Baltic FAB Board shall: performance plans” preparation and implementation;
 2) decide on the implementation and elements of the Baltic FAB performance plan.
-4. The Baltic FAB Board, on behalf of the Contracting Parties, shall perform regular r e l a t e d t o t h e c o rr e c t i v e m e a s u r e s t o b e t a k e n .
-CHAPTER 8: GOVERNANCE 1 . T h e B a l t i c F A B C o un c il i s c o m p o s e d o f t h e f o ll o w i n g r e p r e s e n t a t i v e s d e s i g n a t e d b y e a c h C o n t r a c t i n g P a r t y : r e s p o n s i b l e f o r c i v il a v i a t i o n t o a c t o n b e h a l f o f t h e M i n i s t e r ;
-2 ) M i n i s t e r r e s p o n s i b l e f o r n a t i o n a l d e f e n c e o r p e r s o n d u l y a u t h o r i z e d b y M i n i s t e r 4 ) C h i e f E x e c u t i v e O ffi c e r s o f d e s i g n a t e d A N S P s o f C o n t r a c t i n g P a r t i e s p r o v i d i n g E x e c u t i v e O ffi c e r s o f d e s i g n a t e d A N S P o f C o n t r a c t i n g P a r t i e s p r o v i d i n g e n Officers.
-2 . O t h e r p a r t i c i p a n t s m a y a l s o a tt e n d a s o b s e r v e r s b y i n v i t a t i o n o f t h e B a l t i c F A B C o un c il .
-3 . T h e B a l t i c F A B C o un c il s h a ll b e a l t e r n a t e l y c h a i r e d b y o n e o f t h e C o n t r a c t i n g P a r t i e s .
-A g r ee m e n t e n t e r s i n t o f o r c e . F i r s t c h a i r p e r s o n s h a ll b e t h e r e p r e s e n t a t i v e o f L i t hu a n i a a s p e r P a r a g r a p h 1 p o i n t 1 ) o f t h i s A r t i c l e .
-4 . T h e d e c i s i o n s o f t h e B a l t i c F A B C o un c il s h a ll b e t a k e n b y a un a n i m o u s v o t e . E a c h B a l t i c F A B C o un c il .
-5 . T h e r u l e s o f p r o c e d u r e , a d o p t e d b y t h e B a l t i c F A B C o un c il s h a ll s e t o u t t h e p r i o r d i s p a t c h o f t h e a g e n d a a n d r e l a t e d d o c u m e n t s , i f a pp r o p r i a t e , t h e v o t i n g a n d m ee t i n g p r o c e d u r e s , i n c l u d i n g t h e p o s s i b ili t y o f t a k i n g d e c i s i o n s b y 6 . T h e B a l t i c F A B C o un c il s h a l l m e e t w h e n r e q u i r e d a t l e a s t t w i c e a y e a r b y t h e i n v i t a t i o n o f i t s C h a i r p e r s o n . E a c h m e m b e r t o t h e B a l t i c F A B C o un c il s h a ll b e e n t i t l e d t o r e q u e s t t h e c o n v e n i n g o f a m ee t i n g .
+4. The Baltic FAB Board, on behalf of the Contracting Parties, shall perform regular relatedtotheco rr ectivemeasurestobetaken .
+CHAPTER 8: GOVERNANCE 1 . TheBalticFABCo un c il iscomposedofthefo ll owingrepresentativesdesignatedby eachContractingParty : responsibleforciv il aviationtoactonbehalfoftheMinister ;
+2 ) MinisterresponsiblefornationaldefenceorpersondulyauthorizedbyMinister 4 ) ChiefExecutiveO ffi cersofdesignatedANSPsofContractingPartiesproviding ExecutiveO ffi cersofdesignatedANSPofContractingPartiesprovidingen Officers.
+2 . Otherparticipantsmayalsoa tt endasobserversbyinvitationoftheBalticFABCo un c il .
+3 . TheBalticFABCo un c il s h a ll bealternatelychairedbyoneoftheContractingParties .
+A g r ee mententersintoforce . Firstchairpersonsha ll betherepresentativeof L i t hu aniaasperParagraph 1 point 1 ) ofthisArticle .
+4 . ThedecisionsoftheBalticFABCo un c il s h a ll betakenbya un animousvote . Each BalticFABCo un c il .
+5 . Therulesofprocedure , adoptedbytheBalticFABCo un c il s h a ll setoutthe priordispatchoftheagendaandrelateddocuments , i f a pp ropriate , thevotingand m ee tingprocedures , includingthepossib ili tyoftakingdecisionsby 6 . TheBalticFABCo un c il shallmeetwhenrequiredatleasttwiceayearbythe invitationofitsChairperson . EachmembertotheBalticFABCo un c il s h a ll b e entitledtorequesttheconveningofam ee ting .
 7. The Baltic FAB Council shall take decisions in order to:
 1) ensure the implementation of this Agreement and the fulfilment of the objectives of the Baltic FAB in general;
 2) support the harmonization of the substantive national rules and procedures;
@@ -684,7 +682,7 @@ groups to assist it in specific matters and approve the proposals of the committ
 blocks and states;
 14) coordinate the positions of the Contracting Parties with regard to the application of international agreements and legislation regarding in particular the work of the ICAO, EUROCONTROL, the European Commission, the European Aviation Safety Agency and joint undertakings in the field of air traffic
 15) facilitate the settlement of disputes arising between the Contracting Parties;
-16) take the necessary measures in the event of the withdrawal of the Contracting P a r t y ;
+16) take the necessary measures in the event of the withdrawal of the Contracting Party ;
 17) propose amendments to this Agreement;
 18) ensure the consultations involving ANSPs, airspace users and other stakeholders
 19) decide on other issues as tasked by the Contracting Parties, or proposed by the designated Baltic FAB Board member.
@@ -699,16 +697,16 @@ FAB Board in the implementation of Articles 21 and 23 and other and execute task
 3) the Safety Committee to assist the Baltic FAB Board in the by the Baltic FAB Board;
 4) the Operational and Technical Committee to assist the Baltic FAB Board in implementation of Articles 13, 14, 15 and 17 and execute other tasks entrusted to it by the Baltic FAB Board;
 4.2. Baltic FAB Board may establish other specialized committees if required.
-CHAPTER 9: LIABILITY L i a b ili t y
+CHAPTER 9: LIABILITY Liab ili t y
 1. Within the airspace concerned, the Contracting Party shall compensate any damage as referred to in paragraph 3 of this Article resulting from the event:
 1) occurred in the airspace over its territory or under its responsibility according to the ICAO rules;
 2) caused due to the fault of the ATS provider referred to in Article 12 of this Agreement, or its agents or any other person acting on its behalf, due to the fault of ATS provider other than the provider(s) whose principal place of operation is located on the territory of the said Contracting Party of the event (effective ATS provider). Without prejudice to paragraph 5 of this Article, no direct action may be brought against the effective ATS provider or its agents or any other person action is not brought within a period of two years as from the date of the definitive has not been compensated under any final judicial decisions taken according to the
-4. Claims for compensation under paragraph 1 of this Article shall be filed with the of the Contracting Party concerned. If no consensus is reached on the claim, the dispute shall be ruled on by the competent court of that Contracting Party concerned i n a cc o r d a n c e w i t h i t s r e l e v a n t n a t i o n a l l a w s a n d r e g u l a t i o n s .
-5. The effective ATS provider shall reimburse to the Contracting Party referred to i n p a r a g r a p h 1 o f t h i s A r t i c l e a n y c o m p e n s a t i o n p a i d o r c o s t s i n c u rr e d a s t h e r e s u l t o f damage caused by its own fault or that of its agents or any other person acting on its behalf. The Contracting Party of the effective ATS provider shall ensure the enforcement of this obligation and, in case of default of the effective ATS provider, shałl take its place at first request as to reimburse the Contracting Party concerned.
+4. Claims for compensation under paragraph 1 of this Article shall be filed with the of the Contracting Party concerned. If no consensus is reached on the claim, the dispute shall be ruled on by the competent court of that Contracting Party concerned i n a cc ordancewithitsrelevantnationallawsandregulations .
+5. The effective ATS provider shall reimburse to the Contracting Party referred to inparagraph 1 ofthisArticleanycompensationpaidorcostsincu rr edastheresultof damage caused by its own fault or that of its agents or any other person acting on its behalf. The Contracting Party of the effective ATS provider shall ensure the enforcement of this obligation and, in case of default of the effective ATS provider, shałl take its place at first request as to reimburse the Contracting Party concerned.
 6. Nothing in this Agreement shall prevent the Contracting Party referred to in paragraph l of this Article and the Contracting Party of the effective ATS provider from agreeing to share costs resulting from damage as referred to in paragraph 1 of this Article.
 7. Nothing in this Agreement shall limit the right of recourse of a Contracting Party or an effective ATS provider against any other natural or legal person.
-8 . T h e C o n t r a c t i n g P a r t i e s s h a ll i n f o r m o n e a n o t h e r a s s oo n a s t h e y r e c e i v e a n y i n f o r m a t i o n a b o u t a n y c l a i m a s r e f e rr e d t o i n p a r a g r a p h s 1 a n d 3 o f t h i s A r t i c l e a n d as soon as a claim has been definitively settled.
-9 . T h e d e s i g n a t e d A T S p r o v i d e r s s h a ll m a i n t a i n a d e q u a t e c o v e r a g e f o r t h e li a b ili t y incurred under this Agreement so to make effective the obligation imposed to them under paragraph 5 of this Article to reimburse the Contracting Party referred to in paragraph 1 of this Article.
+8 . TheContractingPartiessha ll informoneanotherass oo nastheyreceiveany informationaboutanyclaimasrefe rr edtoinparagraphs 1 a n d 3 ofthisArticleand as soon as a claim has been definitively settled.
+9 . ThedesignatedATSproviderssha ll maintainadequatecoverageforthe li a b ili t y incurred under this Agreement so to make effective the obligation imposed to them under paragraph 5 of this Article to reimburse the Contracting Party referred to in paragraph 1 of this Article.
 10. The present chapter is applicable without prejudice to internationał agreements relating to damage caused by the armed forces of one Contracting Party on the territory of the other Contracting Party.
 CHAPTER 10: ACCIDENTS AND SERIOUS INCIDENTS Article 28 Investigation of accidents and serious
 1. In the event of an accident or a serious incident, according to the Chicago Convention definitions, within the Baltic FAB airspace, occurring in the airspace over the territory of a Contracting Party or under its responsibility in accordance with ICAO rules (hereinafter referred to as the Contracting Party of occurrence) and controlled by an ANSP other than the provider(s) whose principal place of operations is/are located on the territory of the Contracting Party of occurrence (hereinafter referred to as the effective ANSP), the Contracting Party of the effective ANSP shall notify without delay the competent authorities of the Contracting Party of occurrence by the most suitable and quickest means. The notification shall have at least the same content as the notification in Annex 13 to the Chicago Convention.
@@ -720,12 +718,12 @@ CHAPTER 10: ACCIDENTS AND SERIOUS INCIDENTS Article 28 Investigation of accident
 7. Where the Party conducting the investigation specifically requests the participation of the Contracting Party of the effective ANSP, the latter shall appoint an accredited
 8. The competent authorities of the Contracting Party conducting the investigation shall provide the competent authorities of the Contracting Party of the effective ANSP with the final investigation report based on its national laws and regulations.
 safety recommendations arising out of the investigation shall be communicated to it.
-10. If the Contracting Party conducting the investigation identifies irregularities related t h e r e o f .
-i n c l u d i n g A T M o cc u rr e n c e s ,
-13. In case of the accidents, serious incidents and ATM occurrences: 2 ) i n v o l v i n g c i v il a n d m ili t a r y A N S P S , a n d / o r
+10. If the Contracting Party conducting the investigation identifies irregularities related thereof .
+includingATMo cc u rr ences ,
+13. In case of the accidents, serious incidents and ATM occurrences: 2 ) involvingciv il andm ili taryANSPS , a n d / o r
 3) involving ANSPs of more than one Contracting Party, and/or
 4) during period of delegation of services the Contracting Parties shall ensure that during investigation, preferably conducted jointly, the same classification of occurrences will be applied, as defined in relevant ICAO SARPs, Eurocontrol ESSARs and European Union regulations.
-termination, should be subject to the direct negotiations between the Contracting P a r t i e s .
+termination, should be subject to the direct negotiations between the Contracting Parties .
 2. If the dispute cannot be settled within a period of three months through direct negotiations between the Contracting Parties the dispute shall be settled to the Baltic FAB Council which shall appoint one, or if necessary more, persons to moderate and conduct the direct negotiations between the Contracting Parties or shall use any other means to settle the dispute.
 3. If a dispute cannot be settled by the Baltic FAB Council within three months of its submission to the Baltic FAB Council, each of the Contracting Parties concerned shall have the right to submit the dispute to arbitration under the "Permanent Court of Arbitration optional rules for arbitrating disputes between two states”. The costs of the arbitration, including fees and expenses, shall be shared equally by the Contracting Parties the parties to the arbitration dispute.
 4. The decisions of the arbitration tribunal shall be binding on the Contracting Parties parties to the arbitration dispute.
@@ -734,9 +732,9 @@ termination, should be subject to the direct negotiations between the Contractin
 Article 31 from this Agreement
 1. In the event of the withdrawal of a Contracting Party from this Agreement, the Contracting Party concerned shall inform all other Contracting Parties and the Baltic FAB Council of its decision.
 3. The Baltic FAB Council shall take all necessary measures required by such withdrawal.
-4 . T h e C o n t r a c t i n g P a r t y w i t h d r a w i n g f r o m t h i s A g r ee m e n t s h a ll , b e a r t h e c o s t s resulting from such withdrawal. In order to determine such costs the Contracting Parties shall conclude a special agreement.
-5 . I f t h e r e a r e o n ł y t w o C o n t r a c t i n g P a r t i e s t h e w i t h d r a w a l o f o n e o f t h e C o n t r a c t i n g Parties shall be treated as the termination of this Agreement. Termination shall become effective six months after notification to the Baltic FAB Council. In such situation the rules set out in paragraph 1 of Article 33 shall apply.
-A r t i c l e 32 Amendment of this Agreement
+4 . TheContractingPartywithdrawingfromthisAgr ee mentsha ll , bearthecosts resulting from such withdrawal. In order to determine such costs the Contracting Parties shall conclude a special agreement.
+5 . IfthereareonłytwoContractingPartiesthewithdrawalofoneoftheContracting Parties shall be treated as the termination of this Agreement. Termination shall become effective six months after notification to the Baltic FAB Council. In such situation the rules set out in paragraph 1 of Article 33 shall apply.
+Article 32 Amendment of this Agreement
 1. If a Contracting Party wishes to amend this Agreement, in particular due to Baltic FAB modification, it shall duly inform the Baltic FAB Council to consider the proposal.
 All changes and modifications shall be notified to appropriate authorities and organisations.
 2. Any amendments agreed by the Contracting Parties shall come into force on the first day of the second month the Contracting Parties have notified each other in writing of the completion of their respective national law requirements.
@@ -752,15 +750,19 @@ Article 36 Entry into force
 3. This Agreement shall enter into force on the first day of the third month of the receipt of the later diplomatic note.
 In witness whereof the undersigned, being duly authorized, have signed this Agreement on behalf of their respective governments and affixed their seals.
 Done in Z„ ln rud on Lp) ŻAL.q edlin two original copies, each in the Polish, Lithuanian and English language, Al tółts being equally authentic. In case of their different interpretation, the English text shall prevail.
-ł FT = ON BEHALF OŃ BEHALF OF OF THE REPUBLIC OF POLAND _ THE REPUBLIC OF LITHUANIA D P T - 1 - 3603 / N A 244054 / K P / 4 G $ Ministerstwo Spraw Zagranicznych Rzeczypospolitej Polskiej w W a r s z a w i e w y r a z y w y s o k i e g o p o w a ż a n i a . / . 9 .
+ł FT = ON BEHALF OŃ BEHALF OF OF THE REPUBLIC OF POLAND _ THE REPUBLIC OF LITHUANIA D P T - 1 - 3603 / N A 244054 / K P / 4 G $ Ministerstwo Spraw Zagranicznych Rzeczypospolitej Polskiej wWarszawiewyrazywysokiegopoważania . / . 9 .
 Warszawa. dnia Ż Ą tistopada 2012 roku.
 LIETUVOS RESPUBLIKOS AMBASADA EMBASSY OF THE REPUBLIC OF LITHUANIA zapewniają, że (...)'został włączony do treści punktu czwartego.
 
+#### ROZDZIAŁ 2 PRZESTRZEŃPOWI ET RZNA Artykuł 10 Przestrzeń Po wietrznaBałtyckiegoFAB 1 . AbyosiągnąćcelBałtyckiegoFABokreślonywArtykule 8 UmawiającesięStrony wspólnieprojektująstrukturyprzestrzenipowietrznejizapewniajązarządzaniewjedno li t e j przestrzenipowietrznejorazsk oo rdynowanyprzepływruc hu lotniczegoizarządzanie pojemnością , uwzględniającproceswspółpracyUmawiającychsięStronnaszczeblu międzynarodowym.
+
+#### ROZDZIAŁ 3 ZAPEWNIANIE SŁUŻB ŻEGLUGI POWIETRZNEJ Artykuł 12 Służby żeglugi powietrznej
+
 #### ROZDZIAŁ 4 WSPÓŁPRACA CYWILNO-WOJSKOWA I WOJSKOWO -WOJSKOWA Działania wojskowe
 
-#### ROZDZIAŁ 5 OPŁATY O p ł a t y
+#### ROZDZIAŁ 5 OPŁATY Opłaty
 
-#### ROZDZIAŁ 6 NADZÓR Artykuł 22 N a d z ó r
+#### ROZDZIAŁ 6 NADZÓR Artykuł 22 Nadzór
 
 #### ROZDZIAŁ 9 ODPOWIEDZIALNOŚĆ ODSZKODOWAWCZA Artykuł 27 Odpowiedzialność odszkodowawcza
 

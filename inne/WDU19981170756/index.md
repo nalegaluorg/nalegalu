@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# U S T A W A O z d n i a 18 li p c a 1998 r . r o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz o zmianie niektórych ustaw W ustawie z dnia 6 lutego 1997r. o powszechnym ubezpieczeniu zdrowotnym (Dz.U. Nr 28, poz. 153 i Nr 75, poz. 468) wprowadza się następujące zmiany:
+# USTAWAO zdnia 18 li p c a 1998 r . r o zmianie ustawy o powszechnym ubezpieczeniu zdrowotnym oraz o zmianie niektórych ustaw W ustawie z dnia 6 lutego 1997r. o powszechnym ubezpieczeniu zdrowotnym (Dz.U. Nr 28, poz. 153 i Nr 75, poz. 468) wprowadza się następujące zmiany:
 
 | Pole | Wartość |
 |---|---|
@@ -48,14 +48,14 @@ Ubezpieczeni współuczestniczą w kosztach udzielanych im świadczeń wnosząc 
 . Kasa Chorych nie może prowadzić zakładów opieki zdrowotnej, nie może być ich właścicielem ani nie może posiadać w jakiejkolwiek formie praw własności w stosunku do podmiotów prawnych prowadzących zakłady opieki zdrowotnej, w szczególności nie może być akcjonariuszem lub udziałowcem spółek prowadzących zakłady opieki zdrowotnej. ;
 5) po art. 4 dodaje się art. 4a w brzmieniu: „Art. 4a. 1. Ubezpieczony może realizować obowiązek ubezpieczenia zdrowotnego w innej niż Kasa Chorych instytucji ubezpieczenia zdrowotnego, działającej na podstawie odrębnych przepisów o działalności ubezpieczeniowej, jeżeli instytucja ta:
 1) zapewnia zakres świadczeń zdrowotnych nie mniejszy niż za2) obejmuje ubezpieczeniem każdą zgłaszającą się osobę bez względu na czynniki ryzyka,
-3) nie różnicuje wysokości składki w zależności od czynników r y z y k a ,
+3) nie różnicuje wysokości składki w zależności od czynników ryzyka ,
 4) działa na całym terytorium Rzeczypospolitej Polskiej 1 nie różnicuje składki w zależności od regionu,
 5) obejmuje ubezpieczeniem członków rodziny osoby opłacającej składkę,
 6) uzyskała zgodę Urzędu Nadzoru Ubezpieczeń Zdrowotnych na realizację zadań powszechnego ubezpieczenia zdrowotne2. Instytucja, o której mowa w ust. l, w zakresie realizacji zadań powszechnego ubezpieczenia zdrowotnego podlega nadzorowi 1 kontroli Urzędu Nadzoru Ubezpieczeń Zdrowotnych.
 3. Urząd Nadzoru Ubezpieczeń Zdrowotnych może cofnąć zgodę, o której mowa w ust. 1 pkt 6, jeżeli instytucja ubezpieczenia zdrowotnego nie realizuje przepisów ust. I pkt 1-5 i nie zapewnia ubezpieczonym świadczeń określonych ustawą. W razie cofnięcia zgody przepis art. 69c ust. 3 stosuje się odpowiednio;.
 6) skreśla się art. 516;
 7) wart. 7:
-a) w pkt 14 skreśla się wyrazy „„Jub osobę pobierającą emeryturę lub rentę zag r a n i c z n ą ” , ,
+a) w pkt 14 skreśla się wyrazy „„Jub osobę pobierającą emeryturę lub rentę zagraniczną ” , ,
 b) pkt 15 otrzymuje brzmienie:
 15) przeciętnym wynagrodzeniu — rozumie się przez to przeciętne miesięczne wynagrodzenie w sektorze przedsiębiorstw z poprzedniego kwartału, ogłaszane przez Prezesa Głównego Urzędu Statystycznego w Dzienniku Urzędowym Rzeczypospolitej Polskiej „„Monitor Pols k t ” , ” ,
 c) w pkt 20 kropkę zastępuje się przecinkiem i dodaje się pkt 21-30 w brzmien i u : „2l) członku rodziny — rozumie się przez to następujące osoby, pozostające na wyłącznym utrzymaniu ubezpieczonego opłacającego składkę:
@@ -70,7 +70,7 @@ c) krewnych wstępnych pozostających z nim we wspólnym gospodarstwie domowym i
 27) poziomie referencyjnym szpitali — rozumie się przez to podział szpitali w zależności od zakresu i rodzaju udzielanych przez nie świadczeń zdrowotnych,
 28) aptece — rozumie się przez to aptekę ogólnodostępną,
 29) szpitalu — rozumie się przez to również szpital kliniczny,
-30) ambulatoryjnej opiece zdrowotnej — rozumie się przez to udzielanie Świadczeń zdrowotnych pacjentom nie wymagającym hospitalizacji (leczenia szpitalnego) przez przychodnie, poradnie i ośrodki zdrowia oraz udzielanie tych świadczeń w ramach praktyki zawodów medyczn y c h ; .
+30) ambulatoryjnej opiece zdrowotnej — rozumie się przez to udzielanie Świadczeń zdrowotnych pacjentom nie wymagającym hospitalizacji (leczenia szpitalnego) przez przychodnie, poradnie i ośrodki zdrowia oraz udzielanie tych świadczeń w ramach praktyki zawodów medycznych ; .
 8) wart. 8:
 a) w pkt 1 po wyrazie „społecznym” dodaje się wyrazy ,, , z zastrzeżeniem art.
 b) pkt 9-17 otrzymują brzmienie: „9) sędziowie 1 prokuratorzy,
@@ -80,7 +80,7 @@ b) pkt 9-17 otrzymują brzmienie: „9) sędziowie 1 prokuratorzy,
 13) słuchacze Krajowej Szkoły Administracji Publicznej,
 14) osoby pobierające stypendium sportowe po ukończeniu 15 roku życia, nie objęte ubezpieczeniem zdrowotnym z innego tytułu,
 15) bezrobotni,
-16) osoby pobierające zasiłek przedemerytalny lub świadczenie przedemer y t a l n e ,
+16) osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne ,
 17) osoby pobierające rentę socjalną, zasiłek stały, zasiłek stały wyrównawczy lub gwarantowany zasiłek okresowy z pomocy społecznej,”
 c) po pkt 17 dodaje się pkt 18-21 w brzmieniu: „18) kombatanci nie podlegający ubezpieczeniu społecznemu w Rzeczypospolitej Polskiej lub nie pobierający emerytury lub renty,
 19) osoby korzystające z urlopu wychowawczego nie pozostające na wyłącznym utrzymaniu osoby podlegającej ubezpieczeniu,
@@ -107,7 +107,7 @@ Podstawę wymiaru składki opłacanej przez osobę, o której mowa w ust. l, sta
 8 pkt 8 1 9 powstaje z dniem przyznania im uposażenia, a wygasa z dniem utraty prawa do pobierania uposażenia;.
 14) art. 14 otrzymuje brzmienie: „Art. 14. 1. Obowiązek ubezpieczenia zdrowotnego emerytów i rencistów powstaje od dnia, od którego przysługuje wypłata emerytury lub renty, a wygasa z dniem zaprzestania pobierania świadczenia.
 2. Przepis ust. l stosuje się odpowiednio do osób w stanie spoczynku pobierających uposażenie lub pobierających uposażenie rodzinne oraz osób pobierających uposażenie po zwolnieniu ze służby.;
-15 ) w a r t . 15 :
+15 ) wart . 15 :
 a) w pkt 1 1 2 wyrazy „pkt 10” zastępuje się wyrazami „pkt 11”,
 b) w pkt 3 wyrazy „„pkt 11i 12” zastępuje się wyrazami „pkt 12i13”,
 c) pkt 4-7 otrzymują brzmienie: „4) osób wymienionych w art. 8 pkt 14 — powstaje z dniem przyznania stypendium, a wygasa z dniem utraty prawa do jego pobierania,
@@ -121,7 +121,7 @@ d) w pkt 7 kropkę zastępuje się przecinkiem i dodaje się pkt 8—10 w brzmie
 2. Do ubezpieczenia zdrowotnego osób wymienionych w art. 8 pkt 2-9 stosuje się odpowiednio przepisy dotyczące zasad, trybu i terminu zgłaszania do ubezpieczenia społecznego pracowników, z zastrzeżeniem ust. 11.
 3.
 10.
-Osoby pobierające emeryturę lub rentę zgłasza do ubezpieczenia zdrowotnego Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego lub inna właściwa instytucja emeryt a l n o — r e n t o w a .
+Osoby pobierające emeryturę lub rentę zgłasza do ubezpieczenia zdrowotnego Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego lub inna właściwa instytucja emerytalno — rentowa .
 . Osoby wymienione w art. 8 pkt Il i 12 zgłaszają do ubezpieczenia zdrowotnego szkoły, zakłady kształcenia nauczycieli, szkoły wyższe, jednostki prowadzące studia doktoranckie, placówki opiekuńczo-wychowawcze, resocjalizacyjne i domy pomocy społecznej.
 . Osoby wymienione w art. 8 pkt 13 zgłasza do ubezpieczenia zdrowotnego Krajowa Szkoła Administracji Publicznej.
 „. Osoby wymienione w art. 8 pkt 14 zgłasza do ubezpieczenia zdrowotnego podmiot wypłacający stypendium.
@@ -202,7 +202,7 @@ c) po ust. 2 dodaje się ust. 3 1 4 w brzmieniu: "3. Składki na ubezpieczenie z
 a) ust. 1 otrzymuje brzmienie: „l. Składka na powszechne ubezpieczenie zdrowotne podlega odliczeniu:
 1) od podatku dochodowego od osób fizycznych obliczonego według skali podatkowej określonej w art. 27 ust. I ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz.U. z 1993 r. Nr 90, poz. 416 i Nr 134, poz. 646, z 1994 r. Nr 43, poz. 163, Nr 90, poz. 419, Nr 113, poz. 547, Nr 123, poz. 602 i Nr 126, poz.
 626, z 1995 r. Nr 5, poz. 251 Nr 133, poz. 654, z 1996 r. Nr 25, poz. 113, Nr 87, poz. 395, Nr 137, poz. 638, Nr 147, poz. 686 1 Nr 156, poz. 776, z 1997 r. Nr 28, poz. 153, Nr 30, poz. 164, Nr 71, poz. 449, Nr 85, poz. 538, Nr 96, poz. 592, Nr 121, poz. 770, Nr 123, poz. 776, Nr 137, poz. 926, Nr 139, poz. 932, 933 1 934, Nr 141, poz. 943 i 945 oraz z 1998 r. Nr 66, poz. 430 1 Nr 74, poz. 471 i Nr 108, poz. 685) — na zasadach określonych w tej ustawie,
-2) od zryczałtowanego podatku dochodowego opłacanego w formie ryczałtu od przychodów ewidencjonowanych i karty podatkowej oraz od zryczałtowanego podatku dochodowego od przychodów osób duchownych — na zasadach określonych w odrębnych przepis a c h . ”
+2) od zryczałtowanego podatku dochodowego opłacanego w formie ryczałtu od przychodów ewidencjonowanych i karty podatkowej oraz od zryczałtowanego podatku dochodowego od przychodów osób duchownych — na zasadach określonych w odrębnych przepisach . ”
 b) skreśla się ust. 2;
 30) art. 31 otrzymuje brzmienie: „Art. 31. 1. Osobom ubezpieczonym przysługują, na zasadach określonych w ustawie, świadczenia zdrowotne mające na celu:
 1) zachowanie zdrowia oraz zapobieganie chorobom i urazom,
@@ -268,7 +268,7 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 - **41)** skreśla się art. 49 ;
 - **42)** art. 50 otrzymuje brzmienie: „Art. 50. 1. Ubezpieczonemu na podstawie zlecenia lekarza przysługują bezpłatne przejazdy środkiem transportu sanitarnego w przypadkach:
 - **1)** przewozu osób wymagających natychmiastowego leczenia w zakładzie opieki zdrowotnej,
-- **2)** przewozów wynikających z potrzeby zachowania ciągłości leczenia w przypadkach schorzeń zagrażających zdrowiu lub ż y c i u . Ubezpieczonemu, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego przysługuje bezpłatny przejazd środkami transportu sanitarnego w przypadku przewozu osób z dysfunkcją narządu ruchu uniemożliwiającą korzystanie ze środków transportu publicznego w celu odbycia leczenia do najbliższego zakładu udzielającego Świadczeń w tym zakresie i z powrotem. . Statut Kasy Chorych może określać wysokość udziału własnego ubezpieczonego w kosztach przejazdu lub pełne pokrycie tych kosztów przez ubezpieczonego w przypadkach nie wymienionych w ust. 112.;
+- **2)** przewozów wynikających z potrzeby zachowania ciągłości leczenia w przypadkach schorzeń zagrażających zdrowiu lub życiu . Ubezpieczonemu, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego przysługuje bezpłatny przejazd środkami transportu sanitarnego w przypadku przewozu osób z dysfunkcją narządu ruchu uniemożliwiającą korzystanie ze środków transportu publicznego w celu odbycia leczenia do najbliższego zakładu udzielającego Świadczeń w tym zakresie i z powrotem. . Statut Kasy Chorych może określać wysokość udziału własnego ubezpieczonego w kosztach przejazdu lub pełne pokrycie tych kosztów przez ubezpieczonego w przypadkach nie wymienionych w ust. 112.;
 - **43)** art. 51 otrzymuje brzmienie:
 - **44)** skreśla się art. Ubezpieczony ubiegający się o Świadczenie z ubezpieczenia zdrowotnego jest obowiązany przedstawić kartę ubezpieczenia. W przypadkach, o których mowa w ust. 2, karta może zostać przedstawiona w terminie późniejszym, na zasadach określonych w statucie Kasy Chorych. „ W razie nieprzedstawienia karty ubezpieczenia lub w przypadku, gdy ubezpieczony nie opłacił składki na ubezpieczenie zdrowotne przez okres dłuższy niż 30 dni, świadczenie zostaje udzielone na koszt ubezpieczonego, z wyjątkiem nagłych zachorowań związanych z wypadkiem, zatruciem, urazem, stanów zagrożenia życia lub porodu. . W razie nieodprowadzenia składki za ubezpieczonego przez zobowiązanego płatnika, przez okres dłuższy niż 30 dni, Kasa Chorych obciąża tego płatnika kosztami świadczenia udzielonego ubezpieczonemu. . W razie późniejszego przedstawienia karty ubezpieczenia lub opłacenia zaległych składek wraz z odsetkami, ubezpieczony i płatnik może ubiegać się o zwrot kosztów, o których mowa w ust. 213, w trybie określonym w statucie Kasy Chorych. . Roszczenia, o których mowa w ust. 3, ulegają przedawnieniu z upływem 12 miesięcy od dnia, w którym roszczenia stały się wymagalne. . Przepisów ust. 1-3 nie stosuje się do dzieci od dnia urodzenia do ukończenia 3 miesiąca Życia;. 52 ;
 - **45)** art. 53 otrzymuje brzmienie: „Art. 53. 1. Kasy Chorych zawierają umowy o udzielanie świadczeń ze świadczeniodawcami posiadającymi uprawnienia do udzielania Świadczeń na podstawie odrębnych przepisów.
@@ -301,7 +301,7 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 - **3)** dermatologa i wenerologa,
 - **4)** onkologa,
 - **5)** psychiatry,
-- **6)** lecznictwa odwykowego dla osób uzależnionych od alkoholu, środków odurzających i substancji psychotropowych oraz od t y t o n i u ,
+- **6)** lecznictwa odwykowego dla osób uzależnionych od alkoholu, środków odurzających i substancji psychotropowych oraz od tytoniu ,
 - **7)** dla osób zakażonych wirusem HIV,
 - **8)** dla osób chorych na gruźlicę,
 - **9)** dla kombatantów w zakresie chorób wojennych i obozowych.
@@ -506,7 +506,7 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 - **1)** wykonywanie uchwał rady Kasy Chorych,
 - **2)** opracowywanie projektu planu pracy Kasy Chorych,
 - **3)** opracowywanie projektu planu finansowego Kasy Chorych,
-- **4)** wykonywanie planu finansowego i planu pracy Kasy Chor y c h ,
+- **4)** wykonywanie planu finansowego i planu pracy Kasy Chorych ,
 - **5)** zarządzanie funduszami i mieniem Kasy Chorych,
 - **6)** lokowanie funduszu rezerwowego Kasy Chorych,
 - **7)** opracowywanie kwartalnych i rocznych sprawozdań z działalności Kasy Chorych oraz kwartalnych i rocznych sprawozdań finansowych,
@@ -550,13 +550,13 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 - **87)** art. 110 otrzymuje brzmienie: „Art. 110. W skład Rady Krajowego Związku Kas Chorych wchodzą po jednym przedstawicielu regionalnej Kasy Chorych, gdy Kasa liczy do 2 000 000 członków, a w przypadku gdy liczy powyżej 2 000 000 członków - dwóch przedstawicieli.";
 - **88)** wart. 111 dodaje się na końcu wyrazy „i kończy się w dniu pierwszego posiedzenia nowo wybranej Rady Krajowego Związku Kas Chorych;.
 - **89)** art. 112 otrzymuje brzmienie: „Art. 112. Rada Krajowego Związku Kas Chorych wybiera spośród swojego składu przewodniczącego 1 zastępców przewodniczącego oraz sekretarza;.
-- **90)** art. 113 otrzymuje brzmienie: „Art. 113. Do zakresu działania Rady Krajowego Związku Kas Chorych nal e ż y :
+- **90)** art. 113 otrzymuje brzmienie: „Art. 113. Do zakresu działania Rady Krajowego Związku Kas Chorych należy :
 - **1)** uchwalanie statutu,
 - **2)** powoływanie i odwoływanie dyrektora Biura Krajowego Związku Kas Chorych,
 - **3)** występowanie do organów administracji państwowej i instytucji państwowych, instytucji samorządu terytorialnego i samorządów zawodowych zrzeszających osoby wykonujące zawody medyczne oraz organizacji związkowych o podjęcie określonych inicjatyw lub działań w sprawach związanych z ubezpieczeniem zdrowotnym,
 - **4)** uchwalanie programów działania i planu finansowego oraz przyjmowanie i zatwierdzanie rocznego sprawozdania finansowego i rocznego sprawozdania z wykonania programów działania,
 - **5)** wykonywanie zadań, o których mowa w art. 108 i w statucie;.
-- **91)** po art. 113 dodaje się art. 113a w brzmieniu: „Art. Il3a. 1. Statut Krajowego Związku Kas Chorych określa szczegółowo zasady funkcjonowania, organizację i finansowanie działalności organów Krajowego Związku Kas Chorych oraz Biura Krajowego Z w i ą z k u K a s .
+- **91)** po art. 113 dodaje się art. 113a w brzmieniu: „Art. Il3a. 1. Statut Krajowego Związku Kas Chorych określa szczegółowo zasady funkcjonowania, organizację i finansowanie działalności organów Krajowego Związku Kas Chorych oraz Biura Krajowego ZwiązkuKas .
 
 2. Statut Krajowego Związku Kas Chorych zatwierdza Urząd Nad92) art. 114 otrzymuje brzmienie: „Art. 114. 1. Posiedzenia Rady Krajowego Związku Kas Chorych zwołuje przewodniczący Rady lub pełniący jego obowiązki zastępca przewodniczącego.
 
@@ -570,7 +570,7 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 
 - **2)** organizacja Biura Krajowego Związku Kas Chorych,
 - **3)** przekazywanie do Urzędu Nadzoru statutu i innych uchwał Rady Krajowego Związku Kas Chorych, w tym planu finansowego i sprawozdania finansowego, oraz sprawozdania z działalności Krajowego Związku Kas Chorych nie później niż w ciągu 7 dni od dnia ich przyjęcia przez Radę,
-- **4)** wykonywanie uchwał Rady Krajowego Związku Kas Chor y c h ,
+- **4)** wykonywanie uchwał Rady Krajowego Związku Kas Chorych ,
 - **5)** przygotowywanie programów działania i planu finansowego oraz sprawozdania finansowego i sprawozdania z działalności oraz innych dokumentów przedkładanych na posiedzenia Rady,
 - **6)** zapewnienie obsługi technicznej 1 organizacyjno-finansowej Rady Krajowego Związku Kas Chorych;.
 - **97)** skreśla się art. 119;
@@ -674,7 +674,7 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 - **116)** po art. 141 dodaje się rozdział 7a w brzmieniu: "Rozdział 7a Przetwarzanie i ochrona danych Art. 14la. 1. Kasy Chorych są uprawnione do uzyskiwania i przetwarzania danych osobowych osób ubezpieczonych w celu:
 - **1)** stwierdzenia obowiązku ubezpieczenia i członkostwa,
 - **2)** wystawienia dokumentów uprawniających do korzystania ze świadczeń Kas Chorych,
-- **3)** stwierdzenia obowiązku płacenia składki i ustalenia kwoty s k ł a d k i ,
+- **3)** stwierdzenia obowiązku płacenia składki i ustalenia kwoty składki ,
 - **4)** kontroli rodzaju, zakresu i przyczyny udzielanych świadczeń,
 - **5)** rozliczenia ze świadczeniodawcami,
 - **6)** rozliczenia z innymi instytucjami lub osobami w zakresie ich zobowiązań wobec Kasy Chorych,
@@ -685,7 +685,7 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 
 - **l)** imię i nazwisko,
 - **2)** numer PESEL,
-- **3)** data urodzenia, 4 ) p ł e ć ,
+- **3)** data urodzenia, 4 ) płeć ,
 - **5)** stopień pokrewieństwa z opłacającym składkę,
 - **6)** adres zamieszkania,
 - **7)** stopień niepełnosprawności, jeżeli dziecko ukończyło 26 lat,
@@ -738,11 +738,11 @@ l) świadczenia, których sposób finansowania określają odrębne przepisy, w 
 
 **Art. 169d.** Po rocznym okresie obowiązywania ustawy Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej sprawozdanie z wykonania ustawy wraz z wnioskami dotyczącymi wysokości składki na ubezpieczenie zdrowotne.
 
-**Art. 169e.** Kasy Chorych przejmują finansowanie świadczeń zdrowotnych udzielanych przez zakłady opieki zdrowotnej, o których mowa w art. 2 ust. 2 pkt 2 oraz w art. 3 ustawy z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych (Dz.U. z 1997 r. Nr 36, poz. 224i Nr 123, 138 ) w a r t . 170 :
+**Art. 169e.** Kasy Chorych przejmują finansowanie świadczeń zdrowotnych udzielanych przez zakłady opieki zdrowotnej, o których mowa w art. 2 ust. 2 pkt 2 oraz w art. 3 ustawy z dnia 24 listopada 1995 r. o zmianie zakresu działania niektórych miast oraz o miejskich strefach usług publicznych (Dz.U. z 1997 r. Nr 36, poz. 224i Nr 123, 138 ) wart . 170 :
 
 **Art. 9.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz.U Nr 91, poz. 408, z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110, z 1997r. Nr 104, poz. 661, Nr 121, poz. 769 1 Nr 158, poz. 1041 oraz z 1998 r. Nr 106, poz. 668) w art. 8:
 
 **Art. 13.** W ustawie z dnia 22 sierpnia 1997 r. o publicznej służbie krwi (Dz.U. Nr 106, poz.
 
-**Art. 15.** U s t a w a w c h o d z i w ż y c i e z d n i e m 1 s t y c z n i a 1999 r ., z w y j ą t k i e m n a s t ę p u j ą c y c h p r z e p i s ó w u s t a w y w y m i e n i o n e j w a r t . 1 : 1 ) a r t . 18 , a r t . 21 u s t . 3 , a r t . 26 u s t . 6 , a r t . 54 , 54 a , 56 , 166 , 167 , 167 a , 168 a , a r t . 169 , 169 a , 169 b i 169 c , k t ó r e w c h o d z ą w ż y c i e z d n i e m o g ł o s z e n i a , 2 ) a r t . 55 a , k t ó r y w c h o d z i w ż y c i e z d n i e m 1 li p c a 1999 r ., 3 ) a r t . 4 a , k t ó r y w c h o d z i w ż y c i e z d n i e m 1 s t y c z n i a 2002 r . Po p r a w k i o c h a r a k t e r z e l e g i s l a c y j n y m - d o t y c z ą c e o d e s ł a ń l u b p r z e o c z e ń d o u s t a w y o z m i a n i e u s t a w y o p o w s z e c hn y m u b e z p i e c z e n i u z d r o w o t n y m o r a z 0 zmianie niektórych ustaw
+**Art. 15.** Ustawawchodziwżyciezdniem 1 stycznia 1999 r ., zwyjątkiemnastępujących przepisówustawywymienionejwart . 1 : 1 ) a r t . 18 , a r t . 21 u s t . 3 , a r t . 26 u s t . 6 , a r t . 54 , 54 a , 56 , 166 , 167 , 167 a , 168 a , a r t . 169 , 169 a , 169 b i 169 c , którewchodząwżyciezdniemogłoszenia , 2 ) a r t . 55 a , którywchodziwżyciezdniem 1 li p c a 1999 r ., 3 ) a r t . 4 a , którywchodziwżyciezdniem 1 stycznia 2002 r . Po prawkiocharakterzelegislacyjnym - dotycząceodesłańlubprzeoczeńdo ustawyozmianieustawyopowszec hn ymubezpieczeniuzdrowotnymoraz 0 zmianie niektórych ustaw
 

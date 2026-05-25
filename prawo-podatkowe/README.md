@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo podatkowe**.
 
-Łącznie: **175** aktów
+Łącznie: **173** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -44,7 +44,6 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20230001598](WDU20230001598/index.md) | Ustawa z dnia 16 czerwca 2023 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
 | [WDU20230001414](WDU20230001414/index.md) | Ustawa z dnia 16 czerwca 2023 r. zmieniająca ustawę o zmianie ustawy o poda | Ustawa | obowiązujący |  |
 | [WDU20230001059](WDU20230001059/index.md) | Ustawa z dnia 26 maja 2023 r. o zmianie ustawy o podatku od towarów i usług | Ustawa | obowiązujący |  |
-| [WDU20230001009](WDU20230001009/index.md) | Rozporządzenie Ministra Finansów z dnia 10 maja 2023 r. w sprawie wzoru dek | Rozporządzenie | obowiązujący |  |
 | [WDU20220000558](WDU20220000558/index.md) | Ustawa z dnia 24 lutego 2022 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
 | [WDU20220002433](WDU20220002433/index.md) | Ustawa z dnia 4 listopada 2022 r. o zmianie ustawy o wspieraniu rozwoju obs | Ustawa | obowiązujący |  |
 | [WDU20220002180](WDU20220002180/index.md) | Ustawa z dnia 7 października 2022 r. o zmianie ustawy o podatku dochodowym  | Ustawa | obowiązujący |  |
@@ -57,7 +56,6 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20210002076](WDU20210002076/index.md) | Ustawa z dnia 29 października 2021 r. o zmianie ustawy o podatku od towarów | Ustawa | obowiązujący |  |
 | [WDU20210001626](WDU20210001626/index.md) | Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
 | [WDU20210001163](WDU20210001163/index.md) | Ustawa z dnia 20 maja 2021 r. o zmianie ustawy o podatku od towarów i usług | Ustawa | obowiązujący |  |
-| [WDU20200000907](WDU20200000907/index.md) | Rozporządzenie Ministra Finansów z dnia 19 maja 2020 r. w sprawie deklaracj | Rozporządzenie | obowiązujący |  |
 | [WDU20200002419](WDU20200002419/index.md) | Ustawa z dnia 27 listopada 2020 r. o zmianie ustawy o podatku od towarów i  | Ustawa | obowiązujący |  |
 | [WDU20200002123](WDU20200002123/index.md) | Ustawa z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
 | [WDU20200002122](WDU20200002122/index.md) | Ustawa z dnia 28 listopada 2020 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
@@ -182,4 +180,4 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
 | [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
-*175 aktów • [← Powrót do spisu głównego](../README.md)*
+*173 aktów • [← Powrót do spisu głównego](../README.md)*

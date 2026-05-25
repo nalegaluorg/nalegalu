@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 991155 ROZPORZĄDZENIE RADY MINISTRÓW dnia 26 kwietnia 2023 r.
+# Poz. 991155 ROZPORZĄDZENIE RADY MINISTRÓW z dnia 26 kwietnia 2023 r.
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000915) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/915/text.pdf) |
 
-zmieniające rozporządzenie sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych urzędach administracji rządowej pracowników innych jednostek Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 związku art. 43 ust. 1 2, art. 44, art. 46 art. 53 ust. 3 ustawy dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. 2023 r. poz. 765) zarządza się, co następuje: § 1. rozporządzeniu Rady Ministrów dnia 2 lutego 2010 r. sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych urzędach administracji rządowej pracowników innych jednostek (Dz. U. 2023 r. poz. 467) załączniku nr 5 rozporządzenia tabela nr III otrzymuje brzmienie określone załączniku niniejszego rozporządzenia.
-§ 2. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.
-Prezes Rady Ministrów: M. Morawiecki M M M M M M M M M
+zmieniające rozporządzenie sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych urzędach administracji rządowej pracowników innych jednostek Na podstawie art. 21 ust. 3, art. 22 ust. 2, art. 23 ust. 2, art. 24 ust. 2 związku z art. 43 ust. 1 2, art. 44, art. 46 art. 53 ust. ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2023 r. poz. 765) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 2 lutego 2010 r. sprawie zasad wynagradzania pracowników niebędących członkami korpusu służby cywilnej zatrudnionych urzędach administracji rządowej pracowników innych jednostek (Dz. U. z 2023 r. poz. 467) załączniku nr rozporządzenia tabela nr III otrzymuje brzmienie określone załączniku niniejszego rozporządzenia.
+§ 2. Rozporządzenie wchodzi życie z dniem następującym po dniu ogłoszenia.
+Prezes Rady Ministrów: M. Morawiecki W W W W W W M W M W W W W W W W W M W W M M W W M M W M M
 

@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo karne**.
 
-Łącznie: **116** aktów
+Łącznie: **115** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -119,8 +119,7 @@ Akty prawne z dziedziny: **Prawo karne**.
 | [WDU19970060031](WDU19970060031/index.md) | Ustawa z dnia 21 listopada 1996 r. o zmianie ustaw: o broni, amunicji i mat | Ustawa | obowiązujący |  |
 | [WDU19971601083](WDU19971601083/index.md) | Ustawa z dnia 12 grudnia 1997 r. o zmianie ustawy - Przepisy wprowadzające  | Ustawa | obowiązujący |  |
 | [WDU19910830371](WDU19910830371/index.md) | Ustawa z dnia 24 sierpnia 1991 r. o zmianie ustawy o Rzeczniku Praw Obywate | Ustawa | obowiązujący |  |
-| [WDU19900430251](WDU19900430251/index.md) | Ustawa z dnia 8 czerwca 1990 r. o zmianie ustaw: Kodeks postępowania karneg | Ustawa | obowiązujący | [tak](WDU19900430251/orzecznictwo.md) |
 | [WDU19710120115](WDU19710120115/index.md) | Ustawa z dnia 20 maja 1971 r. przepisy wprowadzające Kodeks wykroczeń. | Ustawa | obowiązujący |  |
 | [WDU19710120114](WDU19710120114/index.md) | Ustawa z dnia 20 maja 1971 r. Kodeks wykroczeń. | Ustawa | akt posiada tekst jednolity | [tak](WDU19710120114/orzecznictwo.md) |
 
-*116 aktów • [← Powrót do spisu głównego](../README.md)*
+*115 aktów • [← Powrót do spisu głównego](../README.md)*

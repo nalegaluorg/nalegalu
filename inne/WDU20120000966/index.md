@@ -62,20 +62,20 @@ a) formularz wypełnia się w sposób czytelny pismem odręcznym (kolorem niebie
 b) ilości towarów niebezpiecznych, w tym ilości towarów wysokiego ryzyka, podaje się osobno dla każdej klasy objętej w kolejności wynikającej z numeracji klas,
 c) w niewypełnionych rubrykach należy wstawić znak „X”,
 d) sprawozdanie nie obejmuje towarów niebezpiecznych: — których przewóz odbywał się w całości poza terytorium Rzeczypospolitej Polskiej, — zawartych w próżnych nieoczyszczonych: opakowaniach, cysternach, kontenerach i pojazdach, — w ilościach mniejszych niż określone odpowiednio w RID, ADR lub ADN.
-2 ) K l a s a w g A D N .
-” ) I l o ś c i t o w a r ó w n i e b e z p i e c z n y c h p o d a j e s i ę w t o n a c h m e t r y c z n y c h .
-9 I l o ś c i t o w a r ó w n i e b e z p i e c z n y c h p o d a j e s i ę w s z t u k a c h 5 ) W y p e ł n i a s i ę d l a s t a t k ó w p r z e w o ż ą c y c h s u b s t a n c j e p ł y nn e .
-© W y p e ł n i a s i ę d l a s t a t k ó w p r z e w o ż ą c y c h s u b s t a n c j e l o t n e .
-© I l o ś ć t o w a r ó w n i e b e z p i e c z n y c h d u ż e g o r y z y k a p o d a j e s i ę o s o b n o d l a k a ż d e g o nu m e r u U N .
-5 N a l e ż y p o d a ć li c z b ę w y k o n y w a n y c h c z y nn o ś c i .
+2 ) KlasawgADN .
+” ) Ilościtowarówniebezpiecznychpodajesięwtonachmetrycznych .
+9 Ilościtowarówniebezpiecznychpodajesięwsztukach 5 ) Wypełniasiędlastatkówprzewożącychsubstancjepły nn e .
+© Wypełniasiędlastatkówprzewożącychsubstancjelotne .
+© Ilośćtowarówniebezpiecznychdużegoryzykapodajesięosobnodlakażdego nu meruUN .
+5 Należypodać li czbęwykonywanychczy nn ości .
 Sposób wypełniania formularza:
 a) formularz wypełnia się w sposób czytelny, pismem odręcznym (kolorem niebieskim), maszynowym lub komputerowym,
 b) w niewypełnionych rubrykach należy wstawić znak ,„X”,
 c) sprawozdanie nie obejmuje towarów niebezpiecznych: — których przewóz odbywał się w całości poza terytorium Rzeczypospolitej Polskiej, — w ilościach mniejszych niż określone odpowiednio w ADN, RID lub ADR.
 
-## CZĘŚĆ A PRZEWÓZ DROGOWY Ilość towarów niebezpiecznych '* ” Rodzaj operacji transportowych K l a s a * p o s o B 5 E p N przewozu $ = E O > Ę = o O u= Ź a $ Ń w cysternach” w sztukach przesyłki luzem w MEMU?
+## CZĘŚĆ A PRZEWÓZ DROGOWY Ilość towarów niebezpiecznych '* ” Rodzaj operacji transportowych Klasa * posoB 5 E p N przewozu $ = E O > Ę = o O u= Ź a $ Ń w cysternach” w sztukach przesyłki luzem w MEMU?
 
-## CZĘŚĆ B PRZEWÓZ KOLEJĄ ** Określenie uczestnika przewozu”: | przewoźnik kolejowy [| zarządca infrastruktury [użytkownik bocznicy kolejowej [| inni uczestnicy przewozu Ilość towarów niebezpiecznych” Rodzaj operacji transportowych : o > Sa Klasa” Sposób Ę E E a s 8 p r z e w o z u = = = 2 = z = ż > R Z 2 , S D o N zj kj z 5 Bo Q. = Ń a. Q.0 cysternach” w sztukach przesyłki l u z e m Ogółem w klasie” W tym towarów niebezpiecznych wysokiego ryzyka podpis doradcy czytelny podpis uczestnika przewozu towarów niebezpiecznych Objaśnienia: D Zarządca infrastruktury kolejowej podaje tylko dane z przewozów wykonywanych na potrzeby własne.
+## CZĘŚĆ B PRZEWÓZ KOLEJĄ ** Określenie uczestnika przewozu”: | przewoźnik kolejowy [| zarządca infrastruktury [użytkownik bocznicy kolejowej [| inni uczestnicy przewozu Ilość towarów niebezpiecznych” Rodzaj operacji transportowych : o > Sa Klasa” Sposób ĘEEas 8 przewozu = = = 2 = z = ż > R Z 2 , SDoN zj kj z 5 Bo Q. = Ń a. Q.0 cysternach” w sztukach przesyłki luzem Ogółem w klasie” W tym towarów niebezpiecznych wysokiego ryzyka podpis doradcy czytelny podpis uczestnika przewozu towarów niebezpiecznych Objaśnienia: D Zarządca infrastruktury kolejowej podaje tylko dane z przewozów wykonywanych na potrzeby własne.
 
-## CZĘŚĆ C P R Z E W Ó Z Ż E G L U G Ą Ś R Ó D L Ą D O W Ą I l o ś c i t o w a r ó w n i e b e z p i e c z n y c h ” R o d z a j o p e r a c ji t r a n s p o r t o w y c h k K l a s a ” S p o s ó b p r z e w o z u Ę 5 Ę e ó 8 > ą = g a = |= z - d Ę E a s N R N 2 Ń z j 8 . — > a w z b i o r n i k o w c a c h ” * ” w g a z o w c a c h ” * ” l u z e m ( s u c h e ) ” k o n t e n e r y ł a d o w n e ” k o n t e n e r y p u s t e ” O g ó ł e m w k l a s i e ” W t y m t o w a r ó w U R n i e b e z p i e c z n y c h d u ż e g o r y z y k a ” O b j a ś n i e n i a : 5 I l o ś c i t o w a r ó w n i e b e z p i e c z n y c h p o d a j e s i ę w t o n a c h [ t ] .
+## CZĘŚĆ C PRZEWÓZŻEGLUGĄŚRÓDLĄDOWĄ Ilościtowarówniebezpiecznych ” Rodzajoperac ji transportowych k Klasa ” SposóbprzewozuĘ 5 Ę e ó 8 > ą = g a = |= z - dĘEasNRN 2 Ń z j 8 . — > a wzbiornikowcach ” * ” wgazowcach ” * ” luzem ( suche ) ” konteneryładowne ” kontenerypuste ” Ogółemwklasie ” WtymtowarówUR niebezpiecznych dużegoryzyka ” Objaśnienia : 5 Ilościtowarówniebezpiecznychpodajesięwtonach [ t ] .
 

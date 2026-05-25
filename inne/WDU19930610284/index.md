@@ -48,7 +48,7 @@ c) zgodnego z prawem zatrzymania lub aresztowania w celu postawienia przed wła�
 d) pozbawienia nieletniego wolności na podstawie zgodnego z prawem orzeczenia w celu ustanowienia nadzoru wychowawczego lub zgodnego z prawem pozbawienia nieletniego wolności w celu postawienia go przed właściwym
 e) zgodnego z prawem pozbawienia wolności osoby w celu zapobieżenia szerzeniu przez nią choroby zakaźnej, osoby umysłowo chorej, alkoholika, narkomana lub włóczęgi;
 f) zgodnego z prawem zatrzymania lub aresztowania osoby w celu zapobieżenia jej nielegalnemu wkroczeniu na terytorium państwa lub osoby, przeciwko której toczy się postępowanie o wydalenie lub ekstradycję.
-2. Każdy, kto został zatrzymany, powinien zostać niezwłocznie 1 w zrozumiałym dla niego języku poinformowany o przyczynach zatrzymania i o stawianych mu zar z u t a c h .
+2. Każdy, kto został zatrzymany, powinien zostać niezwłocznie 1 w zrozumiałym dla niego języku poinformowany o przyczynach zatrzymania i o stawianych mu zarzutach .
 3. Każdy zatrzymany lub aresztowany zgodnie z postanowieniami ustępu 1 lit. c) niniejszego artykułu powinien zostać niezwłocznie postawiony przed sędzią lub innym urzędnikiem uprawnionym przez ustawę do wykonywania władzy sądowej 1 ma prawo być sądzony w rozsądnym terminie albo zwolniony na czas postępowania. Zwolnienie może zostać uzależnione od udzielenia gwarancji zapewniających stawienie się na rozprawę.
 4. Każdy, kto został pozbawiony wolności przez zatrzymanie lub aresztowanie, ma prawo odwołania się do sądu w celu ustalenia przez sąd legalności pozbawienia wolności i zarządzenia zwolnienia, jeżeli pozbawienie wolności jest niezgodne z
 5. Każdy, kto został pokrzywdzony przez niezgodne z treścią tego artykułu zatrzymanie lub aresztowanie, ma prawo do odszkodowania.
@@ -112,7 +112,7 @@ Artykuł 27
 1. Komisja nie rozpatruje żadnej skargi wniesionej w trybie artykułu 25, która:
 a) jest anonimowa lub
 b) jest co do istoty 1dentyczna ze sprawą rozpatrzoną już przez Komisję lub ze sprawą, która została poddana innej międzynarodowej procedurze dochodzenia lub rozstrzygania, i jeśli skarga nie zawiera nowych, istotnych informacji.
-2. Komisja przyjmuje za niedopuszczalną każdą skargę wniesioną w trybie artykułu 25, jeśli uzna, że skarga nie da się pogodzić z postanowieniami niniejszej Konwencji, jest w sposób oczywisty nieuzasadniona lub stanowi nadużycie prawa do s k a r g i .
+2. Komisja przyjmuje za niedopuszczalną każdą skargę wniesioną w trybie artykułu 25, jeśli uzna, że skarga nie da się pogodzić z postanowieniami niniejszej Konwencji, jest w sposób oczywisty nieuzasadniona lub stanowi nadużycie prawa do skargi .
 3. Komisja odrzuca każdą skargę, którą uzna za niedopuszczalną w myśl artykułu 26.
 1. W przypadku przyjęcia przez Komisję wniesionej do niej skargi:
 a) w celu ustalenia faktów rozpatruje ona skargę z udziałem przedstawicieli stron 1 jeżeli zachodzi potrzeba, podejmuje dochodzenie, a zainteresowane Państwa udzielą dla jego skutecznego przeprowadzenia wszelkich niezbędnych ułatwień, po wymianie opinii z Komisją;
@@ -135,7 +135,7 @@ Jednakże Komisja kontynuuje rozpatrywanie skargi, jeśli wymaga tego poszanowan
 1. Jeżeli w terminie trzech miesięcy od daty przekazania sprawozdania Komitetowi Ministrów sprawa nie zostanie skierowania do Trybunału zgodnie z artykułem 48 niniejszej Konwencji, Komitet Ministrów podejmuje decyzję większością dwóch trzecich głosów członków uprawnionych do zasiadania w Komitecie, czy miało miejsce naruszenie Konwencji.
 2. W przypadku odpowiedzi pozytywnej Komitet Ministrów określi termin, w którym zainteresowana Wysoka Układająca się Strona winna podjąć środki, jakie pociąga za sobą ta decyzja.
 3. Jeśli w przewidzianym terminie zainteresowana Wysoka Układająca się Strona nie podejmie zadowalających środków, Komitet Ministrów zdecyduje określoną w ustępie 1 większością głosów sposób realizacji pierwotnej decyzji oraz ogłosi sprawozdanie.
-4. Wysokie Układające się Strony zobowiązują się uznać za wiążące wszelkie decyzje, jakie Komitet Ministrów może podjąć na podstawie ustępów poprzedzając y c h .
+4. Wysokie Układające się Strony zobowiązują się uznać za wiążące wszelkie decyzje, jakie Komitet Ministrów może podjąć na podstawie ustępów poprzedzających .
 Komisja obraduje przy drzwiach zamkniętych.
 Z, zastrzeżeniem postanowień artykułu 20 ustęp 3 i artykułu 29, Komisja podejmuje decyzje większością głosów członków obecnych i głosujących.
 Komisja zbiera się, gdy wymagają tego okoliczności. Posiedzenia Komisji zwołuje Sekretarz Generalny Rady Europy.
@@ -200,7 +200,7 @@ Artykuł 66
 4. Sekretarz Generalny Rady Europy notyfikuje członkom Rady Europy wejście w życie Konwencji, nazwy Wysokich Układających się Stron, które dokonały jej ratyfikacji oraz fakt złożenia kolejnych dokumentów ratyfikacyjnych.
 Sporządzono w Rzymie, dnia 4 listopada 1950 roku w jednym egzemplarzu, w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne; oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu z sygnatariuszy.
 PROTOKÓŁ DODATKOWY DO KONWENCJI O OCHRONIE PRAW CZŁOWIEKA I PODSTAWOWYCH WOLNOŚCI Państwa-Sygnatariusze, Członkowie Rady Europy, zdecydowane podjąć odpowiednie środki zmierzające do zapewnienia wspólnych gwarancji praw i wolności, innych aniżeli te, które są już zawarte w Rozdziale I Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności, podpisanej w Rzymie 4 listopada 1950 r.
-(zwanej dalej "Konwencją"), uzgodniły, co następuje: Artykuł 1 Każda osoba fizyczna 1 prawna ma prawo do poszanowania swego mienia. Nikt nie może być pozbawiony swojej własności, chyba że w interesie publicznym i na warunkach przewidzianych przez ustawę oraz zgodnie z podstawowymi zasadami prawa międzynarodowego. Powyższe postanowienia nie będą jednak w żaden sposób naruszać prawa Państwa do wydawania takich ustaw, jakie uzna za konieczne dla uregulowania sposobu korzystania z własności zgodnie z interesem powszechnym lub w celu zapewnienia uiszczenia podatków bądź innych należności lub kar pieniężn y c h .
+(zwanej dalej "Konwencją"), uzgodniły, co następuje: Artykuł 1 Każda osoba fizyczna 1 prawna ma prawo do poszanowania swego mienia. Nikt nie może być pozbawiony swojej własności, chyba że w interesie publicznym i na warunkach przewidzianych przez ustawę oraz zgodnie z podstawowymi zasadami prawa międzynarodowego. Powyższe postanowienia nie będą jednak w żaden sposób naruszać prawa Państwa do wydawania takich ustaw, jakie uzna za konieczne dla uregulowania sposobu korzystania z własności zgodnie z interesem powszechnym lub w celu zapewnienia uiszczenia podatków bądź innych należności lub kar pieniężnych .
 Nikt nie może być pozbawiony prawa do nauki. Wykonując swoje funkcje w dziedzinie wychowania i nauczania, Państwo uznaje prawo rodziców do zapewnienia tego wychowania i nauczania zgodnie z ich własnymi przekonaniami religijnymi i filozoficznymi.
 Wysokie Układające się Strony zobowiązują się organizować w rozsądnych odstępach czasu wolne wybory oparte na tajnym głosowaniu, w warunkach zapewniających swobodę wyrażania opinii ludności w wyborze ciała ustawodawczego.
 Artykuł 4 Każda Wysoka Układająca się Strona może w chwili podpisania lub ratyfikacji, bądź w jakimkolwiek późniejszym czasie, złożyć Sekretarzowi Generalnemu Rady Europy deklarację wskazującą, w jakim stopniu zobowiązuje się do stosowania postanowień niniejszego Protokołu na terytoriach wymienionych w tej deklaracji, za których stosunki międzynarodowe państwo to odpowiada.
@@ -249,7 +249,7 @@ Zbiorowe wydalanie cudzoziemców jest zabronione.
 1. Niniejszy Protokół jest otwarty do podpisu dla Państw-Członków Rady Europy, które są sygnatariuszami Konwencji; podlega ratyfikacji w momencie lub po ratyfikacji Konwencji. Wejdzie w życie po złożeniu pięciu dokumentów ratyfikacyjnych. W stosunku do każdego sygnatariusza, który dokona ratyfikacji później, protokół wejdzie w życie w dniu złożenia dokumentów ratyfikacyjnych.
 2. Dokumenty ratyfikacyjne składa się Sekretarzowi Generalnemu Rady Europy, który notyfikuje Państwom-Członkom dokonanie ratyfikacji.
 Na dowód czego niżej podpisani, będąc do tego należycie upoważnieni, podpisali niniejszy Protokół.
-S p o r z ą d z o n o w S t r a s b u r g u , d n i a 16 w r z e ś n i a 1963 r o k u w j e d n y m e g z e m p l a r z u , w j ę z y k a c h a n g i e l s k i m i f r a n c u s k i m , p r z y c z y m o b a t e k s t y s ą j e d n a k o w o a u t e n t y c z n e ; o r y g i n a ł z o s t a n i e z ł o ż o n y w a r c h i w a c h R a d y E u r o p y . S e k r e t a r z G e n e r a l n y p r z e k a ż e u w i e r z y t e l n i o n e o dp i s y k a ż d e m u z P a ń s t w S y g n a t a r i u s z y .
+SporządzonowStrasburgu , dnia 16 września 1963 rokuwjedny megzemplarzu , wjęzykachangielskimifrancuskim , przyczymobatekstysąjed nakowoauten tyczne ; oryginałzostaniezłożonywarchiwachRadyEuropy . Sekr etarzGeneralny przekażeuwierzytelnioneo dp isykażdemuzPaństwSygnatariuszy .
 PROTOKÓŁ SZÓSTY I PODSTAWOWYCH WOLNOŚCI DOTYCZĄCYCH ZNIESIENIA KARY ŚMIERCI Państwa-Członkowie Rady Europy, sygnatariusze niniejszego Protokołu do Konwencji o Ochronie Praw Człowieka i Podstawowych Wolności, podpisanej w Rzymie 4 listopada 1950 roku (zwanej dalej "Konwencją"), zważywszy, że zmiany, jakie nastąpiły w wielu Państwach-Członkach Rady Europy, wskazują na powszechną tendencję na rzecz zniesienia kary śmierci, uzgodniły, co następuje: Zmosi się karę śmierci. Nikt nie może być skazany na taką karę ani nie może nastąpić jej wykonanie.
 Państwo może przewidzieć w swoich ustawach karę Śmierci za czyny popełnione podczas wojny lub w okresie bezpośredniego zagrożenia wojną; kara ta będzie stosowana jedynie w przypadkach przewidzianych przez te ustawy i zgodnie z ich postanowieniami. Państwo zawiadomi Sekretarza Generalnego Rady Europy o odpowiednich postanowieniach tych ustaw.
 Żadne z postanowień niniejszego Protokołu nie może być uchylone na podstawie artykułu 15 Konwencji.
@@ -260,12 +260,12 @@ I. Każde Państwo w chwili podpisania lub w chwili składania dokumentu ratyfik
 dodatkowe artykuły Konwencji, a wszystkie przepisy Konwencji stosuje się odpowiednio.
 Artykuł 7 Niniejszy Protokół jest otwarty do podpisu dla Państw-Członów Rady Europy, sygnatariuszy Konwencji. Podlega on ratyfikacji, przyjęciu lub zatwierdzeniu. Państwo-Członek Rady Europy nie może ratyfikować, przyjąć lub zatwierdzić niniejszego Protokołu, jeżeli jednocześnie lub wcześniej nie ratyfikowało Konwencji. Dokumenty ratyfikacyjne, przyjęcia lub zatwierdzenia, składa się Sekretarzowi Generalnemu Rady Europy.
 1. Niniejszy Protokół wejdzie w życie pierwszego dnia miesiąca następnego po dniu, w którym pięć Państw-Członków Rady Europy wyrazi zgodę na związanie się niniejszym Protokołem zgodnie z postanowieniami artykułu 7.
-2. W stosunku do każdego Państwa-Członka, które później wyrazi zgodę na związanie się niniejszym Protokołem, wejdzie on w życie pierwszego dnia miesiąca następującego po dniu złożenia dokumentu ratyfikacyjnego, przyjęcia lub zatwierd z e n i a .
+2. W stosunku do każdego Państwa-Członka, które później wyrazi zgodę na związanie się niniejszym Protokołem, wejdzie on w życie pierwszego dnia miesiąca następującego po dniu złożenia dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia .
 Sekretarz Generalny Rady Europy notyfikuje Państwom-Członkom Rady Europy:
 a) każde podpisanie;
 b) złożenie każdego dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia;
 c) każdą datę wejścia w życie niniejszego Protokołu zgodnie z artykułem 5 i 8;
-d) każdy inny akt, ratyfikację lub zawiadomienie dotyczące niniejszego Protok o ł u .
+d) każdy inny akt, ratyfikację lub zawiadomienie dotyczące niniejszego Protokołu .
 Na dowód czego niżej podpisani, będąc do tego należycie upoważnieni, podpisali niniejszy Protokół.
 Sporządzono w Strasburgu, dnia 28 kwietnia 1983 roku w jednym egzemplarzu, w językach angielskim i francuskim, przy czym oba teksty są jednakowo autentyczne;
 oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu Państwu-Członkowi Rady Europy.
@@ -304,7 +304,7 @@ PROTOKÓŁ DZIEWIĄTY DO KONWENCJI O OCHRONIE PRAW CZŁOWIEKA I PODSTAWOWYCH WOL
 Artykuł 2 Artykuł 31 ustęp 2 Konwencji otrzymuje brzmienie: "Sprawozdanie przekazywane jest Komitetowi Ministrów, a także do wiadomości zainteresowanym Państwom oraz, jeśli dotyczy skargi złożonej na podstawie artykułu 25, również autorowi skargi. Ani Państwo, ani autor nie są uprawnieni do publikacji sprawozdania".
 Artykuł 3 Artykuł 44 Konwencji otrzymuje brzmienie: "Prawo do przekazania sprawy do rozpoznania Trybunałowi mają wyłącznie Wysokie Układające się Strony, Komisja oraz osoby fizyczne, organizacje pozarządowe i grupy osób, jeśli złożyły skargę na podstawie artykułu 25 " .
 Artykuł 4 Artykuł 45 Konwencji otrzymuje brzmienie: "W kompetencji Trybunału leży rozpatrywanie wszystkich spraw dotyczących wykładni i stosowania niniejszej Konwencji, które są do niego kierowane na podstawie artykułu 48".
-Artykuł 48 Konwencji otrzymuje brzmienie: "|. Następujące podmioty mogą wnieść sprawę do Trybunału, pod warunkiem, że zainteresowana Wysoka Układająca się Strona, jeśli jest tylko jedna, lub zainteresowane Wysokie Układające się Strony, jeśli jest ich więcej niż jedna, podlegają obowiązkowej jurysdykcji Trybunału, a w przypadku, gdy jej nie podlegają, za zgodą zainteresowanej Wysokiej Układającej się Strony, jeśli jest tylko jedna, lub zainteresowanych Wysokich Układających się Stron, jeśli jest ich więcej niż j e d n a :
+Artykuł 48 Konwencji otrzymuje brzmienie: "|. Następujące podmioty mogą wnieść sprawę do Trybunału, pod warunkiem, że zainteresowana Wysoka Układająca się Strona, jeśli jest tylko jedna, lub zainteresowane Wysokie Układające się Strony, jeśli jest ich więcej niż jedna, podlegają obowiązkowej jurysdykcji Trybunału, a w przypadku, gdy jej nie podlegają, za zgodą zainteresowanej Wysokiej Układającej się Strony, jeśli jest tylko jedna, lub zainteresowanych Wysokich Układających się Stron, jeśli jest ich więcej niż jedna :
 a) Komisja,
 b) Wysoka Układająca się Strona, której obywatelstwo posiada ofiara,
 c) Wysoka Układająca się Strona, która skierowała sprawę do Komisji,
@@ -322,7 +322,7 @@ Sekretarz Generalny Rady Europy notyfikuje wszystkim Państwom-Członkom Rady
 a) każde podpisanie,
 b) złożenie każdego dokumentu ratyfikacyjnego, przyjęcia lub zatwierdzenia,
 c) każdą datę wejścia w życie niniejszego Protokołu zgodnie z jego artykułem 7,
-d) każdy inny akt, notyfikację lub deklarację odnoszącą się do niniejszego Protok o ł u .
+d) każdy inny akt, notyfikację lub deklarację odnoszącą się do niniejszego Protokołu .
 Na dowód czego niżej podpisani, będąc do tego należycie upoważnieni, podpisali niniejszy Protokół.
 Sporządzono w Rzymie, dnia 8 listopada 1990 roku w jednym egzemplarzu, w językach angielskim 1 francuskim, przy czym oba teksty są jednakowo autentyczne; oryginał zostanie złożony w archiwach Rady Europy. Sekretarz Generalny przekaże uwierzytelnione odpisy każdemu Państwu-Członkowi Rady Europy.
 

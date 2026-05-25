@@ -88,7 +88,7 @@ $ 10. 1. Zdający LEW albo LDEW zajmuje w sali egzaminacyjnej miejsce oznaczone 
 2. Po zajęciu miejsc w sali egzaminacyjnej przez wszystkich zdających LEW albo LDEW przewodniczący Zespołu Egzaminacyjnego:
 l) informuje o organizacji przebiegu LEW albo LDEW;
 2) informuje o zakazach obowiązujących podczas LEW albo LDEW konsekwencjach ich naruszenia, w szczególności o dyskwalifikacji, o której mowa w art. 6f ust. 4—6 ustawy.
-$ 11. I. W celu sprawdzenia, czy zdający posiada przy sobie urządzenia służące do kopiowania oraz przekazywania 1 odbioru informacji, członkowie Zespołu Egzaminacyjnego mogą posługiwać się elektronicznym wykrywaczem takich u r z ą d z e ń .
+$ 11. I. W celu sprawdzenia, czy zdający posiada przy sobie urządzenia służące do kopiowania oraz przekazywania 1 odbioru informacji, członkowie Zespołu Egzaminacyjnego mogą posługiwać się elektronicznym wykrywaczem takich urządzeń .
 2. W trakcie LEW albo LDEW zdającemu nie wolno zachowywać się w sposób rozpraszający uwagę innych zdających.
 $ 12. Jedynym dokumentem przeznaczonym do udzielania odpowiedzi w trakcie LEW albo LDEW jest karta odpowiedzi oznaczona numerem kodowym zdającego nadanym przez CEM.
 $ 13. 1. Po upływie czasu przeznaczonego na rozwiązanie zadań testowych przewodniczący Zespołu Egzaminacyjnego ogłasza koniec LEW albo LDEW.
@@ -124,15 +124,15 @@ $ 21. I. W przypadku ujawnienia przez zdającego błędu na świadectwie może o
 5. Wydanie wymienionego świadectwa następuje w terminie 30 dni od dnia otrzymania wniosku, o którym mowa w ust. 1.
 6. W przypadku obowiązku uiszczenia opłaty, o której mowa w art. 6g ust. 6 ustawy, termin, o którym mowa w ust. 5, rozpoczyna bieg od dnia doręczenia do CEM dokumentu potwierdzającego wniesienie tej opłaty.
 $ 22. Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
-Minister Zdrowia: A. Niedzielski W Z Ó R OŚWIADCZENIE O ś w a d c z a m , ż e w s t o s un k u d o ż a d n e g o z k a n d y d a t ó w d o z ł o ż e n a L e k a r s k e g o E g z a m nu W e r y fi k a c y j n e g o / L e k a r s k o - D e n t y s t y c z n e g o E g z a m nu W e r y fi k a c y j n e g o ** p r z e d Z e s p o ł e m E g z a m n a c y j n y m , k t ó r e g o b ę d ę c z ł o n k e m , n e j e s t e m : l ) j e g o m a ł ż o n k e m ;
-2 ) o s o b ą p o z o s t a j ą c ą z n m w s t o s un k u : a ) p o k r e w e ń s t w a a l b o p o w n o w a c t w a d o d r u g e g o s t o p n a , b ) p r z y s p o s o b e n a ;
-3 ) o s o b ą p o z o s t a j ą c ą z n m w e w s p ó l n y m p o ż y c u ;
-4 ) o s o b ą p o z o s t a j ą c ą w o b e c n e g o w s t o s un k u z a l e ż n o ś c s ł u ż b o w e j .
-O ś w a d c z a m , ż e n e z o s t a ł e m s k a z a n y p r a w o m o c n y m w y r o k e m s ą d u z a p r z e s t ę p s t w o u m y ś l n e ś c g a n e z o s k a r ż e n a p u b li c z n e g o l u b u m y ś l n e p r z e s t ę p s t w o s k a r b o w e .
-O ś w a d c z a m , ż e j e s t e m ś w a d o m y o dp o w e d z a l n o ś c k a r n e j z a z ł o ż e n e f a ł s z y w e g o oświadczenia***.
-* W p r z y p a d k u j e g o b r a k u n a l e ż y p o d a ć d a t ę m e j s c e u r o d z e n a .
-** __ N e p o t r z e b n e s k r e ś li ć .
-*** K l a u z u l a t a z a s t ę p u j e p o u c z e n e o r g a nu o o dp o w e d z a l n o ś c k a r n e j z a z ł o ż e n e f a ł s z y w e g o o ś w a d c z e n a n a p o d s t a w e a r t . 23 3 $ 6 u s t a w y z d n a 6 c z e r w c a 199 7 r . — K o d e k s k a r n y ( D z . U . z 2 0 2 0 r . p o z . 1 44 4 1 5 17 ) .
+Minister Zdrowia: A. Niedzielski WZÓR OŚWIADCZENIE Ośwadczam , żewstos un kudożadnegozkandydatówdozłożenaLekarskego Egzam nu Wery fi kacyjnego / Lekarsko - DentystycznegoEgzam nu Wery fi kacyjnego ** przed ZespołemEgzamnacyjnym , któregobędęczłonkem , nejestem : l ) jegomałżonkem ;
+2 ) osobąpozostającąznmwstos un k u : a ) pokreweństwaalbopownowactwadodrugegostopna , b ) przysposobena ;
+3 ) osobąpozostającąznmwewspólnympożycu ;
+4 ) osobąpozostającąwobecnegowstos un kuzależnoścsłużbowej .
+Ośwadczam , żenezostałemskazanyprawomocnymwyrokemsąduzaprzestępstwo umyślneścganezoskarżenapub li cznegolubumyślneprzestępstwoskarbowe .
+Ośwadczam , żejestemśwadomyo dp owedzalnośckarnejzazłożenefałszywego oświadczenia***.
+* Wprzypadkujegobrakunależypodaćdatęmejsceurodzena .
+** __ Nepotrzebneskreś li ć .
+*** Klauzulatazastępujepouczeneorga nu o o dp owedzalnośckarnejzazłożenefałszywegoośwadczena napodstaweart . 23 3 $ 6 ustawyzdna 6 czerwca 199 7 r . — Kodekskarny ( D z . U . z 2 0 2 0 r . p o z . 1 44 4 1 5 17 ) .
 WZÓR ŚWIADECTWO ZŁOŻENIA LEKARSKIEGO EGZAMINU WERYFIKACYJNEGO Świadectwo Złożenia Lekarskiego Egzaminu Weryfikacyjnego Dyrektor Centrum Egzaminów Medycznych stwierdza, że Pani/Pan ........me eee aaa aaa aaa aaa aaa aaa aaa aaa aaa aaa aaa ciii posiadająca/posiadający numer PESEL* ...............a.aea aaea aeaa aaaa aaaa aac aa złożyła/złożył Lekarski Egzamin Weryfikacyjny Pieczęć okrągła Centrum Egzaminów Medycznych Data wystawienia ............
 Pieczątka, nadruk albo naklejka z podaniem imienia nazwiska oraz funkcji dyrektora Centrum Egzaminów Medycznych oraz jego podpis** Pozytywny wynik Lekarskiego Egzaminu Weryfikacyjnego otrzymuje zdający, który uzyskał co najmniej 60% maksymalnej liczby punktówz testu.
 Niniejsze świadectwo nie potwierdza uzyskania tytułu lekarza oraz prawa wykonywania zawodu lekarza.

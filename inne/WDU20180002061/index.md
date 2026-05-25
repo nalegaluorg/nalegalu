@@ -40,7 +40,7 @@ v We wszystkich polach, w których nie będą wpisane odpowiednie informacje, na
 3. Data rejestracji w Krajowym Rejestrze Sądowym
 4. Data uzyskania statusu organizacji pożytku publicznego Imię i nazwisko Funkcja Wpisany do KRS
 7. Skład organu zarządzającego organizacji są i wp (Należy wpisać imiona, nazwiska oraz informacje o funkcji LZ tak [7 nie zarządzającego) [Z tak E7 nie [Z tak [7 nie Imię i nazwisko Funkcja Wpisany do KRS nadzoru) LU tak LU UE LZ tak [7 nie
-1.Opis działalności pożytku publicznego LJ gmina [_] kilka powiatów [_] najbliższe sąsiedztwo (osiedle, dzielnica, sołectwo, wieś, przysiółek) [_] województwo [_] kilka województw [I cały kraj [I poza granicami kraju ! RAE =, Osoby fizyczne L Z t a k [ 7 n i e . "NE poniesione w Lp. i pozy Przedmiot działalności numer Kodu (PKD) | sfery z 1% podatku EZ tak [ 2 n i e Sfera działalności pożytku poniesione w ramach Lp. | publicznego Przedmiot działalności numer Kodu (PKD) | sfery z 1% podatku
+1.Opis działalności pożytku publicznego LJ gmina [_] kilka powiatów [_] najbliższe sąsiedztwo (osiedle, dzielnica, sołectwo, wieś, przysiółek) [_] województwo [_] kilka województw [I cały kraj [I poza granicami kraju ! RAE =, Osoby fizyczne LZtak [ 7 n i e . "NE poniesione w Lp. i pozy Przedmiot działalności numer Kodu (PKD) | sfery z 1% podatku EZ tak [ 2 n i e Sfera działalności pożytku poniesione w ramach Lp. | publicznego Przedmiot działalności numer Kodu (PKD) | sfery z 1% podatku
 5. Informacja dotycząca działalności gospodarczej organizacji w okresie sprawozdawczym £7 tak
 5.1. Organizacja prowadziła działalność gospodarczą [7 nie Lp. | numer kodu (PKD) Przedmiot i opis działalności
 1. Informacja o przychodach organizacji
@@ -69,13 +69,13 @@ f) pozostałe koszty ogółem i , zł „ z ł
 5.1. Wynik działalności nieodpłatnej pożytku publicznego
 5.2. Wynik działalności odpłatnej pożytku publicznego
 5.3. Wynik działalności gospodarczej w tym: wysokość środków przeznaczona na działalność pożytku publicznego F zpodatku dochodowego od osób prawnych FP zpodatku od nieruchomości
-1. Organizacja korzystała z następujących dg COCO CZU CUDU zwolnień z podatku od towarów i usług P F z i nn y c h z w o l n i e ń [IJ nie korzystała publicznej radiofonii i telewizjj o prowadzonej działalności nieodpłatnej pożytku tak publicznego, zgodnie z art. 23a ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i [7 nie telewizji. * [7 własność = "m" , , [” użytkowanie wieczyste
+1. Organizacja korzystała z następujących dg COCO CZU CUDU zwolnień z podatku od towarów i usług PFzi nn ychzwolnień [IJ nie korzystała publicznej radiofonii i telewizjj o prowadzonej działalności nieodpłatnej pożytku tak publicznego, zgodnie z art. 23a ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i [7 nie telewizji. * [7 własność = "m" , , [” użytkowanie wieczyste
 3. Organizacja korzystała z uprawnienia do nabycia na szczególnych zasadach prawa własności lub prawa użytkowania wieczystego nieruchomości z zasobu Skarbu Państwa [7 najem lub jednostek samorządu terytorialnego, lub zawarła na preferencyjnych warunkach zpodmiotami publicznymi umowy użytkowania, najmu, dzierżawy lub użyczenia i przysługuje jej w odniesieniu do tych nieruchomości następujące prawo: r użyczenie [7 użytkowanie PF dzierżawa nie korzystała
 1. Pracownicy oraz osoby zatrudnione na podstawie umowy cywilnoprawnej
 1.1. Liczba osób zatrudnionych w organizacji na podstawie stosunku pracy (Należy uwzględnić wszystkie osoby zatrudnione w organizacji na podstawie stosunku pracy (etat lub część osób
 1.2. Przeciętna liczba zatrudnionych w organizacji na podstawie stosunku pracy w
 1.3. Liczba osób w organizacji świadczących usługi na podstawie umowy cywilnoprawnej (Jeżeli kilka umów cywilnoprawnych było wykonywanych przez jedną osobę, to dana osoba powinna być
-2. Członkowie E Z t a k
+2. Członkowie EZtak
 2.2. Liczba członków organizacji wg stanu na ostatni dzień roku sprawozdawczego B. Wolontariat w okresie sprawozdawczym
 3.1. Organizacja korzystała ze świadczeń wykonywanych przez wolontariuszy [7 tak
 3.2. Liczba wolontariuszy wykonujących świadczenie na rzecz organizacji przez okres
@@ -87,7 +87,7 @@ b) inne osoby gł — nagrody Y — premie pm b) w związku z prowadzoną dział
 10. Wysokość najwyższego (jednostkowego) miesięcznego wynagrodzenia (brutto) wypłaconego członkowi innych niż organ zarządzający, kontroli lub nadzoru, organów
 11. Wysokość najwyższego (jednostkowego) miesięcznego wynagrodzenia (brutto) wypłaconego pracownikowi organizacji, z pominięciem wynagrodzeń osób, o których mowa w pkt 8-10, wliczając wynagrodzenie zasadnicze, nagrody, premie i inne świadczenia, oraz wynagrodzenia wypłaconego osobie świadczącej usługi na podstawie CZ tak
 2. Wysokość udzielonych pożyczek pieniężnych
-3. Statutowa podstawa przyznania pożyczek pieniężnych CZ tak t e r y t o r i a l n e g o [ 7 n i e Lp. Nazwa zadania Cel(-e) zadania udzielającego dotacji Kwota dotacji 1 2 3 4 5 L Z t a k administracji rządowej lub państwowe fundusze celowe £ nie Lp. Przedmiot zamówienia Nazwa organu Kwota Lp. Nazwa spółki REGON Siedziba spółki wtelsftelie feagsów 5 tak A B Ą L N E Narodowy Instytut Wolności — Centrum Rozwoju Społeczeństwa Obywatelskiego W Z Ó R za rok v Formularz należy wypełnić w języku polskim;
+3. Statutowa podstawa przyznania pożyczek pieniężnych CZ tak terytorialnego [ 7 n i e Lp. Nazwa zadania Cel(-e) zadania udzielającego dotacji Kwota dotacji 1 2 3 4 5 LZtak administracji rządowej lub państwowe fundusze celowe £ nie Lp. Przedmiot zamówienia Nazwa organu Kwota Lp. Nazwa spółki REGON Siedziba spółki wtelsftelie feagsów 5 tak ABĄLNE Narodowy Instytut Wolności — Centrum Rozwoju Społeczeństwa Obywatelskiego WZÓR za rok v Formularz należy wypełnić w języku polskim;
 v Sprawozdawca wypełnia tylko przeznaczone dla niego białe pola;
 v W trakcie wypełniania formularza istnieje możliwość dodawania wierszy oraz zawijania tekstów w polach;
 v We wszystkich polach, w których nie będą wpisane odpowiednie informacje, należy wstawić pojedynczy znak myślnika |-paneoreoniadipożykupubkamego |
@@ -103,7 +103,7 @@ v We wszystkich polach, w których nie będą wpisane odpowiednie informacje, na
 2. Informacja dotycząca liczby odbiorców działań organizacji pożytku publicznego w okresie sprawozdawczym
 2.1. Liczba odbiorców działań organizacji (Należy oszacować liczbę odbiorców działań organizacji w okresie Osoby fizyczne Osoby prawne
 2.2. Informacje na temat odbiorców innych, niż wymienieni w pkt 2.1., na rzecz których działała organizacja
-3. Informacja dotycząca przedmiotu działalności nieodpłatnej pożytku publicznego organizacji w okresie sprawozdawczym L i t a k
+3. Informacja dotycząca przedmiotu działalności nieodpłatnej pożytku publicznego organizacji w okresie sprawozdawczym Litak
 3.1. Organizacja prowadziła działalność nieodpłatną pożytku publicznego LQ nie Szacunkowe koszty L Sfera działalności pożytku publicznego Przedmiot działalności poniesione z 1% podatki P. pozyru p 6 dochodowego od fizycznych w ramach
 4. Informacja dotycząca przedmiotu działalności odpłatnej pożytku publicznego organizacji w okresie sprawozdawczym
 4.1. Organizacja prowadziła działalność odpłatną pożytku publicznego [3 tek [7 nie Szacunkowe koszty Lp. "R o . SE . . . = poniesione z 1% podatku Sfera działalności pożytku publicznego P rzedmiot działalności tal skersionezo wi fizycznych w ramach
@@ -135,17 +135,17 @@ e) pozostałe koszty (w tym koszty finansowe)
 1. Organizacja korzystała z następujących zwolnień dochodowego od osób prawnych - z podatku od towarów i usług F zopłaty skarbowej FP zopłatsądowych [7 z innych zwolnień [_] nie korzystała
 2. Organizacja korzystała z prawa do nieodpłatnego informowania | _ przez jednostki publicznej radiofonii i telewizji o prowadzonej działalności nieodpłatnej pożytku publicznego, zgodnie z art. 23a [) nie ust. 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii i telewizji.
 m" "= . [7 własność
-3. Organizacja korzystała z uprawnienia do nabycia na szczególnych zasadach prawa własności lub prawa użytkowania [7 użytkowanie wieczyste wieczystego nieruchomości z zasobu Skarbu Państwa lub jednostek samorządu terytorialnego, lub zawarła na preferencyjnych warunkach z podmiotami publicznymi umowy [ użytkowanie użytkowania, najmu, dzierżawy lub użyczenia i przysługuje jej w odniesieniu do tych nieruchomości następujące prawo: [ 7 n a j e m [ 7 u ż y c z e n i e [dzierżawa nie korzystała
+3. Organizacja korzystała z uprawnienia do nabycia na szczególnych zasadach prawa własności lub prawa użytkowania [7 użytkowanie wieczyste wieczystego nieruchomości z zasobu Skarbu Państwa lub jednostek samorządu terytorialnego, lub zawarła na preferencyjnych warunkach z podmiotami publicznymi umowy [ użytkowanie użytkowania, najmu, dzierżawy lub użyczenia i przysługuje jej w odniesieniu do tych nieruchomości następujące prawo: [ 7 najem [ 7 użyczenie [dzierżawa nie korzystała
 1. Pracownicy oraz osoby zatrudnione na podstawie umowy cywilnoprawnej
 1.1. Liczba osób zatrudnionych w organizacji na podstawie stosunku pracy
 1.2. Przeciętna liczba zatrudnionych w organizacji na podstawie stosunku pracy w przeliczeniu na pełne etaty
-1.3. Liczba osób zatrudnionych w organizacji na podstawie umowy c y w il n o p r a w n e j o s ó b
-2. Członkowie [0 tak [ Z n i e
+1.3. Liczba osób zatrudnionych w organizacji na podstawie umowy c y w il noprawnejosób
+2. Członkowie [0 tak [ Znie
 2.1. Organizacja posiada członków
-2.2. Liczba członków organizacji wg stanu na ostatni dzień okresu osób fizycznych s p r a w o z d a w c z e g o o s ó b p r a w n y c h
+2.2. Liczba członków organizacji wg stanu na ostatni dzień okresu osób fizycznych sprawozdawczegoosóbprawnych
 3. Wolontariat w okresie sprawozdawczym
 3.1. Organizacja korzystała ze świadczeń wykonywanych przez wolontariuszy
-3.2. Liczba wolontariuszy wykonujących świadczenie na rzecz organizacji w okresie sprawozdawczym osobie świadczącej usługi na podstawie umowy cywilnoprawn ej E Z t a k
+3.2. Liczba wolontariuszy wykonujących świadczenie na rzecz organizacji w okresie sprawozdawczym osobie świadczącej usługi na podstawie umowy cywilnoprawn ej EZtak
 1.Łączna kwota wynagrodzeń (brutto) wypłaconych przez organizację w okresie sprawozdawczym
 a) z tytułu umów o pracę
 b) z tytułu umów cywilnoprawnych

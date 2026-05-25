@@ -71,7 +71,7 @@ b) $ 2 otrzymuje brzmienie: "$ 2. Skreślenie z listy lub zawieszenie uprawnień
 c) w $ 3 skreśla się wyrazy "maklerów" i "maklera" oraz dodaje się zdanie drugie w brzmieniu: "Komisja może nadać decyzji rygor natychmiastowej wykonalNoŚCi.",
 d) dodaje się $ 4 1 5 w brzmieniu: "$ 4. Osoba skreślona z listy z przyczyn, o których mowa w $ 2, może być wpisana na listę po spełnieniu warunków, o których mowa w art. 14 $ I pkt 1-3, oraz po ponownym zdaniu egzaminu, o którym mowa w art. 14 $ I pkt 4, nie wcześniej niż po upływie 3 lat od dnia skreślenia. Przepis ten stosuje się także w przypadku wpisu na listę maklerów osoby skreślonej z listy doradców 1 wpisu na listę doradców osoby skreślonej z listy maklerów.
 $ 5. W razie konieczności zabezpieczenia interesu publicznego Komisja może, z chwilą wszczęcia postępowania w sprawach, o których mowa w $ 2, zawiesić uprawnienia maklera lub doradcy do czasu uprawomocnienia się wydanej w sprawie decyzji.";
-14 ) w a r t . 17 :
+14 ) wart . 17 :
 a) $ 2 otrzymuje brzmienie: "$ 2. Makler obowiązany jest do zachowania tajemnicy zawodowej, o której mowa w art. 10 $ 2.",
 b) dodaje się $ 3 w brzmieniu: "8 3. Przepisy $ 1 1 2 stosuje się odpowiednio do doradcy w zakresie publicznego obrotu papierami wartościowym"i.;
 15) wart. 18:
@@ -84,7 +84,7 @@ l) przy czynnościach, o których mowa w art. 21 $ l pkt 1i2, osoby posiadające
 17) wart. 20 skreśla się wyrazy "we wniosku";
 a) dotychczasowa treść otrzymuje oznaczenie $ I,
 b) w $ I w pkt 5 na końcu skreśla się kropkę i dodaje wyrazy "oraz rejestrowanie stanu posiadania papierów wartościowych i zmian tego posiadania",,
-c) dodaje się pkt 6 w brzmieniu: "6) wykonywanie innych czynności w zakresie ustalonym przez Kom i s j ę . " ,
+c) dodaje się pkt 6 w brzmieniu: "6) wykonywanie innych czynności w zakresie ustalonym przez Komisję . " ,
 d) dodaje się $ 2 w brzmieniu: "$ 2. Podmiot prowadzący przedsiębiorstwo maklerskie może prowadzić działalność w zakresie obrotu papierami wartościowymi nie dopuszczonymi do publicznego obrotu, za zgodą i na warunkach określonych przez Komisję.";
 19) wart. 23 skreśla się oznaczenie $ 1 oraz $213;
 20) art. 25 otrzymuje brzmienie: "Art. 25.
@@ -95,7 +95,7 @@ l) narusza przepisy prawa,
 $2. Kara pieniężna, o której mowa w $ 1, może być wymierzona do 5.000.000.000 zł.
 $3. Wydanie decyzji, o których mowa w $ 1, następuje po przeprowadzeniu rozprawy. Komisja może nadać decyzji rygor natychmiastowej wykonalności.
 $4. Decyzje, o których mowa w $ I, ogłasza się w dwóch dziennikach ogólnopolskich na koszt podmiotu prowadzącego przedsiębiorstwo maklerskie oraz w Dzienniku Urzędowym Komisji.";
-21 ) w a r t . 26 :
+21 ) wart . 26 :
 a) dotychczasowa treść otrzymuje oznaczenie $ 1 i po wyrazach "zgodna z" dodaje się wyrazy "prawem oraz z",
 b) dodaje się $ 2 w brzmieniu: "$ 2. Na pisemne żądanie upoważnionych przedstawicieli Komisji podmiot prowadzący przedsiębiorstwo maklerskie zobowiązany jest umożliwić sporządzanie kopii dokumentów 1 nośników informacji, o których mowa w $ I, oraz udzielić wyjaśnień".;
 22) art. 27 otrzymuje brzmienie: "Art. 27. $1. Zezwolenie wygasa z mocy prawa z chwilą:
@@ -121,14 +121,14 @@ $ 2. Do przedsiębiorstwa doradczego przepisy dotyczące przedsiębiorstwa makle
 a) w $ 1 po wyrazie "Wartościowych" dodaje się wyrazy "i Doradców w Zakresie Publicznego Obrotu Papierami Wartościowymi", a po wyrazie "maklerów" dodaje się wyrazy "i doradców",
 b) w $ 2 po wyrazie "maklerów" skreśla się kropkę i dodaje wyrazy "lub doradców. ';
 30) w art. 35 po wyrazie "Wartościowych" dodaje się wyrazy "i Doradców w zakresie Publicznego Obrotu Papierami Wartościowymi";
-31) w art. 36, 37, 41, 42, 46 i 48 po wyrazach "maklerów" dodaje się wyrazy "i doradców", po wyrazach "maklerzy" dodaje się wyrazy "i doradcy", po wyrazach "maklerskich" dodaje się wyrazy "i doradczych", po wyrazach "maklera" dodaje s i ę w y r a z y " l u b d o r a d c y " , p o w y r a z a c h " m a k l e r " w y r a z " l u b d o r a d c a " , a p o w y r a z a c h " m a k l e r o w i " d o d a j e s i ę w y r a z y " l u b d o r a d c y " ;
-32 ) a r t . 49 o t r z y m u j e b r z m i e n i e : o b r o t u w y m a g a z g o d y K o m i s ji .
-$2 . W p r o w a d z e n i e d o p u b li c z n e g o o b r o t u p a p i e r ó w w a r t o ś c i o w y c h , e m i t o w a n y c h p r z e z S k a r b P a ń s t w a l u b N a r o d o w y B a n k Po l s k i a l b o z k t ó r y c h w y n i k a j ą z o b o w i ą z a n i a p i e n i ę ż n e t a k i m p r z y p a d k u e m i t e n c i o b o w i ą z a n i s ą z a w i a d o m i ć K o m i s j ę o e m i s ji t y c h p a p i e r ó w .
-n i a , t r y b i w a r un k i w p r o w a d z a n i a d o p u b li c z n e g o o b r o t u a k c j e t e r m i n o w e ) .
-w a r t o ś c i o w e w p u b li c z n y m o b r o c i e p i e r w o t n y m , m o ż e o d s t ą p i ć o d z a s a d y o k r e ś l o n e j w a r t . 1 $ 2 . " ;
-33 ) a r t . 50 o t r z y m u j e b r z m i e n i e : " A r t . 50 . $1 . W c e l u u z y s k a n i a z g o d y n a w p r o w a d z e n i e p a p i e r ó w w a r t o ś c i o w y c h d o p u b li c z n e g o o b r o t u e m i t e n t l u b w p r o w a d z a j ą c y p a p i e r y w a r t o ś c i o w e d o p u b li c z n e g o o b r o t u s k ł a d a d o s i ę b i o r s t w o m a k l e r s k i e , w n i o s e k z a w i e r a j ą c y : 1 ) o k r e ś l e n i e n a z w y ( fi r m y ) i s i e d z i b y e m i t e n t a , 2 ) p o d s t a w o w e d a n e o w p r o w a d z a n y c h d o p u b li c z n e g o o b r o t u p a p i e r a c h w a r t o ś c i o w y c h , a w s z c z e g ó l n o ś c i o k r e ś l e n i e i c h r o d z a j u , w a r t o ś c i n o m i n a l n e j , li c z b y 3 ) o z n a c z e n i e p o d m i o t u p r o w a d z ą c e g o p r z e d s i ę b i o r s t w o m a k l e r s k i e , o f e r u j ą c e g o w o b r o c i e p a p i e r y w a r t o ś c i o w e b ę d ą c e p r z e d m i o t e m w n i o s k u .
-$2 . D o w n i o s k u n a l e ż y d o ł ą c z y ć p r o s p e k t e m i s y j n y , z w a n y d a l e j o ś w i a d c z e n i e o e m i s ji , a t a k ż e d e c y z j ę w ł a ś c i w e g o o r g a nu e m i t e n t a o u b i e g a n i u s i ę o w p r o w a d z e n i e p a p i e r ó w w a r t o ś c i o w y c h d o p u b li c z n e g o o b r o t u .
-W n i o s e k , o k t ó r y m m o w a w y ż e j , m o ż e b y ć z ł o ż o n y b e z k o b i o r s t w o m a k l e r s k i e .
+31) w art. 36, 37, 41, 42, 46 i 48 po wyrazach "maklerów" dodaje się wyrazy "i doradców", po wyrazach "maklerzy" dodaje się wyrazy "i doradcy", po wyrazach "maklerskich" dodaje się wyrazy "i doradczych", po wyrazach "maklera" dodaje sięwyrazy " lubdoradcy " , powyrazach " makler " wyraz " lubdoradca " , apowy razach " maklerowi " dodajesięwyrazy " lubdoradcy " ;
+32 ) a r t . 49 otrzymujebrzmienie : obrotuwymagazgodyKomis ji .
+$2 . Wprowadzeniedopub li cznegoobrotupapierówwartościo wych , emitowanychprzezSkarbPaństwalubNarodowy Bank Po lskialbozktórychwynikajązobowiązaniapieniężne takimprzypadkuemitenciobowiązanisązawiadomićKomi sjęoemis ji tychpapierów .
+n i a , trybiwar un kiwprowadzaniadopub li cznegoobrotu akcjeterminowe ) .
+wartościowewpub li cznymobrociepierwotnym , możeod stąpićodzasadyokreślonejwart . 1 $ 2 . " ;
+33 ) a r t . 50 otrzymujebrzmienie : " A r t . 50 . $1 . Wceluuzyskaniazgodynawprowadzeniepapierówwarto ściowychdopub li cznegoobrotuemitentlubwprowadzający papierywartościowedopub li cznegoobrotuskładado siębiorstwomaklerskie , wniosekzawierający : 1 ) określenienazwy ( fi r m y ) isiedzibyemitenta , 2 ) podstawowedaneowprowadzanychdopub li cznego obrotupapierachwartościowych , awszczególności określenieichrodzaju , wartościnominalnej , li czby 3 ) oznaczeniepodmiotuprowadzącegoprzedsiębiorstwo maklerskie , oferującegowobrociepapierywartościowe będąceprzedmiotemwniosku .
+$2 . Downioskunależydołączyćprospektemisyjny , zwanydalej oświadczenieoemis ji , atakżedecyzjęwłaściwegoorga nu emitentaoubieganiusięowprowadzeniepapierówwarto ściowychdopub li cznegoobrotu .
+Wniosek , októrymmowawyżej , możebyćzłożonybezko biorstwomaklerskie .
 $4. Uzyskana zgoda na pozagiełdowy wtórny publiczny obrót nie upoważnia do sprzedaży papierów wartościowych w drodze pierwszej oferty publicznej, dla której niezbędne jest spełnienie warunków, o których mowa w $ 112.
 $5. Na potrzeby prospektu emisyjnego i memorandum emisję papierów wartościowych przez podmiot zależny uważa się w rozumieniu ustawy za dokonywaną przez podmiot dominują$6. Rada Ministrów określa, w drodze rozporządzenia, szczegółowe warunki, jakim powinien odpowiadać prospekt i memorandum.';
 34) po art. 50 dodaje się art. 50a w brzmieniu: "Art. 50a. $1.Komisja wyraża zgodę, o której mowa w art. 49, w terminie dwóch miesięcy od dnia złożenia wniosku.

@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# I K U S T A W R Z E C Z Y P O S P O L I TE J P O L S K I E J W a r s z a w a , d n i a 21 g r u d n i a 2018 r .
+# IKUSTAW RZECZYPOSPOLI TE JPOLSKIEJ Warszawa , dnia 21 grudnia 2018 r .
 
 | Pole | Wartość |
 |---|---|
@@ -26,12 +26,12 @@ source: "isap-pdf"
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002390) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2390/text.pdf) |
 
 Po z .
-ROZPORZĄDZENIE M I N I S T R A G O S P O D A R K I M O R S K I E J I Ż E G L U G I Ś R Ó D L Ą D O W E J ? ” z d n i a 14 g r u d n i a 2018 r .
-N a p o d s t a w i e a r t . 328 u s t . 3 u s t a w y z d n i a 20 li p c a 2017 r . P r a w o w o d n e ( D z . U . z 2018 r . p o z . 2268 ) z a r z ą d z a s i ę , co następuje: $ 1 . Z a k r e s i n f o r m a c ji p r z e k a z y w a n y c h p r z e z P a ń s t w o w e G o s p o d a r s t w o W o d n e W o d y Po l s k i e , w o j e w o d ó w , m a r s z a ł k ó w w o j e w ó d z t w , w ó j t ó w , b u r m i s t r z ó w l u b p r e z y d e n t ó w m i a s t i d y r e k t o r ó w u r z ę d ó w m o r s k i c h w r o c z n y c h s p r a w o z d a n i a c h z r e a li z a c ji d z i a ł a ń z a w a r t y c h w : 1 ) p l a n a c h g o s p o d a r o w a n i a w o d a m i n a o b s z a r a c h d o r z e c z y j e s t o k r e ś l o n y w z a ł ą c z n i k u n r 1 d o r o z p o r z ą d z e n i a ;
-2 ) p l a n a c h z a r z ą d z a n i a r y z y k i e m p o w o d z i o w y m j e s t o k r e ś l o n y w z a ł ą c z n i k u n r 2 d o r o z p o r z ą d z e n i a ;
-3 ) - p r o g r a m i e o c h r o n y w ó d m o r s k i c h j e s t o k r e ś l o n y w z a ł ą c z n i k u n r 3 d o r o z p o r z ą d z e n i a .
-$ 2 . R o z p o r z ą d z e n i e w c h o d z i w ż y c i e p o u p ł y w i e 14 d n i o d d n i a o g ł o s z e n i a .
-M i n i s t e r G o s p o d a r k i M o r s k i e j i Ż e g l u g i Ś r ó d l ą d o w e j : M . G r ó b a r c z y k 5 M i n i s t e r G o s p o d a r k i M o r s k i e j i Ż e g l u g i Ś r ó d l ą d o w e j k i e r u j e d z i a ł e m a d m i n i s t r a c ji r z ą d o w e j g o s p o d a r k a w o d n a , n a p o d s t a w i e s t r a G o s p o d a r k i M o r s k i e j i Ż e g l u g i Ś r ó d l ą d o w e j ( D z . U . p o z . 23 24 o r a z z 2 01 8 r . p o z . 10 0 ) .
+ROZPORZĄDZENIE MINISTRAGOSPODARKIMORSKIEJIŻEGLUGIŚRÓDLĄDOWEJ ? ” zdnia 14 grudnia 2018 r .
+Napodstawieart . 328 u s t . 3 ustawyzdnia 20 li p c a 2017 r . Prawowodne ( D z . U . z 2018 r . p o z . 2268 ) zarządzasię , co następuje: $ 1 . Zakresinformac ji przekazywanychprzezPaństwoweGospodarstwoWodneWody Po lskie , wojewodów , m a r szałkówwojewództw , wójtów , burmistrzówlubprezydentówmiastidyrektorówurzędówmorskichwrocznychsprawo zdaniachzrea li z a c ji działańzawartychw : 1 ) planachgospodarowaniawodaminaobszarachdorzeczyjestokreślonywzałącznikunr 1 dorozporządzenia ;
+2 ) planachzarządzaniaryzykiempowodziowymjestokreślonywzałącznikunr 2 dorozporządzenia ;
+3 ) - programieochronywódmorskichjestokreślonywzałącznikunr 3 dorozporządzenia .
+$ 2 . Rozporządzeniewchodziwżyciepoupływie 14 dnioddniaogłoszenia .
+MinisterGospodarkiMorskiejiŻeglugiŚródlądowej : M . Gróbarczyk 5 MinisterGospodarkiMorskiejiŻeglugiŚródlądowejkierujedziałemadministrac ji rządowejgospodarkawodna , napodstawie straGospodarkiMorskiejiŻeglugiŚródlądowej ( D z . U . p o z . 23 24 orazz 2 01 8 r . p o z . 10 0 ) .
 i Żeglugi Śródlądowej z dnia 14 grudnia 2018 r. (poz. 2390) ZAKRES INFORMACJI PRZEKAZYWANYCH PRZEZ PAŃSTWOWE GOSPODARSTWO WODNE WODY
 1)
 2)
@@ -276,7 +276,7 @@ c) lokalizacja działania, a w przypadku działań o charakterze punktowym wspó
 8) Całkowity koszt realizacji działania według stanu na dzień 31 grudnia roku, którego dotyczy sprawozdanie;
 9) Harmonogram realizacji działania według programu ochrony wód morskich;
 10) Harmonogram realizacji działania według stanu na dzień 31 grudnia roku, którego dotyczy sprawozdanie;
-11) Źródło finansowania (środki krajowe/środki europejskie, w tym nazwa programu jeżeli dotyczy/inne środki podać j a k i e ) ;
+11) Źródło finansowania (środki krajowe/środki europejskie, w tym nazwa programu jeżeli dotyczy/inne środki podać jakie ) ;
 5) Sprawozdanie sporządza się odrębnie dla każdego działania przewidzianego do realizacji.
 12) Informacja, czy występują opóźnienia w realizacji działania;
 13) Informacja o przyczynach opóźnień (finansowe/organizacyjne/legislacyjne/inne przyczyny podać jakie);

@@ -72,7 +72,7 @@ b) po $ 1 dodaje się $ la w brzmieniu: "$la. W sprawach o wykluczenie lub wykre
 20) skreśla się art. 34;
 21) wart. 36 $ 4 otrzymuje brzmienie: "$4. W walnym zgromadzeniu mają prawo uczestniczyć z głosem doradczym przedstawiciele związku rewizyjnego, w którym spółdzielnia jest zrzeszona oraz przedstawiciele Krajowej Rady Spółdzielczej.";
 22) wart. 38 $ 1 otrzymuje brzmienie: "$1. Do wyłącznej właściwości walnego zgromadzenia należy: I) uchwalanie kierunków rozwoju działalności gospodarczej oraz społecznej i kulturalnej,
-2) rozpatrywanie sprawozdań rady, zatwierdzanie sprawozdań rocznych i sprawozdań finansowych oraz podejmowanie uchwał co do wniosków członków spółdzielni, rady lub zarządu w tych sprawach 1 udzielanie absolutorium członkom z a r z ą d u ,
+2) rozpatrywanie sprawozdań rady, zatwierdzanie sprawozdań rocznych i sprawozdań finansowych oraz podejmowanie uchwał co do wniosków członków spółdzielni, rady lub zarządu w tych sprawach 1 udzielanie absolutorium członkom zarządu ,
 3) rozpatrywanie wniosków wynikających z przedstawionego protokołu polustracyjnego z działalności spółdzielni oraz podejmowanie uchwał w tym zakresie,
 4) podejmowanie uchwał w sprawie podziału nadwyżki bilansowej (dochodu ogólnego) lub sposobu pokrycia strat,
 5) podejmowanie uchwał w sprawie zbycia nieruchomości, zbycia zakładu lub innej wyodrębnionej jednostki organizacyjn e j ,
@@ -96,7 +96,7 @@ Jeżeli to nie nastąpi, zwołuje je rada nadzorcza, związek rewizyjny, w któr
 25) wart. 41:
 a) $ 2 otrzymuje brzmienie: "$2. Uchwały podejmowane są zwykłą większością głosów w obecnoŚci co najmniej połowy uprawnionych do głosowania, chyba że ustawa lub statut stanowią inaczej.",
 b) $ 4 otrzymuje brzmienie: "$4. Protokoły są jawne dla członków spółdzielni, przedstawicieli związku rewizyjnego, w którym spółdzielnia jest zrzeszona oraz dla Krajowej Rady Spółdzielczej.";
-26 ) w a r t . 42 :
+26 ) wart . 42 :
 a) $ 2 otrzymuje brzmienie: "$2. Członek spółdzielni może zaskarżyć do sądu uchwałę z powodu jej niezgodności z prawem lub postanowieniami statutu; na tej samej podstawie uchwałę może zaskarżyć także zarząd spółdzielb) $ 6 otrzymuje brzmienie: "$6. Przepisy $ 1-5 stosuje się również do wykluczonego lub wykreŚlonego członka w wypadku zaskarżenia przez niego uchwały o wykluczeniu lub wykreśleniu. Prawo zaskarżenia uchwały w sprawie wykluczenia lub wykreślenia przysługuje wyłącznie członkowi, którego uchwała dotyczy.",
 c) po $ 6 dodaje się $ 6a w brzmieniu: "$6a. Jeżeli powództwo o uchylenie uchwały walnego zgromadzenia wnosi zarząd, spółdzielnię reprezentuje rada."';
 27) skreśla się art. 43;
@@ -110,11 +110,11 @@ a) $ I otrzymuje brzmienie: "$1. Do zakresu działania rady należy:
 a) badanie okresowych sprawozdań oraz sprawozdań finansowych,
 b) dokonywanie okresowych ocen wykonania przez spółdzielnię jej zadań gospodarczych, ze szczególnym uwzględnieniem przestrzegania przez spółdzielnię praw jej członków,
 c) przeprowadzanie kontroli nad sposobem załatwiania przez zarząd wniosków organów spółdzielni i jej członków,
-3) podejmowanie uchwał w sprawie nabycia i obciążenia nieruchomości oraz nabycia zakładu lub innej jednostki organizac y j n e j ,
+3) podejmowanie uchwał w sprawie nabycia i obciążenia nieruchomości oraz nabycia zakładu lub innej jednostki organizacyjnej ,
 4) podejmowanie uchwał w sprawie przystępowania do organizacji społecznych oraz występowania z nich,
 5) zatwierdzanie struktury organizacyjnej spółdzielni,
 6) rozpatrywanie skarg na działalność zarządu,
-7) składanie walnemu zgromadzeniu sprawozdań zawierających w szczególności wyniki kontroli i ocenę sprawozdań finans o w y c h ,
+7) składanie walnemu zgromadzeniu sprawozdań zawierających w szczególności wyniki kontroli i ocenę sprawozdań finansowych ,
 8) podejmowanie uchwał w sprawach czynności prawnych dokonywanych między spółdzielnią a członkiem zarządu lub dokonywanych przez spółdzielnię w interesie członka zarządu oraz reprezentowanie spółdzielni przy tych czynnościach;
 do reprezentowania spółdzielni wystarczy dwóch członków rady przez nią upoważnionych.",
 b) $ 3 otrzymuje brzmienie: "$3. Statut może przewidywać wybór przez radę jej prezydium z zadaniem organizowania pracy rady.";
@@ -159,18 +159,18 @@ $4. Jeżeli podział części nadwyżki bilansowej między członków ma nastąp
 $2. Spółdzielnia tworzy także inne fundusze własne przewidziane w odrębnych przepisach oraz w jej statucie.';
 47) skreśla się art. 79;
 48) skreśla się art. 81;
-49) art. 82 otrzymuje brzmienie: " A r t . 82 . O p r o c e n t o w a n i e w k ł a d ó w p i e n i ę ż n y c h s t a n o w i k o s z t u z y s k a n i a p r z y c h o d ó w " ; .
-50 ) s k r e ś l a s i ę a r t . 84 i 85 ;
-51 ) a r t . 87 o t r z y m u j e b r z m i e n i e : " A r t . 87 . S p ó ł d z i e l n i a p r o w a d z i r a c hun k o w o ś ć n a z a s a d a c h o k r e ś l o n y c h o d r ę b n y m i p r z e p i s a m i . " ;
-52 ) p o a r t . 87 d o d a j e s i ę a r t . 88 a w b r z m i e n i u : " A r t . 88 a . $1 . R o c z n e s p r a w o z d a n i a fi n a n s o w e s p ó ł d z i e l n i p o d l e g a j ą b a d a n i u p o d w z g l ę d e m r z e t e l n o ś c i i p r a w i d ł o w o ś c i .
-U c h w a ł ę w t y m z a k r e s i e p o d e j m u j e r a d a n a d z o r c z a .
-w e d ł u g z a s a d o k r e ś l o n y c h w o d r ę b n y c h p r z e p i s a c h .
-s o w y c h s t a n o w i ą c y c h p o d s t a w ę p r z y ł ą c z e n i u i p o d z i a l e s p ó ł d z i e l n " i . ;
-53 ) a r t . 89 o t r z y m u j e b r z m i e n i e : " A r t . 89 . R o c z n e s p r a w o z d a n i e z d z i a ł a l n o ś c i s p ó ł d z i e l n i , ł ą c z n i e z e p o d l e g a o n o o b o w i ą z k o w e m u b a d a n i u , w y k ł a d a s i ę w l o k a l u s p ó ł d z i e l n i c o n a j m n i e j n a c z t e r n a ś c i e d n i p r z e d t e r m i n e m w a l n e p o z n a n i a s i ę z n i m . " ;
-54 ) w a r t . 90 d o d a j e s i ę $ 3 w b r z m i e n i u : " 83 . S t r a t a b il a n s o w a w b a n k u s p ó ł d z i e l c z y m p o k r y w a n a j e s t w e d ł u g z a s a d i 134 , p o z . 646 o r a z z 1994 r . N r 80 , p o z . 369 ) , z aa k c e p t o w a n y m p r z e z 55 ) a r t . 91 o t r z y m u j e b r z m i e n i e : l u s t r a c y j n e m u b a d a n i u l e g a l n o ś c i , g o s p o d a r n o ś c i i r z e t e l n o ś c i c a ł o ś c i j e j d z i a ł a n i a .
-$2 . S p ó ł d z i e l n i a m o ż e w y s t ą p i ć w k a ż d y m c z a s i e o p r z e p r o w a d z e n i e l u s t r a c ji c a ł o ś c i l u b c z ę ś c i j e j d z i a ł a l n o ś c i a l b o t y l k o o k r e ś l o n y c h z a g a d n i e ń . L u s t r a c j a m o ż e b y ć p r z e p r o w a d z o n a n a ż ą d a n i e w a l n e g o z g r o m a d z e n i a , r a d y l u b 1 / 5 c z ł o n k ó w spółdzielni.
-s p ó ł d z i e l n i a c h w n i c h z r z e s z o n y c h . S p ó ł d z i e l n i e n i e z r z e s z o n e z l e c a j ą o dp ł a t n e p r z e p r o w a d z e n i e l u s t r a c ji w y b r a n e m u z w i ą z k o w i r e w i z y j n e m u l u b K r a j o w e j R a d z i e S p ó ł d z i e l c z e j .
-n i a j e s t z r z e s z o n a l u b K r a j o w a R a d a S p ó ł d z i e l c z a . O b o w i ą z k i l u s t r a t o r a m o ż e p e ł n i ć o s o b a , k t ó r a u z y s k a ł a u p r a w n i e n i a l u s t r a c y j n e w y d a n e p r z e z K r a j o w ą R a d ę S p ó ł d z i e l c z ą . K r y t e ria kwalifikacyjne lustratorów oraz tryb przeprowadzania lustracji określa Krajowa Rada Spółdzielcza.
+49) art. 82 otrzymuje brzmienie: " A r t . 82 . Oprocentowaniewkładówpieniężnychstanowikosztuzyskania przychodów " ; .
+50 ) skreślasięart . 84 i 85 ;
+51 ) a r t . 87 otrzymujebrzmienie : " A r t . 87 . Spółdzielniaprowadzirac hun kowośćnazasadachokreślo nychodrębnymiprzepisami . " ;
+52 ) poart . 87 dodajesięart . 88 awbrzmieniu : " A r t . 88 a . $1 . Rocznesprawozdania fi nansowespółdzielnipodlegają badaniupodwzględemrzetelnościiprawidłowości .
+Uchwałęwtymzakresiepodejmujeradanadzorcza .
+wedługzasadokreślonychwodrębnychprzepisach .
+sowychstanowiącychpodstawęprzyłączeniuipodziale spółdzieln " i . ;
+53 ) a r t . 89 otrzymujebrzmienie : " A r t . 89 . Rocznesprawozdaniezdziałalnościspółdzielni , łącznieze podlegaonoobowiązkowemubadaniu , wykładasięwlokaluspół dzielniconajmniejnaczternaściedniprzedterminemwalne poznaniasięznim . " ;
+54 ) wart . 90 dodajesię $ 3 wbrzmieniu : " 83 . Stratab il ansowawbankuspółdzielczympokrywanajestwedługzasadi 134 , p o z . 646 orazz 1994 r . N r 80 , p o z . 369 ) , z aa kceptowanymprzez 55 ) a r t . 91 otrzymujebrzmienie : lustracyjnemubadaniulegalności , gospodarnościirzetelnościcałościjejdziałania .
+$2 . Spółdzielniamożewystąpićwkażdymczasieoprzeprowa dzenielustrac ji całościlubczęścijejdziałalnościalbotylko określonychzagadnień . Lustracjamożebyćprzeprowadzona nażądaniewalnegozgromadzenia , radylub 1 / 5 członków spółdzielni.
+spółdzielniachwnichzrzeszonych . Spółdzielnieniezrzeszo nezlecająo dp łatneprzeprowadzenielustrac ji wybranemu związkowirewizyjnemulubKrajowejRadzieSpółdzielczej .
+niajestzrzeszonalubKrajowaRadaSpółdzielcza . Obowiąz kilustratoramożepełnićosoba , którauzyskałauprawnienia lustracyjnewydaneprzezKrajowąRadęSpółdzielczą . Kryte ria kwalifikacyjne lustratorów oraz tryb przeprowadzania lustracji określa Krajowa Rada Spółdzielcza.
 $5. Jeżeli działalność lustratora jest niezgodna z prawem, a także jeżeli lustrator nie zachowuje w tajemnicy wiadomości o działalności spółdzielni uzyskanych przy lustracji, Krajowa Rada Spółdzielcza z własnej inicjatywy lub na wniosek związku rewizyjnego, w którym spółdzielnia jest zrzeszona może go pozbawić uprawnień lustratora. Zachowanie tajemnicy nie obowiązuje wobec organów lustrowanej spółdzielni, związku rewizyjnego, który lustratora wyznaczył, Krajowej Rady Spółdzielczej oraz organów wymiaru sprawiedliwości.
 $6. Uchwała Krajowej Rady Spółdzielczej w sprawie pozbawienia uprawnień lustratora jest ostateczną decyzją w rozumieniu przepisów Kodeksu postępowania administracyjnego, który stosuje się odpowiednio";.
 56) w art. 93:
@@ -185,16 +185,16 @@ $2. Jeżeli walne zgromadzenia łączących się spółdzielni nie postanowią i
 61) w art. 108 w $ 2 w pkt 3 wyraz "bilansu" zastępuje się wyrazami "sprawozdania finansowego";
 62) art. 110 otrzymuje brzmienie: "Art. 110. Zarząd spółdzielni powstającej jest obowiązany w terminie czternastu dni od dnia jego wyboru wystąpić z wnioskiem o wpisanie spółdzielni do rejestru, a zarząd spółdzielni dotychczasowej - z wnioskiem o wpisanie do rejestru jej podziału. Przepisy art. 7 oraz art. 8 stosuje się odpowiednio".;
 63) art. 112 otrzymuje brzmienie: "Art. 112. Do podziału spółdzielni stosuje się odpowiednio przepisy art. 98 $ 1 iart. 100.';
-64 ) w a r t . 113 :
-a) w $ 1 pkt 2 otrzymuje brzmienie: "2) wskutek zmniejszenia się liczby członków poniżej wskazanej w s t a t u c i e l u b w u s t a w i e , j e ż e li s p ó ł d z i e l n i a w t e r m i n i e j e d n e g o roku nie zwiększy liczby członków do wymaganej wielkości,",
-b) $ 2 otrzymuje brzmienie: " $2 . W w y p a d k a c h p r z e w i d z i a n y c h w $ 1 z a r z ą d s p ó ł d z i e l n i ( li k w i d a t o r ) z g ł o s i d o r e j e s t r u o t w a r c i e li k w i d a c ji s p ó ł d z i e l n i i z a w i a d o m i o t y m w ł a ś c i w y z w i ą z e k r e w i z y j n y . J e ż e li z a r z ą d ( li k w i d a t o r ) t e g o n i e u c z y n i , z g ł o s z e n i a d o k o n a z w i ą z e k r e w i z y j n y , w k t ó r y m s p ó ł d z i e l n i a j e s t z r z e s z o n a ' ; .
-65 ) a r t . 114 o t r z y m u j e b r z m i e n i e : "Art. 114. $1. Związek rewizyjny, w którym spółdzielnia jest zrzeszona, może podjąć uchwałę o postawieniu spółdzielni w stan likwidacji, jeżeli:
+64 ) wart . 113 :
+a) w $ 1 pkt 2 otrzymuje brzmienie: "2) wskutek zmniejszenia się liczby członków poniżej wskazanej w statucielubwustawie , jeże li spółdzielniawterminiejednego roku nie zwiększy liczby członków do wymaganej wielkości,",
+b) $ 2 otrzymuje brzmienie: " $2 . Wwypadkachprzewidzianychw $ 1 zarządspółdzielni ( li k w i dator ) zgłosidorejestruotwarcie li kwidac ji spółdzielniizawia domiotymwłaściwyzwiązekrewizyjny . Jeże li zarząd ( li kwida t o r ) tegonieuczyni , zgłoszeniadokonazwiązekrewizyjny , wktó rymspółdzielniajestzrzeszona ' ; .
+65 ) a r t . 114 otrzymujebrzmienie : "Art. 114. $1. Związek rewizyjny, w którym spółdzielnia jest zrzeszona, może podjąć uchwałę o postawieniu spółdzielni w stan likwidacji, jeżeli:
 1) działalność spółdzielni wykazuje rażące 1 uporczywe naruszenia prawa lub postanowień statutu,
-2) spółdzielnia została zarejestrowana z naruszeniem pra3) spółdzielnia co najmniej od roku nie prowadzi działaln o ś c i g o s p o d a r c z e j .
-$2 . U c h w a ł ę z w i ą z k u r e w i z y j n e g o , o k t ó r e j m o w a w $ I , s p ó ł dzielnia może zaskarżyć do sądu w ciągu sześciu tygodni od d n i a j e j d o r ę c z e n i a w r a z z u z a s a d n i e n i e m . W r a z i e n i e z a skarżenia uchwały w ustawowym terminie lub uprawomocn i e n i a s i ę o r z e c z e n i a o dd a l a j ą c e g o p o w ó d z t w o a l b o u m a r z a j ą c e g o p o s t ę p o w a n i e w s p r a w i e , z w i ą z e k r e w i z y j n y z g ł a sza do rejestru wniosek o otwarcie likwidacji, wyznaczając jednocześnie likwidatora.";
-66 ) a r t . 115 o t r z y m u j e b r z m i e n i e : "Art. 115. Jeżeli spółdzielnia nie rozpoczęła działalności gospodarczej w ciągu roku od dnia jej zarejestrowania 1 nie posiada majątku, może ulec wykreśleniu z rejestru na wniosek związku r e w i z y j n e g o . " ;
-67 ) w a r t . 118 $ 3 o t r z y m u j e b r z m i e n i e : "$3. Umowę z likwidatorem o wykonanie czynności likwidacyjnych z a w i e r a r a d a s p ó ł d z i e l n i . W w y p a d k u gd y z w o ł a n i e r a d y n a p o t y k a p o w a ż n e t r u d n o ś c i a l b o gd y li k w i d a t o r a w y z n a c z a z w i ą z e k r e w i z y j n y , u m o w ę z li k w i d a t o r e m z a w i e r a t e n z w i ą z e k , d z i a ł a j ą c w imieniu spółdzielni.";
-68 ) a r t . 119 o t r z y m u j e b r z m i e n i e : " A r t . 1 19 . $ 1 . D o l i k w i d a t o r a s t o s u j e s i ę o dp o w i e d n i o p r z e p i s y d o t y c z ą c e z a r z ą d u s p ó ł d z i e l n i i c z ł o n k ó w z a r z ą d u , j e ż e li przepisy o likwidacji nie stanowią inaczej.
+2) spółdzielnia została zarejestrowana z naruszeniem pra3) spółdzielnia co najmniej od roku nie prowadzi działalnościgospodarczej .
+$2 . Uchwałęzwiązkurewizyjnego , októrejmowaw $ I , spół dzielnia może zaskarżyć do sądu w ciągu sześciu tygodni od dniajejdoręczeniawrazzuzasadnieniem . Wrazienieza skarżenia uchwały w ustawowym terminie lub uprawomocnieniasięorzeczeniao dd alającegopowództwoalbouma rzającegopostępowaniewsprawie , związekrewizyjnyzgła sza do rejestru wniosek o otwarcie likwidacji, wyznaczając jednocześnie likwidatora.";
+66 ) a r t . 115 otrzymujebrzmienie : "Art. 115. Jeżeli spółdzielnia nie rozpoczęła działalności gospodarczej w ciągu roku od dnia jej zarejestrowania 1 nie posiada majątku, może ulec wykreśleniu z rejestru na wniosek związku rewizyjnego . " ;
+67 ) wart . 118 $ 3 otrzymujebrzmienie : "$3. Umowę z likwidatorem o wykonanie czynności likwidacyjnych zawieraradaspółdzielni . Wwypadku gd yzwołanieradynapotyka poważnetrudnościalbo gd y li kwidatorawyznaczazwiązekrewi zyjny , umowęz li kwidatoremzawieratenzwiązek , działającw imieniu spółdzielni.";
+68 ) a r t . 119 otrzymujebrzmienie : " A r t . 1 19 . $ 1 . Dolikwidatorastosujesięo dp owiednioprzepisydoty czącezarząduspółdzielniiczłonkówzarządu , jeże li przepisy o likwidacji nie stanowią inaczej.
 $2. Likwidator nie może zawierać nowych umów, chyba że jest to konieczne do przeprowadzenia likwidacji spółdzielni. Dalej idące ograniczenia może ustanowić organ, który wyznaczył likwidatora. Ograniczenia takie powinny być niezwłocznie zgłoszone przez likwidatora do rejestru.
 $3. Jeżeli zwołanie walnego zgromadzenia lub rady spółdzielni napotyka poważne trudności, związek rewizyjny, w którym spółdzielnia jest zrzeszona, może upoważnić likwidatora do dokonania czynności określonego rodzaju, które wymagają uchwały walnego zgromadzenia lub rady spółdzielni.
 $4. Likwidator może być odwołany w każdej chwili przez organ, który go wyznaczył. Ponadto likwidatora może odwołać z ważnych przyczyn związek rewizyjny, w którym spółdzielnia jest zrzeszona.
@@ -204,7 +204,7 @@ $5. Organ, który odwołuje likwidatora obowiązany jest równocześnie wyznaczy
 2) powiadomić banki finansujące spółdzielnię oraz organy finansowe o otwarciu likwidacji spółdzielni,
 3) ogłosić w "Monitorze Spółdzielczym" zawiadomienie o otwarciu likwidacji spółdzielni i wezwać wierzycieli do zgłoszenia wierzytelności w terminie trzech miesięcy od dnia tego ogłoszenia,
 4) przystąpić do sporządzenia sprawozdania finansowego na dzień otwarcia likwidacji oraz listy zobowiązań spółdzielni,
-5) sporządzić plan finansowy likwidacji i plan zaspokojenia zob o w i ą z a ń . ' ;
+5) sporządzić plan finansowy likwidacji i plan zaspokojenia zobowiązań . ' ;
 70) art. 123 otrzymuje brzmienie: "Art. 123. W czasie likwidacji nie stosuje się przepisu art. 90 $ I, w zakresie kolejności pokrywania strat bilansowych".;
 71) wart. 124 $ 3 otrzymuje brzmienie: "$3. Uznanie przez likwidatora wierzytelności przerywa bieg przedawnienia i terminu zawitego, jeżeli zostało dokonane pisemnie.";
 72) wart. 125:
@@ -268,7 +268,7 @@ $2. W wypadku wniesienia przez członka odwołania w postępowaniu wewnątrzspó
 108) w art. 200 w $ I skreśla się wyrazy "Okres ten dla kandydata, który w żadnym zakładzie nie przepracował co najmniej jednego roku, nie może być krótszy od jednego roku.';
 109) w art. 204:
 a) w $ 4 skreśla się wyrazy "jeżeli jest to gospodarczo 1 społecznie uzasadnione",
-b) dodaje się $ 5 w brzmieniu: "85. Statut spółdzielni może przewidywać wynajmowanie lokali mieszkalnych i użytkowych w budynkach stanowiących własność s p ó ł d z i e l n " i . ;
+b) dodaje się $ 5 w brzmieniu: "85. Statut spółdzielni może przewidywać wynajmowanie lokali mieszkalnych i użytkowych w budynkach stanowiących własność spółdzieln " i . ;
 110) art. 205 otrzymuje brzmienie: "Art. 205. $1. Statut spółdzielni powinien określać zasady ustalania kolejności przydziału lokali członkom, a także zasady doboru najemców lokali w budynkach stanowiących własność spółdzielni.
 $2. Statut spółdzielni może określać przypadki, w których osoba prawna może uzyskać przydział lokalu mieszkalnego lub być najemcą takiego lokalu w budynkach stanowiących własność spółdzieln"i.;
 111) skreśla się art. 206;
@@ -309,7 +309,7 @@ $3. Do zadań związku rewizyjnego należy:
 4) reprezentowanie zrzeszonych spółdzielni za granicą,
 5) inicjowanie i rozwijanie współpracy między spółdzielniami oraz współdziałanie z placówkami naukowobadawczymi,
 6) wykonywanie innych zadań przewidzianych w niniejszej ustawie oraz statucie.
-$4. Związek rewizyjny nabywa osobowość prawną z chwilą wpisania do rejestru sądowego i działa na podstawie niniejszej ustawy oraz statutu, który powinien w szczególności okreś l a ć :
+$4. Związek rewizyjny nabywa osobowość prawną z chwilą wpisania do rejestru sądowego i działa na podstawie niniejszej ustawy oraz statutu, który powinien w szczególności określać :
 1) nazwę i siedzibę związku,
 2) cel i przedmiot działania związku,
 3) zasady 1 tryb przyjmowania, wykreślania, wykluczania członków oraz wypowiadania członkostwa,
@@ -348,7 +348,7 @@ l) reprezentowanie polskiego ruchu spółdzielczego w kraju 1 za granicą,
 $2. Krajowa Rada Spółdzielcza działa na podstawie statutu, który określa szczegółowe zasady 1 tryb jej działania.
 $3. Statut i jego zmiany stają się skuteczne po stwierdzeniu przez Sąd Wojewódzki w Warszawie w postępowaniu nieprocesowym ich zgodności z prawem. W razie stwierdzenia niezgodności Sąd wyznaczy Radzie termin do usunięcia lub zmiany postanowień niezgodnych z prawem.
 $4. Statut podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski".
-$5. W pracach organów Rady mogą uczestniczyć z głosem doradczym przedstawiciele naczelnych organów administracji państwowej oraz przedstawiciele związków rewizyjn y c h . " ;
+$5. W pracach organów Rady mogą uczestniczyć z głosem doradczym przedstawiciele naczelnych organów administracji państwowej oraz przedstawiciele związków rewizyjnych . " ;
 137) skreśla się art. 260-265;
 138) art. 266 otrzymuje brzmienie: "Art. 266. Wydatki Krajowej Rady Spółdzielczej pokrywa się ze składek organizacji spółdzielczych według zasad określonych przez Kongres oraz z innych dochodów 1 darowizn";.
 139) skreśla się art. 267.

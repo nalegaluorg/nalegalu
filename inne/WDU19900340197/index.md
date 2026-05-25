@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 6 Dńutśthnnż li li t ą śthnntnót , ó n nnunn finansowanie zadań zakresie oświaty wychowania - na zasadach h h uń - h h , n h 4 ) nnnnunn 5 ) n n dp ąnhtn
+# 6 Dńwywychwży li c j p li y ą swywychwwjwów , wscgó pwbwp finansowanie zadań w zakresie oświaty wychowania - na zasadach wychwwcychp uń c - wychwwcych , wychj 4 ) gwspwwpggcgsł 5 ) p w p dp ąwysłwychyc
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,7 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900340197) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/197/text.pdf) |
 
-6) przekazywanie organom samorządu terytorialnego, jako zadania własnego, prowadzenia niektórych szkół - na wniosek lub za zgodą 7 P u t 6 nnuąunń nn hntótnh nónt ji ą n , u t n n n ó nn hóśt - h h utuśthnZn ji utuś 9 Wuunnnnńutśthn może tworzyć delegatury zamiejscowe kuratorium, obejmujące kilka jednostek podziału terytorialnego stopnia podstawowego, określając nnhn
-10. Kurator oświaty wychowania może, za zgodą Ministra Edukacji N , ćnntóhnżąh t n ji , tónżnnu ji nnhónuh ó Po n u n
-11. Minister Edukacji Narodowej określa drodze rozporządzenia:
+6) przekazywanie organom samorządu terytorialnego, jako zadania własnego, prowadzenia niektórych szkół - na wniosek lub za zgodą 7 Ppsys 6 sjąpwń nn ychsówwych gówsc ji ąwjpw , y y w wsół nn ychpcówww - wychwwcych wywychwZsygc ji w 9 Wcspwwyywńwywychw może tworzyć delegatury zamiejscowe kuratorium, obejmujące kilka jednostek podziału terytorialnego stopnia podstawowego, określając h b g
+10. Kurator oświaty wychowania może, za zgodą Ministra Edukacji N w j , pwyćpwóychspwżącychj p c ji , wyówżwywwjgcy ji h ó h wwów Po w w p
+11. Minister Edukacji Narodowej określa w drodze rozporządzenia:
 
