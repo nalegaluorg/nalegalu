@@ -23,7 +23,7 @@ Akty z największą liczbą powiązanych orzeczeń sądowych:
 
 ## Orzecznictwo
 
-Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **649 311** powiązań między orzeczeniami a aktami prawnymi.
+Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **649 672** powiązań między orzeczeniami a aktami prawnymi.
 
 Każdy akt prawny, na który powołują się orzeczenia, posiada plik `orzecznictwo.md` z listą cytujących orzeczeń pogrupowanych wg artykułu. Dla największych aktów (np. Kodeks cywilny) orzecznictwo jest podzielone na osobne pliki per artykuł.
 
@@ -61,21 +61,21 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 |-----------|------:|------|
 | [Ochrona danych osobowych](prawo-ochrony-danych/README.md) | 8 | [Pełna lista aktów →](prawo-ochrony-danych/README.md) (2 z orzecznictwem) |
 | [Prawo administracyjne](prawo-administracyjne/README.md) | 46 | [Pełna lista aktów →](prawo-administracyjne/README.md) (13 z orzecznictwem) |
-| [Prawo bankowe](prawo-bankowe/README.md) | 21 | [Pełna lista aktów →](prawo-bankowe/README.md) (6 z orzecznictwem) |
+| [Prawo bankowe](prawo-bankowe/README.md) | 24 | [Pełna lista aktów →](prawo-bankowe/README.md) (7 z orzecznictwem) |
 | [Prawo budowlane](prawo-budowlane/README.md) | 30 | [Pełna lista aktów →](prawo-budowlane/README.md) (6 z orzecznictwem) |
-| [Prawo cywilne](prawo-cywilne/README.md) | 98 | [Pełna lista aktów →](prawo-cywilne/README.md) (40 z orzecznictwem) |
-| [Prawo energetyczne](prawo-energetyczne/README.md) | 21 | [Pełna lista aktów →](prawo-energetyczne/README.md) (4 z orzecznictwem) |
-| [Prawo handlowe](prawo-handlowe/README.md) | 21 | [Pełna lista aktów →](prawo-handlowe/README.md) (7 z orzecznictwem) |
-| [Prawo karne](prawo-karne/README.md) | 110 | [Pełna lista aktów →](prawo-karne/README.md) (38 z orzecznictwem) |
+| [Prawo cywilne](prawo-cywilne/README.md) | 104 | [Pełna lista aktów →](prawo-cywilne/README.md) (45 z orzecznictwem) |
+| [Prawo energetyczne](prawo-energetyczne/README.md) | 23 | [Pełna lista aktów →](prawo-energetyczne/README.md) (5 z orzecznictwem) |
+| [Prawo handlowe](prawo-handlowe/README.md) | 20 | [Pełna lista aktów →](prawo-handlowe/README.md) (7 z orzecznictwem) |
+| [Prawo karne](prawo-karne/README.md) | 115 | [Pełna lista aktów →](prawo-karne/README.md) (39 z orzecznictwem) |
 | [Prawo konstytucyjne](prawo-konstytucyjne/README.md) | 2 | [Pełna lista aktów →](prawo-konstytucyjne/README.md) (1 z orzecznictwem) |
 | [Prawo morskie](prawo-morskie/README.md) | 6 | [Pełna lista aktów →](prawo-morskie/README.md) (2 z orzecznictwem) |
-| [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 48 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (9 z orzecznictwem) |
-| [Prawo podatkowe](prawo-podatkowe/README.md) | 169 | [Pełna lista aktów →](prawo-podatkowe/README.md) (28 z orzecznictwem) |
-| [Prawo pracy](prawo-pracy/README.md) | 50 | [Pełna lista aktów →](prawo-pracy/README.md) (19 z orzecznictwem) |
+| [Prawo ochrony środowiska](prawo-ochrony-srodowiska/README.md) | 50 | [Pełna lista aktów →](prawo-ochrony-srodowiska/README.md) (9 z orzecznictwem) |
+| [Prawo podatkowe](prawo-podatkowe/README.md) | 173 | [Pełna lista aktów →](prawo-podatkowe/README.md) (29 z orzecznictwem) |
+| [Prawo pracy](prawo-pracy/README.md) | 51 | [Pełna lista aktów →](prawo-pracy/README.md) (20 z orzecznictwem) |
 | [Prawo telekomunikacyjne](prawo-telekomunikacyjne/README.md) | 6 | [Pełna lista aktów →](prawo-telekomunikacyjne/README.md) (2 z orzecznictwem) |
 | [Prawo upadłościowe](prawo-upadlosciowe/README.md) | 14 | [Pełna lista aktów →](prawo-upadlosciowe/README.md) (4 z orzecznictwem) |
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
-| [Inne](inne/README.md) | 12652 | [Pełna lista aktów →](inne/README.md) (985 z orzecznictwem) |
+| [Inne](inne/README.md) | 12900 | [Pełna lista aktów →](inne/README.md) (1033 z orzecznictwem) |
 
 <!-- STATS:START -->
 ## Statystyki
@@ -84,22 +84,24 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 
 | | Wartość |
 |---|---:|
-| Opublikowane akty | **13,321** |
-| Odrzucone (jakość) | 857 |
-| Artykuły | 191,757 |
-| Znaki treści | 458.4M |
-| Śr. znaków/akt | 34,409 |
-| Śr. artykułów/akt | 14.4 |
+| Opublikowane akty | **13,591** |
+| Odrzucone (jakość) | 495 |
+| Artykuły | 192,290 |
+| Znaki treści | 458.2M |
+| Śr. znaków/akt | 33,716 |
+| Śr. artykułów/akt | 14.1 |
 
 **Źródła danych:**
 
-- ISAP PDF: 12,763 (96%)
-- ELI HTML: 512 (4%)
+- ISAP PDF: 13,127 (97%)
+- ELI HTML: 418 (3%)
 - unknown: 46 (0%)
 
-*Odrzucone: 99 skanów bez OCR, 666 zablokowanych przez bramkę jakości, 758 inne*
+*Odrzucone: 0 skanów bez OCR, 397 zablokowanych przez bramkę jakości, 495 inne*
 
-*Ostatnia aktualizacja: 2026-05-18*
+*Od 2026-05-18: +270 aktów*
+
+*Ostatnia aktualizacja: 2026-05-25*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -110,4 +112,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*13321 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-18*
+*13591 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-25*

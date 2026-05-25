@@ -667,7 +667,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 § 1. Sąd okręgowy orzeka w pierwszej instancji w sprawach o następujące przestępstwa:
 
 - **1)** o zbrodnie określone w Kodeksie karnym oraz w ustawach szczególnych;
-- **2)** o występki określone w rozdziałach XVI i XVII oraz w art. 140–142, art. 148 § 4 i 5, art. 148a, art. 149, art. 150 § 1, art. 151–154, art. 158 § 3, art. 163 § 3 i 4, art. 165 § 1, 3 i 4, art. 166 § 1, art. 173 § 3 i 4, art. 185 § 2, art. 189a § 2, art. 210 § 2, art. 211a, art. 252 § 3, art. 258 § 1–3, art. 265 § 1 i 2, art. 269, art. 278 § 1, 2 i 3a w zw. z art. 294 § 1 lub 2, art. 284 § 1 i 2 w zw. z art. 294 § 1 lub 2, art. 286 § 1 w zw. z art. 294 § 1 lub 2, art. 287 § 1 w zw. z art. 294 § 1 lub 2, art. 296 § 3 oraz art. 299 Kodeksu karnego;
+- **2)** o występki określone w rozdziałach XVI i XVII oraz w art. 140‒142, art. 148 § 4 i 5, art. 148a, art. 149, art. 150 § 1, art. 151‒154, art. 158 § 3, art. 163 § 3 i 4, art. 165 § 1, 3 i 4, art. 166 § 1, art. 173 § 3 i 4, art. 185 § 2, art. 189a § 2, art. 210 § 2, art. 211a, art. 228 § 6, art. 229 § 5, art. 252 § 3, art. 258 § 1‒3, art. 265 § 1 i 2, art. 269, art. 278 § 1, 2 i 3a w związku z art. 294 § 1 lub 2, art. 284 § 1 i 2 w związku z art. 294 § 1 lub 2, art. 286 § 1 w związku z art. 294 § 1 lub 2, art. 287 § 1 w związku z art. 294 § 1 lub 2, art. 296 § 3 oraz art. 299 Kodeksu karnego;
 - **3)** o występki, które z mocy przepisu szczególnego należą do właściwości sądu okręgowego.
 
 § 2. Sąd apelacyjny, na wniosek sądu rejonowego, może przekazać do rozpoznania sądowi okręgowemu, jako sądowi pierwszej instancji, sprawę o każde przestępstwo, ze względu na szczególną wagę lub zawiłość sprawy.
@@ -2172,7 +2172,9 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1a. W razie potrzeby prokurator, inny organ prowadzący postępowanie przygotowawcze lub sąd uzyskuje informację z systemu teleinformatycznego ministra właściwego do spraw finansów publicznych dotyczącą stosunków majątkowych i źródeł dochodu oskarżonego, w tym prowadzonych i zakończonych postępowań podatkowych, na podstawie aktualnych danych znajdujących się w tym systemie. Informację uzyskuje się drogą elektroniczną.
 
-§ 1b. W postępowaniu w sprawach o przestępstwa w ruchu lądowym określone w rozdziale XXI Kodeksu karnego należy także uzyskać informacje z centralnej ewidencji kierowców oraz z ewidencji kierowców naruszających przepisy ruchu drogowego prowadzonej przez Policję, dotyczące oskarżonego. Jeżeli od sporządzenia tych informacji upłynął okres 6 miesięcy, należy uzyskać je ponownie. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.> § 2a. Jeżeli organ prowadzący postępowanie powziął informację o prawomocnym skazaniu, przepis § 2 stosuje się odpowiednio do orzeczeń skazujących wydanych przez sąd innego państwa członkowskiego Unii Europejskiej.
+§ 1b. W postępowaniu w sprawach o przestępstwa w ruchu lądowym określone w rozdziale XXI Kodeksu karnego należy także uzyskać informacje z centralnej ewidencji kierowców oraz z ewidencji kierowców naruszających przepisy ruchu drogowego prowadzonej przez Policję, dotyczące oskarżonego. Jeżeli od sporządzenia tych informacji upłynął okres 6 miesięcy, należy uzyskać je ponownie.
+
+§ 1c. Na potrzeby ustalenia, a także potwierdzenia lub weryfikacji tożsamości oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/816 z dnia 17 kwietnia 2019 r. ustanawiającego scentralizowany system służący do ustalania państw członkowskich posiadających informacje o wyrokach skazujących wydanych wobec obywateli państw trzecich i bezpaństwowców (ECRIS-TCN) na potrzeby uzupełnienia europejskiego systemu przekazywania informacji z rejestrów karnych oraz zmieniającego rozporządzenie (UE) 2018/1726 (Dz. Urz. UE L 135 z 22.05.2019, str. 1, z późn. zm. ), zwanego dalej „rozporządzeniem 2019/816”, należy od niego pobrać odciski linii papilarnych oraz przekazać je wraz z jego danymi osobowymi do zbiorów danych daktyloskopijnych prowadzonych przez Komendanta Głównego Policji. Nadany karcie daktyloskopijnej numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 000), zamieszcza się w aktach postępowania. Przepis art. 74 § 2 pkt 1 i § 3a stosuje się odpowiednio. [§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania odpis lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.] <§ 2. Jeżeli podejrzany był już prawomocnie skazany, dla ustalenia, czy przestępstwo zostało popełnione w warunkach art. 64 lub art. 64a Kodeksu karnego lub przestępstwo skarbowe – w warunkach art. 37 § 1 pkt 4 Kodeksu karnego skarbowego, dołącza się do akt postępowania kopię lub wyciąg wyroku oraz dane dotyczące odbycia kary. Dokumenty te dołącza się także w sprawach o zbrodnie.> § 2a. Jeżeli organ prowadzący postępowanie powziął informację o prawomocnym skazaniu, przepis § 2 stosuje się odpowiednio do orzeczeń skazujących wydanych przez sąd innego państwa członkowskiego Unii Europejskiej.
 
 § 3. (uchylony) § 4. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wzór i szczegółowy zakres informacji, o której mowa w § 1a, oraz sposób postępowania w celu jej uzyskania, mając na względzie potrzebę uzyskania przez organ postępowania danych niezbędnych do realizacji celów procesu, zachowanie wymogów tajemnicy ustawowo chronionej oraz okresy rozliczeniowe przyjęte dla poszczególnych zobowiązań podatkowych.
 
@@ -3395,7 +3397,8 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Akt oskarżenia powinien zawierać:
 
-- **1)** imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego; <1a) informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;>
+- **1)** imię i nazwisko oskarżonego, inne dane o jego osobie, w tym numer telefonu, telefaksu i adres poczty elektronicznej lub informację o ich nieposiadaniu przez oskarżonego lub niemożności ich ustalenia, dane o zastosowaniu środka zapobiegawczego oraz zabezpieczenia majątkowego; <1a) informację o złożonym przez oskarżonego oświadczeniu o wyrażeniu zgody na dokonywanie doręczeń na adres do doręczeń elektronicznych wraz z podaniem tego adresu albo o braku takiej zgody;> 1b) numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo informację o niemożności jego ustalenia – w przypadku oskarżonego będącego obywatelem państwa trzeciego w rozumieniu art. 3 pkt 7 rozporządzenia 2019/816;
+- **1c)** numer rejestracyjny zbioru automatycznie przetwarzającego dane daktyloskopijne, o którym mowa w art. 21h ust. 1 pkt 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, o ile oskarżyciel nim dysponuje – w przypadku oskarżonego będącego obywatelem państwa członkowskiego Unii Europejskiej, o którym mowa w art. 2 rozporządzenia 2019/816;
 - **2)** dokładne określenie zarzucanego oskarżonemu czynu ze wskazaniem czasu, miejsca, sposobu i okoliczności jego popełnienia oraz skutków, a zwłaszcza wysokości powstałej szkody;
 - **3)** wskazanie, że czyn został popełniony w warunkach wymienionych w art. 64, art. 64a lub art. 65 Kodeksu karnego albo art. 37 § 1 Kodeksu karnego skarbowego;
 - **4)** wskazanie przepisów ustawy karnej, pod które zarzucany czyn podpada;
@@ -3447,7 +3450,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 § 1. Jeżeli spełnione są przesłanki uzasadniające warunkowe umorzenie postępowania, prokurator może zamiast aktu oskarżenia sporządzić i skierować do sądu wniosek o takie umorzenie.
 
-§ 2. Do wniosku stosuje się odpowiednio przepisy art. 332 § 1 pkt 1, 2, 4 i 5. Uzasadnienie wniosku można ograniczyć do wskazania dowodów świadczących o tym, że wina oskarżonego nie budzi wątpliwości, a ponadto okoliczności przemawiających za warunkowym umorzeniem.
+§ 2. Do wniosku stosuje się odpowiednio przepisy art. 332 § 1 pkt 1, 1b, 1c, 2, 4 i 5. Uzasadnienie wniosku można ograniczyć do wskazania dowodów świadczących o tym, że wina oskarżonego nie budzi wątpliwości, a ponadto okoliczności przemawiających za warunkowym umorzeniem.
 
 § 3. Prokurator może wskazać proponowany okres próby, obowiązki, które należy nałożyć na oskarżonego i, stosownie do okoliczności, wnioski co do dozoru.
 
@@ -4878,7 +4881,7 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 529.**
 
-- **9)** Wniesieniu i rozpoznaniu kasacji na korzyść oskarżonego nie stoi na przeszkodzie wykonanie kary, zatarcie skazania, akt łaski ani też okoliczność wyłączająca ściganie lub uzasadniająca zawieszenie postępowania.
+- **10)** Wniesieniu i rozpoznaniu kasacji na korzyść oskarżonego nie stoi na przeszkodzie wykonanie kary, zatarcie skazania, akt łaski ani też okoliczność wyłączająca ściganie lub uzasadniająca zawieszenie postępowania.
 
 **Art. 530.**
 
@@ -6818,5 +6821,5 @@ Art. 611wj. Koszty związane z wykonaniem nakazu ponosi Skarb Państwa.
 
 **Art. 673.** W kwestii wznowienia postępowania orzeka w składzie trzech sędziów wojskowy sąd okręgowy, a w sprawach zakończonych orzeczeniem tego sądu lub Sądu Najwyższego – Sąd Najwyższy.
 
-#### Rozdział 75
+#### Rozdział 75 (zawierający art. 674–682 – uchylony)
 

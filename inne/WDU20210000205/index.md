@@ -22,7 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-01-26 |
 | Data wydania | 2021-01-29 |
-| Ostatnia zmiana | 2024-03-14 |
+| Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000205) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/205/text.pdf) |
 
 1. Rozporządzenie określa:

@@ -11,5 +11,41 @@
       "unknown": 46
     },
     "manual": 0
+  },
+  {
+    "date": "2026-05-23",
+    "published": 13831,
+    "rejected": 256,
+    "total_body_chars": 472091514,
+    "total_articles": 193004,
+    "sources": {
+      "isap-pdf": 13365,
+      "eli-html": 420,
+      "unknown": 46
+    }
+  },
+  {
+    "date": "2026-05-24",
+    "published": 13812,
+    "rejected": 275,
+    "total_body_chars": 469225069,
+    "total_articles": 193078,
+    "sources": {
+      "isap-pdf": 13346,
+      "eli-html": 420,
+      "unknown": 46
+    }
+  },
+  {
+    "date": "2026-05-25",
+    "published": 13591,
+    "rejected": 495,
+    "total_body_chars": 458239478,
+    "total_articles": 192290,
+    "sources": {
+      "isap-pdf": 13127,
+      "eli-html": 418,
+      "unknown": 46
+    }
   }
 ]

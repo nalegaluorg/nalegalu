@@ -2,7 +2,7 @@
 
 Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 
-Łącznie: **48** aktów
+Łącznie: **50** aktów
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
@@ -19,6 +19,7 @@ Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 | [WDU20220001260](WDU20220001260/index.md) | Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy - Prawo ochrony środowiska | Ustawa | obowiązujący |  |
 | [WDU20210002127](WDU20210002127/index.md) | Ustawa z dnia 1 października 2021 r. o zmianie ustawy - Prawo ochrony środo | Ustawa | obowiązujący |  |
 | [WDU20210001648](WDU20210001648/index.md) | Ustawa z dnia 11 sierpnia 2021 r. o zmianie ustawy o utrzymaniu czystości i | Ustawa | obowiązujący |  |
+| [WDU20200001657](WDU20200001657/index.md) | Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowej z dnia 10 | Rozporządzenie | obowiązujący |  |
 | [WDU20190000412](WDU20190000412/index.md) | Ustawa z dnia 21 lutego 2019 r. zmieniająca ustawę o zmianie ustawy o podat | Ustawa | obowiązujący |  |
 | [WDU20190002170](WDU20190002170/index.md) | Ustawa z dnia 11 września 2019 r. o zmianie ustawy - Prawo wodne oraz niekt | Ustawa | obowiązujący |  |
 | [WDU20190002166](WDU20190002166/index.md) | Ustawa z dnia 16 października 2019 r. o zmianie ustawy - Prawo ochrony środ | Ustawa | obowiązujący |  |
@@ -52,7 +53,8 @@ Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 | [WDU20031901865](WDU20031901865/index.md) | Ustawa z dnia 3 października 2003 r. o zmianie ustawy - Prawo ochrony środo | Ustawa | obowiązujący |  |
 | [WDU20031751693](WDU20031751693/index.md) | Ustawa z dnia 29 sierpnia 2003 r. o zmianie ustawy o restrukturyzacji finan | Ustawa | obowiązujący |  |
 | [WDU20022331957](WDU20022331957/index.md) | Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
+| [WDU20021431196](WDU20021431196/index.md) | Ustawa z dnia 18 lipca 2002 r. o zmianie ustawy o wprowadzeniu ustawy - Pra | Ustawa | obowiązujący |  |
 | [WDU20010620627](WDU20010620627/index.md) | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010620627/orzecznictwo.md) |
 | [WDU20011001085](WDU20011001085/index.md) | Ustawa z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środow | Ustawa | obowiązujący | [tak](WDU20011001085/orzecznictwo.md) |
 
-*48 aktów • [← Powrót do spisu głównego](../README.md)*
+*50 aktów • [← Powrót do spisu głównego](../README.md)*

@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-06 |
 | Data wydania | 2009-01-12 |
-| Ostatnia zmiana | 2026-05-13 |
+| Ostatnia zmiana | 2026-05-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090030011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/11/text.pdf) |
 
 Właściwość organów podatkowych
