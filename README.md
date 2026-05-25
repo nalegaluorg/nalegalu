@@ -77,6 +77,30 @@ Dane aktualizują się automatycznie. Najnowszą wersję można pobrać jako [ZI
 | [Prawo zamówień publicznych](prawo-zamowien/README.md) | 19 | [Pełna lista aktów →](prawo-zamowien/README.md) (7 z orzecznictwem) |
 | [Inne](inne/README.md) | 12900 | [Pełna lista aktów →](inne/README.md) (1033 z orzecznictwem) |
 
+## Bramka jakości
+
+Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokumenty z wykrytymi problemami są blokowane do czasu naprawy.
+
+| Kontrola | Opis | Próg |
+|----------|------|------|
+| CID font | Uszkodzone glify — plik PDF używa wewnętrznych identyfikatorów znaków zamiast tekstu | dowolne wystąpienie `(cid:N)` |
+| Null bytes | Bajty zerowe w pliku wyjściowym | dowolne wystąpienie |
+| Pusty dokument | Treść zbyt krótka po ekstrakcji | < 50 znaków |
+| PostScript CE | Pozostałości kodowania PostScript CE — zniekształcone polskie znaki diakrytyczne | 1 wzorzec |
+| Mojibake | UTF-8 odczytane jako Latin-1 — ciągi typu `Ä\u0085`, `Ã³` | 3+ wystąpienia |
+| Brak diakrytyków | Tekst prawny bez polskich znaków diakrytycznych (ą, ę, ś, ć...) | < 0.5% liter to diakrytyki (dla tekstów > 500 znaków) |
+| Rozstrzelony tekst | Litery rozdzielone spacjami (artefakt OCR, np. `A r t 77`) | dowolna linia z > 30% jednoliterowych słów |
+| Śmieci tabelaryczne | Linie z dużą ilością znaków pipe i slash — wynik ekstrakcji grafik i tabel z PDF | 3+ linie z > 25% tych znaków |
+| Nagłówek PDF | Nagłówek `©Kancelaria Sejmu` przedostał się do treści | dowolne wystąpienie |
+| Znacznik daty | Stopka z datą (np. `05/21/99`) na osobnej linii | dowolne wystąpienie |
+| Powtórzenia | Ta sama linia (> 20 znaków) powtarza się wielokrotnie — prawdopodobnie nagłówek/stopka PDF | > 20 powtórzeń |
+
+## Testy
+
+**PASSED** — 96 tests — 96 passed, 0 failed, 0 errors, 33 skipped
+
+Ostatni przebieg: 2026-05-25 21:53 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+
 <!-- STATS:START -->
 ## Statystyki
 
