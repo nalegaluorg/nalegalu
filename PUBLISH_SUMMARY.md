@@ -1,6 +1,6 @@
 # Publish Summary
 
-Generated: 2026-05-25 21:57 UTC
+Generated: 2026-05-26 03:52 UTC
 
 ## Stats
 
@@ -17,10 +17,10 @@ Generated: 2026-05-25 21:57 UTC
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 13812 | 13591 | -221 |
-| Rejected | 275 | 495 | +220 |
-| Articles | 193078 | 192290 | -788 |
-| Body chars | 469,225,069 | 458,239,478 | -10985591 |
+| Published | 13591 | 13591 | 0 |
+| Rejected | 495 | 495 | 0 |
+| Articles | 192290 | 192290 | 0 |
+| Body chars | 458,239,478 | 458,239,478 | 0 |
 
 ## Quality gate breakdown
 

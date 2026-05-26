@@ -99,7 +99,7 @@ Każdy akt przed publikacją przechodzi automatyczną kontrolę jakości. Dokume
 
 **PASSED** — 96 tests — 96 passed, 0 failed, 0 errors, 33 skipped
 
-Ostatni przebieg: 2026-05-25 21:53 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
+Ostatni przebieg: 2026-05-25 21:56 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESULTS.md).
 
 <!-- STATS:START -->
 ## Statystyki
@@ -125,7 +125,7 @@ Ostatni przebieg: 2026-05-25 21:53 UTC. Szczegóły: [TEST_RESULTS.md](TEST_RESU
 
 *Od 2026-05-18: +270 aktów*
 
-*Ostatnia aktualizacja: 2026-05-25*
+*Ostatnia aktualizacja: 2026-05-26*
 <!-- STATS:END -->
 
 ## Zakres i ograniczenia
@@ -136,4 +136,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*13591 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-25*
+*13591 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-26*

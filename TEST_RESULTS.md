@@ -1,7 +1,7 @@
 # Test Results
 
 **Status:** PASSED
-**Run:** 2026-05-25 21:56 UTC
+**Run:** 2026-05-26 03:51 UTC
 **Scope:** unit
 **Total:** 96 tests — 96 passed, 0 failed, 0 errors, 33 skipped
 
@@ -173,5 +173,5 @@ tests/test_saos.py::TestCrossRef::test_parse_article_with_superscript PASSED [ 9
 tests/test_saos.py::TestCrossRef::test_parse_no_articles PASSED          [ 99%]
 tests/test_saos.py::TestCrossRef::test_render_crossref_md PASSED         [100%]
 
-======================== 96 passed, 33 skipped in 0.20s ========================
+======================== 96 passed, 33 skipped in 0.17s ========================
 ```

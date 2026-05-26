@@ -47,5 +47,17 @@
       "eli-html": 418,
       "unknown": 46
     }
+  },
+  {
+    "date": "2026-05-26",
+    "published": 13591,
+    "rejected": 495,
+    "total_body_chars": 458239478,
+    "total_articles": 192290,
+    "sources": {
+      "isap-pdf": 13127,
+      "eli-html": 418,
+      "unknown": 46
+    }
   }
 ]
