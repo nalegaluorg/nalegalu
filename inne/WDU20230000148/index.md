@@ -25,12 +25,12 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/148/text.pdf) |
 
-1. Na podstawie 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 6 lipca 2016 od sprzedaży detalicznej (Dz. 761), uwzględnieniem zmiany wprowadzonej ustawą zmianie akcyzowym oraz niektórych innych ustaw (Dz. 2707) oraz zmian wynikających przepisów ogłoszonych przed dniem 11 stycznia
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 19 24 zmianie akcyzowym oraz niektórych innych ustaw (Dz. 2707), które stanowią: „Art. 19. 1. W okresie od stycznia do 30 czerwca sprzedawca dokonujący sprzedaży paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od stycznia do 30 czerwca sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
+1. Na podstawie 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 6 lipca 2016 od sprzedaży detalicznej (Dz. 2022 761), uwzględnieniem zmiany wprowadzonej ustawą 2022 zmianie akcyzowym oraz niektórych innych ustaw (Dz. 2707) oraz zmian wynikających przepisów ogłoszonych przed dniem 11 stycznia
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 19 24 2022 zmianie akcyzowym oraz niektórych innych ustaw (Dz. 2707), które stanowią: „Art. 19. 1. W okresie od stycznia do 30 czerwca sprzedawca dokonujący sprzedaży paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od stycznia 2022 do 30 czerwca sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
 2. Rada Ministrów udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego ją urzędu wzór informacji, której mowa ust. 1.” „Art. 24. Ustawa wchodzi życie dniem stycznia r., wyjątkiem:
-1) 17, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 7 lipca r.;
+1) 17, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od 7 lipca 2022 r.;
 2) 10, który wchodzi życie dniem następującym po dniu ogłoszenia;
-3) pkt 30, 3, 4 pkt 2–4, 6, 8, 9, 11, 12, 13 pkt 1, 14, 15 19, które wchodzą życie dniem 31 r.;
+3) pkt 30, 3, 4 pkt 2–4, 6, 8, 9, 11, 12, 13 pkt 1, 14, 15 19, które wchodzą życie dniem 31 2022 r.;
 4) pkt 5 lit. b zakresie 21 ust. 3 pkt 5, pkt 15 pkt 24, 2 oraz 16 pkt 1–3, które wchodzą życie dniem 13 lutego r.”.
 Marszałek Sejmu: E. Witek
 
@@ -60,7 +60,7 @@ Marszałek Sejmu: E. Witek
 
 5. Przychód osiągnięty danym miesiącu pomniejsza się kwoty wypłacone tym miesiącu tytułu zwrotu towarów po odliczeniu od towarów usług.
 
-- **3)** używanych do celów opałowych pozostałych węglowodorów gazowych, których mowa 32 ust. pkt 3 6 2008 akcyzowym (Dz. 143, późn. zm. ):
+- **3)** używanych do celów opałowych pozostałych węglowodorów gazowych, których mowa 32 ust. pkt 3 6 2008 akcyzowym (Dz. 2022 143, późn. zm. ):
     - **a)** przypadkach, których mowa 32 ust. 3 pkt 3 6 2008 akcyzowym, jeżeli są spełnione warunki, których mowa 32 ust. 5–13 tej ustawy,
     - **b)** rozlewanych do butli gazowych składzie podatkowym;
 
@@ -98,7 +98,7 @@ Marszałek Sejmu: E. Witek
 
 **Art. 11a.** Przepisy stosuje się do przychodów ze sprzedaży detalicznej osiągniętych od stycznia 2021
 
-**Art. 11b.** W okresie od stycznia do 30 czerwca nie podlega opodatkowaniu podatkiem sprzedaż detaliczna:
+**Art. 11b.** W okresie od stycznia 2022 do 30 czerwca nie podlega opodatkowaniu podatkiem sprzedaż detaliczna:
 
 **Art. 12.** Ustawa wchodzi życie dniem września 2016
 

@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-31 |
 | Data wydania | 2019-10-08 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2019-11-09 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1901/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -296,8 +297,8 @@ source: "isap-pdf"
 1. Środki Funduszu Żeglugi Śródlądowej pochodzą z:
 
 - **1)** dotacji z Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej;
-- **2)** odsetek z tytułu oprocentowania środków Funduszu Żeglugi Śródlądowej oraz odsetek od lokat bankowych okresowo wolnych środków Funduszu Żeglugi Śródlądowej;
-- **3)** przychodów z inwestycji okresowo wolnych środków Funduszu Żeglugi Śródlądowej w papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski oraz papiery wartościowe określające świadczenia pieniężne gwarantowane lub poręczane przez Skarb Państwa lub Narodowy Bank Polski;
+- **2)** odsetek od wolnych środków Funduszu Żeglugi Śródlądowej przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
+- **3)** (uchylony)
 - **4)** odsetek od kredytów preferencyjnych udzielanych ze środków Funduszu Żeglugi Śródlądowej;
 - **5)** darowizn i zapisów;
 - **6)** wpływów z innych tytułów.
@@ -333,12 +334,11 @@ source: "isap-pdf"
 
 2. Umorzenia części kredytów preferencyjnych następują w ciężar środków Funduszu Żeglugi Śródlądowej.
 
-3. Okresowo wolne środki Funduszu Żeglugi Śródlądowej mogą być:
+3. (uchylony)
 
-- **1)** lokowane w innych bankach;
-- **2)** inwestowane w papiery wartościowe, o których mowa w art. 23 ust. 1 pkt 3.
+4. (uchylony)
 
-4. Suma okresowo wolnych środków lokowanych w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie nie może przekroczyć 25% wszystkich wolnych środków Funduszu Żeglugi Śródlądowej.
+5. Wolne środki Funduszu Żeglugi Śródlądowej w walutach obcych mogą być lokowane w bankach.
 
 **Art. 26.** Nadzór nad gospodarowaniem środkami Funduszu Żeglugi Śródlądowej sprawuje Rada Nadzorcza BGK.
 
@@ -407,9 +407,12 @@ source: "isap-pdf"
 
 - **1)** ze składek specjalnych, o których mowa w rozporządzeniu 718/1999, zwanych dalej „składkami specjalnymi”;
 - **2)** z wpłat z Funduszu Żeglugi Śródlądowej;
+- **2a)** z odsetek od wolnych środków Funduszu Rezerwowego przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **3)** z innych źródeł.
 
 2. W przypadku braku środków finansowych wystarczających do realizacji zadań wynikających z planu finansowego Funduszu Rezerwowego BGK dokonuje wypłaty środków finansowych z Funduszu Żeglugi Śródlądowej w wysokościach i terminach określonych w jego planie finansowym na Fundusz Rezerwowy.
+
+3. Wolne środki Funduszu Rezerwowego w walutach obcych mogą być lokowane w bankach.
 
 **Art. 35.**
 

@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-03-31 |
 | Data wydania | 2020-03-31 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2020-03-31 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200000568) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/568/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 374 i
@@ -1492,6 +1493,7 @@ source: "isap-pdf"
 - **2)** środków, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, które za zgodą Komisji Europejskiej mogą zostać przeznaczone na wsparcie realizacji zadań związanych z przeciwdziałaniem COVID-19;
 - **3)** wpłat z budżetu państwa, w tym budżetu środków europejskich;
 - **4)** wpływów ze skarbowych papierów wartościowych, o których mowa w art. 66;
+- **4a)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **5)** środków z zaciągniętych kredytów lub wyemitowanych obligacji, o których mowa w art. 67 ust. 3;
 - **5a)** przekazania środków zgromadzonych z tytułu odpisu na Fundusz w rozumieniu art. 2 pkt 10 ustawy z dnia 27 października 2022 r. o środkach nadzwyczajnych mających na celu ograniczenie wysokości cen energii elektrycznej oraz wsparciu niektórych odbiorców w 2023 roku oraz w 2024 roku (Dz. U. poz. 2243), zwanej dalej „ustawą o środkach nadzwyczajnych, zgodnie z art. 24 ust. 4 tej ustawy oraz środków zgormadzonych z tytułu wpłat składki solidarnościowej, w której mowa w art. 29a ust. 1 tej ustawy”;
 - **5b)** przekazania środków zgromadzonych z tytułu gazowego odpisu na Fundusz, o którym mowa w art. 2 pkt 4 ustawy z dnia 15 grudnia 2022 r. o szczególnej ochronie niektórych odbiorców paliw gazowych w 2023 r. oraz w 2024 r. w związku z sytuacją na rynku gazu (Dz. U. poz. 2687), zgodnie z art. 26 ust. 4 tej ustawy;
@@ -1595,14 +1597,9 @@ source: "isap-pdf"
 
 25. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu oraz podstawę do zaciągnięcia kredytów oraz przeprowadzenia emisji obligacji, o których mowa w art. 67 ust. 3.
 
-26. Okresowo wolne środki Funduszu Bank Gospodarstwa Krajowego może lokować w:
+26. (uchylony)
 
-- **1)** innych bankach;
-- **2)** w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
-- **3)** papiery wartościowe emitowane lub gwarantowane przez Skarb Państwa;
-- **4)** papiery wartościowe emitowane przez Narodowy Bank Polski.
-
-27. Suma lokat, o których mowa w ust. 26, w jednym banku lub grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 25% okresowo wolnych środków Funduszu.
+27. (uchylony) 27a. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 28. W celu przeciwdziałania skutkom społeczno-gospodarczym COVID-19 Rada Ministrów może określić, w drodze uchwały, zasady rozdziału i przekazywania wsparcia na inwestycyjne zadania dla jednostek samorządu terytorialnego, zakres, sposób i termin przedstawiania informacji o wykorzystaniu wsparcia oraz wskazać dysponenta części budżetowej lub ministra kierującego określonym działem administracji rządowej zgodnie z ustawą z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2020 r. poz. 1220) do udzielenia tego wsparcia.
 
@@ -1759,12 +1756,14 @@ source: "isap-pdf"
 
 - **1)** opłat prowizyjnych za poręczenia i gwarancje finansowane ze środków FGP;
 - **2)** wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji finansowanej ze środków FGP;
-- **3)** odsetek z tytułu oprocentowania środków FGP;
+- **3)** odsetek od wolnych środków FGP przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **4)** środków z budżetu państwa przekazywanych przez ministra właściwego do spraw finansów publicznych w wysokości umożliwiającej pokrycie kosztów i wydatków, o których mowa w ust. 2, i które nie znajdują pokrycia ze środków, o których mowa w pkt 1–3 oraz 5–7;
 - **5)** darowizn i zapisów;
 - **6)** środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji na rzecz FGP przez Bank Gospodarstwa Krajowego;
 - **6a)** środków z Funduszu, o którym mowa w art. 65 ust. 1;
 - **7)** wpływów z innych tytułów.
+
+4. Wolne środki FGP w walutach obcych mogą być lokowane w bankach.
 
 **Art. 71.**
 

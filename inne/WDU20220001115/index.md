@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# Agencji Wywiadu, Kontrwywiadu Wojskowego, Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Ochrony Państwa, Państwowej Straży Pożarnej, Celno-Skarbowej Więziennej ich rodzin niektórych innych ustaw
+# Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej ich rodzin niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-26 |
+| Wejście w życie | 2022-06-10 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001115) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1115/text.pdf) |
 
 **Art. 1.** W ustawie 10 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. U. 2022 520 655) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Kontrwywiadu Wojskowego, Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Ochrony Państwa, Państwowej Straży Pożarnej, Celno-Skarbowej Więziennej ich rodzin (Dz. U. 2020 723 2320 2021 2333, 2448 2490) wprowadza następujące zmiany:
+**Art. 2.** W ustawie 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej ich rodzin (Dz. U. 2020 723 2320 2021 2333, 2448 2490) wprowadza następujące zmiany:
 
 **Art. 5.** W ustawie 24 sierpnia 1991 Państwowej Straży Pożarnej (Dz. U. 2021 1940 2490) 97e ust. 6 pkt 3 otrzymuje brzmienie: „3) przeciwko któremu wszczęto postępowanie karne sprawie przestępstwo umyślne ścigane oskarżenia publicznego lub umyślne przestępstwo skarbowe lub postępowanie dyscyplinarne – do czasu prawomocnego zakończenia tego postępowania;”.
 
@@ -55,7 +56,7 @@ source: "isap-pdf"
 
 4. Organ emerytalny, wydając decyzję kończącą postępowanie, którym mowa ust. 3, informuje osoby uprawnione możliwości złożenia wniosku, którym mowa ust. 1 lub 2.
 
-**Art. 12.** Funkcjonariuszom Celnej lub funkcjonariuszom Celno-Skarbowej, którzy zostali zwolnieni ze służby albo których stosunek służbowy został przekształcony albo wygasł okresie od 3 marca 2015 do wejścia życie niniejszej ustawy, przysługuje prawo do emerytury policyjnej na zasadach określonych 15d lub 15e ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą, przypadku gdy funkcjonariusz Celnej lub funkcjonariusz Celno-Skarbowej we wskazanym wyżej okresie spełniał przesłanki do nabycia prawa do emerytury określone 12 ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą.
+**Art. 12.** Funkcjonariuszom Służby Celnej lub funkcjonariuszom Służby Celno-Skarbowej, którzy zostali zwolnieni ze służby albo których stosunek służbowy został przekształcony albo wygasł okresie od 3 marca 2015 do wejścia życie niniejszej ustawy, przysługuje prawo do emerytury policyjnej na zasadach określonych 15d lub 15e ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą, przypadku gdy funkcjonariusz Służby Celnej lub funkcjonariusz Służby Celno-Skarbowej we wskazanym wyżej okresie spełniał przesłanki do nabycia prawa do emerytury określone 12 ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 13.** W stosunku do funkcjonariuszy, wobec których wydano decyzję odmowie przyznania świadczenia motywacyjnego albo decyzję stwierdzającą ustanie prawa do wypłaty tego świadczenia na podstawie 120a ust. 7 pkt 2 ustawy zmienianej 3, 117d ust. 6 pkt 2 ustawy zmienianej 4, 97e ust. 6 pkt 3 ustawy zmienianej 5, 208f ust. 5 pkt 2 ustawy zmienianej 8 albo 172b ust. 6 pkt 2 ustawy zmienianej 9, brzmieniu dotychczasowym, decyzję przyznaniu lub odmowie przyznania świadczenia motywacyjnego wydaje terminie 3 miesięcy od wejścia życie niniejszej ustawy. W przypadku wydania decyzji przyznaniu świadczenia motywacyjnego wypłata świadczenia następuje za okres od wejścia życie niniejszej ustawy.
 

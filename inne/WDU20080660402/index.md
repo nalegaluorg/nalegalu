@@ -22,10 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-03-18 |
 | Data wydania | 2008-04-21 |
+| Wejście w życie | 2008-05-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080660402) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/402/text.pdf) |
 
-**Art. 1.** W ustawie dnia 16 marca 2001 Biurze Ochrony Rządu (Dz. U. 2004 Nr 163, 1712 Nr 210, 2135 2006 Nr 711) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 16 marca 2001 Biurze Ochrony Rządu (Dz. U. 2004 163, 1712 210, 2135 2006 708 711) wprowadza się następujące zmiany:
 
 **Art. 60b.** Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, sumy ubezpieczenia, którym art. 60a, uwzględniając, że nie mogą być niższe niż świadczenie, którym art. 61.”;
 

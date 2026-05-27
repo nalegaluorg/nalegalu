@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# przerywania Uznając, że życie jest fundamentalnym dobrem człowieka, a troska życie zdrowie należy podstawowych obowiązków państwa, społeczeństwa obywatela; uznając prawo każdego odpowiedzialnego decydowania posiadaniu dzieci prawo dostępu informacji, edukacji, poradnictwa środków umożliwiających korzystanie tego prawa, stanowi się, co następuje:
+# rodziny, Uznając, że życie jest fundamentalnym dobrem człowieka, a troska życie zdrowie należy podstawowych obowiązków państwa, społeczeństwa obywatela; uznając prawo każdego odpowiedzialnego decydowania posiadaniu dzieci prawo dostępu informacji, edukacji, poradnictwa środków umożliwiających korzystanie tego prawa, stanowi się, co następuje:
 
 *USTAWA 7 stycznia 1993 r.*
 
@@ -23,6 +23,7 @@ source: "isap-pdf"
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 1993-01-07 |
+| Wejście w życie | 1993-03-14 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930170078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/78/text.pdf) |
 
@@ -90,7 +91,7 @@ source: "isap-pdf"
 
 **Art. 9.** Rada Ministrów przedkłada Sejmowi corocznie, terminie 31 lipca, sprawozdanie wykonywania skutkach jej stosowania.
 
-**Art. 10.** Traci moc ustawa 27 kwietnia 1956 r. przerywania (Dz. U. poz. 61 1969 r. poz. 95).
+**Art. 10.** Traci moc ustawa 27 kwietnia 1956 r. (Dz. U. poz. 61 1969 r. poz. 95).
 
 **Art. 11.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
 

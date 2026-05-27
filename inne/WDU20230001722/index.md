@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-08-29 |
+| Wejście w życie | 2023-09-13 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1722/text.pdf) |
 
@@ -43,13 +44,13 @@ source: "isap-pdf"
 
 3. Wójt (burmistrz, prezydent miasta) może złożyć wniosek wydanie najpóźniej do 31 grudnia 2035 r.
 
-4. W przypadku gdy co najmniej 2/3 właścicieli nieruchomości, których art. 3 ust. 1, stanowiących dojazd do co najmniej 10 zabudowanych, wystąpi do wójta (burmistrza, prezydenta miasta) złożenie wniosku, którym ust. 2, wójt (burmistrz, prezydent miasta) składa wniosek wydanie terminie 6 miesięcy wystąpienia wnioskiem przez właścicieli nieruchomości, których art. 3 ust. 1, albo wskazuje przyczyny, uwagi na które wniosek nie może być złożony.
+4. W przypadku gdy co najmniej 2/3 właścicieli nieruchomości, których art. 3 ust. 1, stanowiących dojazd do co najmniej 10 zabudowanych, wystąpi do wójta (burmistrza, prezydenta miasta) złożenie wniosku, którym ust. 2, wójt (burmistrz, prezydent miasta) składa wniosek wydanie terminie 6 miesięcy wystąpienia wnioskiem przez właścicieli nieruchomości, których art. 3 ust. 1, albo wskazuje przyczyny, uwagi na wniosek nie może być złożony.
 
 5. Wniosek, którym ust. 2, zawiera szczególności:
 
 - **1)** mapę skali 1:5000 albo większej przedstawiającą przebieg według stanu na dzień wejścia życie ustawy;
 - **2)** mapy projektami podziału nieruchomości, przypadku konieczności zatwierdzenia podziału nieruchomości, sporządzone zgodnie ustawą 21 sierpnia 1997 r. gospodarce nieruchomościami (Dz. U. 2023 r. poz. 344, 1113, 1463, 1506 1688) oraz ustawą 17 maja 1989 r. – Prawo geodezyjne kartograficzne; jej właściciela użytkownika wieczystego;
-- **7)** ujawnionych ograniczonych praw rzeczowych obciążających części wskazane zgodnie pkt 4;
+- **7)** wskazanie ujawnionych ograniczonych praw rzeczowych obciążających części wskazane zgodnie pkt 4;
 - **8)** dokumenty potwierdzające władanie przez gminę nieruchomościami objętymi wnioskiem co najmniej 20 lat do wejścia życie ustawy.
 
 6. Dokumentami, których ust. 5 pkt 8, są szczególności:
@@ -73,7 +74,7 @@ source: "isap-pdf"
 
 2. Zawiadomienie, którym ust. 1, zawiera szczególności:
 
-- **1)** części objętych wnioskiem, którym art. 4 ust. 2;
+- **1)** wskazanie części objętych wnioskiem, którym art. 4 ust. 2;
 - **2)** informację terminie miejscu, którym strony mogą zapoznać się aktami sprawy;
 - **3)** informację zakazie, którym ust. 4.
 

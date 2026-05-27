@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1981-07-31 |
 | Data wydania | 1981-08-12 |
+| Wejście w życie | 1981-09-01 |
 | Ostatnia zmiana | 2025-11-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19810200101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1981/101/text.pdf) |
 

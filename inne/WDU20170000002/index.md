@@ -22,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-02 |
 | Data wydania | 2017-01-02 |
+| Wejście w życie | 2017-03-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000002) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2/text.pdf) |
 
 1) 85 1 otrzymują brzmienie: „1. Kwoty najniższej renty tytułu niezdolności do pracy wynoszą:
-1) 1000,00 zł miesięcznie dla osób całkowicie niezdolnych do pracy;
-2) 750,00 zł miesięcznie dla osób częściowo niezdolnych do pracy.
+1) 1000,00 zł miesięcznie – dla osób całkowicie niezdolnych do pracy;
+2) 750,00 zł miesięcznie – dla osób częściowo niezdolnych do pracy.
 2. Kwota najniższej emerytury, zastrzeżeniem 24a 6, 54, 54a 87, renty rodzinnej wynosi 1000,00 zł miesięcznie.”;
 2) 88 otrzymuje brzmienie: „2. Waloryzacja polega na pomnożeniu kwoty świadczenia podstawy jego wymiaru przez wskaźnik waloryzacji. W wyniku przeprowadzonej waloryzacji kwota świadczenia nie może ulec obniżeniu.”.
 
@@ -62,16 +63,16 @@ source: "isap-pdf"
 - **1)** świadczenia ubezpieczenia emerytalno-rentowego, których 18 pkt 1–4 ustawy 20 1990 ubezpieczeniu społecznym rolników (Dz. U. 277 2043);
 - **2)** świadczenia, których pkt 1 lit. a–c ustawy 10 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin (Dz. U. 1037 2138);
 - **3)** świadczenia, których pkt 1 lit. a–c ustawy 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej ich rodzin (Dz. U. 708 2270);
-- **4)** emerytury renty, których 3 pkt 1–3 ustawy 17 1998 emeryturach rentach Fundurentach Funduszu Ubezpieczeń Społecznych niektórych innych ustaw (Dz. U. 637).
+- **4)** emerytury renty, których 3 pkt 1–3 ustawy 17 1998 rentach Fundurentach Funduszu Ubezpieczeń Społecznych niektórych innych ustaw (Dz. U. 637).
 
 2. Waloryzacji od 1 marca 2017 r., polegającej na pomnożeniu ich kwoty przez wskaźnik waloryzacji ustalony zgodnie 89 ustawy, której 1, podlegają:
 
-- **1)** dodatek, którym 90 1 ustawy 26 stycznia 1982 Karta Nauczyciela (Dz. U.
+- **1)** dodatek, którym 90 1 ustawy 26 stycznia 1982 – Karta Nauczyciela (Dz. U.
 - **1379)** ;
 - **2)** dodatek, którym 15 1 ustawy 24 stycznia 1991 kombatantach niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. U. 1255);
 - **3)** świadczenie pieniężne, którym 1 ustawy września 1994 świadczeniu pieniężnym uprawnieniach przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym kopalniach węgla, kamieniołomach, zakładach rud uranu batalionach budowlanych (Dz. U. 2014 1373);
 - **4)** świadczenie pieniężne, którym 3 1 ustawy 31 maja 1996 świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej osadzonym obozach pracy przez III Rzeszę Związek Socjalistycznych Republik Radzieckich (Dz. U. 2014 1001);
-- **5)** dodatki, których 75 76 ustawy 17 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych;
+- **5)** dodatki, których 75 76 ustawy 17 1998 rentach Funduszu Ubezpieczeń Społecznych;
 - **6)** świadczenie pieniężne, którym 9 1 ustawy 20 marca 2015 działaczach opozycji antykomunistycznej osobach represjonowanych powodów politycznych (Dz. U. 693 1220).
 
 **Art. 7.**

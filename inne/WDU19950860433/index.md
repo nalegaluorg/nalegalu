@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1995-06-22 |
 | Data wydania | 1995-07-26 |
+| Wejście w życie | 1995-08-09 |
 | Ostatnia zmiana | 2026-02-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19950860433) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/433/text.pdf) |
 

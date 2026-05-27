@@ -43,7 +43,7 @@ marszałek województwa;
 9) Prezes Państwowego Gospodarstwa Wodnego Wody Polskie.
 Organy określone 1 wykonują zadania organów egzekwowania prawa, których mowa 2 pkt 26 rozporządzenia (WE) nr 1221/2009, na podstawie zakresie określonych przepisach odrębnych.
 5. prowadzi rejestr organizacji zarejestrowanych systemie, zwany dalej „rejestrem EMAS”.
-Rejestr EMAS zawiera: numer rejestrze EMAS, składający się oznaczenia „PL”, spacji, oznaczenia województwa zgodnego nomenklaturą określoną przepisach wydanych na podstawie 40 2 ustawy 29 czerwca 1995 statystyce publicznej (Dz. U. 2022 poz. 459 830), poziomej kreski, trzycyfrowego numeru porządkowego właściwego dla województwa, którym mieści się siedziba organizacji, liczby porządkowej rejestru EMAS;
+Rejestr EMAS zawiera: numer rejestrze EMAS, składający się oznaczenia „PL”, spacji, oznaczenia województwa zgodnego nomenklaturą określoną przepisach wydanych na podstawie 40 2 ustawy czerwca 1995 statystyce publicznej (Dz. U. 2022 poz. 459 830), poziomej kreski, trzycyfrowego numeru porządkowego właściwego dla województwa, którym mieści się siedziba organizacji, liczby porządkowej rejestru EMAS;
 nazwę organizacji oznaczenie jej siedziby adresu;
 datę rejestracji organizacji rejestrze EMAS;
 4) datę weryfikacji walidacji;

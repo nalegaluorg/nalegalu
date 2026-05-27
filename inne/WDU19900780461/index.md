@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-10-12 |
 | Data wydania | 1990-11-19 |
+| Wejście w życie | 1990-11-19 |
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900780461) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/461/text.pdf) |
 

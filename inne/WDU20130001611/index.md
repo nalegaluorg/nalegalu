@@ -24,12 +24,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-11-08 |
 | Data wydania | 2013-12-20 |
+| Wejście w życie | 2014-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1611/text.pdf) |
 
-**Art. 1.** W ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. 1137, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 1137, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 21 grudnia 2000 o dozorze technicznym (Dz. 963 i 984) art. 44 ust. 1 pkt 6 kropkę zastępuje się przecinkiem i dodaje pkt 7 brzmieniu: „7) wykonywanie zadań określonych ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. 1137, późn. zm. ).”.
+**Art. 2.** W ustawie dnia 21 grudnia 2000 o dozorze technicznym (Dz. U. 963 i 984) art. 44 ust. 1 pkt 6 kropkę zastępuje się przecinkiem i dodaje pkt 7 brzmieniu: „7) wykonywanie zadań określonych ustawie dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. U. 1137, późn. zm. ).”.
 
 **Art. 3.** Do spraw przejętych przez Dyrektora Transportowego Dozoru Technicznego na podstawie niniejszej wszczętych a nie zakończonych przed dniem wejścia życie ustawy, stosuje się przepisy dotychczasowe, tym że sprawy prowadzi Dyrektor Transportowego Dozoru Technicznego.
 

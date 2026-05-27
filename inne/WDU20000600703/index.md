@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-06-29 |
 | Data wydania | 2000-07-27 |
+| Wejście w życie | 2000-07-27 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000600703) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/703/text.pdf) |
 

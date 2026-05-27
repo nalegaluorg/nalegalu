@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-12 |
 | Data wydania | 2022-03-12 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2022-03-12 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/583/text.pdf) |
 
 **Art. 1.** (uchylony)
@@ -80,6 +81,7 @@ source: "isap-pdf"
 - **3)** z wpłat z budżetu państwa;
 - **4)** z wpływów ze skarbowych papierów wartościowych, o których mowa w art. 15;
 - **5)** ze środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w art. 16 ust. 3;
+- **5a)** z odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **6)** z innych przychodów, w tym darowizn;
 - **7)** ze środków pochodzących ze źródeł zagranicznych niepodlegających zwrotowi, o których mowa w art. 5 ust. 1 pkt 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. [8) z odsetek od środków Funduszu pozostających na wydzielonych rachunkach bankowych, których obowiązek utworzenia wynika z obowiązujących przepisów lub umów, będących w dyspozycji kierownika jednostki organizacyjnej realizującej zadania finansowane ze środków Funduszu.]
 
@@ -172,7 +174,7 @@ source: "isap-pdf"
 
 32. Plan finansowy Funduszu stanowi podstawę dokonywania wypłat ze środków Funduszu, zaciągania kredytów i pożyczek oraz przeprowadzania emisji obligacji, o których mowa w art. 16 ust. 3.
 
-33. Okresowo wolne środki Funduszu w złotych Bank Gospodarstwa Krajowego lokuje w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych. Wolne środki Funduszu w walutach obcych Bank Gospodarstwa Krajowego może lokować w bankach.
+33. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 34. (uchylony)
 
@@ -288,11 +290,13 @@ source: "isap-pdf"
 
 - **1)** z opłat prowizyjnych za poręczenia i gwarancje finansowane ze środków FGK;
 - **2)** z wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji finansowanej ze środków FGK;
-- **3)** z odsetek z tytułu oprocentowania środków FGK;
+- **3)** z odsetek od wolnych środków FGK przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **4)** ze środków z budżetu państwa przekazywanych przez ministra właściwego do spraw finansów publicznych w wysokości umożliwiającej pokrycie kosztów i wydatków, o których mowa w ust. 2, i które nie znajdują pokrycia ze środków, o których mowa w pkt 1–3 oraz 5–7;
 - **5)** z darowizn i zapisów;
 - **6)** ze środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji na rzecz FGK przez Bank Gospodarstwa Krajowego;
 - **7)** z wpływów z innych tytułów.
+
+4. Wolne środki FGK w walutach obcych mogą być lokowane w bankach.
 
 **Art. 21c.**
 

@@ -1,43 +1,41 @@
 {
-  "generated_at": "2026-05-26T03:51:57Z",
+  "generated_at": "2026-05-27T02:04:10Z",
   "acts": {
-    "published": 13591,
-    "rejected": 495,
-    "total_in_db": 13988
+    "published": 5674,
+    "rejected": 38,
+    "total_in_db": 5712
   },
   "content": {
-    "total_body_chars": 458239478,
-    "total_articles": 192290,
-    "avg_body_chars": 33716,
-    "avg_articles": 14.1
+    "total_body_chars": 309593738,
+    "total_articles": 185787,
+    "avg_body_chars": 54563,
+    "avg_articles": 32.7
   },
   "sources": {
-    "isap-pdf": 13127,
-    "eli-html": 418,
-    "unknown": 46
+    "isap-pdf": 5674
   },
   "domains": {
-    "inne": 12900,
-    "prawo-podatkowe": 173,
-    "prawo-karne": 115,
-    "prawo-cywilne": 104,
-    "prawo-pracy": 51,
-    "prawo-ochrony-srodowiska": 50,
+    "inne": 5026,
+    "prawo-podatkowe": 149,
+    "prawo-karne": 113,
+    "prawo-cywilne": 98,
+    "prawo-ochrony-srodowiska": 49,
+    "prawo-pracy": 48,
     "prawo-administracyjne": 46,
-    "prawo-budowlane": 30,
+    "prawo-budowlane": 27,
     "prawo-bankowe": 24,
     "prawo-energetyczne": 23,
-    "prawo-handlowe": 20,
+    "prawo-handlowe": 19,
     "prawo-zamowien": 19,
-    "prawo-upadlosciowe": 14,
+    "prawo-upadlosciowe": 12,
     "prawo-ochrony-danych": 8,
     "prawo-morskie": 6,
     "prawo-telekomunikacyjne": 6,
-    "prawo-konstytucyjne": 2
+    "prawo-konstytucyjne": 1
   },
   "quality": {
-    "quality_gate_blocked": 397,
+    "quality_gate_blocked": 34,
     "rejected_scans": 0,
-    "rejected_other": 495
+    "rejected_other": 38
   }
 }

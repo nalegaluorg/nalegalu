@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-08-08 |
+| Wejście w życie | 2008-08-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081450918) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/918/text.pdf) |
 
@@ -33,7 +34,7 @@ source: "isap-pdf"
 
 **Art. 3.** W 2008 dotacja celowa pokrycie części odszkodowań wypłaconych producentom rolnym tytułu szkód spowodowanych przez suszę przysługuje zakładom ubezpieczeń, mowa 10a ust. 1 ustawy wymienionej 1, za okres 1 lipca do 31 sierpnia tego roku, zasadach określonych 10a i 10b ustawy wymienionej 1, brzmieniu nadanym niniejszą ustawą. Wniosek dotacji za ten okres zakład ubezpieczeń składa terminie do 30 września.
 
-**Art. 4.** W okresie 1 lipca 2008 do 30 czerwca 2009 obowiązek ubezpieczenia, którym mowa 10c ust. 1 ustawy wymienionej 1, uważa się za spełniony, tym okresie zostanie zawarta umowa ubezpieczenia, podstawie której ochroną ubezpieczeniową, zawarcia umowy do 30 czerwca 2009 r., zostanie objętych co najmniej 50% powierzchni upraw, mowa 3 ust. 1 pkt 1 ustawy wymienionej 1, co najmniej jednego ryzyk wymienionych 10c ust. 1 ustawy wymienionej 1.
+**Art. 4.** W okresie 1 lipca 2008 do 30 czerwca 2009 obowiązek ubezpieczenia, którym mowa 10c ust. 1 ustawy wymienionej 1, uważa się za spełniony, jeżeli tym okresie zostanie zawarta umowa ubezpieczenia, podstawie której ochroną ubezpieczeniową, zawarcia umowy do 30 czerwca 2009 r., zostanie objętych co najmniej 50% powierzchni upraw, mowa 3 ust. 1 pkt 1 ustawy wymienionej 1, co najmniej jednego ryzyk wymienionych 10c ust. 1 ustawy wymienionej 1.
 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni ogłoszenia, wyjątkiem 1 pkt 3, który wchodzi życie dniem 1 września 2008
 

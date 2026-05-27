@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-03-11 |
 | Data wydania | 2022-03-23 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2022-04-23 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000655) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/655/text.pdf) |
 
 Art. 698–776. (pominięte)

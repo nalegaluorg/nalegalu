@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-02-12 |
 | Data wydania | 2010-03-16 |
+| Wejście w życie | 2012-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100400227) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/227/text.pdf) |
 
@@ -31,7 +32,7 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie dnia 6 czerwca 1997 – Kodeks karny wykonawczy (Dz. U. 90, 557, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. U. 2008 25, 150, późn. zm. ) w art. 401:
+**Art. 3.** W ustawie dnia 27 kwietnia 2001 – Prawo ochrony środowiska (Dz. U. 25, 150, późn. zm. ) w art. 401:
 
 **Art. 4.** W sprawach, w których orzeczono nawiązkę lub świadczenie pieniężne przed dniem wejścia w życie niniejszej ustawy do wykonania nawiązki świadczenia pieniężnego stosuje się przepisy dotychczasowe.
 

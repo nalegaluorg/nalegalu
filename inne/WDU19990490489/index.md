@@ -21,6 +21,7 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1999-05-17 |
+| Wejście w życie | 1999-06-15 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990490489) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/489/text.pdf) |
 
@@ -33,7 +34,7 @@ b) doraźne – na wniosek wojewody lub z własnej inicjatywy, po uprzednim powi
 a) kwartalne sprawozdanie z działalności straży – wojewodzie,
 b) informacje na żądanie – komendantowi.
 3. Plan kontroli rocznych okresowych, opiniowany przez wojewodę, sporządza komendant.
-Do kontrolnych, których mowa 2 pkt 1, może upoważnić strażnika kontrolującego, dokumenty materiały niezbędne przeprowadzenia kontroli.
+Do kontrolnych, których mowa 1 2 pkt 1, może upoważnić strażnika kontrolującego, dokumenty materiały niezbędne przeprowadzenia kontroli.
 Kontrolujący ma prawo do:
 1) wstępu obiektów pomieszczeń
 2) żądania wyjaśnień strażników
@@ -52,15 +53,15 @@ Protokół podpisują:
 3. Protokół sporządza się trzech jednobrzmiących egzemplarzach, które otrzymują: wojewoda.
 6.
 Komendantowi Rybackiej przysługuje prawo zgłoszenia, przed podpisanie protokołu, umotywowanych zastrzeżeń co stwierdzonych uchybień zaleceń nim zawartych.
-Komendant Rybackiej jest obowiązany powiadomić, na piśmie, komendanta, określonym przez kontrolującego terminie, którym mowa 5 pkt 5, sposobie wykonania wydanych toku kontroli zaleceń.
+Komendant Rybackiej jest obowiązany powiadomić, na piśmie, komendanta, określonym przez kontrolującego terminie, którym mowa 5 1 pkt 5, sposobie wykonania wydanych toku kontroli zaleceń.
 8.
-Kwartalne sprawozdanie z działalności którym mowa 2 pkt 2 lit. a), powinno zawierać:
+Kwartalne sprawozdanie z działalności którym mowa 1 2 pkt 2 lit. a), powinno zawierać:
 1) zbiorczą informacje przeprowadzonych kontrolach;
 2) informacje dokonanym:
 a) zabezpieczeniu porzuconych ryb przedmiotów służących ich połowu,
 b) odebraniu za pokwitowaniem ryb przedmiotów służących ich połowu;
 informacje współdziałaniu z Państwową Strażą Rybacką;
-4) informacje realizacji zaleceń pokontrolnych, których mowa 5 pkt 4.
+4) informacje realizacji zaleceń pokontrolnych, których mowa 5 1 pkt 4.
 9.
 Społeczną Straż Rybacką tworzą:
 1)
@@ -70,9 +71,9 @@ Społeczną Strażą Rybacką kieruje
 Strażnicy mogą działać składzie patrolu.
 Strażnicy mogą działać we wspólnym patrolu z Państwową Strażą Rybacką.
 11.
-W razie uniemożliwienia strażnikowi wykonania uprawnień, których mowa art. 25 ustawy z dnia 18 kwietnia 1985 r. rybactwie śródlądowym (Dz.U. Nr 21, poz. 91, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1996 r. Nr 106, poz. 496 Nr 128, poz. 602, z 1997 r. Nr 88, poz. 554 oraz z 1998 r. Nr 106, poz. 668 Nr 162, poz. 1126), zwanej dalej „ustawą”, odstępuje tych zawiadamia
+W razie uniemożliwienia strażnikowi wykonania uprawnień, których mowa art. 25 1 ustawy z dnia 18 kwietnia 1985 r. rybactwie śródlądowym (Dz.U. Nr 21, poz. 91, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1996 r. Nr 106, poz. 496 Nr 128, poz. 602, z 1997 r. Nr 88, poz. 554 oraz z 1998 r. Nr 106, poz. 668 Nr 162, poz. 1126), zwanej dalej „ustawą”, odstępuje tych zawiadamia
 13.
-Z przeprowadzonych kontroli, których mowa art. 23 pkt oraz 2 ustawy, przeprowadzający je lub kierujący patrolem sporządza zbiorcze sprawozdanie.
+Z przeprowadzonych kontroli, których mowa art. 23 pkt 1 oraz 2 ustawy, przeprowadzający je lub kierujący patrolem sporządza zbiorcze sprawozdanie.
 14.
 Z przeprowadzonych czynności, których mowa art. 23 pkt 3 oraz pkt 4 lit. b) ustawy, przeprowadzający je lub kierujący patrolem sporządza notatkę, zwaną dalej „notatką”.
 Notatka powinna zawierać, z zastrzeżeniem 17 4:
@@ -93,7 +94,7 @@ Do pokwitowania, którym mowa 1, stosuje się odpowiednio 15
 18.
 Rozporządzenie wchodzi życie po upływie 14 dni dnia ogłoszenia.
 
-#### Rozdział Zasady sprawowania nadzoru specjalistycznego Specjalistyczny nadzór, zwany dalej „nadzorem” obejmujący legalność skuteczność działań powinien być przeprowadzany sposób rzetelny bezstronny.
+#### Rozdział 1 Zasady sprawowania nadzoru specjalistycznego Specjalistyczny nadzór, zwany dalej „nadzorem” obejmujący legalność skuteczność działań powinien być przeprowadzany sposób rzetelny bezstronny.
 
 #### Rozdział 2 Ramowy regulamin
 

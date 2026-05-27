@@ -24,15 +24,16 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-11-09 |
 | Data wydania | 2012-12-31 |
+| Wejście w życie | 2013-01-15 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001551) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1551/text.pdf) |
 
 **Art. 1.**
 
-1. Na wniosek osoby podlegającej okresie od dnia 1 stycznia 1999 do dnia 28 lutego 2009 obowiązkowo ubezpieczeniom emerytalnemu rentowym oraz wypadkowemu tytułu prowadzenia pozarolniczej działalności rozumieniu art. 8 6 ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ):
+1. Na wniosek osoby podlegającej okresie od dnia 1 stycznia 1999 do dnia 28 lutego 2009 obowiązkowo ubezpieczeniom emerytalnemu rentowym wypadkowemu tytułu prowadzenia pozarolniczej działalności rozumieniu art. 8 6 ustawy dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz. U. 2009 205, 1585, późn. zm. ):
 
 - **1)** która przed dniem 1 września 2012 zakończyła prowadzenie pozarolniczej działalności nie prowadzi jej dniu wydania decyzji, której 8,
-- **2)** innej niż wymieniona pkt 1 – umarza się nieopłacone składki na te ubezpieczenia za okres od dnia 1 stycznia 1999 do dnia 28 lutego 2009 oraz należne od nich odsetki za zwłokę, opłaty prolongacyjne, koszty upomnienia, opłaty dodatkowe, a także koszty egzekucyjne naliczone przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
+- **2)** innej niż wymieniona pkt 1 – umarza się nieopłacone składki na te ubezpieczenia za okres od dnia 1 stycznia 1999 do dnia 28 lutego 2009 należne od nich odsetki za zwłokę, opłaty prolongacyjne, koszty upomnienia, opłaty dodatkowe, a także koszty egzekucyjne naliczone przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
 
 2. W przypadku osób prowadzących pozarolniczą działalność, których art. 8 6 pkt 4 ustawy wymienionej wniosek umorzenie składa płatnik składek.
 
@@ -42,13 +43,13 @@ source: "isap-pdf"
 
 5. Jeżeli decyzję podleganiu obowiązkowym ubezpieczeniom społecznym lub decyzję wysokości zadłużenia tytułu składek na obowiązkowe ubezpieczenia społeczne, których Zakład Ubezpieczeń Społecznych wyda po dniu wejścia życie niniejszej ustawy, wniosek umorzenie można złożyć terminie 12 miesięcy od dnia uprawomocnienia się tej decyzji, chyba że termin określony 4 jest dłuższy.
 
-6. Umorzenie należności, których skutkuje umorzeniem nieopłaconych składek na ubezpieczenie zdrowotne na Fundusz Pracy za ten sam okres oraz należnych od nich, za ten sam okres, odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
+6. Umorzenie należności, których skutkuje umorzeniem nieopłaconych składek na ubezpieczenie zdrowotne na Fundusz Pracy za ten sam okres należnych od nich, za ten sam okres, odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
 
 7. Umorzeniu podlegają również należności, których 1 6, które do dnia wejścia życie niniejszej ustawy zostały rozłożone na raty nie zostały opłacone do dnia złożenia wniosku umorzenie. Należności te podlegają wyłączeniu umowy rozłożeniu należności tytułu składek na raty. Warunek, którym 10, uważa się za spełniony po opłaceniu pozostałych należności objętych umową.
 
 8. Zakład Ubezpieczeń Społecznych wydaje decyzję określającą warunki umorzenia, której ustala także kwoty należności, których 1 6, wyłączeniem kosztów egzekucyjnych.
 
-9. W przypadku prowadzenia przez Zakład Ubezpieczeń Społecznych albo wszczęcia po dniu złożenia wniosku, którym postępowania sprawie podlegania ubezpieczeniom społecznym tytułu określonego art. 6 1 pkt 2 ustawy wymienionej 1 odniesieniu do osób zgłoszonych do tych ubezpieczeń przez osoby prowadzące pozarolniczą działalność albo spółki, których art. 8 6 pkt 4 ustawy wymienionej postępowanie, którym 8, ulega zawieszeniu do dnia uprawomocnienia się decyzji sprawie podlegania tym ubezpieczeokres od dnia 1 stycznia 1999 r., do opłacenia których zobowiązana jest osoba prowadząca pozarolniczą działalność lub płatnik składek, którym 2, oraz należnych od tych składek odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
+9. W przypadku prowadzenia przez Zakład Ubezpieczeń Społecznych albo wszczęcia po dniu złożenia wniosku, którym postępowania sprawie podlegania ubezpieczeniom społecznym tytułu określonego art. 6 1 pkt 2 ustawy wymienionej 1 odniesieniu do osób zgłoszonych do tych ubezpieczeń przez osoby prowadzące pozarolniczą działalność albo spółki, których art. 8 6 pkt 4 ustawy wymienionej postępowanie, którym 8, ulega zawieszeniu do dnia uprawomocnienia się decyzji sprawie podlegania tym ubezpieczeokres od dnia 1 stycznia 1999 r., do opłacenia których zobowiązana jest osoba prowadząca pozarolniczą działalność lub płatnik składek, którym 2, należnych od tych składek odsetek za zwłokę, opłat prolongacyjnych, kosztów upomnienia, opłat dodatkowych, a także kosztów egzekucyjnych naliczonych przez dyrektora oddziału Zakładu Ubezpieczeń Społecznych, naczelnika urzędu skarbowego lub komornika sądowego.
 
 11. Niepodlegające umorzeniu należności, których 10, podlegają spłacie terminie 12 miesięcy od dnia uprawomocnienia się decyzji, której 8.
 

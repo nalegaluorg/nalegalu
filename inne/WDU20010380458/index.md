@@ -21,6 +21,7 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 2001-04-24 |
+| Wejście w życie | 2001-05-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010380458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/458/text.pdf) |
 

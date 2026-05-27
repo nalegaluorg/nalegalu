@@ -22,16 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-05-09 |
 | Data wydania | 2007-06-05 |
+| Wejście w życie | 2007-06-20 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990664) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/664/text.pdf) |
 
 **Art. 1.** 6 czerwca 1997 Kodeks postępowania karnego 89, 555, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** 6 lipca 1982 o radcach prawnych 2002 123, 1059, późn. zm. ) art. 68 po ust. 1a dodaje ust. 1b brzmieniu: „1b. wypadku określonym ust. 1a Ministrowi Sprawiedliwości przysługują prawa strony.”.
+**Art. 3.** 6 lipca 1982 o radcach prawnych 2002 123, 1059, późn. zm. ) 68 po ust. 1a dodaje ust. 1b brzmieniu: „1b. wypadku określonym ust. 1a Ministrowi Sprawiedliwości przysługują prawa strony.”.
 
 **Art. 4.** 27 lipca 2001 Prawo o ustroju sądów powszechnych 98, 1070, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 5.** 24 sierpnia 2001 Kodeks postępowania sprawach o wykroczenia 106, 1148, późn. zm. ) art. 8 otrzymuje „Art. 8. postępowaniu uregulowanym niniejszym kodeksie stosuje odpowiednio przepisy art. 2, 4, 5, 7-9, 13,14, art. 15 2 3, art. 16, art. 18 2, art. 20 23 Kodeksu postępowania karnego.”.
+**Art. 5.** 24 sierpnia 2001 Kodeks postępowania sprawach o wykroczenia 106, 1148, późn. zm. ) 8 brzmienie: „Art. 8. postępowaniu uregulowanym niniejszym kodeksie stosuje odpowiednio przepisy 2, 4, 5, 7-9, 13,14, 15 2 3, 16, 18 2, 20 23 Kodeksu postępowania karnego.”.
 
 **Art. 6.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.
 

@@ -24,26 +24,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-09-23 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 2011-10-24 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111991175) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1175/text.pdf) |
 
-Art. 59ia. 1. Dostawcy, o których mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, oferujący usługi związane z prowadzeniem rachunków płatniczych dla konsumentów, są obowiązani do świadczenia usługi prowadzenia podstawowego rachunku płatniczego. Obowiązek ten w przypadku dostawców wymienionych w art. 4 ust. 2 pkt 9 dotyczy wyłącznie członków danej kasy oszczędnościowokredytowej.
+Art. 59ia. 1. Dostawcy, o których mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, oferujący usługi związane z prowadzeniem rachunków płatniczych dla konsumentów, są obowiązani do świadczenia usługi prowadzenia podstawowego rachunku płatniczego. Obowiązek ten w przypadku dostawców wymienionych w art. 4 ust. 2 pkt 9 dotyczy wyłącznie członków danej kasy oszczędnościowo-kredytowej.
 2. Podstawowy rachunek płatniczy jest przeznaczony dla konsumentów, dla których żaden dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, w ramach działalności wykonywanej na terytorium Rzeczypospolitej Polskiej nie prowadzi innego rachunku płatniczego w walucie polskiej umożliwiającego wykonywanie transakcji, o których mowa w ust. 3.
 3. Podstawowy rachunek płatniczy umożliwia wyłącznie:
 1) dokonywanie wpłat środków pieniężnych na rachunek;
 2) dokonywanie wypłat gotówki z rachunku na terytorium któregokolwiek państwa członkowskiego, w bankomacie lub w placówce dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, w godzinach pracy tego dostawcy lub poza nimi, lub przy użyciu terminala płatniczego, jeżeli konsument wyrazi wolę zawarcia umowy również w zakresie usługi umożliwiającej takie wypłaty;
-3) wykonywanie na terytorium państw członkowskich transakcji płatniczych, o których mowa w art. 3 ust. 1 pkt 2, w szczególności w urządzeniach akceptujących instrumenty płatnicze, placówce dostawcy, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, lub za pośrednictwem środków elektronicznego dostępu do rachunku, przy czym w przypadku transakcji płatniczych wykonywanych przy użyciu karty płatniczej podstawowy rachunek płatniczy zapewnia także możliwość dokonywania transakcji płatniczych bez fizycznego wykorzystania karty oraz możliwość rozliczania przez dostawcę transakcji płatniczych wykonywanych przy użyciu karty płatniczej, powodujących przekroczenie środków zgromadzonych na rachunku, o którym mowa w art. 4 ust. 2 pkt 4 ustawy o kredycie konsumenckim.
+3) wykonywanie na terytorium państw członkowskich transakcji płatniczych, o których mowa w art. 3 ust. 1 pkt 2, w szczególności w urządzeniach akceptujących instrumenty płatnicze, placówce dostawcy, o którym mowa w art.
+4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, lub za pośrednictwem środków elektronicznego dostępu do rachunku, przy czym w przypadku transakcji płatniczych wykonywanych przy użyciu karty płatniczej podstawowy rachunek płatniczy zapewnia także możliwość dokonywania transakcji płatniczych bez fizycznego wykorzystania karty oraz możliwość rozliczania przez dostawcę transakcji płatniczych wykonywanych przy użyciu karty płatniczej, powodujących przekroczenie środków zgromadzonych na rachunku, o którym mowa w art. 4 ust. 2 pkt 4 ustawy o kredycie konsumenckim.
 4. Obowiązek zapewnienia wypłaty w placówce poza godzinami pracy dostawcy następuje wyłącznie w przypadku gdy dostawca oferuje takie usługi.
 5. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, w ramach podstawowego rachunku płatniczego jest obowiązany zapewnić usługi, o których mowa w ust. 3, w zakresie, w jakim świadczy takie usługi w ramach prowadzenia innych rachunków płatniczych.
 6. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, udostępnia na żądanie konsumenta, nieodpłatnie, informacje o podstawowych rachunkach płatniczych dostępnych w jego ofercie, warunkach korzystania z rachunków oraz opłatach z tym związanych.
 Art. 59ib. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, może poprzez centralną informację o rachunkach, o której mowa w art. 92bb ustawy – Prawo bankowe, sprawdzić czy konsument posiada rachunek płatniczy umożliwiający wykonywanie transakcji, o których mowa w art. 59ia ust. 3, prowadzony przez dostawcę, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej.
 Art. 59ic. 1. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, otwiera i prowadzi podstawowy rachunek płatniczy konsumenta na podstawie zawartej z konsumentem umowy podstawowego rachunku płatniczego. Dostawca udostępnia wnioski o zawarcie umowy podstawowego rachunku płatniczego w postaci papierowej w swoich placówkach, a wzór wniosku – na swojej stronie internetowej. Konsument może również ustnie żądać zawarcia umowy rachunku podstawowego, bez składania pisemnego wniosku, o ile dostawca dopuszcza taką możliwość.
 2. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, nie może uzależniać otwarcia podstawowego rachunku płatniczego od zawarcia przez konsumenta innej umowy o świadczenie usług dodatkowych ani od zadeklarowania określonej kwoty wpływu środków pieniężnych na podstawowy rachunek płatniczy. Zakaz ten nie dotyczy obowiązków wynikających ze stosunku członkostwa łączących konsumenta z dostawcą.
-3. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, niezwłocznie, nie później jednak niż w terminie 10 dni roboczych od dnia otrzymania kompletnego wniosku o zawarcie umowy podstawowego rachunku płatniczego, zawiera z konsumentem taką umowę albo informuje o odmowie jej zawarcia. W przypadku kompletnego wniosku złożonego za pomocą środków komunikacji elektronicznej, jeżeli dostawca dopuszcza taką możliwość, wyznacza on konsumentowi termin, nie krótszy niż 10 dni roboczych, na podpisanie umowy w placówce dostawcy albo zawiera z konsumentem umowę za pomocą środków porozumiewania się na odległość.
-4. W przypadku dostawcy, o którym mowa w art. 4 ust. 2 pkt 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, termin wskazany w ust. 3 jest liczony od dnia potwierdzenia, że wnioskodawca może uzyskać status członka tego dostawcy.
+3. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, niezwłocznie, niepóźniej jednak niż w terminie 10 dni roboczych od dnia otrzymania kompletnego wniosku o zawarcie umowy podstawowego rachunku płatniczego, zawiera z konsumentem taką umowę albo informuje o odmowie jej zawarcia. W przypadku kompletnego wniosku złożonego za pomocą środków komunikacji elektronicznej, jeżeli dostawca dopuszcza taką możliwość, wyznacza on konsumentowi termin, niekrótszy niż 10 dni roboczych, na podpisanie umowy w placówce dostawcy albo zawiera z konsumentem umowę za pomocą środków porozumiewania się na odległość.
+4. W przypadku dostawcy, o którym mowa w art. 4 ust. 2 pkt 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, termin wskazany w ust.
+3 jest liczony od dnia potwierdzenia, że wnioskodawca może uzyskać status członka tego dostawcy.
 5. Przepisy ust. 3 i 4 stosuje się odpowiednio, jeżeli zawarcie umowy podstawowego rachunku bankowego następuje na podstawie ustnego żądania, o którym mowa w ust. 1.
 6. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, odmawia zawarcia umowy podstawowego rachunku płatniczego w przypadku:
-1) gdy jest to uzasadnione względami ostrożnościowymi wynikającymi z podejrzenia popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383), zwanej dalej „Kodeksem karnym”;
+1) gdy jest to uzasadnione względami ostrożnościowymi wynikającymi z podejrzenia popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), zwanej dalej „Kodeksem karnym”;
 2) dostawców, o których mowa w art. 4 ust. 2 pkt 9, jeżeli konsument składający wniosek nie jest członkiem spółdzielczej kasy oszczędnościowo-kredytowej będącej tym dostawcą lub nie spełnia kryteriów uzyskania statusu członka tej kasy;
 3) gdy dostawca posiada uprawdopodobnioną informację o udziale konsumenta w przestępstwie popełnionym z wykorzystaniem rachunku płatniczego lub uprawdopodobnioną informację, że środki, które mają być zgromadzone na rachunku, pochodzą z przestępstwa.
 7. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, może odmówić zawarcia umowy podstawowego rachunku płatniczego w przypadku gdy:
@@ -55,13 +58,13 @@ Art. 59ic. 1. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłącz
 6) konsument nie przebywa legalnie na terytorium państwa członkowskiego;
 7) konsument nie podał adresu zamieszkania lub innego adresu korespondencyjnego na terytorium Rzeczypospolitej Polskiej.
 8. W przypadkach, o których mowa w ust. 6 i 7, dostawca niezwłocznie informuje konsumenta, nieodpłatnie, o przyczynach odmowy zawarcia umowy, chyba że przekazanie takiej informacji zagrażałoby bezpieczeństwu narodowemu lub porządkowi publicznemu lub byłoby sprzeczne z przepisami prawa, w tym z przepisami ustawy o przeciwdziałaniu praniu pieniędzy.
-9. W przypadku odmowy zawarcia umowy podstawowego rachunku płatniczego na podstawie ust. 6 pkt 1 dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy OszczędnościowoKredytowej, jest obowiązany stosować odpowiednie środki wynikające z ustawy o przeciwdziałaniu praniu pieniędzy.
+9. W przypadku odmowy zawarcia umowy podstawowego rachunku płatniczego na podstawie ust. 6 pkt 1 dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, jest obowiązany stosować odpowiednie środki wynikające z ustawy o przeciwdziałaniu praniu pieniędzy.
 Art. 59id. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, jest obowiązany oferować podstawowe rachunki płatnicze w walucie polskiej.
 Art. 59ie. 1. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, prowadzi podstawowy rachunek płatniczy w zakresie krajowych transakcji płatniczych nieodpłatnie.
 2. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, może pobierać opłaty za wykonanie krajowych transakcji płatniczych, o których mowa w art. 3 ust. 1 pkt 2 lit. c, po wykonaniu w ciągu miesiąca 5 takich transakcji płatniczych zlecanych przez konsumenta. Opłaty te nie mogą być wyższe od opłat najczęściej stosowanych przez danego dostawcę przez ostatnie 12 miesięcy w odniesieniu do transakcji, o których mowa w art. 3 ust. 1 pkt 2 lit. c, powiązanych z jakimkolwiek rachunkiem płatniczym oferowanym przez tego dostawcę.
 3. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, może pobierać od konsumenta opłatę za wykonywanie transakcji, o których mowa w art. 3 ust. 1 pkt 1, przy użyciu bankomatów lub wpłatomatów nienależących do tego dostawcy znajdujących się na terytorium Rzeczypospolitej Polskiej, po wykonaniu w ciągu miesiąca 5 takich krajowych transakcji płatniczych na rzecz konsumenta. Opłaty te nie mogą być wyższe od opłat najczęściej stosowanych przez ostatnie 12 miesięcy przez tego dostawcę w odniesieniu do transakcji, o których mowa w art. 3 ust. 1 pkt 1, wykonywanych w ramach jakiegokolwiek rachunku płatniczego prowadzonego przez tego dostawcę i przy użyciu bankomatów lub wpłatomatów nienależących do tego dostawcy.
-4. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, zapewnia konsumentom możliwość wykonywania operacji, o których mowa w art. 59ia ust.
-3, w swoich placówkach oraz za pośrednictwem środków elektronicznego dostępu do rachunku, o ile dostawca oferuje taki dostęp. Dostawca nie może oferować podstawowych rachunków płatniczych, z których korzystanie odbywałoby się wyłącznie za pomocą środków elektronicznego dostępu do rachunku, chyba że dostawca oferuje wyłącznie usługi świadczone za pomocą takich środków.
+4. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, zapewnia konsumentom możliwość wykonywania operacji, o których mowa w art. 59ia ust. 3, w swoich placówkach oraz za pośrednictwem środków elektronicznego dostępu do rachunku, o ile dostawca oferuje taki dostęp.
+Dostawca nie może oferować podstawowych rachunków płatniczych, z których korzystanie odbywałoby się wyłącznie za pomocą środków elektronicznego dostępu do rachunku, chyba że dostawca oferuje wyłącznie usługi świadczone za pomocą takich środków.
 5. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, nie może pobierać od konsumenta opłat za świadczenie usług związanych z prowadzeniem podstawowego rachunku płatniczego innych niż opłaty, o których mowa w ust. 2 i 3, oraz opłaty za wykonanie transgranicznych transakcji płatniczych. Opłaty za wykonanie transgranicznych transakcji płatniczych nie mogą być wyższe od opłat najczęściej stosowanych przez danego dostawcę przez ostatnie 12 miesięcy w odniesieniu do transakcji tego rodzaju, wykonywanych w ramach jakiegokolwiek rachunku płatniczego prowadzonego przez tego dostawcę.
 Art. 59if. Umowa podstawowego rachunku płatniczego stanowi umowę ramową, do której mają zastosowanie przepisy działu II rozdziału 3.
 Art. 59ig. 1. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, może wypowiedzieć umowę podstawowego rachunku płatniczego, w przypadku gdy:
@@ -71,10 +74,10 @@ Art. 59ig. 1. Dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, z wyłącz
 4) konsument podał nieprawdziwe informacje lub zataił prawdziwe informacje we wniosku o zawarcie umowy podstawowego rachunku płatniczego, jeżeli podanie prawdziwych informacji skutkowałoby odrzuceniem wniosku;
 5) konsument nie przebywa legalnie na terytorium państwa członkowskiego;
 6) konsument zawarł inną umowę rachunku płatniczego, który umożliwia mu wykonywanie transakcji, o których mowa w art. 59ia ust. 3, na terytorium Rzeczypospolitej Polskiej.
-2. W przypadkach, o których mowa w ust. 1 pkt 3, 5 lub 6, nieodpłatna informacja o przyczynach wypowiedzenia umowy podstawowego rachunku płatniczego jest przekazywana konsumentowi, w postaci papierowej albo elektronicznej, wraz z wypowiedzeniem tej umowy, chyba że przekazanie tej informacji zagrażałoby bezpieczeństwu narodowemu lub porządkowi publicznemu lub byłoby sprzeczne z przepisami ustawy o przeciwdziałaniu praniu pieniędzy.
-Dostawca może wypowiedzieć umowę podstawowego rachunku płatniczego zawartą na czas nieokreślony z co najmniej dwumiesięcznym wypowiedzeniem.
+2. W przypadkach, o których mowa w ust. 1 pkt 3, 5 lub 6, nieodpłatna informacja o przyczynach wypowiedzenia umowy podstawowego rachunku płatniczego jest przekazywana konsumentowi, w postaci papierowej albo elektronicznej, wraz z wypowiedzeniem tej umowy, chyba że przekazanie tej informacji zagrażałoby bezpieczeństwu narodowemu lub porządkowi publicznemu lub byłoby sprzeczne z przepisami ustawy o przeciwdziałaniu praniu pieniędzy. Dostawca może wypowiedzieć umowę podstawowego rachunku płatniczego zawartą na czas nieokreślony z co najmniej dwumiesięcznym wypowiedzeniem.
 3. W informacji, o której mowa w ust. 2, dostawca wskazuje tryb, w jakim konsument może dochodzić swoich praw w związku z rozwiązaniem umowy podstawowego rachunku płatniczego, oraz informuje go o pozasądowych procedurach rozstrzygania sporów, w tym wskazuje właściwe sądy polubowne.
-4. Wypowiedzenie umowy podstawowego rachunku płatniczego z przyczyn określonych w ust. 1 pkt 1, 2 i 4 następuje ze skutkiem natychmiastowym. Przepis ust. 3 stosuje się odpowiednio.
+4. Wypowiedzenie umowy podstawowego rachunku płatniczego z przyczyn określonych w ust. 1 pkt 1, 2 i 4 następuje ze skutkiem natychmiastowym. Przepis ust.
+3 stosuje się odpowiednio.
 5. Po wypowiedzeniu umowy podstawowego rachunku płatniczego z przyczyn określonych w ust. 1 konsument wskazuje dostawcy sposób, w jaki chce uzyskać zwrot środków pieniężnych zgromadzonych na rachunku. W przypadku nieuzyskania przez dostawcę takiej informacji może on złożyć środki pieniężne znajdujące się na rachunku podstawowym do depozytu sądowego lub w inny sposób zabezpieczyć środki pieniężne zgromadzone na rachunku. O sposobie zabezpieczenia dostawca pisemnie informuje konsumenta.
 Art. 59ih. 1. KNF zamieszcza na swojej stronie internetowej informacje o zasadach dostępu do podstawowego rachunku płatniczego.
 2. Do dnia 31 stycznia danego roku kalendarzowego dostawcy oferujący w roku poprzednim podstawowe rachunki płatnicze przekazują do KNF informacje o liczbie otwartych w tym roku podstawowych rachunków płatniczych oraz o stosunku liczby przypadków odmowy zawarcia umowy takiego rachunku do liczby złożonych wniosków, według stanu na dzień 31 grudnia poprzedniego roku kalendarzowego.
@@ -107,21 +110,20 @@ Art. 59im. 1. Dostawca przyjmujący, w terminie 2 dni roboczych od dnia otrzyman
 4) anulowania zleceń stałych ze skutkiem od dnia określonego w upoważnieniu;
 5) przekazania środków pieniężnych pozostających na rachunku płatniczym prowadzonym przez dostawcę przekazującego w dniu określonym przez konsumenta w upoważnieniu;
 6) zamknięcia rachunku płatniczego prowadzonego przez dostawcę przekazującego w dniu wskazanym przez konsumenta w upoważnieniu.
-2. Jeżeli dostawca przyjmujący jest podmiotem, o którym mowa w art. 4 ust.
-1 pkt 9, z wyłączeniem Krajowej Spółdzielczej Kasy OszczędnościowoKredytowej, i dokonuje weryfikacji członkostwa konsumenta, termin określony w ust. 1 jest liczony od dnia dokonania pozytywnej weryfikacji członkostwa.
+2. Jeżeli dostawca przyjmujący jest podmiotem, o którym mowa w art. 4 ust. 1 pkt 9, z wyłączeniem Krajowej Spółdzielczej Kasy Oszczędnościowo-Kredytowej, i dokonuje weryfikacji członkostwa konsumenta, termin określony w ust. 1 jest liczony od dnia dokonania pozytywnej weryfikacji członkostwa.
 3. W przypadku, o którym mowa w ust. 1, dostawca przekazujący dokonuje następujących czynności, o ile są objęte upoważnieniem:
 1) przekazuje dostawcy przyjmującemu informacje, o których mowa w ust. 1 pkt 1 i 2, w terminie 5 dni roboczych od dnia otrzymania upoważnienia;
 2) ze skutkiem od dnia określonego w upoważnieniu zaprzestaje akceptowania przychodzących na rachunek płatniczy poleceń przelewu i poleceń zapłaty w przypadku gdy nie zapewnia automatycznego przekierowywania przychodzących poleceń przelewu i poleceń zapłaty na rachunek płatniczy posiadany lub otwarty przez konsumenta u dostawcy przyjmującego, a w przypadku odmowy przyjęcia transakcji informuje płatnika lub odbiorcę o przyczynach odmowy;
 3) anuluje zlecenia stałe ze skutkiem od dnia określonego w upoważnieniu;
 4) przekazuje środki pieniężne pozostające na rachunku płatniczym prowadzonym przez niego na rachunek płatniczy prowadzony przez dostawcę przyjmującego, w dniu określonym w upoważnieniu;
-5) zamyka rachunek płatniczy w dniu określonym w upoważnieniu, jeżeli nie istnieją na nim nieuregulowane zobowiązania uniemożliwiające jego zamknięcie, i pod warunkiem zakończenia czynności wymienionych w pkt 1, 2 i 4.
+5) zamyka rachunek płatniczy w dniu określonym w upoważnieniu, jeżeli nie istnieją na nim nieuregulowane zobowiązania uniemożliwiające jego zamknięcie, i pod warunkiem zakończenia czynności wymienionych w pkt 1, 2 i
+4.
 4. W przypadku gdy nieuregulowane zobowiązania uniemożliwiają zamknięcie rachunku płatniczego konsumenta w terminie, o którym mowa w ust. 3 pkt 5, dostawca przekazujący niezwłocznie informuje o tym konsumenta.
 5. Dostawca przekazujący nie może pobierać opłat od konsumenta oraz dostawcy przyjmującego za przekazywanie informacji, o które zwrócił się ten dostawca zgodnie z ust. 1 pkt 1 i 2.
 6. Dostawca przyjmujący, w terminie 5 dni roboczych od dnia otrzymania informacji, o których mowa w ust. 1 pkt 1 i 2, wykonuje następujące czynności, o ile są objęte upoważnieniem:
 1) ustanawia i realizuje zlecenia stałe dotyczące poleceń przelewu, o których ustanowienie wystąpił konsument, ze skutkiem od dnia wskazanego w upoważnieniu;
 2) dokonuje niezbędnych przygotowań do akceptowania poleceń zapłaty i akceptuje polecenia zapłaty ze skutkiem od dnia wskazanego w upoważnieniu;
-3) w stosownych przypadkach informuje konsumenta o prawach przysługujących mu zgodnie z art. 5 ust. 3 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r.
-ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009;
+3) w stosownych przypadkach informuje konsumenta o prawach przysługujących mu zgodnie z art. 5 ust. 3 lit. d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009;
 4) informuje płatników wskazanych w upoważnieniu i dokonujących regularnie przychodzących poleceń przelewu na rachunek płatniczy konsumenta o danych identyfikujących rachunek płatniczy konsumenta u dostawcy przyjmującego oraz przekazuje płatnikom kopię upoważnienia;
 5) informuje odbiorców określonych w upoważnieniu i stosujących polecenie zapłaty do pobierania środków pieniężnych z rachunku płatniczego konsumenta o danych identyfikujących rachunek płatniczy konsumenta u dostawcy przyjmującego oraz o dniu, od którego polecenia zapłaty mają być realizowane z tego rachunku płatniczego, a także przekazuje tym odbiorcom kopię upoważnienia.
 7. Dostawca przyjmujący wykonuje czynności, o których mowa w ust. 6, w zakresie, w jakim umożliwiają mu to informacje przedstawione przez dostawcę przekazującego lub konsumenta, a w przypadku braku takich informacji zwraca on się o ich przekazanie.
@@ -131,7 +133,7 @@ Art. 59in. 1. Jeżeli konsument poinformuje dostawcę prowadzącego na terytoriu
 1) przekazuje konsumentowi, nieodpłatnie, wykaz istniejących zleceń stałych dotyczących poleceń przelewu oraz udzielonych przez dłużnika zgodach na realizację poleceń zapłaty, o ile są dostępne, a także dostępne informacje o regularnie przychodzących poleceniach przelewu oraz zleconych przez wierzyciela poleceniach zapłaty zrealizowanych na rachunku płatniczym konsumenta w ciągu 13 miesięcy poprzedzających dzień otrzymania informacji;
 2) przekazuje środki pieniężne pozostające na rachunku płatniczym konsumenta na rachunek płatniczy konsumenta u nowego dostawcy usług płatniczych, o ile informacja zawiera dane umożliwiające jego identyfikację i identyfikację rachunku płatniczego konsumenta;
 3) zamyka rachunek płatniczy konsumenta, o ile takie żądanie jest objęte informacją.
-2. W przypadku gdy konsument nie ma na rachunku płatniczym nieuregulowanych zobowiązań, dostawca prowadzący ten rachunek realizuje czynności określone w ust. 1 w dniu wskazanym przez konsumenta, nie wcześniej jednak niż po upływie 6 dni roboczych od dnia otrzymania informacji konsumenta, chyba że konsument i dostawca uzgodnią inny termin. W przypadku gdy na rachunku płatniczym konsumenta znajdują się nieuregulowane zobowiązania, które uniemożliwiają jego zamknięcie, dostawca niezwłocznie informuje o tym konsumenta.
+2. W przypadku gdy konsument nie ma na rachunku płatniczym nieuregulowanych zobowiązań, dostawca prowadzący ten rachunek realizuje czynności określone w ust. 1 w dniu wskazanym przez konsumenta, niewcześniej jednak niż po upływie 6 dni roboczych od dnia otrzymania informacji konsumenta, chyba że konsument i dostawca uzgodnią inny termin. W przypadku gdy na rachunku płatniczym konsumenta znajdują się nieuregulowane zobowiązania, które uniemożliwiają jego zamknięcie, dostawca niezwłocznie informuje o tym konsumenta.
 Art. 59io. W przypadku, o którym mowa w art. 59im ust. 3 pkt 5 i w art. 59in ust. 2 zdanie drugie, dostawca może stwierdzić istnienie nieuregulowanych zobowiązań uniemożliwiających zamknięcie rachunku w terminie, o którym mowa w upoważnieniu albo w art. 59in ust. 2 zdanie pierwsze, jeżeli dotyczy to w szczególności rachunku:
 1) na którym jest blokada środków z tytułu nierozliczonej transakcji płatniczej;
 2) z którego są dokonywane spłaty kredytów, w tym udzielonych z wykorzystaniem karty kredytowej;
@@ -144,15 +146,16 @@ Art. 59io. W przypadku, o którym mowa w art. 59im ust. 3 pkt 5 i w art. 59in us
 9) prowadzonego dla konsumenta, wobec którego zostało wydane postanowienie o ogłoszeniu przez niego upadłości lub który złożył wniosek o ogłoszenie upadłości;
 10) powiązanego z członkostwem u dostawcy prowadzącego taki rachunek.
 Art. 59ip. 1. Dostawca przekazujący i dostawca przyjmujący, na żądanie konsumenta, udostępniają mu, nieodpłatnie, dane dotyczące istniejących zleceń stałych i poleceń zapłaty, powiązanych z prowadzonymi przez tych dostawców rachunkami płatniczymi konsumenta, które są objęte przeniesieniem.
-2. Opłaty pobierane od konsumenta przez dostawcę przekazującego lub dostawcę przyjmującego za czynności inne niż przekazywanie informacji, o których mowa w ust. 1 oraz w art. 59im ust. 1 pkt 1 i 2, wykonywane zgodnie z art.
-59il i art. 59im, nie mogą być wyższe niż rzeczywiste koszty ponoszone przez danego dostawcę z tytułu wykonywanych czynności.
+2. Opłaty pobierane od konsumenta przez dostawcę przekazującego lub dostawcę przyjmującego za czynności inne niż przekazywanie informacji, o których mowa w ust. 1 oraz w art. 59im ust. 1 pkt 1 i 2, wykonywane zgodnie z art. 59il i art. 59im, nie mogą być wyższe niż rzeczywiste koszty ponoszone przez danego dostawcę z tytułu wykonywanych czynności.
 Art. 59iq. 1. Dostawca przyjmujący lub dostawca przekazujący niezwłocznie wyrównuje każdą szkodę finansową konsumenta wynikającą bezpośrednio z niewywiązania się przez danego dostawcę z obowiązków wynikających z art. 59ik– 59io.
-2. Przez straty, o których mowa w art. 361 § 2 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, należy rozumieć opłaty i odsetki pobrane przez dostawcę przekazującego, które nie zostałyby pobrane w przypadku gdyby dostawca wypełnił obowiązki wynikające z art. 59ik–59io, a przez korzyści, o których mowa w tym przepisie, należy rozumieć odsetki wynikające z oprocentowania środków na rachunku, które zostałyby naliczone, gdyby dostawca wypełnił obowiązki wynikające z art. 59ik–59io.
+2. Przez straty, o których mowa w art. 361 § 2 ustawy z dnia 23 kwietnia 1964 r.
+– Kodeks cywilny, należy rozumieć opłaty i odsetki pobrane przez dostawcę przekazującego, które nie zostałyby pobrane w przypadku gdyby dostawca wypełnił obowiązki wynikające z art. 59ik–59io, a przez korzyści, o których mowa w tym przepisie, należy rozumieć odsetki wynikające z oprocentowania środków na rachunku, które zostałyby naliczone, gdyby dostawca wypełnił obowiązki wynikające z art. 59ik–59io.
 Art. 59ir. Przepisy art. 59ii–59im i art. 59io–59iq stosuje się odpowiednio do przenoszenia rachunku płatniczego w ramach tego samego dostawcy.
 Art. 59is. 1. Do dnia 31 stycznia danego roku kalendarzowego dostawca uczestniczący w przeniesieniu rachunku jako dostawca przekazujący przekazuje do KNF informacje o liczbie przeniesionych rachunków płatniczych oraz o liczbie niezrealizowanych upoważnień do przeniesienia rachunku płatniczego w poprzednim roku kalendarzowym, według stanu na dzień 31 grudnia poprzedniego roku kalendarzowego.
 2. KNF, co 2 lata, informuje Komisję Europejską o liczbie przeniesionych rachunków płatniczych oraz o liczbie niezrealizowanych upoważnień do przeniesienia rachunku płatniczego w tym okresie, według stanu na dzień 31 grudnia poprzedniego roku kalendarzowego.
 Art. 59it. 1. W przypadku gdy dostawca, o którym mowa w art. 59ii, inny niż dostawca, o którym mowa w art. 4 ust. 2 pkt 1–3 i 9, nie umożliwia przenoszenia rachunków płatniczych, właściwy organ nadzoru, o którym mowa w art. 14, może nałożyć na tego dostawcę karę pieniężną w wysokości do 1 000 000 zł, po uprzednim bezskutecznym wezwaniu go do spełnienia tego obowiązku w terminie wyznaczonym przez organ.
-2. Ustalając wysokość kary pieniężnej, o której mowa w ust. 1, organ nadzoru uwzględnia wagę, czas trwania i przyczyny naruszenia obowiązku określonego w art. 59ii, rozmiar prowadzonej przez dostawcę działalności oraz jego sytuację finansową.
+2. Ustalając wysokość kary pieniężnej, o której mowa w ust. 1, organ nadzoru uwzględnia wagę, czas trwania i przyczyny naruszenia obowiązku określonego w art.
+59ii, rozmiar prowadzonej przez dostawcę działalności oraz jego sytuację finansową.
 3. (uchylony)
 4. (uchylony)
 Art. 132zl. Czynności podejmowane przez Prezesa NBP w ramach nadzoru, o którym mowa w art. 14 ust. 2, polegają w szczególności na:
@@ -167,7 +170,8 @@ Art. 132zm. 1. Prowadzenie schematu płatniczego wymaga zezwolenia Prezesa NBP.
 2. Zezwolenia Prezesa NBP wymaga również zmiana zasad funkcjonowania schematu płatniczego.
 3. Prezes NBP wydaje zezwolenie, o którym mowa w ust. 1 i 2, jeżeli zasady dostępu do schematu płatniczego są ustalone według obiektywnych, równych i proporcjonalnych kryteriów, a ograniczenia w dostępie do tego schematu nie mogą być większe, niż jest to konieczne ze względu na ochronę przed określonymi rodzajami ryzyka, takimi jak ryzyko rozrachunkowe, ryzyko operacyjne i ryzyko biznesowe, oraz ze względu na ochronę finansową i operacyjną stabilności schematu płatniczego.
 Art. 132zn. 1. Organizacja płatnicza składa wniosek o wydanie zezwolenia, o którym mowa w art. 132zm ust. 1 lub 2, co najmniej na 3 miesiące przed planowanym rozpoczęciem funkcjonowania schematu płatniczego lub co najmniej na 3 miesiące przed planowanym wprowadzeniem zmian w zasadach funkcjonowania schematu płatniczego.
-2. Za rozpoczęcie funkcjonowania schematu płatniczego, o którym mowa w ust. 1, uznaje się termin zawarcia pierwszej umowy o wydawanie danego instrumentu płatniczego z wydawcą prowadzącym działalność na terytorium Rzeczypospolitej Polskiej lub termin wydania pierwszego instrumentu płatniczego na terytorium Rzeczypospolitej Polskiej.
+2. Za rozpoczęcie funkcjonowania schematu płatniczego, o którym mowa w ust.
+1, uznaje się termin zawarcia pierwszej umowy o wydawanie danego instrumentu płatniczego z wydawcą prowadzącym działalność na terytorium Rzeczypospolitej Polskiej lub termin wydania pierwszego instrumentu płatniczego na terytorium Rzeczypospolitej Polskiej.
 3. Do wniosku, o którym mowa w ust. 1, organizacja płatnicza załącza dokumenty i udostępnia informacje potwierdzające zgodność schematu płatniczego z wymogami określonymi w art. 132zp, a także wskazuje swoją nazwę i siedzibę oraz nazwę i siedzibę każdego podmiotu ponoszącego odpowiedzialność za działanie schematu płatniczego zgodnie z tymi wymogami, wraz z określeniem jego zakresu odpowiedzialności.
 4. Jeżeli schemat płatniczy jest systemem kart płatniczych, do wniosku, o którym mowa w ust. 1, organizacja płatnicza załącza także dokumenty i udostępnia informacje potwierdzające zgodność ustalonych przez nią zasad funkcjonowania schematu płatniczego z wymogami określonymi w rozporządzeniu (UE) 2015/751.
 5. Prezes NBP odmawia wydania zezwolenia, o którym mowa w art. 132zm ust. 1 lub 2, jeżeli:
@@ -176,15 +180,15 @@ Art. 132zn. 1. Organizacja płatnicza składa wniosek o wydanie zezwolenia, o kt
 3) zasady funkcjonowania schematu płatniczego nie spełniają wymogów określonych w art. 132zm ust. 3 lub art. 132zp ust. 4.
 6. Prezes NBP wydaje zezwolenie, o którym mowa w art. 132zm ust. 1 lub 2, albo odmawia jego wydania w terminie 3 miesięcy od dnia otrzymania wniosku lub jego uzupełnienia.
 Art. 132zo. 1. Zezwolenie, o którym mowa w art. 132zm ust. 1 lub 2, nie jest wymagane, jeżeli:
-1) organizacja płatnicza jest jednocześnie jedynym wydawcą instrumentu płatniczego oraz jedynym podmiotem świadczącym usługę, o której mowa w art. 3 ust. 1 pkt 5, lub
+1) organizacja płatnicza jest jednocześnie jedynym wydawcą instrumentu płatniczego oraz jedynym podmiotem świadczącym usługę, o której mowa w art.
+3 ust. 1 pkt 5, lub
 2) organizacja płatnicza podlega nadzorowi odpowiedniego organu nadzoru państwa członkowskiego innego niż Rzeczpospolita Polska lub odpowiedniego organu Unii Europejskiej.
 2. W przypadku, o którym mowa w ust. 1 pkt 2, w celu rozpoczęcia funkcjonowania schematu płatniczego na terytorium Rzeczypospolitej Polskiej, organizacja płatnicza informuje Prezesa NBP o poddaniu ocenie zasad funkcjonowania schematu płatniczego przez odpowiedni organ nadzoru państwa członkowskiego innego niż Rzeczpospolita Polska lub odpowiedni organ Unii Europejskiej co najmniej na miesiąc przed planowanym terminem rozpoczęcia funkcjonowania schematu płatniczego na terytorium Rzeczypospolitej Polskiej. W takim przypadku organizacja płatnicza dołącza odpis odpowiedniego dokumentu potwierdzającego dokonanie oceny zasad funkcjonowania schematu płatniczego wraz z dokumentacją, która podlegała tej ocenie, oraz informację o rodzajach instrumentów płatniczych, które będą wydawane na terytorium Rzeczypospolitej Polskiej.
 3. W przypadku, o którym mowa w ust. 1 pkt 2, w celu wprowadzenia zmian w zasadach funkcjonowania schematu płatniczego, organizacja płatnicza informuje Prezesa NBP co najmniej na miesiąc przed planowanym wprowadzeniem takich zmian, dołączając dokumenty i informacje dotyczące tych zmian.
 4. W przypadku, o którym mowa w ust. 1 pkt 2, organizacja płatnicza może rozpocząć funkcjonowanie na terytorium Rzeczypospolitej Polskiej albo zmienić zasady funkcjonowania schematu płatniczego, jeżeli Prezes NBP w terminie miesiąca od dnia przekazania dokumentów i informacji nie stwierdzi, że zasady funkcjonowania schematu płatniczego nie zapewniają w wystarczającym stopniu bezpieczeństwa lub sprawności funkcjonowania schematu płatniczego albo infrastruktury, systemów płatności lub schematów płatniczych, z którymi schemat płatniczy jest powiązany.
 5. W przypadku, o którym mowa w ust. 1 pkt 2, jeżeli Prezes NBP stwierdzi, że zasady funkcjonowania schematu płatniczego nie zapewniają w wystarczającym stopniu bezpieczeństwa lub sprawności funkcjonowania schematu płatniczego albo infrastruktury, systemów płatności lub schematów płatniczych, z którymi schemat płatniczy jest powiązany, wzywa on organizację płatniczą do wystąpienia z wnioskiem o uzyskanie zezwolenia, o którym mowa w art. 132zm ust. 1.
 6. Przepis ust. 1 pkt 2 nie stosuje się, jeżeli zmiana zasad funkcjonowania schematu płatniczego dotyczy wyłącznie funkcjonowania schematu płatniczego na terytorium Rzeczypospolitej Polskiej. W takim przypadku art. 132zn ust. 1 i 3–6 stosuje się odpowiednio.
-7. W przypadku, o którym mowa w ust. 1 pkt 2, jeżeli schemat płatniczy jest systemem kart płatniczych, organizacja kartowa przekazuje Prezesowi NBP informacje potwierdzające zgodność ustalonych przez nią zasad funkcjonowania systemu kart płatniczych z wymogami określonymi w rozporządzeniu (UE) 2015/751 co najmniej na 2 miesiące przed planowanym terminem rozpoczęcia funkcjonowania systemu kart płatniczych na terytorium Rzeczypospolitej Polskiej.
-System kart płatniczych może rozpocząć funkcjonowanie na terytorium Rzeczypospolitej Polskiej, jeżeli Prezes NBP w terminie 2 miesięcy od dnia przekazania informacji nie stwierdzi braku zgodności zasad funkcjonowania systemu kart płatniczych z wymogami określonymi w rozporządzeniu (UE) 2015/751.
+7. W przypadku, o którym mowa w ust. 1 pkt 2, jeżeli schemat płatniczy jest systemem kart płatniczych, organizacja kartowa przekazuje Prezesowi NBP informacje potwierdzające zgodność ustalonych przez nią zasad funkcjonowania systemu kart płatniczych z wymogami określonymi w rozporządzeniu (UE) 2015/751 co najmniej na 2 miesiące przed planowanym terminem rozpoczęcia funkcjonowania systemu kart płatniczych na terytorium Rzeczypospolitej Polskiej. System kart płatniczych może rozpocząć funkcjonowanie na terytorium Rzeczypospolitej Polskiej, jeżeli Prezes NBP w terminie 2 miesięcy od dnia przekazania informacji nie stwierdzi braku zgodności zasad funkcjonowania systemu kart płatniczych z wymogami określonymi w rozporządzeniu (UE) 2015/751.
 Art. 132zp. 1. Organizacja płatnicza odpowiada za zgodność funkcjonowania schematu płatniczego z przepisami prawa oraz zapewnienie bezpieczeństwa i sprawności funkcjonowania schematu płatniczego. Jeżeli za określone funkcje w ramach schematu płatniczego jest odpowiedzialny inny uczestnik, organizacja płatnicza wskazuje ten podmiot i określa zakres jego odpowiedzialności.
 2. Nazwa schematu płatniczego powinna jednoznacznie odróżniać się od nazw innych schematów płatniczych oraz systemów płatności.
 3. Zasady funkcjonowania schematu płatniczego:
@@ -211,8 +215,7 @@ Art. 132zq. 1. Organizacja płatnicza w terminie do ostatniego dnia miesiąca na
 4. Na żądanie Prezesa NBP organizacja płatnicza udostępnia NBP informacje i dokumenty w zakresie określonym w art. 132zp ust. 3, niezbędne do oceny zgodności zasad funkcjonowania schematu płatniczego z przepisami prawa oraz zapewnienia bezpieczeństwa i sprawności jego funkcjonowania, w terminie 2 tygodni od dnia otrzymania żądania. W uzasadnionych przypadkach Prezes NBP, na wniosek organizacji płatniczej, może przedłużyć termin na udostępnienie informacji i dokumentów o kolejne 2 tygodnie.
 5. Organizacja płatnicza jest obowiązana przekazać NBP teksty jednolite dokumentów określających zasady funkcjonowania schematu płatniczego w terminie miesiąca od dnia otrzymania zezwolenia na zmianę zasad funkcjonowania schematu płatniczego.
 6. Prezes NBP może wydawać organizacji płatniczej, w drodze decyzji, zalecenia w zakresie zapewnienia zgodności funkcjonowania schematu płatniczego z przepisami prawa oraz bezpieczeństwa lub sprawności jego funkcjonowania, w terminie oznaczonym w zaleceniu.
-7. Organizacja płatnicza, która nie wykonuje zalecenia, o którym mowa w ust.
-6, w zakresie naruszenia obowiązków określonych w:
+7. Organizacja płatnicza, która nie wykonuje zalecenia, o którym mowa w ust. 6, w zakresie naruszenia obowiązków określonych w:
 1) art. 6–8, art. 10 lub art. 11 rozporządzenia (UE) 2015/751 – podlega karze pieniężnej do 1 000 000 zł;
 2) art. 3, art. 4 lub art. 5 rozporządzenia (UE) 2015/751 – podlega karze pieniężnej do 5 000 000 zł.
 8. Przy ustalaniu wysokości kary pieniężnej, o której mowa w ust. 7, Prezes NBP uwzględnia w szczególności rodzaj i wagę naruszenia przepisów rozporządzenia (UE) 2015/751, wpływ tego naruszenia na prawidłowe funkcjonowanie rynku usług płatniczych, rozmiar prowadzonej działalności oraz sytuację finansową organizacji płatniczej, która dokonała naruszenia.
@@ -234,10 +237,11 @@ Lista zawiera informacje o nazwie i siedzibie organizacji płatniczej lub innych
 Art. 132zt. Przepisów niniejszego działu nie stosuje się do schematów płatniczych, które funkcjonują na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009 przez właściwe organy odpowiedzialne za zapewnienie przestrzegania tego rozporządzenia.
 Art. 132zu. 1. Dokumenty i informacje, o których mowa w art. 132zn ust. 1, 3 i 4, art. 132zo ust. 2, 3 i 7 oraz art. 132zq ust. 4 i 5, są przekazywane w postaci elektronicznej.
 2. Dokumenty i informacje, o których mowa w art. 132zq ust. 1 i 3, są przekazywane w postaci elektronicznej z wykorzystaniem odpowiednich certyfikatów wydanych przez NBP lub innych form uwierzytelniania stosowanych przez NBP.
-3. Dokumenty i informacje, o których mowa w art. 132zn ust. 3 i 4, art. 132zo ust. 2 zdanie drugie i art. 132zq ust. 4 i 5, oraz dokumenty i informacje dołączane w przypadku, o którym mowa w art. 132zo ust. 3, mogą być przekazane w języku angielskim. W takim przypadku czynności, o których mowa w art. 5 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2024 r. poz. 1556), mogą być dokonywane w języku polskim lub angielskim.
+3. Dokumenty i informacje, o których mowa w art. 132zn ust. 3 i 4, art. 132zo ust. 2 zdanie drugie i art. 132zq ust. 4 i 5, oraz dokumenty i informacje dołączane w przypadku, o którym mowa w art. 132zo ust. 3, mogą być przekazane w języku angielskim. W takim przypadku czynności, o których mowa w art. 5 ustawy z dnia 7 października 1999 r. o języku polskim (Dz. U. z 2026 r. poz. 81), mogą być dokonywane w języku polskim lub angielskim.
 Art. 132zv. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa NBP, określi, w drodze rozporządzenia:
 1) kryteria oceny schematu płatniczego oraz szczegółowy zakres dokumentów i informacji, o których mowa w art. 132zn ust. 3 i 4,
-2) szczegółowy zakres dokumentów i informacji, o których mowa w art. 132zo ust. 2 i 7,
+2) szczegółowy zakres dokumentów i informacji, o których mowa w art. 132zo ust.
+2 i 7,
 3) szczegółowy zakres informacji, o których mowa w art. 132zq ust. 1 i 3 – mając na względzie konieczność zapewnienia prawidłowości, bezpieczeństwa i sprawności funkcjonowania schematu płatniczego oraz infrastruktury, systemów płatności i schematów płatniczych powiązanych oraz kompletności i wiarygodności przekazywanych informacji i dokumentów.
 Art. 154–167. (pominięte)
 
@@ -281,7 +285,7 @@ Art. 154–167. (pominięte)
 
 2. Polecenie zapłaty oznacza usługę płatniczą polegającą na obciążeniu określoną kwotą rachunku płatniczego płatnika na skutek transakcji płatniczej zainicjowanej przez odbiorcę, dokonywanej na podstawie zgody, której płatnik udzielił odbiorcy, dostawcy odbiorcy lub dostawcy płatnika.
 
-2a. Do transakcji polecenia zapłaty z tytułu zapłaty faktury między wierzycielem i dłużnikiem będącymi przedsiębiorcami stosuje się odpowiednio przepisy rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525), zwanej dalej „ustawą – Prawo bankowe”.
+2a. Do transakcji polecenia zapłaty z tytułu zapłaty faktury między wierzycielem i dłużnikiem będącymi przedsiębiorcami stosuje się odpowiednio przepisy rozdziału 3a ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2026 r. poz. 38, 176, 331 i 340), zwanej dalej „ustawą – Prawo bankowe”.
 
 3. Usługa przekazu pieniężnego oznacza usługę płatniczą świadczoną bez pośrednictwa rachunku płatniczego prowadzonego dla płatnika, polegającą na transferze do odbiorcy lub do innego dostawcy przyjmującego środki pieniężne dla odbiorcy środków pieniężnych otrzymanych od płatnika lub polegającą na przyjęciu środków pieniężnych dla odbiorcy i ich udostępnieniu odbiorcy.
 
@@ -308,7 +312,7 @@ Art. 154–167. (pominięte)
 - **6)** instytucja płatnicza;
 - **7)** Europejski Bank Centralny, zwany dalej „EBC”, Narodowy Bank Polski, zwany dalej „NBP”, oraz bank centralny państwa członkowskiego innego niż Rzeczpospolita Polska – w przypadku gdy nie działają w charakterze władz monetarnych lub organów administracji publicznej;
 - **8)** organ administracji publicznej;
-- **9)** spółdzielcza kasa oszczędnościowo-kredytowa lub Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379), zwanej dalej „ustawą o spółdzielczych kasach oszczędnościowo-kredytowych” – w zakresie, w jakim odrębne przepisy uprawniają je do świadczenia usług płatniczych, zwane dalej „kasą oszczędnościowo-kredytową”;
+- **9)** spółdzielcza kasa oszczędnościowo-kredytowa lub Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa w rozumieniu ustawy z dnia 5 listopada 2009 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 2025 r. poz. 379, 820, 1069, 1170 i 1191 oraz z 2026 r. poz. 331), zwanej dalej „ustawą o spółdzielczych kasach oszczędnościowo-kredytowych” – w zakresie, w jakim odrębne przepisy uprawniają je do świadczenia usług płatniczych, zwane dalej „kasą oszczędnościowo-kredytową”;
 - **10)** biuro usług płatniczych;
 - **11)** mała instytucja płatnicza;
 - **12)** dostawca świadczący wyłącznie usługę dostępu do informacji o rachunku.
@@ -343,7 +347,7 @@ Art. 154–167. (pominięte)
 
 2. Przepisu ust. 1 nie stosuje się do rachunków bankowych służących do wykonywania transakcji płatniczych prowadzonych dla użytkownika przez bank krajowy, oddział banku zagranicznego, oddział instytucji kredytowej oraz NBP.
 
-3. NBP nadaje numery rozliczeniowe dostawcom prowadzącym rachunki płatnicze i uczestniczącym w systemach płatności, z wyłączeniem dostawców, którym numery rozliczeniowe nadaje się na podstawie ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025) oraz ustawy – Prawo bankowe, oraz prowadzi wykaz tych numerów.
+3. NBP nadaje numery rozliczeniowe dostawcom prowadzącym rachunki płatnicze i uczestniczącym w systemach płatności, z wyłączeniem dostawców, którym numery rozliczeniowe nadaje się na podstawie ustawy z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim (Dz. U. z 2022 r. poz. 2025 oraz z 2026 r. poz. 340) oraz ustawy – Prawo bankowe, oraz prowadzi wykaz tych numerów.
 
 4. Identyfikator dostawcy oraz numer rozliczeniowy, o którym mowa w ust. 3, nadaje się na wniosek dostawcy zawierający w szczególności jego dane teleadresowe oraz dane odnoszące się do prowadzonej działalności.
 
@@ -359,7 +363,7 @@ Art. 154–167. (pominięte)
 
 **Art. 4b.**
 
-1. Dostawcy, o których mowa w art. 4 ust. 2 pkt 4, 6, 9 i 11, weryfikują w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274), w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a tej ustawy, zwanym dalej „rejestrem zastrzeżeń numerów PESEL”, czy numer PESEL konsumenta jest zastrzeżony, przed:
+1. Dostawcy, o których mowa w art. 4 ust. 2 pkt 4, 6, 9 i 11, weryfikują w sposób, o którym mowa w art. 23j lub art. 23m ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2026 r. poz. 384), w rejestrze zastrzeżeń numerów PESEL, o którym mowa w art. 23a tej ustawy, zwanym dalej „rejestrem zastrzeżeń numerów PESEL”, czy numer PESEL konsumenta jest zastrzeżony, przed:
 
 - **1)** zawarciem umowy:
     - **a)** rachunku płatniczego,
@@ -384,7 +388,7 @@ Art. 154–167. (pominięte)
 
 2. Przepisy działu II, działu IIa, działu III, z wyłączeniem przepisów rozdziału 7, oraz działu IX stosuje się do transakcji płatniczych wykonywanych w euro, w walucie polskiej lub w walucie państwa członkowskiego innego niż Rzeczpospolita Polska w przypadku gdy zarówno dostawca płatnika, jak i dostawca odbiorcy lub jedyny dostawca w danej transakcji płatniczej znajdują się na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego.
 
-3. Przepisy działu II, z wyłączeniem art. 23 ust. 1 pkt 2, art. 27 pkt 2 lit. e i art. 30 pkt 1, działu IIa, działu III, z wyłącze-niem art. 52–58 i rozdziału 7 oraz działu IX, stosuje się do transakcji płatniczych wykonywanych w walucie, która nie jest walutą państwa członkowskiego, w przypadku gdy zarówno dostawca płatnika, jak i dostawca odbiorcy lub jedyny dostawca w danej transakcji płatniczej znajdują się na terytorium Rzeczypospolitej Polskiej lub innego państwa człon-kowskiego, w odniesieniu do tych części danej transakcji, które są realizowane w Rzeczypospolitej Polskiej lub innym państwie członkowskim.
+3. Przepisy działu II, z wyłączeniem art. 23 ust. 1 pkt 2, art. 27 pkt 2 lit. e i art. 30 pkt 1, działu IIa, działu III, z wyłączeniem art. 52–58 i rozdziału 7 oraz działu IX, stosuje się do transakcji płatniczych wykonywanych w walucie, która nie jest walutą państwa członkowskiego, w przypadku gdy zarówno dostawca płatnika, jak i dostawca odbiorcy lub jedyny dostawca w danej transakcji płatniczej znajdują się na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego, w odniesieniu do tych części danej transakcji, które są realizowane w Rzeczypospolitej Polskiej lub innym państwie członkowskim.
 
 3a. Przepisy działu II, z wyłączeniem art. 23 ust. 1 pkt 2, art. 27 pkt 2 lit. e i pkt 5 lit. f oraz art. 30 pkt 1, działu IIa, działu III, z wyłączeniem art. 37a ust. 1 i 3, art. 38a ust. 3, art. 47, art. 48, art. 52, art. 54 i rozdziału 7, oraz działu IX, z wyłączeniem art. 144 ust. 1, 2 i 3–5, art. 145, art. 146 i art. 148, stosuje się do transakcji płatniczych wykonywanych w każdej walucie, w przypadku gdy tylko jeden z dostawców znajduje się na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego, a drugi dostawca znajduje się na terytorium innego państwa, w odniesieniu do tych części danej transakcji płatniczej, które są realizowane na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego.
 
@@ -432,7 +436,7 @@ Art. 154–167. (pominięte)
 
 6. Do czasu rozpatrzenia wniosku, o którym mowa w ust. 5, podmiot może kontynuować działalność na terytorium Rzeczypospolitej Polskiej bez wymogu uzyskania zezwolenia albo wpisu do rejestru, o którym mowa w art. 117g ust. 1.
 
-7. W przypadku odmowy wydania zezwolenia, o którym mowa w art. 60 ust. 1, oraz odmowy dokonania wpisu do reje-stru, o którym mowa w art. 117g ust. 1, albo umorzenia postępowania, termin, o którym mowa w ust. 1, biegnie od dnia, w którym decyzja stała się ostateczna.
+7. W przypadku odmowy wydania zezwolenia, o którym mowa w art. 60 ust. 1, oraz odmowy dokonania wpisu do rejestru, o którym mowa w art. 117g ust. 1, albo umorzenia postępowania, termin, o którym mowa w ust. 1, biegnie od dnia, w którym decyzja stała się ostateczna.
 
 8. Podmiot wykonujący działalność określoną w art. 6 pkt 12, wpisany do rejestru zgodnie z ust. 4, zawiadamia KNF o zamiarze zakończenia działalności gospodarczej lub działalności określonej w art. 6 pkt 12, wskazując termin zakończenia działalności.
 
@@ -440,7 +444,7 @@ Art. 154–167. (pominięte)
 
 **Art. 7.**
 
-1. Środki pieniężne otrzymywane przez instytucje płatnicze, małe instytucje płatnicze, biura usług płatniczych, instytucje pieniądza elektronicznego oraz oddziały zagranicznych instytucji pieniądza elektronicznego w związku ze świadczeniem usług płatniczych oraz w zamian za wydawany pieniądz elektroniczny nie stanowią depozytu ani innych środków pieniężnych podlegających zwrotowi w rozumieniu art. 726 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2024 r. poz. 1061 i 1237).
+1. Środki pieniężne otrzymywane przez instytucje płatnicze, małe instytucje płatnicze, biura usług płatniczych, instytucje pieniądza elektronicznego oraz oddziały zagranicznych instytucji pieniądza elektronicznego w związku ze świadczeniem usług płatniczych oraz w zamian za wydawany pieniądz elektroniczny nie stanowią depozytu ani innych środków pieniężnych podlegających zwrotowi w rozumieniu art. 726 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508 oraz z 2026 r. poz. 184 i 507).
 
 2. Instytucje płatnicze, małe instytucje płatnicze, biura usług płatniczych, instytucje pieniądza elektronicznego oraz oddziały zagranicznych instytucji pieniądza elektronicznego nie mogą prowadzić działalności polegającej na przyjmowaniu środków pod tytułem zwrotnym w celu obciążenia ich ryzykiem innym niż ryzyko wynikające z wykonywania usług płatniczych.
 
@@ -483,7 +487,7 @@ Art. 154–167. (pominięte)
 
 - **1)** opis środków podjętych w celu ochrony środków pieniężnych użytkowników;
 - **2)** opis zasad zarządzania i mechanizmów kontroli wewnętrznej w odniesieniu do usług płatniczych lub usług w zakresie wydawania pieniądza elektronicznego, w tym procedur dotyczących podejmowania decyzji, procedur zarządzania ryzykiem i procedur księgowych;
-- **3)** opis rozwiązań w zakresie korzystania z usług technologii informacyjno-komunikacyjnych, stosowanych zgodnie z art. 6 i art. 7 rozporządzenia 2022/2554;
+- **3)** opis rozwiązań w zakresie korzystania z usług technologii informacyjnokomunikacyjnych, stosowanych zgodnie z art. 6 i art. 7 rozporządzenia 2022/2554;
 - **4)** plan likwidacji na wypadek upadłości, dostosowany do przewidywanej wielkości i modelu biznesowego instytucji płatniczej lub instytucji pieniądza elektronicznego.
 
 2. W przypadku gdy krajowa instytucja płatnicza lub krajowa instytucja pieniądza elektronicznego chronią środki pieniężne użytkowników przez ich deponowanie w sposób określony odpowiednio w art. 78 ust. 1 pkt 2 lit. a lub art. 132n ust. 1 pkt 2 lit. a lub inwestowanie zgodnie z przepisami wykonawczymi wydanymi odpowiednio na podstawie art. 79 lub art. 132o lub unijna instytucja płatnicza lub unijna instytucja pieniądza elektronicznego chronią środki pieniężne użytkowników w sposób określony w przepisach prawa macierzystego państwa członkowskiego, opis, o którym mowa w ust. 1 pkt 1, zawiera:
@@ -556,7 +560,7 @@ Art. 154–167. (pominięte)
 - **4)** za wyrażoną w postaci papierowej albo elektronicznej zgodą użytkownika lub posiadacza pieniądza elektronicznego, którego ta informacja dotyczy;
 - **5)** dostawcom świadczącym usługę inicjowania transakcji płatniczej, w zakresie niezbędnym do świadczenia usługi inicjowania transakcji płatniczej;
 - **6)** dostawcom świadczącym usługę dostępu do informacji o rachunku, w zakresie niezbędnym do świadczenia usługi dostępu do informacji o rachunku;
-- **7)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2024 r. poz. 340, 1089, 1222, 1473 i 1717 oraz z 2025 r. poz. 179);
+- **7)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie niezbędnym do wykonywania przez ten Fundusz zadań związanych z dokonywaniem wypłat z Turystycznego Funduszu Zwrotów lub Turystycznego Funduszu Pomocowego, o których mowa odpowiednio w art. 15ka i art. 15kc ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2025 r. poz. 764 i 1806 oraz z 2026 r. poz. 39);
 - **8)** KNF, w zakresie niezbędnym do wykonywania zadania określonego w art. 4 ust. 1 pkt 3b ustawy o nadzorze nad rynkiem finansowym;
 - **9)** Rzecznikowi Finansowemu, w zakresie niezbędnym do realizacji przez niego ustawowych zadań.
 
@@ -607,7 +611,7 @@ Art. 154–167. (pominięte)
 - **1)** monitorowaniu przestrzegania przepisów rozporządzenia (UE) 2015/751;
 - **2)** przeciwdziałaniu próbom naruszenia zakazu określonego w art. 5 rozporządzenia (UE) 2015/751.
 
-4. W przypadku gdy dostawcy, o których mowa w art. 4 ust. 2 pkt 1–4, 6 i 9, nie wykonują lub nienależycie wykonują obowiązki lub nie przestrzegają zakazów albo ograniczeń, o których mowa w art. 3–5 i art. 8–10 rozporządzenia (UE) 2015/751, KNF może, w drodze decyzji, nałożyć na tych dostawców karę pieniężną do wysokości 100 000 zł, nie więcej jednak niż do wysokości 1 % przychodu z tytułu świadczenia usług płatniczych wykazanego w jego ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku obowiązku badania sprawozdania finansowego – nie wyższą niż 10 % przychodu wykazanego w ostatnim zatwierdzonym sprawozdaniu finansowym.
+4. W przypadku gdy dostawcy, o których mowa w art. 4 ust. 2 pkt 1–4, 6 i 9, nie wykonują lub nienależycie wykonują obowiązki lub nie przestrzegają zakazów albo ograniczeń, o których mowa w art. 3–5 i art. 8–10 rozporządzenia (UE) 2015/751, KNF może, w drodze decyzji, nałożyć na tych dostawców karę pieniężną do wysokości 100 000 zł, niewięcej jednak niż do wysokości 1 % przychodu z tytułu świadczenia usług płatniczych wykazanego w jego ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku obowiązku badania sprawozdania finansowego – niewyższą niż 10 % przychodu wykazanego w ostatnim zatwierdzonym sprawozdaniu finansowym.
 
 5. W przypadku gdy dostawcy, o których mowa w art. 4 ust. 2 pkt 1–4, 6 i 9, nie wykonują lub nienależycie wykonują obowiązki i nie przestrzegają zakazów, o których mowa w art. 11 i art. 12 rozporządzenia (UE) 2015/751, KNF może, w drodze decyzji, nałożyć na tych dostawców karę pieniężną do wysokości 500 000 zł.
 
@@ -760,7 +764,7 @@ Art. 154–167. (pominięte)
 
 1. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii KNF, określi, w drodze rozporządzenia:
 
-- **1)** wykaz usług reprezentatywnych obejmujących co najmniej dziesięć, jednak nie więcej niż dwadzieścia usług powiązanych z rachunkiem płatniczym najczęściej wykorzystywanych przez konsumentów na krajowym rynku, za korzystanie z których przynajmniej jeden dostawca prowadzący działalność na terytorium Rzeczypospolitej Polskiej pobiera opłatę;
+- **1)** wykaz usług reprezentatywnych obejmujących co najmniej dziesięć, jednak niewięcej niż dwadzieścia usług powiązanych z rachunkiem płatniczym najczęściej wykorzystywanych przez konsumentów na krajowym rynku, za korzystanie z których przynajmniej jeden dostawca prowadzący działalność na terytorium Rzeczypospolitej Polskiej pobiera opłatę;
 - **2)** definicje związane z usługami, o których mowa w pkt 1.
 
 2. Wydając rozporządzenie, o którym mowa w ust. 1, minister właściwy do spraw instytucji finansowych uwzględnia w pierwszej kolejności usługi, które są najczęściej wykorzystywane w ramach korzystania z rachunków płatniczych przez konsumentów na krajowym rynku i jednocześnie generują najwyższe koszty dla konsumentów, zarówno jednostkowe, jak i łączne, a w przypadku ich braku – usługi, które spełniają wyłącznie kryterium najczęstszego wykorzystywania w ramach korzystania z rachunków płatniczych przez konsumentów na krajowym rynku, a także uwzględnia pojęcia i definicje opracowane przez Komisję Europejską zgodnie z art. 10–14 rozporządzenia 1093/2010.
@@ -822,7 +826,7 @@ Art. 154–167. (pominięte)
 
 4. Jeżeli w stosunku do danego dostawcy lub wydawcy pieniądza elektronicznego nie można ustalić organu sprawującego nadzór, skargę wnosi się bezpośrednio do tego dostawcy lub wydawcy; przepis ust. 3 stosuje się odpowiednio.
 
-5. Do skarg, o których mowa w ust. 1–4, nie stosuje się przepisów działu VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572).
+5. Do skarg, o których mowa w ust. 1–4, nie stosuje się przepisów działu VIII ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
 
 **Art. 15a.**
 
@@ -834,9 +838,9 @@ Art. 154–167. (pominięte)
 
 - **1)** wyjaśnia przyczynę opóźnienia;
 - **2)** wskazuje okoliczności, które muszą zostać ustalone w celu rozpatrzenia sprawy;
-- **3)** określa przewidywany termin rozpatrzenia reklamacji i udzielenia odpowiedzi, nie dłuższy niż 35 dni roboczych od dnia otrzymania reklamacji.
+- **3)** określa przewidywany termin rozpatrzenia reklamacji i udzielenia odpowiedzi, niedłuższy niż 35 dni roboczych od dnia otrzymania reklamacji.
 
-4. Do zachowania terminów, o których mowa w ust. 2 i ust. 3 pkt 3, jest wystarczające wysłanie odpowiedzi przed ich upływem, również na adres do doręczeń elektronicznych, a w przypadku odpowiedzi udzielonych na piśmie – nadanie w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
+4. Do zachowania terminów, o których mowa w ust. 2 i ust. 3 pkt 3, jest wystarczające wysłanie odpowiedzi przed ich upływem, również na adres do doręczeń elektronicznych, a w przypadku odpowiedzi udzielonych na piśmie – nadanie w placówce pocztowej operatora pocztowego w rozumieniu art. 3 pkt 12 ustawy z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2025 r. poz. 366, 820 i 1456) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej.
 
 5. Procedury, o których mowa w ust. 1, są stosowane przez dostawcę w odniesieniu do użytkowników z każdego z państw członkowskich, w których dostawca oferuje usługi, chyba że prawo właściwe dla stosunku prawnego, w ramach którego użytkownik złożył reklamację, stanowi inaczej.
 
@@ -846,7 +850,7 @@ Art. 154–167. (pominięte)
 
 **Art. 15b.**
 
-1. Do rozpatrywania reklamacji składanych przez użytkownika będącego osobą fizyczną stosuje się przepisy ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146), z zastrzeżeniem art. 15a ust. 2–4.
+1. Do rozpatrywania reklamacji składanych przez użytkownika będącego osobą fizyczną stosuje się przepisy ustawy z dnia 5 sierpnia 2015 r. o rozpatrywaniu reklamacji przez podmioty rynku finansowego, o Rzeczniku Finansowym i o Funduszu Edukacji Finansowej (Dz. U. z 2024 r. poz. 1109 oraz z 2025 r. poz. 146, 1069 i 1545), z zastrzeżeniem art. 15a ust. 2–4.
 
 2. W zakresie, w jakim do rozstrzygania reklamacji użytkownika będącego osobą fizyczną nie stosuje się przepisów ustawy wymienionej w ust. 1, dostawca wprowadza i stosuje procedury rozpatrywania reklamacji określone niniejszą ustawą.
 
@@ -942,9 +946,7 @@ Art. 154–167. (pominięte)
 
 **Art. 20d.**
 
-1. Dostawca udostępnia konsumentowi, nieodpłatnie, broszurę informacyjną Komisji Europejskiej dotyczącą praw konsumentów przy dokonywaniu płatności w państwach członkowskich, opracowaną na podstawie art. 106 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającej dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającej dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z
-
-23. 12.2015, str. 35, z późn. zm. ).
+1. Dostawca udostępnia konsumentowi, nieodpłatnie, broszurę informacyjną Komisji Europejskiej dotyczącą praw konsumentów przy dokonywaniu płatności w państwach członkowskich, opracowaną na podstawie art. 106 ust. 1 dyrektywy Parlamentu Europejskiego i Rady (UE) 2015/2366 z dnia 25 listopada 2015 r. w sprawie usług płatniczych w ramach rynku wewnętrznego, zmieniającej dyrektywy 2002/65/WE, 2009/110/WE, 2013/36/UE i rozporządzenie (UE) nr 1093/2010 oraz uchylającej dyrektywę 2007/64/WE (Dz. Urz. UE L 337 z 23.12.2015, str. 35, z późn. zm. ).
 
 2. Dostawca udostępnia broszurę, o której mowa w ust. 1, w polskiej wersji językowej, w sposób przystępny:
 
@@ -1003,7 +1005,7 @@ Art. 154–167. (pominięte)
 
 4. Dostawca może spełnić obowiązek, o którym mowa w ust. 1, 2 albo 3, w zakresie dostarczenia informacji określonych w art. 27, dostarczając projekt umowy ramowej zawierający te informacje.
 
-5. Użytkownik może odstąpić od umowy ramowej zawartej z naruszeniem przepisów ust. 1–3 lub 4 w każdym czasie, nie później jednak niż w terminie 30 dni od dnia otrzymania informacji określonych w art. 27, w sposób, o którym mowa w ust. 1.
+5. Użytkownik może odstąpić od umowy ramowej zawartej z naruszeniem przepisów ust. 1–3 lub 4 w każdym czasie, niepóźniej jednak niż w terminie 30 dni od dnia otrzymania informacji określonych w art. 27, w sposób, o którym mowa w ust. 1.
 
 6. Do indywidualnych transakcji płatniczych dokonywanych na podstawie umowy ramowej przed dopełnieniem przez dostawcę obowiązku określonego w ust. 1–3 lub 4, stosuje się przepis art. 22 ust. 4.
 
@@ -1021,12 +1023,12 @@ Art. 154–167. (pominięte)
 
 **Art. 29.**
 
-1. Dostawca informuje o proponowanych zmianach postanowień umownych nie później niż 2 miesiące przed proponowaną datą ich wejścia w życie.
+1. Dostawca informuje o proponowanych zmianach postanowień umownych niepóźniej niż 2 miesiące przed proponowaną datą ich wejścia w życie.
 
 2. Jeżeli umowa ramowa stanowi, że brak sprzeciwu użytkownika wobec proponowanych zmian jest równoznaczny z wyrażeniem na nie zgody, dostawca, informując o zmianach, o których mowa w ust. 1, jest obowiązany poinformować użytkownika, że:
 
 - **1)** jeżeli przed proponowaną datą wejścia w życie zmian użytkownik nie zgłosi dostawcy sprzeciwu wobec tych zmian, uznaje się, że użytkownik wyraził na nie zgodę;
-- **2)** użytkownik ma prawo, przed dniem proponowanego wejścia w życie zmian, wypowiedzieć umowę ramową bez ponoszenia opłat ze skutkiem od dnia poinformowania użytkownika o zmianie, o której mowa w ust. 1, nie później jednak niż od dnia, w którym te zmiany zostałyby zastosowane;
+- **2)** użytkownik ma prawo, przed dniem proponowanego wejścia w życie zmian, wypowiedzieć umowę ramową bez ponoszenia opłat ze skutkiem od dnia poinformowania użytkownika o zmianie, o której mowa w ust. 1, niepóźniej jednak niż od dnia, w którym te zmiany zostałyby zastosowane;
 - **3)** w przypadku gdy użytkownik zgłosi sprzeciw zgodnie z pkt 1, ale nie dokona wypowiedzenia umowy ramowej, umowa wygasa z dniem poprzedzającym dzień wejścia w życie proponowanych zmian, bez ponoszenia opłat.
 
 3. Do poinformowania dokonywanego zgodnie z ust. 2 przepis art. 26 ust. 1 stosuje się odpowiednio.
@@ -1074,7 +1076,7 @@ Art. 154–167. (pominięte)
 
 1. Dostawca przekazuje konsumentowi, nieodpłatnie, co najmniej raz w roku kalendarzowym, zestawienie opłat za usługi powiązane z rachunkiem płatniczym pobranych w okresie objętym zestawieniem, a w przypadku udzielania kredytu w rachunku płatniczym – także informację o stopie oprocentowania kredytu w rachunku płatniczym oraz całkowitej kwocie odsetek pobranych z tego tytułu w tym okresie, a także informację o stopie oprocentowania środków pieniężnych na rachunku płatniczym oraz całkowitej kwocie odsetek należnych za dany okres.
 
-2. W przypadku rozwiązania umowy rachunku płatniczego dostawca przekazuje konsumentowi, nie później niż w terminie 2 tygodni od dnia rozwiązania umowy, zestawienie opłat za okres, za który nie było sporządzane zestawienie opłat, do dnia rozwiązania umowy.
+2. W przypadku rozwiązania umowy rachunku płatniczego dostawca przekazuje konsumentowi, niepóźniej niż w terminie 2 tygodni od dnia rozwiązania umowy, zestawienie opłat za okres, za który nie było sporządzane zestawienie opłat, do dnia rozwiązania umowy.
 
 3. W zestawieniu opłat dostawca uwzględnia opłaty pobierane w związku z usługami zawartymi w wykazie usług reprezentatywnych określonym w przepisach wydanych na podstawie art. 14f ust. 1. W takim przypadku dostawca posługuje się pojęciami zawartymi w tym wykazie oraz definicjami określonymi w przepisach wydanych na podstawie art. 14f ust. 1.
 
@@ -1164,14 +1166,10 @@ Art. 154–167. (pominięte)
 - **1)** wezwać tego użytkownika do usunięcia naruszeń i przedstawienia informacji o sposobie usunięcia tych naruszeń w terminie 14 dni od dnia doręczenia wezwania albo
 - **2)** powiadomić o naruszeniach właściwe organy nadzorcze macierzystego państwa członkowskiego użytkownika – w przypadku użytkowników stale zamieszkujących lub mających siedzibę na terytorium państwa członkowskiego innego niż Rzeczpospolita Polska.
 
-2. W wezwaniu, o którym mowa w ust. 1 pkt 1, KNF poucza użytkownika o wskazanych w ust. 3 możliwych skutkach nieusunięcia naruszeń lub braku odpowiedzi na wezwanie.
-
-3. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, lub w przypadku braku odpowiedzi na wezwanie, o którym mowa w ust. 1 pkt 1, KNF może, w drodze decyzji, nałożyć na użytkownika karę pieniężną do wysokości 100 000 zł <, chyba że naruszenie dotyczy przepisów art. 5a–5d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009>. <3a. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, dotyczących przepisów art. 5a–5d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009 lub w przypadku braku odpowiedzi na wezwanie, o którym mowa w ust. 1 pkt 1, KNF może, w drodze decyzji, nałożyć na użytkownika:
+2. W wezwaniu, o którym mowa w ust. 1 pkt 1, KNF poucza użytkownika o wskazanych w ust. 3 możliwych skutkach nieusunięcia naruszeń lub braku odpowiedzi na wezwanie. [3. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, lub w przypadku braku odpowiedzi na wezwanie, o którym mowa w ust. 1 pkt 1, KNF może, w drodze decyzji, nałożyć na użytkownika karę pieniężną do wysokości 100 000 zł.] <3. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, lub w przypadku braku odpowiedzi na wezwanie, o którym mowa w ust. 1 pkt 1, KNF może, w drodze decyzji, nałożyć na użytkownika karę pieniężną do wysokości 100 000 zł, chyba że naruszenie dotyczy przepisów art. 5a–5d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009.> <3a. W przypadku nieusunięcia naruszeń, o których mowa w ust. 1, dotyczących przepisów art. 5a–5d rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 260/2012 z dnia 14 marca 2012 r. ustanawiającego wymogi techniczne i handlowe w odniesieniu do poleceń przelewu i poleceń zapłaty w euro oraz zmieniającego rozporządzenie (WE) nr 924/2009 lub w przypadku braku odpowiedzi na wezwanie, o którym mowa w ust. 1 pkt 1, KNF może, w drodze decyzji, nałożyć na użytkownika:
 
 - **1)** który jest osobą prawną lub jednostką organizacyjną niebędącą osobą prawną – karę pieniężną do wysokości 10 % łącznych przychodów netto z tytułu świadczenia usług płatniczych wykazanych w jego ostatnim zbadanym sprawozdaniu finansowym, a w przypadku braku obowiązku badania sprawozdania finansowego – do wysokości 10 % przychodu wykazanego w ostatnim zatwierdzonym sprawozdaniu finansowym;
-- **2)** który jest osobą fizyczną – karę pieniężną do wysokości 21 500 000 zł.>
-
-4. Ustalając wysokość kary pieniężnej, o której mowa w [ust. 3] < ust. 3 i 3a>, KNF uwzględnia rodzaj i wagę naruszenia, rozmiar prowadzonej działalności oraz sytuację finansową użytkownika, który dopuścił się naruszenia.
+- **2)** który jest osobą fizyczną – karę pieniężną do wysokości 21 500 000 zł.> [4. Ustalając wysokość kary pieniężnej, o której mowa w ust. 3, KNF uwzględnia rodzaj i wagę naruszenia, rozmiar prowadzonej działalności oraz sytuację finansową użytkownika, który dopuścił się naruszenia.] <4. Ustalając wysokość kary pieniężnej, o której mowa w ust. 3 i 3a, KNF uwzględnia rodzaj i wagę naruszenia, rozmiar prowadzonej działalności oraz sytuację finansową użytkownika, który dopuścił się naruszenia.>
 
 **Art. 35.**
 
@@ -1215,7 +1213,7 @@ Art. 154–167. (pominięte)
 
 - **1)** nie stosuje się przepisów art. 42 ust. 1 pkt 2, art. 43 ust. 1 pkt 3–5 i art. 46 ust. 4 i 5, jeżeli instrument płatniczy nie pozwala na jego zablokowanie lub uniemożliwienie w inny sposób jego dalszego używania;
 - **2)** nie stosuje się przepisów art. 45 oraz art. 46 ust. 1–3, jeżeli instrument płatniczy jest używany anonimowo lub dostawca z innych przyczyn nieodłącznie związanych z instrumentem płatniczym nie jest w stanie udowodnić, że transakcja była autoryzowana;
-- **3)** dostawca nie ma obowiązku powiadomienia użytkownika o odmowie wykonania zlecenia płatniczego, jeżeli z okoliczności jasno wynika, iż zlecenie nie zostało wykonane; w takim przypadku przepisów art. 50 ust. 1– 3 nie stosuje się;
+- **3)** dostawca nie ma obowiązku powiadomienia użytkownika o odmowie wykonania zlecenia płatniczego, jeżeli z okoliczności jasno wynika, iż zlecenie nie zostało wykonane; w takim przypadku przepisów art. 50 ust. 1–3 nie stosuje się;
 - **4)** płatnik nie może odwołać zlecenia płatniczego po przekazaniu odbiorcy zlecenia płatniczego lub udzieleniu odbiorcy swojej zgody na wykonanie transakcji płatniczej; w takim przypadku przepisu art. 51 nie stosuje się;
 - **5)** terminy uznania rachunku dostawcy odbiorcy kwotą transakcji płatniczej oraz udostępnienia odbiorcy kwoty transakcji przez dostawcę odbiorcy określone w art. 54, art. 56 i art. 57 nie mają zastosowania.
 
@@ -1234,7 +1232,7 @@ Art. 154–167. (pominięte)
 
 3. Dostawca, na pisemne żądanie organu wypłacającego świadczenie z ubezpieczenia społecznego lub zaopatrzenia emerytalnego albo uposażenie w stanie spoczynku, jest obowiązany do sporządzania i przekazywania danych umożliwiających identyfikację osoby współuprawnionej z umowy obejmującej wydanie instrumentu płatniczego lub prowadzenie rachunku płatniczego, na który zostały przekazane świadczenia lub uposażenia za okres po śmierci świadczeniobiorcy. Przekazywane dane mogą obejmować jedynie imię i nazwisko, numer PESEL oraz adres miejsca zamieszkania osoby współuprawnionej.
 
-**Art. 39b.** Dostawcy świadczący usługi płatnicze, o których mowa w art. 3 ust. 1 pkt 2 lit. c i pkt 7, oraz dostawcy usług technicznych, o których mowa w art. 6 pkt 10, świadczący usługę przekazywania pomiędzy płatnikiem a odbiorcą informacji o transakcji płatniczej, mogą pośredniczyć w płatnościach z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w dziale XI w rozdziale 1a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222).
+**Art. 39b.** Dostawcy świadczący usługi płatnicze, o których mowa w art. 3 ust. 1 pkt 2 lit. c i pkt 7, oraz dostawcy usług technicznych, o których mowa w art. 6 pkt 10, świadczący usługę przekazywania pomiędzy płatnikiem a odbiorcą informacji o transakcji płatniczej, mogą pośredniczyć w płatnościach z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w dziale XI w rozdziale 1a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, z późn. zm. ).
 
 #### Rozdział 2 Autoryzacja transakcji płatniczych
 
@@ -1244,7 +1242,7 @@ Art. 154–167. (pominięte)
 
 2. Zgoda powinna być udzielona przez płatnika przed wykonaniem transakcji płatniczej albo kolejnych transakcji płatniczych, chyba że płatnik i jego dostawca uzgodnili, że zgoda może zostać udzielona także po ich wykonaniu. Zgody na wykonanie transakcji płatniczej można również udzielić za pośrednictwem odbiorcy, dostawcy odbiorcy albo dostawcy świadczącego usługę inicjowania transakcji płatniczej.
 
-3. Płatnik może w każdej chwili wycofać zgodę, nie później jednak niż do momentu, w którym zlecenie płatnicze zgodnie z art. 51 stało się nieodwołalne.
+3. Płatnik może w każdej chwili wycofać zgodę, niepóźniej jednak niż do momentu, w którym zlecenie płatnicze zgodnie z art. 51 stało się nieodwołalne.
 
 4. Jeżeli zgoda dotyczy kolejnych transakcji płatniczych, wycofanie dotyczy wszystkich niewykonanych transakcji płatniczych, chyba że płatnik zastrzegł inaczej.
 
@@ -1262,7 +1260,7 @@ Art. 154–167. (pominięte)
 
 4. Dostawca odblokowuje instrument płatniczy albo zastępuje go nowym, jeżeli przestały istnieć podstawy do utrzymywania blokady.
 
-5. Dostawca prowadzący rachunek może odmówić dostawcy świadczącemu usługę dostępu do informacji o rachunku lub dostawcy świadczącemu usługę inicjowania transakcji płatniczej dostępu do danego rachunku płatniczego z obiektywnie uzasadnionych i należycie udokumentowanych przyczyn związanych z nieuprawnionym lub nielegalnym dostępem do rachunku płatniczego przez takiego dostawcę, w tym nieuprawnionym zainicjowaniem transakcji płatniczej. W takim przypadku dostawca prowadzący rachunek w uzgodniony sposób informuje płatnika o odmowie dostępu do rachunku płatniczego i jej przyczynach. Informacja ta, o ile jest to możliwe, jest przekazywana płatnikowi przed odmową dostępu, a najpóźniej bezzwłocznie po takiej odmowie, nie później jednak niż w dniu roboczym następującym po dniu takiej odmowy, chyba że jej przekazanie nie byłoby wskazane z obiektywnie uzasadnionych względów bezpieczeństwa lub jest sprzeczne z odrębnymi przepisami. Dostawca prowadzący rachunek umożliwia dostawcy świadczącemu usługę dostępu do informacji o rachunku oraz dostawcy świadczącemu usługę inicjowania transakcji płatniczej dostęp do rachunku płatniczego niezwłocznie po ustaniu przyczyn uzasadniających odmowę.
+5. Dostawca prowadzący rachunek może odmówić dostawcy świadczącemu usługę dostępu do informacji o rachunku lub dostawcy świadczącemu usługę inicjowania transakcji płatniczej dostępu do danego rachunku płatniczego z obiektywnie uzasadnionych i należycie udokumentowanych przyczyn związanych z nieuprawnionym lub nielegalnym dostępem do rachunku płatniczego przez takiego dostawcę, w tym nieuprawnionym zainicjowaniem transakcji płatniczej. W takim przypadku dostawca prowadzący rachunek w uzgodniony sposób informuje płatnika o odmowie dostępu do rachunku płatniczego i jej przyczynach. Informacja ta, o ile jest to możliwe, jest przekazywana płatnikowi przed odmową dostępu, a najpóźniej bezzwłocznie po takiej odmowie, niepóźniej jednak niż w dniu roboczym następującym po dniu takiej odmowy, chyba że jej przekazanie nie byłoby wskazane z obiektywnie uzasadnionych względów bezpieczeństwa lub jest sprzeczne z odrębnymi przepisami. Dostawca prowadzący rachunek umożliwia dostawcy świadczącemu usługę dostępu do informacji o rachunku oraz dostawcy świadczącemu usługę inicjowania transakcji płatniczej dostęp do rachunku płatniczego niezwłocznie po ustaniu przyczyn uzasadniających odmowę.
 
 6. W przypadku, o którym mowa w ust. 5, dostawca prowadzący rachunek niezwłocznie zgłasza do KNF lub innego właściwego organu nadzoru incydent związany z dostawcą świadczącym usługę dostępu do informacji o rachunku lub dostawcą świadczącym usługę inicjowania transakcji płatniczej. Informacje te obejmują istotne okoliczności zdarzenia oraz opis i przyczyny podjętych działań wraz z uzasadnieniem.
 
@@ -1313,11 +1311,11 @@ Art. 154–167. (pominięte)
 
 **Art. 46.**
 
-1. Z zastrzeżeniem art. 44 ust. 2, w przypadku wystąpienia nieautoryzowanej transakcji płatniczej dostawca płatnika niezwłocznie, nie później jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia nieautoryzowanej transakcji, którą został obciążony rachunek płatnika, lub po dniu otrzymania stosownego zgłoszenia, zwraca płatnikowi kwotę nieautoryzowanej transakcji płatniczej, z wyjątkiem przypadku gdy dostawca płatnika ma uzasadnione i należycie udokumentowane podstawy, aby podejrzewać oszustwo, i poinformuje o tym w formie pisemnej organy powołane do ścigania przestępstw. W przypadku gdy płatnik korzysta z rachunku płatniczego, dostawca płatnika przywraca obciążony rachunek płatniczy do stanu, jaki istniałby, gdyby nie miała miejsca nieautoryzowana transakcja płatnicza. Data waluty w odniesieniu do uznania rachunku płatniczego płatnika nie może być późniejsza od daty obciążenia tą kwotą.
+1. Z zastrzeżeniem art. 44 ust. 2, w przypadku wystąpienia nieautoryzowanej transakcji płatniczej dostawca płatnika niezwłocznie, niepóźniej jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia nieautoryzowanej transakcji, którą został obciążony rachunek płatnika, lub po dniu otrzymania stosownego zgłoszenia, zwraca płatnikowi kwotę nieautoryzowanej transakcji płatniczej, z wyjątkiem przypadku gdy dostawca płatnika ma uzasadnione i należycie udokumentowane podstawy, aby podejrzewać oszustwo, i poinformuje o tym w formie pisemnej organy powołane do ścigania przestępstw. W przypadku gdy płatnik korzysta z rachunku płatniczego, dostawca płatnika przywraca obciążony rachunek płatniczy do stanu, jaki istniałby, gdyby nie miała miejsca nieautoryzowana transakcja płatnicza. Data waluty w odniesieniu do uznania rachunku płatniczego płatnika nie może być późniejsza od daty obciążenia tą kwotą.
 
-1a. W przypadku gdy transakcja płatnicza jest inicjowana za pośrednictwem dostawcy świadczącego usługę inicjowania transakcji płatniczej, dostawca prowadzący rachunek niezwłocznie, nie później jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia nieautoryzowanej transakcji, którą został obciążony rachunek płatnika, lub po dniu otrzymania stosownego zgłoszenia, zwraca płatnikowi kwotę nieautoryzowanej transakcji płatniczej oraz, w stosownych przypadkach, przywraca obciążony rachunek płatniczy do stanu, jaki istniałby, gdyby nie miała miejsca nieautoryzowana transakcja płatnicza.
+1a. W przypadku gdy transakcja płatnicza jest inicjowana za pośrednictwem dostawcy świadczącego usługę inicjowania transakcji płatniczej, dostawca prowadzący rachunek niezwłocznie, niepóźniej jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia nieautoryzowanej transakcji, którą został obciążony rachunek płatnika, lub po dniu otrzymania stosownego zgłoszenia, zwraca płatnikowi kwotę nieautoryzowanej transakcji płatniczej oraz, w stosownych przypadkach, przywraca obciążony rachunek płatniczy do stanu, jaki istniałby, gdyby nie miała miejsca nieautoryzowana transakcja płatnicza.
 
-1b. Jeżeli dostawca świadczący usługę inicjowania transakcji płatniczej odpowiada za dokonanie nieautoryzowanej transakcji płatniczej, na wniosek dostawcy prowadzącego rachunek, niezwłocznie, nie później jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia danej transakcji lub doręczenia wniosku, rekompensuje mu poniesione straty lub zwraca kwoty zapłacone w wyniku dokonania przez niego zwrotu na rzecz płatnika, w tym kwotę nieautoryzowanej transakcji płatniczej. Przepis art. 45 ust. 1a stosuje się odpowiednio.
+1b. Jeżeli dostawca świadczący usługę inicjowania transakcji płatniczej odpowiada za dokonanie nieautoryzowanej transakcji płatniczej, na wniosek dostawcy prowadzącego rachunek, niezwłocznie, niepóźniej jednak niż do końca dnia roboczego następującego po dniu stwierdzenia wystąpienia danej transakcji lub doręczenia wniosku, rekompensuje mu poniesione straty lub zwraca kwoty zapłacone w wyniku dokonania przez niego zwrotu na rzecz płatnika, w tym kwotę nieautoryzowanej transakcji płatniczej. Przepis art. 45 ust. 1a stosuje się odpowiednio.
 
 1c. Roszczenia, o których mowa w ust. 1b, nie wyłączają roszczeń wynikających z umowy zawartej między płatnikiem a dostawcą prowadzącym rachunek lub umowy zawartej między płatnikiem a dostawcą świadczącym usługę inicjowania transakcji płatniczej oraz z przepisów prawa właściwego dla tych umów.
 
@@ -1417,7 +1415,7 @@ Art. 154–167. (pominięte)
 
 1. Dostawca prowadzący rachunek nie może odmówić wykonania autoryzowanego zlecenia płatniczego inicjowanego przez płatnika, w tym za pośrednictwem dostawcy świadczącego usługę inicjowania transakcji płatniczej, albo odbiorcę lub za jego pośrednictwem, chyba że nie zostały spełnione przez płatnika postanowienia umowy między dostawcą prowadzącym rachunek a płatnikiem lub możliwość albo obowiązek takiej odmowy wynika z odrębnych przepisów.
 
-2. W przypadku gdy dostawca odmawia wykonania zlecenia płatniczego, jest obowiązany powiadomić użytkownika w najbliższym możliwym terminie, nie później jednak niż w terminach określonych zgodnie z art. 54 i art. 56:
+2. W przypadku gdy dostawca odmawia wykonania zlecenia płatniczego, jest obowiązany powiadomić użytkownika w najbliższym możliwym terminie, niepóźniej jednak niż w terminach określonych zgodnie z art. 54 i art. 56:
 
 - **1)** o odmowie,
 - **2)** jeżeli to możliwe – o przyczynach odmowy,
@@ -1433,9 +1431,9 @@ Art. 154–167. (pominięte)
 
 2. W przypadku gdy transakcja płatnicza jest inicjowana przez dostawcę świadczącego usługę inicjowania transakcji płatniczej lub przez odbiorcę lub za jego pośrednictwem, płatnik nie może odwołać zlecenia płatniczego po udzieleniu dostawcy świadczącemu usługę inicjowania transakcji płatniczej zgody na zainicjowanie transakcji płatniczej albo po udzieleniu odbiorcy zgody na wykonanie transakcji płatniczej.
 
-3. W przypadku polecenia zapłaty płatnik może odwołać zlecenie płatnicze, z zachowaniem prawa do zwrotu kwoty transakcji płatniczej, nie później niż do końca dnia roboczego poprzedzającego uzgodniony dzień obciążenia rachunku płatniczego.
+3. W przypadku polecenia zapłaty płatnik może odwołać zlecenie płatnicze, z zachowaniem prawa do zwrotu kwoty transakcji płatniczej, niepóźniej niż do końca dnia roboczego poprzedzającego uzgodniony dzień obciążenia rachunku płatniczego.
 
-4. W przypadku, o którym mowa w art. 49 ust. 3, użytkownik może odwołać zlecenie płatnicze nie później niż do końca dnia roboczego poprzedzającego uzgodniony dzień.
+4. W przypadku, o którym mowa w art. 49 ust. 3, użytkownik może odwołać zlecenie płatnicze niepóźniej niż do końca dnia roboczego poprzedzającego uzgodniony dzień.
 
 5. Po upływie terminów określonych w ust. 1–4 zlecenie płatnicze można odwołać wyłącznie, jeżeli uzgodnią to między sobą użytkownik i odpowiedni dostawca. W przypadkach, o których mowa w ust. 2 i 3, wymagana jest również zgoda odbiorcy.
 
@@ -1461,7 +1459,7 @@ Art. 154–167. (pominięte)
 
 - **1)** transakcji płatniczych w euro;
 - **2)** transakcji płatniczych wykonywanych w całości na terytorium Rzeczypospolitej Polskiej w walucie polskiej;
-- **3)** transakcji płatniczych obejmujących nie więcej niż jedno przeliczenie waluty między:
+- **3)** transakcji płatniczych obejmujących niewięcej niż jedno przeliczenie waluty między:
     - **a)** euro a walutą polską, jeżeli przeliczenie waluty jest dokonane w Rzeczypospolitej Polskiej,
     - **b)** euro a walutą innego niż Rzeczpospolita Polska państwa członkowskiego spoza obszaru euro, jeżeli przeliczenie waluty jest dokonane w tym państwie członkowskim,
     - **c)** euro a walutą polską lub euro a walutą innego niż Rzeczpospolita Polska państwa członkowskiego spoza obszaru euro, dokonywanego w państwie członkowskim z obszaru euro, w przypadku przelewów transgranicznych zainicjowanych w euro.
@@ -1472,13 +1470,13 @@ Art. 154–167. (pominięte)
 
 **Art. 54.**
 
-1. Dostawca płatnika jest obowiązany doprowadzić do uznania rachunku płatniczego dostawcy odbiorcy kwotą transakcji płatniczej zainicjowanej przez płatnika nie później niż do końca następnego dnia roboczego po otrzymaniu zlecenia.
+1. Dostawca płatnika jest obowiązany doprowadzić do uznania rachunku płatniczego dostawcy odbiorcy kwotą transakcji płatniczej zainicjowanej przez płatnika niepóźniej niż do końca następnego dnia roboczego po otrzymaniu zlecenia.
 
 2. Termin określony w ust. 1 może zostać przedłużony o jeden dzień roboczy, w przypadku gdy dostawca płatnika otrzymał zlecenie płatnicze w postaci papierowej.
 
 **Art. 55.**
 
-1. W zakresie transakcji płatniczych w całości wykonywanych na terytorium Rzeczypospolitej Polskiej w walucie polskiej, dotyczących należności, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111 i 497), zwanej dalej „ustawą – Ordynacja podatkowa”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), nie stosuje się art. 54 ust. 2.
+1. W zakresie transakcji płatniczych w całości wykonywanych na terytorium Rzeczypospolitej Polskiej w walucie polskiej, dotyczących należności, do których stosuje się przepisy ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ), zwanej dalej „ustawą – Ordynacja podatkowa”, oraz rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 952/2013 z dnia 9 października 2013 r. ustanawiającego unijny kodeks celny (Dz. Urz. UE L 269 z 10.10.2013, str. 1, z późn. zm. ), nie stosuje się art. 54 ust. 2.
 
 2. W razie niedotrzymania terminu wykonania transakcji płatniczej, o którym mowa w art. 54 ust. 1, w zakresie należności, o których mowa w ust. 1, dostawca jest obowiązany do zapłacenia na rzecz Skarbu Państwa lub właściwej jednostki samorządu terytorialnego odsetek w wysokości przewidzianej dla odsetek za zwłokę od zaległości podatkowych.
 
@@ -1486,13 +1484,11 @@ Art. 154–167. (pominięte)
 
 **Art. 55a.**
 
-1. W zakresie transakcji płatniczych w całości wykonywanych na terytorium Rzeczypospolitej Polskiej w walucie polskiej, dotyczących należności, do których stosuje się przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2024 r. poz. 1631 i 1674), nie stosuje się przepisu art. 54 ust. 2.
+1. W zakresie transakcji płatniczych w całości wykonywanych na terytorium Rzeczypospolitej Polskiej w walucie polskiej, dotyczących należności, do których stosuje się przepisy ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2025 r. poz. 1749 oraz z 2026 r. poz. 26 i 425), nie stosuje się przepisu art. 54 ust. 2.
 
 2. W razie niedotrzymania terminu wykonania transakcji płatniczej, o którym mowa w art. 54 ust. 1, w zakresie należności, o których mowa w ust. 1, dostawca jest obowiązany do zapłacenia na rzecz świadczeniobiorcy odsetek ustawowych za opóźnienie.
 
-3. Do odpowiedzialności dostawcy z tytułu niewykonania obowiązku określonego w art. 54 ust. 1, dotyczącego należności, o których mowa w ust. 1, stosuje się odpowiednio przepis art. 85 ust. 1 zdanie drugie ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz.
-
-- **350)** .
+3. Do odpowiedzialności dostawcy z tytułu niewykonania obowiązku określonego w art. 54 ust. 1, dotyczącego należności, o których mowa w ust. 1, stosuje się odpowiednio przepis art. 85 ust. 1 zdanie drugie ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2026 r. poz. 199, 252, 426, 473 i 507).
 
 **Art. 55b.** W zakresie transakcji płatniczych polegających na transferze środków pieniężnych z tytułu składek na ubezpieczenia społeczne i ubezpieczenie zdrowotne oraz innych składek i wpłat, do których poboru jest zobowiązany Zakład Ubezpieczeń Społecznych, nie stosuje się art. 54 ust. 2.
 
@@ -1504,7 +1500,7 @@ Art. 154–167. (pominięte)
 
 **Art. 57.** Jeżeli odbiorca nie posiada rachunku płatniczego u dostawcy, środki pieniężne są udostępniane odbiorcy przez dostawcę, który otrzymuje środki pieniężne dla odbiorcy, w terminie określonym w art. 54 i art. 56 ust. 1.
 
-**Art. 58.** Wpłata gotówki na swój lub cudzy rachunek płatniczy, dokonana u dostawcy prowadzącego ten rachunek płatniczy w walucie tego rachunku płatniczego, jest udostępniana na tym rachunku niezwłocznie po otrzymaniu środków pieniężnych, nie później niż w tym samym dniu roboczym, oraz otrzymuje datę waluty z chwilą wpłaty, z tym że jeżeli wpłacającym jest podmiot niebędący konsumentem, udostępnienie środków pieniężnych na rachunku z datą waluty nie może nastąpić później niż następnego dnia roboczego po otrzymaniu środków pieniężnych.
+**Art. 58.** Wpłata gotówki na swój lub cudzy rachunek płatniczy, dokonana u dostawcy prowadzącego ten rachunek płatniczy w walucie tego rachunku płatniczego, jest udostępniana na tym rachunku niezwłocznie po otrzymaniu środków pieniężnych, niepóźniej niż w tym samym dniu roboczym, oraz otrzymuje datę waluty z chwilą wpłaty, z tym że jeżeli wpłacającym jest podmiot niebędący konsumentem, udostępnienie środków pieniężnych na rachunku z datą waluty nie może nastąpić później niż następnego dnia roboczego po otrzymaniu środków pieniężnych.
 
 **Art. 59.**
 
@@ -1517,7 +1513,7 @@ Art. 154–167. (pominięte)
 
 2a. Obowiązek określony w ust. 2 ma zastosowanie również do płatności w ramach jednego dostawcy.
 
-3. Obciążenie rachunku płatniczego płatnika kwotą transakcji płatniczej następuje z datą waluty nie wcześniejszą niż moment, w którym rachunek ten został faktycznie obciążony kwotą transakcji płatniczej.
+3. Obciążenie rachunku płatniczego płatnika kwotą transakcji płatniczej następuje z datą waluty niewcześniejszą niż moment, w którym rachunek ten został faktycznie obciążony kwotą transakcji płatniczej.
 
 4. Do transakcji płatniczych inicjowanych przez odbiorcę lub za jego pośrednictwem dostawca odbiorcy lub odbiorca mogą uzgodnić dłuższy termin wykonania niż określony w ust. 2.
 
@@ -1571,7 +1567,7 @@ Art. 154–167. (pominięte)
 
 1. Umowa o wydanie pieniądza elektronicznego określa warunki dokonywania wykupu pieniądza elektronicznego, w tym opłaty za jego wykup, jednoznacznie i w sposób zrozumiały.
 
-2. Wydawca pieniądza elektronicznego jest obowiązany dostarczyć jednoznaczną i zrozumiałą informację o warunkach dokonywania wykupu pieniądza elektronicznego nie później niż przy złożeniu propozycji zawarcia umowy.
+2. Wydawca pieniądza elektronicznego jest obowiązany dostarczyć jednoznaczną i zrozumiałą informację o warunkach dokonywania wykupu pieniądza elektronicznego niepóźniej niż przy złożeniu propozycji zawarcia umowy.
 
 **Art. 59l.**
 
@@ -1822,14 +1818,14 @@ Art. 154–167. (pominięte)
 
 2. W decyzji, o której mowa w ust. 1, KNF:
 
-- **1)** określa termin utworzenia nowego podmiotu, który będzie prowadził działalność w zakresie usług płatniczych lub w zakresie wydawania pieniądza elektronicznego, nie krótszy niż 3 miesiące;
+- **1)** określa termin utworzenia nowego podmiotu, który będzie prowadził działalność w zakresie usług płatniczych lub w zakresie wydawania pieniądza elektronicznego, niekrótszy niż 3 miesiące;
 - **2)** może określić warunki dotyczące sposobu wyodrębnienia działalności w zakresie usług płatniczych lub w zakresie wydawania pieniądza elektronicznego.
 
 3. Podmiot utworzony w wykonaniu decyzji, o której mowa w ust. 1, zawiadamia KNF o wpisie do rejestru przedsiębiorców w terminie 7 dni od dnia uzyskania wpisu.
 
 4. Do zawiadomienia, o którym mowa w ust. 3, dołącza się informacje i dokumenty, o których mowa w art. 61 ust. 1 pkt 1, 2 oraz 4–10, dotyczące podmiotu utworzonego w wykonaniu decyzji, o której mowa w ust. 1. W miejsce informacji i dokumentów, o których mowa w art. 61 ust. 1 pkt 4 oraz 6–10, może być złożone oświadczenie o aktualności informacji zawartych w odpowiednich dokumentach złożonych przez hybrydową instytucję płatniczą, które uznaje się wówczas za złożone przez ten podmiot. Przepisy art. 62 stosuje się odpowiednio.
 
-5. W przypadku określenia warunków, o których mowa w ust. 2 pkt 2, odpowiednio hybrydowa instytucja płatnicza lub podmiot utworzony w wykonaniu decyzji, o której mowa w ust. 1, nie później niż z dniem złożenia zawiadomienia, o którym mowa w ust. 3, przekazują KNF informacje i dokumenty potwierdzające spełnienie tych warunków.
+5. W przypadku określenia warunków, o których mowa w ust. 2 pkt 2, odpowiednio hybrydowa instytucja płatnicza lub podmiot utworzony w wykonaniu decyzji, o której mowa w ust. 1, niepóźniej niż z dniem złożenia zawiadomienia, o którym mowa w ust. 3, przekazują KNF informacje i dokumenty potwierdzające spełnienie tych warunków.
 
 6. Zezwolenie, o którym mowa w art. 60 ust. 1, wydane hybrydowej instytucji płatniczej przechodzi na podmiot utworzony w wykonaniu decyzji, o której mowa w ust. 1, po upływie miesiąca od dnia otrzymania przez KNF zawiadomienia, o którym mowa w ust. 3, albo jego uzupełnienia, jeżeli nie są spełnione wymagania określone w ust. 4 lub 5, chyba że w tym terminie KNF zgłosi sprzeciw do przejścia tego zezwolenia.
 
@@ -1942,7 +1938,7 @@ Art. 154–167. (pominięte)
 
 4. Jeżeli skutkiem nabycia lub objęcia akcji w przypadkach, o których mowa w ust. 3, jest wykonywanie uprawnień jednostki dominującej krajowej instytucji płatniczej, osoby zarządzające krajową instytucją płatniczą powołane przez jednostkę dominującą lub będące członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje w jednostce dominującej nie mogą uczestniczyć w czynnościach z zakresu reprezentacji krajowej instytucji płatniczej. W przypadku gdy nie można ustalić, które osoby zarządzające zostały powołane przez jednostkę dominującą, powołanie organu odpowiedzialnego za zarządzanie krajową instytucją płatniczą jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień jednostki dominującej krajowej instytucji płatniczej.
 
-5. Uchwały organu stanowiącego krajowej instytucji płatniczej podjęte z naruszeniem ust. 3 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 3, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały organu stanowiącego krajowej instytucji płatniczej przysługuje również KNF. Przepisy art. 252 i art. 425 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) stosuje się odpowiednio.
+5. Uchwały organu stanowiącego krajowej instytucji płatniczej podjęte z naruszeniem ust. 3 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa w ust. 3, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały organu stanowiącego krajowej instytucji płatniczej przysługuje również KNF. Przepisy art. 252 i art. 425 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96 oraz z 2026 r. poz. 176 i 187) stosuje się odpowiednio.
 
 6. W przypadkach, o których mowa w ust. 3 i 4, KNF może, w drodze decyzji, nakazać zbycie akcji lub udziałów krajowej instytucji płatniczej w wyznaczonym terminie.
 
@@ -1983,7 +1979,7 @@ Art. 154–167. (pominięte)
 
 **Art. 73a.**
 
-1. Krajowa instytucja płatnicza posiadająca kapitał założycielski w wysokości nie niższej niż równowartość w walucie polskiej kwoty 125 000 euro jest uprawniona do wydawania pieniądza elektronicznego. Krajowa instytucja płatnicza wydająca pieniądz elektroniczny może również świadczyć usługi ściśle powiązane z jego wydawaniem.
+1. Krajowa instytucja płatnicza posiadająca kapitał założycielski w wysokości nieniższej niż równowartość w walucie polskiej kwoty 125 000 euro jest uprawniona do wydawania pieniądza elektronicznego. Krajowa instytucja płatnicza wydająca pieniądz elektroniczny może również świadczyć usługi ściśle powiązane z jego wydawaniem.
 
 2. Krajowa instytucja płatnicza może wydawać pieniądz elektroniczny wyłącznie na terytorium Rzeczypospolitej Polskiej.
 
@@ -2003,7 +1999,7 @@ Art. 154–167. (pominięte)
 - **1)** średniej wartości pieniądza elektronicznego pozostającego w obiegu – w terminie do 15 dnia każdego miesiąca, na który jest ustalana;
 - **2)** całkowitej wartości pieniądza elektronicznego pozostającego w obiegu, wydanego przez tę instytucję, według stanu na dzień 31 grudnia każdego roku kalendarzowego – w terminie do dnia 31 stycznia roku następnego.
 
-2. W przypadku naruszenia obowiązku, o którym mowa w ust. 1 pkt 1, jeżeli pozostająca w obiegu kwota pieniądza elektronicznego przekracza kwotę określoną w art. 73a ust. 4, KNF może nałożyć na krajową instytucję płatniczą karę pieniężną w wysokości nieprzekraczającej 500 zł za każdy dzień opóźnienia, nie większej jednak niż 100 000 zł. Przepisy art. 105 ust. 2, 4 i 5 stosuje się odpowiednio.
+2. W przypadku naruszenia obowiązku, o którym mowa w ust. 1 pkt 1, jeżeli pozostająca w obiegu kwota pieniądza elektronicznego przekracza kwotę określoną w art. 73a ust. 4, KNF może nałożyć na krajową instytucję płatniczą karę pieniężną w wysokości nieprzekraczającej 500 zł za każdy dzień opóźnienia, niewiększej jednak niż 100 000 zł. Przepisy art. 105 ust. 2, 4 i 5 stosuje się odpowiednio.
 
 **Art. 73c.**
 
@@ -2049,7 +2045,7 @@ Art. 154–167. (pominięte)
 - **1)** kapitał założycielski instytucji płatniczej;
 - **2)** kapitał z aktualizacji wyceny rzeczowych aktywów trwałych;
 - **3)** niepodzielony zysk z lat ubiegłych;
-- **4)** zysk w trakcie zatwierdzania oraz zysk netto bieżącego okresu sprawozdawczego, obliczone zgodnie z obowiązującymi zasadami rachunkowości, pomniejszone o wszelkie przewidywane obciążenia i dywidendy, w kwotach nie większych niż kwoty zysku zweryfikowane przez biegłych rewidentów;
+- **4)** zysk w trakcie zatwierdzania oraz zysk netto bieżącego okresu sprawozdawczego, obliczone zgodnie z obowiązującymi zasadami rachunkowości, pomniejszone o wszelkie przewidywane obciążenia i dywidendy, w kwotach niewiększych niż kwoty zysku zweryfikowane przez biegłych rewidentów;
 - **5)** kapitał zapasowy;
 - **6)** pozostałe kapitały rezerwowe.
 
@@ -2077,8 +2073,8 @@ Art. 154–167. (pominięte)
 
 7. KNF może, w drodze decyzji, na podstawie analizy ryzyka strat oraz oceny procesów zarządzania ryzykiem i mechanizmów kontroli wewnętrznej krajowej instytucji płatniczej:
 
-- **1)** zażądać od krajowej instytucji płatniczej zwiększenia wysokości funduszy własnych, jednak do wysokości nie większej niż 120 % kwoty, o której mowa w ust. 4 pkt 2;
-- **2)** zezwolić krajowej instytucji płatniczej na zmniejszenie wysokości funduszy własnych, jednak do wysokości nie mniejszej niż 80 % kwoty, o której mowa w ust. 4 pkt 2.
+- **1)** zażądać od krajowej instytucji płatniczej zwiększenia wysokości funduszy własnych, jednak do wysokości niewiększej niż 120 % kwoty, o której mowa w ust. 4 pkt 2;
+- **2)** zezwolić krajowej instytucji płatniczej na zmniejszenie wysokości funduszy własnych, jednak do wysokości niemniejszej niż 80 % kwoty, o której mowa w ust. 4 pkt 2.
 
 **Art. 77.**
 
@@ -2130,7 +2126,7 @@ Art. 154–167. (pominięte)
 
 #### Rozdział 3 Sprawozdawczość krajowych instytucji płatniczych
 
-**Art. 81.** Krajowa instytucja płatnicza przekazuje KNF sporządzone zgodnie z ustawą o rachunkowości roczne sprawozdanie finansowe, a także roczne skonsolidowane sprawozdanie finansowe, jeżeli istnieje obowiązek jego sporządzenia. Sprawozdania przekazuje się wraz ze sprawozdaniem z badania oraz odpisem uchwały albo postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego, w terminie nie dłuższym niż 15 dni od dnia zatwierdzenia odpowiednio rocznego sprawozdania finansowego przez organ zatwierdzający jednostki i rocznego skonsolidowanego sprawozdania finansowego przez organ zatwierdzający jednostki dominującej.
+**Art. 81.** Krajowa instytucja płatnicza przekazuje KNF sporządzone zgodnie z ustawą o rachunkowości roczne sprawozdanie finansowe, a także roczne skonsolidowane sprawozdanie finansowe, jeżeli istnieje obowiązek jego sporządzenia. Sprawozdania przekazuje się wraz ze sprawozdaniem z badania oraz odpisem uchwały albo postanowienia organu zatwierdzającego o zatwierdzeniu sprawozdania finansowego, w terminie niedłuższym niż 15 dni od dnia zatwierdzenia odpowiednio rocznego sprawozdania finansowego przez organ zatwierdzający jednostki i rocznego skonsolidowanego sprawozdania finansowego przez organ zatwierdzający jednostki dominującej.
 
 **Art. 82.** Firma audytorska jest obowiązana do niezwłocznego informowania KNF o stwierdzonych w trakcie przeprowadzania badania sprawozdania finansowego okolicznościach i zdarzeniach, które mogą stanowić podstawę do wydania opinii z zastrzeżeniami, opinii negatywnej albo odmowy wyrażenia opinii, albo wskazywać na naruszenie przepisów określających warunki wydania zezwolenia krajowym instytucjom płatniczym lub regulujących prowadzenie działalności krajowych instytucji płatniczych albo na zagrożenie kontynuowania działalności przez tę instytucję.
 
@@ -2201,7 +2197,7 @@ Art. 154–167. (pominięte)
 6. Powierzenie wykonywania czynności operacyjnych nie może:
 
 - **1)** prowadzić do zaprzestania faktycznego świadczenia usług płatniczych lub wykonywania działalności w zakresie wydawania pieniądza elektronicznego przez krajową instytucję płatniczą;
-- **2)** obejmować przekazania prawa do reprezentowania instytucji płatniczej lub zarządzania instytucją płatniczą w rozumieniu art. 201 § 1 i art. 368 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych oraz art. 48 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593).
+- **2)** obejmować przekazania prawa do reprezentowania instytucji płatniczej lub zarządzania instytucją płatniczą w rozumieniu art. 201 § 1 i art. 368 § 1 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych oraz art. 48 § 1 ustawy z dnia 16 września 1982 r. – Prawo spółdzielcze (Dz. U. z 2024 r. poz. 593 oraz z 2025 r. poz. 1556).
 
 **Art. 87.**
 
@@ -2517,7 +2513,7 @@ Art. 154–167. (pominięte)
 
 4. (uchylony)
 
-5. Należności z tytułu wpłat, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2025 r. poz. 132), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
+5. Należności z tytułu wpłat, o których mowa w ust. 1, podlegają egzekucji w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z 2026 r. poz. 268), zwanej dalej „ustawą o postępowaniu egzekucyjnym w administracji”.
 
 **Art. 114.**
 
@@ -2580,9 +2576,9 @@ Art. 154–167. (pominięte)
     - **d)** o którym mowa w art. 64a ust. 1 pkt 4 lit. b–e i g;
 
 - **3)** dokument potwierdzający posiadanie przez wnioskodawcę ubezpieczenia odpowiedzialności cywilnej z tytułu prowadzenia odpowiedniej działalności gospodarczej, gwarancji bankowej, gwarancji ubezpieczeniowej lub innego zabezpieczenia roszczeń użytkownika;
-- **4)** oświadczenie wnioskodawcy o następującej treści: „Oświadczam, że dane zawarte we wniosku są kompletne i zgodne z prawdą. Znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 000).”, a także klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+- **4)** oświadczenie wnioskodawcy o następującej treści: „Oświadczam, że dane zawarte we wniosku są kompletne i zgodne z prawdą. Znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2026 r. poz. 000).”, a także klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
-4a. W przypadku konieczności zapewnienia KNF dostępu do informacji mających wpływ na ocenę ryzyka w odniesie-niu do świadczenia przez wnioskodawcę usług płatniczych, KNF może zażądać przekazania zatwierdzonych procedur wewnętrznych dotyczących obszarów, o których mowa w art. 64a ust. 1 pkt 1 lit. a, pkt 2, pkt 3 lit. a oraz pkt 4 lit. b–e i g.
+4a. W przypadku konieczności zapewnienia KNF dostępu do informacji mających wpływ na ocenę ryzyka w odniesieniu do świadczenia przez wnioskodawcę usług płatniczych, KNF może zażądać przekazania zatwierdzonych procedur wewnętrznych dotyczących obszarów, o których mowa w art. 64a ust. 1 pkt 1 lit. a, pkt 2, pkt 3 lit. a oraz pkt 4 lit. b–e i g.
 
 5. KNF dokonuje wpisu dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku w terminie 3 miesięcy od dnia wpływu do KNF wniosku o wpis lub jego uzupełnienia, wraz z oświadczeniem, o którym mowa w ust. 4 pkt 4.
 
@@ -2629,7 +2625,7 @@ Art. 154–167. (pominięte)
 
 6. W przypadkach, o których mowa w ust. 5, KNF może także:
 
-- **1)** nałożyć na osobę, która w okresie, w którym nastąpiły nieprawidłowości, pełniła funkcję osoby zarządzającej bez-pośrednio odpowiedzialnej za stwierdzone nieprawidłowości albo była członkiem organu statutowego bezpośrednio odpowiedzialnym za nadzór nad obszarem, w którym stwierdzono nieprawidłowości, karę pieniężną do wysokości 500 000 zł;
+- **1)** nałożyć na osobę, która w okresie, w którym nastąpiły nieprawidłowości, pełniła funkcję osoby zarządzającej bezpośrednio odpowiedzialnej za stwierdzone nieprawidłowości albo była członkiem organu statutowego bezpośrednio odpowiedzialnym za nadzór nad obszarem, w którym stwierdzono nieprawidłowości, karę pieniężną do wysokości 500 000 zł;
 - **2)** nałożyć na dostawcę świadczącego wyłącznie usługę dostępu do informacji o rachunku karę pieniężną w wysokości do 500 000 zł.
 
 7. KNF może wydać decyzję o zakazie wykonywania działalności w charakterze dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku, w przypadku gdy:
@@ -2702,7 +2698,7 @@ Art. 154–167. (pominięte)
 2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
 - **1)** wykaz usług płatniczych, które wnioskodawca zamierza świadczyć, wraz z przedstawieniem tych usług w formie schematu graficznego z opisem tych usług oraz wskazaniem, do którego z rodzajów usług określonych w art. 3 ust. 1 pkt 1–6 należą te usługi;
-- **2)** oświadczenie wnioskodawcy o następującej treści: „Oświadczam, że dane zawarte we wniosku są kompletne i zgodne z prawdą. Znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze małej instytucji płatniczej, określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz. 000).”, a także klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia;
+- **2)** oświadczenie wnioskodawcy o następującej treści: „Oświadczam, że dane zawarte we wniosku są kompletne i zgodne z prawdą. Znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze małej instytucji płatniczej, określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2026 r. poz. 000).”, a także klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia;
 - **3)** opis rozwiązań organizacyjnych, o których mowa w art. 117h ust. 1 pkt 1;
 - **4)** program, plan finansowy oraz aktualną procedurę, o których mowa w art. 117h ust. 2;
 - **5)** opis działalności gospodarczej, o której mowa w art. 117f ust. 5, ze wskazaniem jej rodzaju, którą wnioskodawca prowadzi lub zamierza prowadzić;
@@ -2710,7 +2706,7 @@ Art. 154–167. (pominięte)
 - **7)** dane kontaktowe wnioskodawcy, w tym imię i nazwisko, numer telefonu oraz adres poczty elektronicznej osoby uprawnionej do jego reprezentowania;
 - **8)** adres wnioskodawcy wskazany do doręczeń korespondencji w formie pisemnej oraz adres do doręczeń elektronicznych, jeżeli wnioskodawca taki adres posiada.
 
-3. Wnioskodawca oraz mała instytucja płatnicza powiadamiają KNF o zmianie danych, o których mowa w ust. 2 pkt 3–8, niezwłocznie, jednak nie później niż w terminie 14 dni od dnia uzyskania informacji o zmianie.
+3. Wnioskodawca oraz mała instytucja płatnicza powiadamiają KNF o zmianie danych, o których mowa w ust. 2 pkt 3–8, niezwłocznie, jednak niepóźniej niż w terminie 14 dni od dnia uzyskania informacji o zmianie.
 
 **Art. 117k.**
 
@@ -2747,7 +2743,7 @@ Art. 154–167. (pominięte)
 - **2)** powzięcia przez małą instytucję płatniczą wiadomości o wszczęciu postępowania, o którym mowa w ust. 1 pkt 2;
 - **3)** zawarcia lub zmiany umowy rachunku płatniczego, o którym mowa w art. 117ha.
 
-4. W przypadku naruszenia obowiązku, o którym mowa w ust. 1, KNF może, w drodze decyzji, nałożyć na małą instytucję płatniczą karę pieniężną w wysokości nieprzekraczającej 1000 zł za każdy dzień opóźnienia, nie większej jednak niż 250 000 zł. Przepisy art. 105 ust. 2, 4 i 5 stosuje się odpowiednio.
+4. W przypadku naruszenia obowiązku, o którym mowa w ust. 1, KNF może, w drodze decyzji, nałożyć na małą instytucję płatniczą karę pieniężną w wysokości nieprzekraczającej 1000 zł za każdy dzień opóźnienia, niewiększej jednak niż 250 000 zł. Przepisy art. 105 ust. 2, 4 i 5 stosuje się odpowiednio.
 
 **Art. 117q.**
 
@@ -2866,9 +2862,7 @@ Art. 154–167. (pominięte)
 
 1. Wpis do rejestru biur usług płatniczych następuje na pisemny wniosek przedsiębiorcy zawierający dane, o których mowa w art. 136 pkt 2–4.
 
-2. Do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie wnioskodawcy o następującej treści: „Oświadczam, że dane zawarte we wniosku są kompletne i zgodne z prawdą. Znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze biura usług płatniczych określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2025 r. poz.
-
-- **000)** .”. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
+2. Do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie wnioskodawcy o następującej treści: „Oświadczam, że dane zawarte we wniosku są kompletne i zgodne z prawdą. Znane mi są i spełniam warunki wykonywania działalności gospodarczej w charakterze biura usług płatniczych określone w ustawie z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2026 r. poz. 000).”. Składający oświadczenie zawiera w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu uprawnionego do odebrania oświadczenia o odpowiedzialności karnej za złożenie fałszywego oświadczenia.
 
 2a. Do wniosku, o którym mowa w ust. 1, dołącza się informacje o danych kontaktowych dla celów sprawowania nadzoru przez KNF, obejmujące co najmniej:
 
@@ -2879,7 +2873,7 @@ Art. 154–167. (pominięte)
 
 4. Za dzień rozpoczęcia działalności w charakterze biura usług płatniczych uważa się dzień dokonania wpisu do rejestru.
 
-5. Wnioskodawca oraz biuro usług płatniczych powiadamia KNF o zmianie danych, o których mowa w ust. 2a, niezwłocznie, jednak nie później niż w terminie 14 dni od dnia uzyskania informacji o zmianie.
+5. Wnioskodawca oraz biuro usług płatniczych powiadamia KNF o zmianie danych, o których mowa w ust. 2a, niezwłocznie, jednak niepóźniej niż w terminie 14 dni od dnia uzyskania informacji o zmianie.
 
 **Art. 119b.** Osoba zarządzająca biurem usług płatniczych nie może być osobą prawomocnie skazaną za przestępstwo przeciwko wymiarowi sprawiedliwości, przestępstwo przeciwko obrotowi gospodarczemu, przestępstwo przeciwko obrotowi pieniędzmi i papierami wartościowymi, przestępstwo, o którym mowa w art. 165a Kodeksu karnego, przestępstwo popełnione w celu osiągnięcia korzyści majątkowej lub osobistej lub przestępstwo skarbowe.
 
@@ -3176,7 +3170,7 @@ Art. 154–167. (pominięte)
 
 2. W decyzji, o której mowa w ust. 1, KNF:
 
-- **1)** określa termin utworzenia nowego podmiotu, który będzie prowadził działalność w zakresie wydawania pieniądza elektronicznego i świadczenia usług płatniczych, nie krótszy niż 3 miesiące;
+- **1)** określa termin utworzenia nowego podmiotu, który będzie prowadził działalność w zakresie wydawania pieniądza elektronicznego i świadczenia usług płatniczych, niekrótszy niż 3 miesiące;
 - **2)** może określić warunki dotyczące sposobu wyodrębnienia działalności w zakresie wydawania pieniądza elektronicznego i świadczenia usług płatniczych.
 
 3. Do podmiotu utworzonego w wykonaniu decyzji, o której mowa w ust. 1, i hybrydowej instytucji pieniądza elektronicznego przepisy art. 68 ust. 3–5 stosuje się odpowiednio.
@@ -3247,8 +3241,8 @@ Art. 154–167. (pominięte)
 
 8. KNF może, w drodze decyzji, na podstawie analizy ryzyka strat oraz oceny procesów zarządzania ryzykiem i mechanizmów kontroli wewnętrznej krajowej instytucji pieniądza elektronicznego:
 
-- **1)** zażądać od krajowej instytucji pieniądza elektronicznego zwiększenia wysokości funduszy własnych, jednak do wysokości nie wyższej niż 120 % kwoty, która stanowiłaby sumę kwot obliczonych zgodnie z ust. 4–6 i zgodnie z przepisami wydanymi na podstawie ust. 7;
-- **2)** zezwolić krajowej instytucji pieniądza elektronicznego na zmniejszenie wysokości funduszy własnych, jednak do wysokości nie niższej niż 80 % kwoty, która stanowiłaby sumę kwot obliczonych zgodnie z ust. 4–6 i zgodnie z przepisami wydanymi na podstawie ust. 7.
+- **1)** zażądać od krajowej instytucji pieniądza elektronicznego zwiększenia wysokości funduszy własnych, jednak do wysokości niewyższej niż 120 % kwoty, która stanowiłaby sumę kwot obliczonych zgodnie z ust. 4–6 i zgodnie z przepisami wydanymi na podstawie ust. 7;
+- **2)** zezwolić krajowej instytucji pieniądza elektronicznego na zmniejszenie wysokości funduszy własnych, jednak do wysokości nieniższej niż 80 % kwoty, która stanowiłaby sumę kwot obliczonych zgodnie z ust. 4–6 i zgodnie z przepisami wydanymi na podstawie ust. 7.
 
 **Art. 132n.**
 
@@ -3261,7 +3255,7 @@ Art. 154–167. (pominięte)
 
 2. Przepisu ust. 1 nie stosuje się, jeżeli środki są objęte ochroną w sposób określony w art. 78 ust. 2; przepisy art. 78 ust. 3–8 stosuje się odpowiednio, z tym że umowa, o której mowa w art. 78 ust. 2, obejmuje zwrot wpłat wniesionych przez stronę umowy o wydanie pieniądza elektronicznego na poczet wydania pieniądza elektronicznego w przypadku jego niewydania w wysokości odpowiadającej wartości wniesionej wpłaty, do wysokości niewydanego pieniądza elektronicznego.
 
-3. Środki pieniężne otrzymane w zamian za wydanie pieniądza elektronicznego podlegają ochronie nie później niż od 5 dnia roboczego od dnia postawienia środków do dyspozycji instytucji pieniądza elektronicznego.
+3. Środki pieniężne otrzymane w zamian za wydanie pieniądza elektronicznego podlegają ochronie niepóźniej niż od 5 dnia roboczego od dnia postawienia środków do dyspozycji instytucji pieniądza elektronicznego.
 
 4. Krajowa instytucja pieniądza elektronicznego niezwłocznie informuje KNF o wszelkich istotnych zmianach w sposobie ochrony środków pieniężnych otrzymanych w zamian za wydany pieniądz elektroniczny.
 
@@ -3277,7 +3271,7 @@ Art. 154–167. (pominięte)
 
 **Art. 132q.** Jeżeli krajowa instytucja pieniądza elektronicznego prowadzi działalność w zakresie usług płatniczych, jest obowiązana do ochrony środków pieniężnych otrzymanych od użytkowników bezpośrednio lub za pośrednictwem innego dostawcy na poczet wykonania transakcji płatniczych na zasadach określonych dla krajowych instytucji płatniczych. Przepisy art. 78 i art. 80 oraz przepisy wydane na podstawie art. 79 stosuje się odpowiednio.
 
-**Art. 132r.** Krajowa instytucja pieniądza elektronicznego przekazuje KNF roczne sprawozdania finansowe i roczne skonsolidowane sprawozdania finansowe na zasadach określonych w art. 81, a także kwartalne i dodatkowe roczne sprawozdania finansowe i statystyczne obejmujące dane określone w art. 83 ust. 1 pkt 1– 4 oraz informacje o rodzaju i zakresie działalności, o której mowa w art. 132j ust. 1. Przepisy art. 82 i art. 83 ust. 2 oraz przepisy wydane na podstawie art. 83 ust. 3 stosuje się odpowiednio.
+**Art. 132r.** Krajowa instytucja pieniądza elektronicznego przekazuje KNF roczne sprawozdania finansowe i roczne skonsolidowane sprawozdania finansowe na zasadach określonych w art. 81, a także kwartalne i dodatkowe roczne sprawozdania finansowe i statystyczne obejmujące dane określone w art. 83 ust. 1 pkt 1–4 oraz informacje o rodzaju i zakresie działalności, o której mowa w art. 132j ust. 1. Przepisy art. 82 i art. 83 ust. 2 oraz przepisy wydane na podstawie art. 83 ust. 3 stosuje się odpowiednio.
 
 **Art. 132s.**
 
@@ -3484,9 +3478,9 @@ Art. 154–167. (pominięte)
 
 1. Krajowe instytucje płatnicze, małe instytucje płatnicze, dostawcy świadczący wyłącznie usługę dostępu do informacji o rachunku, biura usług płatniczych, kasy oszczędnościowo-kredytowe, krajowe instytucje pieniądza elektronicznego, oddziały zagranicznych instytucji pieniądza elektronicznego, podmioty wykonujące działalność określoną w art. 6 pkt 11 lit. a lub b, do których ma zastosowanie przepis art. 6c ust. 1, oraz podmioty prowadzące działalność określoną w art. 6 pkt 12 są obowiązane zapewnić zgodność danych wpisanych do rejestru ze stanem faktycznym.
 
-2. Podmioty, o których mowa w ust. 1, są obowiązane poinformować KNF o każdej zmianie danych objętych wpisem do rejestru, nie później niż w terminie 14 dni od dnia uzyskania informacji o zmianie, składając stosowny wniosek.
+2. Podmioty, o których mowa w ust. 1, są obowiązane poinformować KNF o każdej zmianie danych objętych wpisem do rejestru, niepóźniej niż w terminie 14 dni od dnia uzyskania informacji o zmianie, składając stosowny wniosek.
 
-3. W przypadku naruszenia obowiązku, o którym mowa w ust. 2, KNF może nałożyć na podmiot, o którym mowa w ust. 1, karę pieniężną w wysokości nieprzekraczającej 500 zł za każdy dzień opóźnienia, nie większej jednak niż 100 000 zł; przepisy art. 105 ust. 2, 4 i 5 stosuje się odpowiednio.
+3. W przypadku naruszenia obowiązku, o którym mowa w ust. 2, KNF może nałożyć na podmiot, o którym mowa w ust. 1, karę pieniężną w wysokości nieprzekraczającej 500 zł za każdy dzień opóźnienia, niewiększej jednak niż 100 000 zł; przepisy art. 105 ust. 2, 4 i 5 stosuje się odpowiednio.
 
 **Art. 140.** Odmowa dokonania wpisu do rejestru następuje w drodze decyzji administracyjnej.
 
@@ -3504,12 +3498,12 @@ Art. 154–167. (pominięte)
 
 - **1)** cofnięcia lub wygaśnięcia zezwolenia, o którym mowa w art. 60 ust. 1, art. 132a ust. 1 i art. 132zh ust. 1;
 - **2)** zakończenia działalności przez kasę oszczędnościowo-kredytową, na podstawie zawiadomienia, o którym mowa w art. 131 ust. 2;
-- **3)** zakończenia przez biuro usług płatniczych działalności gospodarczej lub działalności w charakterze biura usług płatniczych, na podstawie zawiadomienia, o którym mowa w art. 123, nie wcześniej niż z datą wskazaną w tym zawiadomieniu;
+- **3)** zakończenia przez biuro usług płatniczych działalności gospodarczej lub działalności w charakterze biura usług płatniczych, na podstawie zawiadomienia, o którym mowa w art. 123, niewcześniej niż z datą wskazaną w tym zawiadomieniu;
 - **4)** prawomocnego orzeczenia wobec osoby fizycznej wpisanej do rejestru zakazu prowadzenia działalności gospodarczej w zakresie objętym wpisem;
-- **5)** zakończenia przez podmiot wykonujący działalność określoną w art. 6 pkt 11 lit. a lub b działalności gospodarczej lub działalności określonej w art. 6 pkt 11 lit. a lub b, na podstawie zawiadomienia, o którym mowa w art. 6c ust. 8, nie wcześniej niż z dniem wskazanym w tym zawiadomieniu;
-- **6)** zakończenia przez podmiot wykonujący działalność określoną w art. 6 pkt 12 działalności gospodarczej lub działalności określonej w art. 6 pkt 12, na podstawie zawiadomienia, o którym mowa w art. 6d ust. 8, nie wcześniej niż z dniem wskazanym w tym zawiadomieniu;
-- **7)** zakończenia przez małą instytucję płatniczą działalności gospodarczej lub działalności w charakterze małej instytucji płatniczej, na podstawie zawiadomienia, o którym mowa w art. 117m, nie wcześniej niż z dniem wskazanym w tym zawiadomieniu;
-- **8)** zakończenia przez dostawcę świadczącego wyłącznie usługę dostępu do informacji o rachunku działalności gospodarczej lub działalności w charakterze dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku, na podstawie zawiadomienia, o którym mowa w art. 117b ust. 8, nie wcześniej niż z dniem wskazanym w tym zawiadomieniu;
+- **5)** zakończenia przez podmiot wykonujący działalność określoną w art. 6 pkt 11 lit. a lub b działalności gospodarczej lub działalności określonej w art. 6 pkt 11 lit. a lub b, na podstawie zawiadomienia, o którym mowa w art. 6c ust. 8, niewcześniej niż z dniem wskazanym w tym zawiadomieniu;
+- **6)** zakończenia przez podmiot wykonujący działalność określoną w art. 6 pkt 12 działalności gospodarczej lub działalności określonej w art. 6 pkt 12, na podstawie zawiadomienia, o którym mowa w art. 6d ust. 8, niewcześniej niż z dniem wskazanym w tym zawiadomieniu;
+- **7)** zakończenia przez małą instytucję płatniczą działalności gospodarczej lub działalności w charakterze małej instytucji płatniczej, na podstawie zawiadomienia, o którym mowa w art. 117m, niewcześniej niż z dniem wskazanym w tym zawiadomieniu;
+- **8)** zakończenia przez dostawcę świadczącego wyłącznie usługę dostępu do informacji o rachunku działalności gospodarczej lub działalności w charakterze dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku, na podstawie zawiadomienia, o którym mowa w art. 117b ust. 8, niewcześniej niż z dniem wskazanym w tym zawiadomieniu;
 - **9)** uzyskania przez dostawcę, o którym mowa w art. 4 ust. 2 pkt 10, 11 lub 12, uprawnienia do świadczenia usług płatniczych w innym charakterze;
 - **10)** niewykonania przez dostawcę, o którym mowa w art. 4 ust. 2 pkt 10, 11 lub 12, usług płatniczych, do których świadczenia jest uprawniony, w terminie 12 miesięcy od dnia wpisu do rejestru;
 - **11)** niewykonywania przez dostawcę, o którym mowa w art. 4 ust. 2 pkt 10, 11 lub 12, usług płatniczych, do których świadczenia jest uprawniony, przez okres dłuższy niż 12 kolejnych miesięcy;
@@ -3521,7 +3515,7 @@ Art. 154–167. (pominięte)
 - **2)** (uchylony)
 - **3)** gdy biuro zostało wykreślone z rejestru przedsiębiorców w Krajowym Rejestrze Sądowym lub z Centralnej Ewidencji i Informacji o Działalności Gospodarczej.
 
-1b. Biuro usług płatniczych, które z urzędu wykreślono z rejestru biur usług płatniczych w przypadku, o którym mowa w ust. 1a pkt 1, może uzyskać ponowny wpis do tego rejestru nie wcześniej niż po upływie 3 lat od dnia wykreślenia.
+1b. Biuro usług płatniczych, które z urzędu wykreślono z rejestru biur usług płatniczych w przypadku, o którym mowa w ust. 1a pkt 1, może uzyskać ponowny wpis do tego rejestru niewcześniej niż po upływie 3 lat od dnia wykreślenia.
 
 1c. Przepisy ust. 1a i 1b stosuje się odpowiednio do dostawcy świadczącego wyłącznie usługę dostępu do informacji o rachunku oraz małej instytucji płatniczej.
 
@@ -3569,7 +3563,7 @@ Art. 154–167. (pominięte)
 
 **Art. 143a.**
 
-1. W celu wykonania obowiązku, o którym mowa w art. 143 ust. 2 zdanie drugie, dostawca płatnika, nie później niż w terminie 3 dni roboczych od dnia dokonania zgłoszenia przez płatnika informacji o transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, w przypadku gdy:
+1. W celu wykonania obowiązku, o którym mowa w art. 143 ust. 2 zdanie drugie, dostawca płatnika, niepóźniej niż w terminie 3 dni roboczych od dnia dokonania zgłoszenia przez płatnika informacji o transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, w przypadku gdy:
 
 - **1)** prowadzi rachunek płatniczy odbiorcy – pisemnie zawiadamia odbiorcę o:
     - **a)** zgłoszeniu przez płatnika informacji o transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora i możliwości dokonania zwrotu kwoty tej transakcji na rachunek zwrotu dostawcy odbiorcy bez pobierania od odbiorcy opłat,
@@ -3583,17 +3577,17 @@ Art. 154–167. (pominięte)
 
 3. Odbiorca dokonuje zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora na rachunek zwrotu dostawcy odbiorcy. Za dokonanie zwrotu dostawca odbiorcy nie może pobierać od odbiorcy opłat ani prowizji.
 
-4. Jeżeli dostawca płatnika prowadzi rachunek płatniczy odbiorcy, a odbiorca dokonał zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, dostawca płatnika, nie później niż w terminie 1 dnia roboczego od uznania rachunku zwrotu kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, doprowadza do uznania tą kwotą rachunku płatniczego płatnika, który został nią obciążony.
+4. Jeżeli dostawca płatnika prowadzi rachunek płatniczy odbiorcy, a odbiorca dokonał zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, dostawca płatnika, niepóźniej niż w terminie 1 dnia roboczego od uznania rachunku zwrotu kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, doprowadza do uznania tą kwotą rachunku płatniczego płatnika, który został nią obciążony.
 
-5. Jeżeli dostawca płatnika nie prowadzi rachunku płatniczego odbiorcy, a odbiorca dokonał zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, dostawca odbiorcy, nie później niż w terminie 1 dnia roboczego od uznania prowadzonego przez siebie rachunku zwrotu, doprowadza do uznania rachunku zwrotu dostawcy płatnika, kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, a następnie dostawca płatnika nie później niż w terminie 1 dnia roboczego od uznania prowadzonego przez siebie rachunku zwrotu uznaje tą kwotą rachunek płatniczy płatnika, o którym mowa w ust. 4.
+5. Jeżeli dostawca płatnika nie prowadzi rachunku płatniczego odbiorcy, a odbiorca dokonał zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, dostawca odbiorcy, niepóźniej niż w terminie 1 dnia roboczego od uznania prowadzonego przez siebie rachunku zwrotu, doprowadza do uznania rachunku zwrotu dostawcy płatnika, kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, a następnie dostawca płatnika niepóźniej niż w terminie 1 dnia roboczego od uznania prowadzonego przez siebie rachunku zwrotu uznaje tą kwotą rachunek płatniczy płatnika, o którym mowa w ust. 4.
 
-6. Jeżeli doprowadzenie do uznania rachunku płatniczego płatnika, o którym mowa w ust. 4 i 5, nie jest możliwe, dostawca płatnika, nie później niż w terminie 3 dni roboczych od uznania rachunku zwrotu, informuje płatnika o możliwości zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora na wskazany przez płatnika numer rachunku płatniczego lub poprzez dokonanie wypłaty środków pieniężnych.
+6. Jeżeli doprowadzenie do uznania rachunku płatniczego płatnika, o którym mowa w ust. 4 i 5, nie jest możliwe, dostawca płatnika, niepóźniej niż w terminie 3 dni roboczych od uznania rachunku zwrotu, informuje płatnika o możliwości zwrotu kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora na wskazany przez płatnika numer rachunku płatniczego lub poprzez dokonanie wypłaty środków pieniężnych.
 
-7. Jeżeli płatnik wskazał numer rachunku płatniczego, o którym mowa w ust. 6, dostawca płatnika, nie później niż w terminie 1 dnia roboczego od jego wskazania, doprowadza do uznania tego rachunku kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora. Jeżeli płatnik nie wskazał numeru rachunku płatniczego, wypłata środków pieniężnych następuje niezwłocznie na żądanie płatnika.
+7. Jeżeli płatnik wskazał numer rachunku płatniczego, o którym mowa w ust. 6, dostawca płatnika, niepóźniej niż w terminie 1 dnia roboczego od jego wskazania, doprowadza do uznania tego rachunku kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora. Jeżeli płatnik nie wskazał numeru rachunku płatniczego, wypłata środków pieniężnych następuje niezwłocznie na żądanie płatnika.
 
 **Art. 143b.**
 
-1. Jeżeli działania, o których mowa w art. 143a, w terminie 30 dni od dnia dokonania zgłoszenia, o którym mowa w art. 143a ust. 1, nie doprowadziły do odzyskania kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, nie później niż w terminie 3 dni roboczych od dnia otrzymania pisemnego żądania płatnika o udostępnienie danych odbiorcy, dostawca płatnika:
+1. Jeżeli działania, o których mowa w art. 143a, w terminie 30 dni od dnia dokonania zgłoszenia, o którym mowa w art. 143a ust. 1, nie doprowadziły do odzyskania kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, niepóźniej niż w terminie 3 dni roboczych od dnia otrzymania pisemnego żądania płatnika o udostępnienie danych odbiorcy, dostawca płatnika:
 
 - **1)** który prowadzi rachunek płatniczy odbiorcy, udostępnia płatnikowi:
     - **a)** imię i nazwisko lub nazwę odbiorcy,
@@ -3601,21 +3595,21 @@ Art. 154–167. (pominięte)
 
 - **2)** który nie prowadzi rachunku płatniczego odbiorcy – zwraca się do dostawcy odbiorcy o przekazanie mu danych, o których mowa w pkt 1 – w celu umożliwienia płatnikowi dochodzenia kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 2, dostawca odbiorcy przekazuje dostawcy płatnika dane, o których mowa w ust. 1 pkt 1, nie później niż w terminie 3 dni roboczych od dnia otrzymania żądania. Dostawca płatnika przekazuje otrzymane dane płatnikowi nie później niż w terminie 3 dni roboczych od dnia ich otrzymania.
+2. W przypadku, o którym mowa w ust. 1 pkt 2, dostawca odbiorcy przekazuje dostawcy płatnika dane, o których mowa w ust. 1 pkt 1, niepóźniej niż w terminie 3 dni roboczych od dnia otrzymania żądania. Dostawca płatnika przekazuje otrzymane dane płatnikowi niepóźniej niż w terminie 3 dni roboczych od dnia ich otrzymania.
 
 **Art. 143c.**
 
 1. W przypadku usługi przekazu pieniężnego polegającej na transferze środków pieniężnych na rachunek płatniczy dostawcy odbiorcy, świadczonej przez biuro usług płatniczych, płatnikiem, o którym mowa w art. 143a i art. 143b, jest biuro usług płatniczych.
 
-2. Biuro usług płatniczych, nie później niż w terminie 3 dni roboczych od dnia dokonania zgłoszenia przez zlecającego przekaz pieniężny informacji o przekazie pieniężnym wykonanym z użyciem nieprawidłowego unikatowego identyfikatora, zgłasza swojemu dostawcy transakcję płatniczą wykonaną z użyciem nieprawidłowego unikatowego identyfikatora. Przepis art. 143a stosuje się odpowiednio.
+2. Biuro usług płatniczych, niepóźniej niż w terminie 3 dni roboczych od dnia dokonania zgłoszenia przez zlecającego przekaz pieniężny informacji o przekazie pieniężnym wykonanym z użyciem nieprawidłowego unikatowego identyfikatora, zgłasza swojemu dostawcy transakcję płatniczą wykonaną z użyciem nieprawidłowego unikatowego identyfikatora. Przepis art. 143a stosuje się odpowiednio.
 
 3. Zwrot kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora następuje na rachunek płatniczy biura usług płatniczych, który został obciążony kwotą tej transakcji. Jeżeli doprowadzenie do uznania rachunku płatniczego, o którym mowa w zdaniu pierwszym, nie jest możliwe, zwrot kwoty transakcji następuje na inny rachunek wskazany przez biuro usług płatniczych.
 
-4. Biuro usług płatniczych, nie później niż w terminie 3 dni roboczych od uznania rachunku płatniczego, o którym mowa w ust. 3, kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, informuje zlecającego przekaz pieniężny o możliwości zwrotu kwoty tej transakcji poprzez dokonanie wypłaty środków pieniężnych. Wypłata następuje niezwłocznie na żądanie zlecającego przekaz pieniężny.
+4. Biuro usług płatniczych, niepóźniej niż w terminie 3 dni roboczych od uznania rachunku płatniczego, o którym mowa w ust. 3, kwotą transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora, informuje zlecającego przekaz pieniężny o możliwości zwrotu kwoty tej transakcji poprzez dokonanie wypłaty środków pieniężnych. Wypłata następuje niezwłocznie na żądanie zlecającego przekaz pieniężny.
 
-5. Jeżeli działania, o których mowa w ust. 2–4, nie doprowadziły do odzyskania kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora w terminie miesiąca od dnia zgłoszenia, o którym mowa w ust. 2, biuro usług płatniczych, nie później niż w terminie 3 dni roboczych od dnia otrzymania pisemnego żądania zlecającego przekaz pieniężny o udostępnienie danych odbiorcy, o których mowa w art. 143b ust. 1 pkt 1, pisemnie przekazuje żądanie swojemu dostawcy. Przepis art. 143b stosuje się odpowiednio.
+5. Jeżeli działania, o których mowa w ust. 2–4, nie doprowadziły do odzyskania kwoty transakcji płatniczej wykonanej z użyciem nieprawidłowego unikatowego identyfikatora w terminie miesiąca od dnia zgłoszenia, o którym mowa w ust. 2, biuro usług płatniczych, niepóźniej niż w terminie 3 dni roboczych od dnia otrzymania pisemnego żądania zlecającego przekaz pieniężny o udostępnienie danych odbiorcy, o których mowa w art. 143b ust. 1 pkt 1, pisemnie przekazuje żądanie swojemu dostawcy. Przepis art. 143b stosuje się odpowiednio.
 
-6. Biuro usług płatniczych przekazuje otrzymane dane zlecającemu przekaz pieniężny, nie później niż w terminie 3 dni roboczych od dnia ich otrzymania od swojego dostawcy.
+6. Biuro usług płatniczych przekazuje otrzymane dane zlecającemu przekaz pieniężny, niepóźniej niż w terminie 3 dni roboczych od dnia ich otrzymania od swojego dostawcy.
 
 **Art. 144.**
 
@@ -3641,17 +3635,17 @@ Art. 154–167. (pominięte)
 
 2. Jeżeli dostawca odbiorcy ponosi odpowiedzialność zgodnie z ust. 1, niezwłocznie przekazuje ponownie zlecenie płatnicze dostawcy płatnika.
 
-2a. W przypadku przekazania zlecenia płatniczego z opóźnieniem kwota zlecenia zostaje uznana na rachunku płatniczym odbiorcy z datą waluty nie późniejszą niż data waluty, z którą kwota zostałaby uznana, gdyby transakcja została wykonana prawidłowo. Dostawca płatnika przekazuje dostawcy odbiorcy informację o opóźnieniu w przekazaniu zlecenia płatniczego.
+2a. W przypadku przekazania zlecenia płatniczego z opóźnieniem kwota zlecenia zostaje uznana na rachunku płatniczym odbiorcy z datą waluty niepóźniejszą niż data waluty, z którą kwota zostałaby uznana, gdyby transakcja została wykonana prawidłowo. Dostawca płatnika przekazuje dostawcy odbiorcy informację o opóźnieniu w przekazaniu zlecenia płatniczego.
 
 3. Z zastrzeżeniem art. 44 ust. 2, art. 143 ust. 2 oraz art. 149, dostawca odbiorcy ponosi wobec odbiorcy odpowiedzialność za niewykonanie lub nienależyte wykonanie transakcji płatniczej w przypadku naruszenia art. 58.
 
 4. Jeżeli dostawca odbiorcy ponosi odpowiedzialność zgodnie z ust. 3, udostępnia kwotę transakcji płatniczej odbiorcy niezwłocznie po uznaniu nią rachunku dostawcy odbiorcy.
 
-4a. Kwota, o której mowa w ust. 4, zostaje uznana na rachunku płatniczym odbiorcy z datą waluty nie późniejszą niż data waluty, z którą kwota zostałaby uznana, gdyby transakcja została wykonana prawidłowo.
+4a. Kwota, o której mowa w ust. 4, zostaje uznana na rachunku płatniczym odbiorcy z datą waluty niepóźniejszą niż data waluty, z którą kwota zostałaby uznana, gdyby transakcja została wykonana prawidłowo.
 
 5. W przypadku niewykonanej lub nienależycie wykonanej transakcji płatniczej, za którą dostawca odbiorcy nie ponosi odpowiedzialności zgodnie z ust. 1 i 3, odpowiedzialność wobec płatnika ponosi dostawca płatnika; w takim przypadku stosuje się art. 144 ust. 2.
 
-6. Obowiązek, o którym mowa w ust. 5, nie ma zastosowania do dostawcy płatnika, jeżeli dostawca płatnika udowodni, że dostawca odbiorcy otrzymał kwotę danej transakcji płatniczej, nawet jeżeli transakcja płatnicza została wykonana z opóźnieniem. W takim przypadku dostawca odbiorcy uznaje kwotę na rachunku płatniczym odbiorcy z datą waluty nie późniejszą niż data waluty, z którą kwota zostałaby uznana, gdyby transakcja płatnicza została wykonana prawidłowo.
+6. Obowiązek, o którym mowa w ust. 5, nie ma zastosowania do dostawcy płatnika, jeżeli dostawca płatnika udowodni, że dostawca odbiorcy otrzymał kwotę danej transakcji płatniczej, nawet jeżeli transakcja płatnicza została wykonana z opóźnieniem. W takim przypadku dostawca odbiorcy uznaje kwotę na rachunku płatniczym odbiorcy z datą waluty niepóźniejszą niż data waluty, z którą kwota zostałaby uznana, gdyby transakcja płatnicza została wykonana prawidłowo.
 
 **Art. 146.**
 

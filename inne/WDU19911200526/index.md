@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-04-30 |
 | Data wydania | 1991-12-23 |
+| Wejście w życie | 1991-07-07 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911200526) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/526/text.pdf) |
 

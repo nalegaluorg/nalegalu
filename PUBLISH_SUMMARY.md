@@ -1,59 +1,516 @@
 # Publish Summary
 
-Generated: 2026-05-26 03:52 UTC
+Generated: 2026-05-27 02:04 UTC
 
 ## Stats
 
 | Metric | Value |
 |--------|-------|
-| Published | 13591 |
-| Updated/new | 13591 |
-| Unchanged | 0 |
-| Blocked by quality gate | 397 |
-| Rejected (total incl. errors) | 495 |
-| Total in DB | 13988 |
+| Published | 5674 |
+| Updated/new | 0 |
+| Unchanged | 5674 |
+| Blocked by quality gate | 34 |
+| Rejected (total incl. errors) | 38 |
+| Total in DB | 5712 |
 
 ## Changes vs previous publish
 
 | Metric | Previous | Current | Delta |
 |--------|----------|---------|-------|
-| Published | 13591 | 13591 | 0 |
-| Rejected | 495 | 495 | 0 |
-| Articles | 192290 | 192290 | 0 |
-| Body chars | 458,239,478 | 458,239,478 | 0 |
+| Published | 13591 | 5674 | -7917 |
+| Rejected | 495 | 38 | -457 |
+| Articles | 192290 | 185787 | -6503 |
+| Body chars | 458,239,478 | 309,593,738 | -148645740 |
 
 ## Quality gate breakdown
 
 | Issue type | Count |
 |------------|-------|
-| character-spaced | 249 |
-| repetition | 95 |
-| CID font | 46 |
-| missing diacritics | 12 |
-| PostScript CE | 5 |
-| null bytes | 1 |
-| table garbage | 1 |
-| PDF header | 1 |
+| character-spaced | 28 |
+| CID font | 5 |
+| PostScript CE | 1 |
 
-## Blocked acts (397)
+## Newly rejected (3)
+
+| Address | Reason |
+|---------|--------|
+| WDU19900440256 | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU19900720422 | character-spaced text — 1 line(s) with >30% single-letter wo |
+| WDU19980400233 | character-spaced text — 1 line(s) with >30% single-letter wo |
+
+## Fixed — no longer rejected (460)
+
+| Address |
+|---------|
+| WDU19310380294 |
+| WDU19320190128 |
+| WDU19320260236 |
+| WDU19320290277 |
+| WDU19350220129 |
+| WDU19380270242 |
+| WDU19460030017 |
+| WDU19470200078 |
+| WDU19480570456 |
+| WDU19490180118 |
+| WDU19490320238 |
+| WDU19500360325 |
+| WDU19510010001 |
+| WDU19510050039 |
+| WDU19520460309 |
+| WDU19560110057 |
+| WDU19560410188 |
+| WDU19560540245 |
+| WDU19570390173 |
+| WDU19580110037 |
+| WDU19580170072 |
+| WDU19600510297 |
+| WDU19640150086 |
+| WDU19690210151 |
+| WDU19700160138 |
+| WDU19710160156 |
+| WDU19740270159 |
+| WDU19750450234 |
+| WDU19820110081 |
+| WDU19820160125 |
+| WDU19830050033 |
+| WDU19830390177 |
+| WDU19830440203 |
+| WDU19830630287 |
+| WDU19840050026 |
+| WDU19840360190 |
+| WDU19840360191 |
+| WDU19840360192 |
+| WDU19840550282 |
+| WDU19850200086 |
+| WDU19850230100 |
+| WDU19850370174 |
+| WDU19860260126 |
+| WDU19860390193 |
+| WDU19860470226 |
+| WDU19870280157 |
+| WDU19870330180 |
+| WDU19870330181 |
+| WDU19880190132 |
+| WDU19880200135 |
+| WDU19890110063 |
+| WDU19890200107 |
+| WDU19890320169 |
+| WDU19890340178 |
+| WDU19890340180 |
+| WDU19890350190 |
+| WDU19890350192 |
+| WDU19890570345 |
+| WDU19890740443 |
+| WDU19900060036 |
+| WDU19900100068 |
+| WDU19900140089 |
+| WDU19900200121 |
+| WDU19900210126 |
+| WDU19900430251 |
+| WDU19900430252 |
+| WDU19900540310 |
+| WDU19910750329 |
+| WDU19920210084 |
+| WDU19920510231 |
+| WDU19930470212 |
+| WDU19930810383 |
+| WDU19940580240 |
+| WDU19940620266 |
+| WDU19940650285 |
+| WDU19940690306 |
+| WDU19941360713 |
+| WDU19950140068 |
+| WDU19950850426 |
+| WDU19950950475 |
+| WDU19951270615 |
+| WDU19951410700 |
+| WDU19960060041 |
+| WDU19960090054 |
+| WDU19960320143 |
+| WDU19960520235 |
+| WDU19961430662 |
+| WDU19961430663 |
+| WDU19961490704 |
+| WDU19971020642 |
+| WDU19971110726 |
+| WDU19980340195 |
+| WDU19980460293 |
+| WDU19981310861 |
+| WDU19981390905 |
+| WDU19981450945 |
+| WDU19990080074 |
+| WDU19990570618 |
+| WDU19990630727 |
+| WDU20031321223 |
+| WDU20031691650 |
+| WDU20071651169 |
+| WDU20071661172 |
+| WDU20071711208 |
+| WDU20080430258 |
+| WDU20080440262 |
+| WDU20081340850 |
+| WDU20081390876 |
+| WDU20092011542 |
+| WDU20120000014 |
+| WDU20120000066 |
+| WDU20120000070 |
+| WDU20120000184 |
+| WDU20120000185 |
+| WDU20120000200 |
+| WDU20120000229 |
+| WDU20120000288 |
+| WDU20120000394 |
+| WDU20120000450 |
+| WDU20120000496 |
+| WDU20120000638 |
+| WDU20120000916 |
+| WDU20120000925 |
+| WDU20120001031 |
+| WDU20130000057 |
+| WDU20130000200 |
+| WDU20130000211 |
+| WDU20130000337 |
+| WDU20130000361 |
+| WDU20130000589 |
+| WDU20130000698 |
+| WDU20130000795 |
+| WDU20130000809 |
+| WDU20130000924 |
+| WDU20130001246 |
+| WDU20130001413 |
+| WDU20130001576 |
+| WDU20130001619 |
+| WDU20140000324 |
+| WDU20140000441 |
+| WDU20140000475 |
+| WDU20140000503 |
+| WDU20140000588 |
+| WDU20140000606 |
+| WDU20140000620 |
+| WDU20140000977 |
+| WDU20140001320 |
+| WDU20140001593 |
+| WDU20140001597 |
+| WDU20140001667 |
+| WDU20140001673 |
+| WDU20140001795 |
+| WDU20140001836 |
+| WDU20150000048 |
+| WDU20150000148 |
+| WDU20150000561 |
+| WDU20150000725 |
+| WDU20150000796 |
+| WDU20150000903 |
+| WDU20150001170 |
+| WDU20150001209 |
+| WDU20150001783 |
+| WDU20160000357 |
+| WDU20160000369 |
+| WDU20160000423 |
+| WDU20160000424 |
+| WDU20160000460 |
+| WDU20160000696 |
+| WDU20160000763 |
+| WDU20160000802 |
+| WDU20160000840 |
+| WDU20160000923 |
+| WDU20160000950 |
+| WDU20160001092 |
+| WDU20160001328 |
+| WDU20160001372 |
+| WDU20160001395 |
+| WDU20160001543 |
+| WDU20160001722 |
+| WDU20160001792 |
+| WDU20160002225 |
+| WDU20160002248 |
+| WDU20170000089 |
+| WDU20170000093 |
+| WDU20170000462 |
+| WDU20170000721 |
+| WDU20170000828 |
+| WDU20170000837 |
+| WDU20170000860 |
+| WDU20170001118 |
+| WDU20170001146 |
+| WDU20170001155 |
+| WDU20170001162 |
+| WDU20170001302 |
+| WDU20170001548 |
+| WDU20170001602 |
+| WDU20170001695 |
+| WDU20170001716 |
+| WDU20170001783 |
+| WDU20170001803 |
+| WDU20170001962 |
+| WDU20170002015 |
+| WDU20170002019 |
+| WDU20170002020 |
+| WDU20170002041 |
+| WDU20170002068 |
+| WDU20170002423 |
+| WDU20170002469 |
+| WDU20180000232 |
+| WDU20180000275 |
+| WDU20180000331 |
+| WDU20180000332 |
+| WDU20180000371 |
+| WDU20180000467 |
+| WDU20180000490 |
+| WDU20180000546 |
+| WDU20180000605 |
+| WDU20180000640 |
+| WDU20180000650 |
+| WDU20180000888 |
+| WDU20180001172 |
+| WDU20180001286 |
+| WDU20180001591 |
+| WDU20180001631 |
+| WDU20180001679 |
+| WDU20180001774 |
+| WDU20180001790 |
+| WDU20180001856 |
+| WDU20180002023 |
+| WDU20180002025 |
+| WDU20180002029 |
+| WDU20180002031 |
+| WDU20180002047 |
+| WDU20180002048 |
+| WDU20180002049 |
+| WDU20180002051 |
+| WDU20180002052 |
+| WDU20180002058 |
+| WDU20180002060 |
+| WDU20180002069 |
+| WDU20180002070 |
+| WDU20180002078 |
+| WDU20180002108 |
+| WDU20180002119 |
+| WDU20180002146 |
+| WDU20180002180 |
+| WDU20180002205 |
+| WDU20180002285 |
+| WDU20180002296 |
+| WDU20180002299 |
+| WDU20180002307 |
+| WDU20180002314 |
+| WDU20180002326 |
+| WDU20180002347 |
+| WDU20180002367 |
+| WDU20180002388 |
+| WDU20180002391 |
+| WDU20180002398 |
+| WDU20180002481 |
+| WDU20190000121 |
+| WDU20190000163 |
+| WDU20190000500 |
+| WDU20190000554 |
+| WDU20190000703 |
+| WDU20190000776 |
+| WDU20190000846 |
+| WDU20190000851 |
+| WDU20190000991 |
+| WDU20190001104 |
+| WDU20190001105 |
+| WDU20190001112 |
+| WDU20190001126 |
+| WDU20190001230 |
+| WDU20190001361 |
+| WDU20190001369 |
+| WDU20190001406 |
+| WDU20190001578 |
+| WDU20190001601 |
+| WDU20190001637 |
+| WDU20190001658 |
+| WDU20190001747 |
+| WDU20190001764 |
+| WDU20190001851 |
+| WDU20190002148 |
+| WDU20190002210 |
+| WDU20190002283 |
+| WDU20190002311 |
+| WDU20190002349 |
+| WDU20190002430 |
+| WDU20190002560 |
+| WDU20200000049 |
+| WDU20200000063 |
+| WDU20200000189 |
+| WDU20200000202 |
+| WDU20200000229 |
+| WDU20200000233 |
+| WDU20200000348 |
+| WDU20200000390 |
+| WDU20200000560 |
+| WDU20200000666 |
+| WDU20200000907 |
+| WDU20200000931 |
+| WDU20200001010 |
+| WDU20200001322 |
+| WDU20200001605 |
+| WDU20200001825 |
+| WDU20200001860 |
+| WDU20200001894 |
+| WDU20200001916 |
+| WDU20200002000 |
+| WDU20200002180 |
+| WDU20200002313 |
+| WDU20200002328 |
+| WDU20200002405 |
+| WDU20200002448 |
+| WDU20210000056 |
+| WDU20210000315 |
+| WDU20210000329 |
+| WDU20210000358 |
+| WDU20210000405 |
+| WDU20210000412 |
+| WDU20210000429 |
+| WDU20210000472 |
+| WDU20210000474 |
+| WDU20210000525 |
+| WDU20210000841 |
+| WDU20210000894 |
+| WDU20210001156 |
+| WDU20210001174 |
+| WDU20210001293 |
+| WDU20210001345 |
+| WDU20210001390 |
+| WDU20210001475 |
+| WDU20210001674 |
+| WDU20210001719 |
+| WDU20210001778 |
+| WDU20210001790 |
+| WDU20210001795 |
+| WDU20210001921 |
+| WDU20210002088 |
+| WDU20210002150 |
+| WDU20210002407 |
+| WDU20210002436 |
+| WDU20210002458 |
+| WDU20220000223 |
+| WDU20220000256 |
+| WDU20220000369 |
+| WDU20220000436 |
+| WDU20220000622 |
+| WDU20220001094 |
+| WDU20220001134 |
+| WDU20220001187 |
+| WDU20220001269 |
+| WDU20220001329 |
+| WDU20220001456 |
+| WDU20220001559 |
+| WDU20220001778 |
+| WDU20220001914 |
+| WDU20220001999 |
+| WDU20220002005 |
+| WDU20220002028 |
+| WDU20220002058 |
+| WDU20220002077 |
+| WDU20220002174 |
+| WDU20220002692 |
+| WDU20220002701 |
+| WDU20220002807 |
+| WDU20230000242 |
+| WDU20230000244 |
+| WDU20230000339 |
+| WDU20230000425 |
+| WDU20230000427 |
+| WDU20230000455 |
+| WDU20230000540 |
+| WDU20230000558 |
+| WDU20230000671 |
+| WDU20230000797 |
+| WDU20230000862 |
+| WDU20230000941 |
+| WDU20230000985 |
+| WDU20230001009 |
+| WDU20230001045 |
+| WDU20230001120 |
+| WDU20230001220 |
+| WDU20230001373 |
+| WDU20230001475 |
+| WDU20230001522 |
+| WDU20230001562 |
+| WDU20230001602 |
+| WDU20230001613 |
+| WDU20230001646 |
+| WDU20230001714 |
+| WDU20230001715 |
+| WDU20230001754 |
+| WDU20230001800 |
+| WDU20230001828 |
+| WDU20230001832 |
+| WDU20230001911 |
+| WDU20230002016 |
+| WDU20230002023 |
+| WDU20230002030 |
+| WDU20230002093 |
+| WDU20230002138 |
+| WDU20230002429 |
+| WDU20230002471 |
+| WDU20230002501 |
+| WDU20230002621 |
+| WDU20230002653 |
+| WDU20230002672 |
+| WDU20230002737 |
+| WDU20230002738 |
+| WDU20230002758 |
+| WDU20230002817 |
+| WDU20230002821 |
+| WDU20240000062 |
+| WDU20240000118 |
+| WDU20240000136 |
+| WDU20240000202 |
+| WDU20240000209 |
+| WDU20240000270 |
+| WDU20240000335 |
+| WDU20240000351 |
+| WDU20240000396 |
+| WDU20240000453 |
+| WDU20240000458 |
+| WDU20240000468 |
+| WDU20240000515 |
+| WDU20240000611 |
+| WDU20240000648 |
+| WDU20240000674 |
+| WDU20240000798 |
+| WDU20240000823 |
+| WDU20240000871 |
+| WDU20240000903 |
+| WDU20240000955 |
+| WDU20240000992 |
+| WDU20240000996 |
+| WDU20240001014 |
+| WDU20240001019 |
+| WDU20240001057 |
+| WDU20240001082 |
+| WDU20240001139 |
+| WDU20240001184 |
+| WDU20240001196 |
+| WDU20240001249 |
+| WDU20240001337 |
+| WDU20240001367 |
+| WDU20240001404 |
+| WDU20240001514 |
+| WDU20240001532 |
+| WDU20240001533 |
+| WDU20240001542 |
+| WDU20240001549 |
+| WDU20240001645 |
+| WDU20240001709 |
+| WDU20240001746 |
+| WDU20240001785 |
+| WDU20240001850 |
+| WDU20240001898 |
+| WDU20240001954 |
+
+## Blocked acts (34)
 
 | Address | Issues |
 |---------|--------|
-| WDU19890320169 | character-spaced text — 1 line(s) with >30% single |
-| WDU19890340180 | character-spaced text — 1 line(s) with >30% single |
-| WDU19900060036 | character-spaced text — 1 line(s) with >30% single |
-| WDU19900140089 | character-spaced text — 1 line(s) with >30% single |
-| WDU19900430251 | character-spaced text — 3 line(s) with >30% single |
-| WDU19900540310 | character-spaced text — 1 line(s) with >30% single |
-| WDU19930470212 | character-spaced text — 2 line(s) with >30% single |
-| WDU19950850426 | character-spaced text — 8 line(s) with >30% single |
-| WDU19960060041 | character-spaced text — 1 line(s) with >30% single |
-| WDU19961490704 | character-spaced text — 2 line(s) with >30% single |
-| WDU19971020642 | character-spaced text — 2 line(s) with >30% single |
-| WDU19971110726 | character-spaced text — 1 line(s) with >30% single |
-| WDU19980460293 | character-spaced text — 1 line(s) with >30% single |
+| WDU19900440256 | character-spaced text — 1 line(s) with >30% single |
+| WDU19900720422 | character-spaced text — 1 line(s) with >30% single |
+| WDU19980400233 | character-spaced text — 1 line(s) with >30% single |
 | WDU19981060668 | character-spaced text — 1 line(s) with >30% single |
-| WDU19981450945 | character-spaced text — 1 line(s) with >30% single |
 | WDU19990130114 | character-spaced text — 1 line(s) with >30% single |
 | WDU19991011182 | character-spaced text — 1 line(s) with >30% single |
 | WDU20011381565 | character-spaced text — 1 line(s) with >30% single |
@@ -64,7 +521,6 @@ Generated: 2026-05-26 03:52 UTC
 | WDU20021861560 | CID font encoding failure — unreadable glyphs (4 o |
 | WDU20022382025 | character-spaced text — 1 line(s) with >30% single |
 | WDU20030620576 | character-spaced text — 1 line(s) with >30% single |
-| WDU20031691650 | character-spaced text — 1 line(s) with >30% single |
 | WDU20040430412 | character-spaced text — 1 line(s) with >30% single |
 | WDU20042042091 | CID font encoding failure — unreadable glyphs (1 o |
 | WDU20050860744 | PostScript CE garbled diacritics — unrepaired enco |
@@ -72,367 +528,31 @@ Generated: 2026-05-26 03:52 UTC
 | WDU20072311704 | character-spaced text — 1 line(s) with >30% single |
 | WDU20080960621 | character-spaced text — 1 line(s) with >30% single |
 | WDU20091080910 | character-spaced text — 1 line(s) with >30% single |
-| WDU20092011542 | PostScript CE garbled diacritics — unrepaired enco |
 | WDU20100110066 | character-spaced text — 2 line(s) with >30% single |
 | WDU20100210109 | character-spaced text — 1 line(s) with >30% single |
 | WDU20101250852 | character-spaced text — 1 line(s) with >30% single |
 | WDU20102441636 | character-spaced text — 1 line(s) with >30% single |
 | WDU20110640342 | character-spaced text — 1 line(s) with >30% single |
 | WDU20112401437 | character-spaced text — 1 line(s) with >30% single |
-| WDU20120000014 | character-spaced text — 1 line(s) with >30% single |
-| WDU20120000066 | excessive repetition — '.......................... |
-| WDU20120000070 | excessive repetition — '.......................... |
 | WDU20120000077 | character-spaced text — 1 line(s) with >30% single |
-| WDU20120000184 | excessive repetition — '1) efekty kształcenia wspó |
-| WDU20120000185 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20120000200 | character-spaced text — 1 line(s) with >30% single |
-| WDU20120000229 | character-spaced text — 1 line(s) with >30% single |
-| WDU20120000288 | excessive repetition — '.......................... |
-| WDU20120000394 | excessive repetition — '.......................... |
-| WDU20120000450 | character-spaced text — 1 line(s) with >30% single |
-| WDU20120000496 | excessive repetition — '.......................... |
-| WDU20120000638 | character-spaced text — 1 line(s) with >30% single |
 | WDU20120000837 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20120000916 | excessive repetition — '.......................... |
-| WDU20120000925 | character-spaced text — 1 line(s) with >30% single; excessive repetition — '.......................... |
-| WDU20120001031 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130000057 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130000200 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130000211 | character-spaced text — 5 line(s) with >30% single |
-| WDU20130000337 | excessive repetition — '. ........................ |
-| WDU20130000361 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130000589 | excessive repetition — '……………………………............... |
-| WDU20130000698 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130000795 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130000809 | character-spaced text — 2 line(s) with >30% single |
-| WDU20130000924 | excessive repetition — '.......................... |
 | WDU20130000928 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130001246 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130001413 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130001576 | character-spaced text — 1 line(s) with >30% single |
-| WDU20130001619 | character-spaced text — 3 line(s) with >30% single |
-| WDU20140000324 | character-spaced text — 1 line(s) with >30% single |
-| WDU20140000475 | character-spaced text — 1 line(s) with >30% single |
-| WDU20140000503 | excessive repetition — '.......................... |
-| WDU20140000588 | character-spaced text — 2 line(s) with >30% single |
-| WDU20140000606 | character-spaced text — 1 line(s) with >30% single |
-| WDU20140000620 | character-spaced text — 1 line(s) with >30% single |
-| WDU20140000977 | character-spaced text — 2 line(s) with >30% single |
-| WDU20140001320 | character-spaced text — 2 line(s) with >30% single |
-| WDU20140001593 | character-spaced text — 2 line(s) with >30% single |
-| WDU20140001597 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20140001667 | character-spaced text — 1 line(s) with >30% single; excessive repetition — 'b) polu drugim imiona,' ap |
-| WDU20140001673 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20140001795 | character-spaced text — 1 line(s) with >30% single |
-| WDU20140001836 | character-spaced text — 4 line(s) with >30% single |
-| WDU20150000048 | character-spaced text — 1 line(s) with >30% single |
-| WDU20150000148 | character-spaced text — 12 line(s) with >30% singl |
 | WDU20150000290 | character-spaced text — 1 line(s) with >30% single |
-| WDU20150000561 | null bytes in output (41 occurrence(s)); character-spaced text — 5 line(s) with >30% single |
-| WDU20150000725 | character-spaced text — 1 line(s) with >30% single |
-| WDU20150000796 | character-spaced text — 1 line(s) with >30% single |
-| WDU20150000903 | character-spaced text — 1 line(s) with >30% single |
-| WDU20150001170 | excessive repetition — '5) zużycie materiałów i en |
-| WDU20150001209 | character-spaced text — 1 line(s) with >30% single |
-| WDU20150001783 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000357 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000369 | excessive repetition — '.......................... |
-| WDU20160000423 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20160000424 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000460 | character-spaced text — 2 line(s) with >30% single |
-| WDU20160000696 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000763 | character-spaced text — 3 line(s) with >30% single |
-| WDU20160000802 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000840 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000923 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160000950 | character-spaced text — 2 line(s) with >30% single |
-| WDU20160001092 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160001328 | character-spaced text — 2 line(s) with >30% single |
-| WDU20160001372 | character-spaced text — 12 line(s) with >30% singl; excessive repetition — 'III. Cena 1. Cena 1.1. Cen |
-| WDU20160001395 | excessive repetition — '4) benzo(a)antracen,' appe |
-| WDU20160001543 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160001722 | character-spaced text — 3 line(s) with >30% single |
-| WDU20160001792 | excessive repetition — '…………………………………………………………………… |
 | WDU20160002197 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160002225 | character-spaced text — 1 line(s) with >30% single |
-| WDU20160002248 | excessive repetition — 'CELE KSZTAŁCENIA WYMAGANIA |
-| WDU20170000089 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170000093 | excessive repetition — '.......................... |
-| WDU20170000462 | excessive repetition — '.......................... |
-| WDU20170000721 | excessive repetition — '…………………………………………………………………… |
-| WDU20170000828 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170000837 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170000860 | excessive repetition — '1) efekty kształcenia wspó |
-| WDU20170001118 | character-spaced text — 3 line(s) with >30% single; excessive repetition — '.......................... |
-| WDU20170001146 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170001155 | character-spaced text — 124 line(s) with >30% sing |
-| WDU20170001162 | excessive repetition — '.......................... |
-| WDU20170001302 | excessive repetition — '…………………………………………………………………… |
-| WDU20170001548 | excessive repetition — 'Objaśnienia i informacje d |
-| WDU20170001602 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170001695 | excessive repetition — '.......................... |
-| WDU20170001716 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170001783 | character-spaced text — 2 line(s) with >30% single |
-| WDU20170001803 | character-spaced text — 2 line(s) with >30% single |
-| WDU20170001962 | PostScript CE garbled diacritics — unrepaired enco |
-| WDU20170002015 | excessive repetition — '…………………………………………………………………… |
-| WDU20170002019 | excessive repetition — '.......................... |
-| WDU20170002020 | excessive repetition — '.......................... |
-| WDU20170002041 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170002068 | character-spaced text — 2 line(s) with >30% single |
-| WDU20170002423 | character-spaced text — 1 line(s) with >30% single |
-| WDU20170002469 | excessive repetition — 'Które instytucje odpowiada |
-| WDU20180000232 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180000275 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180000331 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180000332 | character-spaced text — 7 line(s) with >30% single |
-| WDU20180000371 | excessive repetition — '.......................... |
-| WDU20180000467 | excessive repetition — 'spełnia wymagania określon |
-| WDU20180000490 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180000546 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180000605 | excessive repetition — '.......................... |
-| WDU20180000640 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20180000650 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180000888 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001172 | character-spaced text — 1 line(s) with >30% single |
 | WDU20180001237 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001286 | character-spaced text — 2 line(s) with >30% single |
-| WDU20180001591 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001631 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001679 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001774 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001790 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180001856 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002023 | character-spaced text — 2 line(s) with >30% single |
-| WDU20180002025 | missing Polish diacritics — only 9 in 8938 letters |
-| WDU20180002029 | missing Polish diacritics — only 9 in 8133 letters |
-| WDU20180002031 | missing Polish diacritics — only 7 in 8378 letters |
-| WDU20180002047 | missing Polish diacritics — only 8 in 10796 letter |
-| WDU20180002048 | missing Polish diacritics — only 9 in 4127 letters |
-| WDU20180002049 | missing Polish diacritics — only 8 in 7083 letters |
-| WDU20180002051 | missing Polish diacritics — only 9 in 2006 letters |
-| WDU20180002052 | missing Polish diacritics — only 9 in 3625 letters |
-| WDU20180002058 | character-spaced text — 5 line(s) with >30% single |
-| WDU20180002060 | missing Polish diacritics — only 9 in 10298 letter |
-| WDU20180002069 | missing Polish diacritics — only 8 in 4211 letters |
-| WDU20180002070 | missing Polish diacritics — only 8 in 11065 letter |
-| WDU20180002078 | character-spaced text — 2 line(s) with >30% single |
-| WDU20180002108 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002119 | missing Polish diacritics — only 9 in 4531 letters |
-| WDU20180002146 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002180 | excessive repetition — '3. zasięg geograficzny obs |
-| WDU20180002205 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002285 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002296 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002299 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002307 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002314 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002326 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002347 | character-spaced text — 2 line(s) with >30% single |
-| WDU20180002367 | character-spaced text — 3 line(s) with >30% single |
-| WDU20180002388 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002391 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002398 | character-spaced text — 1 line(s) with >30% single |
-| WDU20180002481 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20190000121 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20190000163 | character-spaced text — 2 line(s) with >30% single |
-| WDU20190000500 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190000554 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20190000703 | character-spaced text — 4 line(s) with >30% single |
-| WDU20190000776 | excessive repetition — '.......................... |
-| WDU20190000846 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190000851 | excessive repetition — '.......................... |
-| WDU20190000991 | excessive repetition — 'Efekty kształcenia Kryteri |
-| WDU20190001104 | character-spaced text — 2 line(s) with >30% single |
-| WDU20190001105 | character-spaced text — 2 line(s) with >30% single |
-| WDU20190001112 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190001126 | character-spaced text — 2 line(s) with >30% single |
-| WDU20190001230 | excessive repetition — '.......................... |
-| WDU20190001361 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190001369 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190001406 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20190001578 | character-spaced text — 2 line(s) with >30% single |
-| WDU20190001601 | excessive repetition — '.......................... |
-| WDU20190001637 | excessive repetition — 'CELE KSZTAŁCENIA - WYMAGAN |
-| WDU20190001658 | excessive repetition — '71. Nr pojazdu kolejowego  |
-| WDU20190001747 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190001764 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20190001851 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190002148 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190002210 | excessive repetition — '.......................... |
-| WDU20190002283 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190002311 | character-spaced text — 2 line(s) with >30% single |
-| WDU20190002349 | excessive repetition — 'Dopuszczalne jest w razie  |
-| WDU20190002430 | character-spaced text — 1 line(s) with >30% single |
-| WDU20190002560 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200000049 | character-spaced text — 2 line(s) with >30% single |
-| WDU20200000063 | excessive repetition — '.......................... |
-| WDU20200000189 | excessive repetition — '.......................... |
-| WDU20200000202 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200000229 | character-spaced text — 2 line(s) with >30% single |
-| WDU20200000233 | character-spaced text — 3 line(s) with >30% single |
-| WDU20200000348 | character-spaced text — 3 line(s) with >30% single |
-| WDU20200000390 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200000560 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200000666 | excessive repetition — '…………………………………………………………………… |
-| WDU20200000907 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200000931 | character-spaced text — 12 line(s) with >30% singl |
-| WDU20200001010 | character-spaced text — 2 line(s) with >30% single |
-| WDU20200001322 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200001605 | excessive repetition — '.......................... |
-| WDU20200001825 | excessive repetition — '.......................... |
-| WDU20200001860 | excessive repetition — 'od 1 stycznia 2030 r.' app |
-| WDU20200001894 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200001916 | excessive repetition — '4 Obowiązek | Warunek Obli |
-| WDU20200002000 | excessive repetition — 'b) zwiększenia (z tytułu)  |
-| WDU20200002180 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200002313 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200002328 | character-spaced text — 18 line(s) with >30% singl |
-| WDU20200002405 | character-spaced text — 1 line(s) with >30% single |
-| WDU20200002448 | excessive repetition — '.......................... |
-| WDU20210000056 | character-spaced text — 2 line(s) with >30% single |
-| WDU20210000315 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000329 | character-spaced text — 2 line(s) with >30% single |
-| WDU20210000358 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000405 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000412 | excessive repetition — '…………………………………………………………………… |
-| WDU20210000429 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000472 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000474 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000525 | character-spaced text — 2 line(s) with >30% single |
-| WDU20210000841 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210000894 | excessive repetition — 'Dla sposobu 2 bez ogranicz |
-| WDU20210001156 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20210001174 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210001293 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210001345 | excessive repetition — '71. Nr pojazdu kolejowego  |
-| WDU20210001390 | character-spaced text — 2 line(s) with >30% single |
-| WDU20210001475 | excessive repetition — '1. Stan bardzo dobry oznac |
-| WDU20210001674 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210001719 | excessive repetition — '.......................... |
-| WDU20210001778 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210001790 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210001795 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210001921 | character-spaced text — 4 line(s) with >30% single |
-| WDU20210002088 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210002150 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210002407 | character-spaced text — 1 line(s) with >30% single |
-| WDU20210002436 | character-spaced text — 7 line(s) with >30% single |
-| WDU20210002458 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220000223 | excessive repetition — '.......................... |
-| WDU20220000256 | PostScript CE garbled diacritics — unrepaired enco |
-| WDU20220000369 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220000436 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220000622 | excessive repetition — 'spełnia wymagania określon |
-| WDU20220001094 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20220001134 | excessive repetition — '.………………………………………………………………… |
-| WDU20220001187 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220001269 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220001329 | excessive repetition — 'CELE KSZTAŁCENIA WYMAGANIA |
-| WDU20220001456 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220001559 | excessive repetition — '.......................... |
-| WDU20220001778 | character-spaced text — 2 line(s) with >30% single |
-| WDU20220001914 | excessive repetition — '…………………………………………………………………… |
-| WDU20220001999 | excessive repetition — '1) nazwę sądu oraz sygnatu |
-| WDU20220002005 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220002028 | excessive repetition — '.......................... |
-| WDU20220002058 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220002077 | character-spaced text — 1 line(s) with >30% single |
-| WDU20220002174 | character-spaced text — 3 line(s) with >30% single |
-| WDU20220002692 | excessive repetition — '.......................... |
-| WDU20220002701 | excessive repetition — '……………………………………………..………………… |
-| WDU20220002807 | excessive repetition — '.......................... |
-| WDU20230000242 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000244 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000339 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000425 | excessive repetition — '1. Dane binarne / nazwa pl |
-| WDU20230000427 | character-spaced text — 11 line(s) with >30% singl |
-| WDU20230000455 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000540 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000558 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000671 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000797 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230000862 | excessive repetition — '.......................... |
-| WDU20230000941 | character-spaced text — 2 line(s) with >30% single |
-| WDU20230000985 | character-spaced text — 2 line(s) with >30% single |
-| WDU20230001009 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001045 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001120 | excessive repetition — '.......................... |
-| WDU20230001220 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20230001373 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001475 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001522 | excessive repetition — '.......................... |
-| WDU20230001562 | excessive repetition — '5) zużycie materiałów i en |
-| WDU20230001602 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001613 | character-spaced text — 2 line(s) with >30% single |
-| WDU20230001646 | excessive repetition — '.......................... |
-| WDU20230001714 | PostScript CE garbled diacritics — unrepaired enco |
-| WDU20230001715 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001754 | excessive repetition — 'Treści nauczania Kryteria  |
-| WDU20230001800 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230001828 | CID font encoding failure — unreadable glyphs (2 o; excessive repetition — '.......................... |
-| WDU20230001832 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20230001911 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20230002016 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20230002023 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20230002030 | excessive repetition — '.......................... |
-| WDU20230002093 | excessive repetition — '.......................... |
-| WDU20230002138 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230002429 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20230002471 | excessive repetition — 'b) 0,057 za 1 pobranych po |
-| WDU20230002501 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20230002621 | excessive repetition — '6. FUNKCJE DOPUSZCZALNE' a |
-| WDU20230002653 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230002672 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230002737 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230002738 | character-spaced text — 1 line(s) with >30% single |
-| WDU20230002758 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20230002817 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20230002821 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240000062 | character-spaced text — 32 line(s) with >30% singl |
-| WDU20240000118 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20240000136 | PDF table/chart garbage — 5 line(s) with >25% pipe; character-spaced text — 6 line(s) with >30% single |
-| WDU20240000202 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20240000209 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240000270 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240000335 | character-spaced text — 3 line(s) with >30% single |
-| WDU20240000351 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20240000396 | CID font encoding failure — unreadable glyphs (1 o; character-spaced text — 1 line(s) with >30% single |
-| WDU20240000453 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20240000458 | character-spaced text — 2 line(s) with >30% single; excessive repetition — '.......................... |
-| WDU20240000468 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20240000515 | character-spaced text — 2 line(s) with >30% single |
-| WDU20240000611 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240000648 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240000674 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20240000798 | excessive repetition — '…………………………………………………………………… |
-| WDU20240000823 | CID font encoding failure — unreadable glyphs (4 o |
-| WDU20240000871 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20240000903 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20240000955 | excessive repetition — '.......................... |
-| WDU20240000992 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240000996 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20240001014 | excessive repetition — 'o obszarach morskich Rzecz |
-| WDU20240001019 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20240001057 | excessive repetition — '.......................... |
-| WDU20240001082 | CID font encoding failure — unreadable glyphs (4 o; character-spaced text — 12 line(s) with >30% singl |
-| WDU20240001139 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240001184 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20240001196 | character-spaced text — 3 line(s) with >30% single |
-| WDU20240001249 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20240001337 | excessive repetition — 'o obszarach morskich Rzecz |
-| WDU20240001367 | CID font encoding failure — unreadable glyphs (3 o |
-| WDU20240001404 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240001514 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20240001532 | CID font encoding failure — unreadable glyphs (1 o |
-| WDU20240001533 | excessive repetition — '.......................... |
-| WDU20240001542 | excessive repetition — '.......................... |
-| WDU20240001549 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240001645 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240001709 | character-spaced text — 1 line(s) with >30% single |
-| WDU20240001746 | excessive repetition — 'Objaśnienia i informacje d |
-| WDU20240001754 | PDF header artifact — '©Kancelaria Sejmu' leaked i; excessive repetition — 'Rozdział Nazwa części Poz. |
-| WDU20240001785 | character-spaced text — 4 line(s) with >30% single; excessive repetition — '.......................... |
-| WDU20240001850 | excessive repetition — '.......................... |
-| WDU20240001898 | CID font encoding failure — unreadable glyphs (2 o |
-| WDU20240001954 | CID font encoding failure — unreadable glyphs (2 o |
+| WDU20240001754 | CID font encoding failure — unreadable glyphs (394 |
+
+## Removed — no longer in force (10)
+
+| Address | Title | Status |
+|---------|-------|--------|
+| WDU20240000651 | Ustawa z dnia 12 kwietnia 2024 r. o ratyfikacji Protoko… | akt jednorazowy |
+| WDU20240001559 | Ustawa z dnia 27 września 2024 r. o ratyfikacji Międzyn… | akt jednorazowy |
+| WDU20250000524 | Ustawa z dnia 20 marca 2025 r. o ratyfikacji Poprawek d… | akt jednorazowy |
+| WDU20250001407 | Ustawa z dnia 12 września 2025 r. o ratyfikacji Umowy o… | akt jednorazowy |
+| WDU20250001411 | Ustawa z dnia 12 września 2025 r. o ratyfikacji Umowy o… | akt jednorazowy |
+| WDU20250001412 | Ustawa z dnia 12 września 2025 r. o ratyfikacji Umowy o… | akt jednorazowy |
+| WDU20250001563 | Ustawa z dnia 26 września 2025 r. o ratyfikacji Traktat… | akt jednorazowy |
+| WDU20250001841 | Ustawa z dnia 21 listopada 2025 r. o ratyfikacji Porozu… | akt jednorazowy |
+| WDU20260000567 | Ustawa z dnia 13 marca 2026 r. o ratyfikacji Umowy międ… | akt jednorazowy |
+| WDU20260000568 | Ustawa z dnia 13 marca 2026 r. o ratyfikacji poprawek d… | akt jednorazowy |

@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 26 stycznia 2007 r. o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o działach administracji rządowej
 
-*USTAWA dnia 26 stycznia 2007 o zmianie o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o działach administracji rządowej*
+*USTAWA dnia 26 stycznia 2007 o zmianie ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz ustawy o działach administracji rządowej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +24,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-01-26 |
 | Data wydania | 2007-02-27 |
+| Wejście w życie | 2007-03-14 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/218/text.pdf) |
 
 **Art. 1.** W ustawie dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2004 208, 2128, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie 37 oraz 39a 1 dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 37 oraz 39a 1 tej ustawy, brzmieniu nadanym niniejszą ustawą.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 37 oraz art. 39a ustawy dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 37 oraz art. 39a tej ustawy, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

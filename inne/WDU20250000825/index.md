@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-06-11 |
 | Data wydania | 2025-06-25 |
-| Ostatnia zmiana | 2026-04-17 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/825/text.pdf) |
 
 Art. 698–776. (pominięte)
@@ -692,6 +692,7 @@ Art. 698–776. (pominięte)
     - **d)** usług i robót budowlanych związanych z rozwojem infrastruktury wojskowej;
 
 - **8)** wpływów ze skarbowych papierów wartościowych, o których mowa w art. 43;
+- **8a)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **9)** kredytów, pożyczek oraz wyemitowanych obligacji, o których mowa w art. 45 ust. 1, oraz zobowiązań finansowych, o których mowa w art. 45a ust. 1;
 - **9a)** wpływów, o których mowa w art. 38a ust. 4;
 - **10)** wpływów z wpłat lub darowizn, o których mowa w art. 50;
@@ -747,7 +748,7 @@ Art. 698–776. (pominięte)
 
 8. Minister Obrony Narodowej przedkłada komisji sejmowej właściwej w sprawach obrony państwa sprawozdanie z realizacji planu finansowego Funduszu, w terminie do dnia 31 maja roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie. Komisja sejmowa właściwa w sprawach obrony państwa wyraża opinię do przedłożonego sprawozdania.
 
-9. Okresowo wolne środki Funduszu Bank Gospodarstwa Krajowego może lokować w formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+9. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 10. Dla potrzeb opracowania programu Bank Gospodarstwa Krajowego sporządza prognozę przychodów i wydatków Funduszu.
 

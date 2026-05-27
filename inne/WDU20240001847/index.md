@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-11-27 |
 | Data wydania | 2024-12-13 |
+| Wejście w życie | 2024-12-28 |
 | Ostatnia zmiana | 2024-12-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1847/text.pdf) |
 

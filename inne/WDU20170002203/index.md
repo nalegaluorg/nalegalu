@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-27 |
 | Data wydania | 2017-11-29 |
-| Ostatnia zmiana | 2026-05-18 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2203/text.pdf) |
 
 Art. 76–88. (pominięte)
@@ -34,6 +34,60 @@ Art. 76–88. (pominięte)
 **Art. 1.** Ustawa określa zasady finansowania zadań oświatowych.
 
 **Art. 2.** Ilekroć w ustawie jest mowa o:
+
+- **1)** dziecku objętym wczesnym wspomaganiem rozwoju – należy przez to rozumieć dziecko posiadające opinię o potrzebie wczesnego wspomagania rozwoju, o której mowa w art. 127 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933);
+- **2)** egzaminie maturalnym – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21c ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933);
+- **3)** egzaminie zawodowym – należy przez to rozumieć egzamin, o którym mowa w art. 3 pkt 21 ustawy z dnia 7 września 1991 r. o systemie oświaty;
+- **4)** gminie miejskiej – należy przez to rozumieć gminę ujętą jako gmina miejska w krajowym rejestrze urzędowym podziału terytorialnego kraju, o którym mowa w art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. z 2024 r. poz. 1799);
+- **5)** gminie miejsko-wiejskiej – należy przez to rozumieć gminę ujętą jako gmina miejsko-wiejska w krajowym rejestrze urzędowym podziału terytorialnego kraju, o którym mowa w art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
+- **6)** gminie wiejskiej – należy przez to rozumieć gminę ujętą jako gmina wiejska w krajowym rejestrze urzędowym podziału terytorialnego kraju, o którym mowa w art. 41 ust. 1 pkt 2 ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej;
+- **6a)** kształceniu w formie dziennej – należy przez to rozumieć kształcenie w formie dziennej, o którym mowa w art. 4 pkt 29a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **7)** kwalifikacyjnym kursie zawodowym – należy przez to rozumieć kwalifikacyjny kurs zawodowy, o którym mowa w art. 4 pkt 35 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **8)** liczbie mieszkańców – należy przez to rozumieć liczbę mieszkańców zamieszkałych na obszarze odpowiednio danej jednostki samorządu terytorialnego oraz kraju, według stanu na dzień 31 grudnia roku poprzedzającego rok bazowy, ustaloną przez Prezesa Głównego Urzędu Statystycznego do dnia 31 maja roku bazowego;
+- **9)** materiale ćwiczeniowym – należy przez to rozumieć materiał ćwiczeniowy, o którym mowa w art. 3 pkt 25 ustawy z dnia 7 września 1991 r. o systemie oświaty;
+- **10)** materiale edukacyjnym – należy przez to rozumieć materiał edukacyjny, o którym mowa w art. 3 pkt 24 ustawy z dnia 7 września 1991 r. o systemie oświaty;
+- **11)** nauczycielu – należy przez to rozumieć także wychowawcę i innego pracownika pedagogicznego przedszkola, innej formy wychowania przedszkolnego, szkoły, placówki i placówki doskonalenia nauczycieli;
+- **12)** niepublicznej szkole – należy przez to rozumieć niepubliczną szkołę, o której mowa w art. 14 ust. 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **12a)** niepublicznej szkole artystycznej o uprawnieniach publicznej szkoły artystycznej – należy przez to rozumieć niepubliczną szkołę artystyczną o uprawnieniach publicznej szkoły artystycznej, o której mowa w art. 14 ust. 4 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **13)** oddziale integracyjnym – należy przez to rozumieć odpowiednio oddział przedszkolny lub oddział szkolny, w których uczniowie posiadający orzeczenie o potrzebie kształcenia specjalnego uczą się i wychowują razem z pozostałymi uczniami, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **14)** opłatach za korzystanie z wychowania przedszkolnego – należy przez to rozumieć opłaty za nauczanie, wychowanie i opiekę w placówce wychowania przedszkolnego, prowadzone w czasie przekraczającym czas bezpłatnego nauczania, wychowania i opieki, ustalony zgodnie z art. 13 ust. 1 pkt 2, ust. 2 lub 3 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **15)** organie prowadzącym – należy przez to rozumieć ministra, jednostkę samorządu terytorialnego, osobę prawną niebędącą jednostką samorządu terytorialnego oraz osobę fizyczną prowadzących przedszkole, inną formę wychowania przedszkolnego, szkołę lub placówkę;
+- **16)** organie rejestrującym – należy przez to rozumieć: o systemie oświaty, w brzmieniu obowiązującym przed dniem 1 września 2017 r.,
+    - **a)** jednostkę samorządu terytorialnego właściwą do wydania zezwolenia, o którym mowa w art. 88 ust. 4 pkt 1 lub art. 90 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **b)** jednostkę samorządu terytorialnego dokonującą wpisu do ewidencji, o którym mowa w art. 168 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **c)** jednostkę samorządu terytorialnego, która przekazała osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, prowadzenie odpowiednio przedszkola lub szkoły, w drodze umowy, o której mowa w art. 9 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **d)** jednostkę samorządu terytorialnego, która przekazała osobie prawnej niebędącej jednostką samorządu terytorialnego lub osobie fizycznej, prowadzenie odpowiednio przedszkola, szkoły lub placówki, w drodze umowy, o której mowa w art. 5 ust. 5g ustawy z dnia 7 września 1991 r.
+    - **e)** jednostkę samorządu terytorialnego, której organ wykonawczy podpisał zmianę umowy, o której mowa w art. 9 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, na podstawie art. 9a ust. 2 tej ustawy;
+
+- **17)** orzeczeniu o potrzebie kształcenia specjalnego – należy przez to rozumieć orzeczenie o potrzebie kształcenia specjalnego, o którym mowa w art. 127 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **18)** orzeczeniu o potrzebie zajęć rewalidacyjno-wychowawczych – należy przez to rozumieć orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych, o którym mowa w art. 127 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **19)** placówce – należy przez to rozumieć jednostki organizacyjne wymienione w art. 2 pkt 3–8 i 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **20)** placówce wychowania przedszkolnego – należy przez to rozumieć przedszkole, oddział przedszkolny w szkole podstawowej oraz inną formę wychowania przedszkolnego;
+- **21)** podręczniku – należy przez to rozumieć podręcznik, o którym mowa w art. 3 pkt 23 ustawy z dnia 7 września 1991 r. o systemie oświaty;
+- **22)** przedszkolu integracyjnym lub szkole integracyjnej – należy przez to rozumieć odpowiednio przedszkole lub szkołę, w których wszystkie oddziały są oddziałami integracyjnymi;
+- **23)** przedszkolu specjalnym, szkole specjalnej lub oddziale specjalnym – należy przez to rozumieć odpowiednio: – Prawo oświatowe;
+    - **a)** przedszkole, szkołę lub oddział dla uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 127 ust. 19 pkt 2 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe,
+    - **b)** przedszkole, szkołę lub oddział zorganizowane w podmiocie leczniczym, o którym mowa w przepisach o działalności leczniczej, oraz w jednostce pomocy społecznej, w celu kształcenia dzieci i młodzieży przebywających w tym podmiocie lub jednostce, w których stosuje się odpowiednią organizację kształcenia oraz specjalne działania opiekuńczo-wychowawcze, zorganizowane zgodnie z przepisami wydanymi na podstawie art. 128 ust. 3 ustawy z dnia 14 grudnia 2016 r.
+
+- **23a)** przewidzianej kwocie potrzeb oświatowych – należy przez to rozumieć przewidzianą kwotę potrzeb oświatowych dla jednostki samorządu terytorialnego ustaloną na podstawie art. 26 ustawy z dnia 1 października 2024 r. o dochodach jednostek samorządu terytorialnego (Dz. U. poz. 1572 i
+- **1717)** , zwanej dalej „ustawą o dochodach jednostek samorządu terytorialnego”;
+- **24)** rodzicach – należy przez to rozumieć także prawnych opiekunów dziecka oraz osoby (podmioty) sprawujące pieczę zastępczą nad dzieckiem;
+- **25)** roku bazowym – należy przez to rozumieć rok poprzedzający rok budżetowy;
+- **26)** roku budżetowym – należy przez to rozumieć rok, na który jest uchwalana ustawa budżetowa i są udzielane dotacje określone w niniejszej ustawie;
+- **27)** szkole – należy przez to rozumieć publiczną i niepubliczną szkołę, o której mowa w art. 18 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, publiczną szkołę artystyczną oraz niepubliczną szkołę artystyczną o uprawnieniach publicznej szkoły artystycznej;
+- **28)** szkole dla dorosłych – należy przez to rozumieć szkołę dla dorosłych, o której mowa w art. 4 pkt 29 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **29)** szkole, w której jest realizowany obowiązek szkolny lub obowiązek nauki – należy przez to rozumieć szkołę podstawową dla dzieci i młodzieży, liceum ogólnokształcące dla dzieci i młodzieży, technikum, branżową szkołę I stopnia i szkołę specjalną przysposabiającą do pracy;
+- **30)** szkole, w której nie jest realizowany obowiązek szkolny lub obowiązek nauki – należy przez to rozumieć szkołę podstawową dla dorosłych, liceum ogólnokształcące dla dorosłych, branżową szkołę II stopnia i szkołę policealną;
+- **31)** środkach pochodzących z budżetu Unii Europejskiej – należy przez to rozumieć środki, o których mowa w art. 5 ust. 3 pkt 1, 4 i 5a–5c ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39);
+- **32)** uczestniku zajęć rewalidacyjno-wychowawczych – należy przez to rozumieć osobę posiadającą orzeczenie o potrzebie zajęć rewalidacyjno-wychowawczych;
+- **33)** uczniu – należy przez to rozumieć także słuchacza szkoły dla dorosłych, branżowej szkoły II stopnia i szkoły policealnej oraz dziecko korzystające z wychowania przedszkolnego;
+- **34)** uczniu niepełnosprawnym – należy przez to rozumieć ucznia posiadającego orzeczenie o potrzebie kształcenia specjalnego wydane ze względu na niepełnosprawność, o którym mowa w art. 127 ust. 10 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **35)** wskaźniku dochodów podatkowych na jednego mieszkańca w gminie – należy przez to rozumieć wskaźnik, o którym mowa w art. 24 ust. 3 ustawy o dochodach jednostek samorządu terytorialnego;
+- **36)** wskaźniku dochodów podatkowych na jednego mieszkańca w powiecie – należy przez to rozumieć wskaźnik, o którym mowa w art. 24 ust. 3 ustawy o dochodach jednostek samorządu terytorialnego;
+- **36a)** internacie – należy przez to rozumieć internat, o którym mowa w art. 107 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **37)** branżowym centrum umiejętności – należy przez to rozumieć branżowe centrum umiejętności, które tworzy ogólnopolską sieć branżowych centrów umiejętności, o której mowa w art. 8a ust. 7 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe;
+- **38)** branżowym szkoleniu zawodowym – należy przez to rozumieć branżowe szkolenie zawodowe, o którym mowa w art. 4 pkt 35d ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, którego łączny wymiar wynosi nie mniej niż 15 godzin, a dzienny wymiar – średnio nie mniej niż 5 godzin, z wyłączeniem dni, w których to szkolenie nie jest prowadzone;
+- **39)** uczniu objętym branżowym szkoleniem zawodowym – należy przez to rozumieć ucznia technikum lub branżowej szkoły I stopnia lub słuchacza branżowej szkoły II stopnia lub szkoły policealnej uczestniczących w branżowym szkoleniu zawodowym.
 
 **Art. 3.**
 
@@ -749,6 +803,9 @@ Art. 76–88. (pominięte)
 
 **Art. 45.** Jeżeli ustawa budżetowa na rok budżetowy została ogłoszona po dniu 1 grudnia roku bazowego, wysokość dotacji, o której mowa w art. 15–21, art. 25 ust. 1–4 i 8, art. 26 ust. 1, 2 i 8, art. 28–30 oraz art. 31 ust. 1, w zakresie przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego, ustala się:
 
+- **1)** w okresie do ostatniego dnia miesiąca pierwszej aktualizacji – z uwzględnieniem przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego w roku bazowym;
+- **2)** w okresie od pierwszego dnia miesiąca następującego po miesiącu pierwszej aktualizacji – z uwzględnieniem przewidzianej kwoty potrzeb oświatowych dla jednostki samorządu terytorialnego w roku budżetowym.
+
 **Art. 46.**
 
 1. W Biuletynie Informacji Publicznej jednostki samorządu terytorialnego, która udziela dotacji, o których mowa w art. 16–21, art. 25 i art. 28, ogłasza się informację o:
@@ -995,6 +1052,12 @@ Art. 76–88. (pominięte)
 
 **Art. 60.** Minister właściwy do spraw oświaty i wychowania określi corocznie, w drodze rozporządzenia:
 
+- **1)** sposób przekazywania przez dyrektora publicznej szkoły podstawowej lub szkoły artystycznej realizującej kształcenie ogólne w zakresie szkoły podstawowej prowadzonych przez jednostki samorządu terytorialnego oraz dyrektora publicznej szkoły podstawowej prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego oraz osobę fizyczną jednostkom samorządu terytorialnego informacji niezbędnych dla ustalenia wysokości dotacji celowej, o której mowa w art. 55 ust. 3 i 4, w tym kwot refundacji, o których mowa w art. 57 ust. 4–6, oraz wzór formularza zawierającego te informacje,
+- **2)** wzór wniosku o udzielenie dotacji celowej, o której mowa w art. 55 ust. 4, w tym kwot refundacji, o których mowa w art. 57 ust. 4–6, szkole podstawowej prowadzonej przez osobę prawną niebędącą jednostką samorządu terytorialnego oraz osobę fizyczną,
+- **3)** sposób przekazywania przez jednostki samorządu terytorialnego wojewodom wniosku o udzielenie dotacji celowej, o której mowa w art. 55 ust. 3, w tym kwot refundacji, o których mowa w art. 57 ust. 4–6, oraz wzór wniosku o udzielenie tej dotacji,
+- **4)** tryb i terminy udzielania oraz szczegółowy sposób rozliczania wykorzystania dotacji celowej, o której mowa w art. 55 ust. 3, w tym kwot refundacji, o których mowa w art. 57 ust. 4–6, oraz wzór formularza rozliczenia wykorzystania tej dotacji,
+- **5)** szczegółowy sposób rozliczania wykorzystania dotacji celowej, o której mowa w art. 55 ust. 4, w tym kwot refundacji, o których mowa w art. 57 ust. 4–6, oraz wzór formularza rozliczenia wykorzystania tej dotacji – biorąc pod uwagę możliwość wykorzystania środków komunikacji elektronicznej i informatycznych nośników danych, a także mając na względzie zapewnienie jawności i przejrzystości gospodarowania środkami budżetu państwa.
+
 **Art. 61.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia, wysokość wskaźników, o których mowa w art. 55 ust. 6, biorąc pod uwagę wyniki analiz kształtowania się cen podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych, dostosowanych do potrzeb edukacyjnych i możliwości psychofizycznych uczniów z niepełnosprawnością intelektualną, niesłyszących, słabosłyszących, z autyzmem, w tym z zespołem Aspergera, niewidomych i słabowidzących, a także możliwość zapewnienia tych podręczników, materiałów edukacyjnych lub materiałów ćwiczeniowych.
 
 **Art. 62.**
@@ -1074,6 +1137,9 @@ Art. 76–88. (pominięte)
 **Art. 66.** W przypadku szkół prowadzonych przez jednostki samorządu terytorialnego zadania i kompetencje organu prowadzącego określone w art. 63 wykonuje odpowiednio wójt (burmistrz, prezydent miasta), zarząd powiatu, zarząd województwa.
 
 **Art. 67.** Podręczniki, materiały edukacyjne i materiały ćwiczeniowe oraz książki pomocnicze, dostosowane do potrzeb edukacyjnych i możliwości psychofizycznych uczniów niepełnosprawnych, są dofinansowywane z budżetu państwa przez:
+
+- **1)** udzielanie dotacji celowej, o której mowa w art. 55 ust. 3 i art. 69 ust. 2;
+- **2)** możliwość zlecenia opracowania i wydania, w tym dystrybucji podręczników, materiałów edukacyjnych, materiałów ćwiczeniowych lub książek pomocniczych, lub ich części, przez ministra właściwego do spraw oświaty i wychowania, o którym mowa w art. 22c ustawy o systemie oświaty.
 
 **Art. 68.** Podręczniki i książki pomocnicze do kształcenia uczniów w zakresie niezbędnym do podtrzymania poczucia tożsamości narodowej, etnicznej i językowej mogą być dofinansowywane z budżetu państwa z części, której dysponentem jest minister właściwy do spraw oświaty i wychowania.
 
@@ -1176,13 +1242,30 @@ Art. 76–88. (pominięte)
 
 **Art. 75a.** Minister właściwy do spraw oświaty i wychowania w celu realizacji zadań publicznych w zakresie oświaty i wychowania może udzielić dotacji celowej na finansowanie lub dofinansowanie kosztów realizacji remontów i inwestycji związanych z:
 
+- **1)** realizacją programów inwestycyjnych, o których mowa w art. 90x ustawy o systemie oświaty;
+- **2)** zakupem nieruchomości oraz budową lub dostosowaniem obiektów, niezbędnych dla rozwoju przedszkoli, szkół lub placówek;
+- **3)** wyposażeniem przedszkoli, szkół lub placówek. Art. 75aa. 1. Do udzielania dotacji celowej, o której mowa w art. 75a, nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+2. Zatwierdzenie rozliczenia dotacji celowej, o której mowa w art. 75a, w zakresie rzeczowym i finansowym, przedstawionego przez obowiązany do tego podmiot, następuje w terminie 60 dni od dnia jego przedstawienia.
+
+3. W przypadku konieczności poprawienia lub uzupełnienia rozliczenia, o którym mowa w ust. 2, lub złożenia wyjaśnień do tego rozliczenia, termin, o którym mowa w ust. 2, jest liczony odpowiednio od dnia przedstawienia poprawionego lub uzupełnionego rozliczenia lub od dnia złożenia wyjaśnień do rozliczenia.
+
 **Art. 75b.** Minister właściwy do spraw oświaty i wychowania określi, w drodze rozporządzenia:
+
+- **1)** szczegółowe kryteria i tryb przyznawania oraz rozliczania, a także tryb przekazywania dotacji celowej, o której mowa w art. 75a,
+- **2)** zakres informacji zawartych we wniosku o przyznanie dotacji celowej, o której mowa w art. 75a, oraz w sprawozdaniu z wykonania zadania,
+- **3)** sposób rozliczenia udzielonej dotacji celowej, o której mowa w art. 75a – mając na uwadze konieczność zapewnienia jednolitości danych przekazywanych na potrzeby przyznawania i rozliczania tej dotacji.
 
 #### Rozdział 11 Zmiany w przepisach
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 
 **Art. 89.** Ilekroć w niniejszym rozdziale jest mowa o:
+
+- **1)** dotychczasowym gimnazjum – należy przez to rozumieć również klasy dotychczasowego gimnazjum prowadzone w szkole innego typu;
+- **2)** dotychczasowym trzyletnim liceum ogólnokształcącym – należy przez to rozumieć również klasy dotychczasowego trzyletniego liceum ogólnokształcącego prowadzone w czteroletnim liceum ogólnokształcącym;
+- **3)** dotychczasowym czteroletnim technikum – należy przez to rozumieć również klasy dotychczasowego czteroletniego technikum prowadzone w pięcioletnim technikum;
+- **4)** dotychczasowej zasadniczej szkole zawodowej – należy przez to rozumieć klasy dotychczasowej zasadniczej szkoły zawodowej prowadzone w branżowej szkole I stopnia.
 
 **Art. 90.**
 
@@ -1209,6 +1292,9 @@ Art. 76–88. (pominięte)
 **Art. 93.** W okresie od dnia 1 stycznia 2018 r. do dnia 31 marca 2018 r. przy ustalaniu wskaźnika zwiększającego, o którym mowa w art. 14 ust. 1, 2 i 8, dla zmiennej Dp należy przyjąć wykorzystaną w budżecie jednostki samorządu terytorialnego kwotę dotacji, o której mowa w art. 22ae ust. 3 ustawy zmienianej w art. 80 , dla prowadzonych przez jednostkę samorządu terytorialnego szkół danego typu niebędących szkołami specjalnymi lub będących szkołami specjalnymi.
 
 **Art. 94.** W okresie do ostatniego dnia miesiąca pierwszej aktualizacji w 2018 r., wskaźnik zwiększający, o którym mowa w art. 14 ust. 8, ustala się z uwzględnieniem:
+
+- **1)** wydatków i dochodów bieżących oraz kwoty przewidzianej w części oświatowej subwencji ogólnej w 2016 r.;
+- **2)** liczby dzieci objętych wczesnym wspomaganiem rozwoju, uczniów i uczestników zajęć rewalidacyjno-wychowawczych ustalonej na podstawie danych systemu informacji oświatowej według stanu odpowiednio na dzień 30 września 2015 r. lub na dzień 30 września 2016 r.
 
 **Art. 95.**
 
@@ -1767,7 +1853,23 @@ Art. 76–88. (pominięte)
 
 **Art. 145k.** Do dotacji na:
 
+- **1)** uczniów, którzy przed dniem 1 stycznia 2025 r. ukończyli publiczne lub niepubliczne licea ogólnokształcące dla dorosłych, publiczne lub niepubliczne branżowe szkoły II stopnia i publiczne lub niepubliczne szkoły policealne, niebędące szkołami specjalnymi – stosuje się odpowiednio przepisy art. 25 ust. 5 lub art. 26 ust. 5,
+- **2)** słuchaczy, którzy przed dniem 1 stycznia 2025 r. rozpoczęli kwalifikacyjny kurs zawodowy prowadzony przez publiczne szkoły ponadpodstawowe prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne – stosuje się przepis art. 31 ust. 1,
+- **3)** słuchaczy, którzy przed dniem 1 stycznia 2025 r. ukończyli kwalifikacyjny kurs zawodowy prowadzony przez publiczne szkoły ponadpodstawowe prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne – stosuje się przepis art. 31 ust. 1a,
+- **4)** słuchaczy, którzy przed dniem 1 stycznia 2025 r. ukończyli kwalifikacyjny kurs zawodowy prowadzony przez niepubliczne szkoły ponadpodstawowe prowadzone przez osoby prawne niebędące jednostkami samorządu terytorialnego oraz osoby fizyczne – stosuje się przepis art. 31a ust. 1 – w brzmieniu obowiązującym w dniu 31 grudnia 2024 r.
+
 **Art. 146.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 30 ust. 7 ustawy zmienianej w art. 76 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 30 ust. 7 ustawy zmienianej w art. 76 , w brzmieniu nadanym niniejszą ustawą, oraz mogą być zmieniane na podstawie tego przepisu;
+- **2)** art. 14d ust. 10 ustawy zmienianej w art. 80 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 53 ust. 11 oraz mogą być zmieniane na podstawie tego przepisu;
+- **3)** art. 80 ust. 7 i art. 90 ust. 4g ustawy zmienianej w art. 80 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 42 ust. 3 oraz mogą być zmieniane na podstawie tego przepisu.
+
 **Art. 147.** Ustawa wchodzi w życie z dniem 1 stycznia 2018 r., z wyjątkiem:
+
+- **1)** art. 80 pkt 11–15, art. 83 pkt 3, 10 i 12–15, art. 86 pkt 5 i 11–14, art. 87 pkt 2, 4 i 5, art. 88, art. 89, art. 91 ust. 1 i art. 145, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia ;
+- **2)** art. 54–69, art. 80 pkt 2, 4–10 i pkt 16 w zakresie art. 85b, art. 85, art. 86 pkt 8, art. 87 pkt 11–13 i art. 112–120, które wchodzą w życie z dniem 1 kwietnia 2018 r.;
+- **3)** art. 76 pkt 1–14, pkt 17 lit. b, pkt 22, 23, pkt 28 w zakresie art. 61, pkt 37 lit. a w zakresie art. 91b ust. 2 pkt 1 i 2 oraz lit. b i c, pkt 38 lit. b, art. 83 pkt 4 i pkt 11 lit. a tiret drugie, art. 86 pkt 4 oraz art. 144, które wchodzą w życie z dniem 1 września 2018 r.;
+- **4)** art. 35 ust. 4 i 5, art. 70, art. 76 pkt 33 i pkt 37 lit. a w zakresie art. 91b ust. 2 pkt 3 i 4, art. 80 pkt 17 w zakresie art. 90r i art. 81 w zakresie art. 28 ust. 6 pkt 6, które wchodzą w życie z dniem 1 stycznia 2019 r.
+- **5)** (uchylony)
+
 

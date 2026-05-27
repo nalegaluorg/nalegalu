@@ -22,10 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-08-30 |
 | Data wydania | 2013-09-27 |
+| Wejście w życie | 2013-10-12 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001145) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1145/text.pdf) |
 
-**Art. 1.** W ustawie 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. r. poz. 749, późn. zm. wprowadza się następujące zmiany:
+**Art. 1.** W ustawie 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. r. 749, późn. zm. ) wprowadza następujące zmiany:
 
 **Art. 154b.**
 
@@ -52,31 +53,31 @@ source: "isap-pdf"
 4. Minister właściwy spraw finansów publicznych, drodze rozporządzenia, wyznacza podległy mu organ podatkowy przekazywania obcym władzom wniosków informacji, mając na względzie konieczność zapewnienia sprawnej skutecznej wymiany informacji.”;
 
 - **5)** art. 305f:
-    - **a)** po 1 dodaje się 1a brzmieniu: „§ 1a. Otrzymanie wniosku potwierdza się niezwłocznie, nie później niż terminie 7 dni roboczych od jego otrzymania. Potwierdzenia dokonuje się za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości potwierdzenia ten sposób, potwierdzenia dokonuje się formie pisemnej.”,
+    - **a)** po 1 dodaje 1a brzmieniu: „§ 1a. Otrzymanie wniosku potwierdza niezwłocznie, nie później niż terminie 7 dni roboczych od jego otrzymania. Potwierdzenia dokonuje za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości potwierdzenia ten sposób, potwierdzenia dokonuje formie pisemnej.”,
     - **b)** 2 otrzymuje brzmienie: „§ 2. Postępowanie powinno być zakończone bez zbędnej zwłoki, jednak nie później niż terminie 6 miesięcy od otrzymania wniosku. W przypadku gdy organ posiada już żądane informacje, ich przekazanie następuje terminie 2 miesięcy od otrzymania wniosku.”,
-    - **c)** po 2 dodaje się 2a brzmieniu: „§ 2a. W szczególnie uzasadnionych przypadkach można uzgodnić obcą władzą, że przekazanie informacji nastąpi innych terminach niż określone 2.”,
+    - **c)** po 2 dodaje 2a brzmieniu: „§ 2a. W szczególnie uzasadnionych przypadkach można uzgodnić obcą władzą, że przekazanie informacji nastąpi innych terminach niż określone 2.”,
     - **d)** 3 otrzymuje brzmienie:
 
 - **6)** art. 305g:
     - **a)** 1 otrzymuje brzmienie: „§ 1. Jeżeli dane zawarte we wniosku obcej władzy nie są wystarczające udzielenia informacji, właściwy organ niezwłocznie, jednak nie później niż terminie miesiąca od otrzymania wniosku, wzywa tę władzę nadesłania wyznaczonym terminie danych uzupełniających.”,
-    - **b)** po 1 dodaje się 1a brzmieniu: „§ 1a. Bieg terminów, których mowa art. 305f 2, rozpoczyna się od następującego po dniu, którym właściwy organ otrzymał brakujące dane.”;
+    - **b)** po 1 dodaje 1a brzmieniu: „§ 1a. Bieg terminów, których mowa art. 305f 2, rozpoczyna od następującego po dniu, którym właściwy organ otrzymał brakujące dane.”;
 
-- **7)** art. 305j otrzymuje brzmienie: „Art. 305j. W sprawach nieuregulowanych art. 305b–305i stosuje się odpowiednio przepisy rozdziałów 1, 2, 5, 8, 9 14 działu IV oraz art. 143.”;
-- **8)** art. 305k po 1 dodaje się 1a 1b brzmieniu: „§ 1a. Właściwy organ może udzielić urzędu obcym władzom wszelkich informacji, które mogą być im przydatne.
+- **7)** art. 305j otrzymuje brzmienie: „Art. 305j. W sprawach nieuregulowanych art. 305b–305i stosuje odpowiednio przepisy rozdziałów 1, 2, 5, 8, 9 14 działu IV oraz art. 143.”;
+- **8)** art. 305k po 1 dodaje 1a 1b brzmieniu: „§ 1a. Właściwy organ może udzielić urzędu obcym władzom wszelkich informacji, które mogą być im przydatne.
 
 1b. Udzielenie informacji przypadku, którym mowa 1, powinno nastąpić niezwłocznie, nie później jednak niż terminie miesiąca od uzyskania dostępu tych informacji.”;
 
-- **9)** po art. 305k dodaje się art. 305ka brzmieniu: „Art. 305ka. Organ, który otrzymał informacje od obcej władzy działającej urzędu, niezwłocznie, nie później jednak niż terminie 7 dni roboczych, potwierdza otrzymanie informacji. Potwierdzenia dokonuje się za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości potwierdzenia ten sposób, potwierdzenia dokonuje się formie pisemnej.”;
-- **10)** po art. 305l dodaje się art. 305la brzmieniu: „Art. 305la. 1. Minister właściwy spraw finansów publicznych może, celu wymiany informacji, zawierać obcymi władzami porozumienia przebywania upoważnionych przedstawicieli obcej władzy siedzibach organów podatkowych oraz ich obecności toku postępowań podatkowych oraz toku czynności kontrolnych.
+- **9)** po art. 305k dodaje art. 305ka brzmieniu: „Art. 305ka. Organ, który otrzymał informacje od obcej władzy działającej urzędu, niezwłocznie, nie później jednak niż terminie 7 dni roboczych, potwierdza otrzymanie informacji. Potwierdzenia dokonuje za pomocą środków komunikacji elektronicznej. W przypadku braku możliwości potwierdzenia ten sposób, potwierdzenia dokonuje formie pisemnej.”;
+- **10)** po art. 305l dodaje art. 305la brzmieniu: „Art. 305la. 1. Minister właściwy spraw finansów publicznych może, celu wymiany informacji, zawierać obcymi władzami porozumienia przebywania upoważnionych przedstawicieli obcej władzy siedzibach organów podatkowych oraz ich obecności toku postępowań podatkowych oraz toku czynności kontrolnych.
 
 2. Porozumienia nie mogą dotyczyć podmiotów, których mowa art. 13a, przypadku nadania im uprawnień organów podatkowych.
 
 3. Jeżeli aktach sprawy zawarte są informacje, których dotyczy wniosek obcej władzy, przedstawiciele obcej władzy, ramach zawartych porozumień, otrzymują kopie dokumentów zawierających te informacje.”;
 
 - **11)** art. 305m otrzymuje brzmienie: „Art. 305m. Informacje otrzymane od obcej władzy można przekazać innej obcej władzy po uprzednim zawiadomieniu obcej władzy, od której pochodzą te informacje, zamiarze ich przekazania niewniesieniu przez tę władzę sprzeciwu terminie 10 dni roboczych od zawiadomienia.”;
-- **12)** po art. 305m dodaje się art. 305ma art. 305mb brzmieniu: „Art. 305ma. Organ, który otrzymał informacje od obcej władzy, przesyła informację zwrotną na temat wyko1) art. 7a dotychczasową treść oznacza się jako ust. 1 dodaje się ust. 2 brzmieniu: „2. Minister właściwy spraw finansów publicznych może, celu wymiany informacji, zawierać właściwą władzą państwa członkowskiego Europejskiej porozumienia przebywania upoważnionych przedstawicieli tej władzy siedzibach organów kontroli skarbowej oraz ich obecności toku postępowań kontrolnych.”;
+- **12)** po art. 305m dodaje art. 305ma art. 305mb brzmieniu: „Art. 305ma. Organ, który otrzymał informacje od obcej władzy, przesyła informację zwrotną na temat wyko1) art. 7a dotychczasową treść oznacza jako ust. 1 dodaje ust. 2 brzmieniu: „2. Minister właściwy spraw finansów publicznych może, celu wymiany informacji, zawierać właściwą władzą państwa członkowskiego Europejskiej porozumienia przebywania upoważnionych przedstawicieli tej władzy siedzibach organów kontroli skarbowej oraz ich obecności toku postępowań kontrolnych.”;
 - **2)** art. 13 ust. 8 otrzymuje brzmienie: „8. W czynnościach kontrolnych mogą uczestniczyć osoby uprawnione na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych, tym przedstawiciele instytucji Europejskiej, osoby uprawnione na podstawie porozumień, których mowa art. 7a ust. 2, a realizacji wspólnych programów finansowanych ze środków pochodzących budżetu Europejskiej – także przedstawiciele innych państw.”;
-- **3)** art. 34a dodaje się ust. 6 brzmieniu: „6. Upoważnieni na podstawie porozumień, których mowa art. 7a ust. 2, przedstawiciele właściwych władz państw członkowskich Europejskiej, przebywający siedzibach organów kontroli skarbowej, obecni toku postępowań kontrolnych, otrzymują kopie dokumentów zawierających informacje dotyczące tego postępowania.”;
+- **3)** art. 34a dodaje ust. 6 brzmieniu: „6. Upoważnieni na podstawie porozumień, których mowa art. 7a ust. 2, przedstawiciele właściwych władz państw członkowskich Europejskiej, przebywający siedzibach organów kontroli skarbowej, obecni toku postępowań kontrolnych, otrzymują kopie dokumentów zawierających informacje dotyczące tego postępowania.”;
 - **4)** art. 38 ust. 3 wprowadzenie wyliczenia otrzymuje brzmienie: „Inspektor może powierzyć dokonywanie czynności kontrolnych pod swoim nadzorem upoważnionym pracownikom, upoważnionym przedstawicielom instytucji Europejskiej przypadku uczestniczenia tych osób kontroli środków pochodzących budżetu Europejskiej oraz upoważnionym na podstawie porozumień, których mowa art. 7a ust. 2, przedstawicielom właściwych władz państw członkowskich Europejskiej, wyłączeniem:”.
 
 **Art. 3.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.

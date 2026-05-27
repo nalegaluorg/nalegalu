@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2020-05-28 |
 | Data wydania | 2020-08-04 |
+| Wejście w życie | 2020-08-19 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001337) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1337/text.pdf) |
 

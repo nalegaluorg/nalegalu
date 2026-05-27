@@ -22,16 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-07-20 |
 | Data wydania | 2018-08-24 |
+| Wejście w życie | 2018-09-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001633) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1633/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 21 grudnia 2000 jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2017 poz. 2212 oraz z 2018 poz. 650 664) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 21 grudnia 2000 jakości handlowej artykułów rolno-spożywczych (Dz. U. 2017 poz. 2212 oraz 2018 poz. 650 664) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 19 grudnia 2003 organizacji rynków oraz rynku chmielu (Dz. U. z 2018 poz. 1131) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 19 grudnia 2003 organizacji rynków oraz rynku chmielu (Dz. U. 2018 poz. 1131) wprowadza się następujące zmiany:
 
-**Art. 40b.** Jeżeli naruszenie, którym 40a 1 pkt 3 3, wyczerpuje jednocześnie znamiona naruszenia, którym 58b z dnia 17 grudnia 2004 rejestracji ochronie nazw oznaczeń produktów rolnych środków spożywczych oraz produktach tradycyjnych (Dz. U. z 2017 poz. 1168 oraz z 2018 poz. 1633) 25 1 pkt 3, 5 2 z dnia 25 czerwca 2009 rolnictwie ekologicznym (Dz. U. z 2017 poz. 1054 oraz z 2018 poz. 1616 1633), karę pieniężną wymierza się na podstawie przepisów niniejszej ustawy.”.
+**Art. 40b.** Jeżeli naruszenie, którym 40a 1 pkt 3 lub 3, wyczerpuje jednocześnie znamiona naruszenia, którym 58b dnia 17 grudnia 2004 rejestracji ochronie nazw oznaczeń produktów rolnych środków spożywczych oraz produktach tradycyjnych (Dz. U. 2017 poz. 1168 oraz 2018 poz. 1633) lub 25 1 pkt 3, lub 5 lub 2 dnia 25 czerwca 2009 rolnictwie ekologicznym (Dz. U. 2017 poz. 1054 oraz 2018 poz. 1616 1633), karę pieniężną wymierza się na podstawie przepisów niniejszej ustawy.”.
 
-**Art. 5.** W ustawie z dnia 6 marca 2018 – Prawo przedsiębiorców (Dz. U. poz. 646, 1479 1629) wprowadza się następujące zmiany:
+**Art. 5.** W ustawie dnia 6 marca 2018 – Prawo przedsiębiorców (Dz. U. poz. 646, 1479 1629) wprowadza się następujące zmiany:
 
 **Art. 6.**
 

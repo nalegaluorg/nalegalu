@@ -22,28 +22,29 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-05-12 |
 | Data wydania | 2022-05-27 |
+| Wejście w życie | 2022-07-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001137) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1137/text.pdf) |
 
-**Art. 1.** W ustawie dnia 11 marca 2004 r. podatku od towarów usług (Dz. U. r. 931 974) wprowadza się następujące 11 ust. 2 otrzymuje brzmienie: „2. Za wewnątrzwspólnotowe nabycie towarów za wynagrodzeniem, którym mowa 5 ust. 1 4, uznaje się również przemieszczenie towarów przez: siły zbrojne Państw-Stron Traktatu Północnoatlantyckiego, siły zbrojne państw członkowskich biorących działaniach obronnych prowadzonych celu realizacji działania Unii Europejskiej ramach wspólnej polityki bezpieczeństwa obrony – terytorium państwa członkowskiego innego niż terytorium kraju na terytorium kraju, do użytku do użytku towarzyszącego im personelu cywilnego, przypadku gdy towary nie zostały nabyte przez te siły zbrojne zgodnie ogólnymi zasadami regulującymi opodatkowanie podatkiem od wartości dodanej na krajowym rynku jednego państw członkowskich dla zbrojnych odpowiednio Państw-Stron Traktatu Północnoatlantyckiego państwa członkowskiego biorącego działaniach obronnych prowadzonych celu realizacji działania Unii Europejskiej ramach wspólnej towarzyszącego im personelu cywilnego też celu zaopatrzenia mes kantyn, jeżeli siły te biorą we wspólnych działaniach obronnych,
+**Art. 1.** W ustawie dnia 11 marca 2004 r. podatku od towarów usług U. r. 931 974) wprowadza
 
-**Art. 2.** W ustawie dnia 29 listopada 2000 r. obrocie zagranicą towarami, technologiami usługami znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju bezpieczeństwa (Dz. U. 2020 r. 509 oraz r. 613) wprowadza się następujące tytuł rozdziału 8 otrzymuje brzmienie: „Przepisy epizodyczne, przejściowe końcowe”; rozdziale 8 dodaje się 46a–46d brzmieniu: „Art. 46a. Do dnia 31 grudnia r. do: wywozu tranzytu na terytorium Ukrainy sprzętu opancerzonego ochronnego, konstrukcji oraz elementów składowych, oznaczonych kategorią LU13 przepisach wydanych na podstawie 6a ust. 3 stosuje się przepisy 46b–46d; nabycia celu wywozu na terytorium Ukrainy kamizelek kuloodpornych, hełmów wojskowych policyjnych, ochraniaczy twarzy, kończyn innych części ciała nie stosuje się przepisów ustawy dnia 13 czerwca 2019 r. wykonywaniu działalności gospodarczej wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami technologią przeznaczeniu wojskowym policyjnym (Dz. U. r. 268
+**Art. 2.** W ustawie dnia 29 listopada 2000 r. obrocie zagranicą towarami, technologiami usługami znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju bezpieczeństwa U. 2020 r. 509 r. 613) wprowadza
 
-**Art. 46d.** Dokonując zgłoszenia, którym mowa 46c, podmiot, którym mowa 3 8a, wskazuje: oznaczenie podmiotu zgłaszającego, adres siedziby albo adres miejsca zamieszkania; określenie produktu jego ilości;
+**Art. 46d.** Dokonując zgłoszenia, którym mowa 46c, podmiot, którym mowa 3 8a, wskazuje:
 
-**Art. 3.** W ustawie dnia 6 grudnia 2008 r. podatku akcyzowym (Dz. U. r. 143) wprowadza się następujące użyte 163d ust. 1 oraz 164a ust. 2 we wprowadzeniu do wyliczenia ust. 3 wyrazy „31 maja r.” zastępuje się wyrazami „31 lipca r.”; po 164a dodaje się 164b brzmieniu: „Art. 164b. W okresie od dnia 1 czerwca r. do dnia 31 lipca r. stawka akcyzy, której mowa 89 ust. 1: 9, wynosi 97 zł/1000 litrów; 10 lit. a, wynosi 97 zł/1000 litrów;
+**Art. 3.** W ustawie dnia 6 grudnia 2008 r. podatku akcyzowym U. r. 143) wprowadza
 
-**Art. 4.** W ustawie dnia 24 lipca 2015 r. kontroli niektórych inwestycji (Dz. U. 2020 r. 2145) wprowadza się następujące 12a ust. 1 we wprowadzeniu do wyliczenia po wyrazie „COVID-19” dodaje się wyrazy „lub sytuacją międzynarodową zakłócającą rynek konkurencję”; 12d ust. 6 po wyrazie „COVID-19” dodaje się wyrazy „lub sytuację wystąpieniem COVID-19 (Dz. U. r. 171) 89: ust. 2 wyrazy „24 miesięcy” zastępuje się wyrazami „60 miesięcy”; ust. 3 wyrazy „24 miesięcy” zastępuje się wyrazami „60 miesięcy”.
+**Art. 4.** W ustawie dnia 24 lipca 2015 r. kontroli niektórych inwestycji U. 2020 r. 2145) wprowadza
 
-**Art. 7.** W ustawie dnia 9 grudnia 2021 r. zmianie ustawy podatku akcyzowym oraz niektórych innych ustaw (Dz. U. 2349) uchyla się 6 7.
+**Art. 7.** W ustawie dnia 9 grudnia 2021 r. zmianie ustawy podatku akcyzowym niektórych innych ustaw U. 2349) uchyla 6 7.
 
 **Art. 8.**
 
-1. Do dnia 31 lipca r. sprzedawca dokonujący sprzedaży paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 lipca r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe oraz od dnia 1 stycznia r. do dnia 31 lipca r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
+1. Do dnia 31 lipca r. sprzedawca dokonujący sprzedaży paliw silnikowych zamieszcza przy kasie rejestrującej lokalu przedsiębiorstwa, którym dokonywana jest sprzedaż tych paliw, czytelną informację, że od dnia 20 grudnia 2021 r. do dnia 31 lipca r. obowiązuje obniżony podatek akcyzowy na paliwa silnikowe od dnia 1 stycznia r. do dnia 31 lipca r. sprzedaż detaliczna paliw silnikowych nie podlega opodatkowaniu podatkiem od sprzedaży detalicznej.
 
 2. Rada Ministrów udostępnia Biuletynie Informacji Publicznej na stronie podmiotowej obsługującego ją urzędu wzór informacji, której mowa ust. 1.
 
 **Art. 9.** (uchylony)
 
-**Art. 10.** Ustawa wchodzi życie dniem 1 lipca r., wyjątkiem: 2, który wchodzi życie dniem następującym po dniu ogłoszenia, mocą od dnia 18 maja r.; 3, 5 7–9, które wchodzą życie dniem następującym po dniu ogłoszenia.
+**Art. 10.** Ustawa wchodzi życie dniem 1 lipca r., wyjątkiem:
 

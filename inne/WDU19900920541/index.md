@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# W ustawie z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191 1 Nr 43, poz.
+# o zmianie ustawy - Przepisy wprowadzające ustawę o samorządzie terytorialnym i W ustawie z dnia 10 maja 1990 r. Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz.U. Nr 32, poz. 191 i Nr 43, poz.
 
 | Pole | Wartość |
 |---|---|
@@ -22,8 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-12-14 |
 | Data wydania | 1990-12-31 |
+| Wejście w życie | 1990-12-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900920541) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/541/text.pdf) |
 
-253) w art. 4 w ust. 2 wyrazy „do dani 31 grudnia 1990 r.” zastępuje się wyrazami „do dnia 30
+253) w art. 4 w ust. 2 wyrazy „do dani 31 grudnia 1990 r.” zastępuje się wyrazami „do dnia 30 Ustawa wchodzi w życie z dniem ogłoszenia.
 

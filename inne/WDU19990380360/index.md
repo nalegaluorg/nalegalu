@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-04-09 |
 | Data wydania | 1999-04-28 |
+| Wejście w życie | 1999-05-13 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990380360) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/360/text.pdf) |
 

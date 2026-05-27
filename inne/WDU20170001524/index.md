@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-07-20 |
 | Data wydania | 2017-08-10 |
+| Wejście w życie | 2017-08-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1524/text.pdf) |
 
@@ -29,7 +30,7 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie 27 lipca 2001 diagnostyce laboratoryjnej (Dz. U. 2016 2245) 30y 8 otrzymuje brzmienie: „8. Wyniki PESDL dyrektor CEM za pomocą SMK przekazuje wojewodom, dyrektorowi CMKP, właściwym jednostkom szkolącym oraz Krajowej Radzie Diagnostów Laboratoryjnych.”.
 
-**Art. 3.** W ustawie 6 listopada 2008 prawach pacjenta Rzeczniku Praw Pacjenta (Dz. U. 1318) 30a 9 otrzymuje brzmienie: „9. Dokumentacja medyczna, której mowa przepisach 13a 28 kwietnia 2011 systemie informacji ochronie zdrowia, po zaprzestaniu wykonywania działalności leczniczej jest przechowywana udostępniana przez jednostkę podległą ministrowi właściwemu do spraw zdrowia, właściwą zakresie systemów informacyjnych ochrony zdrowia, Systemie Informacji Medycznej, którym mowa 10 tej ustawy.”.
+**Art. 3.** W ustawie 6 listopada 2008 prawach pacjenta Rzeczniku Praw Pacjenta (Dz. U. 1318) 30a 9 otrzymuje brzmienie: „9. Dokumentacja medyczna, której mowa przepisach podstawie 13a 28 kwietnia 2011 systemie informacji ochronie zdrowia, po zaprzestaniu wykonywania działalności leczniczej jest przechowywana udostępniana przez jednostkę podległą ministrowi właściwemu spraw zdrowia, właściwą zakresie systemów informacyjnych ochrony zdrowia, Systemie Informacji Medycznej, którym mowa 10 tej ustawy.”.
 
 **Art. 4.** W ustawie 28 listopada 2014 Prawo aktach stanu cywilnego (Dz. U. 2016 2064) wprowadza następujące zmiany:
 

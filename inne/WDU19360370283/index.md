@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1936-04-28 |
 | Data wydania | 1936-05-11 |
+| Wejście w życie | 1936-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19360370283) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1936/283/text.pdf) |
 

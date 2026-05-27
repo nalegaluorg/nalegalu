@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# zmianie ustawy przeznaczeniu gruntów rolnych oraz ustawy - Prawo ochrony środowiska
+# zmianie przeznaczeniu gruntów rolnych - Prawo ochrony środowiska
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-02-14 |
 | Data wydania | 2003-03-18 |
+| Wejście w życie | 2003-04-02 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030460392) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/392/text.pdf) |
 
 **Art. 1.** W ustawie dnia 8 czerwca 2001 przeznaczeniu gruntów rolnych (Dz.U. 73, 764) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 27 kwietnia 2001 - Prawo ochrony środowiska (Dz.U. 62, 627 115, 1229 oraz 2002 74, 676, 113, 984, 153, 1271 233, 1957) art. 409 pkt 1 po przecinku dodaje się wyrazy „w tym pokrywanie kosztów planów zalesień oraz kosztów sadzonek przekazanych rolnikom celu gruntów rolnych, których mowa ustawie dnia 8 czerwca 2001 przeznaczeniu gruntów rolnych (Dz.U. 73, 764 oraz 2003 46, 392).”.
+**Art. 2.** W ustawie dnia 27 kwietnia 2001 - Prawo ochrony środowiska (Dz.U. 62, 627 115, 1229 2002 74, 676, 113, 984, 153, 1271 233, 1957) art. 409 pkt 1 po przecinku dodaje się wyrazy „w tym pokrywanie kosztów planów zalesień kosztów sadzonek przekazanych rolnikom celu gruntów rolnych, których mowa ustawie dnia 8 czerwca 2001 przeznaczeniu gruntów rolnych (Dz.U. 73, 764 2003 46, 392).”.
 
 **Art. 3.** W 2003 roczny limit ustala się terminie 31 marca 2003
 

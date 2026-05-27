@@ -24,12 +24,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-19 |
 | Data wydania | 2011-11-08 |
+| Wejście w życie | 2012-01-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112361396) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1396/text.pdf) |
 
-**Art. 1.** W ustawie dnia 21 sierpnia 1997 – Prawo o ustroju sądów wojskowych (Dz. U. 2007 226, 1676, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 21 sierpnia 1997 – Prawo o ustroju sądów wojskowych (Dz. 2007 226, 1676, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. U. 2010 90, 593, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. 2010 90, 593, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.**
 

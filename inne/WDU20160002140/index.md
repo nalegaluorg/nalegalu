@@ -22,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-15 |
 | Data wydania | 2016-12-23 |
+| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160002140) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/2140/text.pdf) |
 
-1. Na art. 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się niniejszego obwieszczenia jednolity tekst ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 1828), uwzględnieniem zmian wprowadzonych ustawą 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019
+1. Na 16 ust. zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 1828), uwzględnieniem zmian wprowadzonych ustawą 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019
 88) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 października 2019
-2. Podany niniejszego obwieszczenia tekst jednolity nie obejmuje art. 2 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019 88), który stanowi: „Art. 2. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.
+2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 2 22 listopada zmianie ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020” 2019 88), który stanowi: „Art. 2. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.
 Marszałek Sejmu: E. Witek
 USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Służby Ochrony Państwa latach 2017–2020”
 
@@ -39,10 +40,10 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 
 3. Program nie jest programem wieloletnim rozumieniu 27 sierpnia 2009 finansach publicznych 2019 869, 1622 i 1649).
 
-4. Podmioty realizujące Program, celu sfinansowania poszczególnych latach przedsięwzięć określonych art. 2 1–3, mogą zaciągać zobowiązania wysokości łącznej kwoty wydatków przewidzianych Programie dane przedsięwzięcie, po uprzednim uzyskaniu zgody:
+4. Podmioty realizujące Program, celu sfinansowania poszczególnych latach przedsięwzięć określonych 2 1–3, mogą zaciągać zobowiązania wysokości łącznej kwoty wydatków przewidzianych Programie dane przedsięwzięcie, po uprzednim uzyskaniu zgody:
 
 - **1)** Ministra Spraw Wewnętrznych i Administracji, zwanego dalej „Ministrem”, lub właściwego wojewody odniesieniu środków budżetu państwa, których są dysponentami;
-- **2)** ministra właściwego spraw finansów publicznych odniesieniu środków ujmowanych rezerwie celowej, art. 4 ust. 2.
+- **2)** ministra właściwego spraw finansów publicznych odniesieniu środków ujmowanych rezerwie celowej, której 4 ust. 2.
 
 **Art. 2.** Zakres Programu obejmuje realizację następujących przedsięwzięć:
 
@@ -66,9 +67,9 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 
 3. Podział kwot, których ust. formacje i przedsięwzięcia jest określony załącznikach 1–3
 
-4. Podział kwot ujętych rezerwie celowej, ust. 2, formacje i przedsięwzięcia jest określony załącznikach 4–6
+4. Podział kwot ujętych rezerwie celowej, której ust. 2, formacje i przedsięwzięcia jest określony załącznikach 4–6
 
-5. Wzrost wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy, umożliwiający wzmocnienie motywacyjnego systemu uposażeń, jest określony 7
+5. Wzrost wielokrotności kwoty bazowej stanowiącej przeciętne uposażenie funkcjonariuszy, umożliwiający wzmocnienie motywacyjnego systemu uposażeń, jest określony załączniku 7
 
 **Art. 5.**
 
@@ -79,7 +80,7 @@ USTAWA ustanowieniu „Programu modernizacji Policji, Straży Granicznej, Państ
 3. W trakcie realizacji Programu mogą być dokonywane, ramach limitów wydatków poszczególnych latach, zmiany podziału kwot określonych załącznikach 1–6 przez:
 
 - **1)** ministra właściwego spraw finansów publicznych wniosek Ministra odniesieniu kwot określonych załącznikach 4–6 ustawy;
-- **2)** Ministra odniesieniu kwot określonych załącznikach 1–3 uwzględnieniem zmian, których oraz przepisów art. 171 27 sierpnia 2009 finansach publicznych.
+- **2)** Ministra odniesieniu kwot określonych załącznikach 1–3 uwzględnieniem zmian, których oraz przepisów 171 27 sierpnia 2009 finansach publicznych.
 
 4. Minister dokonaniu zmian, których ust. 2, niezwłocznie informuje ministra właściwego spraw finansów publicznych.
 

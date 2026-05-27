@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-06-05 |
 | Data wydania | 1998-07-24 |
+| Wejście w życie | 1999-01-01 |
 | Ostatnia zmiana | 2026-04-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19980910576) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/576/text.pdf) |
 

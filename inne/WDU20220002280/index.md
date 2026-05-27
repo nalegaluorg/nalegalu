@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2022-09-15 |
 | Data wydania | 2022-11-09 |
+| Wejście w życie | 2022-12-10 |
 | Ostatnia zmiana | 2025-10-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220002280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/2280/text.pdf) |
 

@@ -25,8 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000425) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/425/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 9 lutego sprawie ogłoszenia jednolitego tekstu rekompensacie związku wprowadzeniem wyjątkowego obszarze części województwa podlaskiego części województwa lubelskiego
-1. Na podstawie 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 29 września rekompensacie związku wprowadzeniem wyjątkowego obszarze części województwa podlaskiego części województwa lubelskiego 1803), uwzględnieniem zmian wprowadzonych:
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 9 lutego sprawie ogłoszenia jednolitego tekstu rekompensacie związku wprowadzeniem obszarze części województwa podlaskiego części województwa lubelskiego
+1. Na podstawie 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 29 września rekompensacie związku wprowadzeniem obszarze części województwa podlaskiego części województwa lubelskiego 1803), uwzględnieniem zmian wprowadzonych:
 1) ustawą 17 zmianie ochronie granicy państwowej niektórych innych ustaw
 2191),
 2) ustawą 9 grudnia zmianie podatku akcyzowym niektórych innych ustaw 2349) zmian wynikających przepisów ogłoszonych przed dniem 8 lutego
@@ -35,19 +35,19 @@ OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 9 lutego sprawie ogłos
 2) 8 9 grudnia zmianie podatku akcyzowym niektórych innych ustaw
 2349), który stanowi: „Art. 8. Ustawa wchodzi życie dniem następującym po dniu ogłoszenia, wyjątkiem 5, który wchodzi życie dniem 1 stycznia r.”.
 Marszałek Sejmu: E. Witek
-USTAWA 29 września rekompensacie związku wprowadzeniem wyjątkowego obszarze części województwa podlaskiego części województwa lubelskiego
+USTAWA 29 września rekompensacie związku wprowadzeniem obszarze części województwa podlaskiego części województwa lubelskiego
 
 **Art. 1.**
 
-1. Przedsiębiorcy rolnicy świadczący usługi hotelarskie rozumieniu 29 sierpnia 1997 usługach hotelarskich usługach pilotów wycieczek i przewodników turystycznych 2020 2211) przedsiębiorcy prowadzący działalność gospodarczą zakresie gastronomii, obszarze obejmującym obręby ewidencyjne wymienione załączniku do rozporządzenia Prezydenta Rzeczypospolitej Polskiej 2 września sprawie wprowadzenia wyjątkowego obszarze części województwa podlaskiego części województwa lubelskiego
+1. Przedsiębiorcy rolnicy świadczący usługi hotelarskie rozumieniu 29 sierpnia 1997 usługach hotelarskich usługach pilotów wycieczek i przewodników turystycznych 2020 2211) przedsiębiorcy prowadzący działalność gospodarczą zakresie gastronomii, obszarze obejmującym obręby ewidencyjne wymienione załączniku do rozporządzenia Prezydenta Rzeczypospolitej Polskiej 2 września sprawie wprowadzenia obszarze części województwa podlaskiego części województwa lubelskiego
 
-- **1612)** , którzy prowadzą działalność czasie wyjątkowego wprowadzonego tym za okres obowiązywania wyjątkowego mogą otrzymać rekompensatę budżetu państwa, zwaną dalej „rekompensatą”.
+- **1612)** , którzy prowadzą działalność czasie tym za okres obowiązywania mogą otrzymać rekompensatę budżetu państwa, zwaną dalej „rekompensatą”.
 
 2. Rekompensata przysługuje także przedsiębiorcom prowadzącym działalność organizatora turystyki lub podmiotu ułatwiającego nabywanie powiązanych usług turystycznych rozumieniu 24 2017 imprezach turystycznych i powiązanych usługach turystycznych 2020 2139 1641 i 2317) przedsiębiorcom prowadzącym działalność pilota wycieczek lub przewodnika turystycznego rozumieniu 29 sierpnia 1997 usługach hotelarskich usługach pilotów wycieczek i przewodników turystycznych, a także przedsiębiorcom prowadzącym działalność zakresie wypożyczania i dzierżawy sprzętu turystycznego i rekreacyjnego, którzy prowadzą działalność obszarze obejmującym obręby ewidencyjne wymienione załączniku do rozporządzenia, którym mowa ust. 1, czasie wyjątkowego.
 
 **Art. 2.**
 
-1. Rekompensatę ustala się za okres 30 dni trwania wyjątkowego wysokości 65% średniego miesięcznego przychodu podmiotu, którym mowa 1, zwanego dalej „wnioskodawcą”, prowadzonej przez niego działalności, której mowa 1, obszarze obejmującym obręby ewidencyjne wymienione załączniku do rozporządzenia, którym mowa 1 ust. 1, okresie obejmującym czerwiec, lipiec i sierpień
+1. Rekompensatę ustala się za okres 30 dni trwania wysokości 65% średniego miesięcznego przychodu podmiotu, którym mowa 1, zwanego dalej „wnioskodawcą”, prowadzonej przez niego działalności, której mowa 1, obszarze obejmującym obręby ewidencyjne wymienione załączniku do rozporządzenia, którym mowa 1 ust. 1, okresie obejmującym czerwiec, lipiec i sierpień
 
 2. W przypadku przedłużenia wyjątkowego, którym mowa 1 ust. 1, albo jego zniesienia przed upływem czasu, jaki został wprowadzony, wysokość rekompensaty ustala się proporcjonalnie do czasu jego trwania.
 

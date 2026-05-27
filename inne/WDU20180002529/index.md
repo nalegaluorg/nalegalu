@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-11-22 |
 | Data wydania | 2018-12-31 |
+| Wejście w życie | 2019-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002529) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2529/text.pdf) |
 
@@ -56,15 +57,15 @@ source: "isap-pdf"
 
 6. Wpisu ewidencji dokonuje po potwierdzeniu przez właściwego wojewodę, że grób, którego dotyczy wniosek:
 
-- **1)** nie został wpisany ewidencji, której mowa 5a ustawy dnia 28 marca 1933 grobach cmentarzach wojennych;
-- **2)** nie spełnia przesłanek uznania go za grób wojenny rozumieniu ustawy, której mowa pkt 1. nia go za grób weterana Polski.
+- **1)** nie został wpisany ewidencji, której 5a ustawy dnia 28 marca 1933 grobach cmentarzach wojennych;
+- **2)** nie spełnia przesłanek uznania go za grób wojenny rozumieniu ustawy, której pkt 1. nia go za grób weterana Polski.
 
 12. W przypadku odmowy uznania przez Prezesa Instytutu danego grobu za grób weterana niepodległość Polski wnioskodawcy przysługuje odwołanie Kolegium Instytutu.
 
 13. W wyniku rozpatrzenia odwołania Kolegium Instytutu może:
 
 - **1)** uznać za prawidłową odmowę uznania przez Prezesa Instytutu danego grobu za grób weterana niepodległość Polski;
-- **2)** przekazać wniosek wpis ewidencji ponownego zbadania przez Prezesa Instytutu, czy grób, którego dotyczył wniosek wpis ewidencji, spełnia kryteria uznania go za grób weterana Polski, których mowa 2 1 2;
+- **2)** przekazać wniosek wpis ewidencji ponownego zbadania przez Prezesa Instytutu, czy grób, którego dotyczył wniosek wpis ewidencji, spełnia kryteria uznania go za grób weterana Polski, których 2 ust. 1 2;
 - **3)** uznać dany grób za grób weterana Polski.
 
 **Art. 4.**
@@ -74,12 +75,12 @@ source: "isap-pdf"
 - **1)** dane weterana Polski pochowanego danym grobie;
 - **2)** dane dotyczące danego grobu, tym lokalizację cmentarza grobu (kwatera, rząd, numer rzędzie);
 - **3)** imię nazwisko lub nazwę wnioskodawcy oraz wskazanie jego adresu lub siedziby;
-- **4)** informacje uzyskane trakcie badania, czy grób, którego dotyczył wniosek wpis ewidencji, spełnia kryteria uznania go za grób weterana Polski, których mowa 2 1 2;
-- **5)** uzasadnienie uznania, że dany grób spełnia kryteria uznania go za grób weterana Polski, których mowa 2 1 2.
+- **4)** informacje uzyskane trakcie badania, czy grób, którego dotyczył wniosek wpis ewidencji, spełnia kryteria uznania go za grób weterana Polski, których 2 ust. 1 2;
+- **5)** uzasadnienie uznania, że dany grób spełnia kryteria uznania go za grób weterana Polski, których 2 ust. 1 2.
 
-2. W uzasadnionych przypadkach Instytut urzędu lub wniosek podmiotów wskazanych 3 3 4 może dokonać zmian ewidencji.
+2. W uzasadnionych przypadkach Instytut urzędu lub wniosek podmiotów wskazanych 3 ust. 3 4 może dokonać zmian ewidencji.
 
-3. Do dokonywania zmian ewidencji stosuje odpowiednio 3 5, 8 oraz 10–13.
+3. Do dokonywania zmian ewidencji stosuje odpowiednio 3 ust. 5, 8 oraz 10–13.
 
 **Art. 5.**
 
@@ -87,13 +88,13 @@ source: "isap-pdf"
 
 - **1)** imię (imiona) nazwisko weterana Polski pochowanego danym grobie;
 - **2)** dane dotyczące danego grobu, tym lokalizację cmentarza grobu (kwatera, rząd, numer rzędzie);
-- **3)** informacje udziale walkach, prowadzonej działalności lub pełnieniu funkcji, których mowa 2 1, przez weterana Polski pochowanego grobie wpisanym ewidencji.
+- **3)** informacje udziale walkach, prowadzonej działalności lub pełnieniu funkcji, których 2 ust. 1, przez weterana Polski pochowanego grobie wpisanym ewidencji.
 
-2. Udostępnienie wykazu, którym mowa 1, następuje sposób umożliwiający przetwarzanie informacji nim zawartych, tym ich przeszukiwanie według kryteriów przedmiotowych podmiotowych.
+2. Udostępnienie wykazu, którym ust. 1, następuje sposób umożliwiający przetwarzanie informacji nim zawartych, tym ich przeszukiwanie według kryteriów przedmiotowych podmiotowych.
 
-3. W przypadku dokonania wpisu ewidencji albo dokonania zmiany ewidencji Prezes Instytutu niezwłocznie aktualizuje wykaz, którym mowa 1.
+3. W przypadku dokonania wpisu ewidencji albo dokonania zmiany ewidencji Prezes Instytutu niezwłocznie aktualizuje wykaz, którym ust. 1.
 
-**Art. 6.** Instytut współpracuje organami władzy publicznej, fundacjami, stowarzyszeniami, instytucjami społecznymi, kościołami lub związkami wyznaniowymi innymi podmiotami, posiadającymi informacje grobach weteranów Polski, celu pozyskiwania danych informacji służących badaniu, czy dany grób spełnia kryteria uznania go za grób weterana Polski, których mowa 2 1 2.
+**Art. 6.** Instytut współpracuje organami władzy publicznej, fundacjami, stowarzyszeniami, instytucjami społecznymi, kościołami lub związkami wyznaniowymi innymi podmiotami, posiadającymi informacje grobach weteranów Polski, celu pozyskiwania danych informacji służących badaniu, czy dany grób spełnia kryteria uznania go za grób weterana Polski, których 2 ust. 1 2.
 
 **Art. 7.** Instytut może urzędu podejmować działania dotyczące opieki nad grobami weteranów niepodległość Polski, szczególności ponosić koszty budowy utrzymania takich grobów, tym ich remontów.
 
@@ -109,7 +110,7 @@ source: "isap-pdf"
 
 5. Wniosek udzielenie dotacji rozpatruje terminie 3 miesięcy od dnia jego otrzymania.
 
-6. Dotacji udziela podstawie umowy zawartej przez Instytut podmiotami, których mowa 1.
+6. Dotacji udziela podstawie umowy zawartej przez Instytut podmiotami, których ust. 1.
 
 7. Umowa udzielenie dotacji zawiera:
 
@@ -118,7 +119,7 @@ source: "isap-pdf"
 - **3)** określenie wysokości udzielonej dotacji oraz terminu trybu jej płatności;
 - **4)** określenie trybu kontroli wykonania umowy;
 - **5)** określenie sposobu terminu rozliczenia udzielonej dotacji, nie dłuższego niż dnia 31 grudnia roku budżetowego, którym zadanie zostanie wykonane;
-- **6)** określenie warunków, sposobu terminu zwrotu niewykorzystanej dotacji albo dotacji wykorzystanej niezgodnie przeznaczeniem, który nie może dłuższy niż 15 dni od określonego umowie terminu wykonania zadania, a przypadku zadania realizowanego poza granicami Rzeczypospolitej Polskiej – 30 dni od określonego umowie dnia jego wykonania.
+- **6)** określenie warunków, sposobu terminu zwrotu niewykorzystanej dotacji albo dotacji wykorzystanej niezgodnie przeznaczeniem, który nie może być dłuższy niż 15 dni od określonego umowie terminu wykonania zadania, a przypadku zadania realizowanego poza granicami Rzeczypospolitej Polskiej – 30 dni od określonego umowie dnia jego wykonania.
 
 **Art. 9.**
 
@@ -135,23 +136,23 @@ source: "isap-pdf"
 
 3. Wniosek przyznanie świadczenia rozpatruje terminie 3 miesięcy od dnia jego otrzymania.
 
-4. Świadczenie przyznaje podstawie umowy zawartej przez Instytut osobą, której mowa 1. umową.
+4. Świadczenie przyznaje podstawie umowy zawartej przez Instytut osobą, której ust. 1. umową.
 
 **Art. 10.** Udzielanie dotacji oraz przyznawanie świadczeń następuje ramach środków finansowych przeznaczonych ten cel dany rok budżecie państwa, części, której dysponentem jest Instytut.
 
 **Art. 11.**
 
-1. Do rozpatrywania wniosków, których mowa 3 3 4, 8 3 oraz 9 1, nie mają zastosowania przepisy ustawy dnia 14 czerwca 1960 – Kodeks postępowania administracyjnego (Dz. U. 2018 poz. 2096).
+1. Do rozpatrywania wniosków, których 3 ust. 3 4, 8 ust. 3 oraz 9 ust. 1, nie mają zastosowania przepisy ustawy dnia 14 czerwca 1960 – Kodeks postępowania administracyjnego (Dz. U. 2018 poz. 2096).
 
 2. Dochodzenie przez Instytut należności wraz odsetkami wysokości określonej jak dla zaległości podatkowych tytułu niewykorzystania lub wykorzystania niezgodnie przeznaczeniem udzielonej dotacji lub przyznanego świadczenia następuje trybie przepisów postępowaniu egzekucyjnym administracji.
 
-**Art. 12.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2018 poz. 1509, późn. zm. ) 21 1 po pkt 25c dodaje pkt 25d brzmieniu: „25d) świadczenia pieniężne przyznawane podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529);”.
+**Art. 12.** W ustawie dnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2018 poz. 1509, późn. zm. ) 21 ust. 1 po pkt 25c dodaje pkt 25d brzmieniu: „25d) świadczenia pieniężne przyznawane podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529);”.
 
-**Art. 13.** W ustawie dnia 26 października 1995 niektórych formach popierania budownictwa mieszkaniowego (Dz. U. 2018 poz. 1020 1540) 30 4a otrzymuje brzmienie: „4a. Do średniego miesięcznego dochodu gospodarstwa domowego nie wlicza świadczenia wychowawczego, którym mowa ustawie dnia 11 lutego 2016 pomocy państwa wychowywaniu dzieci (Dz. U. 2018 poz. 2134 2354), dodatku wychowawczego, którym mowa ustawie dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2018 poz. 998, 1076, 1544 2245), oraz świadczenia pieniężnego przyznawanego podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”.
+**Art. 13.** W ustawie dnia 26 października 1995 niektórych formach popierania budownictwa mieszkaniowego (Dz. U. 2018 poz. 1020 1540) 30 ust. 4a otrzymuje brzmienie: „4a. Do średniego miesięcznego dochodu gospodarstwa domowego nie wlicza świadczenia wychowawczego, którym ustawie dnia 11 lutego 2016 pomocy państwa wychowywaniu dzieci (Dz. U. 2018 poz. 2134 2354), dodatku wychowawczego, którym ustawie dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2018 poz. 998, 1076, 1544 2245), oraz świadczenia pieniężnego przyznawanego podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”.
 
-**Art. 14.** W ustawie dnia 30 listopada 1995 pomocy państwa spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. 2016 poz. 1779) 8 2 zdanie drugie otrzymuje brzmienie: „Do dochodu gospodarstwa domowego kredytobiorcy nie wlicza jednorazowych zapomóg tytułu urodzenia dziecka dodatku tytułu urodzenia dziecka określonych przepisach świadczeniach rodzinnych, wartości udzielonej pomocy zakresie dożywiania określonej przepisach ustanowieniu programu wieloletniego „Pomoc państwa zakresie dożywiania”, pomocy materialnej udzielanej uczniom podstawie przepisów systemie oświaty, świadczenia wychowawczego określonego przepisach pomocy państwa wychowywaniu dzieci, dodatku wychowawczego określonego przepisach wspieraniu rodziny systemie pieczy zastępczej oraz świadczenia pieniężnego przyznawanego podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”.
+**Art. 14.** W ustawie dnia 30 listopada 1995 pomocy państwa spłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych oraz refundacji bankom wypłaconych premii gwarancyjnych (Dz. U. 2016 poz. 1779) 8 ust. 2 zdanie drugie otrzymuje brzmienie: „Do dochodu gospodarstwa domowego kredytobiorcy nie wlicza jednorazowych zapomóg tytułu urodzenia dziecka dodatku tytułu urodzenia dziecka określonych przepisach świadczeniach rodzinnych, wartości udzielonej pomocy zakresie dożywiania określonej przepisach ustanowieniu programu wieloletniego „Pomoc państwa zakresie dożywiania”, pomocy materialnej udzielanej uczniom podstawie przepisów systemie oświaty, świadczenia wychowawczego określonego przepisach pomocy państwa wychowywaniu dzieci, dodatku wychowawczego określonego przepisach wspieraniu rodziny systemie pieczy zastępczej oraz świadczenia pieniężnego przyznawanego podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”.
 
-**Art. 15.** W ustawie dnia 18 grudnia 1998 Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. 2018 poz. 2032) 53k pkt 9 kropkę zastępuje średnikiem dodaje pkt 10 brzmieniu: „10) realizowanie zadań, których mowa ustawie dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”. dodatku wychowawczego, którym mowa ustawie dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2018 poz. 998, 1076, 1544 2245), dopłaty czynszu, której mowa ustawie dnia 20 lipca 2018 pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych najmu mieszkania (Dz. U. poz. 1540), oraz świadczenia pieniężnego przyznawanego podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”.
+**Art. 15.** W ustawie dnia 18 grudnia 1998 Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. 2018 poz. 2032) 53k pkt 9 kropkę zastępuje średnikiem dodaje pkt 10 brzmieniu: „10) realizowanie zadań, których ustawie dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”. dodatku wychowawczego, którym ustawie dnia 9 czerwca 2011 wspieraniu rodziny systemie pieczy zastępczej (Dz. U. 2018 poz. 998, 1076, 1544 2245), dopłaty czynszu, której ustawie dnia 20 lipca 2018 pomocy państwa ponoszeniu wydatków mieszkaniowych pierwszych najmu mieszkania (Dz. U. poz. 1540), oraz świadczenia pieniężnego przyznawanego podstawie 9 ustawy dnia 22 listopada 2018 grobach weteranów Polski (Dz. U. poz. 2529).”.
 
 **Art. 17.** W ustawie dnia 12 marca 2004 pomocy społecznej (Dz. U. 2018 poz. 1508, 1693, 2192, 2245
 
@@ -172,11 +173,11 @@ source: "isap-pdf"
 - **9)** 2027 – 5 275 000 zł;
 - **10)** 2028 – 5 275 000 zł.
 
-2. Organem monitorującym wykorzystanie limitu wydatków, których mowa 1, jest Prezes Instytutu.
+2. Organem monitorującym wykorzystanie limitu wydatków, których ust. 1, jest Prezes Instytutu.
 
-3. W przypadku zagrożenia przekroczenia limitu wydatków, których mowa 1, zostanie zastosowany mechanizm korygujący polegający ograniczeniu wydatków związanych kosztami funkcjonowania ewidencji.
+3. W przypadku zagrożenia przekroczenia limitu wydatków, których ust. 1, zostanie zastosowany mechanizm korygujący polegający ograniczeniu wydatków związanych kosztami funkcjonowania ewidencji.
 
-4. Organem właściwym wdrożenia mechanizmu korygującego, którym mowa 3, jest Prezes Instytutu.
+4. Organem właściwym wdrożenia mechanizmu korygującego, którym ust. 3, jest Prezes Instytutu.
 
 **Art. 20.** Ustawa wchodzi życie dniem 1 stycznia 2019 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

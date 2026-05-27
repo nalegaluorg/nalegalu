@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 19 listopada 2009 r. o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw
 
-*USTAWA dnia 19 listopada 2009 o uchyleniu o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców o zmianie niektórych ustaw*
+*USTAWA dnia 19 listopada 2009 o uchyleniu ustawy o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +24,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-11-19 |
 | Data wydania | 2009-12-22 |
+| Wejście w życie | 2010-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092191707) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1707/text.pdf) |
 
-**Art. 1.** Uchyla się ustawę dnia 16 grudnia 1994 o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców o zmianie niektórych ustaw (Dz. 1995 1, 2, późn. zm. ).
+**Art. 1.** Uchyla się ustawę dnia 16 grudnia 1994 o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców oraz o zmianie niektórych ustaw (Dz. 1995 1, 2, późn. zm. ).
 
 **Art. 2.** W ustawie dnia 25 września 1981 o przedsiębiorstwach państwowych (Dz. 2002 112, 981, późn. zm. ) wprowadza się następujące zmiany:
 

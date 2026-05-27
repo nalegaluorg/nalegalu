@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1991-10-25 |
 | Data wydania | 1991-12-12 |
+| Wejście w życie | 1992-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19911140494) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1991/494/text.pdf) |
 

@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw
 
-*USTAWA dnia 4 marca 2004 o zmianie o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw*
+*USTAWA dnia 4 marca 2004 o zmianie ustawy o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej oraz niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +24,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-03-04 |
 | Data wydania | 2004-05-24 |
+| Wejście w życie | 2005-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161202) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1202/text.pdf) |
 
-**Art. 1.** W ustawie dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz.U. 160, 1080, późn. zm. ) art. 1 ust. 3 otrzymuje brzmienie: „3. Przepisów nie stosuje się do:
+**Art. 1.** W ustawie dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz.U. 160, 1080, późn. zm. ) w art. 1 ust. 3 otrzymuje brzmienie: „3. Przepisów ustawy nie stosuje się do:
 
 **Art. 3.** W ustawie dnia 9 maja 1996 o wykonywaniu mandatu posła senatora (Dz.U. 2003 221, 2199) wprowadza się następujące zmiany:
 
@@ -36,10 +37,10 @@ source: "isap-pdf"
 1. Za 2004 r.:
 
 - **1)** dodatkowe wynagrodzenie roczne dla osób:
-    - **a)** o których mowa art. 2 art. 2,
-    - **b)** o których mowa art. 2 pkt 1 lit. a-c pkt 3 dnia 22 marca 1990 o pracownikach samorządowych (Dz.U. 2001 142, 1593 oraz 2002 113, 984 214, 1806), lit. b niezgodna Konstytucją - wyrok TK (Dz.U. 2006 34, 243)
+    - **a)** o których mowa w art. 2 ustawy wymienionej w art. 2,
+    - **b)** o których mowa w art. 2 pkt 1 lit. a-c pkt 3 ustawy dnia 22 marca 1990 o pracownikach samorządowych (Dz.U. 2001 142, 1593 oraz 2002 113, 984 214, 1806), lit. b niezgodna Konstytucją - wyrok TK (Dz.U. 2006 34, 243)
 
-- **2)** uposażenie dodatkowe dla osób, o których mowa art. 37 art. 3 - przysługuje wysokości połowy dodatkowego wynagrodzenia rocznego albo uposażenia dodatkowego. wynagrodzenia rocznego albo uposażenia dodatkowego pełnej wysokości.
+- **2)** uposażenie dodatkowe dla osób, o których mowa w art. 37 ustawy wymienionej w art. 3 - przysługuje w wysokości połowy dodatkowego wynagrodzenia rocznego albo uposażenia dodatkowego. wynagrodzenia rocznego albo uposażenia dodatkowego w pełnej wysokości.
 
-**Art. 5.** Ustawa wchodzi życie dniem 1 stycznia 2005 r., wyjątkiem art. 4, który wchodzi życie dniem 1 lipca 2004
+**Art. 5.** Ustawa wchodzi w życie dniem 1 stycznia 2005 r., wyjątkiem art. 4, który wchodzi w życie dniem 1 lipca 2004
 

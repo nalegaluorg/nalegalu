@@ -32,11 +32,9 @@ source: "isap-pdf"
 2) ustawą z 14 grudnia 2017 r. zmianie zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów urządzeń użyteczności publicznej oraz oraz zmianie zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy budowli, obiektów urządzeń użyteczności publicznej (Dz. U. poz. 2495) oraz zmian wynikających z przepisów ogłoszonych przed dniem 9 maja 2018 r.
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity obejmuje:
 1) 2–4 z 22 czerwca 2017 r. zmianie zakazie propagowania komunizmu lub innego ustroju totalitarnego nazwy budowli, obiektów urządzeń użyteczności publicznej (Dz. U. poz. 1389 oraz z 2017 r.
-poz. 2495), które stanowią: „Art. 2. Obowiązujące dniu wejścia życie nazwy jednostek organizacyjnych oraz jednostek pomocniczych gminy upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, organ jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego albo związku metropolitalnego zmienia terminie 12 miesięcy od jej wejścia życie. ust. 2 3 oraz 6 ust. 2–4 zmienianej stosuje się odpowiednio.
+poz. 2495), które stanowią: „Art. 2. Obowiązujące dniu wejścia życie nazwy jednostek organizacyjnych oraz jednostek pomocniczych gminy upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, organ jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego albo związku metropolitalnego zmienia terminie 12 miesięcy od jej wejścia życie. Przepisy ust. 2 3 oraz 6 ust. 2–4 zmienianej stosuje się odpowiednio.
 
-**Art. 1.** Właściciel albo użytkownik wieczysty nieruchomości, na której dniu wejścia życie znajduje się pomnik upamiętniający osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujący taki ustrój inny sposób, usuwa ten pomnik terminie 31 marca 2018 r. ust. 2 oraz 5a ust. 2 3 zmienianej stosuje się. 2. W przypadku wykonania obowiązku, którym ust. 1, koszty usunięcia pomnika zwraca Skarb Państwa ze środków budżetu państwa, których dysponentem wojewoda, jeżeli właściciel albo użytkownik wieczysty nieruchomości, na której znajdował się pomnik, uczestniczył procedurze wzniesienia tego pomnika. W przypadku niewykonania obowiązku, którym ust. 1, stosuje się przepisy 5b zmienianej 1.
-
-**Art. 4.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia.”;
+**Art. 1.** Właściciel albo użytkownik wieczysty nieruchomości, na której dniu wejścia życie znajduje się pomnik upamiętniający osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujący taki ustrój inny sposób, usuwa ten pomnik terminie 31 marca 2018 r. Przepisy ust. 2 oraz 5a ust. 2 3 zmienianej stosuje się. 2. W przypadku wykonania obowiązku, którym mowa ust. 1, koszty usunięcia pomnika zwraca Skarb Państwa ze środków budżetu państwa, których dysponentem wojewoda, jeżeli właściciel albo użytkownik wieczysty nieruchomości, na której znajdował się pomnik, uczestniczył procedurze wzniesienia tego pomnika. W przypadku niewykonania obowiązku, którym mowa ust. 1, stosuje się przepisy 5b zmienianej 1. Art. Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia.”;
 
 #### Rozdział Zakaz propagowania komunizmu lub innego ustroju totalitarnego nazwy jednostek organizacyjnych, jednostek pomocniczych gminy, budowli, obiektów urządzeń użyteczności publicznej
 
@@ -50,9 +48,9 @@ poz. 2495), które stanowią: „Art. 2. Obowiązujące dniu wejścia życie naz
 
 1. Stwierdzenie wojewodę nieważności uchwały nadającej nazwę jednostce organizacyjnej, jednostce pomocniczej gminy, budowli, obiektowi lub urządzeniu użyteczności publicznej, zakresie jakim nadaje nazwę niezgodną z 1, wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej tę niezgodność.
 
-2. (uchylony) Opinia, której ust. 1, przedstawiana terminie miesiąca, a sprawie szczególnie skomplikowanej później niż terminie 2 miesięcy, od doręczenia żądania wojewody. Oczekiwanie na opinię wstrzymuje bieg terminu na stwierdzenie nieważności aktu.
+2. (uchylony) Opinia, której mowa ust. 1, przedstawiana terminie miesiąca, a sprawie szczególnie skomplikowanej później niż terminie 2 miesięcy, od doręczenia żądania wojewody. Oczekiwanie na opinię wstrzymuje bieg terminu na stwierdzenie nieważności aktu.
 
-**Art. 1.** Jeżeli terminie 3 miesięcy od uprawomocnienia się rozstrzygnięcia nadzorczego, którym 2 ust. 1, zostanie nadana nowa nazwa, a jej nadanie konieczne oznaczania adresów, wojewoda wydaje zarządzenie zastępcze, którym nadaje nazwę zgodną z 1. 2. (uchylony) Do czasu nadania nowej nazwy stosuje się nazwę dotychczasową. 4. 98, 100 102a z 8 marca 1990 r. samorządzie gminnym (Dz. U. z 2017 r. poz. 1875 2232 oraz z 2018 r. poz. 130), 85, 86 90a z 5 czerwca 1998 r. samorządzie powiatowym (Dz. U. z 2017 r. poz. 1868 oraz z 2018 r. poz. 130) oraz 86, 87 88a z 5 czerwca 1998 r. samorządzie województwa (Dz. U. z 2017 r. poz. 2096 oraz z 2018 r. poz. 130) stosuje się odpowiednio. 5. Zarządzenie zastępcze, którym ust. 1, podlega wykonaniu począwszy od wejścia życie.
+**Art. 1.** Jeżeli terminie 3 miesięcy od uprawomocnienia się rozstrzygnięcia nadzorczego, którym mowa 2 ust. 1, zostanie nadana nowa nazwa, a jej nadanie konieczne oznaczania adresów, wojewoda wydaje zarządzenie zastępcze, którym nadaje nazwę zgodną z 1. 2. (uchylony) Do czasu nadania nowej nazwy stosuje się nazwę dotychczasową. Przepisy 98, 100 102a z 8 marca 1990 r. samorządzie gminnym (Dz. U. z 2017 r. poz. 1875 2232 oraz z 2018 r. poz. 130), 85, 86 90a z 5 czerwca 1998 r. samorządzie powiatowym (Dz. U. z 2017 r. poz. 1868 oraz z 2018 r. poz. 130) oraz 86, 87 88a z 5 czerwca 1998 r. samorządzie województwa (Dz. U. z 2017 r. poz. 2096 oraz z 2018 r. poz. 130) stosuje się odpowiednio. 5. Zarządzenie zastępcze, którym mowa ust. 1, podlega wykonaniu począwszy od wejścia życie.
 
 **Art. 5.**
 
@@ -77,33 +75,31 @@ poz. 2495), które stanowią: „Art. 2. Obowiązujące dniu wejścia życie naz
 
 1. Wojewoda, drodze decyzji, nakazuje właścicielowi albo użytkownikowi wieczystemu nieruchomości, na której znajduje się pomnik, który spełnia warunków określonych 5a ust. 1, usunięcie tego pomnika.
 
-2. Wydanie decyzji usunięciu pomnika wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej, że pomnik spełnia warunków określonych 5a ust. 1. Przepis 2 ust. 3 zdanie pierwsze stosuje się odpowiednio. Organem wyższego stopnia rozumieniu przepisów z 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 650) stosunku wojewody sprawach usunięcie pomnika minister spraw kultury ochrony dziedzictwa narodowego.
-
-4. Koszty usunięcia pomnika ponosi właściciel albo użytkownik wieczysty nieruchomości, na której znajduje się pomnik.
+2. Wydanie decyzji usunięciu pomnika wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej, że pomnik spełnia warunków określonych 5a ust. 1. Przepis 2 ust. 3 zdanie pierwsze stosuje się odpowiednio. Organem wyższego stopnia rozumieniu przepisów z 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 650) stosunku wojewody sprawach usunięcie pomnika minister spraw kultury ochrony dziedzictwa narodowego. Koszty usunięcia pomnika ponosi właściciel albo użytkownik wieczysty nieruchomości, na której znajduje się pomnik.
 
 **Art. 5c.** Do stwierdzenia wojewodę nieważności uchwały wzniesieniu pomnika, który spełnia warunków określonych 5a ust. 1, przepisy 2 stosuje się odpowiednio.
 
-#### Rozdział 3 dostosowujące przepis końcowy
+#### Rozdział 3 Przepisy dostosowujące przepis końcowy
 
 **Art. 6.**
 
-1. Obowiązujące dniu wejścia życie nazwy budowli, obiektów urządzeń użyteczności publicznej, tym dróg, ulic, mostów placów, upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, organ jednostki samorządu terytorialnego albo związku, którym 4, zmienia terminie 12 miesięcy od jej wejścia życie.
+1. Obowiązujące dniu wejścia życie nazwy budowli, obiektów urządzeń użyteczności publicznej, tym dróg, ulic, mostów placów, upamiętniające osoby, organizacje, wydarzenia lub daty symbolizujące komunizm lub inny ustrój totalitarny lub propagujące taki ustrój inny sposób, organ jednostki samorządu terytorialnego albo związku, którym mowa 4, zmienia terminie 12 miesięcy od jej wejścia życie.
 
-2. W przypadku niewykonania obowiązku, którym ust. 1, wojewoda wydaje zarządzenie zastępcze, którym nadaje nazwę zgodną z 1, terminie 3 miesięcy od dnia, którym upłynął termin, którym ust. 1. Wydanie zarządzenia zastępczego, którym ust. 2, wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej niezgodność nazwy obowiązującej dniu wejścia życie z 1. Przepis 2 ust. 3 stosuje się odpowiednio.
+2. W przypadku niewykonania obowiązku, którym mowa ust. 1, wojewoda wydaje zarządzenie zastępcze, którym nadaje nazwę zgodną z 1, terminie 3 miesięcy od dnia, którym upłynął termin, którym mowa ust. 1. Wydanie zarządzenia zastępczego, którym mowa ust. 2, wymaga opinii Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu potwierdzającej niezgodność nazwy obowiązującej dniu wejścia życie z 1. Przepis 2 ust. 3 stosuje się odpowiednio.
 
 **Art. 6a.**
 
-- **15)** 1. W przypadku niewykonania jednostkę samorządu terytorialnego albo związek wskazany 4 zarządzenia zastępczego, którym 3 ust. oraz 6 ust. 2, terminie 30 dni od jego wejścia życie, wojewoda zapewnia jego wykonanie na koszt tej jednostki albo związku.
+- **15)** 1. W przypadku niewykonania jednostkę samorządu terytorialnego albo związek wskazany 4 zarządzenia zastępczego, którym mowa 3 ust. oraz 6 ust. 2, terminie 30 dni od jego wejścia życie, wojewoda zapewnia jego wykonanie na koszt tej jednostki albo związku.
 
-2. W przypadku wykonania wojewodę czynności, których ust. 1, zwrot kosztów jednostkę samorządu terytorialnego albo związek, którym 4, następuje na podstawie właściwych danym przypadku dokumentów finansowo-księgowych, terminie 30 dni od ich przekazania wojewodę.
+2. W przypadku wykonania wojewodę czynności, których mowa ust. 1, zwrot kosztów jednostkę samorządu terytorialnego albo związek, którym mowa 4, następuje na podstawie właściwych danym przypadku dokumentów finansowo-księgowych, terminie 30 dni od ich przekazania wojewodę.
 
 **Art. 6b.**
 
-- **15)** W przypadku nadania nazwy trybie zarządzenia zastępczego, którym 3 ust. oraz 6 ust. 2, jej zmiana jednostkę samorządu terytorialnego albo związek, którym 4, wymaga uprzedniej zgody Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz właściwego miejscowo wojewody.
+- **15)** W przypadku nadania nazwy trybie zarządzenia zastępczego, którym mowa 3 ust. oraz 6 ust. 2, jej zmiana jednostkę samorządu terytorialnego albo związek, którym mowa 4, wymaga uprzedniej zgody Instytutu Pamięci Narodowej Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu oraz właściwego miejscowo wojewody.
 
 **Art. 6c.**
 
-- **15)** Skarga sądu administracyjnego na zarządzenie zastępcze, którym 3 ust. oraz 6 ust. 2, przysługuje jednostce samorządu terytorialnego albo związkowi, którym 4, jedynie przypadku, gdy brak możliwości wykonania obowiązku, którym 3 ust. oraz 6 ust. 1, wynikał z przyczyn niezależnych od tej jednostki albo związku.
+- **15)** Skarga sądu administracyjnego na zarządzenie zastępcze, którym mowa 3 ust. oraz 6 ust. 2, przysługuje jednostce samorządu terytorialnego albo związkowi, którym mowa 4, jedynie przypadku, gdy brak możliwości wykonania obowiązku, którym mowa 3 ust. oraz 6 ust. 1, wynikał z przyczyn niezależnych od tej jednostki albo związku.
 
 **Art. 7.** Ustawa wchodzi życie po upływie 3 miesięcy od ogłoszenia .
 

@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-05-09 |
 | Data wydania | 2025-05-19 |
-| Ostatnia zmiana | 2026-04-20 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000647) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/647/text.pdf) |
 
 ## TYTUŁ I Przepisy ogólne
@@ -2980,7 +2980,8 @@ source: "isap-pdf"
 - **2)** przepisy dotyczące ochrony środowiska zmieniły się w stopniu uniemożliwiającym emisję lub korzystanie ze środowiska na warunkach określonych w pozwoleniu;
 - **3)** instalacja jest objęta postępowaniem, o którym mowa w art. 227–229;
 - **4)** nastąpiło przekroczenie krajowych pułapów emisji, o których mowa w art. 15 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji;
-- **5)** prowadzący instalację nie wystąpił z wnioskiem, o którym mowa w art. 215 ust. 4 pkt 2 lub art. 216 ust. 3.
+- **5)** prowadzący instalację nie wystąpił z wnioskiem, o którym mowa w art. 215 ust. 4 pkt 2 lub art. 216 ust. 3;
+- **6)** jest to konieczne w celu zapobiegania ryzyku, o którym mowa w art. 4f ust. 6 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2024 r. poz. 757 oraz z 2026 r. poz. 605), lub służy jego kontroli oraz jest to uzasadnione wynikami dodatkowego przeglądu pozwoleń zintegrowanych, o których mowa w art. 4f ust. 15 tej ustawy.
 
 2. W przypadku, o którym mowa w ust. 1 pkt 1, przed wydaniem decyzji w przedmiocie cofnięcia lub ograniczenia pozwolenia organ wzywa prowadzącego instalację do usunięcia naruszeń w oznaczonym terminie.
 
@@ -5324,6 +5325,7 @@ source: "isap-pdf"
 - **2a)** przedsięwzięcia związane z wdrożeniem programu działań, o którym mowa w art. 104 ust. 1 ustawy z dnia 20 lipca 2017 r. – Prawo wodne;
 - **2b)** wspomaganie osłony hydrologicznej i meteorologicznej społeczeństwa oraz gospodarki, a także rozpoznawanie, kształtowanie i ochronę zasobów wodnych kraju;
 - **2c)** wspomaganie realizacji zadań w zakresie rozpoznawania, bilansowania i ochrony wód podziemnych w celu ich racjonalnego wykorzystania przez społeczeństwo i gospodarkę;
+- **2d)** przedsięwzięcia związane z zaopatrzeniem w wodę przeznaczoną do spożycia przez ludzi w rozumieniu art. 2 pkt 18 ustawy z dnia 7 czerwca 2001 r. o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków;
 - **3)** (uchylony)
 - **4)** (uchylony)
 - **5)** wspomaganie realizacji zadań modernizacyjnych i inwestycyjnych służących ochronie środowiska i gospodarce wodnej, w tym dotyczących instalacji lub urządzeń ochrony przeciwpowodziowej i obiektów małej retencji wodnej, zaopatrzenia ludności w wodę, odprowadzania i oczyszczania ścieków oraz instalacji i urządzeń służących ponownemu wykorzystaniu wód;
@@ -5388,7 +5390,7 @@ source: "isap-pdf"
 
 1. Celem działania Narodowego Funduszu jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 1a‒2c, 5–9b, 11–22 i 24–42 oraz art. 410a ust. 4–6.
 
-2. Celem działania wojewódzkich funduszy jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 2, 2a, 5–9a, 11–22 i 24–42.
+2. Celem działania wojewódzkich funduszy jest finansowanie ochrony środowiska i gospodarki wodnej w zakresie określonym w art. 400a ust. 1 pkt 2, 2a, 2d, 5–9a, 11–22 i 24–42.
 
 2a. Celem działania Narodowego Funduszu oraz wojewódzkich funduszy jest również tworzenie warunków do wdrażania finansowania ochrony środowiska i gospodarki wodnej, w szczególności poprzez zapewnienie wsparcia działaniom służącym temu wdrażaniu oraz jego promocję, a także poprzez współpracę z innymi podmiotami, w tym z jednostkami samorządu terytorialnego, przedsiębiorcami oraz podmiotami mającymi siedzibę poza granicami Rzeczypospolitej Polskiej.
 
@@ -5659,7 +5661,7 @@ source: "isap-pdf"
 
 - **1)** opracowywanie projektów wspólnej strategii działania Narodowego Funduszu i wojewódzkich funduszy oraz projektów strategii Narodowego Funduszu, po zasięgnięciu opinii ministra właściwego do spraw rozwoju regionalnego oraz ministra właściwego do spraw energii co do zawartych w nich ustaleń;
 - **1a)** sporządzanie list programów priorytetowych Narodowego Funduszu i przedstawianie ich w celu uzgodnienia ministrowi właściwemu do spraw klimatu; listy programów priorytetowych w części dotyczącej gospodarki wodnej uzgadnia się z Prezesem Państwowego Gospodarstwa Wodnego Wody Polskie;
-- **1b)** przyjmowanie programów priorytetowych, po uprzednim ich zaopiniowaniu przez ministra właściwego do spraw klimatu;
+- **1b)** przyjmowanie programów priorytetowych, po uprzednim ich zaopiniowaniu przez ministra właściwego do spraw klimatu, a w przypadku programów priorytetowych dotyczących przedsięwzięć i zadań w zakresie wytwarzania zrównoważonych paliw lotniczych (SAF) w rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2023/2405 z dnia 18 października 2023 r. w sprawie zapewnienia równych warunków działania dla zrównoważonego transportu lotniczego (ReFuelEU Aviation) (Dz. Urz. UE L 2023/2405 z 31.10.2023, z późn. zm. ), zwanego dalej „rozporządzeniem 2023/2405”, oraz badań naukowych i innowacji mających na celu rozwój takich paliw – także przez ministra właściwego do spraw energii oraz ministra właściwego do spraw transportu;
 - **2)** opracowywanie projektów planów finansowych w układzie zadaniowym;
 - **3)** sporządzanie i przekazywanie Głównemu Inspektorowi Ochrony Środowiska kwartalnych informacji o podmiotach uiszczających opłaty, o których mowa w art. 14 ust. 1 oraz art. 17 ust. 1 i 2 ustawy z dnia 20 stycznia 2005 r. o recyklingu pojazdów wycofanych z eksploatacji (Dz. U. z 2020 r. poz. 2056), z podaniem nazwy, siedziby i adresu albo imienia, nazwiska i adresu tych podmiotów, wysokości kwoty wpłaconej z tytułu opłaty oraz daty dokonania zapłaty w rozumieniu art. 60 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa, w terminie do końca miesiąca po zakończeniu kwartału, którego dotyczą te informacje;
 - **4)** sporządzanie i przekazywanie ministrowi właściwemu do spraw klimatu, w terminie do dnia 30 czerwca następnego roku za poprzedni rok kalendarzowy, zbiorczej informacji o: o recyklingu pojazdów wycofanych z eksploatacji,
@@ -5667,7 +5669,8 @@ source: "isap-pdf"
     - **b)** gminach, które uzyskały dofinansowanie w zakresie zbierania porzuconych pojazdów wycofanych z eksploatacji,
     - **c)** powiatach, które uzyskały dofinansowanie w zakresie zbierania pojazdów wycofanych z eksploatacji;
 
-- **5)** sporządzanie i przekazywanie ministrowi właściwemu do spraw klimatu zbiorczej informacji o zgromadzonych wpływach z tytułu środków, o których mowa w art. 15 ust. 3 pkt 2, art. 62 ust. 6 oraz wpływach z tytułu opłat, o których mowa w art. 72 ust. 2 i art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573), w terminie do dnia 30 czerwca następnego roku za poprzedni rok kalendarzowy.
+- **5)** sporządzanie i przekazywanie ministrowi właściwemu do spraw klimatu zbiorczej informacji o zgromadzonych wpływach z tytułu środków, o których mowa w art. 15 ust. 3 pkt 2, art. 62 ust. 6 oraz wpływach z tytułu opłat, o których mowa w art. 72 ust. 2 i art. 77 ust. 2 ustawy z dnia 11 września 2015 r. o zużytym sprzęcie elektrycznym i elektronicznym (Dz. U. z 2024 r. poz. 573), w terminie do dnia 30 czerwca następnego roku za poprzedni rok kalendarzowy;
+- **6)** sporządzanie sprawozdania i informacji, o których mowa w art. 12 ust. 10 akapit trzeci rozporządzenia 2023/2405, oraz przekazywanie ich do wiadomości publicznej w terminach, o których mowa w tym przepisie.
 
 3. Do zadań zarządów wojewódzkich funduszy należy także:
 
@@ -5855,7 +5858,10 @@ source: "isap-pdf"
 - **20)** wpływy z tytułu:
     - **a)** zwrotu środków finansowych, o których mowa w art. 16 ust. 2 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych,
     - **b)** zwrotu kosztów, o których mowa w art. 19 ust. 1 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych,
-    - **c)** opłat, o których mowa w art. 20 ust. 1 i art. 25 ust. 5 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych.
+    - **c)** opłat, o których mowa w art. 20 ust. 1 i art. 25 ust. 5 ustawy z dnia 16 czerwca 2023 r. o wielkoobszarowych terenach zdegradowanych;
+
+- **21)** wpływy z kar pieniężnych wymierzanych na podstawie art. 33 ust. 1 pkt 10– 14 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych oraz art. 209uo ust. 1, 4–7 i 9 ustawy z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176 i 607);
+- **22)** wpływy z kar pieniężnych wymierzanych na podstawie art. 33 ust. 1 pkt 15 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
 
 7a. Przychody, o których mowa w ust. 7 pkt 14, przeznacza się wyłącznie na cele związane z ochroną środowiska.
 
@@ -5943,7 +5949,7 @@ source: "isap-pdf"
 
 9b. Środki Narodowego Funduszu w wysokości nie mniejszej niż 80 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, po pomniejszeniu o koszty obsługi tych przychodów, przeznacza się na przedsięwzięcia mające na celu zmniejszenie lub uniknięcie szkodliwej emisji substancji gazowych, stałych lub ciekłych powodujących zanieczyszczenie powietrza.
 
-9c. [Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16–19, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:] <Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16 i 17, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:>
+9c. [Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16–19 i 22, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:] <Środki Narodowego Funduszu w wysokości nie mniejszej niż 15 % kwoty przychodów, o których mowa w art. 401 ust. 7 pkt 15, i kwota przychodów, o których mowa w art. 401 ust. 7 pkt 16 i 17, po pomniejszeniu o koszty obsługi tych przychodów, jednak nie więcej niż o 2 % tych przychodów, przeznacza się na:>
 
 - **1)** dofinansowanie inwestycji w zakresie wytwarzania biokomponentów, biopaliw ciekłych lub innych paliw odnawialnych;
 - **2)** dofinansowanie budowy lub rozbudowy infrastruktury dla dystrybucji lub sprzedaży sprężonego gazu ziemnego (CNG) lub skroplonego gazu ziemnego (LNG), w tym pochodzącego z biometanu, lub wodoru lub budowy lub rozbudowy infrastruktury do ładowania pojazdów energią elektryczną, wykorzystywanych w transporcie;
@@ -5966,9 +5972,11 @@ source: "isap-pdf"
 - **12)** (uchylony)
 - **13)** Fundusz rozwoju przewozów autobusowych o charakterze użyteczności publicznej, o którym mowa w ustawie z dnia 16 maja 2019 r. o Funduszu rozwoju przewozów autobusowych o charakterze użyteczności publicznej, w kwocie stanowiącej 55 % wpływów z tytułu opłaty zastępczej, o której mowa w art. 35d ust. 2 ustawy z dnia 25 sierpnia 2006 r. o biokomponentach i biopaliwach ciekłych.
 
-10. Zobowiązania Narodowego Funduszu związane z przeznaczaniem środków na cele, o których mowa w ust. 1–5 i 8–9c, są zobowiązaniami wieloletnimi.
+9d. Środki Narodowego Funduszu w wysokości niemniejszej niż kwota przychodów, o których mowa w art. 401 ust. 7 pkt 21, po pomniejszeniu o koszty obsługi tych przychodów, jednak niewięcej niż o 1,5 % tych przychodów, przeznacza się na dofinansowanie przedsięwzięć i zadań w zakresie wytwarzania zrównoważonych paliw lotniczych (SAF) w rozumieniu art. 3 pkt 7 rozporządzenia 2023/2405 oraz badań naukowych i innowacji mających na celu rozwój takich paliw.
 
-11. Wysokości zobowiązań określonych w ust. 1–5 i 8–9c mogą być zmniejszane za zgodą ministra właściwego do spraw klimatu. Przy udzielaniu zgody minister właściwy do spraw klimatu uwzględnia w szczególności potrzeby realizacji zasady zrównoważonego rozwoju, strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz zobowiązań określonych w przepisach prawa Unii Europejskiej i umowach międzynarodowych, których stroną jest Rzeczpospolita Polska.
+10. Zobowiązania Narodowego Funduszu związane z przeznaczaniem środków na cele, o których mowa w ust. 1–5 i 8–9d, są zobowiązaniami wieloletnimi.
+
+11. Wysokości zobowiązań określonych w ust. 1–5 i 8–9d mogą być zmniejszane za zgodą ministra właściwego do spraw klimatu. Przy udzielaniu zgody minister właściwy do spraw klimatu uwzględnia w szczególności potrzeby realizacji zasady zrównoważonego rozwoju, strategii, programów i dokumentów programowych, o których mowa w art. 14 ust. 1, oraz zobowiązań określonych w przepisach prawa Unii Europejskiej i umowach międzynarodowych, których stroną jest Rzeczpospolita Polska.
 
 11a. Narodowy Fundusz corocznie dokonuje wpłat na rzecz Rządowego Funduszu Rozwoju Dróg w wysokości i na zasadach określonych w przepisach ustawy z dnia 23 października 2018 r. o Rządowym Funduszu Rozwoju Dróg (Dz. U. z 2025 r. poz. 94).
 
@@ -6425,9 +6433,11 @@ source: "isap-pdf"
 - **1)** środków przekazanych przez Narodowy Fundusz Bankowi Gospodarstwa Krajowego zgodnie z art. 411 ust. 10t;
 - **2)** opłat prowizyjnych z tytułu poręczeń i gwarancji udzielanych w ramach Ekologicznego Funduszu Poręczeń i Gwarancji;
 - **3)** wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji udzielonej w ramach Ekologicznego Funduszu Poręczeń i Gwarancji;
-- **4)** odsetek z tytułu oprocentowania środków Ekologicznego Funduszu Poręczeń i Gwarancji;
+- **4)** odsetek od wolnych środków Ekologicznego Funduszu Poręczeń i Gwarancji przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
 - **5)** środków, o których mowa w ust. 5;
 - **6)** wpływów z innych tytułów.
+
+4a. Wolne środki Ekologicznego Funduszu Gwarancji i Poręczeń w walutach obcych mogą być lokowane w bankach.
 
 5. Minister właściwy do spraw klimatu przekazuje do Ekologicznego Funduszu Poręczeń i Gwarancji środki na pokrycie kosztów i wydatków, o których mowa w ust. 2, które nie znajdują pokrycia ze środków, o których mowa w ust. 4 pkt 1–4 i 6.
 

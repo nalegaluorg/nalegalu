@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-03-24 |
 | Data wydania | 2009-03-27 |
+| Wejście w życie | 2009-03-27 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090500403) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/403/text.pdf) |
 

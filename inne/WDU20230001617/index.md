@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-07-13 |
 | Data wydania | 2023-08-16 |
+| Wejście w życie | 2023-08-31 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001617) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1617/text.pdf) |
 

@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1984-04-06 |
 | Data wydania | 1984-04-14 |
+| Wejście w życie | 1984-04-14 |
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840210097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1984/97/text.pdf) |
 

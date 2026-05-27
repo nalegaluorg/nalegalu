@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-06-22 |
 | Data wydania | 2005-07-08 |
+| Wejście w życie | 2005-07-08 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051231035) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1035/text.pdf) |
 

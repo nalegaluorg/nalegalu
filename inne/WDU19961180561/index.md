@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1996-08-30 |
 | Data wydania | 1996-10-07 |
+| Wejście w życie | 1997-01-08 |
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961180561) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/561/text.pdf) |
 

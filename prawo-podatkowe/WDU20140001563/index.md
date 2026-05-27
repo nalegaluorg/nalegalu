@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-09-26 |
 | Data wydania | 2014-11-12 |
+| Wejście w życie | 2015-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1563/text.pdf) |
 
@@ -40,11 +41,11 @@ b) 3 otrzymuje brzmienie: „3. W razie zaprzestania przez płatnika prowadzenia
 3. Przepis 2 nie ma zastosowania do deklaracji, informacji oraz rocznego obliczenia podatku, których 1, które imieniu na rzecz płatników lub podmiotów wymienionych 2 składa urzędowi skarbowemu przedsiębiorca wykonujący działalność gospodarczą obejmującą prowadzenie ksiąg podatkowych rozumieniu przepisów Ordynacji podatkowej.
 4. Płatnicy oraz podmioty wymienione 2, którzy wybrali składanie informacji oraz rocznego obliczenia podatku formie dokumentu pisemnego, informacje oraz roczne obliczenie podatku sporządzane tej formie po zakończeniu roku podatkowego przesyłają urzędowi skarbowemu do końca stycznia roku następującego po roku podatkowym.”.
 
-**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 2014 851, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 15 lutego 1992 podatku dochodowym od osób prawnych (Dz. U. 851, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.**
 
-1. Przepisy ustaw, których 1 2, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów uzyskanych (poniesionych strat) począwszy od dnia 1 stycznia 2014
+1. Przepisy ustaw, których 1 2, brzmieniu nadanym niniejszą ustawą, mają zastosowanie do dochodów uzyskanych (poniesionych strat) począwszy od dnia 1 stycznia
 
 2. Podatnicy podatku dochodowego od osób prawnych, których rok podatkowy jest inny niż kalendarzowy, stosują przepisy 27 1c 27a ustawy wymienionej 2, brzmieniu nadanym niniejszą ustawą, do dochodów uzyskanych (poniesionych strat) od pierwszego dnia roku podatkowego rozpoczynającego się po dniu 31 grudnia 2013
 

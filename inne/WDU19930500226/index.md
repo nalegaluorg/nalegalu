@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# Wyższej Szkole Rolniczo-Pedagogicznej imienia Georgi Dymitrowa w Siedlcach nadaje się nazwę "Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach".
+# o nadaniu Wyższej Szkole Rolniczo-Pedagogicznej "Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach'' Wyższej Szkole Rolniczo-Pedagogicznej imienia Georgi Dymitrowa w Siedlcach nadaje się nazwę "Wyższa Szkoła Rolniczo-Pedagogiczna w Siedlcach".
 
 | Pole | Wartość |
 |---|---|
@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1993-01-07 |
 | Data wydania | 1993-06-18 |
+| Wejście w życie | 1993-07-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930500226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/226/text.pdf) |
 

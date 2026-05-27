@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-06-13 |
 | Data wydania | 2019-07-01 |
+| Wejście w życie | 2019-08-01 |
 | Ostatnia zmiana | 2026-05-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1214/text.pdf) |
 

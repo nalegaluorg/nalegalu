@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-04-07 |
 | Data wydania | 2003-04-15 |
+| Wejście w życie | 2003-04-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030630590) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/590/text.pdf) |
 

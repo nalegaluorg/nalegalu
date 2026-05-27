@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-12 |
 | Data wydania | 2017-11-27 |
+| Wejście w życie | 2017-12-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170002181) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/2181/text.pdf) |
 
@@ -43,7 +44,7 @@ source: "isap-pdf"
 
 2. Podmiot udzielający zabezpieczenia finansowego wypadek porzucenia marynarza wypłaca świadczenie niezwłocznie, nie później jednak niż terminie 7 dni od dnia złożenia wniosku przez marynarza lub osobę przez niego upoważnioną.
 
-3. Wniosek, 2, zawiera wskazanie okoliczności, których art. 62a 2.
+3. Wniosek, 2, zawiera wskazanie okoliczności, art. 62a 2.
 
 4. W przypadku gdy wyjaśnienie okoliczności niezbędnych ustalenia wysokości należnego marynarzowi świadczenia nie jest możliwe terminie 7 dni, podmiot udzielający zabezpieczenia finansowego wypadek porzucenia marynarza wypłaca zaliczkę pokrycie bieżących potrzeb marynarza. Wypłata zaliczki nie stanowi uznania odpowiedzialności może zostać zaliczona poczet późniejszych kwot wypłacanych marynarzowi wypadek jego porzucenia.”;
 
@@ -62,7 +63,7 @@ source: "isap-pdf"
 
 1. Marynarz, osoba przez niego upoważniona lub uprawnieni rozumieniu art. 93 § 4 Kodeksu członkowie rodziny marynarza mogą dochodzić roszczeń zakresie, art. 73 art. 75, bezpośrednio od podmiotu udzielającego zabezpieczenia finansowego odpowiedzialności armatora. Podmiot udzielający zabezpieczenia finansowego odpowiedzialności armatora wypłaca świadczenie niezwłocznie, nie później jednak niż terminie 7 dni od dnia złożenia wniosku przez marynarza, osobę przez niego upoważnioną lub uprawnioną.
 
-2. W przypadku gdy wyniku długotrwałej niezdolności będącej skutkiem choroby lub uszkodzenia ciała zachodzą trudności ustaleniu wysokości należnego marynarzowi świadczenia, podmiot udzielający zabezpieczenia finansowego odpowiedzialności armatora wypłaca zaliczkę pokrycie bieżących potrzeb marynarza. Wypłata zaliczki nie stanowi uznania odpowiedzialności może zostać zaliczona poczet późniejszych kwot wypłacanych osobom, których 1, zakresie, art. 73 art. 75.
+2. W przypadku gdy wyniku długotrwałej niezdolności będącej skutkiem choroby lub uszkodzenia ciała zachodzą trudności ustaleniu wysokości należnego marynarzowi świadczenia, podmiot udzielający zabezpieczenia finansowego odpowiedzialności armatora wypłaca zaliczkę pokrycie bieżących potrzeb marynarza. Wypłata zaliczki nie stanowi uznania odpowiedzialności może zostać zaliczona poczet późniejszych kwot wypłacanych osobom, 1, zakresie, art. 73 art. 75.
 
 3. Wypłata świadczenia może być potwierdzona formularzu, którego wzór określa załącznik B4-I Konwencji MLC.”;
 
@@ -86,7 +87,7 @@ source: "isap-pdf"
 - **8)** po art. 93 dodaje art. 93a brzmieniu: „Art. 93a. 1. Statek inny niż statek, art. 92 1 3, podlega inspekcji okresowej warunków wego certyfikatu;”,
     - **b)** uchyla 2;
 
-- **10)** po art. 94 dodaje art. 94a art. 94b brzmieniu: „Art. 94a. Minister właściwy spraw gospodarki morskiej określi, drodze rozporządzenia, tryb przeprowadzania poszczególnych rodzajów inspekcji, których art. 93a art. 94, mając uwadze konieczność zapewnienia sprawności przeprowadzanych inspekcji, a także prawidłowej weryfikacji spełniania warunków życia marynarzy statku.
+- **10)** po art. 94 dodaje art. 94a art. 94b brzmieniu: „Art. 94a. Minister właściwy spraw gospodarki morskiej określi, drodze rozporządzenia, tryb przeprowadzania poszczególnych rodzajów inspekcji, art. 93a art. 94, mając uwadze konieczność zapewnienia sprawności przeprowadzanych inspekcji, a także prawidłowej weryfikacji spełniania warunków życia marynarzy statku.
 
 **Art. 94b.**
 
@@ -99,7 +100,7 @@ source: "isap-pdf"
 - **2)** nie poddał statku inspekcji warunków życia marynarzy, której art. 93a 1 – podlega karze pieniężnej wysokości od 5000 zł 10 000 zł.”;
 - **12)** art. 112 pkt 6 otrzymuje brzmienie: „6) nie posiada wymaganego zabezpieczenia finansowego wypadek porzucenia marynarza lub zabezpieczenia finansowego odpowiedzialności armatora”;
 - **13)** art. 116 pkt 7 dodaje przecinek dodaje pkt 8 brzmieniu: „8) nakłania marynarza, osobę przez niego upoważnioną lub uprawnionego rozumieniu art. 93 § 4 Kodeksu członka rodziny marynarza akceptacji świadczenia niższego niż wynikające art. 73 lub art. 75”;
-- **14)** art. 117 1 otrzymuje brzmienie: „1. Do właściwości organów oraz trybu wymierzania ściągania kar pieniężnych, których art. 110 oraz art. 110a, stosuje odpowiednio przepisy ustawy dnia 21 marca 1991 r. obszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. U. 2016 r. poz. 2145 oraz 2017 r. poz. 32, 60, 785, 1215 1566).”.
+- **14)** art. 117 1 otrzymuje brzmienie: „1. Do właściwości organów oraz trybu wymierzania ściągania kar pieniężnych, art. 110 oraz art. 110a, stosuje odpowiednio przepisy ustawy dnia 21 marca 1991 r. obszarach morskich Rzeczypospolitej Polskiej administracji morskiej (Dz. U. 2016 r. poz. 2145 oraz 2017 r. poz. 32, 60, 785, 1215 1566).”.
 
 **Art. 2.** W ustawie dnia 5 kwietnia 2002 r. europejskich radach zakładowych (Dz. U. 2012 r. poz. 1146 oraz 2015 r. poz. 1240) wprowadza następujące zmiany:
 

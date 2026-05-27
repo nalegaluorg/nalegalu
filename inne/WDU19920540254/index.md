@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1992-06-20 |
 | Data wydania | 1992-07-15 |
+| Wejście w życie | 1993-01-01 |
 | Ostatnia zmiana | 2024-07-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19920540254) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1992/254/text.pdf) |
 

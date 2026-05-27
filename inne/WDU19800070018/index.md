@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1980-01-31 |
 | Data wydania | 1980-03-11 |
+| Wejście w życie | 1980-03-11 |
 | Ostatnia zmiana | 2025-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19800070018) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1980/18/text.pdf) |
 

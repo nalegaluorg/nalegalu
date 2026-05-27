@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-04-13 |
 | Data wydania | 2018-05-10 |
+| Wejście w życie | 2018-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000858) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/858/text.pdf) |
 
@@ -60,9 +61,9 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie dnia 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. 1938, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 83 zmienianej 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 83 zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 18 miesięcy od dnia wejścia życie niniejszej ustawy.
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane na podstawie 83 ustawy zmienianej 1, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 83 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 18 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie 45b pkt 1 5 zmienianej 2, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 45b pkt 1 5 zmienianej 2, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 1 stycznia 2019 mogą być zmieniane.
+**Art. 6.** Dotychczasowe przepisy wykonawcze wydane na podstawie 45b pkt 1 5 ustawy zmienianej 2, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie 45b pkt 1 5 ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż do dnia 1 stycznia 2019 mogą być zmieniane.
 
 **Art. 7.** Ustawa wchodzi życie po upływie 7 dni od dnia ogłoszenia, wyjątkiem 1 pkt 12, 13 15, pkt 2 lit. b c, pkt 7 lit. b c pkt 8, które wchodzą życie dniem 1 stycznia 2019 Prezydent Rzeczypospolitej Polskiej: A. Duda
 

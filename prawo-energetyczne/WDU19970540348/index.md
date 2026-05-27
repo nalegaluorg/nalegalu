@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-10 |
 | Data wydania | 1997-06-04 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 1997-12-05 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970540348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/348/text.pdf) |
 
 Art. 11zi. 1. Obywatelska społeczność energetyczna może wykonywać działalność w formie:

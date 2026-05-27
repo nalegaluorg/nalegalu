@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1950-04-04 |
 | Data wydania | 1950-04-24 |
+| Wejście w życie | 1950-04-24 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19500170139) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1950/139/text.pdf) |
 

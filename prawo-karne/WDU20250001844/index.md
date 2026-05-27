@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2025-12-23 |
+| Wejście w życie | 2026-01-01 |
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001844) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1844/text.pdf) |
 
@@ -33,9 +34,9 @@ source: "isap-pdf"
 
 1. Minister Finansów zapewnia funkcjonowanie systemu teleinformatycznego, którym jest prowadzony Centralny Rejestr Umów JSFP.
 
-2. przypadku awarii systemu, którym mowa ust. 1, Minister Finansów informuje jej wystąpieniu usunięciu Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+2. przypadku awarii systemu, którym mowa ust. 1, Minister Finansów informuje jej wystąpieniu usunięciu Biuletynie Informacji Publicznej stronie podmiotowej urzędu obsługującego Ministra Finansów.
 
-3. Konta systemie, którym mowa ust. 1, są zakładane na wniosek zawierający dane wnioskodawcy upoważnionego do działania imieniu jednostki sektora finansów publicznych oraz dane tej jednostki, do którego dołącza dokumenty potwierdzające zawarte nim dane, przypadku gdy są one niezbędne do potwierdzenia upoważnienia do działania imieniu tej jednostki.
+3. Konta systemie, którym mowa ust. 1, są zakładane wniosek zawierający dane wnioskodawcy upoważnionego do działania imieniu jednostki sektora finansów publicznych oraz dane tej jednostki, do którego dołącza dokumenty potwierdzające zawarte nim dane, przypadku gdy są one niezbędne do potwierdzenia upoważnienia do działania imieniu tej jednostki.
 
 4. Kierownik jednostki wyznacza użytkowników konta systemie, którym mowa ust. 1, upoważnionych do zarządzania tym kontem.
 
@@ -43,7 +44,7 @@ source: "isap-pdf"
 
 6. Informacje umowie są usuwane Centralnego Rejestru Umów JSFP po upływie pięciu lat, licząc od końca roku, którym umowa przestała obowiązywać.
 
-7. Udostępnienie informacji umowach Centralnym Umów JSFP uważa za udostępnianie informacji sektora publicznego celu ponownego wykorzystywania nieodpłatnie na warunkach określonych przez Ministra Finansów systemie, którym mowa ust. 1.
+7. Udostępnienie informacji umowach Centralnym Umów JSFP uważa za udostępnianie informacji sektora publicznego celu ponownego wykorzystywania nieodpłatnie warunkach określonych przez Ministra Finansów systemie, którym mowa ust. 1.
 
 8. Minister Finansów jest administratorem danych użytkowników kont systemie, którym mowa ust. 1, oraz innych danych zakresie, jakim jest to niezbędne do zapewnienia funkcjonowania tego systemu.
 
@@ -62,7 +63,7 @@ source: "isap-pdf"
     - **a)** pkt 2 otrzymuje brzmienie: „2) 6 pkt 1, pkt 2 zakresie ust. 5–7, 9 10 pkt 4 oraz 14a, które wchodzą życie dniem 1 lipca 2026 r.;”,
     - **b)** dodaje pkt 3 brzmieniu: „3) 6 pkt 2 zakresie ust. 1–4 8 pkt 3 oraz 14b, które wchodzą życie dniem 1 kwietnia 2026 r.”.
 
-**Art. 2.** ustawie dnia 6 września 2001 r. dostępie do informacji publicznej (Dz. U. 2022 r. 902) 10 ust. 1 otrzymuje brzmienie: „1. Informacja publiczna, która została udostępniona w:
+**Art. 2.** ustawie dnia 6 września 2001 r. dostępie do informacji publicznej (Dz. U. 2022 r. 902) 10 ust. 1 otrzymuje brzmienie: „1. Informacja publiczna, która nie została udostępniona w:
 
 **Art. 3.** ustawie dnia 27 sierpnia 2009 r. finansach publicznych (Dz. U. 2025 r. 1483 1844) wprowadza następujące zmiany:
 

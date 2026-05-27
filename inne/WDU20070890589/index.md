@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-13 |
 | Data wydania | 2007-05-21 |
-| Ostatnia zmiana | 2026-04-16 |
+| Wejście w życie | 2007-07-01 |
+| Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070890589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/589/text.pdf) |
 
 Art. 94–103. (pominięte) Przepisy przejściowe i końcowe

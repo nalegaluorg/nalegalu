@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-22 |
 | Data wydania | 2016-01-14 |
-| Ostatnia zmiana | 2026-05-04 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160000064) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/64/text.pdf) |
 
 Art. 97–103. (pominięte)
@@ -51,9 +51,46 @@ Art. 97–103. (pominięte)
 
 **Art. 2.** Użyte w ustawie określenia oznaczają:
 
+- **1)** certyfikowanie – proces, w wyniku którego osoba ubiegająca się o nadanie określonej kwalifikacji, po uzyskaniu pozytywnego wyniku walidacji, otrzymuje od uprawnionego podmiotu certyfikującego dokument potwierdzający nadanie określonej kwalifikacji;
+- **2)** edukacja formalna – kształcenie realizowane przez publiczne i niepubliczne szkoły oraz inne podmioty systemu oświaty, uczelnie oraz inne podmioty systemu szkolnictwa wyższego i nauki, w ramach programów, które prowadzą do uzyskania kwalifikacji pełnych, kwalifikacji nadawanych po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), albo kwalifikacji w zawodzie, o której mowa w art. 10 ust. 3 pkt 1 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750 i 854);
+- **3)** edukacja pozaformalna – kształcenie i szkolenie realizowane w ramach programów, które nie prowadzą do uzyskania kwalifikacji pełnych lub kwalifikacji, o których mowa w pkt 2;
+- **4)** efekty uczenia się – wiedzę, umiejętności oraz kompetencje społeczne nabyte w procesie uczenia się;
+- **5)** ewaluacja – analizę funkcjonowania instytucji certyfikującej prowadzącą do diagnozy procesów związanych z certyfikowaniem, służącą zapewnianiu i doskonaleniu jakości kwalifikacji;
+- **6)** instytucja certyfikująca – podmiot, który uzyskał uprawnienia do certyfikowania;
+- **7)** kompetencje społeczne – rozwiniętą w toku uczenia się zdolność kształtowania własnego rozwoju oraz autonomicznego i odpowiedzialnego uczestniczenia w życiu zawodowym i społecznym, z uwzględnieniem etycznego kontekstu własnego postępowania;
+- **8)** kwalifikacja – zestaw efektów uczenia się w zakresie wiedzy, umiejętności oraz kompetencji społecznych, nabytych w edukacji formalnej, edukacji pozaformalnej lub poprzez uczenie się nieformalne, zgodnych z ustalonymi dla danej kwalifikacji wymaganiami, których osiągnięcie zostało sprawdzone w walidacji oraz formalnie potwierdzone przez uprawniony podmiot certyfikujący;
+- **8a)** objętość kwalifikacji – orientacyjny nakład pracy, określony w godzinach, potrzebny do nabycia wszystkich efektów uczenia się wymaganych dla kwalifikacji wolnorynkowej lub sektorowej, z uwzględnieniem kształcenia lub szkolenia, lub samodzielnego uczenia się mającego na celu przygotowanie do nabycia tej kwalifikacji;
+- **9)** kwalifikacje cząstkowe – kwalifikacje wyodrębnione w zawodzie, o których mowa w art. 4 pkt 34 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737 i 854), kwalifikacje nadawane po ukończeniu studiów podyplomowych, o których mowa w art. 160 ust. 1 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, kwalifikacje nadawane po ukończeniu innych form kształcenia, o których mowa w art. 162 ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce, w art. 2 ust. 2 pkt 3 ustawy z dnia 30 kwietnia 2010 r. o Polskiej Akademii Nauk (Dz. U. z 2020 r. poz. 1796) i w art. 2 ust. 3 pkt 2 ustawy z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2024 r. poz. 534), oraz kursów i szkoleń, o których mowa w art. 4 pkt 6 ustawy z dnia 21 lutego 2019 r. o Sieci Badawczej Łukasiewicz (Dz. U. z 2024 r. poz. 925 i 1089), a także kwalifikacje uregulowane, kwalifikacje sektorowe, kwalifikacje rzemieślnicze i kwalifikacje wolnorynkowe;
+- **10)** kwalifikacje pełne – kwalifikacje, które są nadawane wyłącznie w ramach systemu oświaty po ukończeniu określonych etapów kształcenia oraz w ramach systemu szkolnictwa wyższego i nauki po ukończeniu kształcenia specjalistycznego, studiów pierwszego stopnia, studiów drugiego stopnia i jednolitych studiów magisterskich oraz po uzyskaniu stopnia doktora w rozumieniu ustawy z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce;
+- **11)** kwalifikacje wolnorynkowe – kwalifikacje nieuregulowane odrębnymi przepisami, odpowiadające na potrzeby społeczne lub potrzeby rynku pracy, nadawane przez podmioty prowadzące działalność gospodarczą, którym zostało nadane uprawnienie do certyfikowania danej kwalifikacji wolnorynkowej na podstawie art. 41 ust. 1, dla których dokumentem potwierdzającym nadanie kwalifikacji jest certyfikat kwalifikacji wolnorynkowej;
+- **11a)** kwalifikacje rzemieślnicze – kwalifikacje nadawane przez izby rzemieślnicze po przeprowadzeniu egzaminów w zawodach, o których mowa w art. 3 ust. 3a ustawy z dnia 22 marca 1989 r. o rzemiośle (Dz. U. z 2020 r. poz. 2159), dla których dokumentami potwierdzającymi nadanie kwalifikacji są dyplomy mistrza i świadectwa czeladnicze;
+- **11b)** kwalifikacje sektorowe – kwalifikacje o charakterze zawodowym nieuregulowane odrębnymi przepisami, odpowiadające na potrzeby danej branży lub sektora i uwzględniające ich specyfikę, nadawane przez podmioty prowadzące działalność statutową w obszarze danej branży lub sektora, którym zostało nadane uprawnienie do certyfikowania danej kwalifikacji sektorowej na podstawie art. 41 ust. 1, dla których dokumentem potwierdzającym nadanie kwalifikacji jest certyfikat kwalifikacji sektorowej;
+- **12)** kwalifikacje uregulowane – kwalifikacje ustanowione odrębnymi przepisami, których nadawanie odbywa się na zasadach określonych w tych przepisach, z wyłączeniem kwalifikacji nadawanych w systemie oświaty oraz systemie szkolnictwa wyższego i nauki;
+- **12a)** kwalifikacje włączone do Zintegrowanego Systemu Kwalifikacji – kwalifikacje pełne i cząstkowe, którym został przypisany poziom Polskiej Ramy Kwalifikacji i które zostały włączone do Zintegrowanego Systemu Kwalifikacji odpowiednio na podstawie art. 12, art. 13, art. 25, art. 37, art. 38 lub art. 40;
+- **13)** minister koordynator Zintegrowanego Systemu Kwalifikacji – ministra właściwego do spraw oświaty i wychowania;
+- **14)** minister właściwy – ministra określonego w przepisach ustawy z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2024 r. poz. 1370);
+- **15)** (uchylony)
+- **16)** Polska Rama Kwalifikacji – opis ośmiu wyodrębnionych w Polsce poziomów kwalifikacji odpowiadających odpowiednim poziomom europejskich ram kwalifikacji, o których mowa w załączniku II do zalecenia Rady z dnia 22 maja 2017 r. w sprawie europejskich ram kwalifikacji dla uczenia się przez całe życie i uchylającego zalecenie Parlamentu Europejskiego i Rady z dnia 23 kwietnia 2008 r. w sprawie ustanowienia europejskich ram kwalifikacji dla uczenia się przez całe życie (Dz. Urz. UE C 189 z 15.06.2017, str. 15), sformułowany za pomocą ogólnych charakterystyk efektów uczenia się dla kwalifikacji na poszczególnych poziomach, ujętych w kategoriach wiedzy, umiejętności i kompetencji społecznych;
+- **17)** poziom Polskiej Ramy Kwalifikacji – zakres i stopień złożoności wymaganych efektów uczenia się dla kwalifikacji danego poziomu, sformułowanych za pomocą ogólnych charakterystyk efektów uczenia się;
+- **18)** przypisanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji – rozstrzygnięcie, podjęte na zasadach określonych w ustawie, o ustaleniu poziomu Polskiej Ramy Kwalifikacji dla danej kwalifikacji, na podstawie porównania efektów uczenia się wymaganych dla tej kwalifikacji z charakterystykami poziomów Polskiej Ramy Kwalifikacji;
+- **18a)** sektorowa rada do spraw kompetencji – rada, o której mowa w art. 4c ust. 1 pkt 2 ustawy z dnia 9 listopada 2000 r. o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z 2024 r. poz. 419);
+- **19)** Sektorowa Rama Kwalifikacji – opis poziomów kwalifikacji funkcjonujących w danym sektorze lub branży; poziomy Sektorowych Ram Kwalifikacji odpowiadają odpowiednim poziomom Polskiej Ramy Kwalifikacji;
+- **20)** uczenie się nieformalne – uzyskiwanie efektów uczenia się poprzez różnego rodzaju aktywność poza edukacją formalną i edukacją pozaformalną;
+- **21)** umiejętności – przyswojoną w procesie uczenia się zdolność do wykonywania zadań i rozwiązywania problemów właściwych dla dziedziny uczenia się lub działalności zawodowej;
+- **22)** walidacja – sprawdzenie, czy osoba ubiegająca się o nadanie określonej kwalifikacji, niezależnie od sposobu uczenia się tej osoby, osiągnęła wyodrębnioną część lub całość efektów uczenia się wymaganych dla tej kwalifikacji;
+- **23)** wiedza – zbiór opisów obiektów i faktów, zasad, teorii oraz praktyk, przyswojonych w procesie uczenia się, odnoszących się do dziedziny uczenia się lub działalności zawodowej;
+- **24)** Zintegrowany Rejestr Kwalifikacji – rejestr publiczny w rozumieniu art. 3 pkt 5 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2024 r. poz. 307 i 1222), prowadzony w systemie teleinformatycznym, ewidencjonujący kwalifikacje włączone do Zintegrowanego Systemu Kwalifikacji;
+- **25)** Zintegrowany System Kwalifikacji – wyodrębnioną część Krajowego Systemu Kwalifikacji, w której obowiązują określone w ustawie standardy opisywania kwalifikacji oraz przypisywania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji, zasady włączania kwalifikacji do Zintegrowanego Systemu Kwalifikacji i ich ewidencjonowania w Zintegrowanym Rejestrze Kwalifikacji, a także zasady i standardy certyfikowania kwalifikacji oraz zapewniania jakości nadawania kwalifikacji.
+
 **Art. 3.** Na zasadach określonych w ustawie do Zintegrowanego Systemu Kwalifikacji włącza się kwalifikacje pełne oraz kwalifikacje cząstkowe.
 
 **Art. 4.** Zintegrowany System Kwalifikacji zapewnia:
+
+- **1)** jakość nadawanych kwalifikacji;
+- **2)** możliwość uznawania efektów uczenia się uzyskanych w edukacji pozaformalnej i poprzez uczenie się nieformalne;
+- **3)** możliwość etapowego gromadzenia osiągnięć oraz uznawania osiągnięć;
+- **4)** dostęp do informacji o kwalifikacjach możliwych do uzyskania na terytorium Rzeczypospolitej Polskiej;
+- **5)** możliwość porównania kwalifikacji uzyskanych na terytorium Rzeczypospolitej Polskiej z kwalifikacjami nadawanymi w innych państwach członkowskich Unii Europejskiej.
 
 #### Rozdział 2 Polska Rama Kwalifikacji oraz przypisywanie poziomu Polskiej Ramy Kwalifikacji do kwalifikacji
 
@@ -148,6 +185,32 @@ Art. 97–103. (pominięte)
 5. W rozporządzeniach, o których mowa w ust. 1–4, uwzględnia się konieczność zapewnienia spójności z uniwersalnymi charakterystykami poziomów 1–8 pierwszego stopnia oraz aktualny stan wiedzy i postępu technologicznego w poszczególnych dziedzinach.
 
 **Art. 8.** Do kwalifikacji pełnych przypisuje się następujące poziomy Polskiej Ramy Kwalifikacji:
+
+- **1)** świadectwo ukończenia sześcioletniej szkoły podstawowej i świadectwo ukończenia sześcioletniej ogólnokształcącej szkoły muzycznej I stopnia – potwierdza nadanie kwalifikacji na poziomie 1 Polskiej Ramy Kwalifikacji;
+- **2)** świadectwo ukończenia ośmioletniej szkoły podstawowej i świadectwo ukończenia gimnazjum – potwierdza nadanie kwalifikacji na poziomie 2 Polskiej Ramy Kwalifikacji;
+- **2a)** świadectwo ukończenia szkoły muzycznej I stopnia i świadectwo ukończenia ośmioletniej ogólnokształcącej szkoły muzycznej I stopnia – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji;
+- **3)** dyplom potwierdzający kwalifikacje zawodowe: o systemie oświaty – oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+    - **a)** po ukończeniu zasadniczej szkoły zawodowej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. a ustawy z dnia 7 września 1991 r. o systemie oświaty,
+    - **b)** po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r.
+
+- **3a)** dyplom zawodowy po ukończeniu branżowej szkoły I stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. b ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+- **4)** świadectwo czeladnicze wydawane po ukończeniu zasadniczej szkoły zawodowej lub branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach ujętych w klasyfikacji zawodów szkolnictwa zawodowego na podstawie wymagań określonych w podstawie programowej kształcenia w zawodach – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+- **4a)** świadectwo czeladnicze wydawane po ukończeniu branżowej szkoły I stopnia po zdaniu egzaminu czeladniczego w zawodach, o których mowa w art. 3 ust. 3b ustawy z dnia 22 marca 1989 r. o rzemiośle – potwierdza nadanie kwalifikacji na poziomie 3 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+- **5)** dyplom potwierdzający kwalifikacje zawodowe:
+    - **a)** po ukończeniu technikum lub szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
+    - **b)** po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty – oraz po zdaniu egzaminów potwierdzających kwalifikacje w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach w sprawie klasyfikacji zawodów szkolnictwa zawodowego określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+- **5a)** dyplom zawodowy:
+    - **a)** po ukończeniu technikum albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, albo
+    - **b)** po ukończeniu branżowej szkoły II stopnia albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. c ustawy z dnia 7 września 1991 r. o systemie oświaty – oraz po zdaniu egzaminów zawodowych w danym zawodzie – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+
+- **6)** dyplom ukończenia szkoły artystycznej potwierdzający uzyskanie tytułu zawodowego – potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw kultury i ochrony dziedzictwa narodowego w przepisach wydanych na podstawie art. 46a ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+- **7)** świadectwo dojrzałości – potwierdza nadanie kwalifikacji na poziomie 4 Polskiej Ramy Kwalifikacji;
+- **7a)** dyplom zawodowy po ukończeniu szkoły policealnej albo po spełnieniu warunków, o których mowa w art. 10 ust. 3 pkt 2 lit. d ustawy z dnia 7 września 1991 r. o systemie oświaty, oraz po zdaniu egzaminów zawodowych w danym zawodzie nauczanym wyłącznie w szkole policealnej – potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji, chyba że minister właściwy do spraw oświaty i wychowania w przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo wyrażając zgodę, o której mowa w art. 45 ust. 8a ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, albo w decyzji, o której mowa w art. 178 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe, określi dla danej kwalifikacji inny poziom Polskiej Ramy Kwalifikacji;
+- **8)** dyplom ukończenia kolegium nauczycielskiego, dyplom ukończenia nauczycielskiego kolegium języków obcych, dyplom ukończenia kolegium pracowników służb społecznych, świadectwo dyplomowanego specjalisty i świadectwo dyplomowanego specjalisty technologa – potwierdza nadanie kwalifikacji na poziomie 5 Polskiej Ramy Kwalifikacji;
+- **9)** dyplom ukończenia studiów pierwszego stopnia – potwierdza nadanie kwalifikacji na poziomie 6 Polskiej Ramy Kwalifikacji;
+- **10)** dyplom ukończenia studiów drugiego stopnia oraz dyplom ukończenia jednolitych studiów magisterskich – potwierdza nadanie kwalifikacji na poziomie 7 Polskiej Ramy Kwalifikacji;
+- **11)** dyplom doktorski – potwierdza nadanie kwalifikacji na poziomie 8 Polskiej Ramy Kwalifikacji.
 
 **Art. 9.**
 
@@ -469,6 +532,10 @@ Art. 97–103. (pominięte)
 5. Obwieszczenia, o których mowa w ust. 4 pkt 2 i 3, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
 **Art. 28.** Modyfikacja kwalifikacji wolnorynkowej lub kwalifikacji sektorowej, o której mowa w art. 27 ust. 4 pkt 2, nie może dotyczyć:
+
+- **1)** nazwy kwalifikacji;
+- **2)** przypisania poziomu Polskiej Ramy Kwalifikacji do kwalifikacji;
+- **3)** efektów uczenia się wymaganych dla kwalifikacji, jeżeli zmiana w zakresie efektów uczenia się skutkowałaby koniecznością zmiany nazwy kwalifikacji lub przypisania innego poziomu Polskiej Ramy Kwalifikacji do tej kwalifikacji.
 
 **Art. 29.**
 
@@ -917,7 +984,16 @@ Art. 97–103. (pominięte)
 
 **Art. 66.** Zewnętrzne zapewnianie jakości wobec danej instytucji certyfikującej obejmuje:
 
+- **1)** monitorowanie wewnętrznego systemu zapewniania jakości stosowanego w danej instytucji certyfikującej;
+- **2)** monitorowanie spełniania przez daną instytucję certyfikującą wymagań, o których mowa w art. 41 ust. 2 i 3;
+- **3)** ewaluację zewnętrzną walidacji i certyfikowania przeprowadzanych przez daną instytucję certyfikującą oraz funkcjonowania wewnętrznego systemu zapewniania jakości w danej instytucji certyfikującej.
+
 **Art. 67.** Podmiot zewnętrznego zapewniania jakości prowadzi monitorowanie wewnętrznego systemu zapewniania jakości stosowanego w danej instytucji certyfikującej, o którym mowa w art. 66 pkt 1, na podstawie analizy:
+
+- **1)** raportów z ewaluacji wewnętrznej, o których mowa w art. 64 ust. 2;
+- **2)** informacji, o których mowa w art. 65 ust. 1;
+- **3)** sprawozdań z działalności, o których mowa w art. 76 ust. 1;
+- **4)** zawiadomień, o których mowa w art. 77.
 
 **Art. 68.**
 
@@ -1114,6 +1190,11 @@ Art. 97–103. (pominięte)
 
 **Art. 82b.** W Zintegrowanym Rejestrze Kwalifikacji gromadzi i przetwarza się informacje:
 
+- **1)** o kwalifikacjach włączonych do Zintegrowanego Systemu Kwalifikacji;
+- **2)** zawarte:
+    - **a)** we wnioskach, o których mowa w art. 14, art. 15a, art. 41 ust. 2 i 3 i art. 53 ust. 2,
+    - **b)** w raportach i sprawozdaniach, o których mowa w art. 64 ust. 2, art. 68 ust. 1, art. 71 ust. 1 i art. 76 ust. 1 – przekazanych do podmiotu prowadzącego Zintegrowany Rejestr Kwalifikacji.
+
 **Art. 83.**
 
 1. W Zintegrowanym Rejestrze Kwalifikacji przetwarza i udostępnia się informacje o kwalifikacjach wolnorynkowych i kwalifikacjach sektorowych:
@@ -1240,7 +1321,24 @@ Art. 97–103. (pominięte)
 
 **Art. 91.** Do zadań Rady Interesariuszy należy:
 
+- **1)** wspieranie ministra koordynatora Zintegrowanego Systemu Kwalifikacji w zapewnianiu spójności i porównywalności funkcjonujących w ramach Zintegrowanego Systemu Kwalifikacji rozwiązań oraz w ukierunkowywaniu rozwoju Zintegrowanego Systemu Kwalifikacji;
+- **2)** monitorowanie funkcjonowania Zintegrowanego Systemu Kwalifikacji oraz analiza i wymiana doświadczeń w tym zakresie;
+- **3)** opiniowanie założeń i projektów aktów prawnych w obszarze Zintegrowanego Systemu Kwalifikacji;
+- **4)** występowanie do ministra koordynatora Zintegrowanego Systemu Kwalifikacji oraz do ministrów właściwych z pytaniami dotyczącymi funkcjonowania kwalifikacji w Zintegrowanym Systemie Kwalifikacji oraz propozycjami usprawnień w zakresie rozwiązań systemowych dotyczących Zintegrowanego Systemu Kwalifikacji;
+- **5)** wyrażanie opinii, o których mowa w art. 11 ust. 3 pkt 6 i art. 21a ust. 3.
+
 **Art. 92.** W skład Rady Interesariuszy wchodzą przedstawiciele:
+
+- **1)** Krajowej Izby Gospodarczej – 2 osoby;
+- **2)** reprezentatywnych organizacji pracodawców, o których mowa w art. 24 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ) – po 2 osoby z każdej organizacji;
+- **3)** reprezentatywnych organizacji związków zawodowych, o których mowa w art. 23 ust. 2 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego – po dwóch przedstawicieli każdej organizacji;
+- **4)** Konferencji Rektorów Akademickich Szkół Polskich – 2 osoby;
+- **5)** Konferencji Rektorów Zawodowych Szkół Polskich – 2 osoby;
+- **5a)** Konferencji Rektorów Publicznych Uczelni Zawodowych – 2 osoby;
+- **6)** Centralnej Komisji Egzaminacyjnej – 2 osoby;
+- **7)** podmiotów prowadzących działalność w zakresie edukacji pozaformalnej – 2 osoby;
+- **8)** strony samorządowej Komisji Wspólnej Rządu i Samorządu Terytorialnego, o której mowa w art. 5 ust. 1 ustawy z dnia 6 maja 2005 r. o Komisji Wspólnej Rządu i Samorządu Terytorialnego oraz o przedstawicielach Rzeczypospolitej Polskiej w Komitecie Regionów Unii Europejskiej (Dz. U. z 2024 r. poz. 949) – 4 osoby;
+- **9)** ministra koordynatora Zintegrowanego Systemu Kwalifikacji – 2 osoby.
 
 **Art. 93.**
 
@@ -1354,5 +1452,14 @@ Art. 97–103. (pominięte)
 
 **Art. 111.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
+- **1)** art. 3 ust. 4 ustawy zmienianej w art. 97 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 3 ust. 4 ustawy zmienianej w art. 97 , w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwanaście miesięcy od dnia wejścia w życie niniejszej ustawy;
+- **2)** art. 9f ust. 4 ustawy zmienianej w art. 98 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9f ust. 4 ustawy zmienianej w art. 98 , w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 1 października 2016 r.;
+- **3)** art. 11 ust. 2, art. 24 ust. 1 i 2 i przepisy wykonawcze wydane przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego na podstawie art. 11 ust. 2 i art. 32a ust. 4 ustawy zmienianej w art. 98 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 11 ust. 2, art. 24 ust. 1 i 2 i przepisów wykonawczych wydanych przez ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego na podstawie art. 11 ust. 2 i art. 32a ust. 4 ustawy zmienianej w art. 98 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwanaście miesięcy od dnia wejścia w życie niniejszej ustawy, oraz mogą być zmieniane na podstawie tych przepisów;
+- **4)** art. 167 ust. 3 i art. 201 ust. 2 ustawy zmienianej w art. 101 zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 167 ust. 3 i art. 201 ust. 2 ustawy zmienianej w art. 101 , w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez dwanaście miesięcy od dnia wejścia w życie niniejszej ustawy.
+
 **Art. 112.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia , z wyjątkiem:
+
+- **1)** art. 7 i 85, które wchodzą w życie po upływie 3 miesięcy od dnia ogłoszenia;
+- **2)** art. 10, 21, 60, art. 83 ust. 4 i art. 110, które wchodzą w życie po upływie 6 miesięcy od dnia ogłoszenia.
+
 

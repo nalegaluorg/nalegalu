@@ -49,21 +49,21 @@ USTAWA 16 grudnia 2005 finansowaniu infrastruktury
 
 **Art. 3.**
 
-1. Zadania zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg zarządzania nimi finansowane są przez:
+1. Zadania zakresie budowy, przebudowy, remontu, utrzymania i ochrony zarządzania nimi finansowane są przez:
 
-- **1)** ministra właściwego do spraw za pośrednictwem Generalnego Dyrektora Dróg Krajowych i Autostrad albo drogowych spółek specjalnego przeznaczenia odniesieniu do dróg krajowych;
-- **2)** samorząd województwa odniesieniu do dróg wojewódzkich;
-- **3)** samorząd powiatowy odniesieniu do dróg powiatowych.
+- **1)** ministra właściwego do spraw za pośrednictwem Generalnego Dyrektora Dróg Krajowych i Autostrad albo drogowych spółek specjalnego przeznaczenia odniesieniu do krajowych;
+- **2)** samorząd województwa odniesieniu do wojewódzkich;
+- **3)** samorząd powiatowy odniesieniu do powiatowych.
 
-2. Zadania zakresie finansowania budowy, przebudowy, remontu, utrzymania i ochrony dróg gminnych zarządzania nimi finansowane są budżetów gmin.
+2. Zadania zakresie finansowania budowy, przebudowy, remontu, utrzymania i ochrony gminnych zarządzania nimi finansowane są budżetów gmin.
 
-3. W granicach miast na prawach powiatu zadania zakresie finansowania, budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami publicznymi, wyjątkiem autostrad i dróg ekspresowych, finansowane są budżetów tych miast.
+3. W granicach miast na prawach powiatu zadania zakresie finansowania, budowy, przebudowy, remontu, utrzymania, ochrony i zarządzania drogami publicznymi, wyjątkiem autostrad i ekspresowych, finansowane są budżetów tych miast.
 
-4. Zadania zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg zakładowych zarządzania nimi finansowane są ze środków podmiotów zarządzających tymi drogami.
+4. Zadania zakresie budowy, przebudowy, remontu, utrzymania i ochrony zakładowych zarządzania nimi finansowane są ze środków podmiotów zarządzających tymi drogami.
 
-5. Budowa, przebudowa, remont, utrzymanie i ochrona dróg publicznych mogą być realizowane przy udziale środków rzeczowych i pieniężnych świadczonych przez osoby fizyczne i osoby prawne, krajowe i zagraniczne jednostki organizacyjne nieposiadające osobowości prawnej, tym ramach partnerstwa publiczno-prywatnego.
+5. Budowa, przebudowa, remont, utrzymanie i ochrona publicznych mogą być realizowane przy udziale środków rzeczowych i pieniężnych świadczonych przez osoby fizyczne i osoby prawne, krajowe i zagraniczne jednostki organizacyjne nieposiadające osobowości prawnej, tym ramach partnerstwa publiczno-prywatnego.
 
-6. Zadania zakresie budowy, przebudowy, remontu, utrzymania i ochrony dróg publicznych mogą być finansowane lub dofinansowane budżetów jednostek samorządu terytorialnego, zgodnie porozumieniami zawartymi na podstawie art. 19 ust. 4 ustawy 21 marca 1985 drogach publicznych.
+6. Zadania zakresie budowy, przebudowy, remontu, utrzymania i ochrony publicznych mogą być finansowane lub dofinansowane budżetów jednostek samorządu terytorialnego, zgodnie porozumieniami zawartymi na podstawie art. 19 ust. 4 ustawy 21 marca 1985 drogach publicznych.
 
 **Art. 4.**
 
@@ -81,7 +81,7 @@ USTAWA 16 grudnia 2005 finansowaniu infrastruktury
 
 **Art. 7.**
 
-1. Źródłem finansowania dróg publicznych są również środki finansowe określone przepisami drogach publicznych, przepisami transporcie drogowym i przepisami autostradach płatnych Krajowym Funduszu Drogowym.
+1. Źródłem finansowania publicznych są również środki finansowe określone przepisami drogach publicznych, przepisami transporcie drogowym i przepisami autostradach płatnych Krajowym Funduszu Drogowym.
 
 2. Źródłem finansowania infrastruktury kolejowej są również środki finansowe określone przepisami transporcie kolejowym i przepisami Funduszu Kolejowym.
 
@@ -89,7 +89,7 @@ USTAWA 16 grudnia 2005 finansowaniu infrastruktury
 
 **Art. 9.** (pominięty)
 
-**Art. 10.** Ilekroć obowiązujących przepisach jest mowa ustawie finansowaniu dróg publicznych, rozumie się przez to ustawę finansowaniu infrastruktury lądowego.
+**Art. 10.** Ilekroć obowiązujących przepisach jest mowa ustawie finansowaniu publicznych, rozumie się przez to ustawę finansowaniu infrastruktury lądowego.
 
 **Art. 10a.**
 
@@ -99,7 +99,7 @@ USTAWA 16 grudnia 2005 finansowaniu infrastruktury
 
 **Art. 11.** (pominięty)
 
-**Art. 12.** Traci moc ustawa 29 sierpnia 1997 finansowaniu dróg publicznych (Dz. U. 780, późn. zm. ).
+**Art. 12.** Traci moc ustawa 29 sierpnia 1997 finansowaniu publicznych (Dz. U. 780, późn. zm. ).
 
 **Art. 13.** Ustawa wchodzi życie dniem 1 stycznia 2006
 

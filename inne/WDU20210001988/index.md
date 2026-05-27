@@ -57,25 +57,25 @@ Po zmianie można mieć najwyżej dwa imiona.
 7. 1. Zmiana może dotyczyć noszonego aktualnie rodowego.
 Zmiana noszonego po zawarciu małżeństwa, gdy jest ono tożsame nazwiskiem rodowym, rozciąga się na nazwisko rodowe wyłącznie na wyraźne żądanie osoby ubiegającej się o nazwiska.
 8. 1. Zmiana obojga rodziców rozciąga się na małoletnie dzieci na dzieci, które zrodzą się tego małżeństwa.
-4. Zgodę na dziecko wyraża osobiście do protokołu przed kierownikiem cywilnego albo jego zastępcą na piśmie utrwalonym postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza. Dzieci zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
-5. Rodzic wyraża zgodę na dziecka osobiście do protokołu przed kierownikiem cywilnego albo jego zastępcą na piśmie utrwalonym postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza na piśmie utrwalonym postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
+4. Zgodę na dziecko wyraża osobiście do protokołu przed kierownikiem urzędu cywilnego albo jego zastępcą na piśmie utrwalonym postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza. Dzieci zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
+5. Rodzic wyraża zgodę na dziecka osobiście do protokołu przed kierownikiem urzędu cywilnego albo jego zastępcą na piśmie utrwalonym postaci papierowej, opatrzonym podpisem własnoręcznym, poświadczonym za zgodność podpisu przez notariusza na piśmie utrwalonym postaci elektronicznej, opatrzonym kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym. Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą wyrazić zgodę za pośrednictwem konsula Rzeczypospolitej Polskiej.
 9. 1. Zmiana następuje na wniosek osoby ubiegającej się o zmianę, zwanej dalej „wnioskodawcą”.
 Zmiana małoletniego dziecka następuje na wniosek przedstawiciela ustawowego dziecka. Przepisy art. 8 ust. 25 stosuje się odpowiednio.
-10. 1. Wniosek o składa się do wybranego kierownika cywilnego.
-Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą złożyć za pośrednictwem konsula Rzeczypospolitej Polskiej wniosek o nazwiska, wskazując kierownika cywilnego, któremu wniosek ma zostać przekazany.
-11. 1. Wniosek o zawiera: dane osoby, której zmiana dotyczy: imię (imiona) nazwisko oraz nazwisko rodowe, wskazanie kierownika cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana będzie dotyczyła tego aktu,
+10. 1. Wniosek o składa się do wybranego kierownika urzędu cywilnego.
+Osoby zamieszkałe poza granicami Rzeczypospolitej Polskiej mogą złożyć za pośrednictwem konsula Rzeczypospolitej Polskiej wniosek o nazwiska, wskazując kierownika urzędu cywilnego, któremu wniosek ma zostać przekazany.
+11. 1. Wniosek o zawiera: dane osoby, której zmiana dotyczy: imię (imiona) nazwisko oraz nazwisko rodowe, wskazanie kierownika urzędu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa, jeżeli zmiana będzie dotyczyła tego aktu,
 c) numer Powszechnego Elektronicznego Systemu Ewidencji Ludności, zwany dalej „numerem PESEL”, jeżeli został nadany;
 2) imię nazwisko, na jakie ma nastąpić zmiana;
 3) wskazanie miejsca sporządzenia aktu urodzenia małoletnich dzieci, jeżeli zmiana będzie dotyczyła tych aktów;
 4) adres do korespondencji wnioskodawcy;
 5) uzasadnienie;
-6) oświadczenie wnioskodawcy, że tej samej sprawie nie złożył wcześniej wniosku do innego kierownika cywilnego nie została wydana już decyzja odmowna.
+6) oświadczenie wnioskodawcy, że tej samej sprawie nie złożył wcześniej wniosku do innego kierownika urzędu cywilnego nie została wydana już decyzja odmowna.
 Jeżeli wnioskodawca jego małoletnie dzieci nie posiadają aktów cywilnego sporządzonych na terytorium Rzeczypospolitej Polskiej, wraz wnioskiem o wnioskodawca składa wniosek o transkrypcję zagranicznych dokumentów cywilnego.
-12. 1. Decyzję o zmianie bądź decyzję o odmowie zmiany wydaje kierownik cywilnego, do którego został złożony wniosek, albo jego zastępca.
+12. 1. Decyzję o zmianie bądź decyzję o odmowie zmiany wydaje kierownik urzędu cywilnego, do którego został złożony wniosek, albo jego zastępca.
 Decyzja o zmianie podlega natychmiastowemu wykonaniu.
-13. 1. Kierownik cywilnego albo jego zastępca, który wydał decyzję o zmianie nazwiska, przesyła ją, za pośrednictwem systemu teleinformatycznego, którym jest prowadzony rejestr cywilnego, do kierownika cywilnego, który sporządził akt urodzenia oraz akt małżeństwa wnioskodawcy, a jeżeli zmiana rozciąga się na małoletnie dzieci również do kierownika cywilnego, który sporządził akty urodzenia dzieci.
-W przypadku zmiany małoletniego dziecka następującej na wniosek przedstawiciela ustawowego dziecka decyzję o zmianie przekazuje się kierownikowi cywilnego, który sporządził akt urodzenia dziecka.
-14. 1. Określone ustawie zadania kompetencje kierownika cywilnego są zadaniami zakresu administracji rządowej.
+13. 1. Kierownik urzędu cywilnego albo jego zastępca, który wydał decyzję o zmianie nazwiska, przesyła ją, za pośrednictwem systemu teleinformatycznego, którym jest prowadzony rejestr cywilnego, do kierownika urzędu cywilnego, który sporządził akt urodzenia oraz akt małżeństwa wnioskodawcy, a jeżeli zmiana rozciąga się na małoletnie dzieci również do kierownika urzędu cywilnego, który sporządził akty urodzenia dzieci.
+W przypadku zmiany małoletniego dziecka następującej na wniosek przedstawiciela ustawowego dziecka decyzję o zmianie przekazuje się kierownikowi urzędu cywilnego, który sporządził akt urodzenia dziecka.
+14. 1. Określone ustawie zadania kompetencje kierownika urzędu cywilnego są zadaniami zakresu administracji rządowej.
 Wojewodowie sprawują nadzór nad realizacją przez kierowników urzędów cywilnego zadań, o których mowa art. 12 art. 13.
 3. Wojewoda jest organem wyższego stopnia sprawach prowadzonych na podstawie ustawy.
 4. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad działalnością wojewody zakresie zadań, o których mowa art. 12 art. 13.

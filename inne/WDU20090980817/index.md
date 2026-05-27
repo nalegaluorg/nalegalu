@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-06-25 |
+| Wejście w życie | 2009-07-10 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090980817) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/817/text.pdf) |
 
@@ -47,7 +48,7 @@ source: "isap-pdf"
 
 **Art. 10.** W ustawie dnia 30 sierpnia 1991 o zakładach opieki zdrowotnej (Dz. U. 2007 14, 89, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2007 231, 1700, 227, 1505 oraz 2009 19, 100 42, 340) w art. 20a:
+**Art. 11.** W ustawie dnia 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2007 231, 1700, 2008 227, 1505 oraz 2009 19, 100 42, 340) w art. 20a:
 
 **Art. 12.** W ustawie dnia 19 sierpnia 1994 o ochronie zdrowia psychicznego (Dz. U. 111, 535, późn. zm. ) wprowadza się następujące zmiany:
 
@@ -61,9 +62,9 @@ source: "isap-pdf"
 
 **Art. 17.** W ustawie dnia 21 sierpnia 1997 o gospodarce nieruchomościami (Dz. U. 2004 261, 2603, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 18.** W ustawie dnia 22 sierpnia 1997 o ochronie osób mienia (Dz. U. 2005 145, 1221, 2006 104, 708 oraz 171, 1055 180,
+**Art. 18.** W ustawie dnia 22 sierpnia 1997 o ochronie osób mienia (Dz. U. 2005 145, 1221, 2006 104, 708 oraz 2008 171, 1055 180,
 
-**Art. 19.** W ustawie dnia 27 sierpnia 1997 o rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 14, 92, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 19.** W ustawie dnia 27 sierpnia 1997 o rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 2008 14, 92, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 20.** W ustawie dnia 28 sierpnia 1997 o zatrudnianiu osób pozbawionych wolności (Dz. U. 123, 777, 2003 202, 1957, 2004 273, 2703 oraz 2006 66, 471) uchyla się art. 10.
 
@@ -73,7 +74,7 @@ source: "isap-pdf"
 
 **Art. 23.** W ustawie dnia 21 grudnia 2000 o dozorze technicznym (Dz. U. 122, 1321, późn. zm. ) w art. 34 ust. 3 otrzymuje brzmienie: „3. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, wysokość opłat, o których mowa w ust. 1, uwzględniając w szczególności rodzaje urządzeń technicznych oraz czynności wykonywane przez jednostki dozoru technicznego, za które pobierane są opłaty.”.
 
-**Art. 24.** W ustawie dnia 6 września 2001 – Prawo farmaceutyczne (Dz. U. 45, 271, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 24.** W ustawie dnia 6 września 2001 – Prawo farmaceutyczne (Dz. U. 2008 45, 271, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 25.** W ustawie dnia 6 września 2001 o transporcie drogowym (Dz. U. 2007 125, 874, późn. zm. ) w art. 27 uchyla się ust. 2.
 
@@ -85,15 +86,15 @@ source: "isap-pdf"
 
 **Art. 29.** W ustawie dnia 26 czerwca 2003 o nasiennictwie (Dz. U. 2007 41, 271, 80, 541 191, 1362 oraz 2009 69, 591) wprowadza się następujące zmiany:
 
-**Art. 30.** W ustawie dnia 18 grudnia 2003 o ochronie roślin (Dz. U. 133, 849 227, 1505 oraz 2009 20, 106 31, 206) wprowadza się następujące zmiany:
+**Art. 30.** W ustawie dnia 18 grudnia 2003 o ochronie roślin (Dz. U. 2008 133, 849 227, 1505 oraz 2009 20, 106 31, 206) wprowadza się następujące zmiany:
 
-**Art. 31.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 164, 1027, późn. zm. ) w art. 151 uchyla się ust. 7.
+**Art. 31.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) w art. 151 uchyla się ust. 7.
 
 **Art. 32.** W ustawie dnia 29 lipca 2005 o przeciwdziałaniu narkomanii (Dz. U. 179, 1485, późn. zm. ) w art. 34 ust. 5 otrzymuje brzmienie: „5. Rada Ministrów określi, w drodze rozporządzenia, podmioty uprawnione do przechowywania oraz niszczenia środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 zabezpieczonych na potrzeby postępowania karnego, a także szczegółowy tryb warunki ich przechowywania oraz niszczenia, mając na względzie ich rodzaje podmioty wyspecjalizowane w ich niszczeniu, konieczność właściwego zabezpieczenia tych środków substancji przed dostępem osób trzecich, a także zapewnienie sprawności postępowania karnego jego koszt.”.
 
-**Art. 33.** W ustawie dnia 25 sierpnia 2006 o bezpieczeństwie żywności żywienia (Dz. U. 171, 1225 oraz 214, 1346, 223, 1463 234,
+**Art. 33.** W ustawie dnia 25 sierpnia 2006 o bezpieczeństwie żywności żywienia (Dz. U. 171, 1225 oraz 2008 214, 1346, 223, 1463 234,
 
-**Art. 34.** W ustawie dnia 29 czerwca 2007 o zasadach pokrywania kosztów powstałych u wytwórców w związku przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy energii elektrycznej (Dz. U. 130, 905 oraz 58, 357) w art. 11 uchyla się ust. 4.
+**Art. 34.** W ustawie dnia 29 czerwca 2007 o zasadach pokrywania kosztów powstałych u wytwórców w związku przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy energii elektrycznej (Dz. U. 130, 905 oraz 2008 58, 357) w art. 11 uchyla się ust. 4.
 
 **Art. 35.** W ustawie dnia 7 września 2007 o pomocy osobom uprawnionym do alimentów (Dz. U. 2009 1, 7, 6, 33 97, 800) w art. 15 ust. 9 10 otrzymują brzmienie: „9. Minister właściwy do spraw zabezpieczenia spo łecznego określi, w drodze rozporządzenia: funduszu alimentacyjnego wstrzymywania jego wypłaty;
 

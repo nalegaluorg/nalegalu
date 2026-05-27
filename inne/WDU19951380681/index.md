@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o rewaloryzacji emerytur rent, oraz o zmianie niektórych ustaw W ustawie z dnia 17 października 1991 r. o rewaloryzacji emerytur rent, o zasadach ustalania emerytur rent oraz o zmianie niektórych ustaw (Dz.U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385 oraz z r. Nr 4, poz. 17 1 Nr 95, poz. 473) wprowadza się następujące
+# o zmianie ustawy o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,31 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1995-09-29 |
 | Data wydania | 1995-12-06 |
+| Wejście w życie | 1996-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19951380681) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1995/681/text.pdf) |
 
-l) wart. 7:
-a) ust. 5 pkt 4 otrzymuje brzmienie: "4) mnoży się przez ten wskaźnik kwotę bazową, o której mowa ust. 91
-b) dodaje się ust. 9 10 brzmieniu: "9, Kwota bazowa wynosi 93% przeciętnego miesięcznego wynagrodzenia kwartale kalendarzowym poprzedzającym termin waloryzacji, z uwzględnieniem ust. 10.
-10. Podwyższenie kwoty bazowej następuje od pierwszego dnia miesiąca, którym jest przeprowadzana waloryzacja. Poczynając od pierwszej waloryzacji 1996 r. wskaźnik procentowy, o którym mowa ust. 9, ulega podwyższeniu o jeden punkt procentowy każdym terminie waloryzacji, aż do osiągnięcia kwoty bazowej równej 100% przeciętnego miesięcznego wynagrodzenia".;
-2) art. 8 otrzymuje brzmienie: "Art. 8. 1. Podstawę wymiaru emerytury dla osoby, która wcześniej miała ustalone prawo do renty inwalidzkiej na podstawie przepisów wymienionych art. 1, stanowi:
-l) podstawa wymiaru renty inwalidzkiej - wysokości uwzględniającej wszystkie kolejne waloryzacje przypadające okresie następującym po ustaleniu prawa do renty inwalidzkiej albo
-2) podstawa wymiaru ustalona na nowo myśl art. 7.
-2. Przepis ust. l pkt 1 stosuje się przy ustalaniu podstawy wymiaru: na podstawie przepisów wymienionych art. 1.';
-3) art. 16 otrzymuje brzmienie: "Art. 16. 1. Kwoty najniższych emerytur rent - bez uwzględnienia dodatków, o których mowa art. 21 - wynoszą:
-1) 39% przeciętnego wynagrodzenia kwartale kalendaemerytur rent r. - przypadku emerytury, renty rodzinnej renty inwalidzkiej dla inwalidy I lub II grupy,
-2) 30% przeciętnego wynagrodzenia kwartale kalendaemerytur rent r. - przypadku renty inwalidzkiej dla inwalidy III grupy.
-2. Kwoty najniższych emerytur rent, o których mowa ust. 1, podwyższa się przy zastosowaniu wskaźnika waloryzacji od miesiąca, którym jest przeprowadzana waloryzacja.
-3. Kwota najniższej renty inwalidzkiej z tytułu wypadku przy pracy lub choroby zawodowej oraz renty rodzinnej przysługującej członkom rodziny pozostałym po ubezpieczonym lub renciście, który zmarł wskutek wypadku przy pracy lub choroby zawodowej, wynosi 120% kwoty najniższych świadczeń określonych ust. I, podwyższonych zgodnie z ust. 2.
-4. Emerytury renty ustalone kwotach niższych niż określone ust. 1 1 2 podwyższa się do tych kwot z urzędu, a jeżeli ich wypłata była wstrzymana - po wznowieniu wypłaty.
-5. Przepisy art. 19 stosuje się odpowiednio.';
-4) po art. 17 dodaje się art. 17! 17? brzmieniu: "Art. 17!. 1. W 1996r. emerytury renty podlegają waloryzacji poprzez podwyższenie kwoty świadczenia przysługującego dniu 31 sierpnia 1996 r. wskaźnikiem waloryzacji określonym ustawie budżetowej na 1996 r.
-2. Wskaźnik waloryzacji, o którym mowa ust. 1, ustala się taki sposób, aby zapewnił on 1996 r., porównaniu do r., realny wzrost emerytur rent wynoszący co najmniej 2,5%, po uwzględnieniu wzrostu kwoty bazowej, przewidzianego art. 7 ust. 10.
-3. Podwyżki, o których mowa ust. 1, przeprowadza się od dnia 1 września 1996 r.
-1997 r. nastąpi jednorazowa wypłata wysokości zapewniającej osiągnięcie tego wzrostu. Ustalenie kwoty jednorazowej wypłaty następuje przez pomnożenie kwoty zwaloryzowanej 1996 r. emerytury 1 renty przez wskaźnik weryfikacyjny. Kwota jednorazowej wypłaty będzie oprocentowana planowanym wskaźnikiem wzrostu cen towarów 1 usług konsumpcyjnych na I kwartał 1997r.
-6. Prezes Rady Ministrów określi, drodze rozporządzenia, wskaźnik weryfikacyjny oraz szczegółowe zasady jednorazowej wypłaty, o których mowa ust. 5.
-7. Wzrost, o którym mowa ust. 5, liczony jest jako iloraz wskaźnika nominalnego wzrostu przeciętnej emerytury renty brutto przez średnioroczny wskaźnik wzrostu cen towarów usług konsumpcyjnych ogłoszony przez Prezesa Głównego Urzędu Statystycznego.
-8. Prezes Głównego Urzędu Statystycznego ogłosi Dzienniku Urzędowym Rzeczypospolitej Polskiej "Monitor Polski" terminie do dnia 15 lutego 1997 r. realny wzrost emerytur
+**Art. 1.** W ustawie z dnia 17 października 1991 r. o rewaloryzacji emerytur i rent, o zasadach ustalania emerytur i rent oraz o zmianie niektórych ustaw (Dz.U. Nr 104, poz. 450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 127, poz. 583 i Nr 129, poz. 602, z 1994 r. Nr 84, poz. 385 oraz z r. Nr 4, poz. 17 i Nr 95, poz. 473) wprowadza się następujące
 
-**Art. 172.** W zakresie uregulowanym art. 17! nie stosuje się 1996r. przepisów art. 17.";
+**Art. 177.** W zakresie uregulowanym art. 17! nie stosuje się 1996 r.
+
+**Art. 33.** Jeżeli po dniu 31 grudnia r. emeryt lub rencista zgłosi wniosek o ponowne ustalenie wysokości Świadczenia przez ustalenie podstawy wymiaru na nowo myśl art. 7, wysokość podstawy wymiaru emerytury i renty ustala się ponownie, jeżeli obliczony myśl art. 7 nowy wskaźnik wysokości podstawy wymiaru jest wyższy od wcześniej obli9) art. 34 otrzymuje brzmienie: "Art. 34. Zasiłek pogrzebowy przysługuje wysokości określonej przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa. ". pujące zmiany: I) wart. 11 ust. 1 i 2 otrzymują brzmienie: "|. Podstawę wymiaru renty inwalidzkiej dniu jej przyznania stanowi kwota bazowa służąca do obliczania podstawy wymiaru emerytury i renty na podstawie przepisów o zaopatrzeniu emerytalnym pracowni2. Podstawa wymiaru renty inwalidzkiej ulega podwyższeniu na zasadach 1 terminach określonych dla emerytur i rent przysługujących na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich ro2) wart. 25 ust. 2 otrzymuje brzmienie: "2. Podstawę wymiaru renty rodzinnej ustala się myśl art. Il, ztym że przypadku renty rodzinnej przyznanej po zmarłym inwalidzie wojennym pobierającym rentę inwalidzką, o której mowa art. 10, podstawę kiej wysokości uwzględniającej wszystkie kolejne waloryzacje przypadające okresie poprzedzającym ustalenie prawa do renty rodzin3) art. 46 otrzymuje brzmienie: "Art. 46. Podstawę wymiaru renty rodzinnej ustala się myśl art. 11, z tym że przypadku renty rodzinnej przyznanej po zmarłym inwalidzie wojskowym pobierającym rentę inwalidzką, o stanowi podstawa wymiaru tej renty inwalidzkiej wysokości uwzględniającej wszystkie kolejne waloryzacje przypadające okresie poprzedzającym ustalenie prawa do renArt. 3. W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. Nr 3, poz. 19, Nr 25, poz. 187 i Nr 31, poz. 214, z 1983r. Nr 5, poz. 33, z 1988 r. Nr 19, poz. 132, z 206 i Nr 72, poz. 423, z 1991 r. Nr 95, poz. 425 i Nr 104, poz. 450, z 1992 r. Nr 53, poz. 252, Nr 54, poz. 254 i Nr 90, poz. 451, z 1993 r. Nr 129, poz. 602 oraz z 1994 r. Nr 43, poz. 163, Nr 105, poz. 509 i Nr 113, poz. 547) art. 90:
+
+**Art. 4.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będą104, poz. 450, z 1992 r. Nr 21, poz. 85, z 1993 r. Nr 29, poz. 133, Nr 129, poz. 602 i Nr 134 poz. 645, z 1994 r. nr 99, poz. 482 oraz z r. Nr 4, poz.17) art. 15:
 

@@ -31,7 +31,7 @@ poz. 1588), który stanowi: „Art. 12. Ustawa wchodzi życie po upływie 14 dni
 Marszałek Sejmu: S. Hołownia
 USTAWA 7 kwietnia 2017 czasie pracy statkach żeglugi śródlądowej
 
-**Art. 1.** Ustawę stosuje się do osób wykonujących pracę żeglugi śródlądowej zatrudnionych podstawie umowy pracę jako członkowie załogi lub personel pokładowy, zwanych dalej „pracownikami”. Art. Ilekroć ustawie jest o: członku załogi należy przez to rozumieć członka załogi, ustawie 21 grudnia 2000 żegludze śródlądowej U. 2022 poz. 1097 i 2642 oraz 2023 poz. 1588 i 2029);
+**Art. 1.** Ustawę stosuje się do osób wykonujących pracę żeglugi śródlądowej zatrudnionych podstawie umowy pracę jako członkowie załogi lub personel pokładowy, zwanych dalej „pracownikami”. Art. Ilekroć ustawie jest o:
 
 **Art. 3.** Czasem pracy żeglugi śródlądowej jest czas, pracownik polecenie pracodawcy wykonuje pracę statku. Pozostawanie gotowości do wykonywania pracy żeglugi śródlądowej wlicza się do czasu pracy.
 
@@ -49,14 +49,16 @@ USTAWA 7 kwietnia 2017 czasie pracy statkach żeglugi śródlądowej
 
 **Art. 6.**
 
-1. Czas pracy żeglugi śródlądowej łącznie godzinami nadliczbowymi nie może przekraczać: 14 godzin każdym okresie 24-godzinnym oraz
+1. Czas pracy żeglugi śródlądowej łącznie godzinami nadliczbowymi nie może przekraczać:
 
+- **1)** 14 godzin każdym okresie 24-godzinnym oraz
 - **2)** 84 godzin każdym okresie 7-dniowym. Jeżeli rozkład czasu pracy przewiduje większą liczbę dni pracy niż liczba dni odpoczynku, wówczas przeciętny tygodniowy czas pracy żeglugi śródlądowej okresie 4 kolejnych miesięcy nie może przekraczać 72 godzin.
 
 **Art. 7.**
 
-1. Jeżeli rozkład czasu pracy przewiduje mniejszą lub równą liczbę dni pracy stosunku do liczby dni odpoczynku, wówczas pracownikowi przysługuje bezpośrednio po kolejnych dniach pracy równoważna liczba kolejnych dni odpoczynku. Przepisu ust. 1 nie stosuje się, jeżeli rozkładzie czasu pracy: pracownikowi zapewniono okres odpoczynku, art. 133 26 czerwca 1974 Kodeks pracy, oraz
+1. Jeżeli rozkład czasu pracy przewiduje mniejszą lub równą liczbę dni pracy stosunku do liczby dni odpoczynku, wówczas pracownikowi przysługuje bezpośrednio po kolejnych dniach pracy równoważna liczba kolejnych dni odpoczynku. Przepisu ust. 1 nie stosuje się, jeżeli rozkładzie czasu pracy:
 
+- **1)** pracownikowi zapewniono okres odpoczynku, art. 133 26 czerwca 1974 Kodeks pracy, oraz
 - **2)** bezpośrednio po kolejnych dniach pracy pracownikowi zapewniono minimalną liczbę dni odpoczynku zgodnie ust. 3, oraz
 - **3)** zwiększona lub zmniejszona liczba dni pracy została wyrównana stosunku do liczby dni odpoczynku okresie rozliczeniowym.
 
@@ -64,14 +66,16 @@ USTAWA 7 kwietnia 2017 czasie pracy statkach żeglugi śródlądowej
 
 **Art. 8.**
 
-1. Czas pracy sezonie pasażerskim łącznie godzinami nadliczbowymi nie może przekraczać: 12 godzin każdym okresie 24-godzinnym oraz
+1. Czas pracy sezonie pasażerskim łącznie godzinami nadliczbowymi nie może przekraczać:
 
+- **1)** 12 godzin każdym okresie 24-godzinnym oraz
 - **2)** 72 godzin każdym okresie 7-dniowym. Za każdy dzień pracy sezonie pasażerskim pracownikowi przysługuje bezpośrednio po kolejnych dniach pracy 0,2 odpoczynku. Do ustalania liczby dni odpoczynku przysługujących pracownikowi wykonującemu pracę sezonie pasażerskim przepis art. 7 ust. 3 zdanie drugie stosuje się.
 
 **Art. 9.**
 
-1. Pora nocna żeglugi śródlądowej obejmuje 7 godzin między godzinami 23 6 . Czas pracy porze nocnej żeglugi śródlądowej nie może przekraczać: 7 godzin każdym okresie 24-godzinnym oraz
+1. Pora nocna żeglugi śródlądowej obejmuje 7 godzin między godzinami 23 6 . Czas pracy porze nocnej żeglugi śródlądowej nie może przekraczać:
 
+- **1)** 7 godzin każdym okresie 24-godzinnym oraz
 - **2)** 42 godzin każdym okresie 7-dniowym.
 
 3. Pracowników wykonujących pracę porze nocnej, którzy zostali uznani za niezdolnych do wykonywania pracy porze nocnej podstawie świadectwa zdrowia, art. 36b ust. 2 21 grudnia 2000 żegludze śródlądowej, przenosi się do wykonywania pracy zgodnej zajmowanym stanowiskiem poza porę nocną.
@@ -82,8 +86,9 @@ USTAWA 7 kwietnia 2017 czasie pracy statkach żeglugi śródlądowej
 
 **Art. 11.**
 
-1. Pracodawca zakłada i prowadzi odrębnie dla każdego pracownika ewidencję czasu pracy żeglugi śródlądowej, zwaną dalej „ewidencją”. Ewidencja zawiera co najmniej następujące dane: nazwę żeglugi śródlądowej;
+1. Pracodawca zakłada i prowadzi odrębnie dla każdego pracownika ewidencję czasu pracy żeglugi śródlądowej, zwaną dalej „ewidencją”. Ewidencja zawiera co najmniej następujące dane:
 
+- **1)** nazwę żeglugi śródlądowej;
 - **2)** imię i nazwisko pracownika;
 - **3)** imię i nazwisko kapitana żeglugi śródlądowej;
 - **4)** wskazanie okresu, ewidencja jest prowadzona;

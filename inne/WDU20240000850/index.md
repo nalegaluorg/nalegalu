@@ -24,13 +24,14 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-05-09 |
 | Data wydania | 2024-06-10 |
+| Wejście w życie | 2024-06-25 |
 | Ostatnia zmiana | 2024-06-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/850/text.pdf) |
 
 zm. ) wprowadza się następujące zmiany:
 1) 2 1:
-a) po pkt 8 dodaje się pkt 8a brzmieniu: „8a) wykonywanie zadań określonych rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/821 17 maja 2017 ustanawiającym obowiązki zakresie należytej staranności łańcuchu dostaw unijnych importerów cyny, tantalu i wolframu, ich rud oraz złota pochodzących obszarów dotkniętych konfliktami i obszarów wysokiego ryzyka (Dz. 130 19.05.2017, 1, późn. zm. ), zwanym dalej „rozporządzeniem 2017/821”;”,
-b) po pkt 11 dodaje się pkt 11a brzmieniu: „11a) wykonywanie zadań określonych rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1672 23 października 2018 sprawie kontroli pieniężnych wwożonych Unii lub wywożonych Unii oraz uchylającym rozporządzenie (WE) nr 1889/2005 (Dz. 284 12.11.2018, 6, późn. zm. ), zwanym dalej „rozporządzeniem 2018/1672”;”;
+a) po pkt 8 dodaje się pkt 8a brzmieniu: „8a) wykonywanie zadań określonych rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2017/821 17 maja 2017 ustanawiającym obowiązki zakresie należytej staranności łańcuchu dostaw unijnych importerów cyny, tantalu i wolframu, ich rud oraz złota pochodzących obszarów dotkniętych konfliktami i obszarów wysokiego ryzyka (Dz. L 130 19.05.2017, 1, późn. zm. ), zwanym dalej „rozporządzeniem 2017/821”;”,
+b) po pkt 11 dodaje się pkt 11a brzmieniu: „11a) wykonywanie zadań określonych rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1672 23 października 2018 sprawie kontroli pieniężnych wwożonych Unii lub wywożonych Unii oraz uchylającym rozporządzenie (WE) nr 1889/2005 (Dz. L 284 12.11.2018, 6, późn. zm. ), zwanym dalej „rozporządzeniem 2018/1672”;”;
 2) 14 1:
 a) po pkt 7 dodaje się pkt 7a brzmieniu: „7a) wykonywanie zadań określonych rozporządzeniu 2017/821, tym kontroli ex post, o której mowa 11 2017/821, zwanej dalej „kontrolą ex post”;”,
 b) po pkt 18b dodaje się pkt 18c brzmieniu: „18c) wykonywanie zadań, o których mowa 10 1 lit. d oraz 18 2 2018/1672;”;
@@ -63,7 +64,7 @@ cyny, tantalu i wolframu, ich rud oraz złota pochodzących obszarów dotknięty
 2) przepisy 12, 102 § 2 i 3, 135, 140 § 2, 283 § 4 i 5, 286a § 1 i 2, 290 § 4–6 i 291d oraz działu IV rozdziałów 1, 2, 3a, 5, 6, 10 i 11, wyjątkiem 182–185, 190 § 1, 198 i 200, oraz działu VII Ordynacji podatkowej.”.
 2. W ustawie 10 września 1999 – Kodeks karny skarbowy (Dz. U. 2024 poz. 628) wprowadza się następujące zmiany:
 1) 3 § 4 wyrazy „przepis stosuje się odpowiednio, jeżeli wykroczenie skarbowe określone 106e, 106f i 106h popełnione zostało za granicą” zastępuje się wyrazami „przepis stosuje się odpowiednio, jeżeli przestępstwo skarbowe określone 106f § 1 lub wykroczenie skarbowe określone 106e, 106f § 2 i 106h zostało popełnione za granicą”;
-2) 53 po § 34 dodaje się § 34a brzmieniu: „§ 34a. Użyte rozdziale 8 kodeksu określenie „środki pieniężne wwożone Unii Europejskiej lub wywożone Unii Europejskiej” ma znaczenie nadane mu rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1672 23 października 2018 sprawie kontroli pieniężnych wwożonych Unii lub wywożonych Unii oraz uchylającym rozporządzenie (WE) nr 1889/2005 (Dz. 284 12.11.2018, 6, późn. zm. ).”;
+2) 53 po § 34 dodaje się § 34a brzmieniu: „§ 34a. Użyte rozdziale 8 kodeksu określenie „środki pieniężne wwożone Unii Europejskiej lub wywożone Unii Europejskiej” ma znaczenie nadane mu rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2018/1672 23 października 2018 sprawie kontroli pieniężnych wwożonych Unii lub wywożonych Unii oraz uchylającym rozporządzenie (WE) nr 1889/2005 (Dz. L 284 12.11.2018, 6, późn. zm. ).”;
 3) 106f otrzymuje brzmienie: „Art. 106f. § 1. Kto wbrew obowiązkowi nie zgłasza organom celnym pieniężnych wwożonych Unii Europejskiej lub wywożonych Unii Europejskiej albo zgłoszeniu tym podaje nieprawdę, podlega karze grzywny 720 stawek dziennych.
 podlega karze grzywny za wykroczenie skarbowe.”;
 5) 134 § 1 pkt 1 otrzymuje brzmienie: „1) Straż Graniczna – sprawach o przestępstwa skarbowe i wykroczenia skarbowe określone 63–71, 85–95 i 96 § 1, ujawnione zakresie swego działania przez Straż Graniczną;”.

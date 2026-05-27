@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2025-12-29 |
+| Wejście w życie | 2026-01-29 |
 | Ostatnia zmiana | 2026-02-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001872) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1872/text.pdf) |
 
@@ -31,7 +32,7 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie z dnia czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383 i 1818) wprowadza następujące zmiany:
 
-**Art. 178d.** Kto prowadzi mechaniczny rażąco przekraczając prędkość oraz rażąco naruszając inne zasady bezpieczeństwa lądowym i przez to naraża człowieka bezpośrednie niebezpieczeństwo utraty życia albo nastąpienie skutku określonego 156 157 1, podlega pozbawienia wolności od miesięcy do lat 5.”.
+**Art. 178d.** Kto prowadzi mechaniczny rażąco przekraczając prędkość oraz rażąco naruszając inne zasady bezpieczeństwa lądowym i przez to naraża człowieka na bezpośrednie niebezpieczeństwo utraty życia albo nastąpienie skutku określonego 156 157 1, podlega pozbawienia wolności od miesięcy do lat 5.”.
 
 **Art. 3.** W ustawie z dnia czerwca 1997 r. – Kodeks postępowania karnego (Dz. U. z 2025 r. poz. 46, 304, 1178 i 1420) 295 1a 1a. W razie popełnienia przestępstwa, za które orzeka przepadek pojazdu mechanicznego, o którym mowa 44b 1a Kodeksu karnego, Policja dokonuje tymczasowego zajęcia pojazdu mechanicznego prowadzonego przez sprawcę czasie popełnienia tego przestępstwa.”.
 
@@ -43,7 +44,7 @@ source: "isap-pdf"
 
 **Art. 7.** W ustawie z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U. z 2024 r. poz. 978 i 1228) 7 8 skreśla wyrazy „albo równowartości pojazdu”.
 
-**Art. 8.** Z dniem wejścia życie niniejszej ustawy tymczasowe zajęcie pojazdu mechanicznego dokonane podstawie 295 1a ustawy zmienianej brzmieniu dotychczasowym upada wobec sprawcy, którego organizmie zawartość alkoholu była wyższa niż promil we krwi 0,5 mg/dm wydychanym powietrzu albo prowadziła do takiego stężenia, a niższa niż 1,5 promila we krwi 0,75 mg/dm wydychanym powietrzu albo prowadziła do takiego stężenia. Zajęty mechaniczny zwraca osobie uprawnionej, chyba że Policja dokona tymczasowego zajęcia pojazdu mechanicznego podstawie 295 ustawy zmienianej 3.
+**Art. 8.** Z dniem wejścia życie niniejszej ustawy tymczasowe zajęcie pojazdu mechanicznego dokonane na podstawie 295 1a ustawy zmienianej brzmieniu dotychczasowym upada wobec sprawcy, którego organizmie zawartość alkoholu była wyższa niż promil we krwi 0,5 mg/dm wydychanym powietrzu albo prowadziła do takiego stężenia, a niższa niż 1,5 promila we krwi 0,75 mg/dm wydychanym powietrzu albo prowadziła do takiego stężenia. Zajęty mechaniczny zwraca osobie uprawnionej, chyba że Policja dokona tymczasowego zajęcia pojazdu mechanicznego na podstawie 295 ustawy zmienianej 3.
 
 **Art. 9.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem 4 1, i 4 oraz 6, które wchodzą życie po upływie miesięcy od dnia ogłoszenia.
 

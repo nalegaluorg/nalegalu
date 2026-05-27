@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-08-29 |
 | Data wydania | 2003-09-22 |
+| Wejście w życie | 2003-10-07 |
 | Ostatnia zmiana | 2025-12-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661612) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1612/text.pdf) |
 

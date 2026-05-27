@@ -22,11 +22,12 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-12-06 |
 | Data wydania | 2018-12-27 |
+| Wejście w życie | 2019-01-11 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180002432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/2432/text.pdf) |
 
 zm. ) wprowadza następujące zmiany:
-1) 831 § 1 po pkt 1 dodaje pkt 1a brzmieniu: „1a) 50% kwot diet przysługujących tytułu podróży służbowych – jeżeli egzekucja ma na celu zaspokojenie roszczeń tytułu alimentów, tym należności budżetu państwa tytułu wypłacanych przypadku bezskuteczności alimentów;”;
+1) 831 § 1 po pkt 1 dodaje pkt 1a brzmieniu: „1a) 50% kwot diet przysługujących podróży służbowych – jeżeli egzekucja ma na celu zaspokojenie roszczeń alimentów, tym należności budżetu państwa wypłacanych bezskuteczności egzekucji alimentów;”;
 2) 886 § 1 otrzymuje brzmienie: „§ Pracodawcy, który nie wykonał obowiązków określonych 881 § 3 4, nie złożył przepisanym terminie oświadczenia przewidzianego 882 albo zaniedbał przesłania dokumentów zajęcia wynagrodzenia nowemu pracodawcy dłużnika, stosownie do 884 § 2 3, komornik wymierza grzywnę wysokości do pięciu tysięcy złotych. Grzywna jest powtarzana, jeżeli pracodawca nadal uchyla od wykonania tych czynności dodatkowo wyznaczonym terminie.”;
 3) 1052 zdanie pierwsze otrzymuje brzmienie: „W jednym postanowieniu sąd może wymierzyć grzywnę nie wyższą niż piętnaście tysięcy złotych, chyba że dwukrotne wymierzenie grzywny okazało nieskuteczne.”.
 

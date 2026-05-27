@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1985-03-21 |
 | Data wydania | 1985-04-15 |
+| Wejście w życie | 1985-09-30 |
 | Ostatnia zmiana | 2026-01-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19850140060) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1985/60/text.pdf) |
 

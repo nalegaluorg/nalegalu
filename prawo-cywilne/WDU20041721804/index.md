@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-07-02 |
 | Data wydania | 2004-08-04 |
+| Wejście w życie | 2005-02-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041721804) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1804/text.pdf) |
 

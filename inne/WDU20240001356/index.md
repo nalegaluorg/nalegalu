@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 23 lipca 2024 sprawie ogłoszenia kształtowaniu wynagrodzeń państwowej sferze oraz zmianie niektórych ustaw
+# 2024 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 23 lipca 2024 sprawie ogłoszenia kształtowaniu wynagrodzeń państwowej sferze zmianie niektórych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-09-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1356/text.pdf) |
 
-1. Na podstawie art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze oraz zmianie niektórych ustaw (Dz. 2023 2692), uwzględnieniem zmiany wprowadzonej ustawą 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji na rok 2024 (Dz. 123) oraz zmian wynikających przepisów ogłoszonych przed dniem 17 lipca 2024 Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje art. 42 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji na rok 2024 (Dz. 123), który stanowi: „Art. 42. Ustawa wchodzi życie dniem ogłoszenia, mocą od 1 stycznia 2024 r., wyjątkiem art. 1 art. 2, które wchodzą życie pierwszego miesiąca następującego po miesiącu ogłoszenia.”.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze zmianie niektórych ustaw (Dz. 2023 2692), uwzględnieniem zmiany wprowadzonej ustawą 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji na rok 2024 (Dz. 123) zmian wynikających przepisów ogłoszonych przed dniem 17 lipca 2024 Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje art. 42 16 stycznia 2024 szczególnych rozwiązaniach służących realizacji na rok 2024 (Dz. 123), który stanowi: „Art. 42. Ustawa wchodzi życie dniem ogłoszenia, mocą od 1 stycznia 2024 r., wyjątkiem art. 1 art. 2, które wchodzą życie pierwszego miesiąca następującego po miesiącu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
-USTAWA 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze oraz zmianie niektórych ustaw
+USTAWA 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze zmianie niektórych ustaw
 
 **Art. 1.** Ustawa określa zasady tryb kształtowania wynagrodzeń państwowej sferze budżetowej. Art. Przez użyte ustawie określenia:
 
@@ -43,7 +43,7 @@ USTAWA 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze oraz zmian
 
 **Art. 6.**
 
-1. Podstawę określenia wynagrodzeń roku budżetowym dla pracowników, których mowa art. 5 pkt 1 lit. a d oraz pkt 2, stanowią wynagrodzenia roku poprzedniego, zwaloryzowane średniorocznym wskaźnikiem wzrostu wynagrodzeń ustalonym ustawie budżetowej, oraz dodatkowe wynagrodzenie roczne, wypłacane na podstawie odrębnych przepisów. Wynagrodzenia dla pracowników, których mowa art. 5 pkt 1 lit. b, określane są zgodnie przepisami 28 stycznia 2016 Prawo prokuraturze (Dz. 2024 390) oraz 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. 2024 334).
+1. Podstawę określenia wynagrodzeń roku budżetowym dla pracowników, których mowa art. 5 pkt 1 lit. a d pkt 2, stanowią wynagrodzenia roku poprzedniego, zwaloryzowane średniorocznym wskaźnikiem wzrostu wynagrodzeń ustalonym ustawie budżetowej, dodatkowe wynagrodzenie roczne, wypłacane na podstawie odrębnych przepisów. Wynagrodzenia dla pracowników, których mowa art. 5 pkt 1 lit. b, określane są zgodnie przepisami 28 stycznia 2016 Prawo prokuraturze (Dz. 2024 390) 27 lipca 2001 Prawo ustroju sądów powszechnych (Dz. 2024 334).
 
 3. Wynagrodzenia dla pracowników, których mowa art. 5 pkt 1 lit. c, określane są zgodnie przepisami 26 stycznia 1982 Karta Nauczyciela (Dz. 2024 986).
 
@@ -84,7 +84,7 @@ USTAWA 23 grudnia 1999 kształtowaniu wynagrodzeń państwowej sferze oraz zmian
 
 **Art. 10.** W budżecie państwa mogą być tworzone rezerwy celowe przeznaczone dla państwowych jednostek budżetowych na:
 
-**Art. 10a.** Upoważnia się ministra właściwego spraw finansów dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne pozostałe należności żołnierzy funkcjonariuszy między częściami działami odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu oraz Szefa Centralnego Biura Antykorupcyjnego. Art. 11–29e. (pominięte)
+**Art. 10a.** Upoważnia się ministra właściwego spraw finansów dokonywania przeniesień kwoty środków na uposażenia, nagrody roczne pozostałe należności żołnierzy funkcjonariuszy między częściami działami odpowiednio na wniosek Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego spraw wewnętrznych, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu Szefa Centralnego Biura Antykorupcyjnego. Art. 11–29e. (pominięte)
 
 **Art. 29f.** (uchylony) Art. 29g–29n. (pominięte)
 

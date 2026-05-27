@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-05-13 |
-| Ostatnia zmiana | 2026-05-14 |
+| Wejście w życie | 2027-01-01 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000637) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/637/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2024 r. poz. 1571, z późn. zm. ) wprowadza się następujące zmiany:

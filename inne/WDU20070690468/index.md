@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-04-02 |
 | Data wydania | 2007-04-18 |
+| Wejście w życie | 2007-04-18 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070690468) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/468/text.pdf) |
 

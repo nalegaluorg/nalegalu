@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-10-18 |
 | Data wydania | 2024-11-15 |
+| Wejście w życie | 2025-01-01 |
 | Ostatnia zmiana | 2026-02-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001674) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1674/text.pdf) |
 
@@ -33,7 +34,7 @@ source: "isap-pdf"
 
 1. W przypadku gdy osoba posiadająca obywatelstwo polskie, która ukończyła 100 lat życia, nie ma prawa do świadczenia, którym 2, świadczenie honorowe przysługuje na jej wniosek, jeżeli osoba ta posiada po ukończeniu
 
-16. roku życia centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych), którym 3 1a pkt 1 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 226, późn. zm. ), na terytorium Rzeczypospolitej Polskiej przez okres co najmniej 10 lat.
+16. roku życia centrum interesów osobistych lub gospodarczych (ośrodek interesów życiowych), którym 3 1a pkt 1 26 lipca 1991 podatku dochodowym od osób fizycznych 226, późn. zm. ), na terytorium Rzeczypospolitej Polskiej przez okres co najmniej 10 lat.
 
 2. Wniosek, którym 1, składa się do Zakładu Ubezpieczeń Społecznych.
 
@@ -55,7 +56,7 @@ source: "isap-pdf"
 
 5. Oświadczenie, którym 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
-6. Wniosek, którym 1, oraz oświadczenie, którym 4, mogą zostać złożone za pomocą profilu informacyjnego utworzonego systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, postaci dokumentu elektronicznego. Do wniosku oraz oświadczenia złożonego tej postaci stosuje się 47c, 71ab 71ac 13 października 1998 systemie ubezpieczeń społecznych (Dz. 497, 863, 1243 1615).
+6. Wniosek, którym 1, oraz oświadczenie, którym 4, mogą zostać złożone za pomocą profilu informacyjnego utworzonego systemie teleinformatycznym udostępnionym przez Zakład Ubezpieczeń Społecznych, postaci dokumentu elektronicznego. Do wniosku oraz oświadczenia złożonego tej postaci stosuje się 47c, 71ab 71ac 13 października 1998 systemie ubezpieczeń społecznych 497, 863, 1243 1615).
 
 7. Prawo do świadczenia honorowego ustala się od miesiąca złożenia wniosku, którym 1, nie wcześniej niż od miesiąca ukończenia 100 lat życia.
 
@@ -75,7 +76,7 @@ source: "isap-pdf"
 
 1. Decyzje sprawie świadczenia honorowego sporządzone wykorzystaniem systemu teleinformatycznego mogą zamiast podpisu zawierać nadruk imienia nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do ich wydania.
 
-2. Od decyzji sprawie świadczenia honorowego stronie przysługuje prawo do wniesienia do organu, który wydał decyzję, wniosku ponowne rozpatrzenie sprawy na zasadach dotyczących decyzji wydanej pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od decyzji, określone ustawie 14 czerwca 1960 – Kodeks postępowania administracyjnego (Dz. 572).
+2. Od decyzji sprawie świadczenia honorowego stronie przysługuje prawo do wniesienia do organu, który wydał decyzję, wniosku ponowne rozpatrzenie sprawy na zasadach dotyczących decyzji wydanej pierwszej instancji przez ministra. Do wniosku stosuje się odpowiednio przepisy dotyczące odwołań od decyzji, określone ustawie 14 czerwca 1960 – Kodeks postępowania administracyjnego 572).
 
 3. W przypadku decyzji sprawie świadczenia honorowego wydanych przez Zakład Ubezpieczeń Społecznych wniosek, którym 2, składa się do Prezesa Zakładu Ubezpieczeń Społecznych.
 
@@ -83,13 +84,13 @@ source: "isap-pdf"
 
 1. Dla celów podatku dochodowego od osób fizycznych świadczenie honorowe stanowi świadczenie, którym 12 7 26 lipca 1991 podatku dochodowym od osób fizycznych.
 
-2. Do kwoty świadczenia honorowego stosuje się odpowiednio 66 1 pkt 16, 81 8 pkt 2, 83 1 85 9–11 27 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. 146, 858, 1222, 1593 1615).
+2. Do kwoty świadczenia honorowego stosuje się odpowiednio 66 1 pkt 16, 81 8 pkt 2, 83 1 85 9–11 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych 146, 858, 1222, 1593 1615).
 
 **Art. 9.** W sprawach nieuregulowanych niniejszej ustawie stosuje się przepisy:
 
-**Art. 12.** W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz.
+**Art. 12.** W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych
 
-**Art. 13.** W ustawie 26 lipca zmianie emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw (Dz. 1243) wprowadza się następujące zmiany:
+**Art. 13.** W ustawie 26 lipca zmianie emeryturach rentach Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw 1243) wprowadza się następujące zmiany:
 
 **Art. 14.**
 

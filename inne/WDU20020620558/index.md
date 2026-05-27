@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-04-18 |
 | Data wydania | 2002-05-22 |
+| Wejście w życie | 2002-06-22 |
 | Ostatnia zmiana | 2025-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.pdf) |
 

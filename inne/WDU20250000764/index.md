@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-05-21 |
 | Data wydania | 2025-06-11 |
-| Ostatnia zmiana | 2026-01-21 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000764) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/764/text.pdf) |
 
 Art. 16–30. (pominięte)
@@ -889,15 +889,12 @@ Art. 16–30. (pominięte)
 2. Środki Funduszu Zwrotów pochodzą z:
 
 - **1)** wpłat z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw turystyki;
-- **2)** odsetek od lokat okresowo wolnych środków Funduszu Zwrotów zdeponowanych w bankach oraz odsetek od środków przekazanych w depozyt zgodnie z ust. 3 pkt 2;
+- **2)** odsetek od wolnych środków Funduszu Zwrotów przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, oraz odsetek od lokat wolnych środków Funduszu Zwrotów w walutach obcych, o których mowa w ust. 3a;
 - **3)** wpłaty z Funduszu Przeciwdziałania COVID-19;
 - **4)** zwrotów wypłat, o których mowa w art. 15ka ust. 1, dokonanych przez organizatorów turystyki zgodnie z ust. 7;
 - **5)** wpłat z innych tytułów.
 
-3. Okresowo wolne środki Funduszu Zwrotów Bank Gospodarstwa Krajowego może lokować w:
-
-- **1)** innych bankach;
-- **2)** formie depozytu, o którym mowa w art. 78b ust. 2 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+3. (uchylony) 3a. Wolne środki Funduszu Zwrotów w walutach obcych mogą być lokowane w bankach.
 
 4. Kosztami Funduszu Zwrotów są:
 

@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-13 |
 | Data wydania | 2026-05-07 |
-| Ostatnia zmiana | 2026-05-08 |
+| Wejście w życie | 2026-05-22 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/615/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. z 2026 r. poz. 95) wprowadza następujące zmiany:

@@ -25,10 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-12-13 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001835) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1835/text.pdf) |
 
-1. Na podstawie 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych nieinnych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 14 lipca 2000 restrukturyzacji finansowej górnictwa siarki (Dz. 2016 1752), uwzględnieniem zmiany wprowadzonej ustawą 15 maja 2024 zmianie niektórych ustaw związanych funkcjonowaniem administracji rządowej (Dz. 834) oraz zmian wynikających przepisów ogłoszonych przed dniem 3 grudnia 2024
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 84 15 maja 2024 zmianie niektórych ustaw związanych funkcjonowaniem administracji rządowej (Dz. 834), który stanowi: „Art. 84. Ustawa wchodzi życie pierwszego miesiąca następującego po miesiącu ogłoszenia, wyjątkiem:
-1) 65 ust. 2 73 ust. 2, które wchodzą życie dniem ogłoszenia;
-2) 47 82, które wchodzą życie dniem następującym po dniu ogłoszenia.”.
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych nieinnych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 14 lipca 2000 restrukturyzacji finansowej górnictwa siarki (Dz. 2016 1752), uwzględnieniem zmiany wprowadzonej ustawą 15 maja 2024 zmianie niektórych ustaw związanych funkcjonowaniem administracji rządowej (Dz. 834) oraz zmian wynikających przepisów ogłoszonych przed dniem 3 grudnia 2024
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 84 15 maja 2024 zmianie niektórych ustaw związanych funkcjonowaniem administracji rządowej (Dz. 834), który stanowi: „Art. 84. Ustawa wchodzi pierwszego miesiąca następującego po miesiącu ogłoszenia, wyjątkiem:
+1) art. 65 ust. 2 art. 73 ust. 2, które wchodzą dniem ogłoszenia;
+2) art. 47 art. 82, które wchodzą dniem następującym po dniu ogłoszenia.”.
 Marszałek Sejmu: S. Hołownia
 USTAWA 14 lipca 2000 restrukturyzacji finansowej górnictwa siarki
 
@@ -47,19 +47,19 @@ USTAWA 14 lipca 2000 restrukturyzacji finansowej górnictwa siarki
 
 **Art. 2.**
 
-1. W okresie od wejścia życie do 31 sierpnia 2003 odracza się spłatę zobowiązań jednostek tytułu składek na ubezpieczenie społeczne, które, zgodnie odrębnymi przepisami, są pokrywane ze środków tych jednostek, oraz spłatę zobowiązań tytułu składek na Fundusz Pracy Fundusz Gwarantowanych Świadczeń Pracowniczych za okres do 31 grudnia 1998
+1. W okresie od wejścia do 31 sierpnia 2003 odracza się spłatę zobowiązań jednostek tytułu składek na ubezpieczenie społeczne, które, zgodnie odrębnymi przepisami, są pokrywane ze środków tych jednostek, oraz spłatę zobowiązań tytułu składek na Fundusz Pracy Fundusz Gwarantowanych Świadczeń Pracowniczych za okres do 31 grudnia 1998
 
-2. W okresie od wejścia życie do 31 sierpnia 2003 odracza się spłatę zobowiązań jednostek tytułu zaległych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych powstałych do wejścia życie ustawy.
+2. W okresie od wejścia do 31 sierpnia 2003 odracza się spłatę zobowiązań jednostek tytułu zaległych wpłat na Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych powstałych do wejścia ustawy.
 
-3. Przepisu ust. 2 nie stosuje się do jednostek, 1 ust. 2 pkt 3–6.
+3. Przepisu ust. 2 nie stosuje się do jednostek, art. 1 ust. 2 pkt 3–6.
 
-4. W okresie od wejścia życie do 31 sierpnia 2003 zwalnia się jednostki, 1 ust. 2 pkt 1 2, od wpłat zysku po opodatkowaniu podatkiem dochodowym na rzecz budżetu państwa, określonych przepisami 31 stycznia 1989 gospodarce finansowej przedsiębiorstw państwowych (Dz. 2022 1439), części stanowiącej równowartość umorzonych zobowiązań, jeżeli umorzenie zobowiązań jest związane postępowaniem układowym, rozumieniu przepisów prawa postępowaniu układowym.
+4. W okresie od wejścia do 31 sierpnia 2003 zwalnia się jednostki, art. 1 ust. 2 pkt 1 2, od wpłat zysku po opodatkowaniu podatkiem dochodowym na rzecz budżetu państwa, określonych przepisami 31 stycznia 1989 gospodarce finansowej przedsiębiorstw państwowych (Dz. 2022 1439), części stanowiącej równowartość umorzonych zobowiązań, jeżeli umorzenie zobowiązań jest związane postępowaniem układowym, rozumieniu przepisów prawa postępowaniu układowym.
 
 **Art. 3.** Do 31 sierpnia 2003 odracza się termin płatności zobowiązań jednostek tytułu opłat kar, powstałych do 31 grudnia 1998 r., za:
 
 **Art. 5.**
 
-1. Zobowiązania tytułu opłat, 3, powstałe przed wejściem życie wyniku działalności likwidowanych zakładów górniczych, podlegają umorzeniu.
+1. Zobowiązania tytułu opłat, art. 3, powstałe przed wejściem wyniku działalności likwidowanych zakładów górniczych, podlegają umorzeniu.
 
 2. Przychody tytułu umorzenia zobowiązań, ust. 1, nie podlegają opodatkowaniu podatkiem dochodowym od osób prawnych.
 
@@ -76,7 +76,7 @@ USTAWA 14 lipca 2000 restrukturyzacji finansowej górnictwa siarki
 - **1)** likwidację zakładów górniczych rozumieniu przepisów 4 lutego 1994 Prawo geologiczne górnicze (Dz. 2005 1947, późn. zm. ) ;
 - **2)** rekultywację terenów pogórniczych rozumieniu przepisów ochronie gruntów rolnych leśnych. Funduszu, stanowiącym załącznik do budżetowej na dany rok.
 
-**Art. 8.** Do zobowiązań, 2 ust. 1 ust. 2, nie stosuje się przepisów 24 ust. 4 ust. 5 13 października 1998 systemie ubezpieczeń społecznych (Dz. 2024 497, 863, 1243 1615).
+**Art. 8.** Do zobowiązań, art. 2 ust. 1 ust. 2, nie stosuje się przepisów art. 24 ust. 4 ust. 5 13 października 1998 systemie ubezpieczeń społecznych (Dz. 2024 497, 863, 1243 1615).
 
-**Art. 9.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
+**Art. 9.** Ustawa wchodzi po upływie 14 dni od ogłoszenia .
 

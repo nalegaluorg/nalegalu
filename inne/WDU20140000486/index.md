@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 14 marca 2014 r. o zmianie ustawy - Prawo o ruchu drogowym oraz niektórych innych ustaw
 
-*USTAWA dnia 14 marca 2014 o zmianie – Prawo o ruchu drogowym niektórych innych ustaw*
+*USTAWA dnia 14 marca o zmianie ustawy – Prawo o ruchu drogowym niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-15 |
+| Wejście w życie | 2014-04-30 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000486) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/486/text.pdf) |
 
@@ -53,12 +54,12 @@ source: "isap-pdf"
 - **2)** niedopełnieniem obowiązku korzystania pasów bezpieczeństwa lub przewożenia dziecka foteliku ochronnym lub innym urządzeniu do przewożenia dzieci;
 - **3)** niestosowaniem się do sygnałów świetlnych lub znaków nakazujących zatrzymanie pojazdu;
 - **4)** prowadzeniem pojazdu po użyciu alkoholu albo stanie nietrzeźwości;
-- **5)** prowadzeniem pojazdu po użyciu lub pod wpływem środka odurzającego; cyzji Rady 2008/616/WSiSW dnia 23 czerwca 2008 sprawie wdrożenia decyzji 2008/615/WSiSW sprawie intensyfikacji współpracy transgranicznej, szczególnie zwalczaniu terroryzmu przestępczości transgranicznej (Dz. Urz. UE L 210 06.08.2008, str. 12), przez:
+- **5)** prowadzeniem pojazdu po użyciu lub pod wpływem środka odurzającego; cyzji Rady 2008/616/WSiSW dnia 23 czerwca 2008 sprawie wdrożenia decyzji 2008/615/WSiSW sprawie intensyfikacji współpracy transgranicznej, szczególnie zwalczaniu terroryzmu i przestępczości transgranicznej (Dz. Urz. UE L 210 06.08.2008, str. 12), przez:
 - **1)** udostępnianie danych na zapytania krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej;
 - **2)** przekazywanie zapytań krajowych podmiotów uprawnionych do krajowych punktów kontaktowych innych państw członkowskich Unii Europejskiej;
 - **3)** przekazywanie krajowym podmiotom uprawnionym odpowiedzi na złożone przez nie zapytania, o których mowa pkt 2, udzielonych przez krajowe punkty kontaktowe innych państw członkowskich Unii Europejskiej.
 
-2. Krajowy Punkt Kontaktowy realizuje wymianę informacji krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej zgodnie procedurami określonymi rozdziale 3 pkt 2 3 załącznika do decyzji, o której mowa 1.
+2. Krajowy Punkt Kontaktowy realizuje wymianę informacji krajowymi punktami kontaktowymi innych państw członkowskich Unii Europejskiej zgodnie procedurami określonymi rozdziale 3 pkt 2 i 3 załącznika do decyzji, o której mowa 1.
 
 **Art. 80m.** Krajowe podmioty uprawnione:
 
@@ -77,7 +78,7 @@ source: "isap-pdf"
     - **f)** kategoria;
 
 - **2)** właścicielu pojazdu o posiadaczu, o którym mowa 73 5:
-    - **a)** imię nazwisko (nazwa lub firma),
+    - **a)** imię i nazwisko (nazwa lub firma),
     - **b)** adres zamieszkania (siedziba),
     - **c)** numer ewidencyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL),
     - **d)** numer identyfikacyjny REGON.
@@ -100,15 +101,15 @@ source: "isap-pdf"
 3. Sprawozdanie, o którym mowa 1, jest sporządzane:
 
 - **1)** zakresie, o którym mowa 1 pkt 1 – oparciu o informacje uzyskane Krajowego Punktu Kontaktowego;
-- **2)** zakresie, o którym mowa 1 pkt 2 3 – oparciu o informacje uzyskane od krajowych podmiotów uprawnionych.
+- **2)** zakresie, o którym mowa 1 pkt 2 i 3 – oparciu o informacje uzyskane od krajowych podmiotów uprawnionych.
 
-4. Krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw wewnętrznych informacje, o których mowa 1 pkt 2 3, na formularzu postaci elektronicznej, przy użyciu urządzeń teletransmisji danych.
+4. Krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw wewnętrznych informacje, o których mowa 1 pkt 2 i 3, na formularzu postaci elektronicznej, przy użyciu urządzeń teletransmisji danych.
 
-5. Krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw wewnętrznych informacje, o których mowa 1 pkt 2 3, co dwa lata, terminie do dnia 15 marca za okres dwóch poprzednich lat kalendarzowych.
+5. Krajowe podmioty uprawnione przekazują ministrowi właściwemu do spraw wewnętrznych informacje, o których mowa 1 pkt 2 i 3, co dwa lata, terminie do dnia 15 marca za okres dwóch poprzednich lat kalendarzowych.
 
 **Art. 80q.**
 
-1. Do danych osobowych przetwarzanych na podstawie przepisów niniejszego rozdziału przez Krajowy Punkt Kontaktowy krajowe podmioty uprawnione stosuje się odpowiednio przepisy rozdziału 4 dnia 16 września 2011 o wymianie informacji organami ścigania państw członkowskich Unii Europejskiej (Dz. Nr 230, 1371 1650).
+1. Do danych osobowych przetwarzanych na podstawie przepisów niniejszego rozdziału przez Krajowy Punkt Kontaktowy krajowe podmioty uprawnione stosuje się odpowiednio przepisy rozdziału 4 ustawy dnia 16 września 2011 o wymianie informacji organami ścigania państw członkowskich Unii Europejskiej (Dz. Nr 230, 1371 1650).
 
 2. Dane osobowe, o których mowa 1, mogą być wykorzystywane wyłącznie do celów określonych 80k 5 związku popełnieniem naruszeń, o których mowa 80k 6.
 
@@ -120,19 +121,19 @@ source: "isap-pdf"
 
 **Art. 4.** W ustawie dnia 29 sierpnia 1997 o strażach gminnych (Dz. 1383) po 10a dodaje się 10b brzmieniu: „Art. 10b. W celu wykonywania zadań zakresie kontroli ruchu drogowego, o których mowa 129b ustawy dnia 20 czerwca 1997 – Prawo o ruchu drogowym (Dz. 2012 1137, późn. zm. ), straż może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych 80k–80r tej ustawy.”.
 
-**Art. 5.** W ustawie dnia 24 sierpnia 2001 – Kodeks postępowania sprawach o wykroczenia (Dz. 395, 765 1247) 98 § 3 otrzymuje brzmienie: „§ 3. Mandatem karnym, o którym mowa § 1 pkt 2, może być nałożona grzywna jedynie wobec osoby innej niż wymieniona § 2 albo mającej miejsce stałego zamieszkania lub pobytu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej. Mandat powinien zawierać pouczenie o obowiązku uiszczenia grzywny terminie 7 dni od daty przyjęcia mandatu o skutkach nieuiszczenia grzywny terminie. Staje się on prawomocny chwilą pokwitowania jego odbioru przez ukaranego.”.
+**Art. 5.** W ustawie dnia 24 sierpnia 2001 – Kodeks postępowania sprawach o wykroczenia (Dz. 395, 765 i 1247) 98 § 3 otrzymuje brzmienie: „§ 3. Mandatem karnym, o którym mowa § 1 pkt 2, może być nałożona grzywna jedynie wobec osoby innej niż wymieniona § 2 albo mającej miejsce stałego zamieszkania lub pobytu na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej. Mandat powinien zawierać pouczenie o obowiązku uiszczenia grzywny terminie 7 dni od daty przyjęcia mandatu o skutkach nieuiszczenia grzywny terminie. Staje się on prawomocny chwilą pokwitowania jego odbioru przez ukaranego.”.
 
-**Art. 6.** W ustawie dnia 6 września 2001 o transporcie drogowym (Dz. 1414) 67 dodaje się 4 brzmieniu: „4. W celu wykonywania zadań zakresie kontroli ruchu drogowego, o których mowa 50 pkt 1, Inspekcja może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych 80k–80r dnia 20 czerwca 1997 – Prawo o ruchu drogowym.”.
+**Art. 6.** W ustawie dnia 6 września 2001 o transporcie drogowym (Dz. 1414) 67 dodaje się 4 brzmieniu: „4. W celu wykonywania zadań zakresie kontroli ruchu drogowego, o których mowa 50 pkt 1, Inspekcja może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych 80k–80r ustawy dnia 20 czerwca 1997 – Prawo o ruchu drogowym.”.
 
-**Art. 7.** W ustawie dnia 27 sierpnia 2009 o Służbie Celnej (Dz. 1404) rozdziale 6 po 75e dodaje się 75f brzmieniu: „Art. 75f. W celu wykonywania zadań zakresie kontroli ruchu drogowego, o których mowa 129 4a dnia 20 czerwca 1997 – Prawo o ruchu drogowym, Służba Celna może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych 80k–80r tej ustawy.”.
+**Art. 7.** W ustawie dnia 27 sierpnia 2009 o Służbie Celnej (Dz. 1404) rozdziale 6 po 75e dodaje się 75f brzmieniu: „Art. 75f. W celu wykonywania zadań zakresie kontroli ruchu drogowego, o których mowa 129 4a ustawy dnia 20 czerwca 1997 – Prawo o ruchu drogowym, Służba Celna może prowadzić wyszukiwania informacji za pośrednictwem Krajowego Punktu Kontaktowego, na zasadach określonych 80k–80r tej ustawy.”.
 
-**Art. 8.** W ustawie dnia 23 października o zmianie – Prawo o ruchu drogowym niektórych innych ustaw (Dz. 1446) 1 pkt 2 lit. b 5 otrzymuje brzmienie: „5. Wydatki Funduszu są przeznaczone na finansowanie wydatków związanych utworzeniem, rozwojem funkcjonowaniem centralnej ewidencji pojazdów centralnej ewidencji kierowców, tym Krajowego Punktu Kontaktowego, centralnej ewidencji posiadaczy kart parkingowych.”.
+**Art. 8.** W ustawie dnia 23 października o zmianie ustawy – Prawo o ruchu drogowym niektórych innych ustaw (Dz. 1446) 1 pkt 2 lit. b 5 otrzymuje brzmienie: „5. Wydatki Funduszu są przeznaczone na finansowanie wydatków związanych utworzeniem, rozwojem i funkcjonowaniem centralnej ewidencji pojazdów i centralnej ewidencji kierowców, tym Krajowego Punktu Kontaktowego, centralnej ewidencji posiadaczy kart parkingowych.”.
 
 **Art. 9.**
 
-1. Minister właściwy do spraw wewnętrznych przekazuje Komisji Europejskiej pierwsze sprawozdanie, o którym mowa 80p 1 zmienianej 1, zakresie określonym 80p 1 pkt 1 tej ustawy, terminie do dnia 7 listopada 2014 r., za okres od dnia wejścia życie do dnia 30 czerwca 2014
+1. Minister właściwy do spraw wewnętrznych przekazuje Komisji Europejskiej pierwsze sprawozdanie, o którym mowa 80p 1 ustawy zmienianej 1, zakresie określonym 80p 1 pkt 1 tej ustawy, terminie do dnia 7 listopada r., za okres od dnia wejścia życie ustawy do dnia 30 czerwca
 
-2. Następne sprawozdanie, o którym mowa 80p 1 zmienianej 1, minister właściwy do spraw wewnętrznych przekazuje Komisji Europejskiej terminie do dnia 6 maja 2016 r., za okres od dnia wejścia życie ustawy do dnia 31 grudnia 2015 grudnia 2015
+2. Następne sprawozdanie, o którym mowa 80p 1 ustawy zmienianej 1, minister właściwy do spraw wewnętrznych przekazuje Komisji Europejskiej terminie do dnia 6 maja 2016 r., za okres od dnia wejścia życie ustawy do dnia 31 grudnia 2015 grudnia 2015
 
 **Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

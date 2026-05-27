@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-06-16 |
 | Data wydania | 2023-08-07 |
+| Wejście w życie | 2023-08-08 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001532) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1532/text.pdf) |
 
@@ -39,17 +40,17 @@ source: "isap-pdf"
 - **17)** 41 1 pkt 2 skreśla wyrazy „i zastosowanych nich środkach zaradczych”;
 - **18)** uchyla 47;
 - **19)** po 49 dodaje 49a brzmieniu: „Art. 49a. W przypadku nieprzedstawienia kandydatów członków Komisji zgodnie 49 1 kluby poselskie lub parlamentarne przedstawiają kandydatów członków Komisji Marszałkowi wskazanym postanowieniu Marszałka Sejmu. Przepis 49 2 stosuje odpowiednio.”;
-- **20)** 50 51 otrzymują brzmienie: „Art. 50. 1. Członkowie Komisji wybierają spośród siebie Komisji 14 niczącego Komisji.”.
+- **20)** 50 51 otrzymują brzmienie: „Art. 50. 1. Członkowie Komisji wybierają spośród siebie Komisji 14 od niczącego Komisji.”.
 
 **Art. 2.** W ustawie 21 maja 1999 broni amunicji (Dz. U. 2022 poz. 2516 oraz 2023 poz. 535, 803
 
 **Art. 3.** W ustawie 17 grudnia 2004 odpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. 2021 poz. 289 oraz 2023 poz. 1030) wprowadza następujące zmiany:
 
-**Art. 4.** W ustawie 28 lipca 2005 kosztach sądowych sprawach cywilnych (Dz. U. 2023 poz. 1144) 96 1 pkt 17 kropkę zastępuje średnikiem dodaje pkt 18 brzmieniu: „18) osoba wnosząca apelację decyzji administracyjnej Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022, której 36 pkt 1 ustawy 14 kwietnia 2023 Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022 (Dz. U. poz. 1030 1532).”.
+**Art. 4.** W ustawie 28 lipca 2005 kosztach sądowych sprawach cywilnych (Dz. U. 2023 poz. 1144) 96 1 pkt 17 kropkę zastępuje średnikiem dodaje pkt 18 brzmieniu: „18) osoba wnosząca apelację od decyzji administracyjnej Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022, której 36 pkt 1 ustawy 14 kwietnia 2023 Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022 (Dz. U. poz. 1030 1532).”.
 
 **Art. 5.** W ustawie 5 sierpnia 2010 ochronie informacji niejawnych (Dz. U. 2023 poz. 756 1030) 30 uchyla 2a.
 
-**Art. 6.** W ustawie 8 grudnia 2017 Sądzie Najwyższym (Dz. U. 2023 poz. 1093) 26 § 1 po pkt 8a dodaje pkt 8b brzmieniu: „8b) spraw, których wniesiono apelację decyzji administracyjnej Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022, której 36 pkt 1 ustawy 14 kwietnia 2023 Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022 (Dz. U. poz. 1030 1532);”.
+**Art. 6.** W ustawie 8 grudnia 2017 Sądzie Najwyższym (Dz. U. 2023 poz. 1093) 26 § 1 po pkt 8a dodaje pkt 8b brzmieniu: „8b) spraw, których wniesiono apelację od decyzji administracyjnej Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022, której 36 pkt 1 ustawy 14 kwietnia 2023 Państwowej Komisji do spraw badania wpływów rosyjskich bezpieczeństwo wewnętrzne Rzeczypospolitej Polskiej latach 2007–2022 (Dz. U. poz. 1030 1532);”.
 
 **Art. 7.**
 

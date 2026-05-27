@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-13 |
 | Data wydania | 2026-05-06 |
-| Ostatnia zmiana | 2026-05-11 |
+| Wejście w życie | 2026-05-21 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000605) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/605/text.pdf) |
 
 Art. 37ao. Producent lub importer materiału lub wyrobu do kontaktu z wodą do spożycia, zwanych dalej „materiałem lub wyrobem”, lub upoważniony przedstawiciel tego producenta lub importera, wprowadzający do obrotu materiał lub wyrób zapewniają, że stosowane zgodnie z przeznaczeniem nie będą one:

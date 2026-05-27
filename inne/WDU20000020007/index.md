@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1993-07-12 |
 | Data wydania | 2000-01-17 |
+| Wejście w życie | 1999-11-05 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000020007) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/7/text.pdf) |
 

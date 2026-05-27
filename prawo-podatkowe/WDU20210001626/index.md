@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-08-11 |
 | Data wydania | 2021-09-06 |
+| Wejście w życie | 2021-10-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210001626) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/1626/text.pdf) |
 
@@ -33,7 +34,7 @@ source: "isap-pdf"
 
 **Art. 3.** Przepisy 33a 6a 7 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje importu towarów, dla którego obowiązek podatkowy powstał od pierwszego dnia miesiąca, wchodzi życie 1 5.
 
-**Art. 4.** W przypadku gdy prawo obniżenia należnego kwotę naliczonego powstało przed dniem wejścia życie niniejszej ustawy, stosuje przepis 86 13 ustawy zmienianej 1, brzmieniu dotychczasowym.
+**Art. 4.** W przypadku gdy prawo obniżenia kwoty należnego kwotę naliczonego powstało przed dniem wejścia życie niniejszej ustawy, stosuje przepis 86 13 ustawy zmienianej 1, brzmieniu dotychczasowym.
 
 **Art. 5.** Przepisy 86a 12–14 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje przypadku wydatków związanych pojazdami samochodowymi wykorzystywanymi wyłącznie działalności gospodarczej, poniesionych od dnia wejścia życie niniejszej ustawy.
 

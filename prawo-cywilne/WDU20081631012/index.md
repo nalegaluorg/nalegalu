@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 23 lipca 2008 r. o zmianie ustawy - Kodeks cywilny oraz ustawy - Prawo o notariacie
 
-*USTAWA dnia 23 lipca o zmianie ustawy – Kodeks cywilny ustawy – Prawo o notariacie*
+*USTAWA dnia 23 lipca 2008 o zmianie ustawy – Kodeks cywilny oraz ustawy – Prawo o notariacie*
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-23 |
 | Data wydania | 2008-09-10 |
+| Wejście w życie | 2008-10-11 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631012) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1012/text.pdf) |
 

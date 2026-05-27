@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-10-30 |
 | Data wydania | 2002-12-16 |
+| Wejście w życie | 2002-12-24 |
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022131800) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1800/text.pdf) |
 

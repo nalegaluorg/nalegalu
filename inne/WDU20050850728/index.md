@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-04-21 |
 | Data wydania | 2005-05-16 |
-| Ostatnia zmiana | 2025-11-26 |
+| Wejście w życie | 2005-06-16 |
+| Ostatnia zmiana | 2026-05-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050850728) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/728/text.pdf) |
 
 **Art. 1.** Opłaty abonamentowe pobiera się celu umożliwienia realizacji misji publicznej, o której art. 21 1 ustawy z dnia 29 grudnia 1992 r. o radiofonii telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 1222), zwanej dalej „ustawą o radiofonii telewizji”, przez jednostki publicznej radiofonii telewizji.

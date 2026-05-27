@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-13 |
 | Data wydania | 2026-05-06 |
-| Ostatnia zmiana | 2026-05-08 |
+| Wejście w życie | 2026-05-21 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000607) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/607/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2025 r. poz. 1431 i 1668 oraz z 2026 r. poz. 176) wprowadza się następujące zmiany:

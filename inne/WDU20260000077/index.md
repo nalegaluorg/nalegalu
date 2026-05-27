@@ -33,21 +33,21 @@ Marszałek Sejmu: W. Czarzasty wość organów tych sprawach.
 
 1. Dodatek osłonowy przysługuje:
 
-- **1)** osobie gospodarstwie domowym jednoosobowym, którym wysokość przeciętnego miesięcznego dochodu rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych (Dz. U. 2025 poz. 1208) nie przekracza kwoty 2100 zł, oraz osobie gospodarstwie domowym wieloosobowym, którym wysokość przeciętnego miesięcznego dochodu rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych nie przekracza kwoty 1500 zł na osobę;
-- **2)** osobie, pkt 1, przypadku gdy wysokość jej przeciętnego miesięcznego dochodu rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych na osobę przekracza kwotę, pkt 1, wysokości różnicy między kwotą a kwotą, którą został przekroczony przeciętny miesięczny dochód rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych na osobę.
+- **1)** osobie gospodarstwie domowym jednoosobowym, którym wysokość przeciętnego miesięcznego dochodu rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych (Dz. U. 2025 poz. 1208) nie przekracza kwoty 2100 zł, oraz osobie gospodarstwie domowym wieloosobowym, którym wysokość przeciętnego miesięcznego dochodu rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych nie przekracza kwoty 1500 zł osobę;
+- **2)** osobie, której pkt 1, przypadku gdy wysokość jej przeciętnego miesięcznego dochodu rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych osobę przekracza kwotę, której pkt 1, wysokości różnicy między kwotą a kwotą, którą został przekroczony przeciętny miesięczny dochód rozumieniu art. 3 pkt 1 ustawy 28 listopada 2003 świadczeniach rodzinnych osobę.
 
-2. W przypadku gdy wniosek wypłatę dla gospodarstwa domowego wieloosobowego, którym ust. 1, złożyła więcej niż jedna osoba, dodatek ten przyznawany jest wnioskodawcy, który złożył taki wniosek jako pierwszy.
+2. W przypadku gdy wniosek dla gospodarstwa domowego wieloosobowego, którym ust. 1, złożyła więcej niż jedna osoba, dodatek ten przyznawany jest wnioskodawcy, który złożył taki wniosek jako pierwszy.
 
-3. Na potrzeby składania wniosków wypłatę przyjmuje się, że jedna osoba może wchodzić skład tylko jednego gospodarstwa domowego.
+3. Na potrzeby składania wniosków przyjmuje się, że jedna osoba może wchodzić skład tylko jednego gospodarstwa domowego.
 
 4. Jeżeli umowy międzynarodowe nie stanowią inaczej, dodatek osłonowy przysługuje:
 
-- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej;
-- **2)** cudzoziemcom mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej:
-    - **a)** na podstawie zezwolenia na pobyt stały, zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia na pobyt czasowy udzielonego związku okolicznością, art. 159 ust. 1 pkt 1 lit. c d art. 186 ust. 1 pkt 3 ustawy 12 grudnia 2013 cudzoziemcach (Dz. U. 2025 poz. 1079 i 1794), związku uzyskaniem Rzeczypospolitej Polskiej statusu uchodźcy ochrony uzupełniającej,
-    - **b)** związku uzyskaniem Rzeczypospolitej Polskiej zgody na pobyt ze względów humanitarnych zgody na pobyt tolerowany – formie schronienia, posiłku, niezbędnego ubrania oraz zasiłku celowego;
+- **1)** osobom posiadającym obywatelstwo polskie mającym miejsce zamieszkania i przebywającym terytorium Rzeczypospolitej Polskiej;
+- **2)** cudzoziemcom mającym miejsce zamieszkania i przebywającym terytorium Rzeczypospolitej Polskiej:
+    - **a)** podstawie zezwolenia pobyt stały, zezwolenia pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenia pobyt czasowy udzielonego związku okolicznością, której art. 159 ust. 1 pkt 1 lit. c d art. 186 ust. 1 pkt 3 ustawy 12 grudnia 2013 cudzoziemcach (Dz. U. 2025 poz. 1079 i 1794), związku uzyskaniem Rzeczypospolitej Polskiej statusu uchodźcy ochrony uzupełniającej,
+    - **b)** związku uzyskaniem Rzeczypospolitej Polskiej zgody pobyt ze względów humanitarnych zgody pobyt tolerowany – formie schronienia, posiłku, niezbędnego ubrania oraz zasiłku celowego;
 
-- **3)** mającym miejsce zamieszkania i przebywającym na terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) – stron umowy Europejskim Obszarze Gospodarczym Konfederacji Szwajcarskiej oraz członkom ich rodzin rozumieniu art. 2 pkt 4 ustawy 14 lipca 2006 wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. 2025 poz. 1164 i 1794), posiadającym prawo pobytu prawo stałego pobytu na terytorium Rzeczypospolitej Polskiej.
+- **3)** mającym miejsce zamieszkania i przebywającym terytorium Rzeczypospolitej Polskiej obywatelom państw członkowskich Unii Europejskiej, państw członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) – stron umowy Europejskim Obszarze Gospodarczym Konfederacji Szwajcarskiej oraz członkom ich rodzin rozumieniu art. 2 pkt 4 ustawy 14 lipca 2006 wjeździe terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. 2025 poz. 1164 i 1794), posiadającym prawo pobytu prawo stałego pobytu terytorium Rzeczypospolitej Polskiej.
 
 5. Dodatek osłonowy wynosi rocznie:
 
@@ -60,19 +60,19 @@ Marszałek Sejmu: W. Czarzasty wość organów tych sprawach.
 
 7. W przypadku gdy wysokość osłonowego, ustalona zgodnie ust. 1 pkt 2, jest niższa niż 20 zł, dodatek ten nie przysługuje.
 
-8. Dodatek osłonowy przysługuje osobom, których ust. 1, za okres 1 stycznia 2022 do 31 grudnia 2022 i jest wypłacany dwóch równych ratach terminie do 31 marca 2022 oraz do 31 grudnia 2023 W przypadku gdy osoba, ust. 1, złoży wniosek wypłatę później niż na 2 miesiące przed upływem tych terminów, dodatek osłonowy jest wypłacany jednorazowo, niezwłocznie po przyznaniu tego dodatku.
+8. Dodatek osłonowy przysługuje osobom, których ust. 1, za okres 1 stycznia 2022 do 31 grudnia 2022 i jest wypłacany dwóch równych ratach terminie do 31 marca 2022 oraz do 31 grudnia 2023 W przypadku gdy osoba, której ust. 1, złoży wniosek później niż 2 miesiące przed upływem tych terminów, dodatek osłonowy jest wypłacany jednorazowo, niezwłocznie po przyznaniu tego dodatku.
 
 8a. Dodatek osłonowy przysługuje osobom, których ust. 1, za okres 1 stycznia 2024 do 30 czerwca 2024 i jest wypłacany jednorazowo terminie do 30 czerwca 2024
 
-9. Wnioski wypłatę za okres 1 stycznia 2022 do 31 grudnia 2022 złożone po dniu 31 października 2022 pozostawia się bez rozpoznania.
+9. Wnioski za okres 1 stycznia 2022 do 31 grudnia 2022 złożone po dniu 31 października 2022 pozostawia się bez rozpoznania.
 
-9a. Wnioski wypłatę za okres 1 stycznia 2024 do 30 czerwca 2024 złożone po dniu 30 kwietnia 2024 pozostawia się bez rozpoznania.
+9a. Wnioski za okres 1 stycznia 2024 do 30 czerwca 2024 złożone po dniu 30 kwietnia 2024 pozostawia się bez rozpoznania.
 
-10. Wniosek wypłatę składa się gminie właściwej ze względu na miejsce zamieszkania osoby składającej ten wniosek.
+10. Wniosek składa się gminie właściwej ze względu miejsce zamieszkania osoby składającej ten wniosek.
 
 11. Przyznanie przez wójta, burmistrza prezydenta miasta nie wymaga wydania decyzji. Odmowa przyznania osłonowego, uchylenie zmiana prawa do tego oraz rozstrzygnięcie sprawie nienależnie pobranego wymagają wydania decyzji.
 
-12. Wójt, burmistrz prezydent miasta przesyła wnioskodawcy informację przyznaniu na wskazany przez niego adres poczty elektronicznej – ile wnioskodawca wskazał adres poczty elektronicznej we wniosku wypłatę osłonowego. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku wypłatę osłonowego, wójt, burmistrz prezydent miasta, odbierając ten wniosek wnioskodawcy, informuje go możliwości odebrania tego organu informacji przyznaniu osłonowego.
+12. Wójt, burmistrz prezydent miasta przesyła wnioskodawcy informację przyznaniu wskazany przez niego adres poczty elektronicznej – ile wnioskodawca wskazał adres poczty elektronicznej we wniosku osłonowego. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku osłonowego, wójt, burmistrz prezydent miasta, odbierając ten wniosek wnioskodawcy, informuje go możliwości odebrania tego organu informacji przyznaniu osłonowego.
 
 13. Nieodebranie informacji przyznaniu nie wstrzymuje wypłaty tego dodatku.
 
@@ -80,23 +80,23 @@ Marszałek Sejmu: W. Czarzasty wość organów tych sprawach.
 
 15. Do spraw związanych wypłatą stosuje się odpowiednio art. 23 ust. 12 i 13, art. 30 oraz art. 32 ust. 1–1d ustawy 28 listopada 2003 świadczeniach rodzinnych.
 
-16. Wniosek wypłatę składa się na piśmie za pomocą środków komunikacji elektronicznej rozumieniu ustawy 18 lipca 2002 świadczeniu usług drogą elektroniczną (Dz. U. 2024 poz. 1513).
+16. Wniosek składa się piśmie za pomocą środków komunikacji elektronicznej rozumieniu ustawy 18 lipca 2002 świadczeniu usług drogą elektroniczną (Dz. U. 2024 poz. 1513).
 
-17. W przypadku złożenia wniosku wypłatę za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym uwierzytelnia wykorzystaniem profilu zaufanego.
+17. W przypadku złożenia wniosku za pomocą środków komunikacji elektronicznej wniosek ten opatruje się kwalifikowanym podpisem elektronicznym uwierzytelnia wykorzystaniem profilu zaufanego.
 
-17a. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku wypłatę osłonowego, szczególności zakresie zgłoszenia wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, art. 27a ust. 1 ustawy 21 listopada 2008 wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków.
+17a. Wójt, burmistrz albo prezydent miasta dokonuje weryfikacji wniosku osłonowego, szczególności zakresie zgłoszenia wpisania głównego źródła ogrzewania centralnej ewidencji emisyjności budynków, której art. 27a ust. 1 ustawy 21 listopada 2008 wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków.
 
-5. Dotacje na dany kwartał są przekazywane gminom przez wojewodę, na podstawie wniosku, którym ust. 3, miesięcznych ratach. Nadpłata dotacji za kwartał może być zaliczana na poczet dotacji należnej kwartale następnym, wyjątkiem nadpłaty za dany rok, która podlega przekazaniu na rachunek właściwego urzędu wojewódzkiego terminie do 20 stycznia następnego roku.
+5. Dotacje dany kwartał są przekazywane gminom przez wojewodę, podstawie wniosku, którym ust. 3, miesięcznych ratach. Nadpłata dotacji za kwartał może być zaliczana poczet dotacji należnej kwartale następnym, wyjątkiem nadpłaty za dany rok, która podlega przekazaniu rachunek właściwego urzędu wojewódzkiego terminie do 20 stycznia następnego roku.
 
 6. Jeżeli wyniku połączenia podziału gmin nastąpiły zmiany podstawie obliczania kwoty dotacji, wojewoda uwzględnia te zmiany pierwszego następnego miesiąca po ich wejściu życie.
 
 **Art. 4.**
 
-1. Gminy otrzymują dotacje celowe budżetu państwa na finansowanie wypłat osłonowego, granicach kwot określonych na ten cel ustawie budżetowej.
+1. Gminy otrzymują dotacje celowe budżetu państwa finansowanie wypłat osłonowego, granicach kwot określonych ten cel ustawie budżetowej.
 
-2. Przy ustalaniu wysokości dotacji celowej na realizację wypłat uwzględnia się koszty wypłacania odbiorcom osłonowego, wysokości 2 % łącznej kwoty dotacji wypłaconych gminie.
+2. Przy ustalaniu wysokości dotacji celowej realizację wypłat uwzględnia się koszty wypłacania odbiorcom osłonowego, wysokości 2 % łącznej kwoty dotacji wypłaconych gminie.
 
-3. Wójt, burmistrz prezydent miasta przedstawia wojewodzie, terminie do 15. miesiąca następującego po kwartale, rozliczenie dotacji wyodrębnieniem liczby i kwoty wypłaconych dodatków osłonowych, sporządzone narastająco za okres 1 stycznia do kończącego dany kwartał, tym że zapotrzebowanie na dotację ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału.
+3. Wójt, burmistrz prezydent miasta przedstawia wojewodzie, terminie do 15. miesiąca następującego po kwartale, rozliczenie dotacji wyodrębnieniem liczby i kwoty wypłaconych dodatków osłonowych, sporządzone narastająco za okres 1 stycznia do kończącego dany kwartał, tym że zapotrzebowanie dotację ustala się jako sumę tego zapotrzebowania obliczonego odrębnie dla każdego kwartału.
 
 4. Wojewodowie przedstawiają ministrowi właściwemu do spraw finansów publicznych zbiorcze rozliczenie dotacji do końca miesiąca następującego po każdym kwartale.
 
@@ -116,7 +116,7 @@ Marszałek Sejmu: W. Czarzasty wość organów tych sprawach.
 
 1. Sprzedawca energii elektrycznej sprzedawca paliw gazowych jest obowiązany do dołączenia do faktury informacji osłonowym oraz prawie do złożenia wniosku jego wypłatę, każdorazowo do 31 października 2022 oddzielnie, przypadku gdy ta faktura jest wysyłana później niż terminie 2 miesięcy wejścia życie ustawy.
 
-2. Minister właściwy do spraw energii określi, drodze rozporządzenia, sposób przekazywania oraz wzór informacji załączanej do faktury, ust. 1, kierując się potrzebą zapewnienia przejrzystości i komunikatywności informacji. Art. 6–13. (pominięte)
+2. Minister właściwy do spraw energii określi, drodze rozporządzenia, sposób przekazywania oraz wzór informacji załączanej do faktury, której ust. 1, kierując się potrzebą zapewnienia przejrzystości i komunikatywności informacji. Art. 6–13. (pominięte)
 
 **Art. 14.** Do spraw dotyczących przyznania energetycznego, którym art. 5c ustawy zmienianej art. 9 , wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej art. 9 , brzmieniu dotychczasowym.
 

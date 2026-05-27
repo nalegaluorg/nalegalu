@@ -8,12 +8,12 @@ Akty prawne z dziedziny: **Prawo pracy**.
 |-----|-------|-----|--------|:---:|
 | [WDU20260000549](WDU20260000549/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 17 kwietnia  | Obwieszczenie | obowiązujący |  |
 | [WDU20260000025](WDU20260000025/index.md) | Ustawa z dnia 4 grudnia 2025 r. o zmianie ustawy - Kodeks pracy oraz ustawy | Ustawa | obowiązujący |  |
+| [WDU20250001423](WDU20250001423/index.md) | Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący |  |
 | [WDU20250000807](WDU20250000807/index.md) | Ustawa z dnia 4 czerwca 2025 r. o zmianie ustawy - Kodeks pracy | Ustawa | obowiązujący |  |
 | [WDU20250000440](WDU20250000440/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 24 marca 202 | Obwieszczenie | obowiązujący |  |
 | [WDU20250000277](WDU20250000277/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 lutego 20 | Obwieszczenie | obowiązujący |  |
-| [WDU20250001423](WDU20250001423/index.md) | Ustawa z dnia 26 września 2025 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący |  |
-| [WDU20240000908](WDU20240000908/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20240001871](WDU20240001871/index.md) | Ustawa z dnia 6 grudnia 2024 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
+| [WDU20240000908](WDU20240000908/index.md) | Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 14 czerwca 2 | Obwieszczenie | obowiązujący |  |
 | [WDU20230000641](WDU20230000641/index.md) | Ustawa z dnia 9 marca 2023 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący |  |
 | [WDU20230000240](WDU20230000240/index.md) | Ustawa z dnia 1 grudnia 2022 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20190001043](WDU20190001043/index.md) | Ustawa z dnia 16 maja 2019 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący |  |
@@ -25,28 +25,28 @@ Akty prawne z dziedziny: **Prawo pracy**.
 | [WDU20130000896](WDU20130000896/index.md) | Ustawa z dnia 12 lipca 2013 r. o zmianie ustawy - Kodeks pracy oraz ustawy  | Ustawa | obowiązujący |  |
 | [WDU20130000675](WDU20130000675/index.md) | Ustawa z dnia 28 maja 2013 r. o zmianie ustawy - Kodeks pracy oraz niektóry | Ustawa | obowiązujący | [tak](WDU20130000675/orzecznictwo.md) |
 | [WDU20130000002](WDU20130000002/index.md) | Ustawa z dnia 9 listopada 2012 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący | [tak](WDU20130000002/orzecznictwo.md) |
-| [WDU20101050655](WDU20101050655/index.md) | Ustawa z dnia 20 maja 2010 r. o zmianie ustawy - Kodeks pracy oraz ustawy o | Ustawa | obowiązujący | [tak](WDU20101050655/orzecznictwo.md) |
 | [WDU20102491655](WDU20102491655/index.md) | Ustawa z dnia 25 listopada 2010 r. o zmianie ustawy - Kodeks pracy | Ustawa | obowiązujący |  |
 | [WDU20102241459](WDU20102241459/index.md) | Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący | [tak](WDU20102241459/orzecznictwo.md) |
+| [WDU20101050655](WDU20101050655/index.md) | Ustawa z dnia 20 maja 2010 r. o zmianie ustawy - Kodeks pracy oraz ustawy o | Ustawa | obowiązujący | [tak](WDU20101050655/orzecznictwo.md) |
 | [WDU20090990825](WDU20090990825/index.md) | Ustawa z dnia 22 maja 2009 r. o zmianie ustawy - Kodeks pracy oraz o zmiani | Ustawa | obowiązujący |  |
+| [WDU20082371654](WDU20082371654/index.md) | Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący | [tak](WDU20082371654/orzecznictwo.md) |
 | [WDU20081390876](WDU20081390876/index.md) | Ustawa z dnia 12 czerwca 2008 r. o zmianie ustawy o społeczno-zawodowych or | Ustawa | obowiązujący |  |
 | [WDU20080930586](WDU20080930586/index.md) | Ustawa z dnia 9 maja 2008 r. zmieniająca ustawę - Kodeks pracy oraz ustawę  | Ustawa | obowiązujący |  |
 | [WDU20080860523](WDU20080860523/index.md) | Ustawa z dnia 28 marca 2008 r. zmieniająca ustawę o zmianie ustawy - Kodeks | Ustawa | obowiązujący |  |
-| [WDU20082371654](WDU20082371654/index.md) | Ustawa z dnia 6 grudnia 2008 r. o zmianie ustawy - Kodeks pracy oraz niektó | Ustawa | obowiązujący | [tak](WDU20082371654/orzecznictwo.md) |
-| [WDU20070640426](WDU20070640426/index.md) | Ustawa z dnia 2 marca 2007 r. o zmianie ustawy o narodowym zasobie archiwal | Ustawa | obowiązujący |  |
 | [WDU20071811288](WDU20071811288/index.md) | Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący |  |
+| [WDU20070640426](WDU20070640426/index.md) | Ustawa z dnia 2 marca 2007 r. o zmianie ustawy o narodowym zasobie archiwal | Ustawa | obowiązujący |  |
 | [WDU20062211615](WDU20062211615/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Kodeks pracy oraz ust | Ustawa | obowiązujący |  |
 | [WDU20062001472](WDU20062001472/index.md) | Ustawa z dnia 22 września 2006 r. o zmianie ustawy o społeczno-zawodowych o | Ustawa | obowiązujący |  |
 | [WDU20032132081](WDU20032132081/index.md) | Ustawa z dnia 14 listopada 2003 r. o zmianie ustawy - Kodeks pracy oraz o z | Ustawa | obowiązujący | [tak](WDU20032132081/orzecznictwo.md) |
 | [WDU20021351146](WDU20021351146/index.md) | Ustawa z dnia 26 lipca 2002 r. o zmianie ustawy - Kodeks pracy oraz o zmian | Ustawa | obowiązujący | [tak](WDU20021351146/orzecznictwo.md) |
-| [WDU20010520538](WDU20010520538/index.md) | Ustawa z dnia 25 kwietnia 2001 r. o zmianie ustawy - Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU20010520538/orzecznictwo.md) |
 | [WDU20011281405](WDU20011281405/index.md) | Ustawa z dnia 24 sierpnia 2001 r. o zmianie ustawy - Kodeks pracy oraz o zm | Ustawa | obowiązujący | [tak](WDU20011281405/orzecznictwo.md) |
 | [WDU20010991075](WDU20010991075/index.md) | Ustawa z dnia 24 sierpnia 2001 r. o zmianie ustawy - Kodeks pracy oraz usta | Ustawa | obowiązujący |  |
+| [WDU20010520538](WDU20010520538/index.md) | Ustawa z dnia 25 kwietnia 2001 r. o zmianie ustawy - Kodeks pracy. | Ustawa | obowiązujący | [tak](WDU20010520538/orzecznictwo.md) |
 | [WDU20001071127](WDU20001071127/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy - Kodeks pracy oraz niek | Ustawa | obowiązujący | [tak](WDU20001071127/orzecznictwo.md) |
-| [WDU19990010006](WDU19990010006/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 29 grudnia 1998 r. o | Obwieszczenie | obowiązujący | [tak](WDU19990010006/orzecznictwo.md) |
 | [WDU19990991152](WDU19990991152/index.md) | Ustawa z dnia 19 listopada 1999 r. o zmianie ustawy - Kodeks pracy. | Ustawa | obowiązujący |  |
-| [WDU19980660431](WDU19980660431/index.md) | Ustawa z dnia 8 maja 1998 r. zmieniająca ustawę o zmianie ustawy - Kodeks p | Ustawa | obowiązujący |  |
+| [WDU19990010006](WDU19990010006/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 29 grudnia 1998 r. o | Obwieszczenie | obowiązujący | [tak](WDU19990010006/orzecznictwo.md) |
 | [WDU19981621113](WDU19981621113/index.md) | Ustawa z dnia 3 grudnia 1998 r. o zmianie ustawy o zwrocie majątku utracone | Ustawa | obowiązujący | [tak](WDU19981621113/orzecznictwo.md) |
+| [WDU19980660431](WDU19980660431/index.md) | Ustawa z dnia 8 maja 1998 r. zmieniająca ustawę o zmianie ustawy - Kodeks p | Ustawa | obowiązujący |  |
 | [WDU19970960589](WDU19970960589/index.md) | Ustawa z dnia 21 maja 1997 r. o zmianie ustawy o Najwyższej Izbie Kontroli  | Ustawa | obowiązujący |  |
 | [WDU19970820518](WDU19970820518/index.md) | Ustawa z dnia 9 maja 1997 r. o zmianie ustawy o związkach zawodowych oraz o | Ustawa | obowiązujący | [tak](WDU19970820518/orzecznictwo.md) |
 | [WDU19960240110](WDU19960240110/index.md) | Ustawa z dnia 2 lutego 1996 r. o zmianie ustawy - Kodeks pracy oraz o zmian | Ustawa | obowiązujący | [tak](WDU19960240110/orzecznictwo.md) |

@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-06-09 |
 | Data wydania | 2011-06-28 |
+| Wejście w życie | 2011-07-13 |
 | Ostatnia zmiana | 2024-10-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111330767) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/767/text.pdf) |
 
@@ -41,5 +42,5 @@ source: "isap-pdf"
 
 **Art. 7.** W ustawie dnia 25 marca 2011 o ograniczaniu barier administracyjnych dla obywateli przedsiębiorców (Dz. U. 106, 622) w art. 26 uchyla się pkt 3.
 
-**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 7, który wchodzi w życie dniem 30 czerwca 2011 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. 2004 99, 1001, 2005 122, 1024, 2006 94, 651, 2007 125, 873, 2008 163, 1014, 77, 649 oraz 2011 106, 622. Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. 2001 102, 1117, 2003 49, 408 229, 2276, 2005 132, 1108, 183, 1538 184,
+**Art. 8.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 7, który wchodzi w życie dniem 30 czerwca 2011 Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. 2004 99, 1001, 2005 122, 1024, 2006 94, 651, 2007 125, 873, 2008 163, 1014, 2009 77, 649 oraz 2011 106, 622. Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. 2001 102, 1117, 2003 49, 408 229, 2276, 2005 132, 1108, 183, 1538 184,
 

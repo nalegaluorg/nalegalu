@@ -21,15 +21,15 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1946-10-07 |
+| Wejście w życie | 1946-10-31 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19460540305) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1946/305/text.pdf) |
 
-Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz.U. R. P. Nr I, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje: W dekrecie z dnia 7 lipca 1945 r. o odtworzeniu dyplomów i świadectw z ukończenia nauki (Dz.U. R. P. Nr 27 poz. 164) wprowadza się następujące zmiany:
-1) Art. 5 otrzymuje następujące brzmienie: „Art. 5. Postępowanie z wniosków o odtworzenie dokumentu odbywa się według przepisów kodeksu postępowania niespornego, o ile przepisy niniejszego dekretu nie stanowią inaczej”.
-2) Art. 6 otrzymuje następujące brzmienie: „Art. 6. 1. Postanowienie uwzględniające wniosek o odtworzenie dokumentu winno zawierać istotna treść zaginionego lub zniszczonego dokumentu, oznaczenie instytucji lub osoby, która dokument wystawiła, oraz datę jego wystawienia przynajmniej przybliżoną. W przypadku niemożności odtworzenia istotnej treści dokumentu wniosek podlega całkowitemu oddaleniu.
-2. Postanowienie nie może zapaść przed upływem miesiąca od ukazania się ogłoszenia”.
-3) Art. 7 18 skreśla się .
-4) Poart. 12 dodaje się nowy art. 12/1 w następującym brzmieniu: „Art. 12/1. Od wniosku o odtworzenie dokumentu oraz od zażalenia pobiera się wpis stały w wysokości 100 zł. Poza tym stosuje się odpowiednio przepisy o kosztach sądowych”.
-Wykonanie dekretu niniejszego porucza się Ministrowi Sprawiedliwości.
-Dekret niniejszy wchodzi w życie z dniem ogłoszenia.
+Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz.U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:
+
+**Art. 1.** W dekrecie z dnia 7 lipca 1945 r. o odtworzeniu dyplomów 1 świadectw z ukończenia nauki (Dz.U. R. P. Nr 27 poz. 164) wprowadza się następujące zmiany:
+
+**Art. 2.** Wykonanie dekretu niniejszego porucza się Ministrowi Sprawiedliwości.
+
+**Art. 3.** Dekret niniejszy wchodzi w życie z dniem ogłoszenia.
 

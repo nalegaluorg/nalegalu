@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1989-04-07 |
 | Data wydania | 1989-04-10 |
+| Wejście w życie | 1989-04-10 |
 | Ostatnia zmiana | 2024-07-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890200106) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/106/text.pdf) |
 

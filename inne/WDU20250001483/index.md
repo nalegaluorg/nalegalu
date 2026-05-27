@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-10-28 |
-| Ostatnia zmiana | 2026-04-03 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1483/text.pdf) |
 
 ### DZIAŁ I Zasady finansów publicznych
@@ -909,6 +909,8 @@ source: "isap-pdf"
 
 4. Wolne środki, o których mowa w ust. 3, nie obejmują środków w walutach obcych. Środki te mogą być lokowane w sposób, o którym mowa w ust. 1 pkt 3.
 
+4a. Bank Gospodarstwa Krajowego dokonuje lokat wolnych środków funduszy utworzonych, powierzonych lub przekazanych temu bankowi na podstawie odrębnych ustaw, w formie depozytu u Ministra Finansów. Przepisy ust. 3 i ust. 4 zdanie pierwsze stosuje się odpowiednio.
+
 5. Wolne środki agencji płatniczych będące środkami, o których mowa w art. 208 ust. 2, oraz środki przeznaczone na współfinansowanie realizacji zadań finansowanych z udziałem tych środków nie są objęte obowiązkiem lokowania w formie depozytu u Ministra Finansów. Środki te mogą być lokowane w sposób określony w ust. 1.
 
 **Art. 49.**
@@ -1411,9 +1413,15 @@ source: "isap-pdf"
 
 1. W przypadku, o którym mowa w art. 48 ust. 1 pkt 4, Minister Finansów przyjmuje wolne środki w depozyt na warunkach określonych w umowie.
 
-2. Minister Finansów może przyjmować wolne środki podmiotów niebędących jednostkami sektora finansów publicznych, a zaliczanych do sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm. ) w depozyt na warunkach określonych w umowie.
+2. Minister Finansów może przyjmować wolne środki podmiotów niebędących jednostkami sektora finansów publicznych, a zaliczanych do sektora instytucji rządowych i samorządowych w rozumieniu rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013, str. 1, z późn. zm. ) w depozyt na warunkach określonych w umowie, z zastrzeżeniem art. 78ba.
 
-3. Przyjęcie wolnych środków w depozyt na okres do 3 dni od podmiotów, o których mowa w ust. 1 i 2, może nastąpić wyłącznie w przypadku, gdy obsługę bankową prowadzi Bank Gospodarstwa Krajowego.
+3. Przyjęcie wolnych środków w depozyt na okres do 3 dni od podmiotów, o których mowa w ust. 1 i 2, może nastąpić wyłącznie w przypadku, gdy obsługę bankową prowadzi Bank Gospodarstwa Krajowego. Art. 78ba. 1. W przypadku, o którym mowa w art. 48 ust. 4a, Minister Finansów przyjmuje wolne środki w depozyt na warunkach określonych w umowie. Przepis art. 78c stosuje się odpowiednio.
+
+2. Umowa, o której mowa w ust. 1, określa co najmniej:
+
+- **1)** warunki przekazywania i przyjmowania wolnych środków w depozyt, w szczególności terminy przekazywania tych środków i terminy ich zwrotu;
+- **2)** wysokość lub sposób obliczania oprocentowania środków przyjętych w depozyt;
+- **3)** szczegółowe warunki rozwiązywania depozytu przed terminem, na jaki został on utworzony.
 
 **Art. 78c.** W przypadku, o którym mowa w art. 48 ust. 2, wolne środki są przyjmowane w depozyt przez Ministra Finansów na czas oznaczony i podlegają zwrotowi zgodnie z dyspozycją danej jednostki sektora finansów publicznych.
 
@@ -1755,7 +1763,7 @@ source: "isap-pdf"
 
 **Art. 112a.** (uchylony)
 
-**Art. 112a¹.** (uchylony) Art. 112aa. 1. Kwota wydatków na dany rok organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, jest obliczana według wzoru: WYD = WYD ⋅E (DEF )⋅WPKB +K +E (∆DD ) przy czym: WYD = WYD DEF ∙ E (DEF E ∙ ) (DEF ) E (DEF ) ∙ √ E ( E ∙ ) ( ) E ( ) WPKB PKB = √ PKB ∙E PKB ( PKB )∙E PKB ( PKB ) w którym poszczególne symbole oznaczają: n – rok, na który jest obliczana kwota wydatków, n−1 – rok poprzedzający rok n, n−2 – rok poprzedzający rok n o dwa lata, n−3 – rok poprzedzający rok n o trzy lata, n−8 – rok poprzedzający rok n o osiem lat, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, DEF – ogłoszony przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2a deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu, K – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i , o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n− 2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n− 1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E (∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025. 2. W kwocie wydatków, o której mowa w ust. 1, i kwocie, o którą pomniejsza się tę kwotę zgodnie z ust. 3, oraz limicie wydatków, o którym mowa w ust. 3, nie uwzględnia się:
+**Art. 112a¹.** (uchylony) Art. 112aa. 1. Kwota wydatków na dany rok organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, jest obliczana według wzoru: WYD = WYD ⋅E (DEF )⋅WPKB +K +E (∆DD ) przy czym: WYD = WYD DEF ∙ E (DEF E ∙ ) (DEF ) E (DEF ) ∙ √ E ( E ∙ ) ( ) E ( ) WPKB PKB = √ PKB ∙E PKB ( PKB )∙E PKB ( PKB ) w którym poszczególne symbole oznaczają: n – rok, na który jest obliczana kwota wydatków, n−1 – rok poprzedzający rok n, n−2 – rok poprzedzający rok n o dwa lata, n−3 – rok poprzedzający rok n o trzy lata, n−8 – rok poprzedzający rok n o osiem lat, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n przedłożonym Sejmowi, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, skorygowana zgodnie z aktualizacją prognoz deflatora produktu krajowego brutto oraz wartości produktu krajowego brutto w cenach stałych, WYD – kwota wydatków określona w projekcie ustawy budżetowej na rok n ‒ 1 przedłożonym Sejmowi, a w przypadku gdy w roku n ‒ 1 zastosowano przepis art. 112d ust. 1 ‒ kwota wydatków, o której mowa w art. 112d ust. 2 albo art. 112da ust. 2, DEF – ogłoszony przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2a deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−2; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n−1; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, E (DEF ) – prognozowany w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi deflator produktu krajowego brutto w roku n; jeżeli deflator ten jest niższy od 1, przyjmuje się, że wynosi 1, WPKB – wskaźnik średniookresowej dynamiki wartości produktu krajowego brutto w cenach stałych określony w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi z dokładnością do setnych części procentu, K – wielkość korekty kwoty wydatków określona w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2 łączna dynamika wartości produktu krajowego brutto; jeżeli w latach od n−8 do n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, PKB ⁄ PKB – ogłoszona przez Prezesa Głównego Urzędu Statystycznego zgodnie z art. 38b pkt 2b dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n− 2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n− 1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n; jeżeli w latach n i n−1 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−1; jeżeli w latach n−1 i n−2 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ) – prognozowana w uzasadnieniu projektu ustawy budżetowej na rok n−1 przedłożonego Sejmowi roczna dynamika wartości produktu krajowego brutto w cenach stałych w roku n−2; jeżeli w latach n−2 i n−3 zawierają się rok s lub lata i, o których mowa w art. 112d ust. 3, wskaźnik ten oblicza się zgodnie z art. 112d ust. 6, E ( ∆DD ) – prognozowana wartość ogółem działań dyskrecjonalnych, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2024/1263 z dnia 29 kwietnia 2024 r. w sprawie skutecznej koordynacji polityk gospodarczych i w sprawie wielostronnego nadzoru budżetowego oraz uchylającym rozporządzenie Rady (WE) nr 1466/97 (Dz. Urz. UE L 2024/1263 z 30.04.2024), mających wpływ na dochody organów i jednostek, o których mowa w art. 9 pkt 1–3, 5–9, 15, państwowych osób prawnych, o których mowa w art. 9 pkt 14, a także funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw, z tytułu podatków lub składek, o których mowa w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 549/2013 z dnia 21 maja 2013 r. w sprawie europejskiego systemu rachunków narodowych i regionalnych w Unii Europejskiej (Dz. Urz. UE L 174 z 26.06.2013), planowanych lub przyjętych na rok n, jeżeli wartość każdego z tych działań w okresie 12 kolejnych miesięcy począwszy od miesiąca rozpoczęcia stosowania działania dyskrecjonalnego przekracza 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi; w przypadku planowanej w roku n rezygnacji z działań dyskrecjonalnych dokonanych w latach poprzednich w prognozowanej wartości ogółem działań dyskrecjonalnych w roku n uwzględnia się wpływ na kwotę WYD dokonanych działań dyskrecjonalnych, który wystąpiłby w przypadku braku rezygnacji z tych działań w roku n, z tym że w przypadku dokonywania w roku n aktualizacji wartości działań dyskrecjonalnych uwzględnionych w latach poprzednich nie ma zastosowania warunek przekroczenia przez każde z nich 0,03 % wartości produktu krajowego brutto prognozowanej w uzasadnieniu projektu ustawy budżetowej na rok n przedłożonego Sejmowi, przy czym rok n nie jest wcześniejszy niż rok 2025. 2. W kwocie wydatków, o której mowa w ust. 1, i kwocie, o którą pomniejsza się tę kwotę zgodnie z ust. 3, oraz limicie wydatków, o którym mowa w ust. 3, nie uwzględnia się:
 
 **Art. 112b.** (uchylony)
 
@@ -1780,7 +1788,7 @@ source: "isap-pdf"
 
 2. W przypadkach, o których mowa w ust. 1, Minister Finansów oblicza kwotę wydatków, o której mowa w art. 112aa ust. 1.
 
-3. Po roku, w którym zastosowano przepis ust. 1, do roku poprzedzającego rok, o którym mowa w ust. 4, kwota wydatków, o której mowa w art. 112aa ust. 1, jest obliczana według wzoru: WYD = WYD k−i + (S k +S′ ) w którym poszczególne symbole oznaczają: WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1, WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, n – rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, s – rok zastosowania przepisu ust. 1, i – kolejne lata po roku, w którym zastosowano przepis ust. 1, przy czym i = {1, 2, 3}, k – rok, w którym kwota wydatków będzie obliczona zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku, w którym zastosowano przepis ust. 1, przy czym k = {2, 3, 4}, S – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, S′ – korekta sumy skutków finansowych po stronie dochodów i wydatków poniesionych w roku s wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, wynikająca ze sprawozdania z wykonania ustawy budżetowej na rok s albo 0 w pozostałych przypadkach.
+3. Po roku, w którym zastosowano przepis ust. 1, do roku poprzedzającego rok, o którym mowa w ust. 4, kwota wydatków, o której mowa w art. 112aa ust. 1, jest obliczana według wzoru: WYD = WYD + k−i k (S +S′ ) w którym poszczególne symbole oznaczają: WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, powiększona o sumę skutków finansowych związanych ze stanem, o którym mowa w ust. 1, WYD – kwota wydatków, o której mowa w art. 112aa ust. 1, n – rok, na który jest obliczana kwota wydatków, o której mowa w art. 112aa ust. 1, s – rok zastosowania przepisu ust. 1, i – kolejne lata po roku, w którym zastosowano przepis ust. 1, przy czym i = {1, 2, 3}, k – rok, w którym kwota wydatków będzie obliczona zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku, w którym zastosowano przepis ust. 1, przy czym k = {2, 3, 4}, S – suma prognozowanych w uzasadnieniu projektu ustawy budżetowej na rok s przedłożonego Sejmowi lub w uzasadnieniu projektu ustawy zmieniającej ustawę budżetową na rok s przedłożonego Sejmowi skutków finansowych po stronie dochodów i wydatków wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, S′ – korekta sumy skutków finansowych po stronie dochodów i wydatków poniesionych w roku s wynikających z działań dyskrecjonalnych bezpośrednio nakierowanych na powstrzymanie skutków stanu, o którym mowa w ust. 1, i walkę z tymi skutkami oraz na bezpośrednie wsparcie dotkniętych nim podmiotów, wynikająca ze sprawozdania z wykonania ustawy budżetowej na rok s albo 0 w pozostałych przypadkach.
 
 4. Rokiem, w którym kwota wydatków będzie obliczana zgodnie z art. 112aa ust. 1, licząc od roku następującego po roku zastosowania przepisu ust. 1, jest rok:
 
@@ -2277,7 +2285,7 @@ source: "isap-pdf"
     - **a)** wielkości wskaźnika średniookresowej dynamiki wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1,
     - **b)** wielkości korekty kwoty wydatków, o której mowa w art. 112aa ust. 1,
     - **c)** wartości klauzuli obronnej, o której mowa w art. 112aa ust. 4a,
-    - **d)** różnicach, o których mowa w art. 112aa ust. 4a pkt 1–3,
+    - **d)** (uchylona)
     - **e)** każdym dyskrecjonalnym działaniu przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 1,
     - **f)** aktualizacji wartości działań dyskrecjonalnych, o których mowa w art. 112aa ust. 1,
     - **g)** każdym jednorazowym i tymczasowym działaniu po stronie dochodów przekraczającym 0,03 % wartości produktu krajowego brutto, o którym mowa w art. 112aa ust. 3;
@@ -2858,9 +2866,8 @@ source: "isap-pdf"
 - **4)** informacje dotyczące otrzymanych i wydatkowanych środków, o których mowa w art. 5 ust. 1 pkt 2 i 3;
 - **5)** (uchylony)
 - **6)** informację o realizacji kwoty wydatków obliczonej zgodnie z art. 112aa ust. 1 albo art. 112d ust. 3 oraz kwoty limitu wydatków, o którym mowa w art. 112aa ust. 3;
-- **6a)** informację o różnicy pomiędzy wykonanymi wydatkami na zakup sprzętu wojskowego a wartością dokonanych dostaw sprzętu wojskowego;
-- **6b)** informację o wykonaniu planów finansowych funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
-- **7)** (uchylony) 4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o których mowa w ust. 4 pkt 6 i 6a.
+- **6a)** (uchylony) 6b) informację o wykonaniu planów finansowych funduszy utworzonych, powierzonych lub przekazanych Bankowi Gospodarstwa Krajowego na podstawie odrębnych ustaw.
+- **7)** (uchylony) 4a. W roku s, o którym mowa w art. 112d ust. 3, do sprawozdania nie dołącza się informacji, o której mowa w ust. 4 pkt 6.
 
 4b. (uchylony)
 
@@ -3234,7 +3241,7 @@ source: "isap-pdf"
 
 1a. Zgłoszenie podmiotu do rejestru, o którym mowa w ust. 1, odbywa się za pośrednictwem elektronicznej platformy usług administracji publicznej ePUAP, o której mowa w przepisach o informatyzacji działalności podmiotów realizujących zadania publiczne.
 
-1b. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, instytucji audytowej oraz beneficjentom projektów grantowych.
+1b. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, za pośrednictwem systemu teleinformatycznego, o którym mowa w ust. 1, instytucjom zarządzającym, organom pełniącym funkcję odpowiednio Krajowego Punktu Kontaktowego lub Krajowej Instytucji Koordynującej w programach finansowanych ze środków, o których mowa w art. 5 ust. 3 pkt 2, instytucjom pośredniczącym, operatorom programów, instytucjom wdrażającym, instytucji certyfikującej, instytucji audytowej, dyrektorowi izby administracji skarbowej działającemu jako organ wykonujący audyt, o którym mowa w art. 95 ust. 1 pkt 1 i 1a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131, 1423, 1820 i 1863 oraz z 2026 r. poz. 415 i 483), oraz beneficjentom projektów grantowych.
 
 1c. Minister Finansów udostępnia informacje zawarte w rejestrze, o którym mowa w ust. 1, beneficjentom w zakresie ich własnego statusu.
 
@@ -4122,13 +4129,304 @@ source: "isap-pdf"
     - **a)** jeden z certyfikatów: Certified Internal Auditor (CIA), Certified Government Auditing Professional (CGAP), Certified Information Systems Auditor (CISA), Association of Chartered Certified Accountants (ACCA), Certified Fraud Examiner (CFE), Certification in Control Self Assessment (CCSA), Certified Financial Services Auditor (CFSA) lub Chartered Financial Analyst (CFA), lub
     - **b)** złożyła, w latach 2003–2006, z wynikiem pozytywnym egzamin na audytora wewnętrznego przed Komisją Egzaminacyjną powołaną przez Ministra Finansów, lub
     - **c)** uprawnienia biegłego rewidenta, lub
-    - **d)** dwuletnią praktykę w zakresie audytu wewnętrznego i legitymuje się dyplomem ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydanym przez jednostkę organizacyjną, która w dniu wydania dyplomu była uprawniona, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora nauk ekonomicznych lub prawnych.
+    - **d)** dwuletnią praktykę w zakresie audytu wewnętrznego i uzyskała świadectwo ukończenia studiów podyplomowych w zakresie audytu wewnętrznego, wydane przez podmiot, który w dniu wydania świadectwa był uprawniony, zgodnie z odrębnymi ustawami, do nadawania stopnia naukowego doktora w dziedzinie nauk społecznych w dyscyplinach naukowych: ekonomia i finanse, nauki o zarządzaniu i jakości, nauki o polityce i administracji lub nauki prawne, lub
+    - **e)** złożyła z wynikiem pozytywnym egzamin państwowy na audytora wewnętrznego, zwany dalej „egzaminem”.
 
 2. Za praktykę w zakresie audytu wewnętrznego, o której mowa w ust. 1 pkt 5 lit. d, uważa się udokumentowane przez kierownika jednostki wykonywanie czynności, w wymiarze czasu pracy nie mniejszym niż 1/2 etatu, związanych z:
 
 - **1)** przeprowadzaniem audytu wewnętrznego pod nadzorem audytora wewnętrznego;
 - **2)** realizacją czynności w zakresie audytu gospodarowania środkami pochodzącymi z budżetu Unii Europejskiej oraz niepodlegającymi zwrotowi środkami z pomocy udzielanej przez państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA), o którym mowa w ustawie z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2025 r. poz. 1131);
 - **3)** nadzorowaniem lub wykonywaniem czynności kontrolnych, o których mowa w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623).
+
+**Art. 286a.**
+
+1. Egzamin składa się przed Państwową Komisją Egzaminacyjną do Spraw Audytu Wewnętrznego, zwaną dalej „Komisją Egzaminacyjną”.
+
+2. Egzamin przeprowadza się raz w roku w okresie od dnia 1 września do dnia 30 września, w terminie ustalonym przez Ministra Finansów w porozumieniu z dyrektorem Krajowej Szkoły Administracji Publicznej im. Prezydenta Rzeczypospolitej Polskiej Lecha Kaczyńskiego, zwanej dalej „KSAP”.
+
+3. Do egzaminu może zostać zakwalifikowana osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, który został pozytywnie zweryfikowany i osoba ta wniosła w terminie opłatę egzaminacyjną, zwana dalej „kandydatem”.
+
+4. Egzaminu nie przeprowadza się w roku, w którym liczba kandydatów jest mniejsza niż 100.
+
+5. W przypadku gdy w dwóch kolejnych latach egzamin nie został przeprowadzony z powodu niespełnienia warunku, o którym mowa w ust. 4, w roku następującym po tym okresie Minister Finansów może zlecić KSAP przeprowadzenie egzaminu mimo niespełnienia tego warunku.
+
+6. Informację o terminie przeprowadzenia egzaminu dyrektor KSAP ogłasza, w terminie do końca kwietnia każdego roku, w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP i doręcza ją kandydatom. Informację tę ogłasza się również w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+
+7. W przypadku niespełnienia warunku, o którym mowa w ust. 4, dyrektor KSAP ogłasza, w terminie do dnia 15 marca danego roku, w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP, informację o nieprzeprowadzeniu egzaminu w danym roku i doręcza ją osobom, które złożyły wniosek o zakwalifikowanie do egzaminu. Informację tę ogłasza się również w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów.
+
+**Art. 286b.**
+
+1. KSAP organizuje egzamin, realizuje zadania związane z jego przeprowadzeniem oraz zapewnia obsługę Komisji Egzaminacyjnej.
+
+2. KSAP może zlecić:
+
+- **1)** opracowanie testu i zadania egzaminacyjnego, o których mowa w art. 286l ust. 2, wraz z arkuszem prawidłowych odpowiedzi na pytania testowe i kluczem rozwiązania zadania egzaminacyjnego,
+- **2)** sprawdzanie prac egzaminacyjnych kandydatów,
+- **3)** przygotowanie innych materiałów niezbędnych do przeprowadzenia egzaminu – osobom niezatrudnionym w KSAP, które posiadają wiedzę i doświadczenie gwarantujące wysoką jakość wykonywanych zadań oraz ich odpowiedni poziom merytoryczny, zapewniając przy tym właściwy poziom bezpieczeństwa oraz poufności danych, w tym danych osobowych, oraz informacji i dokumentów przetwarzanych w związku z tymi zadaniami.
+
+3. KSAP pokrywa koszty organizacji i przeprowadzenia egzaminu, koszty wynagrodzeń członków Komisji Egzaminacyjnej oraz koszty jej obsługi.
+
+4. W przypadku, o którym mowa w art. 286a ust. 5, koszty, o których mowa w ust. 3, mogą zostać pokryte z dotacji celowej z budżetu państwa.
+
+5. Dyrektor KSAP przedkłada Ministrowi Finansów, w terminie do dnia 31 grudnia, sprawozdanie z realizacji zadań, o których mowa w ust. 1, w roku bieżącym.
+
+6. KSAP jest administratorem danych osobowych przetwarzanych w celach związanych z działalnością Komisji Egzaminacyjnej oraz organizacją i przeprowadzeniem egzaminu.
+
+**Art. 286c.**
+
+1. Za egzamin pobiera się opłatę egzaminacyjną, która składa się z opłaty wstępnej i opłaty za egzamin. Wysokość opłaty egzaminacyjnej nie może przekroczyć równowartości 30 % przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Opłata egzaminacyjna stanowi przychód KSAP.
+
+2. W przypadku przyznania dotacji celowej, o której mowa w art. 286b ust. 4, opłata egzaminacyjna za egzamin, o którym mowa w art. 286a ust. 5, stanowi dochód budżetu państwa.
+
+3. Opłata wstępna stanowi 10 % opłaty egzaminacyjnej i nie podlega zwrotowi.
+
+4. W przypadku, o którym mowa w art. 286a ust. 4, opłata wstępna podlega zwrotowi w pełnej wysokości.
+
+5. Opłata za egzamin stanowi 90 % opłaty egzaminacyjnej i podlega zwrotowi w całości w przypadku:
+
+- **1)** uwzględnienia odwołania, o którym mowa w art. 286m ust. 3;
+- **2)** unieważnienia egzaminu.
+
+6. Część opłaty za egzamin w wysokości 25 % tej opłaty podlega zwrotowi na wniosek kandydata, który nie przystąpił do egzaminu, złożony w terminie 14 dni od dnia, w którym został przeprowadzony egzamin.
+
+**Art. 286d.**
+
+1. KSAP wykonuje zadania, o których mowa w art. 286b ust. 1, przy wykorzystaniu systemu teleinformatycznego, zwanego dalej „systemem”, służącego do:
+
+- **1)** składania i doręczania wniosków oraz pism w sprawach dotyczących egzaminu;
+- **2)** gromadzenia i przetwarzania danych dotyczących:
+    - **a)** osób, które założyły indywidualne konto w systemie,
+    - **b)** Komisji Egzaminacyjnej i jej członków,
+    - **c)** pracowników KSAP, którym udostępniono indywidualne konto w systemie;
+
+- **3)** obsługi indywidualnych kont w systemie;
+- **4)** realizacji innych zadań i czynności związanych z funkcjonowaniem Komisji Egzaminacyjnej i organizacją egzaminu.
+
+2. System może być wykorzystany do przeprowadzania egzaminu.
+
+3. W systemie funkcjonują indywidualne konta:
+
+- **1)** kandydackie – zakładane przez osoby, które chcą złożyć wniosek o zakwalifikowanie do egzaminu;
+- **2)** funkcyjne – zakładane i udostępniane przez KSAP członkom Komisji Egzaminacyjnej i pracownikom KSAP.
+
+4. Dostęp do indywidualnego konta w systemie jest możliwy do dnia:
+
+- **1)** upływu 3 miesięcy od dnia:
+    - **a)** ogłoszenia informacji o nieprzeprowadzeniu egzaminu – w przypadku, o którym mowa w art. 286a ust. 4,
+    - **b)** przeprowadzenia egzaminu – w przypadku konta kandydackiego;
+
+- **2)** ustania odpowiednio członkostwa w Komisji Egzaminacyjnej lub zatrudnienia w KSAP – w przypadku konta funkcyjnego.
+
+5. Warunkiem dostępu do indywidualnego konta jest uwierzytelnienie dokonywane przy wykorzystaniu numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności (PESEL).
+
+6. Wnioski, o których mowa w art. 286c ust. 6 i art. 286f ust. 1 i 6, oraz pisma dotyczące egzaminu składa się i doręcza się przy wykorzystaniu systemu.
+
+7. Pisma składane za pośrednictwem indywidualnego konta wywołują takie same skutki prawne jak pisma opatrzone własnoręcznym podpisem, kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+
+8. Doręczenie pisma osobie, która posiada w systemie indywidualne konto następuje:
+
+- **1)** z chwilą odebrania pisma przez tę osobę w systemie – w przypadku gdy odebranie pisma nastąpiło w okresie od dnia umieszczenia pisma na jego indywidualnym koncie do końca 7. dnia, licząc od dnia następującego po dniu umieszczenia tego pisma na tym koncie, albo
+- **2)** z upływem ostatniego dnia okresu, o którym mowa w pkt 1 – w przypadku nieodebrania pisma przez tę osobę w systemie w tym okresie.
+
+9. Przez umieszczenie pisma na indywidualnym koncie w systemie rozumie się zaistnienie warunków technicznych umożliwiających odebranie w systemie pisma od KSAP lub Komisji Egzaminacyjnej doręczanego na indywidualne konto.
+
+10. W przypadku awarii systemu uniemożliwiającej przeprowadzenie egzaminu nie dochodzi on do skutku w wyznaczonym terminie.
+
+11. Informację o wystąpieniu i usunięciu awarii systemu zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej KSAP.
+
+12. W okresie trwania awarii systemu składanie i doręczanie pism innych niż wnioski, o których mowa w art. 286c ust. 6 i art. 286f ust. 1 i 6, odbywa się za pośrednictwem poczty elektronicznej na adres, o którym mowa w art. 286f ust. 3 pkt 3, oraz na adres Komisji Egzaminacyjnej wskazany w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Finansów, przy czym w tym przypadku dowodem doręczenia jest potwierdzenie transmisji danych wysłanych na te adresy.
+
+13. Dyrektor KSAP odpowiada za utrzymanie systemu oraz dostępność, autentyczność, integralność i bezpieczeństwo danych zgromadzonych w systemie. Użytkownicy indywidualnych kont w systemie odpowiadają za prawidłowość i rzetelność danych wprowadzanych do systemu.
+
+**Art. 286e.** Wniosek o zakwalifikowanie do egzaminu może złożyć osoba, która spełnia warunki, o których mowa w art. 286 ust. 1 pkt 1–4.
+
+**Art. 286f.**
+
+1. Wniosek o zakwalifikowanie do egzaminu składa się w terminie od dnia 1 lutego do końca tego miesiąca roku, w którym ma się odbyć egzamin.
+
+2. Termin na złożenie wniosku o zakwalifikowanie do egzaminu ulega wydłużeniu o czas trwającej dłużej niż godzinę awarii systemu uniemożliwiającej złożenie tego wniosku, jeżeli ta awaria nastąpiła w okresie tygodnia przed upływem terminu na złożenie tego wniosku.
+
+3. Wniosek o zakwalifikowanie do egzaminu zawiera:
+
+- **1)** imię i nazwisko,
+- **2)** numer PESEL,
+- **3)** adres do korespondencji, adres poczty elektronicznej i numer telefonu kontaktowego,
+- **4)** numer rachunku bankowego lub rachunku w spółdzielczej kasie oszczędnościowo-kredytowej do dokonania zwrotu opłaty wstępnej lub opłaty za egzamin – osoby składającej ten wniosek.
+
+4. Do wniosku o zakwalifikowanie do egzaminu dołącza się:
+
+- **1)** oświadczenie o spełnieniu warunków, o których mowa w art. 286 ust. 1 pkt 1–3;
+- **2)** dyplom w postaci elektronicznej dokumentujący posiadanie wyższego wykształcenia albo elektroniczne odwzorowanie dyplomu dokumentującego posiadanie wyższego wykształcenia;
+- **3)** potwierdzenie uiszczenia opłaty wstępnej;
+- **4)** oświadczenie o prawdziwości danych zawartych we wniosku i w załączonych dokumentach.
+
+5. Oświadczenia, o których mowa w ust. 4 pkt 1 i 4, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872) oraz zawiera się w nich klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+6. W przypadku osoby ubiegającej się o zakwalifikowanie do egzaminu będącej osobą niepełnosprawną, która wraz z wnioskiem o zakwalifikowanie do egzaminu złoży wniosek o wydłużenie czasu trwania egzaminu, do którego załączy:
+
+- **1)** kopię orzeczenia potwierdzającego niepełnosprawność w rozumieniu ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych w dniu składania wniosku,
+- **2)** zaświadczenie lekarskie wystawione przez lekarza specjalistę właściwego ze względu na charakter niepełnosprawności, stwierdzające wynikające z niepełnosprawności trudności w wykonywaniu czynności technicznych, takich jak:
+    - **a)** odczytywanie tekstu,
+    - **b)** posługiwanie się sprzętem komputerowym w sposób umożliwiający sporządzenie odpowiedzi na pytania i rozwiązanie zadania egzaminacyjnego – czas trwania egzaminu ulega wydłużeniu.
+
+7. Osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, jest obowiązana niezwłocznie poinformować Komisję Egzaminacyjną o zmianie danych oraz informacji określonych w ust. 3 pkt 1, 3 i 4, ust. 4 pkt 1 i ust. 6.
+
+8. Wniosek o zakwalifikowanie do egzaminu oraz wniosek o wydłużenie czasu trwania egzaminu podlegają weryfikacji przez KSAP.
+
+9. W przypadku negatywnej weryfikacji wniosku o zakwalifikowanie do egzaminu lub wniosku o wydłużenie czasu trwania egzaminu KSAP może zwrócić się do osoby, która złożyła te wnioski, o uzupełnienie w terminie 7 dni danych lub dokumentów niezbędnych do potwierdzenia spełnienia przez tę osobę warunków, o których mowa w ust. 6 lub art. 286 ust. 1 pkt 1–4. Brak uzupełnienia danych lub dokumentów w wyznaczonym terminie skutkuje pozostawieniem wniosku bez rozpatrzenia.
+
+**Art. 286g.**
+
+1. Osoba, która złożyła wniosek o zakwalifikowanie do egzaminu, jest informowana za pośrednictwem systemu o:
+
+- **1)** zakwalifikowaniu albo niezakwalifikowaniu do egzaminu,
+- **2)** wydłużeniu czasu trwania egzaminu – w przypadku złożenia wniosku o wydłużenie czasu trwania egzaminu – w terminie do dnia 31 marca roku, w którym odbędzie się egzamin.
+
+2. Osoba, która została zakwalifikowana do egzaminu, w terminie 7 dni od dnia doręczenia informacji, o której mowa w ust. 1, uiszcza opłatę za egzamin. Brak uiszczenia opłaty za egzamin w terminie oznacza rezygnację z udziału w egzaminie.
+
+**Art. 286h.**
+
+1. Komisja Egzaminacyjna składa się z 5 członków powoływanych i odwoływanych przez Ministra Finansów.
+
+2. Członkowie Komisji Egzaminacyjnej są powoływani spośród osób, które:
+
+- **1)** korzystają z pełni praw publicznych;
+- **2)** mają nieposzlakowaną opinię;
+- **3)** nie były skazane prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** posiadają co najmniej wyższe wykształcenie;
+- **5)** posiadają co najmniej dziesięcioletnie udokumentowane doświadczenie zawodowe w jednostce sektora finansów publicznych, uczelni, instytucie badawczym lub instytucie naukowym Polskiej Akademii Nauk;
+- **6)** posiadają co najmniej dziesięcioletnie udokumentowane doświadczenie w zakresie:
+    - **a)** tworzenia lub stosowania przepisów prawa, o których mowa w art. 286l ust. 1 pkt 1 lit. a i b, lub
+    - **b)** prowadzenia zajęć dydaktycznych lub badań naukowych w dziedzinie nauk społecznych w dyscyplinie ekonomia i finanse, nauki o bezpieczeństwie, nauki o komunikacji społecznej i mediach, nauki o polityce i administracji, nauki o zarządzaniu i jakości, nauki prawne, nauki socjologiczne lub psychologia, lub
+    - **c)** prowadzenia audytu wewnętrznego.
+
+3. Spełnienie warunku, o którym mowa w ust. 2 pkt 1, osoba potwierdza poprzez złożenie oświadczenia. Do oświadczenia przepis art. 286f ust. 5 stosuje się odpowiednio.
+
+4. Co najmniej dwóch członków Komisji Egzaminacyjnej powinno posiadać doświadczenie, o którym mowa w ust. 2 pkt 6 lit. c.
+
+5. Członek Komisji Egzaminacyjnej nie może podejmować działań, które mogą powodować konflikt interesów, w szczególności nie może:
+
+- **1)** brać udziału w przedsięwzięciach związanych z przygotowywaniem kandydatów do egzaminu;
+- **2)** publikować materiałów dotyczących egzaminu, w tym materiałów służących do przygotowania do egzaminu;
+- **3)** udostępniać i wykorzystywać informacji pozyskanych w trakcie prac Komisji Egzaminacyjnej, w tym dotyczących pytań testowych oraz zadań egzaminacyjnych.
+
+6. Kadencja Komisji Egzaminacyjnej trwa 4 lata, przy czym działa ona do czasu powołania Komisji Egzaminacyjnej kolejnej kadencji, niedłużej jednak niż przez okres 6 miesięcy od dnia upływu jej kadencji.
+
+7. Nie można pełnić funkcji członka Komisji Egzaminacyjnej dłużej niż przez dwie kolejno następujące po sobie kadencje.
+
+8. Członka Komisji Egzaminacyjnej przed upływem kadencji:
+
+- **1)** odwołuje się:
+    - **a)** na jego wniosek,
+    - **b)** w przypadku naruszenia zakazu, o którym mowa w ust. 5,
+    - **c)** w przypadku zaprzestania spełniania warunków, o których mowa w ust. 2 pkt 1–3,
+    - **d)** w przypadku ujawnienia nowych okoliczności wskazujących na niespełnianie w dniu powołania warunków, o których mowa w ust. 2;
+
+- **2)** można odwołać, na wniosek przewodniczącego Komisji Egzaminacyjnej, w przypadku naruszenia regulaminu Komisji Egzaminacyjnej.
+
+9. W przypadku odwołania albo śmierci członka Komisji Egzaminacyjnej Minister Finansów powołuje nowego członka Komisji Egzaminacyjnej, przy czym jego kadencja upływa wraz z upływem kadencji Komisji Egzaminacyjnej.
+
+10. Członkom Komisji Egzaminacyjnej przysługuje w okresie od dnia 1 kwietnia do dnia 31 grudnia roku, w którym odbywa się egzamin, kwartalne wynagrodzenie w wysokości nieprzekraczającej 60 % przeciętnego wynagrodzenia w gospodarce narodowej w poprzednim roku kalendarzowym, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Wynagrodzenie nie przysługuje członkowi Komisji Egzaminacyjnej wyłączonemu na podstawie art. 286k ust. 1.
+
+11. Minister Finansów określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Komisji Egzaminacyjnej, mając na uwadze nakład pracy oraz zakres realizowanych przez nich obowiązków związanych z przygotowaniem i przeprowadzeniem egzaminu.
+
+**Art. 286i.**
+
+1. Pracami Komisji Egzaminacyjnej kieruje przewodniczący Komisji Egzaminacyjnej wyznaczony przez Ministra Finansów spośród jej członków. Przewodniczący Komisji Egzaminacyjnej reprezentuje Komisję Egzaminacyjną. W przypadku wyłączenia przewodniczącego Komisji Egzaminacyjnej na podstawie art. 286k ust. 1 Minister Finansów powierza czasowe pełnienie obowiązków przewodniczącego Komisji Egzaminacyjnej innemu jej członkowi.
+
+2. Komisja Egzaminacyjna podejmuje rozstrzygnięcia na posiedzeniach w formie uchwał podejmowanych zwykłą większością głosów. W przypadku wyłączenia członka Komisji Egzaminacyjnej na podstawie art. 286k ust. 1, a także przy równej liczbie głosów rozstrzyga głos przewodniczącego Komisji Egzaminacyjnej.
+
+3. Posiedzenia Komisji Egzaminacyjnej mogą odbywać się w formie zdalnej.
+
+4. W przypadku utrwalania posiedzeń Komisji Egzaminacyjnej za pomocą urządzeń rejestrujących obraz i dźwięk warunki przechowywania zapisów obrazu i dźwięku oraz ochrony danych, w tym danych osobowych, utrwalonych na tych zapisach zapewnia dyrektor KSAP.
+
+5. Komisja Egzaminacyjna określa regulamin swojego działania.
+
+**Art. 286j.**
+
+1. Do zadań Komisji Egzaminacyjnej należy:
+
+- **1)** zatwierdzanie listy kandydatów;
+- **2)** zatwierdzanie pytań testowych i zadania egzaminacyjnego, o których mowa w art. 286l ust. 2, wraz z arkuszem prawidłowych odpowiedzi na pytania testowe i kluczem rozwiązania zadania egzaminacyjnego oraz innych materiałów służących do przeprowadzenia egzaminu;
+- **3)** unieważnianie egzaminu w przypadkach, o których mowa w art. 286n;
+- **4)** rozpatrywanie odwołania od wykluczenia z egzaminu oraz odwołania, o którym mowa w art. 286p ust. 1 pkt 2;
+- **5)** zatwierdzanie listy kandydatów, którzy złożyli egzamin z wynikiem pozytywnym;
+- **6)** wydawanie zaświadczeń o złożeniu egzaminu z wynikiem pozytywnym.
+
+2. Komisja Egzaminacyjna przedkłada Ministrowi Finansów, w terminie do dnia 31 grudnia, sprawozdanie z działalności w roku bieżącym.
+
+**Art. 286k.**
+
+1. Minister Finansów, na wniosek dyrektora KSAP, wyłącza członka Komisji Egzaminacyjnej z realizacji zadań Komisji Egzaminacyjnej, o których mowa w art. 286j ust. 1 pkt 2–6, w przypadku gdy do egzaminu zakwalifikowano kandydata będącego:
+
+- **1)** jego małżonkiem;
+- **2)** osobą pozostającą z nim w stosunku:
+    - **a)** pokrewieństwa albo powinowactwa do drugiego stopnia,
+    - **b)** przysposobienia;
+
+- **3)** osobą pozostającą wobec niego w stosunku osobistym innego rodzaju albo w stosunku służbowym, który mógłby wywoływać wątpliwości co do jego bezstronności.
+
+2. Powody wyłączenia trwają pomimo ustania przesłanek wyłączenia, o których mowa w ust. 1.
+
+3. Członek Komisji Egzaminacyjnej składa, w formie pisemnej, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń wynikającej z art. 233 § 6 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, oświadczenie o braku istnienia okoliczności, o których mowa w ust. 1 i 2. Składający oświadczenie zamieszcza w nim klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”, która zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 286l.**
+
+1. Egzamin jest składany w formie pisemnej i obejmuje sprawdzenie przygotowania kandydata do prowadzenia audytu wewnętrznego w sektorze finansów publicznych, w tym:
+
+- **1)** wiedzy z zakresu:
+    - **a)** przepisów ustawy i przepisów wydanych na jej podstawie, w szczególności regulujących kontrolę zarządczą i audyt wewnętrzny,
+    - **b)** innych niż wskazane w lit. a przepisów regulujących funkcjonowanie sektora finansów publicznych i jednostek sektora finansów publicznych,
+    - **c)** standardów kontroli zarządczej dla sektora finansów publicznych i standardów audytu wewnętrznego dla jednostek sektora finansów publicznych;
+
+- **2)** umiejętności stosowania wiedzy z zakresu, o którym mowa w pkt 1;
+- **3)** kompetencji analitycznych, społecznych i technicznych niezbędnych do skutecznego prowadzenia audytu wewnętrznego w jednostkach sektora finansów publicznych.
+
+2. Egzamin składa się z dwóch części:
+
+- **1)** pytań testowych;
+- **2)** zadania egzaminacyjnego.
+
+3. Minister Finansów, niepóźniej niż do końca stycznia roku, w którym odbędzie się egzamin, ogłosi w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu go obsługującego wykaz tytułów aktów prawnych obejmujących przepisy, o których mowa w ust. 1 pkt 1 lit. b.
+
+**Art. 286m.**
+
+1. W trakcie egzaminu kandydat nie może korzystać z pomocy innej osoby, posiadać niedozwolonych materiałów lub urządzeń służących do kopiowania, przekazywania i odbioru informacji, a także pomagać innym kandydatom lub w inny sposób zakłócać przebiegu egzaminu.
+
+2. Członek Komisji Egzaminacyjnej wyklucza z egzaminu kandydata, który podczas egzaminu korzystał z pomocy innej osoby, posiadał niedozwolone materiały lub urządzenia, pomagał innym kandydatom lub w inny sposób zakłócał przebieg egzaminu. Wykluczenie z egzaminu jest równoznaczne z uzyskaniem negatywnego wyniku egzaminu.
+
+3. Kandydatowi wykluczonemu z egzaminu przysługuje prawo wniesienia pisemnego odwołania do Komisji Egzaminacyjnej w terminie 7 dni od dnia egzaminu, z którego został wykluczony.
+
+4. Rozstrzygnięcie Komisji Egzaminacyjnej w sprawie odwołania od wykluczenia kandydata z egzaminu jest ostateczne.
+
+**Art. 286n.** W przypadku rażących uchybień formalnych w przebiegu egzaminu lub nieprzewidzianych sytuacji mających wpływ na przebieg egzaminu Komisja Egzaminacyjna może unieważnić egzamin.
+
+**Art. 286o.** Pozytywny wynik egzaminu uzyskuje kandydat, który w każdej z dwóch części egzaminu uzyskał co najmniej 75 % możliwych do zdobycia punktów.
+
+**Art. 286p.**
+
+1. Kandydatowi, który uzyskał negatywny wynik egzaminu, przysługuje:
+
+- **1)** prawo wglądu do tej części egzaminu, z której nie otrzymał wymaganej liczby punktów – w terminie 7 dni od dnia przekazania informacji o tym wyniku;
+- **2)** prawo wniesienia pisemnego odwołania do Komisji Egzaminacyjnej odpowiednio od wyniku egzaminu albo tej części egzaminu, z której nie otrzymał wymaganej liczby punktów – w terminie 14 dni od dnia przekazania informacji o tym wyniku.
+
+2. Podczas dokonywania wglądu, o którym mowa w ust. 1 pkt 1, kandydat może sporządzać notatki.
+
+3. Rozstrzygnięcie Komisji Egzaminacyjnej w sprawie odwołania, o którym mowa w ust. 1 pkt 2, jest ostateczne.
+
+**Art. 286q.**
+
+1. Kandydat, który uzyskał pozytywny wynik egzaminu, otrzymuje zaświadczenie o złożeniu egzaminu z wynikiem pozytywnym. Zaświadczenie zawiera imię i nazwisko oraz numer PESEL kandydata oraz imię i nazwisko oraz podpis przewodniczącego Komisji Egzaminacyjnej.
+
+2. Zaświadczenie o złożeniu egzaminu z wynikiem pozytywnym jest wydawane w dwóch egzemplarzach. Jeden egzemplarz przechowuje się w KSAP w celu wydania jego kopii.
+
+**Art. 286r.**
+
+1. Dane osobowe osoby, która założyła w systemie indywidualne konto kandydackie, przechowuje się przez okres 5 lat, licząc od roku następującego po roku, w którym założono to konto.
+
+2. Egzemplarz zaświadczenia, o którym mowa w art. 286q ust. 2, KSAP przechowuje przez okres 50 lat, licząc od roku następującego po roku, w którym kandydat przystąpił do egzaminu.
+
+**Art. 286s.** Minister Finansów określi, w drodze rozporządzenia:
 
 **Art. 287.**
 

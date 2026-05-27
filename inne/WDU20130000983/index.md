@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz niektórych innych ustaw
 
-*USTAWA dnia 26 lipca o zmianie ustawy o systemie ubezpieczeń społecznych niektórych innych ustaw*
+*USTAWA dnia 26 lipca 2013 o zmianie ustawy o systemie ubezpieczeń społecznych niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-07-26 |
 | Data wydania | 2013-08-27 |
+| Wejście w życie | 2013-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/983/text.pdf) |
 
@@ -31,7 +32,7 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie dnia 20 grudnia 1990 o ubezpieczeniu społecznym rolników (Dz. U. 2008 50, 291, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 16b.** Przepisy art. 16a stosuje się także do rolnika lub domownika podlegającego ubezpieczeniu społecznemu rolników na podstawie art. 5a, pod warunkiem zaprzestania prowadzenia albo zawieszenia wykonywania pozarolniczej działalności gospodarczej na podstawie art. 14a ust. 1d ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. 672, 675 983), albo współpracy przy prowadzeniu tej działalności okresie sprawowania osobistej opieki nad dzieckiem.
+**Art. 16b.** Przepisy art. 16a stosuje się także do rolnika lub domownika podlegającego ubezpieczeniu społecznemu rolników na podstawie art. 5a, pod warunkiem zaprzestania prowadzenia albo zawieszenia wykonywania pozarolniczej działalności gospodarczej na podstawie art. 14a ust. 1d ustawy dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. 2013 672, 675 983), albo współpracy przy prowadzeniu tej działalności okresie sprawowania osobistej opieki nad dzieckiem.
 
 **Art. 16c.**
 
@@ -45,13 +46,13 @@ source: "isap-pdf"
 
 **Art. 16f.** Za osobę sprawującą osobistą opiekę nad dzieckiem, o której mowa art. 16a, art. 16b art. 16c, uważa się osobę sprawującą osobistą opiekę nad dzieckiem własnym lub swojego małżonka, lub dzieckiem przysposobionym.”;
 
-**Art. 4.** W ustawie dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. 672 675) wprowadza się następujące zmiany:
+**Art. 4.** W ustawie dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. 2013 672 675) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 2008 164, 1027, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 6.** W ustawie dnia 4 lutego 2011 o opiece nad dziećmi wieku do lat 3 (Dz. U. 45, 235, późn. zm. ) art. 51 ust. 5:
 
-**Art. 7.** Przy obliczaniu wskaźnika waloryzacji składek, o którym mowa art. 25 ust. 3–12 ustawy dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2009 153, 1227, późn. zm. ), za rok 2013, art. 25a tej ustawy, za czwarty kwartał r., przypisu składek na ubezpieczenie emerytalne wyłącza się składki, które finansuje całości budżet państwa za pośrednictwem Zakładu Ubezpieczeń Społecznych za osoby, o których mowa art. 6b ust. 1 ustawy zmienianej art. 1.
+**Art. 7.** Przy obliczaniu wskaźnika waloryzacji składek, o którym mowa art. 25 ust. 3–12 ustawy dnia 17 grudnia 1998 o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2009 153, 1227, późn. zm. ), za rok 2013, art. 25a tej ustawy, za czwarty kwartał 2013 r., przypisu składek na ubezpieczenie emerytalne wyłącza się składki, które finansuje całości budżet państwa za pośrednictwem Zakładu Ubezpieczeń Społecznych za osoby, o których mowa art. 6b ust. 1 ustawy zmienianej art. 1.
 
-**Art. 8.** Ustawa wchodzi życie dniem 1 września r., wyjątkiem art. 1 pkt 8 lit. a, który wchodzi życie dniem 1 stycznia 2014 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
+**Art. 8.** Ustawa wchodzi życie dniem 1 września 2013 r., wyjątkiem art. 1 pkt 8 lit. a, który wchodzi życie dniem 1 stycznia 2014 Prezydent Rzeczypospolitej Polskiej: B. Komorowski
 

@@ -34,7 +34,7 @@ Marszałek Sejmu: S. Hołownia
 
 1. W rozumieniu ustawy:
 
-- **1)** baza oznacza zbiór jakichkolwiek innych materiałów elementów zgromadzonych według określonej systematyki metody, indywidualnie dostępnych jakikolwiek sposób, tym środkami elektronicznymi, wymagający istotnego, co jakości ilości, nakładu inwestycyjnego celu sporządzenia, weryfikacji prezentacji jego zawartości;
+- **1)** baza oznacza zbiór jakichkolwiek innych materiałów elementów zgromadzonych według określonej systematyki metody, indywidualnie dostępnych jakikolwiek sposób, tym środkami elektronicznymi, wymagający istotnego, co jakości ilości, nakładu inwestycyjnego sporządzenia, weryfikacji prezentacji jego zawartości;
 - **2)** pobieranie oznacza stałe czasowe przejęcie przeniesienie całości istotnej, co jakości ilości, części zawartości inny nośnik, bez względu sposób formę tego przejęcia przeniesienia, zastrzeżeniem 3;
 - **3)** wtórne wykorzystanie oznacza publiczne udostępnienie dowolnej formie, a szczególności poprzez rozpowszechnianie, bezpośrednie przekazywanie najem, zastrzeżeniem 3;
 - **4)** producentem jest osoba fizyczna, prawna jednostka organizacyjna nieposiadająca osobowości prawnej, która ponosi ryzyko nakładu inwestycyjnego przy tworzeniu danych;
@@ -52,7 +52,7 @@ Marszałek Sejmu: S. Hołownia
 
 **Art. 7.**
 
-1. Producent udostępnionej publicznie jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie prawem takiej danych, pobierania wtórnego wykorzystania jakimkolwiek celu nieistotnej, co jakości ilości, części jej zawartości.
+1. Producent udostępnionej publicznie jakikolwiek sposób nie może zabronić użytkownikowi korzystającemu zgodnie prawem takiej danych, pobierania wtórnego wykorzystania jakimkolwiek nieistotnej, co jakości ilości, części jej zawartości.
 
 2. Jeżeli użytkownik korzystający zgodnie prawem jest uprawniony pobierania wtórnego wykorzystania jedynie części danych, przepis ust. 1 dotyczy tylko tej części.
 
@@ -69,23 +69,23 @@ Marszałek Sejmu: S. Hołownia
 - **3)** celów bezpieczeństwa wewnętrznego, postępowania sądowego administracyjnego;
 - **4)** dla dobra osób niepełnosprawnych będących beneficjentami rozumieniu 6 ust. 1 18 ustawy dnia 4 lutego 1994 prawie autorskim prawach pokrewnych, odpowiednio zasadach określonych rozdziale 3 oddziale 3 tej ustawy.
 
-1a. W przypadku instytucji oświatowych oraz podmiotów, których 7 ust. 1 1, 4–8 ustawy dnia 20 lipca 2018 Prawo szkolnictwie wyższym nauce (Dz. U. 2024 poz. 1571), korzystanie, którym ust. 1 2, odbywa się odpowiedzialność tych instytucji podmiotów, ich terenie innym miejscu, za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się nauczających prowadzących działalność naukową danej instytucji danym podmiocie.
+1a. W przypadku instytucji oświatowych oraz podmiotów, których 7 ust. 1 1, 4–8 ustawy dnia 20 lipca 2018 – Prawo szkolnictwie wyższym nauce (Dz. U. 2024 poz. 1571), korzystanie, którym ust. 1 2, odbywa się odpowiedzialność tych instytucji podmiotów, ich terenie innym miejscu, za pośrednictwem bezpiecznego środowiska elektronicznego dostępnego, dzięki zastosowaniu procedur uwierzytelniających, tylko dla osób uczących się nauczających prowadzących działalność naukową danej instytucji danym podmiocie.
 
-1b. Uznaje się, że korzystanie baz charakterze ilustracji celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, sposób określony ust. 1a, odbywa się państwie członkowskim Unii Europejskiej państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) stronie umowy Europejskim Obszarze Gospodarczym, którym dana instytucja oświatowa dany podmiot mają siedzibę.
+1b. Uznaje się, że korzystanie baz charakterze ilustracji celach dydaktycznych, za pośrednictwem bezpiecznego środowiska elektronicznego, sposób określony ust. 1a, odbywa się państwie członkowskim Unii Europejskiej państwie członkowskim Europejskiego Porozumienia Wolnym Handlu (EFTA) – stronie umowy Europejskim Obszarze Gospodarczym, którym dana instytucja oświatowa dany podmiot mają siedzibę.
 
 2. Nie jest dozwolone powtarzające się systematyczne pobieranie wtórne wykorzystanie sprzeczne normalnym korzystaniem powodujące nieusprawiedliwione naruszenie słusznych interesów producenta.
 
 **Art. 8a.**
 
-- **7)** 1. Wolno zwielokrotniać rozpowszechnione celu eksploracji tekstów danych, chyba że uprawniony zastrzegł inaczej.
+- **7)** 1. Wolno zwielokrotniać rozpowszechnione eksploracji tekstów danych, chyba że uprawniony zastrzegł inaczej.
 
 2. Zastrzeżenia, którym ust. 1, dokonuje się wyraźnie odpowiednio sposobu, jaki baza została udostępniona. W przypadku baz publicznie udostępnionych taki sposób, aby każdy mógł mieć nich dostęp miejscu czasie siebie wybranym, zastrzeżenia dokonuje się formacie przeznaczonym odczytu maszynowego rozumieniu 7 ustawy dnia 11 sierpnia 2021 otwartych ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. 2023 poz. 1524) wraz metadanymi.
 
-3. Uprawniony, celu zapewnienia bezpieczeństwa integralności sieci baz danych, których utwory są przechowywane, może stosować wyłącznie środki niezbędne osiągnięcia tego celu.
+3. Uprawniony, zapewnienia bezpieczeństwa integralności sieci baz danych, których utwory są przechowywane, może stosować wyłącznie środki niezbędne osiągnięcia tego celu.
 
 **Art. 8c.**
 
-- **7)** Instytucje dziedzictwa kulturowego mogą zwielokrotniać znajdujące się stałe ich zbiorach, niezależnie formatu nośnika, celu uzupełnienia, zachowania ochrony tych zbiorów.
+- **7)** Instytucje dziedzictwa kulturowego mogą zwielokrotniać znajdujące się stałe ich zbiorach, niezależnie formatu nośnika, uzupełnienia, zachowania ochrony tych zbiorów.
 
 **Art. 8d.**
 
@@ -95,7 +95,7 @@ Marszałek Sejmu: S. Hołownia
 
 1. (utracił moc)
 
-2. Pierwsza sprzedaż kopii państwach członkowskich Unii Europejskiej państwach członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) stronach umowy Europejskim Obszarze Gospodarczym uprawnionego za jego zgodą, wyczerpuje prawo kontrolowania odsprzedaży tej kopii ich terytorium.
+2. Pierwsza sprzedaż kopii państwach członkowskich Unii Europejskiej państwach członkowskich Europejskiego Porozumienia Wolnym Handlu (EFTA) – stronach umowy Europejskim Obszarze Gospodarczym uprawnionego za jego zgodą, wyczerpuje prawo kontrolowania odsprzedaży tej kopii ich terytorium.
 
 **Art. 10.**
 
@@ -113,7 +113,7 @@ Marszałek Sejmu: S. Hołownia
 - **2)** usunięcia skutków naruszenia;
 - **3)** naprawienia wyrządzonej szkody:
     - **a)** zasadach ogólnych albo
-    - **b)** poprzez zapłatę sumy pieniężnej wysokości odpowiadającej dwukrotności, a przypadku gdy naruszenie jest zawinione trzykrotności stosownego wynagrodzenia, które chwili jego dochodzenia byłoby należne tytułem udzielenia uprawnionego zgody korzystanie danych;
+    - **b)** poprzez zapłatę sumy pieniężnej wysokości odpowiadającej dwukrotności, a przypadku gdy naruszenie jest zawinione – trzykrotności stosownego wynagrodzenia, które chwili jego dochodzenia byłoby należne tytułem udzielenia uprawnionego zgody korzystanie danych;
 
 - **4)** wydania uzyskanych korzyści.
 
@@ -129,7 +129,7 @@ Marszałek Sejmu: S. Hołownia
 
 **Art. 12.**
 
-1. Kto celu osiągnięcia korzyści majątkowych, bez uprawnienia wbrew jego warunkom, pobiera dane wtórnie wykorzystuje całości istotnej, co jakości ilości, części danych, podlega karze grzywny.
+1. Kto osiągnięcia korzyści majątkowych, bez uprawnienia wbrew jego warunkom, pobiera dane wtórnie wykorzystuje całości istotnej, co jakości ilości, części danych, podlega karze grzywny.
 
 2. Orzekanie następuje podstawie Kodeksu postępowania sprawach wykroczenia.
 

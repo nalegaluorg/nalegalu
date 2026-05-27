@@ -21,6 +21,7 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1999-10-26 |
+| Wejście w życie | 1999-10-29 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990880982) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/982/text.pdf) |
 

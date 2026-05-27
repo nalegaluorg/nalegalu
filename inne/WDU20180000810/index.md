@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-22 |
 | Data wydania | 2018-04-27 |
+| Wejście w życie | 2018-07-28 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000810) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/810/text.pdf) |
 

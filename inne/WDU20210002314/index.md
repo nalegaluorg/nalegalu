@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-10-29 |
 | Data wydania | 2021-12-15 |
+| Wejście w życie | 2022-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002314) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2314/text.pdf) |
 
@@ -39,7 +40,7 @@ source: "isap-pdf"
 
 **Art. 2.**
 
-1. Świadczenie wyrównawcze przysługuje osobie uprawnionej emerytury na podstawie przepisów rozporządzenia Rady Ministrów 15 maja 1989 sprawie uprawnień emerytury pracowników opiekujących się dziećmi wymagającymi stałej opieki (Dz. 149), zwanej dalej „wcześniejszą emeryturą”, kwocie niższej niż wysokość świadczenia pielęgnacyjnego, 17 1 28 listopada 2003 świadczeniach rodzinnych (Dz. 2020 111 oraz 2021 1162, 2105 2270), pod warunkiem że dalszym ciągu sprawuje opiekę nad dzieckiem, tytułu opieki nad nabyła prawo emerytury.
+1. Świadczenie wyrównawcze przysługuje osobie uprawnionej emerytury na podstawie przepisów rozporządzenia Rady Ministrów 15 maja 1989 sprawie uprawnień emerytury pracowników opiekujących się dziećmi wymagającymi stałej opieki (Dz. poz. 149), zwanej dalej „wcześniejszą emeryturą”, kwocie niższej niż wysokość świadczenia pielęgnacyjnego, 17 1 28 listopada 2003 świadczeniach rodzinnych (Dz. 2020 poz. 111 oraz 2021 poz. 1162, 2270), pod warunkiem że dalszym ciągu sprawuje opiekę nad dzieckiem, tytułu opieki nad nabyła prawo emerytury.
 
 2. Świadczenie wyrównawcze przysługuje miesięcznie kwocie stanowiącej różnicę pomiędzy kwotą świadczenia pielęgnacyjnego, 17 1 28 listopada 2003 świadczeniach rodzinnych, a kwotą pobieranego świadczenia emerytalno-rentowego.
 
@@ -105,7 +106,7 @@ source: "isap-pdf"
 
 - **5)** rodzicielskie uzupełniające, ustawie 31 stycznia 2019 rodzicielskim świadczeniu uzupełniającym – przysługuje pielęgnacyjne, jeśli jest korzystniejsze, przy czym 17 5 pkt 1 lit. a 28 listopada 2003 świadczeniach rodzinnych nie stosuje się.
 
-**Art. 13.** W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 2021 291, późn. zm. ) 139 1 po pkt 6a dodaje się pkt 6b brzmieniu: „6b) kwoty nienależnie pobranych świadczeń wyrównawczych otrzymane na podstawie przepisów 29 2021 świadczeniu wyrównawczym dla osób uprawnionych emerytury tytułu opieki nad dziećmi wymagającymi stałej opieki (Dz. 2314);”.
+**Art. 13.** W ustawie 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 2021 poz. 291, późn. zm. ) 139 1 po pkt 6a dodaje się pkt 6b brzmieniu: „6b) kwoty nienależnie pobranych świadczeń wyrównawczych otrzymane na podstawie przepisów 29 2021 świadczeniu wyrównawczym dla osób uprawnionych emerytury tytułu opieki nad dziećmi wymagającymi stałej opieki (Dz. poz. 2314);”.
 
 **Art. 14.**
 

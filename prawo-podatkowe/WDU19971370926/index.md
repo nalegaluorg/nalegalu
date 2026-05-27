@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-08-29 |
 | Data wydania | 1997-11-13 |
-| Ostatnia zmiana | 2026-05-12 |
+| Wejście w życie | 1998-01-01 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971370926) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/926/text.pdf) |
 
 Art. 20zg. Audyt podatkowy przeprowadza Szef Krajowej Administracji Skarbowej wobec podatnika przed zawarciem umowy o współdziałanie (audyt wstępny) oraz w trakcie obowiązywania umowy o współdziałanie (audyt monitorujący) w celu sprawdzenia:

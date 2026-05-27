@@ -22,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-09-10 |
 | Data wydania | 2015-10-06 |
+| Wejście w życie | 2016-01-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1549/text.pdf) |
 
-**Art. 1.** W ustawie dnia 6 czerwca 1997 – Kodeks karny (Dz. U. Nr 88, 553, późn. zm. ) art. 191:
+**Art. 1.** W ustawie dnia 6 czerwca 1997 – Kodeks karny (Dz. Nr 88, 553, późn. zm. ) art. 191:
 
-**Art. 2.** W ustawie dnia 7 lipca 1994 – Prawo budowlane (Dz. U. 2013 1409, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie dnia 7 lipca 1994 – Prawo budowlane (Dz. 2013 1409, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4.** Ustawa wchodzi życie po upływie miesięcy od dnia ogłoszenia.
 

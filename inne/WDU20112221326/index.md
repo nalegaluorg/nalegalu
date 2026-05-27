@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-08-31 |
 | Data wydania | 2011-10-18 |
+| Wejście w życie | 2011-11-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20112221326) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1326/text.pdf) |
 

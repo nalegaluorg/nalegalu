@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1982-09-16 |
 | Data wydania | 1982-10-08 |
-| Ostatnia zmiana | 2026-04-21 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820310214) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1982/214/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -68,9 +68,18 @@ source: "isap-pdf"
 
 **Art. 2.** Rada Ministrów, w drodze rozporządzenia:
 
+- **1)** określa stanowiska, na których w urzędach wymienionych w art. 1 zatrudniani pracownicy są urzędnikami państwowymi w rozumieniu ustawy;
+- **2)** może rozciągnąć w całości lub w części przepisy ustawy na pracowników innych urzędów państwowych niż określone w art. 1.
+
 #### Rozdział 2 Nawiązanie, zmiana i rozwiązanie stosunku pracy
 
 **Art. 3.** Urzędnikiem państwowym może być osoba, która:
+
+- **1)** jest obywatelem polskim;
+- **2)** ukończyła osiemnaście lat życia i ma pełną zdolność do czynności prawnych oraz korzysta z pełni praw publicznych;
+- **3)** jest nieskazitelnego charakteru;
+- **4)** ma odpowiednie wykształcenie i odbyła aplikację administracyjną;
+- **5)** posiada stan zdrowia pozwalający na zatrudnienie na określonym stanowisku.
 
 **Art. 3a.** Na stanowisko urzędnika państwowego zatrudnionego w urzędach wymienionych w art. 1 ust. 1 może zostać przeniesiony w drodze porozumienia pracodawców członek korpusu służby cywilnej w rozumieniu ustawy z dnia 21 listopada 2008 r. o służbie cywilnej.
 
@@ -412,6 +421,12 @@ source: "isap-pdf"
 3. Decyzja o przekazaniu komisji dyscyplinarnej I instancji wniosku o wszczęciu postępowania dyscyplinarnego należy do kierownika urzędu.
 
 **Art. 36².** Do zadań rzecznika dyscyplinarnego należy w szczególności:
+
+- **1)** prowadzenie postępowania wyjaśniającego;
+- **2)** składanie wniosków o wszczęcie postępowania dyscyplinarnego, jeżeli wyniki postępowania wyjaśniającego to uzasadniają;
+- **3)** udział w rozprawach w charakterze strony;
+- **4)** wnoszenie odwołań od orzeczeń komisji dyscyplinarnej I instancji;
+- **5)** udział w postępowaniu odwoławczym.
 
 **Art. 36³.**
 

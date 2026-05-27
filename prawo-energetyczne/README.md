@@ -27,7 +27,7 @@ Akty prawne z dziedziny: **Prawo energetyczne**.
 | [WDU20112051208](WDU20112051208/index.md) | Ustawa z dnia 19 sierpnia 2011 r. o zmianie ustawy - Prawo energetyczne ora | Ustawa | obowiązujący | [tak](WDU20112051208/orzecznictwo.md) |
 | [WDU20100210104](WDU20100210104/index.md) | Ustawa z dnia 8 stycznia 2010 r. o zmianie ustawy - Prawo energetyczne oraz | Ustawa | obowiązujący | [tak](WDU20100210104/orzecznictwo.md) |
 | [WDU20011541802](WDU20011541802/index.md) | Ustawa z dnia 21 grudnia 2001 r. o zmianie ustaw: o Bankowym Funduszu Gwara | Ustawa | obowiązujący | [tak](WDU20011541802/orzecznictwo.md) |
-| [WDU19970540348](WDU19970540348/index.md) | Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970540348/orzecznictwo.md) |
 | [WDU19971581042](WDU19971581042/index.md) | Ustawa z dnia 4 grudnia 1997 r. o zmianie ustawy - Prawo budżetowe i ustawy | Ustawa | obowiązujący |  |
+| [WDU19970540348](WDU19970540348/index.md) | Ustawa z dnia 10 kwietnia 1997 r. - Prawo energetyczne. | Ustawa | akt posiada tekst jednolity | [tak](WDU19970540348/orzecznictwo.md) |
 
 *23 aktów • [← Powrót do spisu głównego](../README.md)*

@@ -24,10 +24,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-12-22 |
 | Data wydania | 2000-12-31 |
+| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001221323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1323/text.pdf) |
 
-**Art. 1.** W ustawie dnia 26 stycznia 1982 – Karta Nauczyciela (Dz.U. 1997 56, 357, 1998 106, 668 162, 1118 19, 239 22, 291) 30 ust. 5 pkt 1 otrzymuje brzmienie: „1) wysokość minimalnych stawek wynagrodzenia zasadniczego dla nauczycieli realizujących tygodniowy obowiązkowy wymiar godzin, 42 ust. 3, dla nauczycieli, których tygodniowy obowiązkowy wymiar godzin ustala na podstawie 42 ust. 7, a także szczegółowe zasady zaszeregowania nauczycieli,”.
+**Art. 1.** W ustawie dnia 26 stycznia 1982 – Karta Nauczyciela (Dz.U. 1997 56, 357, 1998 106, 668 162, 1118 19, 239 22, 291) 30 ust. 5 pkt 1 otrzymuje brzmienie: „1) wysokość minimalnych stawek wynagrodzenia zasadniczego dla nauczycieli realizujących tygodniowy obowiązkowy wymiar godzin, którym 42 ust. 3, dla nauczycieli, których tygodniowy obowiązkowy wymiar godzin ustala na podstawie 42 ust. 7, a także szczegółowe zasady zaszeregowania nauczycieli,”.
 
 **Art. 2.** W ustawie dnia 19 października 1991 gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz.U. 1995 57, 299 101, 504, 1996 59, 268, 106, 496 156, 775, 1997 54, 349 79, 484, 1998 106, 668, 1999 49, 484 6, 70, 136 48, 550) 20a wprowadza następujące zmiany:
 
@@ -43,7 +44,7 @@ source: "isap-pdf"
 
 - **1)** 55 ust. 3 ustawy wymienionej 4 stosuje również zakresie dotyczącym zasiłków przedemerytalnych świadczeń przedemerytalnych,
 - **2)** łączna kwota zaciągniętych kredytów pożyczek, której 55 ust. 4 ustawy wymienionej 4, nie może przekroczyć kwoty stanowiącej równowartość 12,5% dochodów Funduszu Pracy, planowanych na ten rok,
-- **3)** okres spłaty kredytów pożyczek, 55 ust. 5 ustawy wymienionej 4, może wykraczać poza rok budżetowy może przekroczyć trzy miesiące, nie więcej jednak niż sześć miesięcy,
+- **3)** okres spłaty kredytów pożyczek, którym 55 ust. 5 ustawy wymienionej 4, może wykraczać poza rok budżetowy może przekroczyć trzy miesiące, nie więcej jednak niż sześć miesięcy,
 - **4)** zakresie określonym pkt 1-3 nie stosuje 99 ust. 1 ustawy dnia 26 listopada 1998 finansach publicznych (Dz.U. 155, 1014, 1999 38, 360, 49, 485, 70, 778 110, 1255 6, 69, 48, 550 95,
 - **1041)** .
 

@@ -22,8 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-05-25 |
 | Data wydania | 2012-06-20 |
+| Wejście w życie | 2012-07-05 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120000692) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/692/text.pdf) |
 
-**Art. 1.** W ustawie dnia 7 września 2007 wykonywaniu kary pozbawienia wolności poza zakładem karnym systemie dozoru elektronicznego (Dz. U. 2010 142, 960 oraz 2011 1280) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 7 września 2007 wykonywaniu kary pozbawienia wolności poza zakładem karnym systemie dozoru elektronicznego (Dz. U. 2010 142, 960 oraz 2011 217, 1280) wprowadza się następujące zmiany:
 

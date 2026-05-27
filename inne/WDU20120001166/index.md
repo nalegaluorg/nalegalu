@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-10-10 |
 | Data wydania | 2012-10-25 |
+| Wejście w życie | 2012-10-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001166) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1166/text.pdf) |
 
@@ -31,7 +32,7 @@ source: "isap-pdf"
 
 **Art. 85b.** 12 lutego udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. 39, 308, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 85c.** 7 maja biegłych rewidentach ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz nadzorze publicznym (Dz. U. 77, 649 oraz 182, 1228) art. 2 pkt 4 lit. c otrzymuje brzmienie: „c) spółdzielcze kasy oszczędnościowo-kredytowe – rozumieniu ustawy 5 listopada spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. 2012 855),”. sy uprawniają je do świadczenia usług płatniczych, zwane dalej „kasą oszczędnościowo-kredytową”;”.”;
+**Art. 85c.** 7 maja biegłych rewidentach ich samorządzie, podmiotach uprawnionych do badania sprawozdań finansowych oraz nadzorze publicznym (Dz. U. 77, 649 oraz 182, 1228) 2 pkt 4 lit. c otrzymuje brzmienie: „c) spółdzielcze kasy oszczędnościowo-kredytowe – rozumieniu ustawy 5 listopada spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. 2012 855),”. sy uprawniają je do świadczenia usług płatniczych, zwane dalej „kasą oszczędnościowo-kredytową”;”.”;
 
 **Art. 2.** Ustawa wchodzi życie dniem ogłoszenia.
 

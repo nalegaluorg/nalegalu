@@ -22,12 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-07-22 |
 | Data wydania | 2010-08-20 |
+| Wejście w życie | 2010-09-04 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101521020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1020/text.pdf) |
 
 **Art. 1.** W ustawie dnia 13 czerwca 2003 zatrudnieniu socjalnym (Dz. U. 122, 1143, późn. zm. ) wprowadza się następujące zmiany: art. 3 „2. Centrum, na zasadach określonych ustawie, może być tworzone przez: jednostkę samorządu terytorialnego formie:
-
-**Art. 2.** W ustawie dnia 27 sierpnia 2009 finansach publicznych (Dz. U. 157, 1240 oraz 2010 28, 146) art. 14 po pkt 7 dodaje się pkt 7a brzmieniu: „7a) pomocy społecznej, reintegracji zawodowej społecznej oraz rehabilitacji zawodowej społecznej osób niepełnosprawnych,”.
 
 **Art. 3.** W ustawie dnia 27 sierpnia 2009 – Przepisy wprowadzające ustawę finansach publicznych (Dz. U. 157, 1241 219, 1706) wprowadza się następujące zmiany: uchyla się art. 97;
 

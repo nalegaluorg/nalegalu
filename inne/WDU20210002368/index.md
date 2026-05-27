@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 17 listopada 2021 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw
 
-*USTAWA dnia 17 listopada 2021 zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw*
+*USTAWA 17 listopada zmianie ustawy szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +24,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2021-12-21 |
+| Wejście w życie | 2021-12-22 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2368/text.pdf) |
 
-**Art. 1.** W ustawie dnia 2 szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. 2021 poz. 2095, 2120, 2133, 2262, 2269 2317) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie 2 szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych (Dz. U. poz. 2095, 2120, 2133, 2262, 2269 2317) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 4 września 1997 działach administracji rządowej (Dz. U. 2021 poz. 1893) wprowadza się następujące zmiany:
+**Art. 2.** W ustawie 4 września 1997 działach administracji rządowej (Dz. U. poz. 1893) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 20 lipca 2017 – Prawo wodne (Dz. U. 2021 poz. 2233) wprowadza się następujące zmiany:
+**Art. 3.** W ustawie 20 lipca 2017 – Prawo wodne (Dz. U. poz. 2233) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie dnia 9 sierpnia 2019 inwestycjach zakresie budowy portów zewnętrznych (Dz. U. 2021 poz. 1853) po 39d dodaje się 39e brzmieniu: „Art. 39e. 1. W roku minister właściwy spraw budżetu, na wniosek ministra właściwego spraw gospodarki morskiej, przekaże spółce Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna skarbowe papiery wartościowe przeznaczeniem na podwyższenie kapitału zakładowego tej spółki. 2. Wartość nominalna skarbowych papierów wartościowych, których nie może przekroczyć 360 000 000 zł. 3. Łączna wartość nominalna skarbowych papierów wartościowych, których oraz skarbowych papierów wartościowych przekazanych spółce Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna na podstawie 39a, nie może przekroczyć równowartości 150 mln euro. 4. Akcje podwyższonym kapitale zakładowym spółki Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna obejmuje Skarb Państwa. 5. Przepisy 39b–39d stosuje się.”.
+**Art. 4.** W ustawie 9 sierpnia 2019 inwestycjach zakresie budowy portów zewnętrznych (Dz. U. poz. 1853) po 39d dodaje się 39e brzmieniu: „Art. 39e. 1. W roku 2022 minister właściwy spraw budżetu, na wniosek ministra właściwego spraw gospodarki morskiej, przekaże spółce Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna skarbowe papiery wartościowe przeznaczeniem na podwyższenie kapitału zakładowego tej spółki. 2. Wartość nominalna skarbowych papierów wartościowych, których nie może przekroczyć 360 000 000 zł. 3. Łączna wartość nominalna skarbowych papierów wartościowych, których skarbowych papierów wartościowych przekazanych spółce Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna na podstawie 39a, nie może przekroczyć równowartości 150 mln euro. 4. Akcje podwyższonym kapitale zakładowym spółki Zarząd Morskich Portów Szczecin Świnoujście Spółka Akcyjna obejmuje Skarb Państwa. 5. Przepisy 39b–39d stosuje się.”.
 
 **Art. 7.**
 
@@ -45,7 +46,7 @@ source: "isap-pdf"
 
 4. Środki finansowe, których są przekazywane Agencji na jej wniosek.
 
-5. Agencja składa wniosek, 4, terminie 7 dni od dnia wejścia życie ustawy, formie pisemnej postaci papierowej na adres urzędu obsługującego ministra właściwego spraw transportu albo postaci elektronicznej na elektroniczną skrzynkę podawczą tego ministra. Wniosek składany postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
+5. Agencja składa wniosek, 4, terminie 7 dni od wejścia życie ustawy, formie pisemnej postaci papierowej na adres urzędu obsługującego ministra właściwego spraw transportu albo postaci elektronicznej na elektroniczną skrzynkę podawczą tego ministra. Wniosek składany postaci elektronicznej opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
 
 6. Wniosek, 4, zawiera:
 
@@ -53,7 +54,7 @@ source: "isap-pdf"
 - **2)** wskazanie numeru rachunku bankowego, na który zostaną przekazane środki finansowe, których 1;
 - **3)** informację wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania;
 - **4)** miejscowość datę sporządzenia wniosku;
-- **5)** imię nazwisko oraz wskazanie funkcji osoby uprawnionej podpisania wniosku;
+- **5)** imię nazwisko wskazanie funkcji osoby uprawnionej podpisania wniosku;
 - **6)** podpis osoby uprawnionej podpisania wniosku.
 
 7. Do wniosku, 4, dołącza się:
@@ -67,17 +68,17 @@ source: "isap-pdf"
 - **2)** dokumenty potwierdzające poniesienie kosztów realizacji zadań wykazanych zestawieniu, pkt lit. c, którymi są:
     - **a)** kopia umowy lub porozumienia świadczenie usług lub nabycie aktywów trwałych, tytułu których zostały poniec) oświadczenie lub zestawienie raport, potwierdzające poniesienie kosztów realizacji zadań związanych wynagrodzeniem osób, które brały udział realizacji tych zadań, sporządzone na podstawie listy płac osób zatrudnionych Agencji.
 
-8. Oświadczenie, 7 pkt lit. d, składa się pod rygorem odpowiedzialności karnej składanie fałszywych oświadczeń. W oświadczeniu zawiera się klauzulę następującej treści: „Jestem świadomy/świadoma odpowiedzialności karnej złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej składanie fałszywych oświadczeń.
+8. Oświadczenie, 7 pkt lit. d, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. W oświadczeniu zawiera się klauzulę następującej treści: „Jestem świadomy/świadoma odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 9. Minister właściwy spraw transportu niezwłocznie po otrzymaniu poprawnego pod względem formalnym, rachunkowym merytorycznym wniosku, 4, przekazuje Banku Gospodarstwa Krajowego dyspozycję wypłaty środków finansowych, których na rachunek bankowy wskazany tym wniosku.
 
-10. Wysokość kosztów realizacji zadań, tym kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, poniesionych od dnia 18 kwietnia dnia wejścia życie ustawy, podlega weryfikacji przez biegłego rewidenta.
+10. Wysokość kosztów realizacji zadań, tym kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, poniesionych od 18 kwietnia wejścia życie ustawy, podlega weryfikacji przez biegłego rewidenta.
 
-11. Agencja przekazuje ministra właściwego spraw transportu informację weryfikacji wysokości poniesionych kosztów realizacji zadań dokonanej przez biegłego rewidenta, tym zweryfikowanej wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, terminie dnia 15 kwietnia
+11. Agencja przekazuje ministra właściwego spraw transportu informację weryfikacji wysokości poniesionych kosztów realizacji zadań dokonanej przez biegłego rewidenta, tym zweryfikowanej wysokości poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, terminie 15 kwietnia 2022
 
 12. W przypadku stwierdzenia, że wysokość przekazanych Agencji środków finansowych, których przekracza wysokość poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, różnica między wysokością przekazanych Agencji środków finansowych a wysokością poniesionych kosztów realizacji zadań, które nie zostały sfinansowane innych środków publicznych, uzyskanych ze wsparcia innych źródeł finansowania, podlega zwrotowi Funduszu Przeciwdziałania COVID-19, 65 ustawy zmienianej 5, najpóźniej terminie przekazania informacji, której 11.
 
-**Art. 8.** Środki finansowe, których 15zzzzl ustawy zmienianej przekazywane operatorowi publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym miesiące czwartego kwartału 2021 są wypłacane dnia 31
+**Art. 8.** Środki finansowe, których 15zzzzl ustawy zmienianej przekazywane operatorowi publicznego transportu zbiorowego przewozach pasażerskich transporcie kolejowym za miesiące czwartego kwartału są wypłacane 31 2022
 
 **Art. 9.** Przepis 65 28a ustawy zmienianej 5, brzmieniu nadanym niniejszą ustawą, stosuje się również uchwał dotyczących wsparcia na inwestycyjne zadania dla jednostek samorządu terytorialnego będących organami prowadzącymi jednostki systemu oświaty podjętych przed dniem wejścia życie niniejszej ustawy na podstawie 65 28 ustawy zmienianej 5.
 

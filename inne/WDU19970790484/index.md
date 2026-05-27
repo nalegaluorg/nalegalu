@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1997-05-08 |
 | Data wydania | 1997-07-17 |
-| Ostatnia zmiana | 2026-05-12 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970790484) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/484/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -349,6 +349,22 @@ source: "isap-pdf"
 
 **Art. 34c.** Minister właściwy do spraw finansów publicznych zawiera z Bankiem Gospodarstwa Krajowego umowę, która określa w szczególności:
 
+- **1)** szczegółowe warunki i tryb udzielania poręczeń i gwarancji;
+- **2)** wysokość, warunki i tryb pobierania opłat prowizyjnych z tytułu udzielonych poręczeń i gwarancji;
+- **3)** warunki i terminy przekazywania środków, o których mowa w art. 34g ust. 3 pkt 5 i art. 34ga ust. 2;
+- **4)** zasady udzielania finansowania, o którym mowa w art. 34ga ust. 2a, oraz zwrotu Bankowi Gospodarstwa Krajowego środków własnych, o których mowa w art. 34ga ust. 2a, wraz z wynagrodzeniem z tytułu tego finansowania. Art. 34ca. 1. Bank Gospodarstwa Krajowego:
+- **1)** doszczegóławia na poziomie operacyjnym warunki udzielenia poręczeń i gwarancji w ramach programów rządowych, zawarte w umowie, o której mowa w art. 34c;
+- **2)** określa wzory wniosku o udzielenie poręczenia oraz wniosku o udzielenie gwarancji w ramach programów rządowych;
+- **3)** określa wzory umów poręczenia oraz gwarancji, udzielanych w ramach programów rządowych.
+
+2. Do czynności związanych z udzielaniem poręczeń i gwarancji w ramach programów rządowych nie stosuje się przepisów ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2023 r. poz. 2759) oraz przepisów art. 385 –385 , art. 556 –556 i art. 576 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2023 r. poz. 1610, 1615, 1890 i 1933).
+
+3. Bank Gospodarstwa Krajowego może powierzyć dochodzenie roszczeń związanych z poręczeniami i gwarancjami udzielonymi w ramach programów rządowych bankowi lub innej instytucji finansowej. Wykonywanie przez bank lub inną instytucję finansową czynności, o których mowa w zdaniu poprzednim, nie wymaga zmiany statutu ani innego aktu stanowiącego podstawę działalności tych podmiotów.
+
+4. Podmioty, o których mowa w ust. 3, mogą wykonywać czynności związane z dochodzeniem roszczeń samodzielnie lub, za zgodą Banku Gospodarstwa Krajowego, powierzyć ich wykonywanie innemu podmiotowi.
+
+5. Roszczenia Banku Gospodarstwa Krajowego związane z poręczeniem lub gwarancją udzielonymi w ramach programów rządowych, w tym roszczenie o zwrot kwot z tytułu wypłaty poręczenia lub gwarancji przysługujące Bankowi Gospodarstwa Krajowego wobec podmiotu, za zobowiązanie którego udzielono poręczenia lub gwarancji, przedawniają się z upływem sześciu lat od dnia wypłaty poręczenia lub gwarancji.
+
 **Art. 34d.**
 
 1. Bank Gospodarstwa Krajowego przekazuje ministrowi właściwemu do spraw finansów publicznych półroczne informacje o udzielonych poręczeniach i gwarancjach.
@@ -387,12 +403,14 @@ source: "isap-pdf"
 - **1c)** środków finansowych, odsetek i innych przychodów, a także zysków, o których mowa w art. 110 ust. 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412 i 1530);
 - **2)** opłat prowizyjnych za poręczenia i gwarancje finansowane ze środków Funduszu;
 - **3)** wpływów z tytułu odzyskanych kwot zapłaconych przez Bank Gospodarstwa Krajowego w wykonaniu umowy poręczenia lub gwarancji finansowanej ze środków Funduszu;
-- **4)** odsetek z tytułu oprocentowania środków Funduszu;
+- **4)** odsetek od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846 oraz z 2026 r. poz. 426 i 635);
 - **5)** środków z budżetu państwa przekazywanych przez ministra właściwego do spraw finansów publicznych w wysokości umożliwiającej pokrycie kosztów i wydatków, o których mowa w ust. 2, i które nie znajdują pokrycia ze środków, o których mowa w pkt 1–4 oraz 6–8;
 - **6)** środków z tytułu zbycia akcji (udziałów), o których mowa w art. 34a ust. 3;
 - **7)** darowizn i zapisów;
 - **7a)** środków z zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w art. 34ga ust. 1;
-- **8)** wpływów z innych tytułów. Art. 34ga. 1. Bank Gospodarstwa Krajowego może zaciągać na rzecz Funduszu kredyty, pożyczki lub emitować obligacje w kraju i za granicą.
+- **8)** wpływów z innych tytułów.
+
+4. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach. Art. 34ga. 1. Bank Gospodarstwa Krajowego może zaciągać na rzecz Funduszu kredyty, pożyczki lub emitować obligacje w kraju i za granicą.
 
 2. Minister właściwy do spraw finansów publicznych przekazuje do Funduszu środki niezbędne do terminowej obsługi zobowiązań z tytułu zaciągniętych kredytów i pożyczek oraz wyemitowanych obligacji, o których mowa w ust. 1, w przypadku gdy poziom środków Funduszu jest niewystarczający do obsługi tych zobowiązań.
 
@@ -592,6 +610,12 @@ source: "isap-pdf"
 **Art. 45.** Minister właściwy do spraw finansów publicznych prowadzi ewidencję należności i zobowiązań Skarbu Państwa z tytułu udzielonych poręczeń i gwarancji.
 
 **Art. 46.** Rada Ministrów przedstawia corocznie Sejmowi w terminie właściwym do przedstawienia sprawozdania z wykonania budżetu państwa za dany rok informację o:
+
+- **1)** poręczeniach i gwarancjach udzielonych przez Skarb Państwa;
+- **2)** poręczeniach i gwarancjach udzielonych przez niektóre osoby prawne;
+- **3)** poręczeniach i gwarancjach udzielonych przez Bank Gospodarstwa Krajowego w ramach programów rządowych, Funduszu Gwarancji Płynnościowych, o którym mowa w art. 70 ust. 1 ustawy z dnia 31 marca 2020 r. o zmianie ustawy o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych oraz niektórych innych ustaw (Dz. U. poz. 568, z późn. zm. ), Rządowego Funduszu Mieszkaniowego, o którym mowa w art. 11 ust. 1 ustawy z dnia 1 października 2021 r. o rodzinnym kredycie mieszkaniowym i bezpiecznym kredycie 2% (Dz. U. z 2023 r. poz. 859 i 1114), i Funduszu Gwarancji Kryzysowych, o którym mowa w art. 21b ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2024 r. poz. 167);
+- **4)** liczbie i wartości akcji (udziałów) składających się na zasób;
+- **5)** wykorzystaniu środków gromadzonych na rachunku, o którym mowa w art. 29 ust. 2.
 
 **Art. 47.** Poręczenia i gwarancje udzielane przez Skarb Państwa zwalnia się z opłaty skarbowej.
 

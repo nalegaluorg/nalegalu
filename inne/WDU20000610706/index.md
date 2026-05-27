@@ -23,6 +23,7 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 2000-07-18 |
+| Wejście w życie | 2000-08-05 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000610706) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/706/text.pdf) |
 

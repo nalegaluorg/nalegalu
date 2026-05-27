@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2026-03-27 |
 | Data wydania | 2026-05-13 |
-| Ostatnia zmiana | 2026-05-14 |
+| Wejście w życie | 2026-05-28 |
+| Ostatnia zmiana | 2026-05-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000640) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/640/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2025 r. poz. 1891) wprowadza się następujące zmiany:

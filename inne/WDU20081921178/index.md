@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-09-04 |
 | Data wydania | 2008-10-28 |
+| Wejście w życie | 2009-01-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081921178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1178/text.pdf) |
 

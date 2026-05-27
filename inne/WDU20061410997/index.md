@@ -22,14 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-06-23 |
 | Data wydania | 2006-08-08 |
+| Wejście w życie | 2006-09-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061410997) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/997/text.pdf) |
 
-**Art. 1.** W ustawie 20 października 1994 o specjalnych strefach ekonomicznych (Dz. U. 123, 600, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie 20 października 1994 o specjalnych strefach ekonomicznych (Dz. U. 600, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 2.** W ustawie 19 października 1991 o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2004 208, 2128, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie 30 maja 1996 o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz.U. 2004 163, 1711 273, 2703 oraz 2005 132, 1110 167, 1398) 23:
+**Art. 3.** W ustawie 30 maja 1996 o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz.U. 2004 163, 1711 273, 2703 oraz 132, 1110 167, 1398) 23:
 
-**Art. 4.** W ustawie 2 października 2003 o zmianie ustawy o specjalnych strefach ekonomicznych niektórych ustaw (Dz. U. 188, 1840, 2004 123, 1291 273, 2703 oraz 2005 184, 1539) 8:
+**Art. 4.** W ustawie 2 października 2003 o zmianie ustawy o specjalnych strefach ekonomicznych niektórych ustaw (Dz. U. 188, 1840, 2004 1291 273, 2703 oraz 184, 1539) 8:
 

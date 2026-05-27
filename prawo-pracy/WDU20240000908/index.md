@@ -44,7 +44,7 @@ source: "isap-pdf"
 
 2. Związki zawodowe są samorządne, a szczególności mogą samodzielnie, sposób zgodny prawem, kształtować cele programy swojego działania, uchwalać statuty inne akty wewnętrzne dotyczące działalności związkowej określać struktury organizacyjne.
 
-3. Związki zawodowe są niezależne nie podlegają nadzorowi lub kontroli ze strony organów administracji państwowej. Organy te są obowiązane do powstrzymania od wszelkich działań prowadzących do ograniczenia niezależności związków lub ich działalności zgodnej prawem.
+3. Związki zawodowe są niezależne nie podlegają nadzorowi lub kontroli ze strony organów administracji państwowej. Organy te są obowiązane do powstrzymania wszelkich działań prowadzących do ograniczenia niezależności związków lub ich działalności zgodnej prawem.
 
 **Art. 3.**
 
@@ -109,11 +109,11 @@ source: "isap-pdf"
 
 2. W razie bezskutecznego upływu terminu przewidzianego sąd rejestrowy może orzec grzywnę do 5000 zł indywidualnie nakładaną na poszczególnych członków danego organu związkowego. Grzywna ulega umorzeniu, jeżeli po jej wymierzeniu organ związku dostosuje niezwłocznie swoją działalność do obowiązującego prawa.
 
-3. Jeżeli organ związku prowadzi działalność rażąco sprzeczną Konstytucją Rzeczypospolitej Polskiej lub innymi ustawami, a środki zastosowane na podstawie 2 okażą bezskuteczne, sąd rejestrowy może zażądać od właściwych władz związku przeprowadzenia, określonym terminie, nowych wyborów do tego organu, pod rygorem zawieszenia działalności tego organu.
+3. Jeżeli organ związku prowadzi działalność rażąco sprzeczną Konstytucją Rzeczypospolitej Polskiej lub innymi ustawami, a środki zastosowane na podstawie 2 okażą bezskuteczne, sąd rejestrowy może zażądać właściwych władz związku przeprowadzenia, określonym terminie, nowych wyborów do tego organu, pod rygorem zawieszenia działalności tego organu.
 
 4. Jeżeli środki określone 1–3 okażą bezskuteczne, sąd rejestrowy orzeka skreśleniu związku rejestru.
 
-5. Związek zawodowy skreślony rejestru związków jest zobowiązany niezwłocznie zaprzestać swojej działalności, a terminie 3 miesięcy od uprawomocnienia orzeczenia skreśleniu rejestru dokonać swojej likwidacji sposób przewidziany statucie.
+5. Związek zawodowy skreślony rejestru związków jest zobowiązany niezwłocznie zaprzestać swojej działalności, a terminie 3 miesięcy uprawomocnienia orzeczenia skreśleniu rejestru dokonać swojej likwidacji sposób przewidziany statucie.
 
 6. Do spraw, których mowa 1–4, stosuje przepisy Kodeksu postępowania cywilnego postępowaniu nieprocesowym, tym że sąd rejestrowy orzeka tych sprawach po przeprowadzeniu rozprawy. Postępowanie tych sprawach wszczyna na wniosek prokuratora.
 

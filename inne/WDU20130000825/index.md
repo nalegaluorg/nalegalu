@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2013-06-26 |
 | Data wydania | 2013-07-18 |
+| Wejście w życie | 2013-07-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000825) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/825/text.pdf) |
 

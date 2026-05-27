@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 15 marca 2007 r. o zmianie ustawy - Kodeks postępowania cywilnego, ustawy - Kodeks postępowania karnego oraz o zmianie niektórych innych ustaw
 
-*USTAWA dnia 15 marca o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks postępowania karnego o zmianie niektórych innych ustaw*
+*USTAWA dnia 15 marca o zmianie ustawy – Kodeks postępowania cywilnego, ustawy – Kodeks postępowania karnego oraz o zmianie niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-03-15 |
 | Data wydania | 2007-06-27 |
+| Wejście w życie | 2007-07-28 |
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071120766) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/766/text.pdf) |
 
@@ -31,13 +32,13 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie dnia 26 października 1982 o postępowaniu sprawach nieletnich (Dz. U. 2002 11, 109, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 7 kwietnia 1989 – Prawo o stowarzyszeniach (Dz. U. 2001 79, 855, 2003 96, 874 2004 102, 1055) art. 32 otrzymuje brzmienie: „Art. 32. Wnioski, o których mowa art. 29 ust. 1 art. 31, sąd rozpoznaje na rozprawie postępowaniu nieprocesowym - rejestrowym.”.
+**Art. 3.** W ustawie dnia 7 kwietnia 1989 – Prawo o stowarzyszeniach (Dz. U. 2001 79, 855, 2003 96, 874 oraz 2004 102, 1055) art. 32 otrzymuje brzmienie: „Art. 32. Wnioski, o których mowa art. 29 ust. 1 art. 31, sąd rozpoznaje na rozprawie postępowaniu nieprocesowym - rejestrowym.”.
 
 **Art. 4.** W ustawie dnia 27 września 1990 o wyborze Prezydenta Rzeczypospolitej Polskiej (Dz.U. 2000 47, 544, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 5.** W ustawie dnia 19 sierpnia 1994 o ochronie zdrowia psychicznego (Dz.U. 111, 535, późn. zm. ) art. 45 ust. 1 otrzymuje brzmienie: „1. W sprawach określonych art. 25, 29, 36 ust. 3 art. 39 sąd opiekuńczy orzeka po przeprowadzeniu rozprawy; rozprawa powinna się odbyć nie później niż rym mowa art. 23 ust. 4.”.
 
-**Art. 6.** W ustawie dnia 14 grudnia 1995 o izbach rolniczych (Dz.U. 2002 101, 927, 113, 984 153, 1271oraz 2006 200, 1472) art. 28 ust. 6 otrzymuje brzmienie: „6. Sąd rozpoznaje skargę postępowani nieprocesowym terminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.”.
+**Art. 6.** W ustawie dnia 14 grudnia 1995 o izbach rolniczych (Dz.U. 2002 101, 927, 113, 984 153, 1271oraz 2006 200, 1472) art. 28 ust. 6 otrzymuje brzmienie: „6. Sąd rozpoznaje skargę postępowani nieprocesowym terminie 3 dni od daty wniesienia skargi. Postanowienie sądu doręcza się osobie, która wniosła skargę, oraz organowi, który sporządził spis. Od postanowienia sądu nie przysługują środki odwoławcze.”.
 
 **Art. 7.** W ustawie dnia 6 grudnia 1996 o zastawie rejestrowym rejestrze zastawów (Dz.U. 149, 703, późn. zm. ) art. 31 ust. 1 otrzymuje brzmienie: „1. W sprawach, których nie może być wystawiony bankowy tytuł zabezpieczenia, wniosek zastawnika o zabezpieczenie roszczeń wynikających zastawu rejestrowego sąd rozpoznaje na posiedzeniu niejawnym.”.
 
@@ -57,7 +58,7 @@ source: "isap-pdf"
 
 **Art. 16.** W ustawie dnia 14 marca 2003 o referendum ogólnokrajowym (Dz.U. 57, 507 85, 782) art. 44 ust. 2 otrzymuje brzmienie: „2. Sąd okręgowy rozpoznaje wniosek, o którym mowa ust. 1, ciągu 24 godzin postępowaniu nieprocesowym. Sąd może rozpoznać sprawę przypadku usprawiedliwionej nieobecności wnioskodawcy lub uczestnika postępowania, którzy o terminie rozprawy zostali prawidłowo powiadomieni. Postanowienie kończące postępowanie sprawie sąd niezwłocznie doręcza, wraz uzasadnieniem, osobie, która złożyła wniosek, o którym mowa ust. 1, zobowiązanemu do wykonania zobowiązania sądu.”.
 
-**Art. 17.** W ustawie dnia 23 stycznia 2004 - Ordynacja wyborcza do Parlamentu Europejskiego (Dz.U. 25, 219, 2006 218, 1592 25,
+**Art. 17.** W ustawie dnia 23 stycznia 2004 - Ordynacja wyborcza do Parlamentu Europejskiego (Dz.U. 25, 219, 2006 218, 1592 oraz 25,
 
 **Art. 18.**
 

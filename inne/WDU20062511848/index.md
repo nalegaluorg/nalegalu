@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2006-12-15 |
 | Data wydania | 2006-12-29 |
+| Wejście w życie | 2006-12-31 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062511848) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1848/text.pdf) |
 

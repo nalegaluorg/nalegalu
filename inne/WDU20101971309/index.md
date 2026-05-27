@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 24 września 2010 r. o zmianie ustawy o cenach oraz ustawy o kontroli skarbowej
 
-*USTAWA dnia 24 września 2010 o zmianie ustawy o cenach oraz ustawy o kontroli skarbowej*
+*USTAWA dnia 24 września o zmianie ustawy o cenach ustawy o kontroli skarbowej*
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +24,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-09-24 |
 | Data wydania | 2010-10-25 |
+| Wejście w życie | 2011-01-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101971309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/1309/text.pdf) |
 
 **Art. 1.** W ustawie dnia 5 lipca 2001 o cenach (Dz. U. 97, 1050, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 28 września 1991 o kontroli skarbowej (Dz. U. 2004 8, 65, późn. zm. ) 2 ust. 1 pkt 14a otrzymuje brzmienie: „14a) badanie prawidłowości stosowania cen urzędowych marż handlowych urzędowych - granicach na zasadach określonych odrębnych przepisach;”.
+**Art. 2.** W ustawie dnia 28 września 1991 o kontroli skarbowej (Dz. U. 8, 65, późn. zm. ) 2 ust. 1 pkt 14a otrzymuje brzmienie: „14a) badanie prawidłowości stosowania cen urzędowych marż handlowych urzędowych - granicach na zasadach określonych odrębnych przepisach;”.
 
 **Art. 3.**
 

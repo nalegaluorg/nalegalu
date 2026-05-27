@@ -24,24 +24,25 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1996-12-20 |
 | Data wydania | 1996-12-30 |
+| Wejście w życie | 1997-01-01 |
 | Ostatnia zmiana | 2026-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961560777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1996/777/text.pdf) |
 
 **Art. 1.**
 
-1. Tworzy się państwową jednostkę organizacyjną pod nazwą „Polski Spraw Międzynarodowych” siedzibą Warszawie. Polski Spraw Międzynarodowych, zwany dalej „Instytutem”, ma osobowość prawną. Art. Do zadań Instytutu należy:
+1. Tworzy się państwową jednostkę organizacyjną pod nazwą „Polski Instytut Spraw Międzynarodowych” siedzibą Warszawie. Polski Instytut Spraw Międzynarodowych, zwany dalej „Instytutem”, ma osobowość prawną. Art. Do zadań Instytutu należy:
 
 - **1)** prowadzenie badań naukowych zakresie międzynarodowych;
 - **2)** przygotowywanie analiz, ekspertyz i studiów prognostycznych zakresu międzynarodowych;
 - **3)** doskonalenie zawodowe kadr wykonujących zadania zakresie stosunków międzynarodowych i polityki zagranicznej Rzeczypospolitej Polskiej;
 - **4)** upowszechnianie społeczeństwie polskim wiedzy dziedziny współczesnych stosunków międzynarodowych;
-- **5)** utrzymywanie kontaktów ośrodkami szkoleniowymi, naukowymi i politycznymi Rzeczypospolitej Polskiej i za granicą;
+- **5)** utrzymywanie kontaktów ośrodkami szkoleniowymi, naukowymi i politycznymi Rzeczypospolitej Polskiej i granicą;
 - **6)** gromadzenie specjalistycznego księgozbioru i dokumentacji naukowej, a także prowadzenie otwartej działalności bibliotecznej;
 - **7)** działalność wydawnicza.
 
-**Art. 3.** Szczegółowy zakres działania i organizację Instytutu określa statut Instytutu nadany, drodze rozporządzenia, przez na wniosek zagranicznych – uwzględnieniem organizacji i funkcjonowania służby zagranicznej.
+**Art. 3.** Szczegółowy zakres działania i organizację Instytutu określa statut Instytutu nadany, drodze rozporządzenia, przez na wniosek ministra zagranicznych – uwzględnieniem organizacji i funkcjonowania służby zagranicznej.
 
-**Art. 4.** Organami Instytutu są: zasięgnięciu zagranicznych. 3. Kadencja Instytutu trwa 5 lat. 4. Powołanie, o którym mowa ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów Kodeksu pracy. 5. Kandydatów na stanowisko Instytutu wyłania się drodze konkursu przeprowadzanego przez zagranicznych. 6. Minister właściwy zagranicznych określi, drodze rozporządzenia:
+**Art. 4.** Organami Instytutu są: zasięgnięciu ministra zagranicznych. 3. Kadencja Instytutu trwa 5 lat. 4. Powołanie, o którym mowa ust. 2, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów Kodeksu pracy. 5. Kandydatów na stanowisko Instytutu wyłania się drodze konkursu przeprowadzanego przez ministra zagranicznych. 6. Minister właściwy zagranicznych określi, drodze rozporządzenia:
 
 **Art. 6.**
 
@@ -53,7 +54,7 @@ source: "isap-pdf"
 
 **Art. 7c.**
 
-1. tworzyć, za po podmioty
+1. Instytut tworzyć, po ministra podmioty
 
 - **1)** zamierzony termin utworzenia podmiotu zależnego;
 - **2)** informacje o zamierzonej formie prawnej i organizacyjnej podmiotu zależnego, tym analizę uwarunkowań prawnych utworzenia i działania podmiotu zależnego, zgodnie prawem obowiązującym miejscu jego planowanego utworzenia i według stanu na dzień złożenia wniosku;
@@ -65,7 +66,7 @@ source: "isap-pdf"
 
 3. Podmiotem zależnym kieruje dyrektor, którego obsady stanowiska dokonuje Dyrektor Instytutu formie zgodnej ze statusem prawnym podmiotu zależnego.
 
-4. wyposażyć tworzony podmiot zależny, ze swojego mienia, środki niezbędne prowadzenia działalności.
+4. Instytut wyposażyć tworzony podmiot zależny, ze swojego mienia, środki niezbędne prowadzenia działalności.
 
 5. Do zamówień publicznych na dostawy, usługi lub roboty budowlane na potrzeby podmiotów zależnych nie stosuje się przepisów ustawy dnia 29 stycznia 2004 r. – Prawo zamówień publicznych, jeżeli wartość zamówienia publicznego jest mniejsza niż kwoty określone przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
 

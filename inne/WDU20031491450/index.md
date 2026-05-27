@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-07-23 |
 | Data wydania | 2003-08-28 |
+| Wejście w życie | 2003-10-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491450) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1450/text.pdf) |
 
@@ -76,7 +77,7 @@ source: "isap-pdf"
 
 3. Minister właściwy do spraw finansów publicznych określa liście emisyjnym szczegółowe warunki emisji obligacji skarbowych, których mowa ust. 1.
 
-**Art. 7.** W ustawie dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz.U. 137, 887, późn. zm. ) wprowadza następujące zmiany:
+**Art. 7.** W ustawie dnia 13 października 1998 systemie ubezpieczeń społecznych (Dz.U. Nr 137, 887, późn. zm. ) wprowadza następujące zmiany:
 
 **Art. 8.** Przepisy art. 1-6 stosuje do dnia 31 grudnia 2008
 

@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją wyrobami technologią o przeznaczeniu wojskowym policyjnym ustawy o materiałach wybuchowych użytku cywilnego
+# wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami technologią o przeznaczeniu wojskowym policyjnym oraz ustawy o materiałach wybuchowych cywilnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-07-16 |
 | Data wydania | 2009-08-07 |
+| Wejście w życie | 2009-08-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091251036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1036/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 czerwca 2001 o wykonywaniu działalności gospodarczej zakresie wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją wyrobami technologią o przeznaczeniu wojskowym policyjnym (Dz. 67, 679, z późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 22 czerwca 2001 o wykonywaniu działalności gospodarczej zakresie wytwarzania obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami technologią o przeznaczeniu wojskowym policyjnym (Dz. Nr 67, 679, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 2 art. 33 ust. 2 ustawy, o której mowa art. 1, art. 18 ust. 1d art. 21 ust. 4 ustawy, o której mowa art. 2, zachowują moc czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 24 ust. 2 art. 33 ust. 2 ustawy, o której mowa art. 1, art. 18 ust. 1d art. 21 ust. 4 ustawy, o której mowa art. 2, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia życie tej ustawy.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 24 ust. 2 art. 33 ust. 2 ustawy, o której mowa art. 1, oraz art. 18 ust. 1d art. 21 ust. 4 ustawy, o której mowa art. 2, zachowują moc czasu wejścia życie nowych przepisów wykonawczych wydanych na podstawie art. 24 ust. 2 art. 33 ust. 2 ustawy, o której mowa art. 1, oraz art. 18 ust. 1d art. 21 ust. 4 ustawy, o której mowa art. 2, brzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6 miesięcy od dnia wejścia życie tej ustawy.
 
-**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 1, 2 4, które wchodzą życie z dniem 5 kwietnia 2012
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 1 pkt 1, 2 4, które wchodzą życie dniem 5 kwietnia 2012
 

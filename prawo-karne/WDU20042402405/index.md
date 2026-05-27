@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # 1.
 
-*USTAWA dnia 8 października 2004 o zmianie - Kodeks - Kodeks karny wykonawczy*
+*USTAWA dnia 8 października 2004 o zmianie - Kodeks oraz - Kodeks karny wykonawczy*
 
 | Pole | Wartość |
 |---|---|
@@ -24,16 +24,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-10-08 |
 | Data wydania | 2004-11-08 |
+| Wejście w życie | 2004-11-23 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042402405) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2405/text.pdf) |
 
 W ustawie dnia 6 czerwca - Kodeks (Dz.U. 89, 555, późn. zm. ) wprowadza się następujące zmiany:
-1) art. 237 3 pkt 18 kropkę zastępuje się przecinkiem dodaje się pkt 19 brzmieniu: „19) przestępstw określonych rozdziale XVI dnia 6 czerwca - Kodeks karny (Dz.U. 88, 553, późn. zm. ) art. 5-8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego Rzymie dnia 17 lipca 1998 (Dz.U. 2003 78,
+1) art. 237 3 pkt 18 kropkę zastępuje się przecinkiem dodaje się pkt 19 brzmieniu: „19) przestępstw określonych rozdziale XVI dnia 6 czerwca - Kodeks karny (Dz.U. 88, 553, późn. zm. ) oraz art. 5-8 Rzymskiego Statutu Międzynarodowego Trybunału Karnego, sporządzonego Rzymie dnia 17 lipca 1998 (Dz.U. 2003 78,
 708), zwanego dalej „Statutem”.”;
 2) art. 602 1 otrzymuje brzmienie: „§ 1. Z zastrzeżeniem przepisów rozdziału 65b 66a, ekstradycja jest wydaniem osoby ściganej albo skazanego, na wniosek państwa obcego, celach określonych 2.”;
 3) po rozdziale 66 dodaje się rozdział 66a brzmieniu: „Rozdział 66a Współpraca Międzynarodowym Trybunałem Karnym 611g. 1. Wniosek o współpracę Międzynarodowego Trybunału Karnego, zwanego dalej „Trybunałem”, zależności od stadium postępowania wykonuje właściwy sąd lub prokurator za pośrednictwem Ministra Sprawiedliwości.
 2. Przepis 1 stosuje się odpowiednio do wniosku o pomoc prawną kierowanego do Trybunału sąd lub prokuratora.
-kiem o przekazanie osoby”, przed pierwszym przesłuchaniem należy pouczyć osobę, której dotyczy wniosek, o jej uprawnieniach określonych Statucie o możliwości podniesienia zarzutu prawomocnego zakończenia prowadzonego przeciwko niej postępowania o czyn, którego dotyczy wniosek o przekazanie osoby.
+kiem o przekazanie osoby”, przed pierwszym przesłuchaniem należy pouczyć osobę, której dotyczy wniosek, o jej uprawnieniach określonych Statucie oraz o możliwości podniesienia zarzutu prawomocnego zakończenia prowadzonego przeciwko niej postępowania o czyn, którego dotyczy wniosek o przekazanie osoby.
 2. W wypadku wystąpienia przesłanek uzasadniających zarzut, o którym mowa 1, sąd powiadamia o tym Ministra Sprawiedliwości, który może odroczyć wykonanie wniosku o przekazanie osoby.
 3. Przy orzekaniu przedmiocie dopuszczalności przekazania osoby przepisów art. 604 nie stosuje się.
 4. po wydaniu sąd postanowienia o dopuszczalności przekazania osoby Trybunałowi, Minister Sprawiedliwości odroczył wykonanie wniosku o przekazanie osoby powodu toczącego się Rzeczypospolitej Polskiej albo odbywania tę osobę kary pozbawienia wolności za inne przestępstwo, osobę, której wniosek o przekazanie osoby dotyczy, można tymczasowo przekazać Trybunałowi na zasadach ustalonych Trybunałem.
@@ -48,8 +49,8 @@ kiem o przekazanie osoby”, przed pierwszym przesłuchaniem należy pouczyć os
 611o. 1. wniosek Trybunału dotyczy udostępnienia dokumentu lub innego dowodu zawierającego informacje, których ujawnienie mogłoby zagrażać bezpieczeństwu Rzeczypospolitej Polskiej, sąd lub prokurator nie rozstrzyga przedmiocie wniosku przekazuje akta sprawy Ministrowi Sprawiedliwości, który porozumieniu właściwym organem dokonuje ustaleń Trybunałem.
 2. mimo dokonania ustaleń Trybunałem dalszym ciągu udzielenie pomocy prawnej mogłoby zagrażać bezpieczeństwu Rzeczypospolitej Polskiej, sąd lub prokurator odmawia jej udzielenia.
 611p. wniosek Trybunału dotyczy wydania dokumentu lub innego dowodu, udostępnionego organowi lub instytucji Rzeczypospolitej Polskiej inne państwo lub organizację międzynarodową zastrzeżeniem zachowania tajemnicy informacji zawartej tym dokumencie lub dowodzie, wydanie może nastąpić wyłącznie po wyrażeniu zgody udostępniającego dany dokument lub dowód.
-611r. 1. Przy wykonywaniu wniosku o współpracę, na żądanie Trybunału, Prokuratorowi Trybunału innym osobom upoważnionym Trybunał zapewnia się obecność przy wykonywaniu czynności, których dotyczy wniosek.
-2. Osoby, o których mowa 1, mogą zwracać się o zadawanie określonych pytań utrwala ć przebieg czynności na potrzeby prowadzonego przed Trybunałem.
+611r. 1. Przy wykonywaniu wniosku o współpracę, na żądanie Trybunału, Prokuratorowi Trybunału oraz innym osobom upoważnionym Trybunał zapewnia się obecność przy wykonywaniu czynności, których dotyczy wniosek.
+2. Osoby, o których mowa 1, mogą zwracać się o zadawanie określonych pytań oraz utrwala ć przebieg czynności na potrzeby prowadzonego przed Trybunałem.
 3. Prokuratorowi Trybunału umożliwia się samodzielne dokonywanie czynności procesowych na terytorium Rzeczypospolitej Polskiej na zasadach warunkach określonych Statucie.
 611s. Ustaleń Trybunałem, o których mowa przepisach Statutu, innych niż określone niniejszym rozdziale, dokonuje Minister Sprawiedliwości.”;
 4) art. 615 otrzymuje brzmienie: przepisy niniejszego działu.
@@ -58,7 +59,7 @@ kiem o przekazanie osoby”, przed pierwszym przesłuchaniem należy pouczyć os
 4. umowa międzynarodowa albo akt prawny regulujący działanie międzynarodowego trybunału tego wymaga, Minister Sprawiedliwości zawiadamia międzynarodowy trybunał karny o wszczęciu przeciwko osobie o popełnienie przestępstwa podlegającego ściganiu ten trybunał.
 5. co do tego samego czynu tej samej osoby wszczęto postępowanie karne Rzeczypospolitej Polskiej przed międzynarodowym trybunałem karnym, Minister Sprawiedliwości przekazuje ściganie temu trybunałowi, jeżeli wymagają tego akty prawne regulujące działanie trybunału.”.
 2.
-W ustawie dnia 6 czerwca - Kodeks karny wykonawczy (Dz.U. 90, 557, późn. zm. ) art. 253 2 otrzymuje brzmienie: „§ 2. Przepis 1 stosuje się odpowiednio razie przeszkody uniemożliwiającej doprowadzenie lub przyjęcie tymczasowo aresztowanego albo skazanego do aresztu śledczego lub zakładu razie nieprzewidzianego lądowania podczas przewozu drogą powietrzną lub nieprzewidzianej przerwy przewozie inną drogą osoby przekazywanej na zasadach warunkach określonych Rzymskim Statucie Międzynarodowego Trybunału Karnego (Dz.U. 2003 78, 708). Decyzję tym przedmiocie podejmuje komendant jednostki Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego lub Żandarmerii Wojskowej.”.
+W ustawie dnia 6 czerwca - Kodeks karny wykonawczy (Dz.U. 90, 557, późn. zm. ) art. 253 2 otrzymuje brzmienie: „§ 2. Przepis 1 stosuje się odpowiednio razie przeszkody uniemożliwiającej doprowadzenie lub przyjęcie tymczasowo aresztowanego albo skazanego do aresztu śledczego lub zakładu oraz razie nieprzewidzianego lądowania podczas przewozu drogą powietrzną lub nieprzewidzianej przerwy przewozie inną drogą osoby przekazywanej na zasadach warunkach określonych Rzymskim Statucie Międzynarodowego Trybunału Karnego (Dz.U. 2003 78, 708). Decyzję tym przedmiocie podejmuje komendant jednostki Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego lub Żandarmerii Wojskowej.”.
 3.
 Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

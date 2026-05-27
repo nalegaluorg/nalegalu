@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# Dz.
+# Dz. 1458 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 20 października sprawie ogłoszenia jednolitego tekstu wpłatach przez jednoosobowe spółki Państwa
 
 | Pole | Wartość |
 |---|---|
@@ -25,7 +25,6 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001458) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1458/text.pdf) |
 
-OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 20 października sprawie ogłoszenia jednolitego tekstu wpłatach przez jednoosobowe spółki Państwa
 1. Na art. 16 ust. 1 zdanie pierwsze 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 1 grudnia 1995 wpłatach przez jednoosobowe spółki Państwa 2022 44), uwzględnieniem zmiany wprowadzonej ustawą 20 lutego zmianie przygotowaniu realizacji inwestycji zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz wpłatach przez jednoosobowe spółki Państwa 393) oraz zmian wynikających przepisów ogłoszonych przed dniem 16 października
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje art. 4 art. 6 20 lutego zmianie przygotowaniu realizacji inwestycji zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących oraz wpłatach przez jednoosobowe spółki Państwa 393), które stanowią: „Art. 4. 1. Do rozliczenia wpłat za 2024 przez spółki przygotowujące realizujące inwestycję zakresie obiektu energetyki jądrowej na zmienianej art. 1 stosuje się przepisy zmienianej art. 2 brzmieniu dotychczasowym.
 2. Do dokonywania wpłat rozliczenia wpłat za ten rok przez spółki przygotowujące realizujące inwestycję zakresie obiektu energetyki jądrowej na zmienianej art. 1 stosuje się przepisy zmienianej art. 2 brzmieniu nadanym niniejszą ustawą.” „Art. 6. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia.”.

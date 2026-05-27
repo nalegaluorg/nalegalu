@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-05-07 |
 | Data wydania | 2009-06-15 |
+| Wejście w życie | 2009-07-16 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090910741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/741/text.pdf) |
 
@@ -33,29 +34,32 @@ dnia 22 lipca 1983 r. oraz trakcie tłumienia manifestacji lub strajków latach 
 2) dzieci własne oraz dzieci przysposobione,
 3) rodziców oraz osoby przysposabiające – zwanych dalej „członkami rodziny”.
 3. 1. Każdemu członkowi przysługuje świadczenie pieniężne wysokości 50 000 zł.
-Prawo przysługujące członkowi jest ściśle związane jego osobą niezbywalne. W przypadku śmierci członka po złożeniu wniosku, art. 4 prawo należy spadku po tej osobie.
+Prawo przysługujące członkowi jest ściśle związane jego osobą niezbywalne. W przypadku śmierci członka po złożeniu wniosku, art. 4 ust. prawo należy spadku po tej osobie.
 4. 1. Przyznanie następuje na wniosek członka rodziny, złożony organowi właściwemu sprawie przyznania terminie 10 lat od dnia wejścia życie ustawy.
-Wniosek, powinien zawierać:
+Wniosek, ust. powinien zawierać:
 1) imię lub imiona nazwisko wnioskodawcy, datę miejsce urodzenia, imiona rodziców, numer PESEL, numer telefonu lub adres poczty elektronicznej oraz adres miejsca zamieszkania lub adres korespondencyjny oraz stopień pokrewieństwa lub powinowactwa łączący go ze zmarłą ofiarą zbiorowego wystąpienia wolnościowego;
-1a) imię lub imiona nazwisko osoby, której art. 1 nazwisko rodowe, datę miejsce urodzenia, imiona rodziców, numer PESEL, jeśli był nadany, oraz datę zgonu;
+1a) imię lub imiona nazwisko osoby, której art. 1 ust. nazwisko rodowe, datę miejsce urodzenia, imiona rodziców, numer PESEL, jeśli był nadany, oraz datę zgonu;
 2) wskazanie okoliczności uzasadniających przyznanie pieniężnego;
-3) informację przyznaniu, na podstawie art. 82 1 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U.
-2020 r. poz. 53 252), przez Prezesa Rady Ministrów płatnej jednorazowo renty specjalnej tytułu śmierci osób, których art. 1 grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie);
+3) informację przyznaniu, na podstawie art. 82 ust. 1 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U.
+2020 r. poz. 53 252), przez Prezesa Rady Ministrów płatnej jednorazowo renty specjalnej tytułu śmierci osób, których art. 1 ust. grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie);
 4) wskazanie formy wypłaty wraz informacją nazwie banku numerze rachunku bankowego wnioskodawcy przypadku wyboru tej formy wypłaty;
 skróconego aktu stanu cywilnego potwierdzającego zawarcie małżeństwa albo stopień pokrewieństwa tą osobą.
-4. Roszczenie przyznanie wygasa razie niezłożenia przez członka wniosku terminie, 1.
+4. Roszczenie przyznanie wygasa razie niezłożenia przez członka wniosku terminie, ust. 1.
 5. Organem właściwym sprawie przyznania jest Szef Urzędu Spraw Kombatantów Osób Represjonowanych.
 6. 1. Przyznanie oraz odmowa przyznania przez Szefa Urzędu Spraw Kombatantów Osób Represjonowanych następuje drodze decyzji administracyjnej.
-Przed wydaniem decyzji, której Szef Urzędu Spraw Kombatantów Osób Represjonowanych może zwrócić się Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przekazanie informacji treści zgromadzonych przez Instytut dokumentów dotyczących okoliczności uzasadniających przyznanie pieniężnego, których art. 4 2 pkt 2, oraz przekazanie uwierzytelnionych kopii tych dokumentów.
-3. Decyzja, której jest ostateczna. Przepisu art. 127 § 3 ustawy dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. 2020 r. poz. 256) nie stosuje się.
-4. Od decyzji, której przysługuje skarga sądu administracyjnego na zasadach trybie określonych ustawie dnia 30 sierpnia 2002 r. – Prawo postępowaniu przed sądami administracyjnymi (Dz. U. 2019 r.
+Przed wydaniem decyzji, której ust. Szef Urzędu Spraw Kombatantów Osób Represjonowanych może zwrócić się Prezesa Instytutu Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu przekazanie informacji treści zgromadzonych przez Instytut dokumentów dotyczących okoliczności uzasadniających przyznanie pieniężnego, których art. 4 ust. 2 pkt 2, oraz przekazanie uwierzytelnionych kopii tych dokumentów.
+3. Decyzja, której ust. jest ostateczna. Przepisu art. 127 § 3 ustawy dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. 2020 r. poz. 256) nie stosuje się.
+4. Od decyzji, której ust. przysługuje skarga sądu administracyjnego na zasadach trybie określonych ustawie dnia 30 sierpnia 2002 r. – Prawo postępowaniu przed sądami administracyjnymi (Dz. U. 2019 r.
 poz. 2325).
-5. Sąd administracyjny rozpatruje skargę, której 4, terminie 30 dni od dnia jej otrzymania przez sąd.
+5. Sąd administracyjny rozpatruje skargę, której ust. 4, terminie 30 dni od dnia jej otrzymania przez sąd.
 7. Do postępowania przyznanie stosuje się przepisy ustawy dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, chyba że ustawa stanowi inaczej.
 8. 1. Wypłaty dokonuje Urząd Spraw Kombatantów Osób Represjonowanych.
 3. Wypłata następuje części budżetu państwa, której dysponentem jest Szef Urzędu Spraw Kombatantów Osób Represjonowanych.
 9. Kwoty wypłacone na podstawie ustawy są wolne od podatku dochodowego od osób fizycznych.
 10. (pominięty)
-11. 1. Świadczenie pieniężne nie przysługuje członkom rodzin, na podstawie art. 82 1 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Ubezpieczeń Społecznych Prezes Rady Ministrów przyznał płatną jednorazowo rentę specjalną tytułu śmierci osób, których art. 1 grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie), zastrzeżeniem Członkom rodzin, których którzy otrzymali płatną jednorazowo rentę specjalną wysokości niższej niż określona art. 3 przysługuje świadczenie pieniężne kwocie stanowiącej różnicę między wysokością przysługującego na podstawie niniejszej ustawy a wysokością przyznanej renty specjalnej.
+11. 1. Świadczenie pieniężne nie przysługuje członkom rodzin, na podstawie art. 82 ust. 1 ustawy dnia 17 grudnia 1998 r. emeryturach rentach Funduszu Ubezpieczeń Społecznych Prezes Rady Ministrów przyznał płatną jednorazowo rentę specjalną tytułu śmierci osób, których art. 1 ust.
+grudniu 1970 r. na Wybrzeżu (w Elblągu, Gdańsku, Gdyni Szczecinie), zastrzeżeniem ust.
+Członkom rodzin, których ust. którzy otrzymali płatną jednorazowo rentę specjalną wysokości niższej niż określona art. 3 ust.
+przysługuje świadczenie pieniężne kwocie stanowiącej różnicę między wysokością przysługującego na podstawie niniejszej ustawy a wysokością przyznanej renty specjalnej.
 12. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
 

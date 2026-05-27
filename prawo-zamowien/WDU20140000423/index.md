@@ -22,10 +22,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-14 |
 | Data wydania | 2014-04-01 |
+| Wejście w życie | 2014-04-16 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000423) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/423/text.pdf) |
 
-**Art. 1.** W ustawie dnia 29 stycznia 2004 Prawo publicznych (Dz. 907, późn. zm. ) wprowadza się następujące zmiany: art. 4:
+**Art. 1.** W ustawie dnia 29 stycznia 2004 Prawo publicznych (Dz. 907, późn. zm. wprowadza się następujące zmiany: art. 4:
 
 **Art. 2.** W ustawie dnia 25 października 1991 organizowaniu prowadzeniu działalności kulturalnej (Dz.
 
@@ -37,7 +38,7 @@ source: "isap-pdf"
 
 **Art. 37d.** Podmiot prowadzący działalność kulturalną zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację udzieleniu zamówienia, którym mowa art. 37a, podając nazwę (firmę) albo imię nazwisko podmiotu, którym zawarł umowę wykonanie zamówienia, albo informację nieudzieleniu tego zamówienia.”.
 
-**Art. 3.** W ustawie dnia 30 kwietnia 2010 zasadach finansowania nauki (Dz. Nr 96, 615, późn. zm. ) wprowadza się następujące zmiany: art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa zasady: finansowania nauki ze środków finansowych ustalanych na ten cel budżecie państwa, ujmowanych wyodrębnionej części budżetu państwa „Nauka”, zwanych dalej „środkami finansowymi na naukę”, którymi dysponuje minister właściwy do spraw nauki, zwany dalej „Ministrem”;
+**Art. 3.** W ustawie dnia 30 kwietnia 2010 zasadach finansowania nauki (Dz. Nr 96, 615, późn. zm. wprowadza się następujące zmiany: art. 1 otrzymuje brzmienie: „Art. 1. Ustawa określa zasady: finansowania nauki ze środków finansowych ustalanych na ten cel budżecie państwa, ujmowanych wyodrębnionej części budżetu państwa „Nauka”, zwanych dalej „środkami finansowymi na naukę”, którymi dysponuje minister właściwy do spraw nauki, zwany dalej „Ministrem”;
 
 **Art. 30d.** Podmiot zamawiający zamieszcza niezwłocznie na swojej stronie podmiotowej Biuletynu Informacji Publicznej informację udzieleniu zamówienia dziedziny nauki, podając nazwę (firmę) albo imię nazwisko podmiotu, którym zawarł umowę wykonanie zamówienia, albo informację nieudzieleniu tego zamówienia.”.
 

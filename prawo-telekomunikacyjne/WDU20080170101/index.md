@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy – Prawo telekomunikacyjne oraz ustawy o Państwowym Ratownictwie Medycznym
+# o zmianie – Prawo telekomunikacyjne oraz o Państwowym Ratownictwie Medycznym
 
 *USTAWA dnia 11 stycznia 2008 r.*
 
@@ -24,18 +24,19 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-01-11 |
 | Data wydania | 2008-01-31 |
+| Wejście w życie | 2008-08-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080170101) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/101/text.pdf) |
 
 **Art. 1.** W ustawie dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. 171, 1800, późn. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. 191, 1410 oraz r. 89, 590 166, 1172) art. 28 otrzymuje brzmienie: „Art. 28. Centrum powiadamiania ratunkowego dyspozytor medyczny mają prawo uzyskać za pośrednictwem systemu, o którym mowa art. 78 ust. 4 ustawy dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. 171, 1800, późn. zm. ), informacje dotyczące lokalizacji zakończenia sieci, którego zostało wykonane połączenie numeru alarmowego „112” albo innego numeru alarmowego oraz dane dotyczące abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej, o których mowa art. 169 ust. 1 ustawy dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.”.
+**Art. 2.** W ustawie dnia 8 września r. o Państwowym Ratownictwie Medycznym (Dz. U. 191, 1410 oraz 2007 r. 89, 590 166, 1172) art. 28 otrzymuje brzmienie: „Art. 28. Centrum powiadamiania ratunkowego dyspozytor medyczny mają prawo uzyskać za pośrednictwem systemu, o którym mowa w art. 78 ust. 4 dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. 171, 1800, późn. zm. ), informacje dotyczące lokalizacji zakończenia sieci, którego zostało wykonane połączenie numeru alarmowego „112” albo innego numeru alarmowego oraz dane dotyczące abonenta lub zarejestrowanego użytkownika końcowego usługi przedpłaconej, o których mowa w art. 169 ust. 1 dnia 16 lipca 2004 r. – Prawo telekomunikacyjne.”.
 
 **Art. 3.**
 
-1. Przedsiębiorcy telekomunikacyjni obowiązani są dostosowania swoich systemów informatycznych systemu, o którym mowa art. 78 ust. 4 ustawy dnia 16 lipca 2004 r. – Prawo telekomunikacyjne brzmieniu nadanym niniejszą ustawą, oraz przekazania informacji danych tego systemu terminie 2 miesięcy od dnia jego uruchomienia przez Prezesa Urzędu Komunikacji Elektronicznej. Prezes Urzędu Komunikacji Elektronicznej zamieszcza informację o uruchomieniu systemu na stronie Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
+1. Przedsiębiorcy telekomunikacyjni obowiązani są dostosowania swoich systemów informatycznych systemu, o którym mowa w art. 78 ust. 4 dnia 16 lipca 2004 r. – Prawo telekomunikacyjne w brzmieniu nadanym niniejszą ustawą, oraz przekazania informacji danych tego systemu w terminie 2 miesięcy od dnia jego uruchomienia przez Prezesa Urzędu Komunikacji Elektronicznej. Prezes Urzędu Komunikacji Elektronicznej zamieszcza informację o uruchomieniu systemu na stronie Biuletynu Informacji Publicznej Urzędu Komunikacji Elektronicznej.
 
-2. Do dnia przekazania, o którym mowa ust. 1, przedsiębiorcy telekomunikacyjni realizują obowiązki, zawarte art. 77 ust. 2, art. 78 art. 169 ust. 5 ustawy dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (w brzmieniu dnia 3 września 2004 r., Dz.U. 171, 1800).
+2. Do dnia przekazania, o którym mowa w ust. 1, przedsiębiorcy telekomunikacyjni realizują obowiązki, zawarte w art. 77 ust. 2, art. 78 art. 169 ust. 5 dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (w brzmieniu dnia 3 września 2004 r., Dz.U. 171, 1800).
 
 3. (uchylony).
 
@@ -43,5 +44,5 @@ source: "isap-pdf"
 
 5. (uchylony).
 
-**Art. 4.** Ustawa wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 

@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-02-20 |
 | Data wydania | 2015-03-13 |
-| Ostatnia zmiana | 2026-03-12 |
+| Wejście w życie | 2015-03-15 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150000349) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/349/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne

@@ -8,10 +8,12 @@ pos: 2184
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "eli-html"
+source: "isap-pdf"
 ---
 
-# Ustawa z dnia 16 grudnia 2015 r. o zmianie ustawy o administracji podatkowej oraz ustawy o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+# o zmianie ustawy o administracji podatkowej oraz ustawy o zmianie ustawy – Ordynacja podatkowa oraz niektórych innych ustaw
+
+*USTAWA z dnia 16 grudnia 2015 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -22,6 +24,7 @@ source: "eli-html"
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-16 |
 | Data wydania | 2015-12-24 |
+| Wejście w życie | 2015-12-25 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002184) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2184/text.pdf) |
 

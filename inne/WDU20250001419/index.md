@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-09-26 |
 | Data wydania | 2025-10-20 |
-| Ostatnia zmiana | 2026-01-05 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001419) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1419/text.pdf) |
 
 #### Rozdział 1 Przepisy ogólne
@@ -850,12 +850,12 @@ source: "isap-pdf"
 - **1)** środki przekazywane z budżetu państwa – w wysokości określonej w ustawie budżetowej;
 - **1a)** środki przekazane przez Krajowy Zasób Nieruchomości, o którym mowa w ustawie z dnia 20 lipca 2017 r. o Krajowym Zasobie Nieruchomości (Dz. U. z 2025 r. poz. 834);
 - **1b)** (uchylony) 1c) środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654, 1473, 1635 i 1717 oraz z 2025 r. poz. 620 i 680);
-- **2)** odsetki od lokat środków Funduszu w bankach;
-- **3)** wpływy z inwestycji środków Funduszu w papiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski oraz w papiery wartościowe określające świadczenia pieniężne, poręczane lub gwarantowane przez Skarb Państwa albo Narodowy Bank Polski, a także w jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi (Dz. U. z 2024 r. poz. 1034, z późn. zm. );
+- **2)** odsetki od wolnych środków Funduszu przekazanych w depozyt, o którym mowa w art. 48 ust. 4a ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych;
+- **3)** (uchylony)
 - **4)** darowizny i zapisy;
 - **5)** inne wpływy.
 
-2. Suma lokat, o których mowa w ust. 1 pkt 2, w jednym banku lub w grupie banków powiązanych ze sobą kapitałowo lub organizacyjnie, nie może przekroczyć 15 % okresowo wolnych środków Funduszu.
+2. (uchylony)
 
 3. Składające się na Fundusz środki rezerwy celowej, o której mowa w art. 3 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi, przeznacza się wyłącznie na premie udzielane zgodnie z art. 28a ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi.
 
@@ -873,10 +873,7 @@ source: "isap-pdf"
 - **3)** pokrycie kosztów obsługi Funduszu;
 - **4)** pokrycie kosztów promocji Funduszu.
 
-2. Okresowo wolne środki Funduszu mogą być:
-
-- **1)** lokowane w innych bankach, z zastrzeżeniem art. 24 ust. 2;
-- **2)** inwestowane w papiery wartościowe lub jednostki uczestnictwa, o których mowa w art. 24 ust. 1 pkt 3.
+2. Wolne środki Funduszu w walutach obcych mogą być lokowane w bankach.
 
 **Art. 26.**
 
@@ -1152,5 +1149,5 @@ source: "isap-pdf"
 
 **Art. 31.** Traci moc ustawa z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. poz. 1121, z późn. zm. ).
 
-**Art. 32.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 21 listopada 2008 r. (Dz. U. z 2025 r. poz. 000) P = k *0,02* w *  ( pu * m ) 12 Objaśnienia: P – wysokość premii kompensacyjnej; Zgodnie z art. 11 ust. 2 i 3: k = a) 0,5, jeśli wskaźnik kosztu przedsięwzięcia jest mniejszy od 0,5,
+**Art. 32.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 21 listopada 2008 r. (Dz. U. z 2025 r. poz. 1419) P = k *0,02* w *  ( pu * m ) 12 Objaśnienia: P – wysokość premii kompensacyjnej; Zgodnie z art. 11 ust. 2 i 3: k = a) 0,5, jeśli wskaźnik kosztu przedsięwzięcia jest mniejszy od 0,5,
 

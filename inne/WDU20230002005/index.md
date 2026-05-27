@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2023-08-30 |
 | Data wydania | 2023-09-26 |
-| Ostatnia zmiana | 2026-04-30 |
+| Wejście w życie | 2023-09-27 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230002005) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/2005/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2023 r. poz. 900, 1672 i 1718) wprowadza się następujące zmiany:

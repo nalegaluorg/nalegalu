@@ -11,9 +11,9 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 1) wart. 2 wyrazy „31 grudnia 2005 r.” zastępuje się
+# 716.
 
-*USTAWA z d n i a 24 li p c a 1998 r zmieniająca ustawę o zmianie ustawy o i dowodach osobistych oraz ustawy o działalności W ustawie z dnia 20 sierpnia 1997 r. o zmianie ustawy dach osobistych oraz ustawy o działalności gospodarczej wprowadza się następujące zmiany:*
+*USTAWA z dnia 24 lipca 1998 r. Nr 113, poz.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,9 +24,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1998-07-24 |
 | Data wydania | 1998-08-31 |
+| Wejście w życie | 1998-09-15 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981130716) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/716/text.pdf) |
 
-2) wart. 8 po wyrazach „Rzeczypospolitej Polskiej” razy „w terminie do dnia I stycznia 1999 r. ;
-3) w art. 9 wyrazy „„l stycznia 1999 r.” zastępuje się Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+zmieniająca ustawę o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej
+
+**Art. 1.** W ustawie z dnia 20 sierpnia 1997 r. o zmianie ustawy o ewidencji ludności i dowodach osobistych oraz ustawy o działalności gospodarczej (Dz.U. Nr 113, poz. 733) wprowadza się następujące zmiany: I) wart. 2 wyrazy „31 grudnia 2005 r.” zastępuje się wyrazami „31 grudnia 2006
+
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

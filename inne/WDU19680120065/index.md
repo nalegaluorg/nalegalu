@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1968-04-09 |
 | Data wydania | 1968-04-17 |
+| Wejście w życie | 1968-04-17 |
 | Ostatnia zmiana | 2025-11-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19680120065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1968/65/text.pdf) |
 

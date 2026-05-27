@@ -29,13 +29,13 @@ source: "isap-pdf"
 2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 24–26 26 maja 2023 kolejnym dodatkowym rocznym świadczeniu pieniężnym dla emerytów rencistów (Dz. U. poz. 1407), które stanowią: „Art. 24. Przepis 13 stosuje się wypłaty należnego zasądzonego lub zaległego świadczenia przysługującego za okres przed dniem stycznia 2024
 2. Przepis 14 zmienianej 20, brzmieniu nadanym niniejszą ustawą, stosuje się wypłaty należnego zasądzonego lub zaległego rocznego świadczenia pieniężnego przysługującego za okres przed dniem stycznia 2024
 3. Wypłaty należnych zasądzonych lub zaległych świadczeń tytułu kolejnego rocznego świadczenia pieniężnego koszty obsługi wypłaty tych świadczeń, których mowa odrębnych przepisach, są finansowane budżetu państwa.
-4. Nienależnie pobrane dodatkowe świadczenie dodatkowe roczne świadczenie pieniężne przysługujące za okres przed dniem stycznia 2024 stanowią dochód budżetu państwa.
+4. Nienależnie pobrane dodatkowe dodatkowe roczne pieniężne przysługujące za okres przed dniem stycznia 2024 stanowią dochód budżetu państwa.
 25. Przepis 12 2 zmienianej 20 brzmieniu dotychczasowym stosuje się dodatkowego rocznego świadczenia pieniężnego przysługującego za okres przed dniem stycznia 2024
 26. Ustawa wchodzi życie po upływie 14 dni od ogłoszenia, wyjątkiem:
 1) 20 pkt 2, 24 25, które wchodzą życie dniem stycznia 2024 r.;
 2) 14 3 20 pkt 3 zakresie dodawanego 14a 3, które wchodzą życie dniem stycznia 2025 r.”.
 Marszałek Sejmu: S. Hołownia wypłaty.
-2. Dodatkowe roczne świadczenie pieniężne przysługuje osobom, które dniu 31 marca roku, którym wypłacane jest dodatkowe roczne świadczenie pieniężne, mają prawo do:
+2. Dodatkowe roczne pieniężne przysługuje osobom, które dniu 31 marca roku, którym wypłacane jest dodatkowe roczne pieniężne, mają prawo do:
 1) świadczeń, których mowa 2 pkt lit. a b 29 maja 1974 zaopatrzeniu inwalidów wojennych wojskowych ich rodzin (Dz. U. 2023 poz. 1100),
 2) świadczeń ubezpieczenia emerytalno-rentowego, których mowa 18 pkt 1–4 20 grudnia 1990 ubezpieczeniu społecznym rolników (Dz. U. 2024 poz. 90),
 3) świadczeń, których mowa 12 16 24 stycznia 1991 kombatantach niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. U. 2022 poz. 2039),
@@ -52,15 +52,15 @@ Marszałek Sejmu: S. Hołownia wypłaty.
 14) emerytury, której mowa pkt 19 grudnia 2008 emeryturach pomostowych (Dz. U.
 2023 poz. 164 1667),
 15) świadczenia, którym mowa 5 22 maja 2009 nauczycielskich świadczeniach kompensacyjnych (Dz. U. 2024 poz. 245),
-16) okresowej emerytury rolniczej, której mowa 15 11 maja 2012 zmianie emeryturach rentach Funduszu Ubezpieczeń Społecznych niektórych innych ustaw (Dz. U. poz. 637 2017 poz. 38), świadczenie pieniężne, które podlega proporcjonalnemu podziałowi na osoby uprawnione renty rodzinnej.
-2. Jeżeli renty rodzinnej uprawniona jest więcej niż jedna osoba przynajmniej jedna nich uprawniona jest renty socjalnej, dodatkowe roczne świadczenie pieniężne tytułu renty rodzinnej podlega podziałowi stosownie liczby osób uprawnionych renty rodzinnej, wyłączeniem osoby lub osób uprawnionych renty socjalnej.
-3. Osobie lub osobom wyłączonym liczby osób uprawnionych renty rodzinnej, których mowa 2, przysługuje dodatkowe roczne świadczenie pieniężne tytułu przysługującego prawa renty socjalnej.
-5. Dodatkowe roczne świadczenie pieniężne przysługuje wysokości najniższej emerytury, której mowa 85 2 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych obowiązującej od marca roku, którym wypłacane jest dodatkowe roczne świadczenie pieniężne.
-6. Dodatkowe roczne świadczenie pieniężne wypłaca się osobie uprawnionej urzędu, wraz ze świadczeniem, którym mowa 2
-2. Dodatkowe roczne świadczenie pieniężne wypłaca się terminie wypłaty świadczeń, których mowa 2 1, przypadającym kwietniu, wyjątkiem rocznego świadczenia pieniężnego przyznanego osobie uprawnionej świadczeń, których mowa 2 pkt 10, które wypłaca się terminie wypłaty świadczeń przypadającym maju.
-7. Decyzje sprawie rocznego świadczenia pieniężnego wydaje świadczenie to wypłaca organ wypłacający świadczenie, którym mowa 2
-2. W razie zbiegu prawa świadczeń, które są wypłacane przez dwa organy emerytalno-rentowe, decyzje sprawie rocznego świadczenia pieniężnego wydaje świadczenie to wypłaca Zakład Ubezpieczeń Społecznych.
-3. W razie zbiegu prawa świadczeń, które są wypłacane przez organ emerytalno-rentowy Agencję Restrukturyzacji Modernizacji Rolnictwa, decyzje sprawie rocznego świadczenia pieniężnego wydaje świadczenie to wypłaca właściwy organ emerytalno-rentowy.
+16) okresowej emerytury rolniczej, której mowa 15 11 maja 2012 zmianie emeryturach rentach Funduszu Ubezpieczeń Społecznych niektórych innych ustaw (Dz. U. poz. 637 2017 poz. 38), pieniężne, które podlega proporcjonalnemu podziałowi na osoby uprawnione renty rodzinnej.
+2. Jeżeli renty rodzinnej uprawniona jest więcej niż jedna osoba przynajmniej jedna nich uprawniona jest renty socjalnej, dodatkowe roczne pieniężne tytułu renty rodzinnej podlega podziałowi stosownie liczby osób uprawnionych renty rodzinnej, wyłączeniem osoby lub osób uprawnionych renty socjalnej.
+3. Osobie lub osobom wyłączonym liczby osób uprawnionych renty rodzinnej, których mowa 2, przysługuje dodatkowe roczne pieniężne tytułu przysługującego prawa renty socjalnej.
+5. Dodatkowe roczne pieniężne przysługuje wysokości najniższej emerytury, której mowa 85 2 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych obowiązującej od marca roku, którym wypłacane jest dodatkowe roczne pieniężne.
+6. Dodatkowe roczne pieniężne wypłaca się osobie uprawnionej urzędu, wraz ze świadczeniem, którym mowa 2
+2. Dodatkowe roczne pieniężne wypłaca się terminie wypłaty świadczeń, których mowa 2 1, przypadającym kwietniu, wyjątkiem rocznego świadczenia pieniężnego przyznanego osobie uprawnionej świadczeń, których mowa 2 pkt 10, które wypłaca się terminie wypłaty świadczeń przypadającym maju.
+7. Decyzje sprawie rocznego świadczenia pieniężnego wydaje to wypłaca organ wypłacający świadczenie, którym mowa 2
+2. W razie zbiegu prawa świadczeń, które są wypłacane przez dwa organy emerytalno-rentowe, decyzje sprawie rocznego świadczenia pieniężnego wydaje to wypłaca Zakład Ubezpieczeń Społecznych.
+3. W razie zbiegu prawa świadczeń, które są wypłacane przez organ emerytalno-rentowy Agencję Restrukturyzacji Modernizacji Rolnictwa, decyzje sprawie rocznego świadczenia pieniężnego wydaje to wypłaca właściwy organ emerytalno-rentowy.
 4. Decyzje sprawie rocznego świadczenia pieniężnego, sporządzone wykorzystaniem systemu teleinformatycznego, mogą zamiast podpisu zawierać nadruk imienia nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej ich wydania.
 5. Od decyzji organu wypłacającego przysługują środki odwoławcze przewidziane przepisach, których mowa 2
 8. Kwoty rocznego świadczenia pieniężnego nie wlicza się dochodu, którym mowa w:
@@ -72,7 +72,7 @@ Marszałek Sejmu: S. Hołownia wypłaty.
 2) 10 grudnia 1993 zaopatrzeniu emerytalnym żołnierzy zawodowych ich rodzin, wyjątkiem 46 tej ustawy;
 3) 18 lutego 1994 zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Marszałkowskiej, Służby Ochrony Państwa, Państwowej Straży Pożarnej, Służby Celno-Skarbowej Służby Więziennej ich rodzin, wyjątkiem 47 tej ustawy;
 4) 17 grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych, wyjątkiem 136 tej ustawy.
-14. Dodatkowe roczne świadczenie pieniężne wypłacane przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego Agencję Restrukturyzacji Modernizacji Rolnictwa koszty obsługi jego wypłaty są finansowane budżetu państwa.
+14. Dodatkowe roczne pieniężne wypłacane przez Zakład Ubezpieczeń Społecznych, Kasę Rolniczego Ubezpieczenia Społecznego Agencję Restrukturyzacji Modernizacji Rolnictwa koszty obsługi jego wypłaty są finansowane budżetu państwa.
 2. Koszty obsługi, których mowa 1, wynoszą 0,5 % kwoty przeznaczonej na wypłatę rocznego świadczenia pieniężnego.
 14a. Organy wypłacające świadczenia, których mowa 2 1, są uprawnione pozyskiwania przetwarzania danych osobowych zakresie niezbędnym przyznawania ustania prawa rocznego świadczenia pieniężnego wypłacania tego świadczenia.
 2. Zabezpieczenia przetwarzania danych osobowych przez organy wypłacające świadczenia, których mowa 2 1, polegają co najmniej na:

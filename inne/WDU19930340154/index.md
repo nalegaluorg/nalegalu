@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1993-02-19 |
 | Data wydania | 1993-04-30 |
+| Wejście w życie | 1993-04-30 |
 | Ostatnia zmiana | 2025-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930340154) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/154/text.pdf) |
 

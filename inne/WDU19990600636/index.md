@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1999-06-25 |
 | Data wydania | 1999-07-12 |
-| Ostatnia zmiana | 2026-05-05 |
+| Wejście w życie | 1999-09-01 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990600636) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/636/text.pdf) |
 
 Art. 71–80. (pominięte)

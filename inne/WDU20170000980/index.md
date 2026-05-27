@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-05-12 |
 | Data wydania | 2017-05-18 |
+| Wejście w życie | 2017-05-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000980) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/980/text.pdf) |
 

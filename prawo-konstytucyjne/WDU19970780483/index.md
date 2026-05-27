@@ -23,7 +23,8 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1997-04-02 |
-| Ostatnia zmiana | 2026-03-18 |
+| Wejście w życie | 1997-10-17 |
+| Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/483/text.pdf) |
 
 Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą stosowali, wzywamy, aby czynili to, dbając o zachowanie przyrodzonej godności człowieka, jego prawa do wolności i obowiązku solidarności z innymi, a poszanowanie tych zasad mieli za niewzruszoną podstawę Rzeczypospolitej Polskiej.

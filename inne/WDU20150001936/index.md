@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-10-09 |
 | Data wydania | 2015-11-23 |
+| Wejście w życie | 2017-01-01 |
 | Ostatnia zmiana | 2020-02-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001936) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1936/text.pdf) |
 

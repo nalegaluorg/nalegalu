@@ -11,9 +11,9 @@ domain: null
 source: "isap-pdf"
 ---
 
-# Wyższej Szkole Pedagogicznej w Zielonej Górze nadaje się nazwę ,„„Wyższa Szkoła Pedagogiczna imienia Tadeusza Kotarbińskiego w Zielonej Górze”.
+# o nadaniu Wyższej Szkole Pedagogicznej w Zielonej Górze imienia Tadeusza Kotarbińskiego.
 
-*USTAWA o nadaniu Wyższej Szkole Pedagogicznej w Zielonej Górze imienia Tadeusza Kotarbińskiego.*
+*USTAWA z dnia 15 lutego 1989 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,8 +24,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1989-02-15 |
 | Data wydania | 1989-02-21 |
+| Wejście w życie | 1989-02-21 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890060036) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/36/text.pdf) |
 
-Ustawa wchodzi w życie z dniem ogłoszenia.
+**Art. 1.** Wyższej Szkole Pedagogicznej w Zielonej Górze nadaje się nazwę „Wyższa Szkoła Pedagogiczna imienia Tadeusza Kotarbińskiego w Zielonej Górze”.
+
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia.
 

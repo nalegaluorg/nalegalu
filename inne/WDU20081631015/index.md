@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 25 lipca 2008 r. o zmianie ustawy o ochronie przeciwpożarowej oraz niektórych innych ustaw
 
-*USTAWA dnia 25 lipca 2008 o zmianie o ochronie przeciwpożarowej oraz niektórych innych ustaw*
+*USTAWA dnia 25 lipca o zmianie o ochronie przeciwpożarowej niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-25 |
 | Data wydania | 2008-09-10 |
+| Wejście w życie | 2008-09-25 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631015) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1015/text.pdf) |
 
@@ -31,7 +32,7 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. U. 96, 667, późn. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** w brzmieniu: „9) strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych prowadzeniem akcji ratowniczej;
+**Art. 3.** brzmieniu: „9) strażak Państwowej Straży Pożarnej podczas wykonywania czynności związanych prowadzeniem akcji ratowniczej;
 
-**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

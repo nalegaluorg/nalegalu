@@ -25,10 +25,10 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001439) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1439/text.pdf) |
 
-1. Na podstawie 16 zdanie pierwsze 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst 31 stycznia 1989 o gospodarce finansowej przedsiębiorstw państwowych (Dz. 2020 1998), uwzględnieniem zmiany wprowadzonej ustawą 11 marca 2022 o obronie Ojczyzny (Dz. 655) oraz zmian wynikających przepisów ogłoszonych przed dniem 22 czerwca 2022
+1. Na podstawie 16 zdanie pierwsze 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza załączniku do niniejszego obwieszczenia jednolity tekst 31 stycznia 1989 o gospodarce finansowej przedsiębiorstw państwowych (Dz. 2020 1998), uwzględnieniem zmiany wprowadzonej ustawą 11 marca 2022 o obronie Ojczyzny (Dz. 655) oraz zmian wynikających przepisów ogłoszonych przed 22 czerwca 2022
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje 824 11 marca 2022 o obronie Ojczyzny (Dz. 655), który stanowi: „Art. 824. Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem:
-1) 288 2 777 4, które wchodzą życie dniem następującym po dniu ogłoszenia;
-2) 439 pkt 4, który wchodzi życie dniem stycznia 2023 r.”.
+1) 288 2 777 4, które wchodzą życie następującym po dniu ogłoszenia;
+2) 439 pkt 4, który wchodzi życie stycznia 2023 r.”.
 Marszałek Sejmu: E. Witek
 
 #### Rozdział Przepisy ogólne

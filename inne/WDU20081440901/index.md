@@ -13,7 +13,7 @@ source: "isap-pdf"
 
 # Ustawa z dnia 10 lipca 2008 r. o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego oraz o zmianie niektórych innych ustaw
 
-*USTAWA dnia 10 lipca 2008 o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego oraz o zmianie niektórych innych ustaw*
+*USTAWA dnia 10 lipca 2008 o zmianie ustawy o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa o Agencji Mienia Wojskowego o zmianie niektórych innych ustaw*
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +24,11 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-07-10 |
 | Data wydania | 2008-08-07 |
+| Wejście w życie | 2008-08-22 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081440901) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/901/text.pdf) |
 
-**Art. 1.** W ustawie dnia 30 maja 1996 o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. 2004 163, 1711, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie dnia 30 maja 1996 o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa o Agencji Mienia Wojskowego (Dz. 2004 163, 1711, późn. zm. ) wprowadza się następujące zmiany:
 
 **Art. 4f.**
 
@@ -37,7 +38,7 @@ source: "isap-pdf"
 - **2)** powiatowi - celu założenia albo rozbudowy powiatowego lotniska cywilnego użytku publicznego;
 - **3)** województwu – celu założenia albo rozbudowy regionalnego albo krajowego lotniska cywilnego użytku publicznego.
 
-2. Przekazanie, o którym mowa ust. 1, następuje na wniosek właściwej jednostki samorządu terytorialnego o przekazanie jej nieruchomości Skarbu Państwa złożony do ministra właściwego do spraw transportu. We wniosku zamieszcza się dane dotyczące wnioskującej jednostki samorządu terytorialnego nieruchomości, o otrzymanie której ubiega się jednostka samorządu terytorialnego, oraz rodzaju planowanej działalności lotniczej na tym lotnisku.
+2. Przekazanie, o którym mowa ust. 1, następuje na wniosek właściwej jednostki samorządu terytorialnego o przekazanie jej nieruchomości Skarbu Państwa złożony do ministra właściwego do spraw transportu. We wniosku zamieszcza się dane dotyczące wnioskującej jednostki samorządu terytorialnego nieruchomości, o otrzymanie której ubiega się jednostka samorządu terytorialnego, rodzaju planowanej działalności lotniczej na tym lotnisku.
 
 3. Minister właściwy do spraw transportu, terminie 14 dni od dnia otrzymania wniosku, o którym mowa ust. 2, opiniuje wniosek pod kątem jego zgodności polityką transportową kieruje go niezwłocznie do Ministra Obrony Narodowej do zaopiniowania, terminie 14 dni od dnia jego otrzymania, pod kątem potrzeb realizacji celów obronności bezpieczeństwa państwa. Minister właściwy do spraw transportu Minister Obrony Narodowej, opiniując wniosek, mogą określić opiniach warunki przekazania wykorzystania nieruchomości, o której mowa art. 4e ust. 1 pkt 1 lit. a.
 
@@ -49,11 +50,11 @@ source: "isap-pdf"
 
 7. Reprezentantem Skarbu Państwa stosunku do nieruchomości, o której mowa ust. 6, jest właściwy wojewoda. Przepisu art. 46 ust. 4 pkt 1 ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomościami (Dz. 2004 261, 2603, późn. zm. ) nie stosuje się.
 
-8. Wojewoda oraz właściwa jednostka samorządu terytorialnego zawierają umowę darowizny nie później niż terminie dwóch miesięcy od dnia dokonania przez starostę czynności, o której mowa ust. 6. Jeżeli strony nie zawarły tym terminie umowy darowizny, stosuje się art. 4g ust. 8.
+8. Wojewoda właściwa jednostka samorządu terytorialnego zawierają umowę darowizny nie później niż terminie dwóch miesięcy od dnia dokonania przez starostę czynności, o której mowa ust. 6. Jeżeli strony nie zawarły tym terminie umowy darowizny, stosuje się art. 4g ust. 8.
 
-9. W umowie darowizny określa się także cel przeznaczenie darowanej nieruchomości, warunki jej przekazania wykorzystania, szczególności wskazane opiniach, o których mowa ust. 3, oraz sposób wzajemnych rozliczeń stron przypadku odwołania darowizny. Nabycie przez jednostkę samorządu terytorialnego nieruchomości, o których mowa ust. 1, następuje wraz zobowiązaniami, które ujawnia się umowie darowizny.
+9. W umowie darowizny określa się także cel przeznaczenie darowanej nieruchomości, warunki jej przekazania wykorzystania, szczególności wskazane opiniach, o których mowa ust. 3, sposób wzajemnych rozliczeń stron przypadku odwołania darowizny. Nabycie przez jednostkę samorządu terytorialnego nieruchomości, o których mowa ust. 1, następuje wraz zobowiązaniami, które ujawnia się umowie darowizny.
 
-10. W księdze wieczystej darowanej nieruchomości dokonuje się wpisu określającego cel, na jaki nieruchomość jest darowana, jej przeznaczenie oraz warunki korzystania nieruchomości.
+10. W księdze wieczystej darowanej nieruchomości dokonuje się wpisu określającego cel, na jaki nieruchomość jest darowana, jej przeznaczenie warunki korzystania nieruchomości.
 
 11. Części lotnisk lądowisk wojskowych ujęte wykazie, o którym mowa art. 4e ust. 1 pkt 1 lit. a, niezbędne do realizacji zadań instytucji zapewniających służby ruchu lotniczego, wojewoda na wniosek tych instytucji oddaje im użytkowanie wieczyste. Przepisy ust. 1-10 stosuje się odpowiednio.
 
@@ -63,11 +64,11 @@ source: "isap-pdf"
 
 2. Dla nieruchomości zajętych pod byłe lotniska wojskowe, przekazanych właściwym jednostkom samorządu terytorialnego zgodnie art. 4f, sporządzenie miejscowego planu zagospodarowania przestrzennego jest obowiązkowe, uwzględnieniem przepisów dotyczących terenów zamkniętych.
 
-3. Koszty dokonania czynności, o których mowa art. 19 ust. 2 pkt 1 2, ponosi wnioskująca jednostka samorządu terytorialnego. W przypadku gdy koszty te poniesione wcześniej przez Skarb Państwa, jednostka ta jest zobowiązana do ich zwrotu.
+3. Koszty dokonania czynności, o których mowa art. 19 ust. 2 pkt 1 2, ponosi wnioskująca jednostka samorządu terytorialnego. W przypadku gdy koszty te zostały poniesione wcześniej przez Skarb Państwa, jednostka ta jest zobowiązana do ich zwrotu.
 
-4. Właściwa jednostka samorządu terytorialnego przekazuje 30% dochodów uzyskanych gospodarowania darowaną jej nieruchomością na zasilenie Funduszu Modernizacji Sił Zbrojnych, o którym mowa art. 11 ustawy dnia 25 maja 2001 o przebudowie modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. 76, 804, późn. zm. ).
+4. Właściwa jednostka samorządu terytorialnego przekazuje 30% dochodów uzyskanych gospodarowania darowaną jej nieruchomością na zasilenie Funduszu Modernizacji Sił Zbrojnych, o którym mowa art. 11 ustawy dnia 25 maja 2001 o przebudowie modernizacji technicznej finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. 76, 804, późn. zm. ).
 
-5. Właściwa jednostka samorządu terytorialnego jest obowiązana przedkładać ministrowi właściwemu do spraw transportu oraz Ministrowi Obrony Narodowej informacje o stanie sposobie wykorzystania darowanej nieruchomości. Informacje te przedkłada się co sześć miesięcy, przy czym pierwszą informację przedkłada się po upływie 6 miesięcy od dnia zawarcia umowy darowizny.
+5. Właściwa jednostka samorządu terytorialnego jest obowiązana przedkładać ministrowi właściwemu do spraw transportu Ministrowi Obrony Narodowej informacje o stanie sposobie wykorzystania darowanej nieruchomości. Informacje te przedkłada się co sześć miesięcy, przy czym pierwszą informację przedkłada się po upływie 6 miesięcy od dnia zawarcia umowy darowizny.
 
 6. Na wniosek ministra właściwego do spraw transportu Ministra Obrony Narodowej, uzgodniony przez ministra właściwego do spraw Skarbu Państwa, wojewoda odwołuje darowiznę, o której mowa art. 4f, przypadku niewykorzystania jej na cele określone art. 4e ust. 1, a szczególności:
 
@@ -80,7 +81,7 @@ source: "isap-pdf"
 
 8. Nieruchomości, o których mowa ust. 6 7, podlegają przekazaniu do Ministra Obrony Narodowej. O sposobie zagospodarowania tych nieruchomości rozstrzygają Minister Obrony Narodowej minister właściwy do spraw transportu.
 
-9. Przepisy ust. 2 3 oraz 5-8 stosuje się odpowiednio do instytucji zapewniającej służby ruchu lotniczego.
+9. Przepisy ust. 2 3 5-8 stosuje się odpowiednio do instytucji zapewniającej służby ruchu lotniczego.
 
 10. Do lotnisk, o których mowa art. 4e ust. 1 pkt 1 lit. b, stosuje się przepisy rozdziału 3.
 
@@ -93,7 +94,7 @@ source: "isap-pdf"
 - **3)** województwu – celu założenia albo rozbudowy regionalnego albo krajowego lotniska cywilnego użytku publicznego;
 - **4)** instytucjom zapewniającym służby ruchu lotniczego - na potrzeby realizacji ich zadań.
 
-2. Do lotnisk, o których mowa ust. 1, przepisy art. 4f ust. 2-5 710 oraz art. 4g ust. 2-6, 8 10 stosuje się odpowiednio.
+2. Do lotnisk, o których mowa ust. 1, przepisy art. 4f ust. 2-5 710 art. 4g ust. 2-6, 8 10 stosuje się odpowiednio.
 
 3. Nieruchomości przekazane właściwej jednostce samorządu terytorialnego zgodnie ust. 1 mogą być, uwzględnieniem terminu, o którym mowa ust. 1, przedmiotem najmu, dzierżawy albo jącego lub zarządzającego lotniskiem, jeżeli jednostka ta sama nie zakłada lotniska cywilnego użytku publicznego.”;
 
@@ -106,9 +107,9 @@ source: "isap-pdf"
 
 2. Lotniska wojskowe przekazane Agencji użyczenie zgodnie art. 22 mogą być przedmiotem najmu, dzierżawy lub użyczenia, co najmniej na lat 30, wyłącznie na rzecz podmiotu zakładającego lub zarządzającego lotniskiem cywilnym użytku publicznego albo instytucji zapewniającej służby ruchu lotniczego. Przepisu art. 24 nie stosuje się.”.
 
-**Art. 2.** W ustawie dnia 25 maja 2001 o przebudowie modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. 76, 804, późn. zm. ) art. 11 ust. 3 dodaje się pkt 5 6 brzmieniu: „5) przychody, o których mowa art. 4g ust. 4 art. 4h ust. 2 ustawy wymienionej pkt 3,
+**Art. 2.** W ustawie dnia 25 maja 2001 o przebudowie modernizacji technicznej finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. 76, 804, późn. zm. ) art. 11 ust. 3 dodaje się pkt 5 6 brzmieniu: „5) przychody, o których mowa art. 4g ust. 4 art. 4h ust. 2 ustawy wymienionej pkt 3,
 
-**Art. 3.** W ustawie dnia 3 lipca 2002 - Prawo lotnicze (Dz.U. 100, 696, późn. zm. ) art. 54 dodaje się ust. 4 brzmieniu: „4. Z uwagi na rolę, polityce rozwoju kraju, wyróżnia się lotniska lokalne (gminne, powiatowe) oraz ponadlokalne (regionalne, krajowe).”.
+**Art. 3.** W ustawie dnia 3 lipca 2002 - Prawo lotnicze (Dz.U. 100, 696, późn. zm. ) art. 54 dodaje się ust. 4 brzmieniu: „4. Z uwagi na rolę, polityce rozwoju kraju, wyróżnia się lotniska lokalne (gminne, powiatowe) ponadlokalne (regionalne, krajowe).”.
 
 **Art. 4.**
 
@@ -126,7 +127,7 @@ source: "isap-pdf"
 
 5. Na wniosek instytucji zapewniających służby ruchu lotniczego, Agencja Mienia Wojskowego przekazuje niezwłocznie wojewodzie, a wojewoda przekazuje przejętą nieruchomość tym instytucjom użytkowanie wieczyste. Przepisy art. 4f art. 4g ust. 1-3 5-9 ustawy zmienianej art. 1, stosuje się odpowiednio.
 
-6. Właściwa jednostka samorządu terytorialnego przekazuje 30% dochodów uzyskanych gospodarowania darowaną jej nieruchomością, o której mowa ust. 3 4, na zasilenie Funduszu Modernizacji Sił Zbrojnych, o którym mowa art. 11 ustawy dnia 25 maja 2001 o przebudowie modernizacji technicznej oraz finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
+6. Właściwa jednostka samorządu terytorialnego przekazuje 30% dochodów uzyskanych gospodarowania darowaną jej nieruchomością, o której mowa ust. 3 4, na zasilenie Funduszu Modernizacji Sił Zbrojnych, o którym mowa art. 11 ustawy dnia 25 maja 2001 o przebudowie modernizacji technicznej finansowaniu Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 **Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 

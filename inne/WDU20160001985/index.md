@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2016-12-01 |
 | Data wydania | 2016-12-08 |
+| Wejście w życie | 2016-12-09 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1985/text.pdf) |
 
@@ -29,7 +30,7 @@ source: "isap-pdf"
 
 **Art. 2.** W ustawie dnia 7 września 1991 r. systemie oświaty (Dz. U. 2016 r. poz. 1943 i 1954) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 13 czerwca 2013 r. zmianie ustawy systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827, 2014 r. poz. 7 i 811, 2015 r. poz. 357 oraz 2016 r. poz. 35) art. 16 1 otrzymuje brzmienie: „1. Ustala się następujący maksymalny limit wydatków budżetu państwa przeznaczonych na dotację celową na dofinansowanie zadań gmin zakresie przedszkolnego dzieci 5:
+**Art. 3.** W ustawie dnia 13 czerwca 2013 r. zmianie ustawy systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 827, 2014 r. poz. 7 i 811, 2015 r. poz. 357 oraz 2016 r. poz. 35) art. 16 1 „1. Ustala się następujący maksymalny limit wydatków budżetu państwa przeznaczonych dotację celową dofinansowanie zadań gmin zakresie przedszkolnego dzieci 5:
 
 **Art. 4.** W ustawie dnia 23 czerwca 2016 r. zmianie ustawy systemie oświaty oraz niektórych innych ustaw (Dz. U. poz. 1010) art. 1:
 

@@ -22,22 +22,23 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2019-07-19 |
 | Data wydania | 2019-08-26 |
+| Wejście w życie | 2019-10-27 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001608) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1608/text.pdf) |
 
 1) 7 ust. 1 pkt 7 „7) zasady etyki zawodowej policjantów, po zasięgnięciu opinii związków zawodowych;”;
 2) 43:
 a) ust. 3 „3. Zwolnienie policjanta ze służby podstawie 41 ust. 2 pkt 5 i 8 nastąpić po zasięgnięciu opinii zakładowej organizacji związkowej reprezentującej policjanta.”,
-b) dodaje się ust. 4–6 brzmieniu: „4. Policjant wskazać zakładową organizację związkową, ust. 3, terminie 3 dni od doręczenia wezwania wskazania takiej organizacji.
-5. Zakładowa organizacja związkowa, ust. 3, sporządza opinię terminie 7 dni od otrzymania wniosku sporządzenie opinii.
-6. W przypadku, gdy policjant terminie, którym ust. 4, nie wskazał zakładowej organizacji związkowej albo zakładowa organizacja związkowa terminie, którym ust. 5, nie przekazała opinii, zwolnienie policjanta ze służby nastąpić bez zasięgnięcia opinii zakładowej organizacji związkowej.”;
+b) dodaje się ust. 4–6 brzmieniu: „4. Policjant wskazać zakładową organizację związkową, mowa ust. 3, terminie 3 dni od doręczenia wezwania wskazania takiej organizacji.
+5. Zakładowa organizacja związkowa, mowa ust. 3, sporządza opinię terminie 7 dni od otrzymania wniosku sporządzenie opinii.
+6. W przypadku, gdy policjant terminie, mowa ust. 4, nie wskazał zakładowej organizacji związkowej albo zakładowa organizacja związkowa terminie, mowa ust. 5, nie przekazała opinii, zwolnienie policjanta ze służby nastąpić bez zasięgnięcia opinii zakładowej organizacji związkowej.”;
 3) 67 „Art. 67. Policjanci mogą zrzeszać się zawodowych, tym że nie przysługuje im prawo do strajku.
 2. Przepisy zawodowych (Dz. U. 2019 poz. 263) stosuje się odpowiednio, tym że:
 1) określone przepisach prawa uprawnienia sprawach indywidualnych przysługują zakładowej organizacji związkowej, jeżeli jej członkiem jest co najmniej jeden policjant inny niż ten, którego danej reprezentuje zakładowa organizacja związkowa;
-2) uprawnienie, którym 19 zawodowych, przysługuje związkowi zawodowemu, którego terytorialny zakres działania obejmuje co najmniej obszar terytorialnego działania komendanta wojewódzkiego Policji;
+2) uprawnienie, mowa 19 zawodowych, przysługuje związkowi zawodowemu, którego terytorialny zakres działania obejmuje co najmniej obszar terytorialnego działania komendanta wojewódzkiego Policji;
 3) policjant być członkiem międzyzakładowej organizacji związkowej, zakresem działania objęte są wyłącznie jednostki organizacyjne Policji.
-3. W przypadku realizacji określonych przepisach prawa uprawnień sprawach indywidualnych zakładowa organizacja związkowa niezwłocznie informuje właściwego komendanta Policji spełnieniu warunku, którym ust. 2 pkt
-4. Związek zawodowy, którym ust. 2 pkt 2, mający zamiar korzystać uprawnienia, którym 19 zawodowych, informuje tym zamiarze Komendanta Głównego Policji.
+3. W przypadku realizacji określonych przepisach prawa uprawnień sprawach indywidualnych zakładowa organizacja związkowa niezwłocznie informuje właściwego komendanta Policji spełnieniu warunku, mowa ust. 2 pkt
+4. Związek zawodowy, mowa ust. 2 pkt 2, mający zamiar korzystać uprawnienia, mowa 19 zawodowych, informuje tym zamiarze Komendanta Głównego Policji.
 5. Szczegółowe zasady współdziałania zawodowego ministrem właściwym do spraw wewnętrznych, Komendantem Głównym Policji oraz właściwymi komendantami Policji określa statut tego zarejestrowany sądzie lub porozumienie zawarte ministrem właściwym do spraw wewnętrznych lub właściwym komendantem Policji.
 6. Policjant pełniący służbę stanowisku, dla którego ustawa przewiduje powołanie, a także policjant mianowany stanowisko dyrektora komórki organizacyjnej, zastępcy dyrektora komórki organizacyjnej albo naczelnika, „9. W przypadku zamiaru wymierzenia kary wydalenia ze służby Policji przełożony dyscyplinarny, przed wydaniem orzeczenia dyscyplinarnego, wzywa obwinionego do raportu celu wysłuchania go. W raporcie uczestniczy rzecznik dyscyplinarny. O terminie raportu należy zawiadomić wskazaną przez obwinionego, terminie 3 dni od doręczenia wezwania sprawie, zakładową organizację związkową. Przedstawiciel zakładowej organizacji związkowej będący policjantem uczestniczyć raporcie, chyba że obwiniony nie wyrazi to zgody. Obwinionemu oraz zakładowej organizacji związkowej, przypadku gdy obwiniony wyraził zgodę udział jej przedstawiciela raporcie, doręcza się sprawozdanie terminie umożliwiającym zapoznanie się nim przed raportem.”;
 6) 135m ust. 2 i 3 otrzymują „2. Komisja składa się trzech oficerów służbie stałej, których dwóch wyznacza wyższy przełożony dyscyplinarny, a jednego wskazana przez obwinionego zakładowa organizacja związkowa.

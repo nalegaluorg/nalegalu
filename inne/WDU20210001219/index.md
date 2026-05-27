@@ -34,10 +34,10 @@ poz. 1884),
 Podany załączniku niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) 2–4 ustawy dnia 11 września 2015 r. zmianie ustawy europejskim ugrupowaniu współpracy terytorialnej (Dz. U. poz. 1884), które stanowią: „Art. 1. Minister właściwy spraw zagranicznych dostosuje dokonane przed dniem wejścia życie niniejszej ustawy wpisy Rejestrze Europejskich Ugrupowań Współpracy Terytorialnej zakresu danych podlegających wpisowi, którym 9a ust. ustawy zmienianej 1, terminie trzech miesięcy od dnia jej wejścia życie.
 Europejskie współpracy terytorialnej wpisane przed dniem wejścia życie niniejszej ustawy Rejestru Europejskich Ugrupowań Współpracy Terytorialnej przekażą ministrowi właściwemu spraw zagranicznych, na jego wezwanie i terminie nim określonym, nie krótszym niż 14 dni, informacje i dokumenty niezbędne dostosowania wpisów zgodnie ust. 1.
-3. Do postępowań sprawie wpisu Rejestru Europejskich Ugrupowań Współpracy Terytorialnej, wszczętych i niezakończonych przed dniem wejścia życie niniejszej stosuje się przepisy ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą.
-4. W przypadku gdy zgłoszenie europejskiego współpracy terytorialnej Rejestru Europejskich Ugrupowań Współpracy Terytorialnej postępowaniu, którym ust. 3, nie spełnia wymagań określonych przepisami ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, minister właściwy spraw zagranicznych wzywa wnioskodawcę uzupełnienia zgłoszenia terminie wyznaczonym wezwaniu, nie krótszym niż 14 dni. Zgłoszenie nieuzupełnione terminie pozostawia się bez rozpatrzenia.
+3. Do postępowań sprawie wpisu Rejestru Europejskich Ugrupowań Współpracy Terytorialnej, wszczętych i niezakończonych przed dniem wejścia życie niniejszej stosuje się przepisy ustawy zmienianej 1, nadanym niniejszą ustawą.
+4. W przypadku gdy zgłoszenie europejskiego współpracy terytorialnej Rejestru Europejskich Ugrupowań Współpracy Terytorialnej postępowaniu, którym ust. 3, nie spełnia wymagań określonych przepisami ustawy zmienianej 1, nadanym niniejszą ustawą, minister właściwy spraw zagranicznych wzywa wnioskodawcę uzupełnienia zgłoszenia terminie wyznaczonym wezwaniu, nie krótszym niż 14 dni. Zgłoszenie nieuzupełnione terminie pozostawia się bez rozpatrzenia.
 
-**Art. 3.** Do spraw wszczętych i niezakończonych przed dniem wejścia życie niniejszej których 21 ustawy zmienianej 1, brzmieniu dotychczasowym, stosuje się przepisy dotychczasowe.
+**Art. 3.** Do spraw wszczętych i niezakończonych przed dniem wejścia życie niniejszej których 21 ustawy zmienianej 1, dotychczasowym, stosuje się przepisy dotychczasowe.
 
 **Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.”;
 

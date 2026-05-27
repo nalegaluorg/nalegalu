@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-11-28 |
 | Data wydania | 2014-12-08 |
-| Ostatnia zmiana | 2026-03-31 |
+| Wejście w życie | 2015-03-01 |
+| Ostatnia zmiana | 2026-05-22 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140001741) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/1741/text.pdf) |
 
 Art. 114–123. (pominięte)

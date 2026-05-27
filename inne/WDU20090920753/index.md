@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2009-01-23 |
 | Data wydania | 2009-06-16 |
+| Wejście w życie | 2009-08-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090920753) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/753/text.pdf) |
 

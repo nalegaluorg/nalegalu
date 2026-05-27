@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2005-11-09 |
 | Data wydania | 2005-11-30 |
+| Wejście w życie | 2005-11-30 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052331993) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1993/text.pdf) |
 

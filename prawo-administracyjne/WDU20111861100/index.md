@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy – Kodeks postępowania administracyjnego ustawy – Ordynacja podatkowa
+# o zmianie ustawy – Kodeks postępowania administracyjnego oraz ustawy – Ordynacja podatkowa
 
 | Pole | Wartość |
 |---|---|
@@ -22,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-07-15 |
 | Data wydania | 2011-09-06 |
+| Wejście w życie | 2012-03-07 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111861100) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1100/text.pdf) |
 

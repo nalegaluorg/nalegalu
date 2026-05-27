@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-02-10 |
 | Data wydania | 2017-04-03 |
+| Wejście w życie | 2017-04-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170000715) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/715/text.pdf) |
 
@@ -33,7 +34,7 @@ source: "isap-pdf"
 
 **Art. 3.** W ustawie dnia 10 grudnia 1993 r. zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. 2016 r. poz. 1037 i 2138) art. 32 otrzymuje brzmienie: „Art. 32. 1. Decyzja organu emerytalnego ustalająca prawo do zaopatrzenia emerytalnego wysokość świadczeń pieniężnych tytułu tego zaopatrzenia ulega uchyleniu zmianie na wniosek osoby zainteresowanej urzędu, jeżeli:
 
-**Art. 4.** W ustawie dnia 18 lutego 1994 r. zaopatrzeniu emerytalnym funkcjonariuszy Policji, BezpieczeńBiura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Więziennej oraz ich rodzin (Dz. U. 2016 r. poz. 708 i 2270 oraz 2017 r. poz. 38) art. 33 otrzymuje brzmienie: „Art. 33. 1. Decyzja organu emerytalnego ustalająca prawo do zaopatrzenia emerytalnego wysokość świadczeń pieniężnych tytułu tego zaopatrzenia ulega uchyleniu zmianie na wniosek osoby zainteresowanej urzędu, jeżeli:
+**Art. 4.** W ustawie dnia 18 lutego 1994 r. zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji BezpieczeńBiura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Więziennej oraz ich rodzin (Dz. U. 2016 r. poz. 708 i 2270 oraz 2017 r. poz. 38) art. 33 otrzymuje brzmienie: „Art. 33. 1. Decyzja organu emerytalnego ustalająca prawo do zaopatrzenia emerytalnego wysokość świadczeń pieniężnych tytułu tego zaopatrzenia ulega uchyleniu zmianie na wniosek osoby zainteresowanej urzędu, jeżeli:
 
 **Art. 5.** Do postępowań niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustaw, których art. 1–4, brzmieniu nadanym niniejszą ustawą.
 

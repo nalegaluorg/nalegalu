@@ -24,7 +24,8 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2015-08-05 |
 | Data wydania | 2015-09-10 |
-| Ostatnia zmiana | 2026-03-10 |
+| Wejście w życie | 2015-10-11 |
+| Ostatnia zmiana | 2026-05-20 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150001348) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/1348/text.pdf) |
 
 Art. 44–53. (pominięte)
